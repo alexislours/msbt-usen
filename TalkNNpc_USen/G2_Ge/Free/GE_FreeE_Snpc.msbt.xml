@@ -35,15 +35,10 @@ haven't, you have got to GO! <10_4 />NOW!</message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I heard <colour id="3" />Daisy Mae <colour id="65535" />is here today!<pageBreak />She has le amazing turnip-growing
 skills and is so fun to chat with.
 <anim id="HappyDance" target="actor" targetSpec="" />I'm always so happy to see her!</message>
-	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Don't freak out,<delay40 /><anim id="Worried" target="actor" targetSpec="" /> but there is a cloud
-of black smoke hanging over the
-northern shore of the island.
-<anim id="Shaking" target="actor" targetSpec="" />It's très ominous.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />Anyway, whoever's boat is giving off
-that smoke needs to call a boat
-mechanic<tag a="110" b="0" /><delay40 />like,<delay20 /> yesterday.
-<anim id="Explain" target="actor" targetSpec="" />If you're in the mood to see
-something suspicious, yet intriguing,<delay40 /><anim id="Eh" target="actor" targetSpec="" />
-go check it out, <tag a="110" b="5" />.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Don't freak out,<delay8 /> but I heard there's
+a sketchy ship on the north shore.<pageBreak /><anim id="Confused" target="actor" targetSpec="" />It's, like,<delay8 /> suspicious, but also
+intriguing!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Oh, who am I kidding.<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />I LOVE that sort of thing.</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />This is going to sound kind of crazy<tag a="110" b="0" /><delay20 />
 but I can feel, like,<delay8 /> this presence<tag a="110" b="0" /><delay40 />
 <anim id="Shaking" target="actor" targetSpec="" />It's totally spooky business<tag a="110" b="0" /><delay frames="40" />
@@ -113,6 +108,11 @@ time to spend with him.<delay20 /><anim id="FaintSmile" target="actor" targetSpe
 familiar with the word "ASAP."
 <anim id="Blushing" target="actor" targetSpec="" />Even though I said it to him, like,<delay20 />
 a trillion times.</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Someone is totes conked out on the
+shore right now, and I THOUGHT
+it was someone I knew<tag a="110" b="0" />
+<anim id="Negative" target="actor" targetSpec="" />But, <tag a="110" b="5" />,<delay8 /> the vibe is
+kinda<tag a="110" b="0" /><delay20 /><anim id="OhGeez" target="actor" targetSpec="" /><delay8 />off.</message>
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />I just saw that somebody is visiting
 our island! <delay20 /><anim id="Laughing" target="actor" targetSpec="" />I think we're a tourist
 destination now, <tag a="110" b="6" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I didn't say hi, though, because I was

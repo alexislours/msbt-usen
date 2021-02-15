@@ -71,30 +71,30 @@ with you to a deserted island,<delay20 />
 	<message label="024" attrib="00 00 00"><anim id="Thinking" target="actor" targetSpec="" />How interesting<tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay frames="40" /> <anim id="Blushing" target="actor" targetSpec="" />I'm sorry, that was just a
 hypothetical question.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Nook Inc. will fully cover all of your
 basic needs! <delay20 /><anim id="Nodding" target="subNpc" targetSpec="" />Yes, yes!</message>
-	<message label="025" attrib="00 00 1c"><tag a="100" b="7" />Your attention, please.<delay frames="40" />
+	<message label="025" attrib="00 00 1d"><tag a="100" b="7" />Your attention, please.<delay frames="40" />
 <anim id="Eh" target="mainNpc" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />This is a service announcement.<endTag a="100" b="7" /><10_8 arg="60" /></message>
-	<message label="025_01" attrib="00 00 1c"><tag a="100" b="7" />The chartered flight for Nook Inc.'s
+	<message label="025_01" attrib="00 00 1d"><tag a="100" b="7" />The chartered flight for Nook Inc.'s
 Deserted Island Getaway Package<delay frames="40" />
 is ready for boarding.<pageBreak />Any customers waiting to
 board<delay frames="40" /> should make their way
 to the gate<delay20 /> at this time.<endTag a="100" b="7" /></message>
-	<message label="025_02" attrib="00 00 1c"><tag a="100" b="7" />The chartered flight<delay8 /> to
+	<message label="025_02" attrib="00 00 1d"><tag a="100" b="7" />The chartered flight<delay8 /> to
 <tag a="110" b="8" /><delay frames="40" /> is ready
 for boarding.<pageBreak />Any customers wanting to board<delay frames="40" />
 should make their way to the gate<delay20 />
 at this time.<endTag a="100" b="7" /></message>
 	<message label="026" attrib="00 00 00"><anim id="Cheering" target="mainNpc" targetSpec="" /><anim id="Cheering" target="subNpc" targetSpec="" />Ah, perfect timing! <delay frames="40" />C'mon!<delay20 /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /> Let's all
 board the plane together! <delay20 /><anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><size value="75" />...together!<size value="100" /><endTag a="100" b="4" /></message>
-	<message label="027_01" attrib="00 00 1f"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Good morning, everyone.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
-	<message label="027_02" attrib="00 00 1f"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Hello, everyone.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
-	<message label="027_03" attrib="00 00 1f"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Good evening, everyone.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
-	<message label="028" attrib="00 00 1f"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Thank you for taking this chartered
+	<message label="027_01" attrib="00 00 20"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Good morning, everyone.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
+	<message label="027_02" attrib="00 00 20"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Hello, everyone.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
+	<message label="027_03" attrib="00 00 20"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Good evening, everyone.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
+	<message label="028" attrib="00 00 20"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Thank you for taking this chartered
 flight as part of Nook Inc.'s Deserted
 Island Getaway Package.
 Please sit back, relax, and enjoy a
 complimentary video presentation
 about deserted-island life.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
-	<message label="028_01" attrib="00 00 1f"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Thank you for taking this chartered
+	<message label="028_01" attrib="00 00 20"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Thank you for taking this chartered
 flight to <tag a="110" b="8" />.<pageBreak />Please sit back, relax, and enjoy a
 free video about Nook Inc.'s
 Deserted Island Getaway Package.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>

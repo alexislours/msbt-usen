@@ -6,7 +6,7 @@ Drowsy in the daytime.
 <anim id="Eh" target="actor" targetSpec="" />Ah! But more importantly<tag a="110" b="0" /></message>
 	<message label="003" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Oh dear. <delay8 />Pardon me<tag a="110" b="0" /></message>
 	<message label="004" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Good morning, <delay frames="13" /><tag a="110" b="1" />!</message>
-	<message label="005" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Why hello,<delay frames="13" /> <tag a="110" b="1" />!</message>
+	<message label="005" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Why, hello,<delay frames="13" /> <tag a="110" b="1" />!</message>
 	<message label="006" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Good evening, <delay frames="13" /><tag a="110" b="1" />!</message>
 	<message label="007" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Happy New Year, <delay frames="13" /><tag a="110" b="1" />!</message>
 	<message label="008" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Welcome to the <tag a="10" b="13" /><colour id="1" /><capitaliseNextWord /><tag a="110" b="8" /><colour id="65535" /><endTag a="10" b="13" />
@@ -285,6 +285,15 @@ origin,<delay frames="13" /><anim id="Smiling" target="actor" targetSpec="" /> p
 a look.</message>
 	<message label="145" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />If you acquire any of these items,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />
 please do consider donating them.</message>
+	<message label="149" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We are currently accepting <colour id="1" />bugs<colour id="65535" />,<delay8 />
+<colour id="1" />fish<colour id="65535" />, <delay8 /><colour id="1" />sea creatures<colour id="65535" />, <delay8 />and properly
+assessed <colour id="1" />fossils<colour id="65535" /><tag a="110" b="0" /></message>
+	<message label="150" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We accept donations of <colour id="1" />bugs<colour id="65535" />,<delay8 /> <colour id="1" />fish<colour id="65535" />,<delay8 />
+<colour id="1" />sea creatures<colour id="65535" />, <delay8 />and officially
+assessed <colour id="1" />fossils<colour id="65535" /><tag a="110" b="0" /></message>
+	<message label="151" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We accept donations of <colour id="1" />bugs<colour id="65535" />,<delay8 /> <colour id="1" />fish<colour id="65535" />,<delay8 />
+<colour id="1" />sea creatures<colour id="65535" />, <delay8 />properly assessed
+<colour id="1" />fossils<colour id="65535" />, and <colour id="1" />works of art<colour id="65535" /><tag a="110" b="0" /></message>
 	<message label="201" attrib="00 00 00 00">Alas,<delay frames="13" /><anim id="Negative" target="actor" targetSpec="" /> you have no unknown fossils
 for me to inspect.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Not to worry, <delay frames="13" />you can bring me a
 fossil <delay frames="13" />any<anim id="Grin" target="actor" targetSpec="" /><tag a="110" b="0" /><delay frames="13" />OLD<tag a="110" b="0" /><delay frames="13" />time.<delay frames="45" /><anim id="Laughing" target="actor" targetSpec="" /> Hoo hoo!
@@ -563,15 +572,28 @@ was but a<tag a="110" b="0" />bare-bones collection<tag a="110" b="0" /><pageBre
 humor for you there.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Ahem. <delay frames="13" />Yes.<delay frames="13" /> That is to say<tag a="110" b="0" /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" />THANK YOU for your commitment to
 collecting and donating fossils.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Our humble museum's reputation is
 growing because of you.</message>
-	<message label="406" attrib="00 00 00 00">Hoo hoo! Oh my<tag a="110" b="0" /><pageBreak />This is the final piece we need for
-our art collection! Our art gallery
-is now complete!
-And you, <tag a="110" b="1" />, you are
-the very definition of a patron
-of the arts. I salute you!
-Thank you for your efforts in helping
-us put together such a fine collection
-of artwork. Well done! Hoo hoo!</message>
+	<message label="406" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Hoo hoo! <delay8 />Hoorah!<delay8 /> Oh, happy day!<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />This is the final piece we needed to
+make our art collection complete!
+<anim id="Explain" target="actor" targetSpec="" />The island's art gallery is filled to
+the brim with the very finest works
+of art.
+<anim id="Love" target="actor" targetSpec="" />And the heart of your humble
+curator is filled to overflowing
+with gratitude.
+<anim id="Greeting" target="actor" targetSpec="" />You, <delay8 /><tag a="110" b="1" />,<delay8 /> YOU are a
+true patron of the arts.<delay20 /><anim id="Clapping" target="actor" targetSpec="" />
+And I salute you!<delay frames="50" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="410" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Wot wot?!<delay8 /> Is it truly true? <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />With this
+donation, our sea-creature collection
+is now complete?!
+<anim id="Cheering" target="actor" targetSpec="" />Hoot!<delay20 /> Huzzah, I say! <delay20 />Hoooooray!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />And most importantly<tag a="110" b="0" /><anim id="BigSmile" target="actor" targetSpec="" />THANK YOU!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />What a win it is to have the ocean's
+many splendored wonders here
+for all to gaze upon.
+<anim id="Love" target="actor" targetSpec="" />I say, <delay8 />your hard work is well and
+truly appreciated.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />And we are
+forever in your debt.</message>
 	<message label="501" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Our noble institution displays relics,
 rare items, and masterpieces from
 a variety of disciplines.

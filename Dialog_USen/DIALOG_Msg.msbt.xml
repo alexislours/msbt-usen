@@ -94,6 +94,7 @@ switch into them using a <colour id="1" />wand<colour id="65535" />.<pageBreak /
 transformation, rather than actually
 changing your clothes.<pageBreak />What you're wearing underneath the
 transformation will not change.<colour id="65535" /></message>
+	<message label="0505" attrib="01 00">You can't change with a wet suit on.</message>
 	<message label="0551" attrib="01 09">You're not wearing anything that can
 be part of an outfit!</message>
 	<message label="0552" attrib="01 09">This outfit can't fit in your storage
@@ -1017,6 +1018,10 @@ and looking great while you do it!
 Have fun collecting the whole set and
 then designing your home interior!
 <colour id="0" />Items will be delivered by mail.<colour id="65535" /></message>
+	<message label="3021" attrib="01 00">A custom-designed <colour id="1" />wet suit<colour id="65535" /> from
+Nook Inc. Allows the user to swim
+and dive freely in the ocean.
+<colour id="0" />Item will be delivered by mail.<colour id="65535" /></message>
 	<message label="5001" attrib="01 00"><colour id="1" />Camera<colour id="65535" />
 Take pictures using various
 filters and effects.<pageBreak /><colour id="0" />The pictures will be saved to the
@@ -1041,6 +1046,14 @@ amazing opportunity!</message>
 	<message label="5021" attrib="01 00"><colour id="1" />Critterpedia<colour id="65535" />
 Check this app for information on
 the bugs and fish you've caught.</message>
+	<message label="5022" attrib="01 00"><colour id="1" />Critterpedia<colour id="65535" />
+Check this app for information on
+the bugs, fish, and sea creatures
+you've caught.</message>
+	<message label="5023" attrib="01 00"><colour id="1" />Critterpedia<colour id="65535" />
+Your app has been upgraded with
+additional information about the
+sea creatures you've captured!</message>
 	<message label="5031" attrib="01 00"><colour id="1" />DIY Recipes<colour id="65535" />
 Check this app for info on the
 DIY Recipes you've collected.<pageBreak />You can also register frequently
@@ -1432,15 +1445,28 @@ reinitialized if you start playing again.
 Do you want to start playing again?</message>
 	<message label="8016_a" attrib="01 00">No</message>
 	<message label="8016_b" attrib="01 00">Yes</message>
-	<message label="8017" attrib="08 00">This user does not have a Nintendo
-Account linked, or this user needs to
-sign into their Nintendo Account
-again.<pageBreak />Any features that use the internet,
-like the Best Friends List, will be
-reinitialized if you start playing again.<pageBreak />Do you want to start playing again
-and reinitialize all features that use
-the internet?</message>
+	<message label="8017" attrib="08 00">The link between this user account
+and a valid Nintendo Account needs
+to be verified via the internet.<pageBreak />If you begin playing before verifying,
+all features that use the internet—
+including the Best Friends List—will
+be reinitialized.<pageBreak />Do you want to reinitialize all
+features that use the internet
+and begin playing?</message>
 	<message label="8017_a" attrib="01 00">No</message>
 	<message label="8017_b" attrib="01 00">Yes</message>
+	<message label="8018" attrib="01 00">The link between this user account
+and a valid Nintendo Account needs
+to be verified via the internet.<pageBreak />You will now have a chance to
+connect to the internet to complete
+this process.</message>
+	<message label="8018_a" attrib="01 00">Close</message>
+	<message label="8020" attrib="08 00">The link between this user account
+and a valid Nintendo Account needs
+to be verified via the internet.<pageBreak />You will now have a chance to
+connect to the internet to complete
+this process.</message>
+	<message label="8020_a" attrib="01 00">No</message>
+	<message label="8020_b" attrib="01 00">Close</message>
 	<message label="8019" attrib="01 00">Starting game again.</message>
 </msbt>

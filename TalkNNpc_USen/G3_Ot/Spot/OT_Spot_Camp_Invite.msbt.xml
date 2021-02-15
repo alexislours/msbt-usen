@@ -88,12 +88,8 @@ Really I do.<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> But
 mind, do come chat with me.</message>
 	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Really? <delay frames="13" />You won't even give it a try?<delay20 />
 <anim id="OhGeez" target="actor" targetSpec="" />Well then, <delay frames="13" />I won't force the issue.</message>
-	<message label="203_01" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Very good!<delay frames="13" /> Very good!<delay20 />
-<anim id="Smiling" target="actor" targetSpec="" />In that case, <delay frames="13" />let's get this
-game underway.
-<anim id="Hello" target="actor" targetSpec="" />Here's what I'll do<tag a="110" b="0" /><delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />I'll draw a card<delay frames="13" />
-<anim id="FaintSmile" target="actor" targetSpec="" />and you'll then have to guess
-something about it.</message>
+	<message label="203_01" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Very good!<delay frames="13" /> Very good!<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />In that case,
+<delay frames="13" />let's get this game underway.</message>
 	<message label="204" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="204_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />And that means I win!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> So very sorry
 about that.</message>
@@ -243,6 +239,16 @@ is,<delay20 /><anim id="SmugFace" target="actor" targetSpec="" /> and I am meant
 <anim id="Greeting" target="actor" targetSpec="" />So get ready, <tag a="110" b="3" />.<delay20 />
 This <tag a="110" b="15" /><delay frames="13" /><anim id="EmotEnd" target="actor" targetSpec="" /> is about
 to be your neighbor!</message>
+	<message label="309_01" attrib="00 00 00 00 00 00 00 00">So, I went to the house,<delay8 /> <anim id="Negative" target="actor" targetSpec="" />but nobody
+was there.<delay40 /> <anim id="Eh" target="actor" targetSpec="" />It would appear they've
+already moved, if you can believe it!
+<anim id="BigSmile" target="actor" targetSpec="" />How lucky am I?<10_4 /> <anim id="Explain" target="actor" targetSpec="" />Anyhoo, darling,<delay8 />
+all the i's are dotted and the t's
+are crossed.
+<anim id="Nodding" target="actor" targetSpec="" />That means I can start preparing
+to move here right away<tag a="110" b="0" /><pageBreak />And you, <tag a="110" b="3" />, <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />you can
+start preparing to make me
+feel welcome, <tag a="110" b="6" />.</message>
 	<message label="310" attrib="00 00 01 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Is something wrong?<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Is there no one
 we can turn to?</message>
 	<message label="310_a" attrib="00 00 00 00 00 00 00 00">That's not it.</message>

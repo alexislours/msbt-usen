@@ -44,17 +44,21 @@ did you wanna be?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Well THAT was outta the blue!<delay frames="40" />
 <anim id="Thinking" target="actor" targetSpec="" />Hmm, <tag a="110" b="5" /><tag a="110" b="0" /><delay20 /> Let me
 think now<tag a="110" b="0" /></message>
-	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Y'know,<delay frames="40" /> I really wanted to be a cop.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Tellin' folks to get off not just MY
-lawn,<delay20 /> but the lawns of others?<delay20 /> That
-sounds downright magical.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Maybe you ain't seen, but I go on
-patrol most nights.<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />I'm doin' my part
-to keep <tag a="110" b="8" /> safe!<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
-	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />That's YOU flexing those finger-wag
-muscles in the dark?<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />Awesome!<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Hey,<delay20 /> we should totally tag team it!<pageBreak />We could be<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd00" /> and
-<tag a="110" b="31" arg="0xcd01" />:<delay20 /> Buddy Cops of
-<tag a="110" b="8" />, <tag a="110" b="5" />!</message>
-	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Now THAT'S a neighborly gesture,
-<tag a="110" b="5" />.<delay frames="40" /> Well, alright<tag a="110" b="0" /><delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />partner!<anim id="SmugFace" target="mainNpc" targetSpec="" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Y'know,<delay20 /> it may sound strange, but I
+really wanted to be a groundskeeper.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Tellin' folks to get off not just MY
+lawn, but the lawns of others too?<delay20 />
+That sounds downright magical.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Plus, <delay8 />have you ever basked in the
+majesty of a perfectly kempt lawn
+before?<delay frames="30" /> <anim id="Love" target="actor" targetSpec="" />It's really quite somethin'!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I think I might've, uh<tag a="110" b="0" /><delay8 />jogged
+through a few before.<anim id="Shocked" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Those're the ones with signs that
+start <delay8 />"Keep of the,"<delay8 /> right?<delay frames="30" /> <anim id="Negative" target="actor" targetSpec="" />I always
+run too fast to read the rest.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />Grass!<delay20 /> They say "Keep off the Grass,"
+you musclehead!<anim id="Restless" target="mainNpc" targetSpec="" /><delay20 /> <anim id="SadSpiral" target="actor" targetSpec="" />And there you went
+tramplin' all over it, <tag a="110" b="6" /><tag a="110" b="0" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Know what?<delay20 /> Let's build us a perfect
+lawn together.<delay20 /> <anim id="Scheming" target="actor" targetSpec="" />You'll love it. <delay20 />There's
+LOTS<delay8 /> of heavy liftin' involved.<anim id="Aha" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
 	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Y'know, <delay20 />like a lot of scamps, I wanted
 to be an astronaut.<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Couldn't handle
 the math though<tag a="110" b="0" /><pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />But just imagine it!<delay20 /> Soarin' over the

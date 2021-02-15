@@ -6,14 +6,13 @@ not a good time.
 meandering around<tag a="110" b="0" /> <anim id="Angry" target="actor" targetSpec="" />Don't ask
 questions!</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I'm right in the middle of a treasure
-hunt with <tag a="110" b="3" /> right
-now, you know.
-<anim id="Worried" target="actor" targetSpec="" />And after you came all this way to
+hunt with <tag a="110" b="16" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />And after you came all this way to
 see me!<delay20 /> Sorry about that.</message>
-	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Did you need something right
-now, <tag a="110" b="3" />?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />It was a rhetorical question—I'm in
-the middle of a crazy intense
-treasure hunt right now!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Did you need something right now?<delay20 />
+<anim id="Shocked" target="actor" targetSpec="" />Wait. <delay8 />Don't answer that.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'm in the middle of a crazy-intense
+treasure hunt with the one-and-only
+<tag a="110" b="16" /> right now!
+<anim id="Hello" target="actor" targetSpec="" />Let's chat later, 'K?</message>
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I promise that the treasure is buried
 somewhere on <tag a="110" b="8" />.<delay frames="40" />
 <anim id="Grin" target="actor" targetSpec="" />That's it!<delay8 /> No more hints!</message>

@@ -1,468 +1,470 @@
 <msbt attribsize="3">
-	<message label="001" attrib="02 00 17">...Huh?<delay frames="20" /> My pockets are full already!<delay frames="30" />
+	<message label="001" attrib="02 00 18">...Huh?<delay frames="20" /> My pockets are full already!<delay frames="30" />
 Should I swap it with something?</message>
 	<message label="001_a" attrib="00 00 00">Swap it!</message>
 	<message label="001_b" attrib="00 00 00">Drop it!</message>
-	<message label="002" attrib="00 00 17">Look!<delay frames="5" /> I dug up
+	<message label="002" attrib="00 00 18">Look!<delay frames="5" /> I dug up
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
-	<message label="003" attrib="02 00 17">...But<delay frames="5" /> I can't carry anything else!<delay frames="20" />
+	<message label="003" attrib="02 00 18">...But<delay frames="5" /> I can't carry anything else!<delay frames="20" />
 Should I swap it with something?</message>
 	<message label="003_a" attrib="00 00 00">Swap it!</message>
 	<message label="003_b" attrib="00 00 00">Bury it again.</message>
-	<message label="003_01" attrib="02 00 17">...Huh?<delay frames="20" /> My pockets are full already!<delay frames="30" />
+	<message label="003_01" attrib="02 00 18">...Huh?<delay frames="20" /> My pockets are full already!<delay frames="30" />
 Should I swap it with something?</message>
 	<message label="003_01_a" attrib="00 00 00">Swap it!</message>
 	<message label="003_01_b" attrib="00 00 00">Bury it again.</message>
-	<message label="004" attrib="01 00 17">...But<delay frames="5" /> I can't carry anything else!<delay frames="20" />
+	<message label="004" attrib="01 00 18">...But<delay frames="5" /> I can't carry anything else!<delay frames="20" />
 Should I swap it with something?</message>
 	<message label="004_a" attrib="00 00 00">Swap it!</message>
 	<message label="004_b" attrib="00 00 00">Let it go.</message>
-	<message label="005" attrib="02 00 17">...But<delay frames="5" /> I can't carry anything else!<delay frames="20" />
+	<message label="005" attrib="02 00 18">...But<delay frames="5" /> I can't carry anything else!<delay frames="20" />
 Should I swap it with something?</message>
 	<message label="005_a" attrib="00 00 00">Swap it!</message>
 	<message label="005_b" attrib="00 00 00">Drop it.</message>
-	<message label="006" attrib="01 00 17">...But<delay frames="5" /> I can't carry anything else!<delay frames="20" />
+	<message label="006" attrib="01 00 18">...But<delay frames="5" /> I can't carry anything else!<delay frames="20" />
 Should I swap it with something?</message>
 	<message label="006_a" attrib="00 00 00">Swap it!</message>
 	<message label="006_b" attrib="00 00 00">Forget it.</message>
-	<message label="007" attrib="00 00 17">.<delay frames="5" />.<delay frames="5" />.<delay frames="5" />But I don't have any room for it!<delay frames="10" />
+	<message label="007" attrib="00 00 18">.<delay frames="5" />.<delay frames="5" />.<delay frames="5" />But I don't have any room for it!<delay frames="10" />
 Oh well.<delay frames="5" /> I guess I'll let it go.</message>
-	<message label="011" attrib="00 00 17">I won't have room for this in
+	<message label="008" attrib="00 00 18">.<delay frames="5" />.<delay frames="5" />.<delay frames="5" />But I don't have any room for it!<delay frames="10" />
+Oh well.<delay frames="5" /> I guess I'll let it go, then.</message>
+	<message label="011" attrib="00 00 18">I won't have room for this in
 my pockets if I pluck it, so I'll
 just leave it the way it is.</message>
-	<message label="013" attrib="00 00 17">I was going to clean up a
+	<message label="013" attrib="00 00 18">I was going to clean up a
 bit, <delay frames="10" />but my pockets are full,<delay frames="10" />
 so I'll just leave it like it is.</message>
-	<message label="014" attrib="00 00 17">There's not enough room in my wallet<delay frames="10" />
+	<message label="014" attrib="00 00 18">There's not enough room in my wallet<delay frames="10" />
 and I can't carry this around with me
 right now,<delay frames="10" /> so I'll just leave it.</message>
-	<message label="015" attrib="00 00 17">...Huh?<delay8 /> My pockets are full!<delay40 />
+	<message label="015" attrib="00 00 18">...Huh?<delay8 /> My pockets are full!<delay40 />
 Guess I'll just leave this here, then.</message>
-	<message label="016" attrib="00 00 17">.<delay frames="5" />.<delay frames="5" />.<delay frames="5" />But I don't have any room for it!<delay frames="10" />
+	<message label="016" attrib="00 00 18">.<delay frames="5" />.<delay frames="5" />.<delay frames="5" />But I don't have any room for it!<delay frames="10" />
 Guess I'll just forget it, then.</message>
-	<message label="017" attrib="02 00 17">...Huh?<delay frames="20" /> My pockets are full already!<delay frames="30" />
+	<message label="017" attrib="02 00 18">...Huh?<delay frames="20" /> My pockets are full already!<delay frames="30" />
 Should I swap it with something?</message>
-	<message label="017_a" attrib="00 00 17">Swap it!</message>
-	<message label="017_b" attrib="00 00 17">Bury it again.</message>
-	<message label="021" attrib="00 00 17">Ow! Ow ow ow<delay frames="5" />.<delay frames="5" />.<delay frames="5" />.<delay frames="5" />
+	<message label="017_a" attrib="00 00 18">Swap it!</message>
+	<message label="017_b" attrib="00 00 18">Bury it again.</message>
+	<message label="021" attrib="00 00 18">Ow! Ow ow ow<delay frames="5" />.<delay frames="5" />.<delay frames="5" />.<delay frames="5" />
 I got stung by wasps!</message>
-	<message label="022" attrib="00 00 17">Aw, that itches!<delay frames="20" />
+	<message label="022" attrib="00 00 18">Aw, that itches!<delay frames="20" />
 I got bit by a mosquito<delay frames="5" />.<delay frames="5" />.<delay frames="5" />.<10_7 arg="180" /></message>
-	<message label="023" attrib="00 00 17">Oh, good!<pageBreak />All the pesky cockroaches are
+	<message label="023" attrib="00 00 18">Oh, good!<pageBreak />All the pesky cockroaches are
 GONE! <delay frames="20" />I feel so much better now!</message>
-	<message label="024" attrib="00 00 17">I picked up a <tag a="50" b="0" arg="0x100 0xcd03" />wasp nest!</message>
-	<message label="025" attrib="00 00 17">I could probably use this <tag a="50" b="0" arg="0x100 0xcd03" />wasp nest
+	<message label="024" attrib="00 00 18">I picked up a <tag a="50" b="0" arg="0x100 0xcd03" />wasp nest!</message>
+	<message label="025" attrib="00 00 18">I could probably use this <tag a="50" b="0" arg="0x100 0xcd03" />wasp nest
 for something cool, like<tag a="110" b="0" /> Yeah!
 I just came up with a DIY recipe!</message>
-	<message label="100" attrib="00 00 17">I found treasure!</message>
-	<message label="100_01" attrib="00 00 17">I found treasure!<pageBreak />It probably belongs to an island
+	<message label="100" attrib="00 00 18">I found treasure!</message>
+	<message label="100_01" attrib="00 00 18">I found treasure!<pageBreak />It probably belongs to an island
 resident. I guess I'll leave it here.
 For now...</message>
-	<message label="101" attrib="00 00 17">I picked up <tag a="50" b="2" />
+	<message label="101" attrib="00 00 18">I picked up <tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" />!<pageBreak />I should probably try to
 reunite this with its owner!</message>
-	<message label="102" attrib="00 00 17">Somebody lost their
+	<message label="102" attrib="00 00 18">Somebody lost their
 <tag a="125" b="0" arg="0x0" />!<pageBreak />I bet it belongs to a resident of this
 island. I don't want to accidentally
 take it home, so I'll leave it here.</message>
-	<message label="103" attrib="00 00 17">Somebody lost their
+	<message label="103" attrib="00 00 18">Somebody lost their
 <tag a="125" b="0" arg="0x0" />!<pageBreak />I wonder who lost it.<delay frames="40" /> I don't want
 to cause the owner any extra
 trouble, so I'll just leave it here.</message>
-	<message label="104" attrib="00 00 17">This is someone else's treasure.<delay20 />
+	<message label="104" attrib="00 00 18">This is someone else's treasure.<delay20 />
 It'd be rude to open it.</message>
-	<message label="105" attrib="00 00 17">Someone lost this...</message>
-	<message label="110_01" attrib="00 00 17">A well-used, well-loved picture
+	<message label="105" attrib="00 00 18">Someone lost this...</message>
+	<message label="110_01" attrib="00 00 18">A well-used, well-loved picture
 book.<delay frames="40" /> There are little broken bits
 <delay8 />of candy between the pages...<delay20 /></message>
-	<message label="110_02" attrib="00 00 17">This book is hard to read. The pages
+	<message label="110_02" attrib="00 00 18">This book is hard to read. The pages
 are warped, like they've gotten wet
 before.<delay20 /> I think it's an exercise book.</message>
-	<message label="110_03" attrib="00 00 17">There are lots of pictures of potted
+	<message label="110_03" attrib="00 00 18">There are lots of pictures of potted
 trees inside.<delay frames="40" /> It looks like an
 introductory guide to bonsai trees.</message>
-	<message label="110_04" attrib="00 00 17">It's a novel.<delay20 /> The author was obviously
+	<message label="110_04" attrib="00 00 18">It's a novel.<delay20 /> The author was obviously
 trying to be fancy by using lots
 of foreign words. I don't get it.</message>
-	<message label="110_05" attrib="00 00 17">This novel looks really difficult.<delay frames="40" /> It's
+	<message label="110_05" attrib="00 00 18">This novel looks really difficult.<delay frames="40" /> It's
 the kind of book only a voracious
 reader would think to pick up.</message>
-	<message label="110_06" attrib="00 00 17">It's a comic.<delay frames="40" /> There's a girl with
+	<message label="110_06" attrib="00 00 18">It's a comic.<delay frames="40" /> There's a girl with
 big, sparkling eyes on the cover.
 She's probably the hero.</message>
-	<message label="110_07" attrib="00 00 17">It's one of those love stories that are
+	<message label="110_07" attrib="00 00 18">It's one of those love stories that are
 so popular nowadays.<delay frames="40" /> It has a subtle
 aroma too.<delay frames="40" /> Or is that my imagination?</message>
-	<message label="110_08" attrib="00 00 17">A book with pressed flowers inside.<delay frames="30" />
+	<message label="110_08" attrib="00 00 18">A book with pressed flowers inside.<delay frames="30" />
 OH!<delay20 /> It still has the price sticker on it!</message>
-	<message label="110_09" attrib="00 00 17">This looks like someone's diary.<delay frames="40" />
+	<message label="110_09" attrib="00 00 18">This looks like someone's diary.<delay frames="40" />
 Is this stain <delay20 />from drool?<delay frames="40" /> Maybe
 they fell asleep on it while writing.</message>
-	<message label="110_10" attrib="00 00 17">Somebody scribbled something
+	<message label="110_10" attrib="00 00 18">Somebody scribbled something
 on the cover in pencil. Looks
 like it reads,<delay frames="40" /> "xtreme xercises"?</message>
-	<message label="110_11" attrib="00 00 17">An old planner that's seen plenty of
+	<message label="110_11" attrib="00 00 18">An old planner that's seen plenty of
 wear and tear.<delay frames="40" /> The last page has tally
 marks<tag a="110" b="0" /><delay frames="40" /> They are up to 12 now.</message>
-	<message label="110_12" attrib="00 00 17">The cover of the book says
+	<message label="110_12" attrib="00 00 18">The cover of the book says
 "Mi diario secreto." <delay frames="40" />I get the
 feeling I shouldn't look inside.</message>
-	<message label="110_13" attrib="00 00 17">It reads "My Journal" in tiny letters
+	<message label="110_13" attrib="00 00 18">It reads "My Journal" in tiny letters
 on the cover.<delay frames="40" /> It's hard not to, but
 I probably shouldn't peek inside.</message>
-	<message label="110_14" attrib="00 00 17">It's an autograph book, but it's
+	<message label="110_14" attrib="00 00 18">It's an autograph book, but it's
 covered with all kinds of sparkly
 stickers.<delay frames="40" /> It's making my eyes hurt.</message>
-	<message label="110_15" attrib="00 00 17">I think it's a personal planner.<delay20 /> Every
+	<message label="110_15" attrib="00 00 18">I think it's a personal planner.<delay20 /> Every
 line is filled in with precise, perfect
 handwriting.<delay frames="40" /> Err<tag a="110" b="0" /> I should close this.</message>
-	<message label="110_16" attrib="00 00 17">This looks like somebody's notebook.<delay20 />
+	<message label="110_16" attrib="00 00 18">This looks like somebody's notebook.<delay20 />
 The handwriting is mostly illegible,
 but I can make out the word "Band."</message>
-	<message label="110_17" attrib="00 00 17">This pouch is stuffed with
+	<message label="110_17" attrib="00 00 18">This pouch is stuffed with
 something that smells delicious
 and is probably full of sugar.</message>
-	<message label="110_18" attrib="00 00 17">A very simple bag<tag a="110" b="0" /><delay frames="40" />that's a tad open.
+	<message label="110_18" attrib="00 00 18">A very simple bag<tag a="110" b="0" /><delay frames="40" />that's a tad open.
 <delay20 />I spot some gym clothes, I think.</message>
-	<message label="110_19" attrib="00 00 17">A sturdy, old-fashioned sort
+	<message label="110_19" attrib="00 00 18">A sturdy, old-fashioned sort
 of bag.<delay frames="40" /> It gets full points for
 utility and zero points for style.</message>
-	<message label="110_20" attrib="00 00 17">It's a stylish bag.<delay frames="40" /> The complex
+	<message label="110_20" attrib="00 00 18">It's a stylish bag.<delay frames="40" /> The complex
 design says more about style
 than it does about function.</message>
-	<message label="110_21" attrib="00 00 17">An adorable handcrafted bag with
+	<message label="110_21" attrib="00 00 18">An adorable handcrafted bag with
 something hard and rectangular
 inside.<delay frames="40" /> Maybe it's a book?</message>
-	<message label="110_22" attrib="00 00 17">A bag made from a soft printed fabric
+	<message label="110_22" attrib="00 00 18">A bag made from a soft printed fabric
 featuring cartoon characters.<delay frames="40" /> It's all
 lumpy from being packed too full.</message>
-	<message label="110_23" attrib="00 00 17">Maybe this is someone's makeup
+	<message label="110_23" attrib="00 00 18">Maybe this is someone's makeup
 bag?<delay frames="40" /> It smells like lovely perfume.</message>
-	<message label="110_24" attrib="00 00 17">A stylish bag<delay8 /> adorned with gold
+	<message label="110_24" attrib="00 00 18">A stylish bag<delay8 /> adorned with gold
 metal spikes.<delay frames="30" /> It's got attitude!</message>
-	<message label="110_25" attrib="00 00 17">This pouch looks like it's starting to
+	<message label="110_25" attrib="00 00 18">This pouch looks like it's starting to
 tear in places.<delay frames="40" /> It's a little sticky too.<delay20 />
 Did someone spill juice on it?</message>
-	<message label="110_26" attrib="00 00 17">A dusty, well-used bag.<delay frames="40" /> It vaguely
+	<message label="110_26" attrib="00 00 18">A dusty, well-used bag.<delay frames="40" /> It vaguely
 smells like those minty sports creams
 that athletes use.</message>
-	<message label="110_27" attrib="00 00 17">This classic pouch was built with
+	<message label="110_27" attrib="00 00 18">This classic pouch was built with
 functionality in mind, nothing more.<delay frames="40" />
 It's the work of a craftsman.<delay20 /> Maybe.</message>
-	<message label="110_28" attrib="00 00 17">A stylish bag that looks like it could
+	<message label="110_28" attrib="00 00 18">A stylish bag that looks like it could
 be popular.<delay frames="40" /> Whether it actually is
 popular might depend on the owner...</message>
-	<message label="110_29" attrib="00 00 17">A bag with a simple design.<delay frames="30" /> I can tell
+	<message label="110_29" attrib="00 00 18">A bag with a simple design.<delay frames="30" /> I can tell
 it was painstakingly made by hand.</message>
-	<message label="110_30" attrib="00 00 17">A snappy bag<delay20 /> covered with buttons
+	<message label="110_30" attrib="00 00 18">A snappy bag<delay20 /> covered with buttons
 and pins of different pop stars.</message>
-	<message label="110_31" attrib="00 00 17">A pretty bag that's been well-loved.<delay20 />
+	<message label="110_31" attrib="00 00 18">A pretty bag that's been well-loved.<delay20 />
 It looks like it's been customized a
 number of times.</message>
-	<message label="110_32" attrib="00 00 17">The front of the bag has embroidered
+	<message label="110_32" attrib="00 00 18">The front of the bag has embroidered
 lettering in gold thread. The words
 are..."Bikers Are More Fun."</message>
-	<message label="200" attrib="00 00 17">My new life is underway...<delay frames="30" />
+	<message label="200" attrib="00 00 18">My new life is underway...<delay frames="30" />
 I can do whatever I want!<delay frames="30" />
 WOO-HOO!</message>
-	<message label="204_02" attrib="00 00 17">Yes!<delay frames="30" /> I finished paying
+	<message label="204_02" attrib="00 00 18">Yes!<delay frames="30" /> I finished paying
 off my home loan!</message>
-	<message label="204_03" attrib="00 00 17">Sweet!<delay frames="30" /> I finally finished paying
+	<message label="204_03" attrib="00 00 18">Sweet!<delay frames="30" /> I finally finished paying
 off my very last home loan!</message>
-	<message label="205" attrib="00 00 17" />
-	<message label="210" attrib="00 00 17">I see. This totally makes sense!</message>
-	<message label="210_01" attrib="00 00 17">I learned some <colour id="1" />pop hairstyles<colour id="65535" />!
+	<message label="205" attrib="00 00 18" />
+	<message label="210" attrib="00 00 18">I see. This totally makes sense!</message>
+	<message label="210_01" attrib="00 00 18">I learned some <colour id="1" />pop hairstyles<colour id="65535" />!
 I bet I could change up my look
 with a <colour id="1" />vanity<colour id="65535" /> or a <colour id="1" />mirror<colour id="65535" />.</message>
-	<message label="210_02" attrib="00 00 17">I learned some <colour id="1" />cool hairstyles<colour id="65535" />!
+	<message label="210_02" attrib="00 00 18">I learned some <colour id="1" />cool hairstyles<colour id="65535" />!
 I bet I could change up my look
 with a <colour id="1" />vanity<colour id="65535" /> or a <colour id="1" />mirror<colour id="65535" />.</message>
-	<message label="210_03" attrib="00 00 17">I learned how to make some new
+	<message label="210_03" attrib="00 00 18">I learned how to make some new
 <colour id="1" />hair colors<colour id="65535" />! I bet I could change up
 my look with a <colour id="1" />vanity<colour id="65535" /> or a <colour id="1" />mirror<colour id="65535" />.</message>
-	<message label="210_04" attrib="00 00 17">I learned some tricks for organizing
+	<message label="210_04" attrib="00 00 18">I learned some tricks for organizing
 my belongings! I bet I can carry
 a bit more stuff now!</message>
-	<message label="210_05" attrib="00 00 17">I've mastered the art of organizing!
+	<message label="210_05" attrib="00 00 18">I've mastered the art of organizing!
 I bet I can carry a lot of stuff now!</message>
-	<message label="210_06" attrib="00 00 17">I learned how to easily switch tools!</message>
-	<message label="210_06_01" attrib="00 00 17">When <colour id="1" />I'm outside<colour id="65535" />, I can press <colour id="1" /><colour id="65535" /> to
+	<message label="210_06" attrib="00 00 18">I learned how to easily switch tools!</message>
+	<message label="210_06_01" attrib="00 00 18">When <colour id="1" />I'm outside<colour id="65535" />, I can press <colour id="1" /><colour id="65535" /> to
 use the <colour id="1" />Tool Ring<colour id="65535" /> now.</message>
-	<message label="210_06_02" attrib="00 00 17">When <colour id="1" />I'm outside<colour id="65535" />, I can press <colour id="1" /><colour id="65535" /> to
+	<message label="210_06_02" attrib="00 00 18">When <colour id="1" />I'm outside<colour id="65535" />, I can press <colour id="1" /><colour id="65535" /> to
 use the <colour id="1" />Tool Ring<colour id="65535" />! <colour id="0" />(On a horizontal
 Joy-Con, use  +  instead.)<colour id="65535" /></message>
-	<message label="210_07" attrib="00 00 17">I can make stronger tools that won't
+	<message label="210_07" attrib="00 00 18">I can make stronger tools that won't
 break so easily now! This is gonna be
 a material-gathering game changer!</message>
-	<message label="210_08" attrib="00 00 17">I've got the <colour id="1" />Pro<colour id="65535" /> edition of the
+	<message label="210_08" attrib="00 00 18">I've got the <colour id="1" />Pro<colour id="65535" /> edition of the
 <colour id="1" />Custom Designs<colour id="65535" /> app now! I'm gonna
 make my debut as a pro designer!</message>
-	<message label="211_01" attrib="00 00 17">Now I can do <colour id="1" />river construction
+	<message label="211_01" attrib="00 00 18">Now I can do <colour id="1" />river construction
 <colour id="65535" />with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
-	<message label="211_02" attrib="00 00 17">Now I can do <colour id="1" />cliff construction
+	<message label="211_02" attrib="00 00 18">Now I can do <colour id="1" />cliff construction
 <colour id="65535" />with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
-	<message label="211_03" attrib="00 00 17">Now I can make <colour id="1" />custom design
+	<message label="211_03" attrib="00 00 18">Now I can make <colour id="1" />custom design
 paths<colour id="65535" /> with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
-	<message label="211_04" attrib="00 00 17">Now I can make <colour id="1" />stone paths
+	<message label="211_04" attrib="00 00 18">Now I can make <colour id="1" />stone paths
 <colour id="65535" />with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
-	<message label="211_05" attrib="00 00 17">Now I can make <colour id="1" />brick paths
+	<message label="211_05" attrib="00 00 18">Now I can make <colour id="1" />brick paths
 <colour id="65535" />with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
-	<message label="211_06" attrib="00 00 17">Now I can make <colour id="1" />dark dirt paths
+	<message label="211_06" attrib="00 00 18">Now I can make <colour id="1" />dark dirt paths
 <colour id="65535" />with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
-	<message label="211_07" attrib="00 00 17">Now I can make <colour id="1" />arched tile paths
+	<message label="211_07" attrib="00 00 18">Now I can make <colour id="1" />arched tile paths
 <colour id="65535" />with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
-	<message label="211_08" attrib="00 00 17">Now I can make <colour id="1" />sand paths
+	<message label="211_08" attrib="00 00 18">Now I can make <colour id="1" />sand paths
 <colour id="65535" />with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
-	<message label="211_09" attrib="00 00 17">Now I can make <colour id="1" />terra-cotta tiles
+	<message label="211_09" attrib="00 00 18">Now I can make <colour id="1" />terra-cotta tiles
 <colour id="65535" />with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
-	<message label="211_10" attrib="00 00 17">Now I can make <colour id="1" />wooden paths
+	<message label="211_10" attrib="00 00 18">Now I can make <colour id="1" />wooden paths
 <colour id="65535" />with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
-	<message label="212" attrib="00 00 17">Wow!<delay40 /> Well, now that <colour id="3" />K.K. <colour id="65535" />has
+	<message label="212" attrib="00 00 18">Wow!<delay40 /> Well, now that <colour id="3" />K.K. <colour id="65535" />has
 performed, it's time to focus on
 making island life better and better.
 That means living each day to
 the fullest, doing things I like,
 and having lots of fun!</message>
-	<message label="213" attrib="00 00 17">Whew! All the home and furnishing
+	<message label="213" attrib="00 00 18">Whew! All the home and furnishing
 prep work is done!</message>
-	<message label="214" attrib="00 00 17">Wait<tag a="110" b="0" /> This means<tag a="110" b="0" /></message>
-	<message label="214_01" attrib="00 00 17">All the home and furnishing
+	<message label="214" attrib="00 00 18">Wait<tag a="110" b="0" /> This means<tag a="110" b="0" /></message>
+	<message label="214_01" attrib="00 00 18">All the home and furnishing
 prep work is done!</message>
-	<message label="215" attrib="00 00 17">Alright! We reached
+	<message label="215" attrib="00 00 18">Alright! We reached
 our donation goal!</message>
-	<message label="216" attrib="00 00 17">Now I've got the <colour id="1" />Nook Shopping<colour id="65535" /> app
+	<message label="216" attrib="00 00 18">Now I've got the <colour id="1" />Nook Shopping<colour id="65535" /> app
 on my <colour id="1" />NookPhone<colour id="65535" />! I can shop
 whenever I want, wherever I want!</message>
-	<message label="290" attrib="00 00 17"><tag a="60" b="20" /></message>
-	<message label="290_01" attrib="00 00 17">Oh no!<delay20 /> I guess that's it for
+	<message label="290" attrib="00 00 18"><tag a="60" b="20" /></message>
+	<message label="290_01" attrib="00 00 18">Oh no!<delay20 /> I guess that's it for
 my <colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />...</message>
-	<message label="290_02" attrib="00 00 17">Oh no!<delay20 /> Thank you for your service,
+	<message label="290_02" attrib="00 00 18">Oh no!<delay20 /> Thank you for your service,
 faithful <colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />...</message>
-	<message label="290_03" attrib="00 00 17">Oh no!<delay20 /> It's the end of the line for my
+	<message label="290_03" attrib="00 00 18">Oh no!<delay20 /> It's the end of the line for my
 trusty <colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />...</message>
-	<message label="505" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />This <tag a="50" b="0" arg="0x200 0xcd03" />old tire could be repurposed<tag a="110" b="0" /><delay20 />
+	<message label="505" attrib="00 00 18"><anim id="Thinking" target="actor" targetSpec="" />This <tag a="50" b="0" arg="0x200 0xcd03" />old tire could be repurposed<tag a="110" b="0" /><delay20 />
 <anim id="IdeaBulb" target="actor" targetSpec="" />I've got an idea for a DIY recipe!</message>
-	<message label="506" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />This <tag a="50" b="0" arg="0x200 0xcd03" />empty can could be
+	<message label="506" attrib="00 00 18"><anim id="Thinking" target="actor" targetSpec="" />This <tag a="50" b="0" arg="0x200 0xcd03" />empty can could be
 repurposed<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" /> I've got an idea
 for a DIY recipe!</message>
-	<message label="507" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />This <tag a="50" b="0" arg="0x100 0xcd03" />boot could be repurposed<tag a="110" b="0" /><delay20 />
+	<message label="507" attrib="00 00 18"><anim id="Thinking" target="actor" targetSpec="" />This <tag a="50" b="0" arg="0x100 0xcd03" />boot could be repurposed<tag a="110" b="0" /><delay20 />
 <anim id="IdeaBulb" target="actor" targetSpec="" />I've got an idea for a DIY recipe!</message>
-	<message label="508" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />This <tag a="50" b="0" arg="0x100 0xcd03" />manila clam could be used as
+	<message label="508" attrib="00 00 18"><anim id="Thinking" target="actor" targetSpec="" />This <tag a="50" b="0" arg="0x100 0xcd03" />manila clam could be used as
 fishing bait<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" /> I've got an idea for a
 DIY recipe!</message>
-	<message label="509" attrib="00 00 17">Huh... OK!<delay20 /></message>
-	<message label="509_01" attrib="00 00 17">SWEET!<delay20 /> I learned a DIY recipe for
+	<message label="509" attrib="00 00 18">Huh... OK!<delay20 /></message>
+	<message label="509_01" attrib="00 00 18">SWEET!<delay20 /> I learned a DIY recipe for
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
-	<message label="511" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />Huh.<delay20 /> So that's how it's done<tag a="110" b="0" /><delay40 />
+	<message label="511" attrib="00 00 18"><anim id="Thinking" target="actor" targetSpec="" />Huh.<delay20 /> So that's how it's done<tag a="110" b="0" /><delay40 />
 <anim id="IdeaBulb" target="actor" targetSpec="" />I just discovered a recipe for
 making a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />pitfall seed<colour id="65535" />!</message>
-	<message label="512" attrib="00 00 17"><anim id="IdeaBulb" target="actor" targetSpec="" />AH!<delay20 /> I<tag a="110" b="0" />I just came up with
+	<message label="512" attrib="00 00 18"><anim id="IdeaBulb" target="actor" targetSpec="" />AH!<delay20 /> I<tag a="110" b="0" />I just came up with
 a recipe for a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />golden axe<colour id="65535" />!</message>
-	<message label="513" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />I could probably wear these if I found
+	<message label="513" attrib="00 00 18"><anim id="Thinking" target="actor" targetSpec="" />I could probably wear these if I found
 another <tag a="50" b="0" arg="0x100 0xcd03" />boot, right?<delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 /> I've got an idea
 for a DIY recipe!</message>
-	<message label="514" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />I sure have fished up a lot of trash<tag a="110" b="0" /><delay20 />
+	<message label="514" attrib="00 00 18"><anim id="Thinking" target="actor" targetSpec="" />I sure have fished up a lot of trash<tag a="110" b="0" /><delay20 />
 <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />I've got an idea for a DIY recipe!</message>
-	<message label="515" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />If I made good use of the egg's
+	<message label="515" attrib="00 00 18"><anim id="Thinking" target="actor" targetSpec="" />If I made good use of the egg's
 patterning<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 /> Oh!<delay8 /> I've got some
 DIY recipe ideas!</message>
-	<message label="518" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />If I combine the ideas behind the
+	<message label="518" attrib="00 00 18"><anim id="Thinking" target="actor" targetSpec="" />If I combine the ideas behind the
 eggshell recipes I've learned so far<tag a="110" b="0" /><delay20 />
 <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />I've got an idea for a DIY recipe!</message>
-	<message label="700" attrib="00 00 17">Happy birthday to <delay8 />me!<delay40 /> It's always
+	<message label="700" attrib="00 00 18">Happy birthday to <delay8 />me!<delay40 /> It's always
 nice getting to celebrate with
 good cake and good friends.</message>
-	<message label="701" attrib="00 00 17">Supplies for getaway-package
+	<message label="701" attrib="00 00 18">Supplies for getaway-package
 participants are likely inside.</message>
-	<message label="901" attrib="04 00 17">Should I put my tent here?</message>
+	<message label="901" attrib="04 00 18">Should I put my tent here?</message>
 	<message label="901_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="901_b" attrib="00 00 00">This is the spot!</message>
 	<message label="901_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="902" attrib="04 00 17">Would this be a good place
+	<message label="902" attrib="04 00 18">Would this be a good place
 for <colour id="3" />Blathers<colour id="65535" />'s tent?</message>
 	<message label="902_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="902_b" attrib="00 00 00">This is the spot!</message>
 	<message label="902_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="903" attrib="04 00 17">Should I reserve this
+	<message label="903" attrib="04 00 18">Should I reserve this
 space for the <colour id="1" />shop<colour id="65535" />?</message>
 	<message label="903_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="903_b" attrib="00 00 00">This is the spot!</message>
 	<message label="903_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="904" attrib="04 00 17">Should I put <tag a="115" b="1" arg="0xcd00" />'s
+	<message label="904" attrib="04 00 18">Should I put <tag a="115" b="1" arg="0xcd00" />'s
 tent here?</message>
 	<message label="904_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="904_b" attrib="00 00 00">This is the spot!</message>
 	<message label="904_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="905" attrib="04 00 17">Should I reserve this
+	<message label="905" attrib="04 00 18">Should I reserve this
 space for a new home?</message>
 	<message label="905_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="905_b" attrib="00 00 00">This is the spot!</message>
 	<message label="905_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="906" attrib="04 00 17">Should I reserve this spot<delay8 /> for
+	<message label="906" attrib="04 00 18">Should I reserve this spot<delay8 /> for
 <tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />?</message>
 	<message label="906_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="906_b" attrib="00 00 00">This is the spot!</message>
 	<message label="906_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="907" attrib="04 00 17">Should I reserve this spot<delay8 /> for
+	<message label="907" attrib="04 00 18">Should I reserve this spot<delay8 /> for
 <tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />?</message>
 	<message label="907_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="907_b" attrib="00 00 00">This is the spot!</message>
 	<message label="907_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="908" attrib="04 00 17">Should I reserve this space
+	<message label="908" attrib="04 00 18">Should I reserve this space
 for the <colour id="1" />tailor shop<colour id="65535" />?</message>
 	<message label="908_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="908_b" attrib="00 00 00">This is the spot!</message>
 	<message label="908_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="909" attrib="04 00 17">Should I set this area
+	<message label="909" attrib="04 00 18">Should I set this area
 aside as <colour id="1" />plot one<colour id="65535" />?</message>
 	<message label="909_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="909_b" attrib="00 00 00">This is the spot!</message>
 	<message label="909_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="909_01" attrib="04 00 17">Should I set this area
+	<message label="909_01" attrib="04 00 18">Should I set this area
 aside as <colour id="1" />plot two<colour id="65535" />?</message>
 	<message label="909_01_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="909_01_b" attrib="00 00 00">This is the spot!</message>
 	<message label="909_01_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="909_02" attrib="04 00 17">Should I set this area
+	<message label="909_02" attrib="04 00 18">Should I set this area
 aside as <colour id="1" />plot three<colour id="65535" />?</message>
 	<message label="909_02_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="909_02_b" attrib="00 00 00">This is the spot!</message>
 	<message label="909_02_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="909_03" attrib="04 00 17">Is this a good spot for the <colour id="1" />campsite<colour id="65535" />?</message>
+	<message label="909_03" attrib="04 00 18">Is this a good spot for the <colour id="1" />campsite<colour id="65535" />?</message>
 	<message label="909_03_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="909_03_b" attrib="00 00 00">This is the spot!</message>
 	<message label="909_03_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="909_04" attrib="04 00 17">This seems like a good spot.
+	<message label="909_04" attrib="04 00 18">This seems like a good spot.
 Should I move the <colour id="1" />campsite <colour id="65535" />here?</message>
 	<message label="909_04_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="909_04_b" attrib="00 00 00">This is the spot!</message>
 	<message label="909_04_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="910" attrib="00 09 21">There isn't enough space here.</message>
-	<message label="911" attrib="00 09 21">I'm too close to the water.
+	<message label="910" attrib="00 09 22">There isn't enough space here.</message>
+	<message label="911" attrib="00 09 22">I'm too close to the water.
 I need more room.</message>
-	<message label="911_01" attrib="00 09 21">The ground isn't stable near these
+	<message label="911_01" attrib="00 09 22">The ground isn't stable near these
 rocks, so I shouldn't try to build
 anything here.</message>
-	<message label="912" attrib="00 09 21">I'm too close to the water.
+	<message label="912" attrib="00 09 22">I'm too close to the water.
 I need more room.</message>
-	<message label="913" attrib="00 09 21">I'm too close to a cliff.
+	<message label="913" attrib="00 09 22">I'm too close to a cliff.
 I need more room.</message>
-	<message label="914" attrib="00 09 21">I'm too close to the ledge.
+	<message label="914" attrib="00 09 22">I'm too close to the ledge.
 I need more room.</message>
-	<message label="914_01" attrib="00 09 21">Everyone gathers in this plaza, so
+	<message label="914_01" attrib="00 09 22">Everyone gathers in this plaza, so
 you should choose a different place.</message>
-	<message label="915" attrib="00 09 21">If I place structures too close to each
+	<message label="915" attrib="00 09 22">If I place structures too close to each
 other, it'll block the flow of traffic.
 Better choose another place!</message>
-	<message label="916" attrib="00 09 21">If it's too close to a bridge like this,
+	<message label="916" attrib="00 09 22">If it's too close to a bridge like this,
 it'll block the flow of traffic. Better
 choose another place!</message>
-	<message label="917" attrib="00 09 21">If it's too close to an incline like
+	<message label="917" attrib="00 09 22">If it's too close to an incline like
 this, it'll block the flow of traffic.
 Better choose another place!</message>
-	<message label="918" attrib="00 09 21">This is too close to the plaza. I don't
+	<message label="918" attrib="00 09 22">This is too close to the plaza. I don't
 want anything to get in the way here.
 Better choose another place!</message>
-	<message label="919" attrib="00 09 21">This is fairly close to someone's
+	<message label="919" attrib="00 09 22">This is fairly close to someone's
 mailbox, so this isn't a good spot.
 Better choose another place!</message>
-	<message label="919_01" attrib="00 09 21">I'll need to move the <colour id="1" />mailbox<colour id="65535" /> first.</message>
-	<message label="920" attrib="00 00 21">It'll block the flow of traffic if it's too
+	<message label="919_01" attrib="00 09 22">I'll need to move the <colour id="1" />mailbox<colour id="65535" /> first.</message>
+	<message label="920" attrib="00 00 22">It'll block the flow of traffic if it's too
 close to the pier like this. Better
 choose another place!</message>
-	<message label="921" attrib="00 09 21">There's no river near here that I can
+	<message label="921" attrib="00 09 22">There's no river near here that I can
 place a bridge over!</message>
-	<message label="926" attrib="00 09 21">To place a bridge, you need the river
+	<message label="926" attrib="00 09 22">To place a bridge, you need the river
 to be just the right width. And the
 land on either side should be even.</message>
-	<message label="926_01" attrib="00 09 21">It'd be hard to use a bridge here with
+	<message label="926_01" attrib="00 09 22">It'd be hard to use a bridge here with
 the other river so close.</message>
-	<message label="926_02" attrib="00 09 21">It'd be hard to use a bridge
+	<message label="926_02" attrib="00 09 22">It'd be hard to use a bridge
 here with the cliff so close.</message>
-	<message label="926_03" attrib="00 09 21">I don't think it'd be a good idea to
+	<message label="926_03" attrib="00 09 22">I don't think it'd be a good idea to
 build a bridge on the sand here.</message>
-	<message label="927" attrib="00 09 21">I don't see an even stretch of cliffs
+	<message label="927" attrib="00 09 22">I don't see an even stretch of cliffs
 here where an incline could go.</message>
-	<message label="928" attrib="00 09 21">If I put an incline here, the end of it
+	<message label="928" attrib="00 09 22">If I put an incline here, the end of it
 will bump up against a cliff.</message>
-	<message label="928_01" attrib="00 09 21">This is a little too high. I don't think
+	<message label="928_01" attrib="00 09 22">This is a little too high. I don't think
 I'll build an incline up here.</message>
-	<message label="931" attrib="02 00 17"><tag a="10" b="12" />We'll have to do a little landscaping,
+	<message label="931" attrib="02 00 18"><tag a="10" b="12" />We'll have to do a little landscaping,
 but we can make this work.
 Should we go ahead?</message>
 	<message label="931_a" attrib="00 00 00">OK!</message>
 	<message label="931_b" attrib="00 00 00">I need to rethink it.</message>
-	<message label="932" attrib="02 00 17"><tag a="10" b="12" />Is this a good spot?</message>
+	<message label="932" attrib="02 00 18"><tag a="10" b="12" />Is this a good spot?</message>
 	<message label="932_a" attrib="00 00 00">OK!</message>
 	<message label="932_b" attrib="00 00 00">I need to rethink it.</message>
-	<message label="941" attrib="04 00 17">Should I move here?</message>
+	<message label="941" attrib="04 00 18">Should I move here?</message>
 	<message label="941_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="941_b" attrib="00 00 00">This is the spot!</message>
 	<message label="941_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="942" attrib="04 00 17">Should <tag a="115" b="1" arg="0xcd00" />
+	<message label="942" attrib="04 00 18">Should <tag a="115" b="1" arg="0xcd00" />
 move here?</message>
 	<message label="942_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="942_b" attrib="00 00 00">This is the spot!</message>
 	<message label="942_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="943" attrib="04 00 17">Should the <colour id="1" />museum<colour id="65535" /> move here?</message>
+	<message label="943" attrib="04 00 18">Should the <colour id="1" />museum<colour id="65535" /> move here?</message>
 	<message label="943_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="943_b" attrib="00 00 00">This is the spot!</message>
 	<message label="943_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="944" attrib="04 00 17">Should the <colour id="1" />shop<colour id="65535" /> move here?</message>
+	<message label="944" attrib="04 00 18">Should the <colour id="1" />shop<colour id="65535" /> move here?</message>
 	<message label="944_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="944_b" attrib="00 00 00">This is the spot!</message>
 	<message label="944_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="945" attrib="04 00 17">Should the <colour id="1" />tailor shop<colour id="65535" /> move here?</message>
+	<message label="945" attrib="04 00 18">Should the <colour id="1" />tailor shop<colour id="65535" /> move here?</message>
 	<message label="945_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="945_b" attrib="00 00 00">This is the spot!</message>
 	<message label="945_c" attrib="00 00 00">I need to rethink it.</message>
-	<message label="951" attrib="00 00 17">I set up my tent!<delay40 />
+	<message label="951" attrib="00 00 18">I set up my tent!<delay40 />
 That's a big first step!</message>
-	<message label="951_01" attrib="00 00 17">I set up my tent!<delay frames="30" /> Now I have a home
+	<message label="951_01" attrib="00 00 18">I set up my tent!<delay frames="30" /> Now I have a home
 base for my new island life!</message>
-	<message label="952" attrib="00 00 17"><colour id="3" />Blathers<colour id="65535" /> can set up his place now!</message>
-	<message label="953" attrib="00 00 17">This is where the <colour id="1" />shop<colour id="65535" /> will go!<delay40 />
+	<message label="952" attrib="00 00 18"><colour id="3" />Blathers<colour id="65535" /> can set up his place now!</message>
+	<message label="953" attrib="00 00 18">This is where the <colour id="1" />shop<colour id="65535" /> will go!<delay40 />
 I bet this island is about to
 become a whole lot livelier!</message>
-	<message label="953_01" attrib="00 00 17">This is where the <colour id="1" />tailor shop<colour id="65535" /> will go!<delay40 />
+	<message label="953_01" attrib="00 00 18">This is where the <colour id="1" />tailor shop<colour id="65535" /> will go!<delay40 />
 A wave of fashion will wash over us!</message>
-	<message label="954" attrib="00 00 17"><tag a="10" b="12" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" />'s got a place
+	<message label="954" attrib="00 00 18"><tag a="10" b="12" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" />'s got a place
 for <gender3 m="his" f="her" /> tent now!</message>
-	<message label="954_01" attrib="00 00 17">Looks like everyone has a spot
+	<message label="954_01" attrib="00 00 18">Looks like everyone has a spot
 picked out for their tents now.
 I need to get back to the plaza.</message>
-	<message label="955" attrib="00 00 17">I picked a spot for a home to be built
+	<message label="955" attrib="00 00 18">I picked a spot for a home to be built
 in the future.<delay40 /> A new island neighbor
 is potentially a new island friend!</message>
-	<message label="955_01" attrib="00 00 17">I picked a spot for a future home to
+	<message label="955_01" attrib="00 00 18">I picked a spot for a future home to
 be built. I hope it works!</message>
-	<message label="956" attrib="00 00 17">I picked a spot for <colour id="1" />plot 1<colour id="65535" />!</message>
-	<message label="956_01" attrib="00 00 17">I picked a spot for <colour id="1" />plot 2<colour id="65535" />!</message>
-	<message label="956_02" attrib="00 00 17">I picked a spot for <colour id="1" />plot 3<colour id="65535" />!</message>
-	<message label="957" attrib="00 00 17">I picked a spot for the <colour id="1" />campsite<colour id="65535" />!<delay40 />
+	<message label="956" attrib="00 00 18">I picked a spot for <colour id="1" />plot 1<colour id="65535" />!</message>
+	<message label="956_01" attrib="00 00 18">I picked a spot for <colour id="1" />plot 2<colour id="65535" />!</message>
+	<message label="956_02" attrib="00 00 18">I picked a spot for <colour id="1" />plot 3<colour id="65535" />!</message>
+	<message label="957" attrib="00 00 18">I picked a spot for the <colour id="1" />campsite<colour id="65535" />!<delay40 />
 I hope lots of folks come by to visit.</message>
-	<message label="958" attrib="00 00 17">I picked a spot for a <colour id="1" />bridge<colour id="65535" />!<delay40 />
+	<message label="958" attrib="00 00 18">I picked a spot for a <colour id="1" />bridge<colour id="65535" />!<delay40 />
 Let the land connect!</message>
-	<message label="959" attrib="00 00 17">I picked a spot for an <colour id="1" />incline<colour id="65535" />!<delay40 />
+	<message label="959" attrib="00 00 18">I picked a spot for an <colour id="1" />incline<colour id="65535" />!<delay40 />
 That's a step-up for this island!</message>
-	<message label="960" attrib="00 00 17">I've picked a spot for my home!
+	<message label="960" attrib="00 00 18">I've picked a spot for my home!
 Starting tomorrow, I'll be getting
 a fresh start in a new location.</message>
-	<message label="960_01" attrib="00 00 17">I've picked a new place for
+	<message label="960_01" attrib="00 00 18">I've picked a new place for
 <tag a="115" b="1" arg="0xcd00" />'s home! I sure
 hope <gender3 m="he" f="she" /> likes it.</message>
-	<message label="960_02" attrib="00 00 17">I've picked a new location
+	<message label="960_02" attrib="00 00 18">I've picked a new location
 for the <colour id="1" />museum<colour id="65535" />!</message>
-	<message label="960_03" attrib="00 00 17">I've picked a new location
+	<message label="960_03" attrib="00 00 18">I've picked a new location
 for the <colour id="1" />shop<colour id="65535" />!</message>
-	<message label="960_04" attrib="00 00 17">I've picked a new location
+	<message label="960_04" attrib="00 00 18">I've picked a new location
 for the <colour id="1" />tailor shop<colour id="65535" />!</message>
-	<message label="960_05" attrib="00 00 17">I picked a new location for
+	<message label="960_05" attrib="00 00 18">I picked a new location for
 the <colour id="1" />campsite<colour id="65535" />! I hope we get
 even more visitors now!</message>
-	<message label="990" attrib="00 09 21">I'm searching for treasure right now,<delay20 />
+	<message label="990" attrib="00 09 22">I'm searching for treasure right now,<delay20 />
 so I'll look for a good place for this
 some other time.</message>
-	<message label="1001" attrib="00 00 17"><tag a="110" b="0" />My phone is ringing.</message>
-	<message label="1002" attrib="00 00 17">Oops! There goes my phone again.</message>
+	<message label="1001" attrib="00 00 18"><tag a="110" b="0" />My phone is ringing.</message>
+	<message label="1002" attrib="00 00 18">Oops! There goes my phone again.</message>
 </msbt>

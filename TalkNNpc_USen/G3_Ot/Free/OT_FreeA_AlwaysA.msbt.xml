@@ -77,12 +77,15 @@ it's important to have some
 "me time," I say!
 <anim id="Nodding" target="actor" targetSpec="" />Which is why I recently reserved
 a small karaoke room for me and
-me alone. <tag a="50" b="3" /><tag a="110" b="6" />.
+me alone.
 <anim id="HappyDance" target="actor" targetSpec="" />I spent an hour singing my heart out
 at the top of my lungs! <delay20 />I tell you,<delay frames="13" /><anim id="Dance" target="actor" targetSpec="" />
-it was incredibly freeing<tag a="110" b="0" />
-<anim id="Eh" target="actor" targetSpec="" />until I realized the door was open
-a bit<tag a="110" b="0" /><delay20 /><anim id="Laughing" target="actor" targetSpec="" />and everyone could hear me!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+it was incredibly freeing!
+<anim id="Shocked" target="actor" targetSpec="" />Or at least it was until I realized the
+door was open a bit, and everyone
+could hear me!
+<anim id="Laughing" target="actor" targetSpec="" />What a show I must have given
+them, <tag a="110" b="6" />!</message>
 	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I've been hearing ALL about this
 new hot trend called "On Your Own."<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's like this<tag a="110" b="0" /><delay frames="13" /> You go out and do
 something all by yourself.<delay frames="13" /><anim id="Smiling" target="actor" targetSpec="" /> I hear it
@@ -141,4 +144,31 @@ the world.
 <anim id="EmotEnd" target="actor" targetSpec="" />But now I have a place, here on
 <tag a="110" b="8" />.<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />And I'm done
 singing sad songs, <tag a="110" b="6" />!</message>
+	<message label="021" attrib="16 00 00 01 00 00 00 09">Now,<delay8 /> be honest, <tag a="110" b="3" /><tag a="110" b="0" />
+<anim id="QuestionMark" target="actor" targetSpec="" />What do you think of all this
+selfie business?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I know, I know. Selfies are ALL
+the rage<tag a="110" b="0" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="022_01" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Still,<delay8 /> it's not my cup of tea.<delay20 /> <anim id="Serious" target="actor" targetSpec="" />I mean,
+really! <delay20 />Standing there, <delay8 />taking a
+photo of yourself!<delay20 /><anim id="OhGeez" target="actor" targetSpec="" /> How gauche!
+<anim id="Hesitate" target="actor" targetSpec="" />Of course, <tag a="110" b="5" />,<delay8 /> if YOU
+were to offer to take my photo, <delay8 />why,<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />I'd have no choice but to say yes!
+<anim id="Blushing" target="actor" targetSpec="" />Just make sure it looks as if I took
+it myself, darling. <delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />I'm sure you
+understand.</message>
+	<message label="022_02" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I've even given them a try.
+Really, I have, <tag a="110" b="6" />.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />But holding a NookPhone above my
+face,<delay8 /> trying to get a perfect angle<tag a="110" b="0" /><delay20 />
+<anim id="Sighing" target="actor" targetSpec="" />My arms are like rubber afterwards!
+I say, why work up a sweat<delay8 /><anim id="SmugFace" target="actor" targetSpec="" /> when you
+can pay a professional photographer
+to do all the heavy lifting for you?</message>
+	<message label="022_03" attrib="00 00 00 00 00 00 00 00">It's just<tag a="110" b="0" />every time I try, <anim id="Worried" target="actor" targetSpec="" />I can never
+decide which angle looks best.<pageBreak />From above and to the left?<delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />
+From above and to the right?<delay frames="40" />
+<anim id="OhGeez" target="actor" targetSpec="" />From above and in the middle?
+Honestly, my dear,<anim id="SmugFace" target="actor" targetSpec="" /> they all look so
+good, it's impossible to decide.</message>
 </msbt>

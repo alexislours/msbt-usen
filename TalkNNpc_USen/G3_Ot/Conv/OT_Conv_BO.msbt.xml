@@ -1,5 +1,5 @@
 <msbt attribsize="8">
-	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Oh <tag a="110" b="3" />,<delay20 /> <anim id="Thinking" target="subNpc" targetSpec="" />you're here
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Oh, <tag a="110" b="3" />,<delay20 /> <anim id="Thinking" target="subNpc" targetSpec="" />you're here
 just in time.<pageBreak /><20_2 arg="5" /><anim id="Explain" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd01" /> is trying to figure
 out what the J stands for in a
 PB-and-J sandwich. <delay frames="40" /><anim id="Negative" target="actor" targetSpec="" />I kid you not.</message>
@@ -79,7 +79,7 @@ writing desk?"<anim id="FaintSmile" target="subNpc" targetSpec="" />
 	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, <delay8 /><20_2 arg="2" />just like that...<delay20 /><anim id="EmotEnd" target="mainNpc" targetSpec="" />but totally
 different. <delay20 /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" />See,<delay20 /> I'm makin' up my OWN
 riddles. <delay20 />And they're WAY better!<anim id="Eh" target="mainNpc" targetSpec="" />
-<20_3 arg="8" />Hey <tag a="110" b="3" />, <anim id="EmotEnd" target="mainNpc" targetSpec="" /><20_3 arg="6" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />you wanna
+<20_3 arg="8" />Hey, <tag a="110" b="3" />, <anim id="EmotEnd" target="mainNpc" targetSpec="" /><20_3 arg="6" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />you wanna
 hear one?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="103_a" attrib="00 00 00 00 00 00 00 00">Of course I do!</message>
 	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Do I have a choice?</message>

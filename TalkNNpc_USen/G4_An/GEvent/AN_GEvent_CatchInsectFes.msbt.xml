@@ -38,4 +38,22 @@ out there, <tag a="110" b="5" />!</message>
 	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Just when you think you can't catch
 another bug<tag a="110" b="0" /><delay20 />you gotta dig deep and
 will yourself to keep going! <delay20 /><anim id="Grin" target="actor" targetSpec="" />YEAH!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How's your bug catchin' going?<delay8 />
+Net any big, scary ones yet?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />The scary ones are definitely the
+coolest. <delay20 />I'm trying to catch as many
+of those as I can, <tag a="110" b="5" />!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />You can't go after a bug swinging a
+net like you're the drummer in a bad
+<tag a="135" b="4" arg="0xcd00" /> band, <tag a="110" b="5" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Bug catching is like a ballad.<delay20 /> You go
+slow, <delay8 />sneak up on the audience, <delay8 />then
+<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />POW!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />That's how you get 'em!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I hate it when I'm sneaking up on a
+bug and I see someone else going for
+the exact same one, <tag a="110" b="5" />!<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Then we both rush it, and one of us
+screws up and makes a noise, <delay8 />then
+away it goes.<delay frames="40" /> <anim id="Outraged" target="actor" targetSpec="" />So<delay8 /> stinkin'<delay8 /> frustrating!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />You ever get sick of chasing bugs all
+over the place, <tag a="110" b="5" />?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Like, why can't they all just hang out
+in one spot? <delay20 />You walk up, <delay8 />swing your
+net one time, and<delay8 /> <anim id="EmotEnd" target="actor" targetSpec="" />BAM!<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />All the bugs!</message>
 </msbt>

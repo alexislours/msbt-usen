@@ -60,9 +60,7 @@ for a game like that, <tag a="110" b="6" />!</message>
 	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Whaaat!<delay40 /> <anim id="OhGeez" target="actor" targetSpec="" />It's your chance to get a
 future pop star on your island, 'K?<delay20 />
 <anim id="Pardon" target="actor" targetSpec="" />Think of the tourism Bells!</message>
-	<message label="203_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Alright, time for a card game, then!<delay40 /><anim id="Greeting" target="actor" targetSpec="" />
-Guess what's on the card I'm about
-to draw, <tag a="110" b="6" />!</message>
+	<message label="203_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Alright, time for a card game, then!</message>
 	<message label="204" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="204_01" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />I won!<delay40 /> Sorry,<delay20 /> but I won't be moving.</message>
 	<message label="204_02" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />I win!<delay40 /> I won't be filling your island
@@ -200,6 +198,14 @@ for my favorite part<tag a="110" b="0" /><anim id="Clapping" target="actor" targ
 <tag a="110" b="3" />, right?<pageBreak />Well, I have a sense for these things,
 and my senses are saying<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> this is
 going to be sensational!</message>
+	<message label="309_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Thanks for waiting!<delay20 /> SO I went to
+<tag a="50" b="17" arg="0xf 0xcd00 0x6 0x68 0x69 0x73 0x6 0x68 0x65 0x72 0x0" /> pad,<delay20 /><anim id="Negative" target="actor" targetSpec="" /> but no one answered.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />And guess why. <delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />Because <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x68 0x65 0x6 0x73 0x68 0x65 0x0" /> totes
+already moved!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Which means I can move to thiiiiis
+island!<delay frames="45" /><anim id="EmotEnd" target="actor" targetSpec="" /> I mean, like,<delay8 /> talk about lucky.<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Ohmigosh! <delay8 />I suppose it's time for a
+proper intro!<delay frames="40" /> I'm <anim id="Dance" target="actor" targetSpec="" />your new fave soon-
+to-be pop star, <tag a="110" b="10" />!
+<anim id="Smiling" target="actor" targetSpec="" />You're <tag a="110" b="3" />, amiright?<delay frames="30" />
+<anim id="Clapping" target="actor" targetSpec="" />We're gonna hang out SO much!<delay frames="50" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
 	<message label="310" attrib="00 00 01 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />You don't have anyone in mind
 after all, <tag a="110" b="6" />?</message>
 	<message label="310_a" attrib="00 00 00 00 00 00 00 00">There is!</message>

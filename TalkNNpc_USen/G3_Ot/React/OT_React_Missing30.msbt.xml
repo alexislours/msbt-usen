@@ -6,8 +6,7 @@ What HAVE you been doing?!
 <anim id="Crying" target="actor" targetSpec="" />You've come back and seem to be
 well, and that's all that matters.
 <anim id="Worried" target="actor" targetSpec="" />I-<delay8 />I'm sorry. <delay8 />I'm just overwhelmed!<delay20 />
-<anim id="BigSmile" target="actor" targetSpec="" />Oh <tag a="110" b="3" />,<delay8 />
-welcome home, <tag a="110" b="6" />!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+<anim id="BigSmile" target="actor" targetSpec="" />Oh, <tag a="110" b="3" /><tag a="110" b="0" /><pageBreak />Welcome home, <tag a="110" b="6" />!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
 	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Well, well<tag a="110" b="0" />it's <tag a="110" b="3" />!<10_4 />
 <anim id="EmotEnd" target="actor" targetSpec="" />Why, <delay8 /><anim id="Thinking" target="actor" targetSpec="" />I haven't seen you in<tag a="110" b="0" /><delay8 /><tag a="90" b="1" arg="0x2" /> <50_8 x="0" y="2" a="years" b="year" c="years" /><delay8 />
 and <tag a="90" b="1" arg="0x1" /> <50_8 x="0" y="1" a="months" b="month" c="months" />.

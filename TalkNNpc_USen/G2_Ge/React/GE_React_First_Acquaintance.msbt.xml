@@ -237,10 +237,8 @@ everything—and everyone—I knew!<pageBreak />I moved! <delay20 />Here! <delay
 Walking distance from your house!<10_4 />
 You! The only person I know here!<pageBreak />We are going to talk SO MUCH.</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
-	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Heeeey <tag a="110" b="3" />!<delay40 />
-<anim id="EmotEnd" target="actor" targetSpec="" />Thanks for your suggestion
-back at the <colour id="1" />campsite<colour id="65535" />!<delay20 />
-<anim id="FaintSmile" target="actor" targetSpec="" />I'm here, just like I promised!<delay20 />
+	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Heeeey, <tag a="110" b="3" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Thanks for your suggestion
+back at the <colour id="1" />campsite<colour id="65535" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'm here, just like I promised!<delay20 />
 <anim id="HappyDance" target="actor" targetSpec="" />And I'm already in love with
 <tag a="110" b="8" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm so pumped I get to be neighbors
 with you, <tag a="110" b="3" />!</message>

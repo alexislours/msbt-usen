@@ -82,7 +82,7 @@ head to toe<tag a="110" b="0" /><anim id="Blushing" target="actor" targetSpec=""
 <colour id="65535" />to our <colour id="1" />island's scenery<colour id="65535" />!
 <anim id="Smiling" target="actor" targetSpec="" />Of course, there's always room for
 improvement, isn't there?<pageBreak />So keep contributing however you
-can<delay8 /><anim id="Nodding" target="actor" targetSpec="" /> and soon this <colour id="1" />island will be
+can,<delay8 /><anim id="Nodding" target="actor" targetSpec="" /> and soon this <colour id="1" />island will be
 decorated<colour id="65535" /> to perfection!</message>
 	<message label="022" attrib="00 00 00 00">If I'm reading these reports correctly,
 <delay20 /><anim id="Smiling" target="actor" targetSpec="" />people think the <colour id="1" />island's natural
@@ -126,7 +126,7 @@ used some <colour id="1" />fencing <colour id="65535" />here and there.
 beauty, what's the very first
 thing you think of?
 <anim id="HappyFlower" target="actor" targetSpec="" /><colour id="1" />Flowers<colour id="65535" />, of course!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Spend some time watering the
-island's flowers<anim id="HappyDance" target="actor" targetSpec="" /> and soon you'll have
+island's flowers,<anim id="HappyDance" target="actor" targetSpec="" /> and soon you'll have
 a blooming paradise on your hands!</message>
 	<message label="025_01" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />If there's one thing I believe,<delay8 />
 it's that you can never have
@@ -157,8 +157,8 @@ some infrastructure to the island.
 an island based on the types and
 number of shops it has.
 <anim id="QuestionMark" target="actor" targetSpec="" />What screams "development" more
-than a wide range of storefronts?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Nothing! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Anyway, it's just an idea
-and <anim id="WrySmile" target="actor" targetSpec="" />in no way related to my own
+than a wide range of storefronts?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Nothing! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Anyway, it's just an idea,
+and <anim id="WrySmile" target="actor" targetSpec="" />it's in no way related to my own
 shopping habits.</message>
 	<message label="031" attrib="00 00 00 00">There's just one more thing
 I'd like to mention<tag a="110" b="0" /></message>
@@ -216,11 +216,11 @@ special achievement, <delay20 /><anim id="Smiling" target="actor" targetSpec="" 
 residents with a recipe for<tag a="110" b="0" />
 <anim id="EmotEnd" target="actor" targetSpec="" />a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />golden watering can<colour id="65535" />!<delay20 /><anim id="Clapping" target="actor" targetSpec="" /><delay20 /><pageBreak /><anim id="Hello" target="actor" targetSpec="" />If you pull out your phone,
 I can send you the data right now!</message>
-	<message label="202" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />OK! <delay20 />You should have it now.<10_4 />
-<anim id="Smiling" target="actor" targetSpec="" />I can't wait to see that <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />golden watering can<colour id="65535" /><delay8 /><anim id="HappyFlower" target="actor" targetSpec="" />
-and all the flowers it will water!</message>
+	<message label="202" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />OK! <delay8 />You should have it now.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />I can't
+wait to see that <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />golden watering can<colour id="65535" /><delay8 />
+<anim id="HappyFlower" target="actor" targetSpec="" />and all the flowers it will water!</message>
 	<message label="501" attrib="00 00 00 00"><20_3 arg="8" /><20_2 arg="7" /><anim id="TakenAback" target="actor" targetSpec="" />Whoa, whoa<tag a="110" b="0" /><delay8 /><anim id="Shocked" target="actor" targetSpec="" /> WHOA!<20_2 arg="2" /><delay40 />
-Am I hallucinating or was that
+Am I hallucinating, or was that
 feedback signed by a "K.S."?!</message>
 	<message label="502" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hm? <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Yes, there it is. <delay8 />Very clear.<pageBreak />"K.S." <delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />And the penmanship is quite
 striking, if I do say so myself<tag a="110" b="0" /></message>

@@ -8,9 +8,9 @@ Museum Day, we're holding a
 and fossil galleries each have
 <colour id="1" />three stamp stations<colour id="65535" /><tag a="110" b="0" />
 <anim id="Nodding" target="actor" targetSpec="" />You must find the stations within
-each gallery and acquire the
-necessary stamps to earn a <colour id="1" />prize<colour id="65535" />.
-<anim id="FaintSmile" target="actor" targetSpec="" />You can earn three unique prizes,
+each gallery and acquire the stamps
+necessary to earn a <colour id="1" />memento<colour id="65535" />.
+There are three unique mementos—<anim id="FaintSmile" target="actor" targetSpec="" />
 one for completing the rally in each
 of the three galleries!<delay20 /><anim id="Clapping" target="actor" targetSpec="" /> Hoo, it's true!
 <anim id="HappyDance" target="actor" targetSpec="" />Do be sure to give it a go whilst
@@ -25,9 +25,9 @@ at the museum today.</message>
 you see.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />That way the rally remains a fresh
 challenge even for those who've
 already given it a go.
-Now, the <colour id="1" />prizes <colour id="65535" />do remain the same.
-<anim id="Nodding" target="actor" targetSpec="" />Still, you can win additional copies
-by playing each new day.
+Now, the <colour id="1" />mementos <colour id="65535" />do remain the
+same.<delay8 /> <anim id="Nodding" target="actor" targetSpec="" />Still, you can win additional
+copies by playing each new day.
 <anim id="Clapping" target="actor" targetSpec="" />'Tis quite a hoot! Do give it a try!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
 	<message label="007" attrib="00 00 00 00">By the by,<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /> we are hosting a <colour id="1" />Stamp
 Rally <colour id="65535" />today in honor of International
@@ -35,50 +35,51 @@ Museum Day.</message>
 	<message label="011" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />By my beak! <delay frames="30" /><anim id="BigSmile" target="actor" targetSpec="" />You've finished the
 Stamp Rally in the <colour id="1" />bug<colour id="65535" /> exhibit!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Your willingness to explore the bug
 rooms with such gusto is<tag a="110" b="0" />admirable.<delay20 />
-<size value="75" /><anim id="Shaking" target="actor" targetSpec="" />I, myself, find lingering there quite impossible!<size value="100" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Anyhoot, <delay8 /><anim id="Smiling" target="actor" targetSpec="" />here is the prize that was
-promised!</message>
+<size value="75" /><anim id="Shaking" target="actor" targetSpec="" />I, myself, find lingering there quite impossible!<size value="100" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Anyhoot, <delay8 /><anim id="Smiling" target="actor" targetSpec="" />here is the commemorative
+item that was promised!</message>
 	<message label="012" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hoot! I say, hoo!<delay8 /> Look at you!<delay20 />
 <anim id="Clapping" target="actor" targetSpec="" />You've finished the Stamp Rally
 in the <colour id="1" />fish<colour id="65535" /> gallery!<delay frames="45" /><anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak />I say,<delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /> did you happen to take any
 photographs of your quest?<pageBreak /><anim id="Hello" target="actor" targetSpec="" />Your <colour id="1" />NookPhone<colour id="65535" /> takes marvelous
 photos.<delay frames="30" /> <anim id="AbsentMindedness" target="actor" targetSpec="" />And the fish rooms make an
 elegant backdrop, to be sure.
-<anim id="Eh" target="actor" targetSpec="" />Wot wot?! <delay frames="50" /><anim id="Blushing" target="actor" targetSpec="" />Ah!<delay8 /> Of course!<delay8 /> Here's that
-prize you were promised.</message>
+<anim id="Eh" target="actor" targetSpec="" />Wot wot?! <delay frames="50" /><anim id="Blushing" target="actor" targetSpec="" />Ah!<delay8 /> Of course!<delay8 /> Here is
+the commemorative item you
+were promised.</message>
 	<message label="013" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />My feathers!<delay frames="30" /><anim id="HappyDance" target="actor" targetSpec="" /> You've finished the
 Stamp Rally in the <colour id="1" />fossil<colour id="65535" /> gallery!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />As the host of these rallies, it
 pleases me to my pinfeathers to
 see you frolic amid the fossils so!
 Indeed, <anim id="Smiling" target="actor" targetSpec="" />it is with great pride that
-I present you with the prize you
-were promised.</message>
+I present you with the memento
+you were promised.</message>
 	<message label="014" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Eh wot?! <delay20 />Your pockets!<delay20 /><anim id="Serious" target="actor" targetSpec="" /> They're
 stuffed to bursting.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Come back once you've organized
 yourself, and I shall give you your
-reward.</message>
-	<message label="015" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's more like it. <delay20 />Organizing one's
-pockets feels good, no? <delay20 />Now, <anim id="FaintSmile" target="actor" targetSpec="" />here is
-that Stamp Rally prize you earned.</message>
+commemorative item.</message>
+	<message label="015" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's more like it. <delay8 />Organizing one's
+pockets feels good, no?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Now, here is that Stamp Rally
+memento you earned.</message>
 	<message label="021" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Jolly good. I shall now present you
 with the completion stamp.</message>
 	<message label="022" attrib="00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Wot wot?!<delay20 /> <anim id="Thinking" target="actor" targetSpec="" />It seems you've already
-acquired the prize for the <colour id="1" />bug <colour id="65535" />rally
-today, <tag a="110" b="1" /><tag a="110" b="0" /></message>
+acquired the memento for the <colour id="1" />bug
+<colour id="65535" />rally today, <tag a="110" b="1" /><tag a="110" b="0" /></message>
 	<message label="023" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />I say!<delay8 /> What's this?<delay20 /> <anim id="Thinking" target="actor" targetSpec="" />It appears you've
-already earned the prize for the
+already earned the memento for the
 <colour id="1" />fish <colour id="65535" />rally today, <tag a="110" b="1" /><tag a="110" b="0" /></message>
 	<message label="024" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Say now, <tag a="110" b="1" />!<delay frames="30" /> <anim id="Thinking" target="actor" targetSpec="" />It looks
-as though you've already won the
-prize for the <colour id="1" />fossil<colour id="65535" /> rally today<tag a="110" b="0" /></message>
+as though you've already earned the
+memento for the <colour id="1" />fossil<colour id="65535" /> rally today<tag a="110" b="0" /></message>
 	<message label="025" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Why, to think that you would join in,
-even though you'd already earned
-your reward!
+even though you've already earned
+your commemorative item!
 <anim id="Clapping" target="actor" targetSpec="" />Truly, I am honored! <delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />Your dedication
 to and enthusiasm for museum
 exploration warm my downy heart.
 <anim id="Blushing" target="actor" targetSpec="" />Alas, <delay8 />while I'd like nothing more than
-to give you another reward,<delay8 /> they are
-limited in number each day.
+to give you another memento,<delay8 /> they
+are limited in number each day.
 <anim id="FaintSmile" target="actor" targetSpec="" />I'm afraid I can only present
 you with a completion stamp
 at this time.</message>

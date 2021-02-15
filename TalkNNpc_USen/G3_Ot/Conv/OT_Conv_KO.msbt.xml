@@ -93,8 +93,8 @@ Whatever you do, <delay8 />I beg you,<delay8 /> <anim id="Negative" target="acto
 DO NOT try to smile ever again.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Gahaha!<20_2 arg="4" /> <delay frames="40" />Now THAT <delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />puts a smile
 on my face!</message>
-	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="subNpc" targetSpec="" /><20_2 arg="5" /><anim id="Greeting" target="actor" targetSpec="" />See, <delay8 />darling?<delay20 /><20_2 arg="7" /><20_2 arg="3" />
-Even <tag a="110" b="3" /> agrees.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Perhaps you should try
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="subNpc" targetSpec="" /><20_2 arg="5" /><anim id="Greeting" target="actor" targetSpec="" />See, <delay8 />darling?<pageBreak /><20_2 arg="7" /><20_2 arg="3" />Even <tag a="110" b="3" /> agrees.
+<anim id="FaintSmile" target="actor" targetSpec="" />Perhaps you should try
 speaking more<tag a="110" b="0" /><delay8 />softly.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
 	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />More softly?<20_2 arg="2" /> <delay frames="40" /><anim id="Angry" target="actor" targetSpec="" />More SOFTLY?!<anim id="Worried" target="mainNpc" targetSpec="" /><pageBreak />What am I<tag a="110" b="0" /><anim id="Outraged" target="actor" targetSpec="" />a down comforter?!<delay20 />
 A flower PETAL?! <anim id="Eh" target="mainNpc" targetSpec="" /><delay20 /><anim id="Fuming" target="actor" targetSpec="" />A GOLDARN

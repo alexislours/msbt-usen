@@ -102,4 +102,37 @@ huh, <tag a="110" b="3" />?</message>
 	<message label="024" attrib="00 00 00 00 00 00 00 00">I can tell what folks are having
 for dinner just by the smell!<delay40 />
 It's basically a superpower.</message>
+	<message label="025" attrib="1a 00 00 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" />I've been working on some new
+ways to say "hi" to folks around
+the island<tag a="110" b="0" /></message>
+	<message label="026" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="026_01" attrib="1b 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />One idea is to use a super-polite but
+super-LOUD voice from far away.<delay frames="40" />
+<anim id="Cheering" target="actor" targetSpec="" />LIKE THIS! <delay20 />WHAT DO YOU THINK?!</message>
+	<message label="026_02" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />One idea that I wanna try is being
+a little quieter. You know, in case
+we're nervous about meeting up.
+<anim id="Silent" target="actor" targetSpec="" />Just like<tag a="110" b="0" /><delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />"HEY!<delay20 /> It's me,
+<tag a="110" b="10" />!"<pageBreak /><anim id="Blushing" target="actor" targetSpec="" /><size value="75" />Ahh! I did it again<tag a="110" b="0" /><delay frames="40" /><size value="100" />
+<anim id="OhGeez" target="actor" targetSpec="" />Sorry.<delay20 /> I guess I get kinda loud
+when I'm nervous, <tag a="110" b="5" />.</message>
+	<message label="026_03" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I think I want to start by answering
+a question that the other person
+hasn't even asked yet.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Like<tag a="110" b="0" />I'll just say, "My favorite food
+is <tag a="135" b="7" arg="0xcd00" />."<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />And then they
+won't know WHAT to say!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />And then we'll get some
+<tag a="135" b="7" arg="0xcd00" /> together and
+hang out. <delay20 />Win-win!</message>
+	<message label="027" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="10" arg="0x1c 0x1c 0x1d 0x1d 0x1e 0x1e" /></message>
+	<message label="028" attrib="00 00 00 00 00 00 00 00"><tag a="10" b="12" /><anim id="Cheering" target="actor" targetSpec="" /><delay20 /><size value="150" />Gooood morning!<size value="100" /><delay frames="50" /><size value="150" />
+<size value="100" /><anim id="Apologize" target="actor" targetSpec="" /><size value="150" />It's <tag a="110" b="10" />!<size value="100" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Sorry, I just wake up at full volume
+and slowly get quieter until I fall
+asleep for that first nap of the day.</message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><tag a="10" b="12" /><anim id="Cheering" target="actor" targetSpec="" /><delay20 /><size value="150" />Yooooo! <delay20 />It's me,
+<tag a="110" b="10" />!<size value="100" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm using my outdoor voice!
+A huh huh huh<tag a="110" b="0" /></message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><tag a="10" b="12" /><anim id="Cheering" target="actor" targetSpec="" /><size value="150" />Nighty-night! <delay frames="40" />Sincerely,
+<tag a="110" b="10" />!<size value="100" /><delay frames="50" /><pageBreak /><anim id="Oops" target="actor" targetSpec="" />Oh, was that too loud?<delay20 /> Also, I'm
+not going to bed yet. <delay20 /><anim id="Grin" target="actor" targetSpec="" />Just warming
+up for the grand finale, a huh huh<tag a="110" b="0" /></message>
 </msbt>

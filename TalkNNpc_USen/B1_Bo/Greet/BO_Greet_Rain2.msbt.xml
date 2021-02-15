@@ -3,8 +3,9 @@
 	<message label="002" attrib="00 00 00 01 00 03 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
 	<message label="003" attrib="00 00 00 01 00 04 00 00"><tag a="60" b="7" arg="0xb10 0xc00 0xcd00" /></message>
 	<message label="004" attrib="00 00 00 01 00 09 00 00"><tag a="60" b="7" arg="0xd10 0xe00 0xcd00" /></message>
-	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><delay20 />If the rain ever stops, we might see
-a rainbow. <anim id="Love" target="actor" targetSpec="" /><delay20 />Fingers crossed!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />If the rain gets you down, just think
+about rainbows, <tag a="110" b="5" />. <delay20 /><anim id="Love" target="actor" targetSpec="" />That's
+what I do!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><delay20 />Hey there. <10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />Think this weather'll ever
 let up?<delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" /> I sure hope not!<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="008" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Gooooooooooood wet morning!<delay frames="40" />

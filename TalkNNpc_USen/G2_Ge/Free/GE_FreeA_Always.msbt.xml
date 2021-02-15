@@ -156,4 +156,32 @@ someone famous. <delay40 />That way I'll be
 more interesting!<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />I'm already interesting? <delay frames="40" /><anim id="Love" target="actor" targetSpec="" />Are you
 trying to get on my good side,
 <tag a="110" b="3" />? <10_4 />It's working!</message>
+	<message label="031" attrib="20 00 00 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />OK. <delay20 />So lately,<delay20 /> I've been craving
+<tag a="135" b="3" arg="0xcd00" /> nonstop.</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x21 0x22 0x23" /></message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />It's one of those classic dishes
+you can dress up<delay8 /> or dress down
+depending on the situation.
+<anim id="Nodding" target="actor" targetSpec="" />When I'm in the mood for a fancy
+meal,<delay8 /> I like to cover the whole thing
+with whipped cream and sprinkles.
+It's, like,<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" /> a savory sundae!<delay40 /> <anim id="Explain" target="actor" targetSpec="" />Top it off
+with <tag a="50" b="2" /><tag a="110" b="7" arg="0xcd00" /> garnish<delay8 /> and
+you've got a four-star meal.
+<anim id="Hesitate" target="actor" targetSpec="" />Well, actually,<delay20 /> I gave it five stars.<delay20 />
+But I'm biased.<delay40 /> <anim id="BigSmile" target="actor" targetSpec="" />I can't wait to hear
+what you think, <tag a="110" b="3" />!</message>
+	<message label="034" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />But if I had to choose between that
+and <tag a="135" b="1" arg="0xcd00" />,<delay20 /> I'd pick
+<tag a="135" b="1" arg="0xcd00" /> every time.
+<anim id="Serious" target="actor" targetSpec="" />No joke,<delay8 /> it makes an awesome chip
+dip. <delay40 /><anim id="SmugFace" target="actor" targetSpec="" />It's the dark horse of every
+potluck spread.</message>
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />The best part about it?<delay40 /><anim id="Love" target="actor" targetSpec="" /> It looks as
+good as it tastes!<delay40 /><anim id="AbsentMindedness" target="actor" targetSpec="" /> Its silhouette is a
+thing of gastronomic beauty.
+<anim id="Shocked" target="actor" targetSpec="" />Ohmigosh. <delay20 />What would be more epic
+than a red-carpet look inspired by a
+gorgeous gourmet meal?
+<anim id="EmotEnd" target="actor" targetSpec="" />Nothing!</message>
 </msbt>

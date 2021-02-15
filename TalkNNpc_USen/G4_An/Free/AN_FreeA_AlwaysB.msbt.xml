@@ -99,4 +99,23 @@ break that habit, but everyone really
 seemed to appreciate it once I did.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />One of these days, I need to tell my
 parents "thank you."<delay frames="40" /> <anim id="WrySmile" target="actor" targetSpec="" />It'll probably
 blow their minds, <tag a="110" b="5" />!</message>
+	<message label="050" attrib="00 00 00 01 00 00 00 09"><tag a="60" b="20" /></message>
+	<message label="050_01" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I was visiting my parents, and we
+found a photo of my great-grandma
+when she was still a little <tag a="110" b="15" />.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I look so much like her, it was weird!<delay20 />
+I never knew her, but<tag a="110" b="0" /><delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />now it kinda
+feels like I do, <tag a="110" b="5" />.</message>
+	<message label="050_02" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Sometimes I can't stand looking at
+photos of myself when I was small.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Every one of 'em is the same. <delay20 />I'm
+always in the same old hoodie, and
+I've always got the same smirk.<delay20 /> <anim id="SadSpiral" target="actor" targetSpec="" />Ugh.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Still, <delay8 />it's fun to remember what stuff
+was like when the photos were taken,
+so I guess that makes it worth it.</message>
+	<message label="050_03" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I was cleaning and found an old
+photo. <delay20 />There's a guy in it I haven't
+talked to in years.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I wonder what he's been up to.<delay20 />
+Last I knew, he was the drummer
+for <delay8 /><capitaliseNextWord /><tag a="135" b="5" arg="0xcd00" /> Bungalow.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I really should call him and catch up.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Maybe I can call his agent and get
+his number, <tag a="110" b="5" />.</message>
 </msbt>

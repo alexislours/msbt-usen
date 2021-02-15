@@ -1,35 +1,39 @@
 <msbt attribsize="4">
 	<message label="001" attrib="00 00 00 00">Right on. I'm tuned up and ready
-to roll. This one's called
-<anim id="EmotEnd" target="actor" targetSpec="" /><10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" />.<10_7 arg="180" /></message>
+to roll. Who's in the mood for a little
+<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" />?<10_7 arg="180" /></message>
 	<message label="002" attrib="00 00 00 00">Right on, let's get this show started.
-This one's for <tag a="115" b="0" arg="0xcd00" />.<delay frames="60" />
-I call it <colour id="1" /><anim id="EmotEnd" target="actor" targetSpec="" /><10_5 /><tag a="140" b="9" arg="0xcd00" /><endTag a="10" b="5" /><colour id="65535" />.<10_7 arg="180" /></message>
+Goin' out to <tag a="115" b="0" arg="0xcd00" />,<delay frames="60" /> it's
+<colour id="1" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_5 /><tag a="140" b="9" arg="0xcd00" /><endTag a="10" b="5" /><colour id="65535" /> time.<10_7 arg="180" /></message>
 	<message label="003" attrib="00 00 00 00"><snpcAnim id="TkkNodding" target="actor" targetSpec="" />Cool, daddio.<delay frames="40" /> Thank you.<delay frames="40" /> Did that
 hit your ears right?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Well, I've got a confession.<delay frames="40" /> I didn't
 know the song you wanted,<snpcAnim id="TkkNodding" target="actor" targetSpec="" /> so I
 pulled one out of my back catalog.<10_7 arg="180" /></message>
 	<message label="004" attrib="00 00 00 00">Right on, <snpcAnim id="TkkNodding" target="actor" targetSpec="" />you hep cats and kittens.
 <tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" />'s in the mood
-for <anim id="EmotEnd" target="actor" targetSpec="" /><10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" />.<10_7 arg="180" /></message>
+for <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" />, dig?<10_7 arg="180" /></message>
 	<message label="005" attrib="00 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Feelin' dullsville, <tag a="115" b="0" arg="0xcd00" />?<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />
-I've got a tune that'll put that 'tude
-to bed: <10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" />.<10_7 arg="180" /></message>
+This will put some pep in your
+step: <delay20 /><10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" />!<10_7 arg="180" /></message>
 	<message label="006" attrib="00 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Want to drive slow in the fast lane?
-<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />I dig it. <delay frames="40" />Focus your audio and enjoy
-<10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" />.<10_7 arg="180" /></message>
+<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />I can dig it. <delay frames="40" />Why not tune your dial to
+<delay20 /><10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" /> a while?<10_7 arg="180" /></message>
 	<message label="007" attrib="00 00 00 00">Feeling downbeat, huh? <delay frames="40" />Well,<snpcAnim id="TkkNodding" target="actor" targetSpec="" />
-let me lay that beat down on
-<anim id="EmotEnd" target="actor" targetSpec="" /><10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" />.<10_7 arg="180" /></message>
+let me lay that beat down,
+<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" /> style.<10_7 arg="180" /></message>
 	<message label="008" attrib="00 00 00 00"><snpcAnim id="TkkNodding" target="actor" targetSpec="" />This one's for all you cats who don't
-like to be boxed in.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Call it
-<10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" />.<10_7 arg="180" /></message>
-	<message label="009" attrib="00 00 00 00">This one goes out to my cool cat
-<tag a="110" b="16" />.<delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" /> Stay sharp.<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" />
-<10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" />, hit it!<10_7 arg="180" /></message>
+like to be boxed in.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Let's take a trip
+to <delay20 /><10_5 /><tag a="125" b="0" arg="0x0" /><endTag a="10" b="5" /> town.<10_7 arg="180" /></message>
+	<message label="009" attrib="00 00 00 00">This birthday blast goes out to
+my cool cat <tag a="110" b="16" />.<delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" /> It's
+<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /><10_5 /><tag a="125" b="0" arg="0x0" /> time.<endTag a="10" b="5" /><10_7 arg="180" /></message>
 	<message label="011" attrib="00 00 00 00">Right on. <snpcAnim id="TkkNodding" target="actor" targetSpec="" />Let's set sail for
 groovesville with some choice
 notes<anim id="EmotEnd" target="actor" targetSpec="" /> picked just for you.<10_7 arg="180" /></message>
+	<message label="012" attrib="00 00 00 00">Early is the new late, you dig?<delay20 /> So
+let's go get that worm, little birdie<tag a="110" b="0" /></message>
+	<message label="013" attrib="00 00 00 00">If you ask me, it's never too late to
+make the celebration scene<tag a="110" b="0" /></message>
 	<message label="015" attrib="00 00 00 00">Thank you, thank you. To all the hep
 cats and odd dogs in the house.<10_7 arg="180" /></message>
 	<message label="016" attrib="00 00 00 00">That was, like, unreal. Thanks for

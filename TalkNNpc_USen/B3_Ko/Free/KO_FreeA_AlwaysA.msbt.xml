@@ -123,4 +123,33 @@ someone might be snappin' photos!
 to you puts me at ease.<delay40 /> So <anim id="SmugFace" target="actor" targetSpec="" />that'd be
 the best time to take my picture!</message>
 	<message label="027" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0x19 0x1a" /></message>
+	<message label="028" attrib="1d 00 00 01 00 00 00 09"><anim id="AbsentMindedness" target="actor" targetSpec="" />There's nothin' like lookin' up at the
+night sky full of stars, kiddo.<delay20 /> Really
+makes you think<tag a="110" b="0" /></message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="029_01" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Like<tag a="110" b="0" />how can I see that star that's
+about a bazillion miles away, but I
+can't read my paper without glasses?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />What if the bottom of the oceans
+and the top of the mountains are
+kinda the same<tag a="110" b="0" />in a way?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />If <tag a="50" b="2" /><tag a="135" b="5" arg="0xcd00" /> falls off the
+shelf in my garage but I ain't there
+to hear it, does it make a sound?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Bah! <delay20 />That's enough deep thinkin'
+for now. <delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" />I'll just go back to gazin'
+at the stars<tag a="110" b="0" /></message>
+	<message label="029_02" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You know, they say everything's
+made outta stardust or somethin',
+right? <delay frames="40" /><anim id="Angry" target="actor" targetSpec="" />But how can that be?
+<anim id="Shocked" target="actor" targetSpec="" />You're tellin' me that my
+<tag a="135" b="5" arg="0xcd00" /> is made outta
+stardust? <delay20 />And my <tag a="135" b="5" arg="0xcd01" />?!<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />And what about the <tag a="135" b="3" arg="0xcd00" />
+I had for dinner last night?<delay20 /> I was
+eatin' stars?! <10_4 /><anim id="OhGeez" target="actor" targetSpec="" />Well, it was spicy<tag a="110" b="0" /></message>
+	<message label="029_03" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Like<tag a="110" b="0" />don't those stars kinda look
+like tiny grains of rice?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />And who figured out that we can eat
+rice, anyhow?<delay20 /> Were folks just tastin'
+things and hopin' for the best?<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />And how does taste work? <delay20 />How come
+<tag a="135" b="3" arg="0xcd00" /> is delicious, and
+fried mud is slightly less delicious?<pageBreak /><anim id="Silent" target="actor" targetSpec="" />Don't ask any questions about the
+fried mud. <delay20 />It was a different time
+in my life, <tag a="110" b="5" />.</message>
 </msbt>

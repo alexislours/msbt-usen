@@ -104,11 +104,12 @@ I wanna bite 'em!</message>
 	<message label="405" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Thanks for the pretty flowers!<delay frames="40" />
 They'll make my house smell
 like bee food, <tag a="110" b="6" />!</message>
-	<message label="406" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Duuuude! Did ya catch this yourself?
-<tag a="50" b="3" /><tag a="125" b="0" arg="0x0" /> is so
-num-num-nummy!<anim id="Hello" target="actor" targetSpec="" /></message>
-	<message label="407" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Thanks, <tag a="110" b="4" />!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Man, it looks delicious<tag a="110" b="0" /> <anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />But I'm probably
-not supposed to eat it<tag a="110" b="0" /><10_4 /> <anim id="Scheming" target="actor" targetSpec="" /><size value="75" />Probably<tag a="110" b="0" /><size value="100" /></message>
+	<message label="406" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoaaaaa! Didja catch this yourself,
+<tag a="110" b="5" />? <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />Is it really a real
+<tag a="125" b="0" arg="0x0" />?</message>
+	<message label="407" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Thanks!<delay20 /> I think it'll be my new
+best friend. <delay frames="40" /><anim id="Frantic" target="actor" targetSpec="" />Not counting you,
+I mean!</message>
 	<message label="408" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa!<delay20 /> Is this really
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<delay frames="40" />
 <anim id="Hello" target="actor" targetSpec="" />Did you catch it yourself?</message>
@@ -123,6 +124,14 @@ to<anim id="Nodding" target="actor" targetSpec="" /> <colour id="3" />Blathers<c
 	<message label="411" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh man! This fishy looks real tasty.
 You should show it to <colour id="3" /><anim id="EmotEnd" target="actor" targetSpec="" />Blathers<colour id="65535" /> and
 ask if it's safe for me to eat!</message>
+	<message label="412" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Ooh! <delay20 />Did you get that from the
+bottom of the ocean? <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />It's <tag a="50" b="2" />
+<anim id="Hello" target="actor" targetSpec="" /><tag a="125" b="0" arg="0x0" />, right?</message>
+	<message label="413" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />That's so cool! <delay20 />I'll take really good
+care of it, I promise.</message>
+	<message label="414" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Oh, but<tag a="110" b="0" /><delay20 /> Do you think <colour id="3" />Blathers<colour id="65535" />
+is gonna want it instead?<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />I hate to say it, but maybe you
+should show it to him first<tag a="110" b="0" /></message>
 	<message label="501" attrib="00 00 00 00 00 00 00 00">Huh?<delay frames="40" />
 <anim id="Surprised" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?!</message>
 	<message label="502" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Wait! Uh, <tag a="110" b="4" />?<delay frames="40" />

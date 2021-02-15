@@ -1,6 +1,6 @@
 <msbt attribsize="8">
 	<message label="001" attrib="00 00 0c 01 00 07 00 00">Aren't mornings <delay8 /><anim id="Greeting" target="actor" targetSpec="" />NEAT?!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="002" attrib="00 00 0c 01 00 03 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey there!<delay frames="40" /> What game should I play?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 03 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey there!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="003" attrib="00 00 0c 01 00 04 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey there, walking buddy!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="004" attrib="00 00 0c 01 00 09 00 00"><anim id="Greeting" target="actor" targetSpec="" />It's real dark out!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="011" attrib="00 00 0c 01 00 00 00 07"><anim id="Greeting" target="actor" targetSpec="" /><delay20 />Hi!<delay20 /> It's me! <delay20 /><tag a="110" b="10" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>

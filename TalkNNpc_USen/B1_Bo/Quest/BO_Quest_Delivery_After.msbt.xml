@@ -121,8 +121,7 @@ package to <tag a="115" b="1" arg="0xcd00" />?</message>
 <tag a="115" b="1" arg="0xcd00" /> liked the gift!<delay frames="80" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="302_a" attrib="00 00 00 00 00 00 00 00">Uhh...</message>
 	<message label="302_b" attrib="00 00 00 00 00 00 00 00">I forget.</message>
-	<message label="303" attrib="00 00 02 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />How'd it go?<delay frames="40" />
-Did <tag a="115" b="1" arg="0xcd00" /> like my gift?<delay frames="80" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="303" attrib="00 00 02 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />How'd it go?<pageBreak />Did <tag a="115" b="1" arg="0xcd00" /> like my gift?<delay frames="80" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="303_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Actually...</message>
 	<message label="303_b" attrib="00 00 00 00 00 00 00 00">I forget.</message>
 	<message label="304" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You<tag a="110" b="0" />don't remember?<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />Oh man!

@@ -31,7 +31,7 @@ bring it to him!</message>
 basically rocks, so they're kinda like
 a goal for my muscles.</message>
 	<message label="121" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><delay20 />Thanks! <delay20 />I'm totally gonna stare
-at this during my next <tag a="90" b="1" arg="0x0" />-hour
+at this during my next <tag a="90" b="1" arg="0x100" />-hour
 mega plank, <tag a="110" b="5" />!</message>
 	<message label="122" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />This is really nice! <delay20 />Really, <delay8 />REALLY
 nice. <delay frames="40" />Actually<tag a="110" b="0" /><anim id="Worried" target="actor" targetSpec="" />I think it might be
@@ -110,6 +110,16 @@ He LOVES insects!</message>
 don't you bring it over to <colour id="3" />Blathers<colour id="65535" />?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I bet he<colour id="3" /> <colour id="65535" />could say something smart
 about it. His brain muscles are super
 strong, <tag a="110" b="5" />!</message>
+	<message label="412" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> You're actually giving me
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
+	<message label="413" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />That's neat! <delay20 />I'll take good care of
+it, <tag a="110" b="5" />.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Maybe it'll even make for a good
+workout buddy<tag a="110" b="0" /><delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Do those things
+even HAVE muscles?</message>
+	<message label="414" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa, cool! <10_4 /><anim id="Thinking" target="actor" targetSpec="" />Wait<tag a="110" b="0" />hasn't <colour id="3" />Blathers<colour id="65535" />
+been looking for one of these?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I appreciate the offer, <tag a="110" b="5" />,
+but maybe you should take
+this one to the museum.</message>
 	<message label="501" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Huh?!<delay20 /> Is this <tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" />?</message>
 	<message label="502" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Sorry, I don't need trash.<delay20 /> It's not

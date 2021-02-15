@@ -62,4 +62,18 @@ want to scare off the fish, you know?<delay frames="40" />
 <anim id="Thinking" target="actor" targetSpec="" />If you get too close too soon, you'll
 just freak them out. <delay20 /><anim id="Serious" target="actor" targetSpec="" />We're still
 talking about fishing, <tag a="110" b="5" />.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Reeled in any big fish lately? <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />And
+no.<delay8 /> You can't say me.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Though I would prefer to keep this
+small pond all to myself.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Ah, the distinct and natural aroma of
+fish<tag a="110" b="0" /><delay20 /> There's nothing quite like it,<delay20 /><anim id="Serious" target="actor" targetSpec="" />
+and for that<delay8 /> I am grateful.</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00">I gotta be honest<tag a="110" b="0" /><delay20 /><anim id="OhGeez" target="actor" targetSpec="" />fishing doesn't
+really come naturally to me.<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />But please don't tell anyone I said
+that! <delay20 /><anim id="Worried" target="actor" targetSpec="" />It's listed on my resume under
+"Special Talents," <tag a="110" b="5" />.</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I love how events like this bring our
+little <tag a="110" b="8" /> together.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />It almost makes it worth the lingering
+smell of fish that now follows me
+everywhere I go, <tag a="110" b="5" />.</message>
 </msbt>

@@ -4,28 +4,34 @@ today.<delay20 /> <anim id="Sighing" target="actor" targetSpec="" />I don't wann
 	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Sighing" target="actor" targetSpec="" />I'm not just disappointed,<delay frames="40" />
 I'm <delay8 />totally <delay8 />disappointed.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
 	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Frantic" target="actor" targetSpec="" />Stay away!<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />You'll<delay8 /><anim id="SadSpiral" target="actor" targetSpec="" /> catch<delay8 /> my sad!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
-	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I've been eating too many snacks.
-<anim id="SadSpiral" target="actor" targetSpec="" />Now I'm running out of breath when
-I'm playing.<pageBreak />I thought I was holding back on the
-snacky snacks<tag a="110" b="0" /><delay40 /><anim id="Sighing" target="actor" targetSpec="" /> I have to learn to
-eat better<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
-	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I thought I was holding back
-pretty good with eating snacks,<delay40 />
-<anim id="Worried" target="actor" targetSpec="" />but I'm still overeating!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />I gotta learn to eat better, huh?<endTag a="100" b="1" /></message>
-	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I gotta learn to eat less. I'm running
-out of breath when I play!<endTag a="100" b="1" /></message>
-	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> told me<delay20 /> <anim id="Pardon" target="actor" targetSpec="" />that <gender3 m="he" f="she" />
-thinks<delay20 /><anim id="Worried" target="actor" targetSpec="" /> I eat too much bad food!
-<anim id="Confused" target="actor" targetSpec="" />I wanted to say <gender3 m="he" f="she" /><delay20 /> was wrong<tag a="110" b="0" /><pageBreak />But, well, <anim id="Worried" target="actor" targetSpec="" /><anim id="Crying" target="actor" targetSpec="" />it's hard to talk when
-your mouth is full of potato chips!<delay40 />
-I gotta learn to eat better!</message>
-	<message label="103_a" attrib="00 00 00 00 00 00 00 00">You can learn!</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I gotta learn how to tie shoes.<delay20 />
+I mean, not MY shoes.<delay20 /><anim id="SadSpiral" target="actor" targetSpec="" /> But SOME
+shoes.<delay20 /> Gotta do my part, you know?<pageBreak />If I don't, a lot of loose laces are
+gonna trip up a lot of feet<tag a="110" b="0" /><delay40 /><anim id="Sighing" target="actor" targetSpec="" /> Problem
+is<tag a="110" b="0" />hardly anyone here wears shoes.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />So many untied shoes, so little time.<delay20 />
+Someone's gotta do something, and
+it might as well be me.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Just think about all those feet
+tripping over loose laces!<pageBreak />But hardly anyone around here wears
+shoes,<anim id="SadSpiral" target="actor" targetSpec="" /> so how can I learn to tie
+shoelaces?<delay20 /> I can't help if I can't tie!<endTag a="100" b="1" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I gotta learn to tie shoes. There's a
+huge worldwide tripping problem,
+and I gotta do my part to stop it!<endTag a="100" b="1" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I gotta learn to tie shoes.<delay20 /> That's
+what <tag a="115" b="1" arg="0xcd00" /> told me.<pageBreak /><anim id="Pardon" target="actor" targetSpec="" /><tag a="50" b="3" /><gender3 m="he" f="she" /> thinks<delay20 /><anim id="Worried" target="actor" targetSpec="" /> it's selfish of me not to
+learn, so I wanna learn.<delay20 /> Gotta do my
+part to keep every foot from tripping!
+<anim id="Confused" target="actor" targetSpec="" />But hardly anyone around here wears
+shoes,<delay20 /> so how do I learn to tie them?<delay20 />
+<tag a="115" b="1" arg="0xcd00" />'s gonna be mad!</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">Practice on MY shoes!</message>
 	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I see.</message>
-	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Yeah? You think so?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />O<delay8 />K<delay8 />! More fruits
-and veggies! Less chips and
-<tag a="135" b="3" arg="0xcd00" /> pudding!</message>
-	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Thinking" target="actor" targetSpec="" />I guess I should cut back on the
-snacks even more<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Really?<anim id="Restless" target="actor" targetSpec="" /> Yeah, I guess that could
+work.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />And we'll start<tag a="110" b="0" />soon<tag a="110" b="0" />ish<tag a="110" b="0" />on
+something easy, like flip-flops, OK?</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Thinking" target="actor" targetSpec="" />Well, I guess I could try convincing
+the whole world to wear flip-flops<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />Please leave me alone.<delay frames="40" /> I don't
 want to talk to you right now.
 You made me sad.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>

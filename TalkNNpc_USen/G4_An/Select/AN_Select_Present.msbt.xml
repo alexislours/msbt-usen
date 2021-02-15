@@ -114,6 +114,17 @@ freak-out, that is.</message>
 	<message label="411" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />This is a REALLY cool-lookin' fish<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You know what? <delay20 />You should show
 this to <colour id="3" />Blathers<colour id="65535" />.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />I bet you'd make
 his day, <tag a="110" b="5" />!</message>
+	<message label="412" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh, wow! Check out that
+<tag a="125" b="0" arg="0x0" />!
+<anim id="BigSmile" target="actor" targetSpec="" />It's adorable!</message>
+	<message label="413" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Thanks a lot. <delay8 />You rock, <tag a="110" b="5" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />OK, now I just gotta come up with a
+name.<delay20 /> Maybe something poetic like<tag a="110" b="0" /><10_4 /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />
+Calmly <capitaliseNextWord /><tag a="135" b="8" arg="0xcd00" />.<delay8 /> Yeah!</message>
+	<message label="414" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Thanks, but<tag a="110" b="0" /><delay8 />I wouldn't even know
+where to start with how to treat this
+thing, <tag a="110" b="5" />.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh! <delay8 />I bet <colour id="3" />Blathers<colour id="65535" /> would know! <delay8 />Yeah,
+bring it to him!<delay20 /> <anim id="ShyBoy" target="actor" targetSpec="" />I only want what's
+best for it, and I don't think it's me.</message>
 	<message label="501" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="125" b="0" arg="0x0" />?<delay frames="40" />
 <anim id="Serious" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="125" b="0" arg="0x0" />?!<delay frames="40" />
 <anim id="Pardon" target="actor" targetSpec="" />Seriously, <tag a="110" b="5" />?</message>

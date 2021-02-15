@@ -356,6 +356,15 @@ famous designers say.</message>
 <anim id="QuestionMark" target="actor" targetSpec="" />if you don't mind?</message>
 	<message label="166_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK!</message>
 	<message label="166_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I need more time.</message>
+	<message label="167" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'd like to review your outfit without
+a wet suit over the top. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Thanks for
+helping me out.</message>
+	<message label="168" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Oh<delay8 />, are you about to go swimming?<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />
+The sea here is very beautiful,
+isn't it?
+<anim id="ShyBoy" target="actor" targetSpec="" />Just<tag a="110" b="0" />please don't put on a wet suit
+when it's time for me to check your
+outfit. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Thanks, I appreciate it.</message>
 	<message label="200" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />So, I'd like you to show me a
 <colour id="1" />party outfit<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Say you and your best friend were
 going to a fancy soiree. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Just imagine
@@ -375,7 +384,7 @@ or, say, <delay8 />relaxing in front of the TV.</message>
 	<message label="204" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I'd love it if you showed me an outfit
 that's <colour id="1" />outdoorsy<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Imagine you're going for a hike or
 perhaps camping. What would
-you would wear?
+you wear?
 <anim id="Greeting" target="actor" targetSpec="" />You could also try on some casual,<delay8 />
 loose-fitting clothes.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Just imagine
 yourself at a picnic in the park.</message>

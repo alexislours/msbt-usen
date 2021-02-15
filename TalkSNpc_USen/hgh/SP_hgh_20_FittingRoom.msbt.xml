@@ -9,13 +9,14 @@ charge.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Be sure 
 you've got there? <delay20 />Lucky you!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You can exchange them for one item
 in the store up to <tag a="90" b="21" arg="0x1" />,<delay20 /> free
 of charge.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Be sure to use 'em!</message>
-	<message label="003" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />That's our <colour id="1" />fitting room<colour id="65535" />!<delay40 /> Go in there
-to try stuff on,<delay20 /> and if you like it,<delay20 />
+	<message label="003" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />That's our <colour id="1" />fitting room<colour id="65535" />! Go in there
+to try stuff on, and if you like it,
 you can buy it right then and there.
-<anim id="Explain" target="actor" targetSpec="" />You can see how things actually look
-on you,<delay8 /> and also buy multiple things
-at once, so it's super convenient!
-<anim id="HappyFlower" target="actor" targetSpec="" />Please feel free to use it anytime!</message>
+<anim id="Explain" target="actor" targetSpec="" />It's a great way to see how things
+actually look on you, and you can
+try multiple things at once too.
+<anim id="HappyFlower" target="actor" targetSpec="" />It's super convenient, so please feel
+free to use it anytime!</message>
 	<message label="010" attrib="00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="010_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Looking sharp!<delay20 /> Thanks so much!</message>
 	<message label="010_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Wow, that's a great look on you!<delay20 />
@@ -49,4 +50,10 @@ you're yourself again.</message>
 	<message label="020" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />But you can't use it while under the
 effect of a transformation wand.<delay20 />
 <anim id="FaintSmile" target="actor" targetSpec="" />One change at a time, you know?</message>
+	<message label="021" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh, I'm sorry, but<delay20 /> you can't use the
+fitting room with a wet suit on.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Please give it another shot once
+you've taken that off.</message>
+	<message label="022" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Though,<delay8 /> eh, <delay8 />you can't use the fitting
+room with a wet suit on.<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> Just head
+in after you've taken it off.</message>
 </msbt>

@@ -163,7 +163,7 @@ more relaxing!<delay40 /> <anim id="Hello" target="actor" targetSpec="" />Swing 
 Services<colour id="65535" /> to chat with <colour id="3" />Mr. Nook <colour id="65535" />soon.</message>
 	<message label="008_03" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Right now,<delay8 /> to encourage eco-friendly
 behavior here on <tag a="110" b="9" />,
-we're celebrating <colour id="1" />Nature Day<colour id="65535" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />May 4th is the final day of the
+we're celebrating <colour id="1" />Nature Day<colour id="65535" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><colour id="1" />May 4th<colour id="65535" /> is the final day of the
 special activities.<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> Now let's get in
 the eco-friendly spirit, everyone!</message>
 	<message label="008_04" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I can't believe it's June already<tag a="110" b="0" /><delay20 />
@@ -179,6 +179,35 @@ Rally from May 18th to May 31st!
 <anim id="EmotEnd" target="actor" targetSpec="" />Ooh! Doesn't that sound like fun?<delay20 />
 I hope everyone heads over to the
 museum<anim id="Hello" target="actor" targetSpec="" /> and joins in the rally.</message>
+	<message label="008_07_01" attrib="00 00 00 00">For some time now,<delay20 /><anim id="Explain" target="actor" targetSpec="" /> Nook Inc. has
+been exploring and studying the
+water surrounding our island.
+<anim id="FaintSmile" target="actor" targetSpec="" />I am pleased to announce that,
+based on their findings,<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> the ocean's
+been deemed safe for swimming!
+What's more? <delay20 /><anim id="Nodding" target="actor" targetSpec="" />The water itself is
+clear and clean,<delay8 /><anim id="Hello" target="actor" targetSpec="" /> which are the perfect
+conditions for underwater diving!
+<anim id="Serious" target="actor" targetSpec="" />For everyone's safety,<delay20 /> we ask that
+you please use the proper swimwear
+if you plan to enter the water.
+<anim id="Explain" target="actor" targetSpec="" />You can purchase a wet suit at
+either the shop or Nook Shopping.<pageBreak />Oh, <anim id="HappyFlower" target="actor" targetSpec="" />I can't wait to see folks out there
+diving, playing, and splashing<tag a="110" b="0" /><delay20 /><anim id="Nodding" target="actor" targetSpec="" />the
+appropriate amount, of course.</message>
+	<message label="008_07_02" attrib="00 00 00 00">As you were previously notified,<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> the
+ocean surrounding our island has
+been deemed safe for swimming!
+Even better,<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> the water itself is clear
+and clean,<delay8 /><anim id="Hello" target="actor" targetSpec="" /> which are the perfect
+conditions for underwater diving!
+<anim id="Serious" target="actor" targetSpec="" />For everyone's safety,<delay20 /> we ask that
+you please use the proper swimwear
+if you plan to enter the water.
+<anim id="Explain" target="actor" targetSpec="" />You can purchase a wet suit at
+either the shop or Nook Shopping.<pageBreak />Oh, <anim id="HappyFlower" target="actor" targetSpec="" />I can't wait to see folks out there
+diving, playing, and splashing<tag a="110" b="0" /><delay20 /><anim id="Nodding" target="actor" targetSpec="" />the
+appropriate amount, of course.</message>
 	<message label="010" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />Hello, everyone.<delay40 />
 I'm sorry to interrupt your day, but I
 thought you might want to know<tag a="110" b="0" />
@@ -240,12 +269,12 @@ find out more about them!</message>
 	<message label="400" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Recently,<delay8 /> there have been reports of
 a suspicious character visiting the
 islands in the area.
-Apparently, this<tag a="110" b="0" /><delay20 />visitor <delay20 /><anim id="Negative" target="actor" targetSpec="" />has been
-selling works of art sourced from
+Apparently, this<tag a="110" b="0" /><delay8 />visitor<delay8 /><anim id="Shocked" target="actor" targetSpec="" /> has been
+selling works of art sourced from<delay8 />
 unknown origins.
 <anim id="EmotEnd" target="actor" targetSpec="" />No one who has come into contact
 with the individual has been harmed,<delay8 />
-<anim id="Nodding" target="actor" targetSpec="" />but please be careful out there!</message>
+<anim id="Serious" target="actor" targetSpec="" />but please be careful out there!</message>
 	<message label="600" attrib="00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="600_01" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oh, one more thing!</message>
 	<message label="600_02" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I almost forgot<tag a="110" b="0" /></message>
@@ -415,7 +444,7 @@ trees are decorated with lights!
 as beautiful as they could be<tag a="110" b="0" /><delay40 /><anim id="ShyBoy" target="actor" targetSpec="" />
 but I'm not confident in my results.
 <anim id="Sighing" target="actor" targetSpec="" />I accidentally bumped into one of the
-decorated trees<delay8 /> and a few of the
+decorated trees,<delay8 /> and a few of the
 ornaments fell right off!
 <anim id="Worried" target="actor" targetSpec="" />I can only imagine what would
 happen if someone shakes a tree<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />In the interest of keeping the island
@@ -443,7 +472,7 @@ but I finally figured it out!</message>
 do a video chat with my family back
 home! Mom and Dad are both great!</message>
 	<message label="702_04" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />I looked up my horoscope for the
-day and it said I'm going to have
+day, and it said I'm going to have
 good luck!</message>
 	<message label="702_05" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />A sock I've been looking for
 forever turned up behind my washing
@@ -547,7 +576,7 @@ wardrobes, right?<pageBreak />I can't wait to see what sort of
 outfits you put together this year!<10_4 />
 <anim id="Greeting" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
 	<message label="804_09_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Today marks the end of September!<pageBreak />It's sometimes said spring is full of
-new encounters as well as partings.<delay20 />
+new encounters, as well as partings.<delay20 />
 <anim id="QuestionMark" target="actor" targetSpec="" />Has anything changed in your life?
 <anim id="Smiling" target="actor" targetSpec="" />Regardless, I hope that October is a
 wonderful month for all of you!<10_4 />
@@ -570,7 +599,7 @@ Halloween, I hope you're all
 set for November!</message>
 	<message label="804_11" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />I can hardly believe that November
 and this entire year are almost over!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm going to do my best to prepare
-for our year-end celebration, so you
+for our year-end celebration so you
 can all enjoy ringing in the new year!
 <anim id="Greeting" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
 	<message label="804_12" attrib="00 00 00 00" />
@@ -601,7 +630,7 @@ Thursday<tag a="110" b="0" /><delay20 />or as I like to call it,<delay20 />
 <anim id="AbsentMindedness" target="actor" targetSpec="" />The weekend's so close,<delay20 /> I can
 almost taste it!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
 	<message label="810" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />No breaking news today!<10_4 />
-<anim id="ShyBoy" target="actor" targetSpec="" />Is it just me <delay20 />or did this week fly by?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I know how hard all of you worked,
+<anim id="ShyBoy" target="actor" targetSpec="" />Is it just me, <delay20 />or did this week fly by?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I know how hard all of you worked,
 so<delay40 /><anim id="Greeting" target="actor" targetSpec="" /> I hope you enjoy a well-deserved
 lovely weekend!</message>
 	<message label="811" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />No big announcements today.<10_4 />
@@ -645,7 +674,7 @@ about <tag a="135" b="6" arg="0xcd00" /> puts me right
 to sleep!<anim id="Laughing" target="actor" targetSpec="" /><delay40 /></message>
 	<message label="827" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Say! <delay40 />Did anyone else catch<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> that
 concert on TV yesterday?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />My favorite band was one of the
-featured acts <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />and their music's still
+featured acts, <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />and their music's still
 stuck in my head.</message>
 	<message label="828" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay40 />Oh dear<tag a="110" b="0" /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" />There I go again, prattling on about
 my personal TV habits.<delay20 /> Sorry, folks!</message>
@@ -659,7 +688,7 @@ laundry this morning!</message>
 phone last night<tag a="110" b="0" /><delay40 /><anim id="Frantic" target="actor" targetSpec="" /> What'll I do if
 there's an emergency?</message>
 	<message label="831_04" attrib="00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Phooey!<delay40 /> My brother asked me to
-give him a wake-up call this morning
+give him a wake-up call this morning,
 and it totally slipped my mind!
 <anim id="OhGeez" target="actor" targetSpec="" />I hope he's not still asleep<tag a="110" b="0" /></message>
 	<message label="899" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Err<tag a="110" b="0" /> <anim id="Shocked" target="actor" targetSpec="" />Oh dear.<delay40 /><anim id="Blushing" target="actor" targetSpec="" /> I guess that doesn't

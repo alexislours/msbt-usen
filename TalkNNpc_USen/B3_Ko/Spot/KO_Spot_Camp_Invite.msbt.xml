@@ -54,9 +54,8 @@ time, <tag a="110" b="6" />.</message>
 	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh! No good?<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Well, there's another
 good idea gone by the wayside.<delay40 />
 <anim id="EmotEnd" target="actor" targetSpec="" />Maybe another time,<delay20 /> <tag a="110" b="5" />.</message>
-	<message label="203_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes! And I know just the game!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> It's
-an old card game. I draw a card, you
-make a guess about it, <tag a="110" b="6" />.</message>
+	<message label="203_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes!<delay8 /> That's the spirit!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />OK, this is just
+a simple card game, <tag a="110" b="6" />.</message>
 	<message label="204" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="204_01" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Too bad!<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Looks like that puts
 a hold on my movin' here!</message>
@@ -156,6 +155,13 @@ soon anyway,<delay frames="40" /> so I can move right in!<delay frames="40" />
 <anim id="Serious" target="actor" targetSpec="" />Welp,<delay8 /> better introduce myself<tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />They call me <tag a="110" b="10" />.<delay frames="40" />
 <anim id="FaintSmile" target="actor" targetSpec="" />You're <tag a="110" b="3" />, aren't ya?<delay frames="40" />
 <anim id="Hello" target="actor" targetSpec="" />Be seein' you around, <tag a="110" b="6" />!</message>
+	<message label="309_01" attrib="00 00 00 00 00 00 00 00">That'll make things easier.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Looks like
+<tag a="115" b="1" arg="0xcd00" />'s place is empty!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Nothing to it but to move in, I guess.<delay20 />
+<anim id="Eh" target="actor" targetSpec="" />Oh! <delay8 />I did introduce myself, right?<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" />Just in case, <delay8 />I'm <tag a="110" b="10" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Now if I recollect, <delay8 />you like to go by<tag a="110" b="0" />
+<tag a="110" b="3" />.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />I say that right?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well, it's a pleasure to be your future
+neighbor. <delay20 />I reckon we'll get along
+juuuust fine, <tag a="110" b="5" />.</message>
 	<message label="310" attrib="00 00 01 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, what gives?<delay frames="40" /><anim id="Worried" target="actor" targetSpec="" /> You forget who
 you were thinkin' of, <tag a="110" b="6" />?</message>
 	<message label="310_a" attrib="00 00 00 00 00 00 00 00">No, I got it.</message>

@@ -74,7 +74,7 @@ discuss with you.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />
 <tag a="110" b="8" /> <colour id="1" />island tune<colour id="65535" />!
 You really can't miss it.
 It plays in multiple locations across
-the island and it reminds us
+the island, and it reminds us
 residents of the time.
 <anim id="Smiling" target="actor" targetSpec="" />I think the current anthem is a
 classic, but there's always room
@@ -154,6 +154,7 @@ polite when speaking with you.</message>
 	<message label="019" attrib="00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh my<tag a="110" b="0" /><delay20 /> I'm shocked to hear that
 <tag a="115" b="1" arg="0xcd00" /> has been
 dressing inappropriately lately.</message>
+	<message label="019_01" attrib="00 00 00 00" />
 	<message label="020" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Would you like me to talk with
 <tag a="115" b="1" arg="0xcd00" /> and do what I
 can to put a stop to this behavior?</message>

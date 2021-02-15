@@ -54,10 +54,10 @@ means yours truly won this round!<pageBreak /><anim id="Nodding" target="actor" 
 I waited for you the whole time.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You didn't come back,<delay8 /> <anim id="Negative" target="actor" targetSpec="" />so I thought
 the treasure hunt was over.<delay20 /><anim id="Greeting" target="actor" targetSpec="" />
 But let's play again sometime.</message>
-	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay8 /> I was looking for you.<delay40 />
-<anim id="Confused" target="actor" targetSpec="" />I'm sorry,<delay8 /> but I've already 
-ended the treasure hunt.
-<anim id="EmotEnd" target="actor" targetSpec="" />But darling, <delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />I am looking forward to
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay8 /> I was looking for you.<delay40 /> <anim id="Confused" target="actor" targetSpec="" />I'm sorry,<delay8 />
+but I've already ended the treasure
+hunt.
+<anim id="EmotEnd" target="actor" targetSpec="" />But, darling, <delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />I am looking forward to
 playing again sometime soon.</message>
 	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh! <delay8 /><tag a="50" b="3" /><tag a="110" b="3" />!<delay8 /> There you
 are. <delay20 /><anim id="Confused" target="actor" targetSpec="" />I waited and waited for you to

@@ -147,4 +147,30 @@ or sender,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" />
 racing!<10_4 /> <anim id="EmotEnd" target="actor" targetSpec="" />So I haven't opened it yet.</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x8 0x9 0xa" /></message>
 	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0xc 0xd 0xe" /></message>
+	<message label="034" attrib="00 00 00 01 00 00 00 09"><tag a="60" b="1" arg="0x23 0x24 0x25" /></message>
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />My latest sewing project has really
+thrown me for a loop.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Creating the pattern itself was a
+breeze, <delay8 />but the scent component
+has been hard to perfect.
+<anim id="QuestionMark" target="actor" targetSpec="" />And what's the point of making a
+cuddly <tag a="135" b="3" arg="0xcd00" /> plushie if it
+doesn't <anim id="BigSmile" target="actor" targetSpec="" />smell as good as it looks?</message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00">I need a new book to read.<delay40 />
+<anim id="Thinking" target="actor" targetSpec="" />I'm thinking something in the sports
+romance genre,<delay8 /> <tag a="110" b="5" />.
+<anim id="QuestionMark" target="actor" targetSpec="" />Have you read The <capitaliseNextWord /><tag a="135" b="6" arg="0xcd00" />
+Chronicles, <tag a="110" b="3" />?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's an action-adventure series about
+a time-traveling lifeguard with an
+inexplicable talent for <tag a="135" b="6" arg="0xcd00" />.
+<anim id="Love" target="actor" targetSpec="" />I think she strikes up a romance with
+an artisan <tag a="135" b="5" arg="0xcd00" /> designer,<delay20 />
+which is a neat little twist.
+Anyway,<delay8 /><anim id="Nodding" target="actor" targetSpec="" /> it sounds right up my alley!</message>
+	<message label="037" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Lately,<delay8 /> I've been using an organic
+scented <tag a="135" b="1" arg="0xcd00" /> laundry
+detergent, <tag a="110" b="5" />.
+<anim id="Smiling" target="actor" targetSpec="" />I love the smell, <delay40 /><anim id="Oops" target="actor" targetSpec="" />but now all I do is
+crave <tag a="135" b="1" arg="0xcd00" /> all day long.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Maybe I should have opted for the
+<tag a="135" b="1" arg="0xcd01" /> detergent instead.<delay40 /><anim id="Negative" target="actor" targetSpec="" />
+I can't stand that stuff.</message>
 </msbt>

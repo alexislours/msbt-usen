@@ -222,13 +222,12 @@ for a lotta Bells!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" 
 onto turnips instead of eating 'em!<delay frames="40" />
 <anim id="ShyBoy" target="actor" targetSpec="" />That's crazy, <tag a="110" b="6" />.</message>
 	<message label="147" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Folks say you were chatting a lot
-yesterday, but I'm thinking, "That's
-what <tag a="110" b="3" /> does."<pageBreak />You chat with me all the time. <delay frames="40" />And
-you hit rocks. <delay frames="40" />And you pick up rocks.
-<delay frames="40" />And you sell rocks.
-So, I mean, yeah! You pick up rocks!
-<anim id="Confused" target="actor" targetSpec="" />I dunno why people think it's so
-special that they gotta talk about it.</message>
+yesterday, but I'm thinking, <delay8 />"That's
+just what <tag a="110" b="3" /> <delay8 />does."<pageBreak />You chat with me sometimes. <delay20 />And
+you hit rocks. <delay20 />And you pick up rocks.
+<delay20 />And you sell rocks.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />So, I mean, yeah! <delay8 />You pick up rocks
+and you talk to folks. <delay20 />I dunno what's
+so special about that, <tag a="110" b="6" />.</message>
 	<message label="148" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Sounds like you were busy
 yesterday!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />I heard you were
 pulling lotsa weeds!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />What do you do with the weeds you
@@ -247,4 +246,10 @@ of pictures yesterday. Were you just
 taking pictures, or<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Were you tracking the Islandbeast?<10_4 />
 <anim id="Serious" target="actor" targetSpec="" />I hear it during full moons, <delay20 />down on
 the beach<tag a="110" b="0" /><delay20 /><anim id="Shaking" target="actor" targetSpec="" /><delay20 />playing a ukelele<tag a="110" b="0" /></message>
+	<message label="153" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />I heard you spent a lot of time
+swimming and diving in the
+ocean yesterday, <tag a="110" b="5" />.
+<anim id="Sighing" target="actor" targetSpec="" />I'm so jealous!<delay20 /> I can't open my eyes
+underwater without getting them
+wet. <delay20 /><anim id="Crying" target="actor" targetSpec="" />Gah!<delay frames="40" /> They're getting wet now!</message>
 </msbt>

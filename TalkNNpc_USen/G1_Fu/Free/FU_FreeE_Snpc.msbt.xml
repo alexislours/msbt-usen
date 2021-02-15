@@ -24,13 +24,11 @@ something that I requested<delay8 /><tag a="110" b="0" /></message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Sundays mean a visit from 
 <colour id="3" />Daisy Mae<colour id="65535" />,<delay20 /> and her visit means<delay20 />
 <anim id="HappyFlower" target="actor" targetSpec="" />I can buy fresh turnips!</message>
-	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I'm curious about that odd-looking
-boat<delay20 /> anchored off the northern coast
-of the island.
-<anim id="Negative" target="actor" targetSpec="" />It's not a fishing boat,<delay20 /><anim id="Hesitate" target="actor" targetSpec="" /> and it's a bit
-too <delay20 />rustic to be a pleasure cruiser.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />This may just be a case for my
-mystery-obsessed alter ego<tag a="110" b="0" /><delay40 />
-<anim id="EmotEnd" target="actor" targetSpec="" />Detective <tag a="110" b="10" />!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Have you noticed that suspicious
+boat<delay8 /> anchored off the northern shore
+of the island, <tag a="110" b="5" />?
+<anim id="Negative" target="actor" targetSpec="" />I never thought a boat could look
+untrustworthy<tag a="110" b="0" /><delay20 /><anim id="Shaking" target="actor" targetSpec="" />until now.</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />You want to hear something weird?<delay40 />
 When I was out for a walk earlier,<delay20 />
 <anim id="Shaking" target="actor" targetSpec="" />I felt some kind of EERIE presence<delay8 /><tag a="110" b="0" /></message>
@@ -76,6 +74,15 @@ been wanting to add to my garden,<delay20 />
 <anim id="Oops" target="actor" targetSpec="" />but it's a bit persnickety.
 <anim id="Nodding" target="actor" targetSpec="" />I'm hoping he can give me a little
 green-thumb guidance.</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay8 /> My goodness,
+I'm so glad I ran into you!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Somebody's sleeping on the beach,<delay8 />
+and it looks like he's in pretty
+rough shape.
+<anim id="Thinking" target="actor" targetSpec="" />There was something strangely
+familiar about the whole ordeal<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Huh. <delay20 />Anyway, <delay8 /><anim id="Nodding" target="actor" targetSpec="" />I went looking for you
+right away, <tag a="110" b="5" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Although in retrospect, <delay20 /><anim id="Oops" target="actor" targetSpec="" />I probably
+should have just offered to help them
+right then and there.</message>
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />A little while ago,<delay20 /> I ran into someone
 visiting from off-island.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> <anim id="Hello" target="actor" targetSpec="" />have you seen
 them too?</message>

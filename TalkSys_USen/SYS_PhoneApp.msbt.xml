@@ -1,7 +1,7 @@
 <msbt attribsize="3">
-	<message label="000" attrib="00 00 17">Huh?<delay8 /> "Outside Service Area"?<delay20 /> Guess
+	<message label="000" attrib="00 00 18">Huh?<delay8 /> "Outside Service Area"?<delay20 /> Guess
 I can't use the app here.</message>
-	<message label="001" attrib="02 00 17">Call Rescue Service?</message>
+	<message label="001" attrib="02 00 18">Call Rescue Service?</message>
 	<message label="001_a" attrib="00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Call!</message>
 	<message label="001_b" attrib="00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Nope.</message>
 	<message label="010" attrib="00 00 13">                    <tag a="10" b="12" /><tag a="100" b="2" /><tag a="100" b="5" /><size value="150" />See ya!<size value="100" /><endTag a="100" b="5" /><endTag a="100" b="2" /><10_7 arg="20" /></message>
@@ -84,7 +84,7 @@ take those <colour id="1" />100 <colour id="65535" />miles up front<tag a="110" 
 	<message label="042_01" attrib="00 00 13"><tag a="100" b="5" />Good choice!<delay40 /> First, <delay20 />lemme just get
 the <colour id="1" />100 <colour id="65535" />miles up front, and<tag a="110" b="0" /><endTag a="100" b="5" /><10_7 arg="75" /></message>
 	<message label="042_02" attrib="00 00 13"><tag a="100" b="5" /><10_10 /><tag a="10" b="12" />                      <size value="150" />HEY!<size value="100" /><delay20 /><10_9 /><pageBreak />What's the big idea?<delay frames="40" /> Listen, pal.<delay20 />
-You ain't got the Nook Miles!<pageBreak />C'mon! <delay20 />Deep breath, Resetti<tag a="110" b="0" /><delay20 /> OK<tag a="110" b="0" />
+You ain't got the Nook Miles!<pageBreak />C'mon! <delay20 />Deep breath, <colour id="3" />Resetti<colour id="65535" /><tag a="110" b="0" /><delay20 /> OK<tag a="110" b="0" />
 Seeing as this is an emergency,<delay20 /> I'll
 cover ya. No charge!<endTag a="100" b="5" /></message>
 	<message label="042_03" attrib="00 00 13"><tag a="100" b="5" /><10_10 /><tag a="10" b="12" />                      <size value="150" />HEY!<size value="100" /><delay20 /><10_9 /><pageBreak />What's goin' on here?<delay frames="40" /> You ain't
@@ -196,102 +196,105 @@ ways to stack 'em up, and it ain't
 rocket science!<pageBreak />To begin with, <delay8 />ya get miles just by
 accessing the <colour id="1" />Nook Stop <colour id="65535" />on the
 daily.<delay20 /> Remember that!<endTag a="100" b="5" /></message>
-	<message label="201" attrib="06 00 17">Should I start up the <colour id="1" />Island Designer
+	<message label="201" attrib="06 00 18">Should I start up the <colour id="1" />Island Designer
 <colour id="65535" />app and do some construction work?</message>
-	<message label="201_a" attrib="00 00 17">Start construction!</message>
-	<message label="201_b" attrib="00 00 17">Request cleanup.</message>
-	<message label="201_c" attrib="00 00 17">Check the manual.</message>
-	<message label="201_d" attrib="00 00 17">Nah.</message>
-	<message label="202" attrib="00 00 20">Getting permission for construction<tag a="110" b="0" /><10_8 arg="30" /></message>
-	<message label="202_01" attrib="00 00 20">The <colour id="1" />Island Designer<colour id="65535" /> app is ready!
+	<message label="201_a" attrib="00 00 18">Start construction!</message>
+	<message label="201_b" attrib="00 00 18">Request cleanup.</message>
+	<message label="201_c" attrib="00 00 18">Check the manual.</message>
+	<message label="201_d" attrib="00 00 18">Nah.</message>
+	<message label="202" attrib="00 00 21">Getting permission for construction<tag a="110" b="0" /><10_8 arg="30" /></message>
+	<message label="202_01" attrib="00 00 21">The <colour id="1" />Island Designer<colour id="65535" /> app is ready!
 Remember to wear a helmet during
 construction, and work safely!</message>
-	<message label="205" attrib="06 00 17">Am I done building for now?</message>
-	<message label="205_a" attrib="00 00 17">Yeah, I'm done.</message>
-	<message label="205_b" attrib="00 00 17">Request cleanup.</message>
-	<message label="205_c" attrib="00 00 17">Check the manual.</message>
-	<message label="205_d" attrib="00 00 17">Nah, I'll keep going.</message>
-	<message label="206" attrib="00 00 20"><tag a="110" b="0" /><delay40 />Connection error!<10_8 arg="30" /></message>
-	<message label="207" attrib="00 00 17">Is the reception bad or what? Maybe
+	<message label="205" attrib="06 00 18">Am I done building for now?</message>
+	<message label="205_a" attrib="00 00 18">Yeah, I'm done.</message>
+	<message label="205_b" attrib="00 00 18">Request cleanup.</message>
+	<message label="205_c" attrib="00 00 18">Check the manual.</message>
+	<message label="205_d" attrib="00 00 18">Nah, I'll keep going.</message>
+	<message label="206" attrib="00 00 21"><tag a="110" b="0" /><delay40 />Connection error!<10_8 arg="30" /></message>
+	<message label="207" attrib="00 00 18">Is the reception bad or what? Maybe
 I should <colour id="1" />stand up <colour id="65535" />and try again.</message>
-	<message label="208" attrib="00 00 17" />
-	<message label="209" attrib="00 00 20">You're <colour id="1" />outside of the valid service
+	<message label="207_01" attrib="00 00 18">Is the reception bad, or what?
+Maybe I should try again when
+I'm <colour id="1" />back on land<colour id="65535" />.</message>
+	<message label="208" attrib="00 00 18" />
+	<message label="209" attrib="00 00 21">You're <colour id="1" />outside of the valid service
 area<colour id="65535" />. You can only use this app while
 outdoors on <tag a="110" b="9" />.</message>
-	<message label="210" attrib="00 00 20">Commencing wrap-up sequence<tag a="110" b="0" /><10_8 arg="60" /></message>
-	<message label="211" attrib="00 00 20">Construction controls terminated!
+	<message label="210" attrib="00 00 21">Commencing wrap-up sequence<tag a="110" b="0" /><10_8 arg="60" /></message>
+	<message label="211" attrib="00 00 21">Construction controls terminated!
 Please feel free to use our services
 again.</message>
-	<message label="212" attrib="00 09 21">I can't use the <colour id="1" />Island Designer <colour id="65535" />app
+	<message label="212" attrib="00 09 22">I can't use the <colour id="1" />Island Designer <colour id="65535" />app
 when the airport gate is open.</message>
-	<message label="213" attrib="00 09 21">I can't use the <colour id="1" />Island Designer<colour id="65535" /> app
+	<message label="213" attrib="00 09 22">I can't use the <colour id="1" />Island Designer<colour id="65535" /> app
 when company is visiting the island.</message>
-	<message label="214" attrib="00 09 21">I can't use the <colour id="1" />Island Designer <colour id="65535" />app
+	<message label="214" attrib="00 09 22">I can't use the <colour id="1" />Island Designer <colour id="65535" />app
 when communications are active.<pageBreak />I'll need to shut them off at the
 airport first.</message>
-	<message label="221" attrib="00 00 20"><colour id="1" />Island Designer <colour id="65535" />is ready!</message>
-	<message label="221_01" attrib="00 00 20">Use the <colour id="1" /> Button <colour id="65535" />to switch between
+	<message label="221" attrib="00 00 21"><colour id="1" />Island Designer <colour id="65535" />is ready!</message>
+	<message label="221_01" attrib="00 00 21">Use the <colour id="1" /> Button <colour id="65535" />to switch between
 different construction options.
 Please <colour id="1" />check the manual<colour id="65535" /> for info.</message>
-	<message label="221_02" attrib="00 00 20">Press <colour id="1" /> <colour id="65535" />or <colour id="1" /> <colour id="65535" />to switch between
+	<message label="221_02" attrib="00 00 21">Press <colour id="1" /> <colour id="65535" />or <colour id="1" /> <colour id="65535" />to switch between
 construction options when using
 a horizontal Joy-Con.
 Please <colour id="1" />check the manual<colour id="65535" /> for info.</message>
-	<message label="222" attrib="00 00 20"><colour id="0" />App Notification<colour id="65535" />:
+	<message label="222" attrib="00 00 21"><colour id="0" />App Notification<colour id="65535" />:
 <colour id="1" />Waterscaping permit <colour id="65535" />added.</message>
-	<message label="223" attrib="00 00 20"><colour id="0" />App Notification<colour id="65535" />:
+	<message label="223" attrib="00 00 21"><colour id="0" />App Notification<colour id="65535" />:
 <colour id="1" />Cliff-construction permit <colour id="65535" />added.</message>
-	<message label="224" attrib="00 00 20"><colour id="0" />App Notification<colour id="65535" />:
+	<message label="224" attrib="00 00 21"><colour id="0" />App Notification<colour id="65535" />:
 <colour id="1" />Waterscaping <colour id="65535" />and <colour id="1" />cliff-construction
 permits <colour id="65535" />added.</message>
-	<message label="225" attrib="00 00 20">Press the <colour id="1" /> Button <colour id="65535" />to switch
+	<message label="225" attrib="00 00 21">Press the <colour id="1" /> Button <colour id="65535" />to switch
 between options. <colour id="1" />Check the manual
 <colour id="65535" />in the app for more information.</message>
-	<message label="225_01" attrib="00 00 20">You can press <colour id="1" /> <colour id="65535" />or <colour id="1" /> <colour id="65535" />to switch
+	<message label="225_01" attrib="00 00 21">You can press <colour id="1" /> <colour id="65535" />or <colour id="1" /> <colour id="65535" />to switch
 between options when using a
 horizontal Joy-Con.
 Please <colour id="1" />check the manual<colour id="65535" /> for info.</message>
-	<message label="241" attrib="00 00 20">About the <colour id="1" />Island Designer <colour id="65535" />App<pageBreak /><colour id="0" />Starting and Stopping Construction<colour id="65535" />
+	<message label="241" attrib="00 00 21">About the <colour id="1" />Island Designer <colour id="65535" />App<pageBreak /><colour id="0" />Starting and Stopping Construction<colour id="65535" />
 Please use the app to properly
 begin and end construction.</message>
-	<message label="241_01_00" attrib="00 00 20"><colour id="0" />Switching Between Permits<colour id="65535" />
+	<message label="241_01_00" attrib="00 00 21"><colour id="0" />Switching Between Permits<colour id="65535" />
 During construction, you can press
 the <colour id="1" /> Button<colour id="65535" /> to switch permits.</message>
-	<message label="241_01_01" attrib="00 00 20"><colour id="0" />Switching Between Permits<colour id="65535" />
+	<message label="241_01_01" attrib="00 00 21"><colour id="0" />Switching Between Permits<colour id="65535" />
 When using a horizontal Joy-Con,
 switch construction permits by...
 pressing <colour id="1" /> <colour id="65535" />or <colour id="1" /><colour id="65535" />.</message>
-	<message label="241_02" attrib="00 00 20">Please note: Your permits for the
+	<message label="241_02" attrib="00 00 21">Please note: Your permits for the
 <colour id="1" />Island Designer <colour id="65535" />app are only valid for
 use on <tag a="110" b="9" />.
 If you leave the island,
 construction will end.<pageBreak />Always wear a helmet, and always
 work with safety in mind!</message>
-	<message label="242" attrib="00 00 20">Path Construction Guide
+	<message label="242" attrib="00 00 21">Path Construction Guide
 Press <colour id="1" /> <colour id="65535" />while on grassy areas
 to create or remove paths.</message>
-	<message label="242_00_01" attrib="00 00 20">Path Construction Guide
+	<message label="242_00_01" attrib="00 00 21">Path Construction Guide
 Press <colour id="1" /> <colour id="65535" />while on grassy areas
 to create or remove paths.</message>
-	<message label="242_01_00" attrib="00 00 20"><colour id="0" />Selecting Path Designs<colour id="65535" />
+	<message label="242_01_00" attrib="00 00 21"><colour id="0" />Selecting Path Designs<colour id="65535" />
 Press the <colour id="1" /> Button <colour id="65535" />to select from
 path designs you've obtained.</message>
-	<message label="242_01_01" attrib="00 00 20"><colour id="0" />Selecting Path Designs<pageBreak /><colour id="65535" />When using a horizontal Joy-Con,
+	<message label="242_01_01" attrib="00 00 21"><colour id="0" />Selecting Path Designs<pageBreak /><colour id="65535" />When using a horizontal Joy-Con,
 press <colour id="1" /> <colour id="65535" />or<colour id="1" />  <colour id="65535" />to select from path
 designs you've obtained.</message>
-	<message label="243" attrib="00 00 20">Waterscaping Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to dig into the ground and
+	<message label="243" attrib="00 00 21">Waterscaping Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to dig into the ground and
 create new rivers, ponds, etc. You
 can also fill them in.
 <colour id="0" />Creating Waterfalls<colour id="65535" />
 Try digging atop a cliff
 to create a <colour id="1" />waterfall<colour id="65535" />.</message>
-	<message label="243_01" attrib="00 00 20">Waterscaping Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to dig into the ground and
+	<message label="243_01" attrib="00 00 21">Waterscaping Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to dig into the ground and
 create new rivers, ponds, etc. You
 can also fill them in.
 <colour id="0" />Creating Waterfalls<colour id="65535" />
 Try digging atop a cliff
 to create a <colour id="1" />waterfall<colour id="65535" />.</message>
-	<message label="244" attrib="00 00 20">Cliff Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to create cliffs, round the
+	<message label="244" attrib="00 00 21">Cliff Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to create cliffs, round the
 edges of existing cliffs, or destroy
 existing cliffs.
 <colour id="0" />Building Cliffs on Top of Cliffs<colour id="65535" />
@@ -305,7 +308,7 @@ First use the waterscaping
 permit to fill in the waterfall.
 After that, you can destroy
 the cliff at will.</message>
-	<message label="244_01" attrib="00 00 20">Cliff Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to create cliffs, round the
+	<message label="244_01" attrib="00 00 21">Cliff Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to create cliffs, round the
 edges of existing cliffs, or destroy
 existing cliffs.
 <colour id="0" />Building Cliffs on Top of Cliffs<colour id="65535" />
@@ -319,7 +322,7 @@ First use the waterscaping
 permit to fill in the waterfall.
 After that, you can destroy
 the cliff at will.</message>
-	<message label="245" attrib="00 00 20"><colour id="1" />Cleanup Service Guide<colour id="65535" /><pageBreak />Sometimes, when you're working on
+	<message label="245" attrib="00 00 21"><colour id="1" />Cleanup Service Guide<colour id="65535" /><pageBreak />Sometimes, when you're working on
 construction projects, you might
 accidentally find yourself in a pinch.<pageBreak />Perhaps something you put out
 keeps you from moving around, or
@@ -333,31 +336,31 @@ for the service.<pageBreak />Items picked up by the service will be
 deposited in the <colour id="1" />recycle box <colour id="65535" />at
 Resident Services.<pageBreak />So don't delay in picking up those
 items from the box!</message>
-	<message label="251" attrib="06 00 17">What should I read up on?</message>
-	<message label="251_a" attrib="00 00 17">Basic user guide.</message>
-	<message label="251_b" attrib="00 00 17">Path construction.</message>
-	<message label="251_c" attrib="00 00 17">Cleanup service.</message>
-	<message label="251_d" attrib="00 00 17">I'm done reading.</message>
-	<message label="251_01" attrib="08 00 17">What should I read up on?</message>
-	<message label="251_01_a" attrib="00 00 17">Basic user guide.</message>
-	<message label="251_01_b" attrib="00 00 17">Path construction.</message>
-	<message label="251_01_c" attrib="00 00 17">Waterscaping.</message>
-	<message label="251_01_d" attrib="00 00 17">Cleanup service.</message>
-	<message label="251_01_e" attrib="00 00 17">I'm done reading.</message>
-	<message label="251_02" attrib="08 00 17">What should I read up on?</message>
-	<message label="251_02_a" attrib="00 00 17">Basic user guide.</message>
-	<message label="251_02_b" attrib="00 00 17">Path construction.</message>
-	<message label="251_02_c" attrib="00 00 17">Cliff construction.</message>
-	<message label="251_02_d" attrib="00 00 17">Cleanup service.</message>
-	<message label="251_02_e" attrib="00 00 17">I'm done reading.</message>
-	<message label="251_03" attrib="0a 00 17">What should I read up on?</message>
-	<message label="251_03_a" attrib="00 00 17">Basic user guide.</message>
-	<message label="251_03_b" attrib="00 00 17">Path construction.</message>
-	<message label="251_03_c" attrib="00 00 17">Waterscaping.</message>
-	<message label="251_03_d" attrib="00 00 17">Cliff construction.</message>
-	<message label="251_03_e" attrib="00 00 17">Cleanup service.</message>
-	<message label="251_03_f" attrib="00 00 17">I'm done reading.</message>
-	<message label="261" attrib="00 00 20">Sometimes while doing construction,
+	<message label="251" attrib="06 00 18">What should I read up on?</message>
+	<message label="251_a" attrib="00 00 18">Basic user guide.</message>
+	<message label="251_b" attrib="00 00 18">Path construction.</message>
+	<message label="251_c" attrib="00 00 18">Cleanup service.</message>
+	<message label="251_d" attrib="00 00 18">I'm done reading.</message>
+	<message label="251_01" attrib="08 00 18">What should I read up on?</message>
+	<message label="251_01_a" attrib="00 00 18">Basic user guide.</message>
+	<message label="251_01_b" attrib="00 00 18">Path construction.</message>
+	<message label="251_01_c" attrib="00 00 18">Waterscaping.</message>
+	<message label="251_01_d" attrib="00 00 18">Cleanup service.</message>
+	<message label="251_01_e" attrib="00 00 18">I'm done reading.</message>
+	<message label="251_02" attrib="08 00 18">What should I read up on?</message>
+	<message label="251_02_a" attrib="00 00 18">Basic user guide.</message>
+	<message label="251_02_b" attrib="00 00 18">Path construction.</message>
+	<message label="251_02_c" attrib="00 00 18">Cliff construction.</message>
+	<message label="251_02_d" attrib="00 00 18">Cleanup service.</message>
+	<message label="251_02_e" attrib="00 00 18">I'm done reading.</message>
+	<message label="251_03" attrib="0a 00 18">What should I read up on?</message>
+	<message label="251_03_a" attrib="00 00 18">Basic user guide.</message>
+	<message label="251_03_b" attrib="00 00 18">Path construction.</message>
+	<message label="251_03_c" attrib="00 00 18">Waterscaping.</message>
+	<message label="251_03_d" attrib="00 00 18">Cliff construction.</message>
+	<message label="251_03_e" attrib="00 00 18">Cleanup service.</message>
+	<message label="251_03_f" attrib="00 00 18">I'm done reading.</message>
+	<message label="261" attrib="00 00 21">Sometimes while doing construction,
 you might find yourself in a little bit
 of trouble.<pageBreak />Perhaps you can't pick up an item
 placed on top of a cliff.<pageBreak />Maybe a decoration in a narrow area
@@ -366,28 +369,30 @@ picking up items placed immediately
 around you.<pageBreak />Any cleaned-up items will be placed
 in the <colour id="1" />recycle box<colour id="65535" /> inside <colour id="1" />Resident
 Services<colour id="65535" />.<pageBreak />Please check the manual for details.</message>
-	<message label="262" attrib="02 00 20">Use the cleanup service to
+	<message label="262" attrib="02 00 21">Use the cleanup service to
 send items around you to
 the recycle box?</message>
-	<message label="262_a" attrib="00 00 20">Yes, clean things up!</message>
-	<message label="262_b" attrib="00 00 20">No, not right now.</message>
-	<message label="263" attrib="00 00 20">Understood!<delay20 /> Please wait as we clean
+	<message label="262_a" attrib="00 00 21">Yes, clean things up!</message>
+	<message label="262_b" attrib="00 00 21">No, not right now.</message>
+	<message label="263" attrib="00 00 21">Understood!<delay20 /> Please wait as we clean
 up the items around you.</message>
-	<message label="264" attrib="00 00 20">Cleanup complete!<delay20 />
+	<message label="264" attrib="00 00 21">Cleanup complete!<delay20 />
 Please note only items and fencing
 are sent to the <colour id="1" />recycle box<colour id="65535" />.</message>
-	<message label="265" attrib="00 00 20">We couldn't find anything to
+	<message label="265" attrib="00 00 21">We couldn't find anything to
 clean up.<pageBreak />The cleanup service will only work
 on placed items, fencing, and trees
 in your immediate vicinity.</message>
-	<message label="266" attrib="00 00 20">You're <colour id="1" />outside of the valid service
+	<message label="266" attrib="00 00 21">You're <colour id="1" />outside of the valid service
 area<colour id="65535" /> for the cleanup service.<pageBreak />This service can only be used
 outdoors on <tag a="110" b="9" />.</message>
-	<message label="301" attrib="00 00 17">Looks like the map app won't work
+	<message label="301" attrib="00 00 18">Looks like the map app won't work
 for this island.</message>
-	<message label="311" attrib="00 00 17">Hm? It says "Outside service area."
+	<message label="302" attrib="00 00 18">Looks like the map app won't work
+while I'm swimming...</message>
+	<message label="311" attrib="00 00 18">Hm? It says "Outside service area."
 Guess I can't use it here.</message>
-	<message label="321" attrib="00 00 17">Looks like I can't use the Chat Log
+	<message label="321" attrib="00 00 18">Looks like I can't use the Chat Log
 app during Party Play<tag a="110" b="0" /></message>
 	<message label="999" attrib="00 00 13"><colour id="1" />100 <colour id="65535" />miles</message>
 </msbt>

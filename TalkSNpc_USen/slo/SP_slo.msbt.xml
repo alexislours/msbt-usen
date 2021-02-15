@@ -10,10 +10,10 @@
 	<message label="005_b" attrib="00 00 00 00">Let's talk weeds!</message>
 	<message label="005_c" attrib="00 00 00 00">Nothing.</message>
 	<message label="007" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Oh, yes.<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> I'd love to introduce you to
-all the little seeds and saplings I've
-got with me today!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
-	<message label="008" attrib="00 00 00 00">You gotta do <delay20 />what makes you happy.<delay frames="60" />
-<anim id="Smiling" target="actor" targetSpec="" />I'll be here if you change your mind.<anim id="Hello" target="actor" targetSpec="" /></message>
+all the little seeds and starts I've got
+with me today!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00">You gotta do<delay8 /> what makes you happy.<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />I'll be here if you need me.<anim id="Hello" target="actor" targetSpec="" /></message>
 	<message label="011" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That <delay20 />is the perfect choice!<delay frames="60" /> <anim id="EmotEnd" target="actor" targetSpec="" />Oh, <delay8 /><anim id="Hesitate" target="actor" targetSpec="" />I just
 wish you had room in your pockets
 so you could take it home.
@@ -61,8 +61,8 @@ anything else<delay20 /> I can do for you?</message>
 <anim id="HappyFlower" target="actor" targetSpec="" />What a happy name.<delay40 />
 <anim id="BigSmile" target="actor" targetSpec="" />Oh, yes,<delay20 /> and I'm <colour id="3" />Leif<colour id="65535" />.</message>
 	<message label="042" attrib="00 00 00 00">I heard that my good pal <colour id="3" />Timmy<colour id="65535" /><delay8 />
-started a shop here,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> so I thought
-I'd pay him a visit.</message>
+moved out here,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> so I thought I'd pay
+him a visit.</message>
 	<message label="043" attrib="01 00 00 00"><colour id="3" /><anim id="Hesitate" target="actor" targetSpec="" />Timmy <colour id="65535" />told me this was a deserted
 island before you moved here<tag a="110" b="0" /><delay frames="60" />
 <anim id="HappyFlower" target="actor" targetSpec="" />What a happy adventure!
@@ -148,13 +148,12 @@ to spend soon.<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> And
 to seeing you then.</message>
 	<message label="056" attrib="00 00 00 00"><anim id="QuestionMark" target="mainNpc" targetSpec="" />Is there anything else<delay8 /> I can do for
 you,<delay8 /> my friend?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
-	<message label="057" attrib="00 00 00 00">Oh!<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> Heya, <delay8 /><tag a="110" b="1" />.<delay frames="60" />
-<anim id="HappyFlower" target="actor" targetSpec="" />Isn't this the most perfect day<delay8 />
-to shop for flowers?</message>
+	<message label="057" attrib="00 00 00 00">Oh!<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> Hello!<delay frames="60" /> <anim id="HappyFlower" target="actor" targetSpec="" />Isn't this the most
+perfect day to shop for flowers?</message>
 	<message label="058" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />And shrubs too!<delay frames="60" /> <anim id="FaintSmile" target="actor" targetSpec="" />You're so lucky,<delay20 />
 because today I'm selling the
 <anim id="Love" target="actor" targetSpec="" />beloved<delay8 /> <colour id="1" /><tag a="140" b="20" arg="0xcd00" /><colour id="65535" />.
-<anim id="EmotEnd" target="actor" targetSpec="" />And it's currently in season,<delay20 /> so you
-can enjoy those magical blossoms<delay8 />
-<anim id="HappyFlower" target="actor" targetSpec="" />as soon as you plant this little friend.</message>
+<anim id="EmotEnd" target="actor" targetSpec="" />This is the time of year when it looks
+its very best,<delay20 /> so plant this little
+friend soon <delay8 /><anim id="HappyFlower" target="actor" targetSpec="" />to see it in bloom.</message>
 </msbt>

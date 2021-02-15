@@ -40,10 +40,8 @@ island and everyone is delightful.
 <anim id="EmotEnd" target="actor" targetSpec="" />Best of all, <delay frames="13" /><anim id="BigSmile" target="actor" targetSpec="" />YOU'RE here!<delay20 /> And I can't
 thank you enough.<delay20 /> <anim id="Clapping" target="actor" targetSpec="" />This was just
 what I needed, <tag a="110" b="6" />.<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
-	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Why <tag a="110" b="3" />!<delay frames="20" />
-I told you I would come,<delay20 /><anim id="Dance" target="actor" targetSpec="" /> and
-here I am, <tag a="110" b="6" />!
-<anim id="ShyBoy" target="actor" targetSpec="" />To tell you the truth, <delay8 />I started
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Why, <tag a="110" b="3" />!<pageBreak />I told you I would come,<delay20 /><anim id="Dance" target="actor" targetSpec="" /> and
+here I am, <tag a="110" b="6" />!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />To tell you the truth, <delay8 />I started
 packing right after you invited me.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And now,<delay8 /> at last,<delay frames="13" /> I can take a break
 from UNpacking <delay frames="13" /><anim id="EmotEnd" target="actor" targetSpec="" />and start enjoying
 life on this island!
@@ -275,9 +273,9 @@ island and everyone is delightful.
 <anim id="Smiling" target="actor" targetSpec="" />Best of all, <delay frames="13" />YOU'RE here.<delay20 /> And I can't
 thank you enough.<delay20 /> <anim id="HappyFlower" target="actor" targetSpec="" />This was just
 the change I needed, <tag a="110" b="6" />.</message>
-	<message label="102_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh <tag a="110" b="3" />! <delay frames="20" />Didn't I tell
-you on that island that I would move
-here?<delay20 /> <anim id="Dance" target="actor" targetSpec="" />And here I am, <tag a="110" b="6" />!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />To tell you the truth, <delay8 />I started
+	<message label="102_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, <tag a="110" b="3" />!<pageBreak />Didn't I tell you on that island that
+I would move here?<delay20 /> <anim id="Dance" target="actor" targetSpec="" />And here I
+am, <tag a="110" b="6" />!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />To tell you the truth, <delay8 />I started
 packing right after I made that
 promise.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And now,<delay8 /> at last,<delay frames="13" /> it's time to take
 a break from unpacking <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />and start

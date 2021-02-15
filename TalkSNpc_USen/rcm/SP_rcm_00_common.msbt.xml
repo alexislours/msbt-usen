@@ -307,6 +307,34 @@ How many would you like?</message>
 	<message label="131_a" attrib="00 00 00 00">Just 1. (<colour id="1" /><tag a="90" b="12" arg="0x0" /><colour id="65535" />)</message>
 	<message label="131_b" attrib="00 00 00 00">I'll take 5! (<colour id="1" /><tag a="90" b="13" arg="0x1" /><colour id="65535" />)</message>
 	<message label="131_c" attrib="00 00 00 00">I've changed my mind.</message>
+	<message label="141_01" attrib="00 00 00 00"><anim id="Eh" target="mainNpc" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />Aha! <delay20 />Thinking of swimming? <delay20 /><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />Yes,
+yes<tag a="110" b="0" />you'll most definitely need
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Well, before you head to the beach,
+perhaps we could give you a few
+pointers about swimming!<tag a="100" b="4" /><delay8 /> <size value="75" />...swimming!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="141_02" attrib="00 00 00 00"><anim id="OhGeez" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />I don't have any pointers on your
+form, unfortunately. <delay20 />Just the basics
+about getting into the water.<pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" />So, first things first, you'll want
+to put on a suitable <colour id="1" />wet suit <colour id="65535" /><anim id="Nodding" target="subNpc" targetSpec="" />like
+this <tag a="125" b="0" arg="0x0" />.
+<anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Once you're suited up, just press <colour id="1" />
+<colour id="65535" />from the beach or nearby rocks to
+hop into the water!<pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />To swim around, keep pressing <colour id="1" /><colour id="65535" />.
+<anim id="IdeaBulb" target="mainNpc" targetSpec="" />Oh!<delay20 /> And if you see a shadow,<delay8 /><anim id="Shocked" target="subNpc" targetSpec="" /> you
+can press <colour id="1" /> <colour id="65535" />to dive and check it out.
+<anim id="HappyDance" target="actor" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />You never know what kind of <colour id="1" />sea
+creatures <colour id="65535" />might be lurking! <delay20 />Perhaps
+you could bring one to the surface<tag a="110" b="0" /></message>
+	<message label="142" attrib="04 00 00 00">Well, I think that covers<delay frames="30" /><anim id="BigSmile" target="mainNpc" targetSpec="" /> everything
+you'll need to know!<tag a="100" b="4" /><delay8 /> <size value="75" />...know!<size value="100" /><endTag a="100" b="4" /><pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />So, back to the item at hand. It can
+be yours for <tag a="90" b="26" arg="0x0" />.<delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" /><pageBreak />Would you like to buy this
+<tag a="125" b="0" arg="0x0" />?</message>
+	<message label="142_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy it!</message>
+	<message label="142_b" attrib="00 00 00 00">Can you repeat that?</message>
+	<message label="142_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="143" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Of course!<delay20 /> Here's everything
+you need to keep in mind for
+swimming in the ocean.<tag a="100" b="4" /><delay8 /> <size value="75" />...ocean.<size value="100" /><endTag a="100" b="4" /></message>
 	<message label="200" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Thank you!<tag a="100" b="4" /><delay8 /> <size value="75" />...thank you!<size value="100" /><endTag a="100" b="4" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><10_7 arg="90" /></message>
 	<message label="201" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay8 /><anim id="FaintSmile" target="subNpc" targetSpec="" />Hello!<tag a="100" b="4" /><delay8 /> <size value="75" />...hello!<size value="100" /><endTag a="100" b="4" /><delay40 /> Welcome to
 <colour id="1" />Nook's Cranny<colour id="65535" />!</message>

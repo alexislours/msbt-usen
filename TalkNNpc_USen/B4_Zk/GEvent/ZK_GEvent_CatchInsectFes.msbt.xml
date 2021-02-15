@@ -54,4 +54,19 @@ distance when you strike.
 <anim id="SmugFace" target="actor" targetSpec="" />If you do it just right, the bug will
 practically jump onto your net.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />But get too close,<delay20 /><anim id="Oops" target="actor" targetSpec="" /> and he'll be on the
 next flight off this island!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Have you caught any cool-lookin'
+bugs yet, <tag a="110" b="3" />?<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I'd tell you about the ones I netted,<delay8 />
+<anim id="SmugFace" target="actor" targetSpec="" />but I don't want to brag. <delay20 />I hope you
+understand, <tag a="110" b="5" />.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00">Oof! <anim id="Hot" target="actor" targetSpec="" />Who knew that bug catching
+would be so physically exhausting?<delay20 />
+<anim id="Sighing" target="actor" targetSpec="" />Everything's sore, <tag a="110" b="5" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />But you know what that means<tag a="110" b="0" /><delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Time for a bubble bath! <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />Fancy bath
+salts, here I come!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Just between you and me<tag a="110" b="0" /><delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />I've never
+been a huge fan of, <delay8 />um,<delay8 /> bugs.</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Cheering" target="actor" targetSpec="" />You feel ready, <tag a="110" b="3" />?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />It's the last Bug-Off of the season!<delay20 />
+Time to show everyone on this island
+what I'm really made of!<anim id="EmotEnd" target="actor" targetSpec="" /><delay20 /></message>
 </msbt>

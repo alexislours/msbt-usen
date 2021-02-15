@@ -160,4 +160,35 @@ managed to catch was an old,
 filthy tire,<delay20 /> <tag a="110" b="5" /><tag a="110" b="0" /></message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x10 0x11 0x12" /></message>
 	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x14 0x15 0x16" /></message>
+	<message label="031" attrib="00 00 00 01 00 00 00 09"><tag a="60" b="1" arg="0x20 0x21 0x22" /></message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I watched one of those really scary
+movies the other night,<delay40 /><anim id="Shaking" target="actor" targetSpec="" /> and I've been
+on edge ever since.
+<anim id="Eh" target="actor" targetSpec="" />A dragonfly whizzed past my window
+earlier,<delay20 /> and I was so startled<delay8 /><anim id="Oops" target="actor" targetSpec="" /> I totally
+squished the <tag a="110" b="7" arg="0xcd00" /> in my hand!
+<anim id="Negative" target="actor" targetSpec="" />I never knew I had that kind of
+strength. <delay40 /><anim id="SadSpiral" target="actor" targetSpec="" />I could be a danger to
+myself and others, <tag a="110" b="5" />!</message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Have you ever heard of a pile of
+books falling over,<delay20 /> even though no
+one was around to touch them?
+<anim id="Worried" target="actor" targetSpec="" />That happened to me just the other
+day.<delay20 /> I jumped so hard<delay8 /><anim id="Shocked" target="actor" targetSpec="" /> I spilled the
+cup of <tag a="135" b="1" arg="0xcd00" /> I was drinking!
+<anim id="EmotEnd" target="actor" targetSpec="" />Normally it wouldn't be a big deal,<delay20 /><anim id="OhGeez" target="actor" targetSpec="" />
+but I won't be able to use my usual
+stain prevention this time<tag a="110" b="0" />
+<anim id="Sighing" target="actor" targetSpec="" />Not spilling stuff in the first place!</message>
+	<message label="034" attrib="00 00 00 00 00 00 00 00">I was in my room earlier,<delay8 /> reading
+<tag a="135" b="0" arg="0xcd00" />,<delay20 />
+when suddenly<tag a="110" b="0" /><delay20 /><anim id="Shaking" target="actor" targetSpec="" />the lights flickered.
+<anim id="Serious" target="actor" targetSpec="" />They flickered again. <delay20 />Flicker, flicker.<delay40 />
+And again.<delay20 /> Flicker, flicker.<pageBreak />Then, <anim id="Surprised" target="actor" targetSpec="" />CRASH! <delay20 />The door blew open,<delay8 />
+I jumped out of my chair,<delay8 /><anim id="Shocked" target="actor" targetSpec="" /> and my
+book fell to the floor with a thump!
+<anim id="Worried" target="actor" targetSpec="" />I saw what had happened and true
+panic set in, <tag a="110" b="5" />.<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />I had lost my place<delay20 /> and would have
+to start reading the whole thing
+again from the very beginning!</message>
 </msbt>

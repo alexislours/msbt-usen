@@ -52,9 +52,7 @@ for me, <tag a="110" b="5" />!</message>
 	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Oh. <delay20 />Well, that's alright.<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Honestly, I'm
 not sure if even <delay20 />I<delay20 /> have what it takes
 to be my neighbor, <tag a="110" b="5" />.</message>
-	<message label="203_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Then we got us a card game!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's real simple. <delay20 />I'm gonna draw a
-card, and you've gotta guess
-something about it.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Game on!</message>
+	<message label="203_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Then we got us a card game!</message>
 	<message label="204" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="204_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Victory is mine! <delay frames="60" /><anim id="SadSpiral" target="actor" targetSpec="" />Which is too bad
 'cause I was REALLY looking forward
@@ -148,6 +146,12 @@ nervous, though.<delay frames="40" /> <anim id="Smiling" target="actor" targetSp
 <gender3 m="his" f="her" /> new home, <tag a="110" b="5" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Anyway, what was your name again?<delay20 />
 <tag a="50" b="3" /><tag a="110" b="3" />, right?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />See you
 around, <tag a="110" b="3" />!</message>
+	<message label="309_01" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />So here's the story<tag a="110" b="0" /><delay20 /> I went looking
+for <tag a="115" b="1" arg="0xcd00" />, but it seemed
+like they were long gone.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I'm pretty sure that means I'm free
+and clear to move IN, <tag a="110" b="5" />!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />So, you're <tag a="110" b="3" />, right?<10_4 />
+<anim id="WrySmile" target="actor" targetSpec="" />Get ready, <tag a="110" b="3" />. <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />Here
+comes <tag a="110" b="10" />!</message>
 	<message label="310" attrib="00 00 01 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Huh? <delay20 />You don't think anyone
 would be interested?</message>
 	<message label="310_a" attrib="00 00 00 00 00 00 00 00">Someone would be...</message>

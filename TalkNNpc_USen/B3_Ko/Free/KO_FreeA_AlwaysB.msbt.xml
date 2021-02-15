@@ -142,4 +142,28 @@ Complete my bucket collection!
 six made out of pure nickel.<delay20 /> It weighs
 85 pounds and only holds two rocks.
 <anim id="BigSmile" target="actor" targetSpec="" />It's glorious and I need five more!</message>
+	<message label="030" attrib="1f 00 00 01 00 00 00 09"><anim id="AbsentMindedness" target="actor" targetSpec="" />I remember when I was just startin'
+out with DIY stuff, <tag a="110" b="5" /><tag a="110" b="0" /></message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="031_01" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I started out just thinkin' I'd spend
+a few minutes, maybe just make
+somethin' small<tag a="110" b="0" />
+<anim id="Shocked" target="actor" targetSpec="" />Next thing you know, it was dark
+out! <delay frames="40" /><anim id="Frantic" target="actor" targetSpec="" />And it wasn't just night—a
+whole week had passed!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />In the end, though, it was worth it.<delay frames="40" />
+That flimsy axe lasted me almost
+20 minutes. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="031_02" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I'm pretty sure I followed the recipe
+just right, but what I ended up with
+wasn't what I was expectin'!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It was supposed to be
+<tag a="50" b="2" /><tag a="135" b="5" arg="0xcd00" />, but it came
+out as <tag a="50" b="2" /><tag a="135" b="5" arg="0xcd01" />!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Bah! <delay20 />I just pretended it was <tag a="50" b="2" />
+<tag a="135" b="5" arg="0xcd00" /> and it worked out
+just fine. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="031_03" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />I was hammerin' away with one
+hand when I hit my finger! <delay20 />Then I
+dropped the hammer on my toe<tag a="110" b="0" />
+<anim id="Angry" target="actor" targetSpec="" />And then my buddy laughed at me.<delay frames="40" />
+<anim id="OhGeez" target="actor" targetSpec="" />If you're keepin' score, that's addin'
+insult to injury to injury!</message>
 </msbt>

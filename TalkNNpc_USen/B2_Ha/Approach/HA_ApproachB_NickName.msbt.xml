@@ -22,7 +22,7 @@ Sure!</message>
 	<message label="003_b" attrib="00 00 00 00 00 00 00 00">I'm sorry.
 That's a bit...</message>
 	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! Perfect!<delay40 /> <anim id="QuestionMark" target="actor" targetSpec="" />Are you interested in a
-sweet nickname, <tag a="110" b="5" />?</message>
+sweet new nickname?</message>
 	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Like what?</message>
 	<message label="004_b" attrib="00 00 00 00 00 00 00 00">Nah. I'm good.</message>
 	<message label="005" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I'm glad I ran into you.<delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" /> I just thought
@@ -40,7 +40,7 @@ Sure!</message>
 	<message label="006_b" attrib="00 00 00 00 00 00 00 00">I'm sorry.
 Don't do that.</message>
 	<message label="100" attrib="00 00 02 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Try this out—"<tag a="110" b="3" />."<delay frames="40" />
-<anim id="Smiling" target="actor" targetSpec="" />Pretty good, huh?</message>
+<anim id="Smiling" target="actor" targetSpec="" />Sounds pretty good on you, huh?</message>
 	<message label="100_a" attrib="00 00 00 00 00 00 00 00">Nice!</message>
 	<message label="100_b" attrib="00 00 00 00 00 00 00 00">I'm not so sure...</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Whaaat?! <delay frames="40" /><anim id="Sighing" target="actor" targetSpec="" />After all the time
@@ -48,7 +48,7 @@ I spent flexing my thinker?<delay20 />
 Aw, <tag a="110" b="5" />.</message>
 	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Yesss! From now on, I'm going to call
 you <tag a="110" b="3" />!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Oh!<delay20 /> Or maybe even
-Champion <tag a="110" b="3" />!</message>
+Champion <capitaliseNextWord /><tag a="110" b="3" />!</message>
 	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Well, what are you thinking?</message>
 	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />What? No good? <delay frames="40" />Well, that's a bitter
 defeat.<delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" /> But I'm sure I'll think up a

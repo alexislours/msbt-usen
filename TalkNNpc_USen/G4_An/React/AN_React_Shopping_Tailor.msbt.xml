@@ -58,14 +58,12 @@ else I'd do with 'em, <tag a="110" b="5" /><tag a="110" b="0" /></message>
 	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Wow! <delay20 />I used to love these things!<delay frames="40" />
 <anim id="Grin" target="actor" targetSpec="" />I bet I could REALLY spook the
 others with one, <tag a="110" b="5" />!</message>
-	<message label="051" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" />What's up, <tag a="110" b="3" />?<delay20 />
-<anim id="Shocked" target="actor" targetSpec="" />Whoa! <delay20 />Nice duds. <delay20 />Are those
-your designs?
-<anim id="Grin" target="actor" targetSpec="" />That's awesome! <delay20 />You've got some
-serious talent, <tag a="110" b="5" />!</message>
-	<message label="052" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="Smiling" target="actor" targetSpec="" />Check out <tag a="110" b="3" />, rockin'
-that cool <tag a="115" b="0" arg="0xcd00" />-original
-design, <tag a="110" b="5" />.</message>
+	<message label="051" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" />Hey, what's up?<delay20 /> <anim id="Shocked" target="actor" targetSpec="" />Whoa! <delay8 />Are those
+your designs?<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />Looks awesome!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />You've got some serious talent. <delay8 />I'm
+kinda jealous, <tag a="110" b="5" />.</message>
+	<message label="052" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="Smiling" target="actor" targetSpec="" />Whoa! <delay20 />Check out that seriously
+rockin' <tag a="115" b="0" arg="0xcd00" />-original
+design, <tag a="110" b="5" />!</message>
 	<message label="053" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="Shocked" target="actor" targetSpec="" />Whoa! <delay20 />Who designed THIS?<delay frames="40" />
 <anim id="Serious" target="actor" targetSpec="" />Wait, was it <tag a="115" b="0" arg="0xcd00" />
 from <tag a="115" b="5" arg="0xcd00" />?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Oh yeah. <delay20 />Figures.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />Those designs

@@ -58,13 +58,13 @@ barking up the wrong <tag a="110" b="15" />.<pageBreak /><anim id="FaintSmile" t
 	<message label="021" attrib="00 00 03 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Yes! <delay20 />One look and I just KNEW you
 had moves!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Hold up! <delay20 />You and <tag a="110" b="3" />
 are friends, right? <anim id="Nodding" target="mainNpc" targetSpec="" /><delay20 />How about
-a little test?<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><20_3 arg="0" />So <tag a="110" b="3" />,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />what do YOU
+a little test?<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><20_3 arg="0" />So, <tag a="110" b="3" />,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />what do YOU
 think <tag a="110" b="31" arg="0xcd00" />'s most
 awesome move is?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Also, no pressure, <delay20 />but your
 friendship's totally riding
 on this.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Now reach into <tag a="110" b="31" arg="0xcd00" />'s
-soul and pull out her best move!<delay frames="40" />
-<anim id="FaintSmile" target="mainNpc" targetSpec="" />Ready<tag a="110" b="0" /><delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />Action!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+soul and pull out her best
+move!<delay frames="40" /> <anim id="FaintSmile" target="mainNpc" targetSpec="" />Ready<tag a="110" b="0" /><delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />Action!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="021_a" attrib="00 00 00 00 00 00 00 00">She throws a fireball!</message>
 	<message label="021_b" attrib="00 00 00 00 00 00 00 00">She's a slam dancer!</message>
 	<message label="021_c" attrib="00 00 00 00 00 00 00 00">She dives in slo-mo!</message>

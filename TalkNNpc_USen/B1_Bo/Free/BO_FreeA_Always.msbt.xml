@@ -137,4 +137,22 @@ joke! Nobody said that!<delay20 /> You oughta
 see the look on your face!<pageBreak /><anim id="EmotEnd" target="player" targetSpec="" /><anim id="Explain" target="actor" targetSpec="" />I ate six bags of chips last night
 and fell asleep with the TV on<tag a="110" b="0" /><delay frames="80" />
 <anim id="Laughing" target="actor" targetSpec="" /><delay20 />I had real weird dreams.</message>
+	<message label="022" attrib="69 00 00 01 00 00 00 0a"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, guess what I've been
+into lately<tag a="110" b="0" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="105_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Singing!<delay20 /> I just go outside and start
+belting out <tag a="135" b="4" arg="0xcd00" /> at the top
+of my lungs!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Did you know it's free?!<delay20 /> Anyone
+can do it!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Just be careful when you're hitting
+the high notes—a bug fwooped into
+my mouth last week and I ate it<tag a="110" b="0" /></message>
+	<message label="105_02" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Running around like an airplane!<delay frames="50" />
+<anim id="HappyDance" target="actor" targetSpec="" />Feeling the wind whooshing past
+my face!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />Then getting tired<tag a="110" b="0" />and falling into
+the grass and taking a nap. <delay20 />Whew!<delay20 />
+<anim id="Sleepy" target="actor" targetSpec="" />I need a nap just talking about it!</message>
+	<message label="105_03" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Munchin' on <tag a="135" b="7" arg="0xcd00" /> and
+just walking around!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I used to be more into eating
+<tag a="135" b="7" arg="0xcd01" /> and parading
+around. <delay20 />This is totally different.</message>
 </msbt>

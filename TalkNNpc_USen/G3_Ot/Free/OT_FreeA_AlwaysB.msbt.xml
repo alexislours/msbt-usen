@@ -132,4 +132,33 @@ and put it in a bottle.
 <anim id="EmotEnd" target="actor" targetSpec="" />Happiness is invisible,<delay8 /><anim id="Hello" target="actor" targetSpec="" /> but this makes
 it visible, you see?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Then, when I'm feeling down,<delay8 />
 I look at all of those happy bottles<tag a="110" b="0" /><anim id="HappyFlower" target="actor" targetSpec="" />and they cheer me right up!</message>
+	<message label="020" attrib="15 00 00 01 00 00 00 09"><anim id="Explain" target="actor" targetSpec="" />You know, darling, <delay8 />recently I've been
+going through all the message cards
+sent to me.
+<anim id="Nodding" target="actor" targetSpec="" />I've been organizing them, rereading
+them, and what have you.</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="021_01" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />You wouldn't believe all the kind
+notes and admiring remarks
+I've received<tag a="110" b="0" /><pageBreak /><anim id="Eh" target="actor" targetSpec="" />Why, there are just so many to read,
+<tag a="110" b="5" />!<delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" /> I end up staying
+awake far too late!
+<anim id="Hesitate" target="actor" targetSpec="" />Ah well,<delay8 /> I suppose it's just the
+sort of burden someone like me
+must bear.</message>
+	<message label="021_02" attrib="00 00 00 00 00 00 00 00">In fact, <delay8 />I've been arranging them
+in order<tag a="110" b="0" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" />most favorite<delay frames="40" /><anim id="Serious" target="actor" targetSpec="" /> to least
+favorite.
+<anim id="Grin" target="actor" targetSpec="" />Oh,<delay8 /> you have nothing to worry about.<delay20 />
+<anim id="HappyFlower" target="actor" targetSpec="" />Any card you send me will go straight
+to the top of the pile, <tag a="110" b="6" />.</message>
+	<message label="021_03" attrib="00 00 00 00 00 00 00 00">I simply adore looking at the card
+designs themselves.<delay8 /> <anim id="Love" target="actor" targetSpec="" />They're all so
+stylishly done.
+<anim id="HappyFlower" target="actor" targetSpec="" />And don't get me started on those
+limited-availability cards that
+change with the seasons<tag a="110" b="0" />
+<anim id="SmugFace" target="actor" targetSpec="" />They really are a must-have for
+those of us who truly appreciate
+fine stationary, <tag a="110" b="6" />.</message>
 </msbt>

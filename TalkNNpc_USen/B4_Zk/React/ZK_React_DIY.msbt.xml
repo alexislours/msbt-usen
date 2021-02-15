@@ -12,11 +12,8 @@ another episode of the
 <anim id="WrySmile" target="actor" targetSpec="" />I was in the zone, you know?</message>
 	<message label="016_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Whatcha crafting?</message>
 	<message label="016_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />You look busy.</message>
-	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Glad you asked! <delay20 />Right now, I'm
-making a wonderful and amazing
-<tag a="125" b="0" arg="0x0" />.
-<anim id="AbsentMindedness" target="actor" targetSpec="" />I got the idea to make it from a crazy
-dream I had the other night.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Glad you asked! <delay20 />I'm just making
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />The recipe came to me in a dream<tag a="110" b="0" /></message>
 	<message label="003" attrib="00 00 02 00 00 00 00 00"><tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />Do you want to hear more about
 it? <delay20 />Either the dream or the
 <tag a="125" b="0" arg="0x0" />?</message>

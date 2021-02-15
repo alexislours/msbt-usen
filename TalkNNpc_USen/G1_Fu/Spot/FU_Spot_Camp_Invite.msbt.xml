@@ -156,6 +156,15 @@ agreed to move up <gender3 m="his" f="her" /> moving plans!<delay frames="40" />
 <anim id="FaintSmile" target="actor" targetSpec="" />Thanks so much<delay20 /> for encouraging me.
 <anim id="HappyDance" target="actor" targetSpec="" />I can't wait to be part of the
 community here,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="309_01" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I went to talk to <tag a="115" b="1" arg="0xcd00" />
+about moving,<delay8 /> but it turns out
+<gender3 m="his" f="her" /> house was already empty!
+<anim id="Worried" target="actor" targetSpec="" />It's kinda sad<tag a="110" b="0" /><delay20 /><anim id="Smiling" target="actor" targetSpec="" />but also great. <delay8 />I can
+move here now, <tag a="110" b="3" />!<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />That's right,<delay8 /> I remembered.<delay8 /> It's
+totally OK if you forgot my name.<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />It's <tag a="110" b="10" />!
+I can't wait to be neighbors.<delay20 /><anim id="Cheering" target="actor" targetSpec="" /> It'll be
+so much fun, <tag a="110" b="5" />.</message>
 	<message label="310" attrib="00 00 01 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Have I taken this a little too far?</message>
 	<message label="310_a" attrib="00 00 00 00 00 00 00 00">No, not at all.</message>
 	<message label="310_b" attrib="00 00 00 00 00 00 00 00">Maybe, yeah.</message>

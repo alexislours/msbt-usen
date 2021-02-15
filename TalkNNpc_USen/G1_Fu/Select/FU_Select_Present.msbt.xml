@@ -77,8 +77,8 @@ on growing.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec
 	<message label="405" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />I always love getting flowers!<delay20 /> Thanks.</message>
 	<message label="406" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is a really striking-looking
 <tag a="125" b="0" arg="0x0" />!</message>
-	<message label="407" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thank you for this!<delay frames="30" /> <anim id="HappyFlower" target="actor" targetSpec="" />Watching fish
-swim around is sooo relaxing.</message>
+	<message label="407" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thank you!<delay frames="30" /> <anim id="Nodding" target="actor" targetSpec="" />I look forward to seeing
+this swimmer in action.</message>
 	<message label="408" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh,<delay20 /> what an extraordinary
 <tag a="125" b="0" arg="0x0" />!</message>
 	<message label="409" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />What a great specimen!<delay frames="30" /> <anim id="HappyFlower" target="actor" targetSpec="" />Thanks
@@ -91,6 +91,17 @@ island could benefit from your find!</message>
 this, but to be honest<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />I really think you should drop this off
 with <colour id="3" />Blathers <colour id="65535" />instead.<delay frames="30" /> <anim id="Nodding" target="actor" targetSpec="" />That way, we
 could all benefit from your catch!</message>
+	<message label="412" attrib="00 00 00 00 00 00 00 00">Oh, wow! <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />I've always wanted my very
+own <tag a="125" b="0" arg="0x0" />.</message>
+	<message label="413" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thank you so much!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> I love how it
+emits such a calming energy. <delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" />Nature
+truly is a wonder, <tag a="110" b="5" />!</message>
+	<message label="414" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />I'm honored that you want me to
+have this, <delay8 /><anim id="Nodding" target="actor" targetSpec="" />but I think it'd be best if
+you donated it to <colour id="3" />Blathers<colour id="65535" />.
+<anim id="Explain" target="actor" targetSpec="" />The whole island should have a
+chance to admire this impressive
+find, <delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />don't you think?</message>
 	<message label="501" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
 	<message label="502" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />You think I'd want this kind of thing?<10_4 />
 <anim id="SadSpiral" target="actor" targetSpec="" />Oh<delay8 /><tag a="110" b="0" /> No,<delay20 /> you can have it back.</message>

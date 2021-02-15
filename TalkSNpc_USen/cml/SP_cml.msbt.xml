@@ -53,8 +53,8 @@ money.<delay frames="30" /> All will be happy and well.</message>
 and purse grow one size bigger.</message>
 	<message label="008_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Please enjoy the rug as long as
 you can.</message>
-	<message label="009" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I hope you will buy again.<delay20 />
-<anim id="Hello" target="actor" targetSpec="" />May the tickets tempt you<tag a="110" b="0" /></message>
+	<message label="009" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I hope you will buy again.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />May the
+tickets tempt you<tag a="110" b="0" /></message>
 	<message label="010" attrib="00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Ah, greatest of tragedies!<delay20 />
 <anim id="Worried" target="actor" targetSpec="" />Your pockets are too full for
 new things to be within them!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Speak to me again when your
@@ -224,4 +224,36 @@ for another one, and so on.</message>
 	<message label="068_03" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />You will want to see <colour id="3" />Saharah <colour id="65535" />again,
 yes.<delay frames="30" /> Decorating with this<delay frames="30" /><anim id="FaintSmile" target="actor" targetSpec="" /> will make
 you restless for more mystery!</message>
+	<message label="070" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Is your wallet now content, or shall
+you make additional purchases?</message>
+	<message label="070_a" attrib="00 00 00 00">A rug, please.</message>
+	<message label="070_b" attrib="00 00 00 00">Mysterious wallpaper.</message>
+	<message label="070_c" attrib="00 00 00 00">Mysterious flooring.</message>
+	<message label="070_d" attrib="00 00 00 00">I'm not interested.</message>
+	<message label="071" attrib="08 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Is your wallet now content, or shall
+you make additional purchases?</message>
+	<message label="071_a" attrib="00 00 00 00">A rug, please.</message>
+	<message label="071_b" attrib="00 00 00 00">Mysterious wallpaper.</message>
+	<message label="071_c" attrib="00 00 00 00">Mysterious flooring.</message>
+	<message label="071_d" attrib="00 00 00 00">Let's make a trade!</message>
+	<message label="071_e" attrib="00 00 00 00">I'm not interested.</message>
+	<message label="072" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I will visit again. <delay20 />May our wallets
+find togetherness in the future.</message>
+	<message label="100" attrib="08 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hello. <delay20 />You are calling me <colour id="3" />Saharah<colour id="65535" />,
+for it is the name I have carried for
+as long as I have carried these rugs.
+<anim id="Nodding" target="actor" targetSpec="" />I bring these rugs from my home,<delay20 />
+which is far,<delay20 /> to help you decorate
+your home,<delay20 /> which is near.
+<anim id="Serious" target="actor" targetSpec="" />I have small rugs, <delay8 />large rugs, <delay8 />and
+rugs of the medium space between.<delay20 />
+The design is seen after the buying.
+<anim id="Explain" target="actor" targetSpec="" />I have also mysterious flooring and
+wallpaper.<delay20 /> Oh, how surprising you
+will find it! <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />Are you ready to buy?</message>
+	<message label="100_a" attrib="00 00 00 00">A rug, please.</message>
+	<message label="100_b" attrib="00 00 00 00">Mysterious wallpaper.</message>
+	<message label="100_c" attrib="00 00 00 00">Mysterious flooring.</message>
+	<message label="100_d" attrib="00 00 00 00">Let's make a trade!</message>
+	<message label="100_e" attrib="00 00 00 00">I'm not interested.</message>
 </msbt>
