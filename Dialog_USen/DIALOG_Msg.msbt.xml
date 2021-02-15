@@ -105,7 +105,9 @@ order this item.
 customers with home contracts.<colour id="65535" /></message>
 	<message label="0603" attrib="01 09">Miles-redemption <colour id="1" />mail <colour id="65535" />orders are
 limited to 5 items per day.</message>
-	<message label="0802" attrib="12 00"><colour id="0" />About Local and Online Play<colour id="65535" />
+	<message label="0702" attrib="06 09">You don't have enough <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />heart crystals<colour id="65535" />!</message>
+	<message label="0702_a" attrib="01 06">Close</message>
+	<message label="0802" attrib="12 09"><colour id="0" />About Local and Online Play<colour id="65535" />
 During local and online play, other
 players you play with can see player-
 generated <colour id="1" />text <colour id="65535" />and <colour id="1" />graphics<colour id="65535" /> such as:<pageBreak /><colour id="1" />names<colour id="65535" />, <colour id="1" />chat<colour id="65535" />, <colour id="1" />bulletin-board posts<colour id="65535" />,
@@ -118,7 +120,7 @@ enjoy communicating with them.</message>
 	<message label="0803" attrib="06 09">Sorry, that island can't accommodate
 any more visitors right now.</message>
 	<message label="0803_a" attrib="01 04">Back</message>
-	<message label="0804" attrib="12 00"><colour id="1" />Be considerate<colour id="65535" />! Please do not share
+	<message label="0804" attrib="12 09"><colour id="1" />Be considerate<colour id="65535" />! Please do not share
 illegal content, personal information,
 content that infringes on the rights
 of others, or content that irritates
@@ -148,7 +150,7 @@ the last time it was updated.</message>
 	<message label="0806" attrib="06 00">Destination info cannot be shown
 due to a communications error.</message>
 	<message label="0806_a" attrib="01 00">Back</message>
-	<message label="0810" attrib="07 00">Do you want to try to connect
+	<message label="0810" attrib="08 00">Do you want to try to connect
 to the internet again?</message>
 	<message label="0810_a" attrib="01 00">Give Up</message>
 	<message label="0810_b" attrib="01 00">Try Again</message>
@@ -228,16 +230,16 @@ will be returned.</message>
 	<message label="1120" attrib="06 00">The item was sent off to
 <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />.</message>
 	<message label="1120_a" attrib="01 00">OK</message>
-	<message label="1121" attrib="06 00">You can't place orders while
+	<message label="1121" attrib="06 09">You can't place orders while
 company is around.</message>
 	<message label="1121_a" attrib="01 00">Close</message>
-	<message label="1122" attrib="06 00">You can't place orders while you're
+	<message label="1122" attrib="06 09">You can't place orders while you're
 visiting another player's island.</message>
 	<message label="1122_a" attrib="01 00">Close</message>
-	<message label="1123" attrib="06 00">You can't place orders while the
+	<message label="1123" attrib="06 09">You can't place orders while the
 airport gate is open.</message>
 	<message label="1123_a" attrib="01 00">Close</message>
-	<message label="1124" attrib="06 00">You can't place orders at this time.
+	<message label="1124" attrib="06 09">You can't place orders at this time.
 Please close the connection at the
 airport counter.</message>
 	<message label="1124_a" attrib="01 00">Close</message>
@@ -274,12 +276,12 @@ saved by <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" /
 	<message label="1224_b" attrib="01 00">Overwrite it.</message>
 	<message label="1300" attrib="02 00">Deleting save data.
 <colour id="0" />Do not touch the  POWER Button.<colour id="65535" /></message>
-	<message label="1308" attrib="1c 00">The system is set to a date outside
+	<message label="1308" attrib="1c 09">The system is set to a date outside
 the supported range.<pageBreak />Please close the game from the
 HOME Menu and restart after
 setting a date between
 1/1/2000 and 12/31/2060.</message>
-	<message label="1310" attrib="20 00">The save data is damaged. Would you
+	<message label="1310" attrib="20 09">The save data is damaged. Would you
 like to delete the damaged save data
 and start the game over?</message>
 	<message label="1310_a" attrib="1a 05">Start over.</message>
@@ -665,7 +667,7 @@ limit for requests.</message>
 	<message label="1411" attrib="06 09">This request has already been
 withdrawn.</message>
 	<message label="1411_a" attrib="01 04">Back</message>
-	<message label="1412" attrib="06 00">You can't remove someone from
+	<message label="1412" attrib="06 09">You can't remove someone from
 your Best Friends List while you are
 playing with them.</message>
 	<message label="1412_a" attrib="01 04">Back</message>
@@ -709,10 +711,10 @@ ability to send messages.</message>
 can't send messages to them
 right now.</message>
 	<message label="1454_a" attrib="01 06">Back</message>
-	<message label="1455" attrib="01 00">You can't send messages when no
+	<message label="1455" attrib="01 09">You can't send messages when no
 other players are online.</message>
 	<message label="1455_a" attrib="01 00">Back</message>
-	<message label="1456" attrib="01 00">Communication has been turned off
+	<message label="1456" attrib="01 09">Communication has been turned off
 since the network connection was
 disrupted. Please turn it on and try
 again.</message>
@@ -758,11 +760,11 @@ current home!</message>
 	<message label="1801" attrib="06 09"><colour id="2" /><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" /> doesn't have a
 home yet and can't receive mail.</message>
 	<message label="1801_a" attrib="01 04">Back</message>
-	<message label="1900" attrib="15 00">Report <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
-	<message label="1900_a" attrib="0e 02">Cancel.</message>
-	<message label="1900_b" attrib="0e 01">Send report.</message>
-	<message label="1920" attrib="12 01">Report process complete.</message>
-	<message label="1920_a" attrib="0e 01">OK.</message>
+	<message label="1900" attrib="08 00">Report <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="1900_a" attrib="01 02">Cancel.</message>
+	<message label="1900_b" attrib="01 01">Send report.</message>
+	<message label="1920" attrib="05 01">Report process complete.</message>
+	<message label="1920_a" attrib="01 01">OK.</message>
 	<message label="1921" attrib="07 09">The report could not be sent.</message>
 	<message label="1921_a" attrib="01 00">Never mind.</message>
 	<message label="1921_b" attrib="01 00">Try again!</message>
@@ -878,7 +880,7 @@ Would you like to try again?</message>
 	<message label="2424" attrib="08 00">Are you done using the kiosk?</message>
 	<message label="2424_a" attrib="01 00">Keep using it.</message>
 	<message label="2424_b" attrib="01 00">All done!</message>
-	<message label="2425" attrib="12 09">Thank you for your interest in
+	<message label="2425" attrib="12 00">Thank you for your interest in
 posting designs!<pageBreak />You are now registered as a creator.
 Your ID is <colour id="1" /><tag a="140" b="17" arg="0xcd00" /><colour id="65535" />.
 You can check your creator ID at
@@ -897,7 +899,7 @@ post. Please select one to delete.</message>
 designs of your own. Please try again
 after you've made a custom design.</message>
 	<message label="2429_a" attrib="01 00">Got it!</message>
-	<message label="2430" attrib="06 00">It seems this design has already
+	<message label="2430" attrib="06 09">It seems this design has already
 been posted.
 <colour id="0" />You can repost it if you edit it.<colour id="65535" /></message>
 	<message label="2430_a" attrib="01 00">Back</message>
@@ -1409,18 +1411,36 @@ screen to access the settings
 and delete that resident.</message>
 	<message label="8013" attrib="03 00">To close this screen, please close
 the game from the HOME Menu.</message>
-	<message label="8014" attrib="07 00">The Nintendo Account linked to this
+	<message label="8014" attrib="08 00">The Nintendo Account linked to this
 user is different than it was before.<pageBreak />Any features that use the internet,
 like the Best Friends List, will be
 reinitialized if you play again.<pageBreak />Do you want to start playing again
 as <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
 	<message label="8014_a" attrib="01 00">I'm not sure.</message>
 	<message label="8014_b" attrib="01 00">Yes.</message>
-	<message label="8015" attrib="07 00">This user does not have a Nintendo
+	<message label="8015" attrib="08 00">This user does not have a Nintendo
 Account linked.<pageBreak />Any features that use the internet,
 like the Best Friends List, will be
 reinitialized if you play again.<pageBreak />Do you want to start playing again
 as <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
 	<message label="8015_a" attrib="01 00">I'm not sure.</message>
 	<message label="8015_b" attrib="01 00">Yes.</message>
+	<message label="8016" attrib="08 00">The Nintendo Account linked to this
+user is different than it was before.<pageBreak />Any features that use the internet,
+like the Best Friends List, will be
+reinitialized if you start playing again.
+Do you want to start playing again?</message>
+	<message label="8016_a" attrib="01 00">No</message>
+	<message label="8016_b" attrib="01 00">Yes</message>
+	<message label="8017" attrib="08 00">This user does not have a Nintendo
+Account linked, or this user needs to
+sign into their Nintendo Account
+again.<pageBreak />Any features that use the internet,
+like the Best Friends List, will be
+reinitialized if you start playing again.<pageBreak />Do you want to start playing again
+and reinitialize all features that use
+the internet?</message>
+	<message label="8017_a" attrib="01 00">No</message>
+	<message label="8017_b" attrib="01 00">Yes</message>
+	<message label="8019" attrib="01 00">Starting game again.</message>
 </msbt>

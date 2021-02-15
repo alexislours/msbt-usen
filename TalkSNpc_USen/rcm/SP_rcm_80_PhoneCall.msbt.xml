@@ -10,4 +10,12 @@ account for <tag a="90" b="24" arg="0x0" /><delay8 /> for what
 you left in the drop-off box.<endTag a="100" b="5" /></message>
 	<message label="004" attrib="00 00 00 00"><tag a="100" b="5" />Thank you for using this service!<delay20 />
 Hope to see you in the shop soon!<endTag a="100" b="5" /></message>
+	<message label="005" attrib="00 00 00 00"><tag a="100" b="5" />We sent <tag a="90" b="24" arg="0x0" /><delay8 /> to your
+bank account for your recent deal
+with <colour id="3" />Wilbur<colour id="65535" /><tag a="110" b="0" /> Copy?<delay20 /> I mean<tag a="110" b="0" /> Over!<endTag a="100" b="5" /></message>
+	<message label="006" attrib="00 00 00 00"><tag a="100" b="5" />We sent <tag a="90" b="24" arg="0x0" /><delay8 /> to your
+account for your deal with <colour id="3" />Wilbur<colour id="65535" /> and
+your drop-off box deposit<tag a="110" b="0" /> Over!<endTag a="100" b="5" /></message>
+	<message label="004_pl" attrib="00 00 00 00"><tag a="100" b="5" />Thank you for using our services!<delay20 />
+Hope to see you in the shop soon!<endTag a="100" b="5" /></message>
 </msbt>

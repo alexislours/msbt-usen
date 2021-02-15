@@ -57,12 +57,15 @@ finished, all of the exhibits are
 absolutely pristine! <delay frames="40" /><anim id="Clapping" target="actor" targetSpec="" />I LOVE it!<delay frames="50" /><anim id="FaintSmile" target="actor" targetSpec="" />
 <anim id="Nodding" target="actor" targetSpec="" />Yes indeed, this will make a very
 nice home for all the fish.</message>
-	<message label="200_02" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />I was excited for the <colour id="1" />museum <colour id="65535" />to
-open.<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />But<tag a="110" b="0" /><delay frames="13" />I had no idea it would
-be so relaxing and cozy in here.
-<anim id="AbsentMindedness" target="actor" targetSpec="" />Will I come here to see the fish<tag a="110" b="0" /><delay20 />
-or to take a nap?<delay20 /> <anim id="Grin" target="actor" targetSpec="" />Perhaps a bit
-of both, <tag a="110" b="6" />.</message>
+	<message label="200_02" attrib="00 00 00 00 00 00 00 00">I<anim id="Greeting" target="actor" targetSpec="" /> am absolutely enchanted by this
+<colour id="1" />museum<colour id="65535" />, aren't you?<delay20 /> It's just so<tag a="110" b="0" /><delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />grandiose!
+<anim id="AbsentMindedness" target="actor" targetSpec="" />And yet, I also find the atmosphere
+to be quite relaxing<tag a="110" b="0" />especially here
+among the fish, <tag a="110" b="5" /><tag a="110" b="0" />
+Why,<delay8 /> <anim id="Aha" target="actor" targetSpec="" />I do believe I've found my
+happy place!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />
+</message>
 	<message label="200_03" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Have you already been to the other
 exhibits, <tag a="110" b="3" />?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I think it's marvelous the way each
 room has its own unique theme.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />I don't know how I got so lucky as

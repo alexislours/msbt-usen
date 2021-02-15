@@ -3,6 +3,9 @@
 in <tag a="50" b="2" /><tag a="135" b="5" arg="0xcd00" />—<delay20 />we are
 parked and proud!<delay20 /><anim id="Assent" target="actor" targetSpec="" />
 Give a quack to wingback.</message>
+	<message label="002" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="135" b="7" arg="0xcd00" /> static!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> Looks like
+we got a whole lotta radio chatter
+goin' on over yonder<tag a="110" b="0" /></message>
 	<message label="101" attrib="02 00 00 00">Trainwreck <tag a="135" b="7" arg="0xcd00" /> is
 reporting tango <tag a="135" b="6" arg="0xcd00" /> is go.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />
 Do you require assistance?<anim id="EmotEnd" target="actor" targetSpec="" /> <delay20 />Over.</message>
@@ -16,4 +19,74 @@ and bounce back to <tag a="50" b="3" /><tag a="110" b="7" arg="0xcd00" />town?</
 and make tracks.</message>
 	<message label="104" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Copy that.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Take your time, civilian.<delay20 />
 I'm not in a hurry.</message>
+	<message label="105" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Attention, fledgling!<delay40 /><anim id="EmotEnd" target="actor" targetSpec="" /> This squawker's
+got a transmission for you. Yes, you,
+<tag a="110" b="1" /><tag a="110" b="0" />
+<anim id="BigSmile" target="actor" targetSpec="" />Dodo Airlines is now dabbling in <colour id="1" />item
+delivery and liquidation<colour id="65535" />. Services
+start here.<delay20 /> Now.<delay20 /> For you.<delay20 /> Copy?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />See, you can flap all you want, but an
+<anim id="Oops" target="actor" targetSpec="" />overburdened bird'll never get off
+the ground.<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> Copy?<pageBreak /><anim id="Angry" target="actor" targetSpec="" />You grokkin' what I'm squawkin'?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Sometimes you gotta do more than
+flex your wings. You gotta ditch some
+cargo to fly free.<delay20 /> Copy?<delay20 /> <tag a="110" b="0" /><anim id="Aha" target="actor" targetSpec="" />Copy!
+<anim id="Pardon" target="actor" targetSpec="" />SO!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Feel free to offload some of your
+goods with us.<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> We can send 'em to
+your home base or buy 'em outright.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Let me just make sure I've got my
+beak on straight so I can plot out
+the flight plan for you<tag a="110" b="0" /><anim id="Aha" target="actor" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />First, let's talk <colour id="1" />delivery<colour id="65535" />.<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> We'll ship
+your goods, safe and sound, straight
+to your home storage.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />And we won't bombard you with
+pesky handling fees<anim id="Greeting" target="actor" targetSpec="" />, so fly high and
+book as often as you want.</message>
+	<message label="107" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />As for <colour id="1" />liquidation<colour id="65535" />, well, let me just
+confirm that dodos are collectors.<delay20 />
+<anim id="Negative" target="actor" targetSpec="" />Maybe your intel on that was lacking.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />But it's true!<delay20 /> And this service is for
+those who want to unload some of
+their excess baggage for extra Bells.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />With <colour id="1" />Nook's Cranny<colour id="65535" />, our partners on
+the ground, we'll buy your packages
+for what you'd get via their drop box.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Funds'll fly straight to your Bank of
+Nook account tomorrow, so keep that
+info on your radar.</message>
+	<message label="108" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's all the dodo info on these new
+services for now.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Dodo Airlines, over and out!</message>
+	<message label="110" attrib="06 00 00 00">Trainwreck <tag a="135" b="7" arg="0xcd00" /> is
+reporting tango <tag a="135" b="6" arg="0xcd00" /> is go.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />
+Do you require assistance?<anim id="EmotEnd" target="actor" targetSpec="" /> <delay20 />Over.</message>
+	<message label="110_a" attrib="00 00 00 00">I'm ready to go home.</message>
+	<message label="110_b" attrib="00 00 00 00">GO for Delivery!</message>
+	<message label="110_c" attrib="00 00 00 00">GO for Liquidation!</message>
+	<message label="110_d" attrib="00 00 00 00">Never mind.</message>
+	<message label="111" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Delivery, huh? Copy that, loud and
+clear.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> What are we sending out into
+the wild blue yonder?</message>
+	<message label="112" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Huh? Mission scrubbed!<delay20 /><anim id="Thinking" target="actor" targetSpec="" /> Too much
+congestion in your storage back
+home<tag a="110" b="0" /> You're full up.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />If you want to alter your flight plan
+and sell some stuff instead, we can
+help you with that too.</message>
+	<message label="113" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Mission scrubbed, eh?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> Well, come
+see me again if you want to take
+another run at it.</message>
+	<message label="116" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Roger.<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> Your cargo is cleared
+for departure.</message>
+	<message label="118" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Dodo delivery service is wings-up
+and ready for takeoff.<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> We'll get your
+stuff home safely.</message>
+	<message label="120" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Offloading some excess cargo for
+Bells, eh?<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />What's on the manifest?</message>
+	<message label="121" attrib="02 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Abort mission!<delay20 /><anim id="Worried" target="actor" targetSpec="" /> Your Bank of Nook
+account is at capacity, so this service
+is a no-go at the moment<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />So<tag a="110" b="0" />we can't land any funds in your
+account, but we can still accept
+transfer of cargo if you want.<delay20 /> Roger?</message>
+	<message label="121_a" attrib="00 00 00 00">Roger! Let's do it.</message>
+	<message label="121_b" attrib="00 00 00 00">Negative. No deal.</message>
+	<message label="124" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Affirmative!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> What are we taking off
+your hands?</message>
+	<message label="125" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Confirming receipt of goods!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Payment lands tomorrow morning.</message>
+	<message label="126" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Cargo received!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> We'll discard your
+excess baggage for you.</message>
+	<message label="127" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Dodo Airlines: Flying because we can.</message>
+	<message label="200" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Wanna dodo some recon?</message>
 </msbt>

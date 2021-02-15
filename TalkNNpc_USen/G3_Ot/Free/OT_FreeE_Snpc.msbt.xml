@@ -23,6 +23,16 @@ now too.<delay frames="40" /> <anim id="HappyDance" target="actor" targetSpec=""
 play something, <tag a="110" b="6" />!</message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's Sunday, my dear,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />and that means
 <colour id="3" />Daisy Mae<colour id="65535" /> should be arriving today.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I must tell you, I spotted a boat
+anchored off the coast.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />At first I thought it might be a
+passenger ship bringing us some
+fabulous new guests or something<tag a="110" b="0" />
+But after giving it a closer look,
+<delay8 /><anim id="Negative" target="actor" targetSpec="" />I don't think it is.<delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" /> So what on
+earth IS it doing here, then?
+<anim id="Serious" target="actor" targetSpec="" />I tell you, <delay8 />I have a funny feeling
+about it, <tag a="110" b="6" />!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />And I don't mean "funny" funny.<delay20 /><anim id="Worried" target="actor" targetSpec="" />
+I mean weird funny.</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />It's so strange<tag a="110" b="0" /> I feel<tag a="110" b="0" />something.<delay20 />
 Like some invisible entity is near.<delay20 /> 
 <anim id="ColdChill" target="actor" targetSpec="" />It's sending chills down my spine!</message>
@@ -74,6 +84,14 @@ times.<delay20 /> But when I turn to look<tag a="110" b="0" /><delay20 />
 <anim id="Shocked" target="actor" targetSpec="" />There's nothing there!
 <anim id="Smiling" target="actor" targetSpec="" />Anyhoo, I'm sure it's nothing to
 worry about, <tag a="110" b="6" />.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Why, <tag a="110" b="3" />,<delay8 /> have you
+heard?<delay20 /> <colour id="3" /><anim id="FaintSmile" target="actor" targetSpec="" />Leif<colour id="65535" /> has set up his shop
+over in the event plaza.
+<anim id="Explain" target="actor" targetSpec="" />I'm quite keen to see what kind of
+fabulous plants that adorable little
+horticulturist has on offer.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I like to think I have a green thumb,
+you know<tag a="110" b="0" /><delay20 /><anim id="SmugFace" target="actor" targetSpec="" />but it's really more of
+a chartreuse thumb, darling.</message>
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />You know, <delay8 />I saw someone on the
 island earlier I'd never seen before.<delay20 />
 <anim id="QuestionMark" target="actor" targetSpec="" />I wonder<tag a="110" b="0" />who could it have been?</message>

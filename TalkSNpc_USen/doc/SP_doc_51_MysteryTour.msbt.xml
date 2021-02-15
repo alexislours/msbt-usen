@@ -45,8 +45,8 @@ So, again<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec=
 	<message label="004" attrib="00 00 00 00"><snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />Roger!<delay frames="40" /> Lifting off November Oscar
 Whisker.</message>
 	<message label="008" attrib="00 00 00 00"><anim id="Assent" target="actor" targetSpec="" />Roger! <delay20 />Belayed and backing off.<delay20 />
-<anim id="FaintSmile" target="actor" targetSpec="" />Let me know when you need kit<delay20 />
-OR to kite.</message>
+<anim id="FaintSmile" target="actor" targetSpec="" />Whenever you need our services,
+just flag this dodo down.</message>
 	<message label="011" attrib="00 00 00 00">Tools? <delay20 /><anim id="Assent" target="actor" targetSpec="" />Roger! <delay20 /><anim id="Thinking" target="actor" targetSpec="" />Lemme just pull up
 the Mileage Menu for you<tag a="110" b="0" /></message>
 	<message label="012" attrib="00 00 00 00">Tools?<delay20 /> <anim id="Serious" target="actor" targetSpec="" />Sorry, civilian<delay20 />—your gear's
@@ -76,4 +76,152 @@ Ground-pounder's up and around.
 <anim id="EmotEnd" target="actor" targetSpec="" /><size value="100" />When you're ready, you can head on
 out again. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Just watch out for bogeys
 and keep an eye on your six.</message>
+	<message label="041" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />And we have touchdown!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />You are at
+your <colour id="1" />May Day Tour<colour id="65535" /> destination!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Now, this tour's different than most.<10_4 />
+<anim id="SmugFace" target="actor" targetSpec="" />Whole island's a giant <colour id="1" />maze<colour id="65535" />!<delay40 /><delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Nothing
+an aerial view wouldn't help, but<tag a="110" b="0" />
+<anim id="Surprised" target="actor" targetSpec="" />That's not why we're here! This is a
+navigation tour!<delay20 /> <anim id="Angry" target="actor" targetSpec="" />You copy?<delay20 /> The point
+is to find your way through!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />We've stowed your gear<anim id="Nodding" target="actor" targetSpec="" /> back at the
+airport counter.<delay frames="30" /><anim id="FaintSmile" target="actor" targetSpec="" /> So you'll start this
+mission with <colour id="1" />empty wings<colour id="65535" />.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Or <colour id="1" />hands<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />We big-shot bird types rely on our
+inner radar to get us around. It's a
+pretty nifty trick.
+<anim id="Explain" target="actor" targetSpec="" />But you ground-bound goslings will
+have to zero in on whatever you can
+find in the maze to reach your target.
+<anim id="Aha" target="actor" targetSpec="" />If you get stuck or grounded or lost
+in a fog bank or whatever, <anim id="Nodding" target="actor" targetSpec="" />just hail
+the <colour id="1" />Rescue Service <colour id="65535" />on your phone!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Our whiskered allies will reset things
+so <anim id="Greeting" target="actor" targetSpec="" />you can refuel, regroup, and
+restart the maze.
+<anim id="BigSmile" target="actor" targetSpec="" />And if you ever feel like you need a
+little extra intel, I might have a hint
+or two for you.
+<anim id="EmotEnd" target="actor" targetSpec="" />So.<delay20 /> Time to get going.<delay20 /> Right<delay20 /> about<tag a="110" b="0" />
+<anim id="Angry" target="actor" targetSpec="" />November Oscar Whisker!<delay20 /><snpcAnim id="DodRoger" target="actor" targetSpec="" /> Good luck,
+and wheels up!</message>
+	<message label="042" attrib="06 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Lost in the fog?<delay frames="30" /> Need navigational
+assistance?<delay frames="30" /> Spill <tag a="135" b="1" arg="0xcd00" /> on
+your flight plan?<delay frames="30" /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help?</message>
+	<message label="042_a" attrib="00 00 00 00">I need a hint.</message>
+	<message label="042_b" attrib="00 00 00 00">I need a tool.</message>
+	<message label="042_c" attrib="00 00 00 00">I want to go home.</message>
+	<message label="042_d" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="043" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Just so I know our signals aren't
+getting crossed: You can't revisit
+this exact <colour id="1" />May Day Tour<colour id="65535" /> island again.<delay frames="30" /><anim id="EmotEnd" target="actor" targetSpec="" />
+You sure about this?</message>
+	<message label="043_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Yep!</message>
+	<message label="043_b" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />No, wait<tag a="110" b="0" /></message>
+	<message label="044" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Negatory. No joy. You're going into
+this mission Whisker Tango—that's
+"without tools" to you civvies.
+<anim id="Serious" target="actor" targetSpec="" />For this <colour id="1" />May Day Tour<delay20 /><colour id="65535" />, you gotta
+navigate to the target with limited
+resources. You copy?
+<anim id="Negative" target="actor" targetSpec="" />I can't give out tools no matter how
+nicely you ask. Even if you outrank
+me⁠—and you don't⁠—answer's no.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Apologies, my featherless friend.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />I hope you understand that's just
+the way the dodos do it.</message>
+	<message label="045" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />A hint, huh?<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> Roger. Guidance
+incoming.<10_4 /><anim id="Thinking" target="actor" targetSpec="" /> Acquiring knowledge<tag a="110" b="0" /></message>
+	<message label="046_0" attrib="00 00 00 00">Here's some intel: <delay8 /><anim id="Hello" target="actor" targetSpec="" />Did you know you
+can get a boost in your afterburners
+by eating <colour id="1" />fruit<colour id="65535" />?<delay20 /><anim id="Angry" target="actor" targetSpec="" /> Makes you strong!
+<anim id="Nodding" target="actor" targetSpec="" />With that kinda fuel,<anim id="Explain" target="actor" targetSpec="" /> you can <colour id="1" />uproot
+trees<colour id="65535" /> or <colour id="1" />break rocks <colour id="65535" />with a shovel or
+an axe.<anim id="EmotEnd" target="actor" targetSpec="" /><delay20 /><anim id="Laughing" target="actor" targetSpec="" /> Might even hit Mach 37!</message>
+	<message label="046_1" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I guess that's a big negatory on my
+"over and out." <anim id="Explain" target="actor" targetSpec="" />So let's talk hoppin'
+rivers.<delay20 /> Hoppin' narrow rivers, copy?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />To hop a river,<delay20 /> just press <colour id="1" /> <colour id="65535" />in the
+direction you wanna hop.<anim id="EmotEnd" target="actor" targetSpec="" /> I'm not
+gonna say "over and out" this time<tag a="110" b="0" /></message>
+	<message label="046_2" attrib="00 00 00 00">If you get stuck with no way out,<delay8 /><anim id="Nodding" target="actor" targetSpec="" />
+deploy your phone and reach out to
+the <colour id="1" />Rescue Service<colour id="65535" />.
+<anim id="Explain" target="actor" targetSpec="" />They'll reset the island<anim id="Greeting" target="actor" targetSpec="" /> so you can
+take another run at the maze.</message>
+	<message label="046_3" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />OK. Say there's a tree in your way.
+You've got two options.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Option one: Eat some <colour id="1" />fruit<colour id="65535" />, then dig
+the whole thing up with a <colour id="1" />shovel<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Option two: Chop it down with a
+decent <colour id="1" />axe<colour id="65535" />,<delay frames="30" /><anim id="Serious" target="actor" targetSpec="" /> then excavate the stump
+with a <colour id="1" />shovel<colour id="65535" />.<delay20 /><anim id="Angry" target="actor" targetSpec="" /> Over and out!</message>
+	<message label="046_4" attrib="00 00 00 00">Here's a little more intel for you:<delay20 /><anim id="Smiling" target="actor" targetSpec="" />
+If you need tools, try crafting them.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />The DIY flight path is tried and true:
+Get materials<delay20 /><anim id="Greeting" target="actor" targetSpec="" />, rendezvous with the
+nearest <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />simple DIY workbench<colour id="65535" />, boom.</message>
+	<message label="047" attrib="01 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />For the love of <colour id="3" />Nook<colour id="65535" />'s ever-flyin'
+<tag a="135" b="5" arg="0xcd00" />!<delay20 /><anim id="Pardon" target="actor" targetSpec="" /> Did you soar through
+the entire maze, <tag a="110" b="1" />?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="047_a" attrib="00 00 00 00">I did!</message>
+	<message label="047_b" attrib="00 00 00 00">Piece o' cake!</message>
+	<message label="048" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Way to soar through!<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /> You'll have to
+let ol' <colour id="3" />Nook <colour id="65535" />know.<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Oop<tag a="110" b="0" /> Put the air brake on. Seems
+you have something on you these
+pilot's eyes have never seen before.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Let me get this straight.<delay frames="30" /><anim id="EmotEnd" target="actor" targetSpec="" /> You got it
+from someone who just happened to
+be hoverin' around this island?
+Well then,<delay20 /><anim id="Assent" target="actor" targetSpec="" /> Dodo Airlines will proudly
+deliver your prize to your home.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Nodding" target="actor" targetSpec="" />One dilly of a <colour id="1" />May Day Tour<colour id="65535" />, huh?<10_4 />
+Squawk the word,<anim id="Hello" target="actor" targetSpec="" /> and we'll wing you
+back to your home hangar.
+<anim id="Aha" target="actor" targetSpec="" />Oh! If you're stuck, grounded, lost in
+a fog bank, whatever<tag a="110" b="0" /><anim id="Nodding" target="actor" targetSpec="" />just hail the
+<colour id="1" />Rescue Service <colour id="65535" />on your phone.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Our whiskered allies will reset things
+so <anim id="Greeting" target="actor" targetSpec="" />you can refuel, regroup, and
+restart the maze.</message>
+	<message label="049" attrib="02 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Attention on deck!<delay frames="30" /><anim id="QuestionMark" target="actor" targetSpec="" /> What's next on
+your flight plan?</message>
+	<message label="049_a" attrib="00 00 00 00">Time to head home.</message>
+	<message label="049_b" attrib="00 00 00 00">Cancel that. I'm good.</message>
+	<message label="050" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Looks like the <colour id="1" />Rescue Service <colour id="65535" />folks
+took care of you, <tag a="110" b="1" />!<delay20 /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />The island's been reset back to the
+way it was, <delay20 /><anim id="Greeting" target="actor" targetSpec="" />so feel free to attempt
+the maze mission again if you like.
+<anim id="Smiling" target="actor" targetSpec="" />If you get re-stuck, I'm sure the
+<colour id="1" />Rescue Service<colour id="65535" /> will help again.<delay20 />
+<anim id="Laughing" target="actor" targetSpec="" />Keeps 'em from gettin' bored!
+<anim id="Serious" target="actor" targetSpec="" />Take a moment to get yourself
+together, and get back in there.<delay20 />
+<snpcAnim id="DodRoger" target="actor" targetSpec="" />Fly proud!</message>
+	<message label="051" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Yearning for <tag a="110" b="9" />?<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />If you want to do the maze again,<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />please use the <colour id="1" />Rescue Service<colour id="65535" />.</message>
+	<message label="051_a" attrib="00 00 00 00">I'm heading home!</message>
+	<message label="051_b" attrib="00 00 00 00">Wait a sec.</message>
+	<message label="052" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />We'll make sure all your things are
+back in your pockets once we're on
+the ground on <tag a="110" b="9" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />However,<delay8 /> the <colour id="1" />gift<colour id="65535" /> you received from
+your new island friend<tag a="110" b="0" /><anim id="Explain" target="actor" targetSpec="" /> We'll send
+that directly to your house.<pageBreak />Find it at your mailbox shortly.<delay20 /> And
+that wraps us up.<delay8 /><anim id="Hello" target="actor" targetSpec="" /> Ready for takeoff?</message>
+	<message label="052_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Yep!</message>
+	<message label="052_b" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />No, wait<tag a="110" b="0" /></message>
+	<message label="053" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />We'll make sure all your things are
+back in your pockets once we're on
+the ground on <tag a="110" b="9" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />However,<delay8 /> the <colour id="1" />gift<colour id="65535" /> you received from
+your new island friend<tag a="110" b="0" /><anim id="Explain" target="actor" targetSpec="" /> We'll send
+that directly to your house.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Same goes for any <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />Bell vouchers <colour id="65535" />you
+might have acquired while here. Find
+them at your mailbox shortly.
+And that wraps us up.<delay8 /><anim id="Hello" target="actor" targetSpec="" /> Ready for
+takeoff?</message>
+	<message label="053_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Yep!</message>
+	<message label="053_b" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />No, wait<tag a="110" b="0" /></message>
+	<message label="054" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />We'll make sure all your things are
+back in your pockets once we're on
+the ground on <tag a="110" b="9" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />However, any <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />Bell vouchers <colour id="65535" />you
+might have acquired while here will
+wind up in your mailbox shortly.
+And that wraps us up.<delay8 /><anim id="Hello" target="actor" targetSpec="" /> Ready for
+takeoff?</message>
+	<message label="054_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Yep!</message>
+	<message label="054_b" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />No, wait<tag a="110" b="0" /></message>
+	<message label="055" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />There's no coming back to this same
+<colour id="1" />May Day Tour<colour id="65535" />.<delay frames="30" /><anim id="EmotEnd" target="actor" targetSpec="" /><colour id="4" /> Not that there's much
+left on your checklist<tag a="110" b="0" /> <delay20 /><colour id="65535" />Ready to go?</message>
+	<message label="055_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Yep!</message>
+	<message label="055_b" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />No, wait<tag a="110" b="0" /></message>
 </msbt>

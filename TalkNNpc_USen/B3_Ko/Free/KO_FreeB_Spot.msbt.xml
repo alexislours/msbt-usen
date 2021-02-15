@@ -117,7 +117,7 @@ up with stuff,<delay20 /> <tag a="110" b="5" />!
 <anim id="Nodding" target="actor" targetSpec="" />I'm sure <colour id="3" />Blathers <colour id="65535" />would appreciate
 any old thing you can donate to
 the cause,<delay20 /> kiddo.</message>
-	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6f 0x70 0x71 0x74" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x6f 0x70 0x71 0x72 0x74" /></message>
 	<message label="029" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Heya, kiddo. <delay20 />Got some business
 at the Resident Services, do you?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />One of the things I like so much
 about livin' here is the accessibility
@@ -173,4 +173,12 @@ on me. <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />Go figure, <t
 <anim id="AbsentMindedness" target="actor" targetSpec="" />Can you imagine somethin' like
 that walkin' around in real life?<delay20 />
 <anim id="Negative" target="actor" targetSpec="" />Prehistoric times, kiddo.<delay20 /> Wild.</message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />There's some art that I just don't
+get. <delay20 /><anim id="Aha" target="actor" targetSpec="" />There's other art that I don't
+get the first few times I look at it.
+<anim id="Thinking" target="actor" targetSpec="" />Kinda like that one piece<tag a="110" b="0" />
+I'm talkin' about the
+<tag a="135" b="13" arg="0x3" />, kiddo!
+<anim id="Nodding" target="actor" targetSpec="" />The more I look at it, the better
+it gets. <10_4 /><anim id="EmotEnd" target="actor" targetSpec="" />Like me! <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
 </msbt>

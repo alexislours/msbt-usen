@@ -5,7 +5,7 @@ from <tag a="110" b="33" /> yet?</message>
 	<message label="001_a" attrib="04 00 00 00 00 00 00 00">Yeah, I have.</message>
 	<message label="001_b" attrib="05 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />What?</message>
 	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
-	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x1 0x10 0x11 0x12" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x13 0x10 0x11 0x14" /></message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Good! I was worried you'd miss out!<delay20 />
 <anim id="Nodding" target="actor" targetSpec="" />It's hard to forget the sweet, <anim id="Love" target="actor" targetSpec="" />yummy
 taste of our <tag a="110" b="7" arg="0xcd01" />!</message>
@@ -38,6 +38,23 @@ Bells here!</message>
 <tag a="110" b="3" />. He's in the
 tent, researching!</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x15 0x16 0x17 0x18 0x19" /></message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This island's <colour id="1" />museum<colour id="65535" /><delay20 /> has an area
+dedicated solely to exhibiting art.<pageBreak />I can tell you that, as an artist,<delay20 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />nothing is more inspiring than
+appreciating the work of my peers.
+<anim id="Thinking" target="actor" targetSpec="" />Obviously, my specialty is in the field
+of performance, <delay40 />so can I really
+compare myself to the masters?
+<anim id="EmotEnd" target="actor" targetSpec="" />Sure, <tag a="110" b="5" />!</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I LOVE that <tag a="110" b="8" /> is
+now a cultural hot spot and
+primo tourist destination.
+<anim id="Nodding" target="actor" targetSpec="" />Not only do I get to live on one of
+the coolest islands ever,<delay40 /><anim id="SmugFace" target="actor" targetSpec="" /> I knew
+about it before it was cool.
+Which makes me super cool.<delay40 />
+That's, like<tag a="110" b="0" /><delay40 /><anim id="IdeaBulb" target="actor" targetSpec="" />the coolness trifecta!</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="4" arg="0x15 0x16 0x17 0x18 0x19 0x12" /></message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
 	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
@@ -65,6 +82,15 @@ has an area for fossils,
 My favorite one is the
 <tag a="135" b="13" arg="0x2" />!
 <anim id="Smiling" target="actor" targetSpec="" />You have GOT to see it!</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Have you heard about the
+<tag a="135" b="13" arg="0x3" />
+currently on display in the <colour id="1" />museum<colour id="65535" />?
+<anim id="Serious" target="actor" targetSpec="" />It's so amazing that if I tried to
+describe it,<delay8 /> I might break down into
+tears right here and now.
+<anim id="Explain" target="actor" targetSpec="" />Luckily,<delay8 /> we can go see it anytime we
+like,<delay20 /><anim id="Blushing" target="actor" targetSpec="" /> so we can avoid all that mutual
+embarrassment, <tag a="110" b="5" />.</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0x66 0x69" /></message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xca 0xcd" /></message>
 	<message label="202" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> You're here

@@ -13,7 +13,7 @@ when I was trying to decide
 <anim id="BigSmile" target="actor" targetSpec="" />I'll be hoping for the best for you!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
 	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks so much, <tag a="110" b="3" />!<pageBreak />You helped me make up my mind<delay20 />
 when I was unsure about moving.<delay frames="40" />
-<anim id="BigSmile" target="actor" targetSpec="" />I'm glad you stopped by today!<anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I'm leaving the island tomorrow,<delay20 /> so
+<anim id="BigSmile" target="actor" targetSpec="" />I'm glad we had a chance to talk.<anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I'm leaving the island tomorrow,<delay20 /> so
 <anim id="FaintSmile" target="actor" targetSpec="" />wish me luck on my next adventure.</message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh!<delay frames="40" /> Hi,<delay20 /> <tag a="110" b="3" />.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I meant to tell you before now,<delay20 /> 
 but I never found the right time<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />I'm moving to a new island tomorrow.<delay20 />
@@ -45,6 +45,15 @@ I'm just about to move away.<delay frames="40" />
 <anim id="FaintSmile" target="actor" targetSpec="" />It was nice to meet you,<delay20 /> though.
 <anim id="Grin" target="actor" targetSpec="" />Now I just need to decide<delay20 /> where
 I'm going to be moving to next<delay8 /><tag a="110" b="0" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />It's a pleasure to meet you!<delay frames="40" /> You can
+call me <tag a="110" b="10" />.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Sorry for the mess around here<tag a="110" b="0" /><delay20 />
+I'm in the middle of a big move.<delay20 />
+Yep! <anim id="BigSmile" target="actor" targetSpec="" />It's time for a new adventure!
+<anim id="FaintSmile" target="actor" targetSpec="" />I've already worked out all the
+details with my new island and
+I'll be on my way tomorrow.
+<anim id="Love" target="actor" targetSpec="" />But I appreciate you coming by to
+see me off, <tag a="110" b="5" />.</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks,<delay20 /> I'm sure that I will.<delay frames="40" />
 <anim id="Nodding" target="actor" targetSpec="" />I'm looking forward to it.</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I've decided to make a change,<delay20 /> so

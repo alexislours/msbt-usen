@@ -88,6 +88,35 @@ move, <tag a="110" b="5" />!</message>
 really somethin' else, you know that?<anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Well, nothing to do now but talk to
 <colour id="1" />Resident Services<colour id="65535" /> about movin' in.<delay frames="40" />
 <anim id="Hello" target="actor" targetSpec="" />Wish me luck, <tag a="110" b="5" />!</message>
+	<message label="207_01" attrib="00 00 01 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Not givin' up on me, eh? <delay20 />Gahaha!<delay20 />
+<anim id="Hesitate" target="actor" targetSpec="" />I appreciate it, kiddo. <delay20 />But I can't
+make a decision on the fly like this.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />Let's leave it up to good old lady
+luck, hm? <delay20 />We'll play a game! <delay20 /><anim id="Pardon" target="actor" targetSpec="" />You
+win and I'll pack my bags. <delay20 />Yeah?</message>
+	<message label="207_01_a" attrib="00 00 00 00 00 00 00 00">Let's play!</message>
+	<message label="207_01_b" attrib="00 00 00 00 00 00 00 00">Nah, never mind.</message>
+	<message label="207_02" attrib="00 00 01 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hot diggity, I'm in high demand!<delay20 />
+Do I need to hire a publicist?<10_4 />
+<anim id="Laughing" target="actor" targetSpec="" />Gahaha! <delay20 />I'm just foolin'.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Anyway, let's make it interestin'.<delay20 />
+We'll play a game, and if you win,
+consider me a new resident. <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />OK?</message>
+	<message label="207_02_a" attrib="00 00 00 00 00 00 00 00">You're on!</message>
+	<message label="207_02_b" attrib="00 00 00 00 00 00 00 00">Nah, never mind.</message>
+	<message label="207_03" attrib="00 00 01 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />I admire your gumption, kiddo.<delay20 />
+And your grit. <delay20 />And your go-getter
+attitude, <tag a="110" b="5" />!<pageBreak /><anim id="Oops" target="actor" targetSpec="" />But I can't make up my mind! <delay20 />We're
+gonna have to leave this to luck.<delay20 /> <anim id="IdeaBulb" target="actor" targetSpec="" />So
+let's play a game.<delay20 /> Win, and I'll move.</message>
+	<message label="207_03_a" attrib="00 00 00 00 00 00 00 00">Yes! I got this.</message>
+	<message label="207_03_b" attrib="00 00 00 00 00 00 00 00">Nah, I'll pass.</message>
+	<message label="208_01" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not in the sportin' mood, huh?<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Well,
+suit yourself. <delay20 />I'll be headin' back to
+my home island, <tag a="110" b="5" />.</message>
+	<message label="208_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Nah? <delay20 />Well, maybe another time.<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />Catch ya later, <tag a="110" b="5" />.</message>
+	<message label="208_03" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Not interested, huh? <delay20 />Well, it takes
+two to tango. <delay frames="40" /><anim id="Eh" target="actor" targetSpec="" />Not that we were
+gonna be dancin'! <delay20 />Gah, forget it.</message>
 	<message label="302" attrib="00 00 01 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />So here's the lowdown, kiddo<tag a="110" b="0" />
 I checked in with your <colour id="1" />Resident Services<colour id="65535" /> folks to see about movin' in.
 <anim id="EmotEnd" target="actor" targetSpec="" />And<tag a="110" b="0" /><anim id="Negative" target="actor" targetSpec="" />it's a no-go. <delay20 />There's no more
@@ -153,6 +182,12 @@ island is chock-full already. <anim id="Frantic" target="actor" targetSpec="" />
 more folks and it might just sink!
 <anim id="Thinking" target="actor" targetSpec="" />Wait<tag a="110" b="0" />can islands sink?<10_4 />
 <anim id="OhGeez" target="actor" targetSpec="" />Bah! <delay20 />Better not to risk it.</message>
+	<message label="405" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />So here's the lowdown, kiddo<tag a="110" b="0" />
+I talked to your <colour id="1" />Resident Services<colour id="65535" />
+folks to ask about movin' in.
+<anim id="EmotEnd" target="actor" targetSpec="" />And<tag a="110" b="0" /><anim id="Negative" target="actor" targetSpec="" />it's a no-go. There's no more
+land for sale! Not a square inch!<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Well, I ain't livin' on no beach again!
+Been there, done that. <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />Sorry, kiddo.</message>
 	<message label="406" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />So here's the lowdown, kiddo<tag a="110" b="0" />
 I talked to your <colour id="1" />Resident Services<colour id="65535" />
 folks to ask about movin' in.
@@ -176,6 +211,13 @@ to believe there's no space for little
 old me.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Says something, though, that I got
 invited to such a popular place. Hope
 we stay in touch, <tag a="110" b="6" />.</message>
+	<message label="424" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />No land for sale anywhere on your
+entire island<tag a="110" b="0" /> Can you imagine?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Must be somethin' real special
+happenin' here, huh? <delay8 />Shame I
+can't be a part of it.
+<anim id="Smiling" target="actor" targetSpec="" />Thanks for the invite anyway, kiddo.<delay20 />
+Really perked me up. Gave me
+somethin' to think about.</message>
 	<message label="504" attrib="00 00 01 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />When I first got here,<delay20 /> I felt like a
 tourist.<delay40 /> <anim id="Grin" target="actor" targetSpec="" />But folks here are so
 generous and giving!

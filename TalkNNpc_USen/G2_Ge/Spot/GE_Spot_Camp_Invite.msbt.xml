@@ -110,6 +110,54 @@ live here!
 <anim id="Smiling" target="actor" targetSpec="" />Hold tight while my story takes
 a little unexpected turn,
 <tag a="110" b="6" />.</message>
+	<message label="207_01" attrib="00 00 01 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You just can't take "no" for an
+answer,<delay8 /> huh?<delay40 /><anim id="SmugFace" target="actor" targetSpec="" /> I don't blame you.<delay20 />
+I am, like,<delay8 /> empirically awesome.
+<anim id="Smiling" target="actor" targetSpec="" />I'll make you a deal. <delay40 />How about we
+settle this once and for all <delay20 /><anim id="Nodding" target="actor" targetSpec="" />with a
+game, <tag a="110" b="5" />?
+<anim id="Explain" target="actor" targetSpec="" />If you win,<delay8 /> I'll move here.<delay40 /> <anim id="Hesitate" target="actor" targetSpec="" />If I win,<delay20 />
+we pretend this whole thing never
+happened, <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />'K?</message>
+	<message label="207_01_a" attrib="00 00 00 00 00 00 00 00">OK!</message>
+	<message label="207_01_b" attrib="00 00 00 00 00 00 00 00">Forget I said anything.</message>
+	<message label="207_02" attrib="00 00 01 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Let me guess<tag a="110" b="0" /><delay20 />my initial rejection
+made you want me to move here 
+even more. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />It makes sense.
+<anim id="SmugFace" target="actor" targetSpec="" />There's nothing more desirable—
+or expensive—than a ticket to a
+sold-out concert, <tag a="110" b="5" />.
+<anim id="Smiling" target="actor" targetSpec="" />Now, because you're such a devoted
+fan, <delay20 />I'm going to give you a chance
+to win a VIP, all-access pass<tag a="110" b="0" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />to me!
+<anim id="Explain" target="actor" targetSpec="" />Here's how it works. <delay20 />We play a game,
+and if you win,<delay20 /> I move here full-time.<delay20 />
+<anim id="Clapping" target="actor" targetSpec="" />I know. <delay20 />I'm super pumped too.
+<anim id="BigSmile" target="actor" targetSpec="" />You ready?</message>
+	<message label="207_02_a" attrib="00 00 00 00 00 00 00 00">Let's do this.</message>
+	<message label="207_02_b" attrib="00 00 00 00 00 00 00 00">I'll pass.</message>
+	<message label="207_03" attrib="00 00 01 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Are you asking me to live here?
+<delay40 />Again? <delay40 /><anim id="Blushing" target="actor" targetSpec="" />This is starting to get
+embarrassing, <tag a="110" b="5" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />Though, <delay20 />between you and me,<delay20 />
+<anim id="Love" target="actor" targetSpec="" />I love being in high demand.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Know what would be fun? <delay40 />A game!<delay40 />
+<anim id="Nodding" target="actor" targetSpec="" />The kind of game that determines
+the entire trajectory of your life!
+<anim id="EmotEnd" target="actor" targetSpec="" />If I win,<delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" /> I'll finally start writing that
+one-<tag a="110" b="15" /> show I've been
+wanting to perform forever.
+<anim id="WrySmile" target="actor" targetSpec="" />And if you win,<delay20 /> I put down roots on
+this island. <delay40 />What do you say?</message>
+	<message label="207_03_a" attrib="00 00 00 00 00 00 00 00">I'm gonna win!</message>
+	<message label="207_03_b" attrib="00 00 00 00 00 00 00 00">I say, "No, thanks."</message>
+	<message label="208_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />What?!<delay40 /> I mean<tag a="110" b="0" /><anim id="Blushing" target="actor" targetSpec="" /> No worries.<delay40 />
+<anim id="EmotEnd" target="actor" targetSpec="" />It's not like I had my hopes
+up or anything.</message>
+	<message label="208_02" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay40 /><anim id="Oops" target="actor" targetSpec="" /> I thought this idea had
+<tag a="110" b="3" /> written all over it.</message>
+	<message label="208_03" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Wow. <delay20 />I really hope you don't regret
+this decision.<anim id="Negative" target="actor" targetSpec="" /><delay40 /> An opportunity like
+that doesn't come around often.</message>
 	<message label="302" attrib="00 00 01 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />It's the worst news. <delay frames="40" />The LEGIT worst!<10_4 />
 <anim id="Crying" target="actor" targetSpec="" />Totes legit THE WORST NEWS!<10_4 />
 <anim id="Sighing" target="actor" targetSpec="" />I talked to <colour id="1" />Resident Services<colour id="65535" /><tag a="110" b="0" /><pageBreak />And they said even if I move here,<delay20 />
@@ -183,6 +231,16 @@ room for me, even though I explained
 that I'm pretty small. And adorable.<pageBreak /><anim id="Oops" target="actor" targetSpec="" />Ugh<tag a="110" b="0" /><delay20 /> This is the worst!<delay frames="60" /> <anim id="SadSpiral" target="actor" targetSpec="" />Maybe we'll
 find another way to be neighbors
 someday, <tag a="110" b="6" />.</message>
+	<message label="405" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Ugh, <colour id="1" />Resident Services <colour id="65535" />says there
+are no available plots of land,<delay20 /> so I
+can't build a house right now.
+<anim id="Explain" target="actor" targetSpec="" />I pitched the idea of me building a
+tree house, or digging tunnels,
+or buying a boat to live on.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I'd name it Totes a Boat: My House
+that Floats<tag a="110" b="0" /><delay20 /><anim id="BrokenHeart" target="actor" targetSpec="" />but they said folks
+can't live on boats around here.<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />Ah well. Maybe someday they'll
+relax maritime laws near your
+island, <tag a="110" b="6" />.</message>
 	<message label="406" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Thanks for waiting!<delay frames="60" /> <anim id="Restless" target="actor" targetSpec="" />I asked the
 <colour id="1" />Resident Services <colour id="65535" />here<tag a="110" b="0" /><delay40 /><anim id="BigSmile" target="actor" targetSpec="" />and
 they said I'm welcome!
@@ -211,6 +269,14 @@ but I'll def come here on tour once
 I'm a pop star!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />With so many folks living here,
 it'll for sure have a huge crowd!<delay40 />
 <anim id="EmotEnd" target="actor" targetSpec="" />Buy your tickets now, <tag a="110" b="6" />!</message>
+	<message label="424" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />It's not like this island is lacking in
+space<tag a="110" b="0" /><delay40 /> <anim id="QuestionMark" target="actor" targetSpec="" />How do folks here feel
+about squatter's rights?
+<anim id="Blushing" target="actor" targetSpec="" />Just kidding, <tag a="110" b="3" />.<delay40 />
+<anim id="Nodding" target="actor" targetSpec="" />I'd rather buy legit land
+than live off the grid.
+<anim id="FaintSmile" target="actor" targetSpec="" />But thanks for the invite.<delay20 /> Guess it's
+not going to work out this time.</message>
 	<message label="504" attrib="00 00 01 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Totally great things keep happening
 when I'm camping on this island!<delay40 />
 <anim id="Smiling" target="actor" targetSpec="" />I'm, like, sooo happy right now!

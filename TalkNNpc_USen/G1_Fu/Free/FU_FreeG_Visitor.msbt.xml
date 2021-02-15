@@ -4,7 +4,7 @@ local fruit is<delay20 /> on <tag a="110" b="8" />?</message>
 	<message label="001_a" attrib="04 00 00 00 00 00 00 00">Sure, I know.</message>
 	<message label="001_b" attrib="05 00 00 00 00 00 00 00">Can't say that I do.</message>
 	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
-	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x1 0x10 0x11 0x12" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x13 0x10 0x11 0x14" /></message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />I'm impressed!<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Friends always ask<delay20 />
 if I can bring them <tag a="50" b="2" /><tag a="110" b="7" arg="0xcd01" />
 from <tag a="110" b="8" /><delay8 /><tag a="110" b="0" />
@@ -26,6 +26,19 @@ a <colour id="1" />museum<colour id="65535" /> now!<pageBreak /><anim id="Hesita
 with lots of exhibits on display.<delay20 />
 <anim id="Nodding" target="actor" targetSpec="" />I can't wait to tour that place.</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x15 0x16 0x17 0x18 0x19" /></message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This island's <colour id="1" />museum <colour id="65535" />is simply
+magnificent, <delay8 /><tag a="110" b="5" />.<pageBreak />The first time I stepped foot inside
+that art gallery, <delay20 /><anim id="Love" target="actor" targetSpec="" />I was in love!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />It sounds like I'm exaggerating,<delay20 /> but I
+assure you I speak the truth.<delay20 /><anim id="Eh" target="actor" targetSpec="" /> If you
+don't believe me,<delay8 /> go see for yourself!</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I'm so grateful to live on an island.<delay40 /><anim id="HappyFlower" target="actor" targetSpec="" />
+Every day I wake up to a beautiful,
+natural paradise.
+<anim id="EmotEnd" target="actor" targetSpec="" />I'd love to know more about this
+environment<delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" /> or do a deep dive
+on the local flora and fauna.
+<anim id="Oops" target="actor" targetSpec="" />I just wouldn't know where to start.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="4" arg="0x15 0x16 0x17 0x18 0x19 0x12" /></message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
 	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
@@ -48,6 +61,13 @@ display now?
 <anim id="Smiling" target="actor" targetSpec="" />I really love fossils,<delay20 /> and I think it's
 fair to say that makes the collection
 here<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />one to be proud of!</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />In our museum, they have
+<tag a="50" b="2" /><tag a="135" b="13" arg="0x3" />.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />It's definitely worth a visit.
+<anim id="Negative" target="actor" targetSpec="" />Seeing works of art in photos isn't
+like <anim id="FaintSmile" target="actor" targetSpec="" />experiencing them up close.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />In person, you can feel a stronger
+connection with the artist<tag a="110" b="0" /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" />I'd recommend it to anyone who
+visits our island, <delay8 /><tag a="110" b="5" />.</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xca 0xcd" /></message>
 	<message label="202" attrib="00 00 02 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I know we live on different islands
 now, <delay20 />but<tag a="110" b="0" /><anim id="Hesitate" target="actor" targetSpec="" />do you ever think about

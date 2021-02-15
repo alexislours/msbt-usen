@@ -144,7 +144,7 @@ c'mon, it's still a tent!
 <20_3 arg="6" /><20_3 arg="3" /><anim id="SmugFace" target="actor" targetSpec="" />But I've got my VIP card NOW, so
 I can be a museum baller when this
 is the place to be. <delay20 /><anim id="Grin" target="actor" targetSpec="" />You just watch.</message>
-	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6f 0x70 0x71 0x74" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x6f 0x70 0x71 0x72 0x74" /></message>
 	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="WrySmile" target="actor" targetSpec="" />You know who's the real brains
 behind <tag a="110" b="8" />?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />It's
 clearly <colour id="3" />Isabelle<colour id="65535" />!
@@ -176,6 +176,7 @@ tour of <tag a="110" b="8" />!</message>
 	<message label="111" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7700 0x7400 0xcd00" /></message>
 	<message label="112" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7801 0x7400 0xcd00" /></message>
 	<message label="113" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7902 0x7400 0xcd00" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7a03 0x7400 0xcd00" /></message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />If I had to sum up the <colour id="1" />museum<colour id="65535" /> in
 one word, it would probably be<tag a="110" b="0" />
 <10_5 />reallycoolandfun<endTag a="10" b="5" />.
@@ -196,4 +197,9 @@ here a lot<tag a="110" b="0" />
 <anim id="WrySmile" target="actor" targetSpec="" />I'm trying to decide if having your
 bones on display a million years
 after your lifetime is good or bad<tag a="110" b="0" /></message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />My hobby du jour is gazing at the
+<tag a="135" b="13" arg="0x3" /> over in
+the <colour id="1" />museum<colour id="65535" />'s new art wing.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I can't explain it,<delay20 /> but something
+about that piece really speaks to me.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Or rather, to a part of me I didn't
+even know existed!</message>
 </msbt>

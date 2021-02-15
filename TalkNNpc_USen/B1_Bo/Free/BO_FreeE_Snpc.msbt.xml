@@ -26,6 +26,11 @@ ears and on your popcorn and stuff<tag a="110" b="0" /></message>
 <colour id="3" />Daisy Mae <colour id="65535" />is here!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Her fresh veggies are so yummy!<delay frames="40" />
 <anim id="BigSmile" target="actor" targetSpec="" />I always eat everything I buy
 from her!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, did you see that cool boat
+parked up at the top of the island?<delay20 />
+Is someone visiting us?<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Must be someone pretty important
+if they have their own boat<tag a="110" b="0" /><delay20 /> <anim id="IdeaBulb" target="actor" targetSpec="" />Think
+they'd let me toot the horn? <delay20 />TOOT!</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I dunno what's happening, but I feel
 real spooky. <delay frames="120" />Or maybe gassy<tag a="110" b="0" /><10_4 />
 But I think it's spooky.<delay20 /><pageBreak />I think there's someone on the island
@@ -63,6 +68,9 @@ super-duper quiet out there
 <10_10 /><anim id="Surprised" target="actor" targetSpec="" /><delay20 /><size value="150" />RIGHT BEHIND ME!<size value="100" /><pageBreak /><10_9 /><delay20 /><anim id="Frantic" target="actor" targetSpec="" />That's when I started running back to
 Resident Services, <delay20 />but then I tripped!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />And that's why my foot hurts.<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />So
 what's new with you, <tag a="110" b="5" />?</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I got a tip from my bug friends that
+<colour id="3" />Leif<colour id="65535" /> is here!<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />They want me to find out
+what flowers he's got, <tag a="110" b="5" />.</message>
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />I saw a new person<delay20 /> on the island
 just now!<pageBreak />I got all scared!<delay20 /> And I hid!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Can you maybe find out who
 they are?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>

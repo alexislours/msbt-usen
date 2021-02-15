@@ -4,7 +4,7 @@ that grow on this island yet?</message>
 	<message label="001_a" attrib="04 00 00 00 00 00 00 00">Swallowed one whole!</message>
 	<message label="001_b" attrib="05 00 00 00 00 00 00 00">Nope!</message>
 	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
-	<message label="003" attrib="09 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x1 0x10 0x11 0x12" /></message>
+	<message label="003" attrib="09 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x13 0x10 0x11 0x14" /></message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />A huh huh huh,<delay20 /> super yummy, huh?<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />I love 'em too!<delay20 /> Eat as many as ya
 want, <tag a="110" b="5" />!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Wait<tag a="110" b="0" /><delay20 /> What?<delay frames="40" /> Why not?
@@ -28,6 +28,17 @@ on <tag a="110" b="8" />.<pageBreak /><anim id="Explain" target="actor" targetSp
 it'd be cool if you could donate a
 thing, <anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="4" />.</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x15 0x16 0x17 0x18 0x19" /></message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Our <colour id="1" />museum<colour id="65535" />'s got this whole area
+fulla paintings and sculptures and
+stuff!<delay20 /> It's really neat, <tag a="110" b="5" />!<pageBreak /><anim id="Restless" target="actor" targetSpec="" />Just make sure you wash your hands
+before you start touching stuff, OK?<delay20 />
+They get real angry if you don't<tag a="110" b="0" /></message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />So, how do you like it here on
+<tag a="110" b="8" /> so far?<delay20 /> It's
+pretty good, right?<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Ahh, but I bet it's just gonna get
+better and better<tag a="110" b="0" />like the last bite
+of <tag a="135" b="7" arg="0xcd00" /> on a hot day.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="4" arg="0x15 0x16 0x17 0x18 0x19 0x12" /></message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
 	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
@@ -51,6 +62,11 @@ and she said, "<tag a="50" b="3" /><tag a="110" b="6" />!"
 <tag a="50" b="2" /><tag a="135" b="13" arg="0x2" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I kept staring at it the other day.<delay40 />
 I was looking<delay40 /> at this ancient thing<tag a="110" b="0" />
 It felt like looking <delay20 /><anim id="Pardon" target="actor" targetSpec="" />through time.</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Did you know the <colour id="1" />museum<colour id="65535" />'s got
+<tag a="50" b="2" /><tag a="135" b="13" arg="0x3" /> on
+display, <tag a="110" b="5" />?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Paintings and art and stuff are cool,
+but they also kinda weird me out. <delay20 />It's
+like they're secretly looking at me.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Still. <delay20 />You should go check it out!</message>
 	<message label="201" attrib="00 00 10 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />.<delay20 /> What've you
 been doing to chill out and<anim id="Hello" target="actor" targetSpec="" /> <delay20 />have
 fun back on <tag a="110" b="9" />?</message>

@@ -59,9 +59,9 @@ your eye, <tag a="110" b="3" />?<pageBreak /><anim id="Angry" target="actor" tar
 just asking if you like the skeletons,
 OK?<delay20 /> It's a normal question!</message>
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
-	<message label="200_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'm glad we got a place to keep all of
-the vintage <tag a="110" b="8" /> bones
-we've been digging up.
+	<message label="200_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'm glad we have a place to keep all
+of the vintage <tag a="110" b="8" />
+bones that are being dug up.
 <anim id="HappyFlower" target="actor" targetSpec="" />Some of these things are TRÈS chic.<delay frames="40" />
 <anim id="Grin" target="actor" targetSpec="" />That's Jurassic for "super retro."</message>
 	<message label="200_02" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I just came by to look at some cool
@@ -70,10 +70,9 @@ next line of faux-bone jewelry, but<tag a="110" b="0" />
 <anim id="Shocked" target="actor" targetSpec="" />This place is actually blowing my
 mind!<delay20 /> It's like I've traveled back in
 time to the dinosaur ages<tag a="110" b="0" /></message>
-	<message label="200_03" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />I've been waiting for something like
-this to open on <tag a="110" b="8" />
-for so long!
-<anim id="WrySmile" target="actor" targetSpec="" />Didn't think I'd be into fossils, huh?<delay20 />
+	<message label="200_03" attrib="00 00 00 00 00 00 00 00">You know,<delay8 /><anim id="Nodding" target="actor" targetSpec="" /> a <colour id="1" />museum<colour id="65535" /> of this
+caliber is on my list of Top
+Ten Island Must-Haves.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />Didn't think I'd be into fossils, huh?<delay20 />
 C'mon—they're, like, the definition
 of classic! <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Ha HA!</message>
 </msbt>

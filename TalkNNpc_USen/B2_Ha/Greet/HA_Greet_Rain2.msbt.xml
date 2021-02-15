@@ -19,7 +19,7 @@ this is just rain, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cance
 I say that already?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="012" attrib="00 00 0c 00 00 00 00 00">It doesn't look like it's gonna stop
 raining, does it, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="013" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="16" arg="0xf05 0x1000 0xcd00" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="16" arg="0xf04 0x1000 0xcd00" /></message>
 	<message label="014" attrib="00 00 0c 00 00 00 00 00">It's sure raining a lot, <tag a="110" b="5" />.
 <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Some sun would be really
 nice tomorrow!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>

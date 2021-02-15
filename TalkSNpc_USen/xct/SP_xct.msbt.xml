@@ -1,0 +1,84 @@
+<msbt attribsize="4">
+	<message label="001" attrib="01 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><delay20 />You made it to the goal!<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Huh?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> Hey<tag a="110" b="0" /> Have we met before?<delay20 />
+<anim id="Thinking" target="actor" targetSpec="" />You seem kinda familiar, but<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />Oh! Sorry! I've been traveling to a
+LOT of different islands lately, and
+I'm pretty bad with names and faces.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />This is my first time on this island.<delay20 />
+It's,<delay20 /> uh,<delay20 /> a pretty weird island, isn't
+it?<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> What brings you here, anyway?</message>
+	<message label="001_a" attrib="00 00 00 00"><colour id="3" />Tom Nook <colour id="65535" />sent me!</message>
+	<message label="001_b" attrib="00 00 00 00">It's a secret!</message>
+	<message label="002" attrib="01 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Wait.<delay20 /><anim id="TakenAback" target="actor" targetSpec="" /> You know <colour id="3" />Tom Nook<colour id="65535" />?!<delay frames="40" /> He's the
+reason I'm here too! I mean, I'm
+here because he invited me.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />He told me he put together a very
+interesting attraction on this island
+and I should check it out<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />But I didn't expect to find a maze!<delay20 />
+<anim id="Laughing" target="actor" targetSpec="" />Mya ha ha ha howr! What a surprise!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />So<tag a="110" b="0" />if you know <colour id="3" />Tom Nook<colour id="65535" />, does that
+mean you live on the same island as
+he does?</message>
+	<message label="002_a" attrib="00 00 00 00">It shore does!</message>
+	<message label="002_b" attrib="00 00 00 00">Yep! It's a-maze-ing!</message>
+	<message label="003" attrib="01 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Mya ha ha ha howr!<delay20 /> A secret?<delay frames="40" /> Well,
+now I'm really intrigued!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />See, I'm here because of my pal
+<colour id="3" />Tom Nook<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />He told me he put together a very
+interesting attraction on this island
+and I should check it out<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />But I didn't expect to find a maze!<delay20 />
+<anim id="Laughing" target="actor" targetSpec="" />Mya ha ha ha howr! What a surprise!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />So, wait<tag a="110" b="0" /> If you're here, does that
+mean you know <colour id="3" />Tom Nook<colour id="65535" /> too?</message>
+	<message label="003_a" attrib="00 00 00 00">Yup!</message>
+	<message label="003_b" attrib="00 00 00 00"><tag a="110" b="0" />That's a secret!</message>
+	<message label="004" attrib="01 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Neat!<pageBreak />I hear <colour id="3" />Nook<colour id="65535" />'s<anim id="Nodding" target="actor" targetSpec="" /> been putting a ton of
+work into that place<tag a="110" b="0" /><delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" /> What was it
+called again?<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />Oh yeah!<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="9" />, right?</message>
+	<message label="004_a" attrib="00 00 00 00">Ding ding ding!</message>
+	<message label="004_b" attrib="00 00 00 00">Winner, winner!</message>
+	<message label="005" attrib="01 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I knew it!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />So, then<tag a="110" b="0" />are you living on the same
+island as <colour id="3" />Tom Nook<colour id="65535" /> right now?<delay frames="40" />
+<anim id="Thinking" target="actor" targetSpec="" />What was it called again?<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />Oh yeah!<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="9" />, right?</message>
+	<message label="005_a" attrib="00 00 00 00">Ding ding ding!</message>
+	<message label="005_b" attrib="00 00 00 00">Winner, winner!</message>
+	<message label="007" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Mya ha ha ha howr!<delay20 /> I knew it!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Hey,
+you're pretty interesting, you know?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />If all you island folks are this much
+fun, I bet <tag a="110" b="9" />'s great!</message>
+	<message label="008" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You got a name, by the way?<delay20 /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Uh-huh<tag a="110" b="0" /> Uh-huh<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />, eh?
+<anim id="Smiling" target="actor" targetSpec="" />Great name, great name.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I'm glad we met, <tag a="110" b="1" />!<delay20 />
+I want to commemorate this
+occasion by giving you a gift.</message>
+	<message label="009" attrib="01 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That's great! I bet it's a blast
+hanging out with <colour id="3" />Tom Nook<colour id="65535" /> on
+an island all the time.<pageBreak />I hear he's<anim id="Nodding" target="actor" targetSpec="" /> been putting a ton of
+work into that place<tag a="110" b="0" /><delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" /> What was it
+called again?<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />Oh yeah!<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="9" />, right?</message>
+	<message label="009_a" attrib="00 00 00 00">Ding ding ding!</message>
+	<message label="009_b" attrib="00 00 00 00">Winner, winner!</message>
+	<message label="010" attrib="01 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You're just full of secrets, aren't
+you? But I bet I can figure this out.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Let's see<tag a="110" b="0" /> I think<tag a="110" b="0" /><pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />Hey, are you from that island <colour id="3" />Nook<colour id="65535" />
+told me about?<delay20 /><anim id="Thinking" target="actor" targetSpec="" /> What was it called
+again?<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />Oh yeah!<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="9" />, right?</message>
+	<message label="010_a" attrib="00 00 00 00">Ding ding ding!</message>
+	<message label="010_b" attrib="00 00 00 00">Winner, winner!</message>
+	<message label="012" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh, gosh<tag a="110" b="0" /> Your pockets are full<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Come talk to me after you get rid of
+some stuff, OK?</message>
+	<message label="013" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh!<delay20 /> You're back!<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /> Here you go—a gift
+from me to you.</message>
+	<message label="014" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It's so great to meet you.<delay20 /> I mean,
+what are the odds? I really didn't
+expect to have this much fun here.
+<anim id="FaintSmile" target="actor" targetSpec="" />One thing's for sure. I'm hoping
+fate will bring us together again
+sometime. See you later!</message>
+	<message label="020_00" attrib="00 00 00 00">Y'know, I think I'll hang out on this
+island a little longer.<anim id="FaintSmile" target="actor" targetSpec="" /> I like it here.</message>
+	<message label="020_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's nice to take a plane every once in
+a while.<delay40 /><anim id="ShyBoy" target="actor" targetSpec="" /> I'm used to traveling by
+train<tag a="110" b="0" /> "Ridin' the rails," as they say.</message>
+	<message label="020_02" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I wonder which island I should visit
+next<tag a="110" b="0" /><delay40 /><anim id="FaintSmile" target="actor" targetSpec="" /> I just love that each one offers
+its own adventure and personality.</message>
+	<message label="020_03" attrib="00 00 00 00"><colour id="3" /><anim id="Nodding" target="actor" targetSpec="" />Tom Nook<colour id="65535" /> has really made a name for
+himself.<10_4 /> <anim id="Laughing" target="actor" targetSpec="" />Not bad for a guy who used
+to own little more than an apron!</message>
+	<message label="020_04" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Were you able to finish the maze
+<anim id="QuestionMark" target="actor" targetSpec="" />like you wanted, by the way?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you want to restart,<delay20 /> <anim id="Explain" target="actor" targetSpec="" />you can do so
+by using the <colour id="1" />Rescue Service <colour id="65535" />app on
+your NookPhone.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

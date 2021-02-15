@@ -99,6 +99,35 @@ before, <delay20 />you ain't seen nothin' yet!<delay frames="40" />
 <anim id="Eh" target="actor" targetSpec="" />Wait, hold up! <delay20 />I probably oughta
 make the move official and stuff.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Let me go talk to <colour id="1" />Resident Services
 <colour id="65535" />reeeeal quick, <tag a="110" b="5" />.</message>
+	<message label="207_01" attrib="00 00 01 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />You really want me around, huh?<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Hey, it's your island. <delay20 />If you're sure,
+then maybe<tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />How about this? <delay20 />We'll play a little
+game. You win, and I'll move here.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Sound good, <tag a="110" b="5" />?</message>
+	<message label="207_01_a" attrib="00 00 00 00 00 00 00 00">Sounds great!</message>
+	<message label="207_01_b" attrib="00 00 00 00 00 00 00 00">Nah.</message>
+	<message label="207_02" attrib="00 00 01 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />OK, I already said no, but<tag a="110" b="0" /><delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />you know
+what? <delay20 />Maybe there's something to
+<tag a="110" b="9" /> after all.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />We'll play a game and let that decide.
+<delay20 />How's that? <delay20 />You win, it's a done deal
+and I'll move here, <tag a="110" b="5" />.</message>
+	<message label="207_02_a" attrib="00 00 00 00 00 00 00 00">Let's do it!</message>
+	<message label="207_02_b" attrib="00 00 00 00 00 00 00 00">No, thanks.</message>
+	<message label="207_03" attrib="00 00 01 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Alright, fine. <delay20 />Now that you got me
+wonderin' if I made the right choice
+earlier, <tag a="110" b="5" /><tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />We're gonna play a quick game and
+let that decide. If you win, I'm your
+neighbor.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Whaddaya say?</message>
+	<message label="207_03_a" attrib="00 00 00 00 00 00 00 00">Game on!</message>
+	<message label="207_03_b" attrib="00 00 00 00 00 00 00 00">I'll pass.</message>
+	<message label="208_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />No, huh? <delay20 />Well, alright.<delay frames="40" />
+<anim id="ShyBoy" target="actor" targetSpec="" />I guess that's that!</message>
+	<message label="208_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Not interested? Not at all? <delay20 />But
+I thought you<tag a="110" b="0" /><delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />Alright, maybe
+some other time.</message>
+	<message label="208_03" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />OK, now I'm REALLY<delay8 /> confused.<delay20 />
+I thought you wanted<tag a="110" b="0" /><delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Whatever.<delay8 />
+I can take a hint.</message>
 	<message label="302" attrib="00 00 01 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />So,<delay20 /> I just got off the phone with
 <colour id="1" />Resident Services<colour id="65535" /><tag a="110" b="0" /><delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Yeah, it's not
 gonna work out.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />They said something about there not
@@ -166,6 +195,14 @@ Is the plaza like a never-ending
 mosh pit or something?<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Well, my moshing days are behind
 me.<delay20 /> If <tag a="110" b="9" />'s THAT full,
 <delay20 /><anim id="Negative" target="actor" targetSpec="" />I'm gonna have to pass.</message>
+	<message label="405" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Alright,<delay20 /> so I just talked to
+<colour id="1" />Resident Services<colour id="65535" /><tag a="110" b="0" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />It's not gonna work out.<delay20 /> They said
+something about there not being any
+plots for sale, <tag a="110" b="5" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />They DID tell me I could move in with
+someone, but I'm kinda over the
+whole <delay8 />"having roommates" thing.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />It's too bad.<delay20 /> I was kinda liking the
+idea of living on <tag a="110" b="9" />.<delay frames="40" />
+<anim id="ShyBoy" target="actor" targetSpec="" />Oh well.<delay20 /> Thanks anyway!</message>
 	<message label="406" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, I talked to <colour id="1" />Resident Services<colour id="65535" />.<delay frames="40" />
 <anim id="WrySmile" target="actor" targetSpec="" />Guess who's about to be your
 neighbor? <delay20 />Me! <delay20 /><tag a="110" b="10" />!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />And you?<delay frames="40" /> <tag a="50" b="3" /><tag a="110" b="3" />, eh?<delay20 />
@@ -187,6 +224,11 @@ have to survive without me.</message>
 anyone in right now, <tag a="110" b="5" />.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />That's the way it goes, I guess.<delay20 />
 But I really was lookin' forward
 to living here<tag a="110" b="0" /></message>
+	<message label="424" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Was there, like, <delay20 />a building boom on
+<tag a="110" b="9" />?<delay20 /> I just got told
+there's no land for sale!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I guess it makes sense. <delay20 />Everyone
+wants to live where things are
+awesome, right? <delay20 />Oh well.</message>
 	<message label="504" attrib="00 00 01 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Pretty comfy island you've got here.
 I really like how it's laid out.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Plus,
 everyone here's super chill.</message>

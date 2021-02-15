@@ -32,7 +32,7 @@ but this is one o' those
 outdoor-only services.<pageBreak />Listen<tag a="110" b="0" /><delay20 />ya whack your noggin on
 the ceiling,<delay20 /> ya got a major headache,
 am I right?<delay20 /> No one wants that.<pageBreak />So <delay20 />ya wanna use this service,<delay20 /> ya
-gotta <delay20 />step outside, capice?<endTag a="100" b="5" /></message>
+gotta <delay20 />step outside, capisce?<endTag a="100" b="5" /></message>
 	<message label="021_01" attrib="00 00 13"><tag a="100" b="5" />I got it.<delay20 /> This is <tag a="110" b="1" />
 of <tag a="110" b="33" />, right?<endTag a="100" b="5" /></message>
 	<message label="021_02" attrib="00 00 13"><tag a="100" b="5" />Just gimme a sec...<delay8 /> OK! Got it!<delay20 />
@@ -142,6 +142,18 @@ island, so I'm gonna drop ya <colour id="1" />where
 the planes land.<colour id="65535" /><delay20 /> Ya good with that?<endTag a="100" b="5" /></message>
 	<message label="048_a" attrib="00 00 13">Yes, please!</message>
 	<message label="048_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="049" attrib="02 00 13"><tag a="100" b="5" /><tag a="110" b="0" />Hey! You're on one of them
+<colour id="1" />maze islands <colour id="65535" /><colour id="3" />Tom Nook <colour id="65535" />set up,
+ain't ya?<pageBreak />In that case, I'm supposed to drop
+ya <colour id="1" />where the planes land<colour id="65535" /> so you can
+start over<tag a="110" b="0" /> You good with that?<endTag a="100" b="5" /></message>
+	<message label="049_a" attrib="00 00 13">Yes, please!</message>
+	<message label="049_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="049_01" attrib="00 00 13"><tag a="100" b="5" /><tag a="110" b="0" />Hey! You're on one of them
+<colour id="1" />maze islands <colour id="65535" /><colour id="3" />Tom Nook <colour id="65535" />set up,
+ain't ya?<pageBreak />In that case, I'm supposed to drop
+ya <colour id="1" />where the planes land<colour id="65535" /> so you can
+start over!<endTag a="100" b="5" /></message>
 	<message label="050_01" attrib="00 00 13"><tag a="100" b="5" />Your tent? <delay20 />No sweat.<endTag a="100" b="5" /></message>
 	<message label="050_02" attrib="00 00 13"><tag a="100" b="5" />Your place, huh? <delay20 />Easy peasy.<endTag a="100" b="5" /></message>
 	<message label="050_03" attrib="00 00 13"><tag a="100" b="5" />The plaza? <delay20 />You got it!<endTag a="100" b="5" /></message>
@@ -373,6 +385,8 @@ area<colour id="65535" /> for the cleanup service.<pageBreak />This service can 
 outdoors on <tag a="110" b="9" />.</message>
 	<message label="301" attrib="00 00 17">Looks like the map app won't work
 for this island.</message>
+	<message label="311" attrib="00 00 17">Hm? It says "Outside service area."
+Guess I can't use it here.</message>
 	<message label="321" attrib="00 00 17">Looks like I can't use the Chat Log
 app during Party Play<tag a="110" b="0" /></message>
 	<message label="999" attrib="00 00 13"><colour id="1" />100 <colour id="65535" />miles</message>

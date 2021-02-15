@@ -34,6 +34,25 @@ I think you should give it to
 	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />This is a fossil, right?<10_4 /> <anim id="Cheering" target="actor" targetSpec="" />Cool!<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />If I display this, folks will really
 start buying into my Professor
 <tag a="110" b="10" /> persona.</message>
+	<message label="121" attrib="00 00 00 00 00 00 00 00">As the French like to say,<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> "Aloha!"<delay40 />
+<anim id="SmugFace" target="actor" targetSpec="" />It means "thank you."<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />Not only do I love it,<delay20 /> I have the
+perfect place for it, <tag a="110" b="5" />.</message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Uh,<delay8 /> are you serious right now?
+<delay20 />This thing is crazy rare!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I wish I could accept it,<delay8 /> but then I
+would owe you like three gazillion
+thank-you gifts, <tag a="110" b="5" />.
+<anim id="QuestionMark" target="actor" targetSpec="" />Does it look like I'm made of Bells?<delay40 />
+<anim id="SmugFace" target="actor" targetSpec="" />If so, that's completely intentional.</message>
+	<message label="123" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay20 />I don't think anyone's ever given me
+something so utterly amazing<delay20 /> in my
+entire life, <tag a="110" b="5" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />Which is why it kills me to say<tag a="110" b="0" /><delay40 />
+<anim id="Negative" target="actor" targetSpec="" />I cannot accept it.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />As a professional admirer of fine
+things,<delay20 /> I'm qualified to categorize
+this piece as "fine plus."
+<anim id="Explain" target="actor" targetSpec="" />If you take it to <colour id="3" />Blathers<colour id="65535" />, I'm sure
+he'll give it all the special attention
+that it deserves.</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />This is the kind of gift that I've
 got to try on right away!</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa, this is different from my
@@ -126,6 +145,11 @@ need to keep this for yourself.</message>
 	<message label="508" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />But don't worry, <tag a="110" b="3" />.
 I got the message<tag a="110" b="0" /><delay20 /><anim id="Grin" target="actor" targetSpec="" />and I'm a big
 fan of yours too.</message>
+	<message label="509" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Could this be<tag a="110" b="0" /><delay20 /><tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />?</message>
+	<message label="510" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />I could not love a gift more.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Of course, <delay8 />if you find a pair of silk-
+lined velvet joggers in my size,<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> I'd
+have to reconsider that statement.</message>
 	<message label="511" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />No way!<delay20 /> You actually got me
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
 	<message label="512" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's been on high rotation in my

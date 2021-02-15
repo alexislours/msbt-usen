@@ -36,4 +36,16 @@ so we can say <anim id="Greeting" target="actor" targetSpec="" />bye-bye to <tag
 it! <delay20 />And it smells DELICIOUS!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'm gonna say bye to <tag a="90" b="27" /> at the
 Countdown party in the <anim id="BigSmile" target="actor" targetSpec="" />plaza
 at night!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />May Day, <delay8 />May Day, <delay8 />May Day!<delay20 />
+May 1st is May Day, <delay8 />yay!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Hey, I heard there's gonna be a
+special May Day event thing on
+another island, <tag a="110" b="5" />.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I tried to ask about it at the airport,<delay20 />
+but when I started cheering for May
+Day, a bunch of alarms went off<tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Tomorrow is May Day! <delay20 />Are you
+excited? <delay20 />'Cause I'm excited!<pageBreak /><anim id="Explain" target="actor" targetSpec="" /><colour id="3" />Tom Nook<colour id="65535" /> will give you a special
+<colour id="1" />May Day Ticket<colour id="65535" /> to celebrate, so be
+sure to check with him tomorrow!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />The ticket will get you to a special
+May Day island. <delay20 />Cool, huh?<delay frames="40" /> <anim id="HappyFlower" target="actor" targetSpec="" />I'm
+gonna pack some snacks for my trip!</message>
 </msbt>

@@ -11,6 +11,8 @@ dramatic is about to happen!<setNpcTalkChoices chatOption="0" cancelOption="1" /
 	<message label="004" attrib="00 00 0c 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Ahh, I knew it would be you.<delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />
 You're the only thing in here
 with a heartbeat, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />Did we meet here by chance<tag a="110" b="0" /><delay20 />
+<anim id="WrySmile" target="actor" targetSpec="" />or was the art calling to you too?</message>
 	<message label="006" attrib="00 00 0c 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Doing a little shopping, eh?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
 	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Whaddaya know? <delay20 />It's my lucky day
 running into you here!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>

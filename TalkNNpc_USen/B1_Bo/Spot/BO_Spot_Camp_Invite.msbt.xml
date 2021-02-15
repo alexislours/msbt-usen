@@ -85,6 +85,34 @@ talk to <colour id="1" />Resident Services<colour id="65535" /> and get
 permission, <tag a="110" b="5" />.<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Oh!<delay20 /> I should also call Grandma
 and tell her I'm gonna miss
 dinner too, <tag a="110" b="6" />.</message>
+	<message label="207_01" attrib="00 00 01 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, you're inviting me again?<delay frames="40" />
+<anim id="Frantic" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, this is hard<tag a="110" b="0" />
+I don't know what to do!<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Ooh! <delay20 />I've got it. <delay20 />We can play a game!<delay20 />
+If you win, I'll just move to your
+island without thinking about it!</message>
+	<message label="207_01_a" attrib="00 00 00 00 00 00 00 00">You're on!</message>
+	<message label="207_01_b" attrib="00 00 00 00 00 00 00 00">Never mind.</message>
+	<message label="207_02" attrib="00 00 01 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" />moving sounds like a lot of
+work, but then I'd get to hang out
+with you more<tag a="110" b="0" />
+<anim id="Frantic" target="actor" targetSpec="" />I can't decide! <10_4 /><anim id="IdeaBulb" target="actor" targetSpec="" />Wait, I've got an idea!<delay20 />
+Let's just play a game that requires
+no effort.<delay20 /> If you win, I'll move!</message>
+	<message label="207_02_a" attrib="00 00 00 00 00 00 00 00">Let's do it!</message>
+	<message label="207_02_b" attrib="00 00 00 00 00 00 00 00">Not right now...</message>
+	<message label="207_03" attrib="00 00 01 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />You must really want me to move
+here since you're inviting me again<tag a="110" b="0" /><delay20 />
+<anim id="SadSpiral" target="actor" targetSpec="" />But moving is hard!<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Hey, let's do something fun instead,
+like play a game. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />And if you win, I'll
+move here!</message>
+	<message label="207_03_a" attrib="00 00 00 00 00 00 00 00">Sure, why not?</message>
+	<message label="207_03_b" attrib="00 00 00 00 00 00 00 00">Never mind...</message>
+	<message label="208_01" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />That's OK—at least I don't have to
+make a decision now! <delay20 />A huh huh<tag a="110" b="0" /></message>
+	<message label="208_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />No? <delay20 />Aww, I thought it was a good
+idea, <tag a="110" b="5" />. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Oh well!</message>
+	<message label="208_03" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Ah, that's OK.<delay20 /> You know me—I'll
+just roll with it. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />A huh huh huh!</message>
 	<message label="302" attrib="00 00 01 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Sorry for the wait!<delay frames="40" /> I went to talk at
 the <colour id="1" />Resident Services <colour id="65535" />folks here<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />They said there's no more room
 to build property on this island,
@@ -137,6 +165,11 @@ crumble, huh.<delay20 /> Oh well, <tag a="110" b="5" />.</message>
 so I can't move in!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />What a shame. Oh well.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />I hope
 we get to live on the same
 island someday, <tag a="110" b="6" />.</message>
+	<message label="405" attrib="00 00 00 00 00 00 00 00">I asked <colour id="1" />Resident Services <colour id="65535" /><anim id="Silent" target="actor" targetSpec="" /><delay20 />and<tag a="110" b="0" /><10_4 />
+<anim id="OhGeez" target="actor" targetSpec="" />there's no land for sale for new
+houses, <anim id="Worried" target="actor" targetSpec="" />so I can't move here!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />Total shame, but oh well.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />I still hope
+we get to live on the same island
+one day, <tag a="110" b="6" />.</message>
 	<message label="406" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So<tag a="110" b="0" /> I talked to <colour id="1" />Resident Services
 <colour id="65535" />and<tag a="110" b="0" /><delay20 /> <anim id="BigSmile" target="actor" targetSpec="" /><delay20 />They said I can move here!<pageBreak />So yeah! <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />I'm <tag a="110" b="10" />!<delay20 />
 Your new neighbor!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> Wow, starting
@@ -155,6 +188,10 @@ that you don't have any more room!<delay20 />
 <anim id="FaintSmile" target="actor" targetSpec="" />That sounds like a fun island.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It's a real shame I couldn't move
 here.<delay20 /><anim id="Hello" target="actor" targetSpec="" /> But you inviting me made me
 feel good, <tag a="110" b="6" />!</message>
+	<message label="424" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><delay20 />There's no more land for sale on
+your island, so I can't move here!<delay20 /><anim id="SadSpiral" target="actor" targetSpec="" /><delay20 />Total downer.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Hello" target="actor" targetSpec="" />Well, if this is goodbye, then thanks
+for all the fun! I'll always remember
+my time here, <tag a="110" b="3" />!</message>
 	<message label="504" attrib="00 00 01 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Your island's cozy, everybody's nice,
 they smell good, and they feed me
 stuff. Man, I could stay here forever!</message>

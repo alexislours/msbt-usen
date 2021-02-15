@@ -1,8 +1,8 @@
 <msbt attribsize="8">
-	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! You came!<delay frames="40" />
-<anim id="ShyBoy" target="actor" targetSpec="" />I took your advice.<delay20 /> I'm moving.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />The bad news<tag a="110" b="0" /><delay20 /> I won't be around to
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! Hey!<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />I took
+your advice.<delay20 /> I'm moving.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />The bad news<tag a="110" b="0" /><delay20 /> I won't be around to
 compare muscles with.<delay20 /> The good
-news<tag a="110" b="0" /> <delay20 />I get to lift all my furniture!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Keep getting stronger!<delay20 /> I'll be
+news<tag a="110" b="0" /> <delay20 /><anim id="Laughing" target="actor" targetSpec="" />I get to lift all my furniture!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Keep getting stronger!<delay20 /> I'll be
 cheering for you.</message>
 	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yo, <tag a="110" b="3" />! It's good to
 see you. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />I'm taking your advice.<delay20 />
@@ -49,6 +49,15 @@ island today.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I ha
 yet. <delay frames="40" /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Maybe I could wander the world
 performing feats of strength!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Well, I hope I run into you
 later, <tag a="110" b="6" />!</message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! A new face!<delay20 /> Nice to meet
+you.<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />I'm <tag a="110" b="10" />,<delay8 />
+<tag a="110" b="8" />'s star athlete!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Uh<tag a="110" b="0" /> Except I just got signed to
+<tag a="115" b="2" arg="0xcd00" />'s <tag a="135" b="6" arg="0xcd00" />
+team, so that's about to change.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Today's my last day here. <delay20 />I'll be sad
+to go<tag a="110" b="0" /><delay20 /><anim id="Pardon" target="actor" targetSpec="" /><delay8 />but you should see the squad
+<tag a="115" b="2" arg="0xcd00" />'s been building!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Well, see you around. <delay8 />I gotta pack.
+<anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="135" b="6" arg="0xcd00" /> <tag a="90" b="27" /> championships
+or bust, <tag a="110" b="5" />!</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I think I'm gonna travel the world<tag a="110" b="0" /><delay frames="40" />
 <anim id="Eh" target="actor" targetSpec="" />Maybe I'll meet someone stronger
 than me, <tag a="110" b="5" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Yes!<delay20 /> This is gonna be great.<delay20 /> I can't

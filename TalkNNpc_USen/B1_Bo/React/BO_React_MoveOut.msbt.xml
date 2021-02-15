@@ -4,8 +4,8 @@
 I wanted to say goodbye<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />And thanks for the advice when I<delay8 />
 couldn't decide if I wanted to move<delay8 />
 or not. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />It meant a lot to me!</message>
-	<message label="002" attrib="00 00 00 00 00 00 00 00">Thanks for listening to me<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />talk about
-moving yesterday!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm all packed up and ready to go!<delay20 />
+	<message label="002" attrib="00 00 00 00 00 00 00 00">Thanks for listening to me<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />talk
+about moving!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm all packed up and ready to go!<delay20 />
 But I've been waiting for you.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />On TV, nobody says "goodbye."<10_4 />
 <anim id="Explain" target="actor" targetSpec="" />Well, unless it's a real sad movie<tag a="110" b="0" /><pageBreak />No, what TV folks do is<tag a="110" b="0" />
 they <anim id="BigSmile" target="actor" targetSpec="" />smile<tag a="110" b="0" /><delay20 />and they say,<delay40 />
@@ -50,6 +50,14 @@ Nice to meet you!<pageBreak />I know we just met, but I'm moving
 tomorrow! That's right, I'm leaving
 this island!<pageBreak />Huh huh,<delay20 /> of course, I still need to
 decide where I'm moving to!</message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00">Uhhh<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" /><delay20 /> Have we met before?<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" /><delay20 />I'm <tag a="110" b="10" />!<delay frames="40" /> Nice
+to meet you!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Well, this is kinda awkward. <delay20 />See,
+I already decided to move away
+tomorrow. <delay20 />A huh huh huh<tag a="110" b="0" />
+<anim id="IdeaBulb" target="actor" targetSpec="" />Oh! <delay20 />You could come visit me on
+<tag a="115" b="2" arg="0xcd00" />! <delay20 />And we could
+eat <tag a="135" b="7" arg="0xcd00" /> together!</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00">Aw, thanks, <tag a="110" b="3" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I think I'm gonna follow the clouds
 for now.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I've always wanted to see where they
 go after they blow away!</message>

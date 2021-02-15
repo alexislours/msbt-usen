@@ -45,4 +45,16 @@ KNOW I'm psyched! <delay20 />It's so wild that
 <tag a="90" b="27" />'s nearly done, <tag a="110" b="5" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />The Countdown party's in the plaza.<delay frames="40" />
 <anim id="HappyDance" target="actor" targetSpec="" />We're gonna give the new year a
 rockin' welcome. <delay20 />See you there!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" /><colour id="3" />Tom Nook<colour id="65535" /> told me he's planning
+some kind of off-island thing for
+May Day, <tag a="110" b="5" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Any idea what it'll be? <anim id="OhGeez" target="actor" targetSpec="" />Knowing him,
+it's probably a remote workshop for
+<tag a="135" b="8" arg="0xcd00" /> or something<tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />I've spent a week trying to get
+<colour id="3" />Tom Nook<colour id="65535" /> to tell me about his big
+off-island May Day event thing.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So far all I've got is something about
+needing a <colour id="1" />May Day Ticket<colour id="65535" /> to go, <delay8 />but
+that's it.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />He can really keep a secret!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Oh well. <delay20 />Tomorrow's May Day, and
+<colour id="3" />Tom Nook<colour id="65535" /> told me he'd fill us in then.<delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />
+I guess we're waitin', <tag a="110" b="5" />.</message>
 </msbt>

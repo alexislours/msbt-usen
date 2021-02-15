@@ -1,0 +1,78 @@
+<msbt attribsize="4">
+	<message label="001" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Howdy, squirt. <delay8 />Any interest in tradin'
+those <tag a="50" b="0" arg="0x400 0xcd03" />heart crystals for some of my
+furniture?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" /><size value="75" /><colour id="3" />Reese<colour id="65535" /> thinks they're pretty.<size value="100" /></message>
+	<message label="001_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Deal!</message>
+	<message label="001_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No deal.</message>
+	<message label="002" attrib="02 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Heya, squirt. <delay20 />I'll trade some more
+furniture for your <tag a="50" b="0" arg="0x400 0xcd03" />heart crystals.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Whaddaya say?</message>
+	<message label="002_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Deal!</message>
+	<message label="002_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No deal.</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Alright! <delay20 />What's grabbin' ya?</message>
+	<message label="004" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Suit yourself. <delay20 />But think on it.</message>
+	<message label="005" attrib="00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Huh? <delay20 />I thought we had a deal.<delay20 />
+You'd better be comin' back.</message>
+	<message label="010" attrib="02 00 00 00">OK, how about<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" /><tag a="90" b="2" arg="0x0" /><colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />heart crystals<colour id="65535" />
+for my <colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />?</message>
+	<message label="010_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You got it!</message>
+	<message label="010_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't know...</message>
+	<message label="011" attrib="02 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />It's no fleece off my hide, squirt.<delay20 />
+You're doin' me a favor, so take all
+the time ya need.</message>
+	<message label="011_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Deal!</message>
+	<message label="011_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No deal.</message>
+	<message label="013" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Great! <delay20 />I'll take those <tag a="50" b="0" arg="0x400 0xcd03" />heart crystals<tag a="110" b="0" /></message>
+	<message label="013_02" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Great! <delay20 />I'll take those <tag a="50" b="0" arg="0x400 0xcd03" />heart crystals<tag a="110" b="0" /></message>
+	<message label="014" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Hate seein' this stuff go, but a deal's
+a deal. <delay8 />I'll get everything on its way,
+so keep an eye out.<delay frames="40" /> Oh! <delay8 /><anim id="Hello" target="actor" targetSpec="" />And thanks.</message>
+	<message label="015" attrib="02 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Y'know, if you wanna get rid of a
+few more <tag a="50" b="0" arg="0x400 0xcd03" />heart crystals, there's
+still furniture in it for ya.</message>
+	<message label="015_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Deal!</message>
+	<message label="015_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No deal.</message>
+	<message label="016" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Y'know, you're doing an awful
+lot of tradin' today.</message>
+	<message label="017" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I oughta get caught up on that other
+stuff you wanted.<10_4 /> <anim id="WrySmile" target="actor" targetSpec="" />How 'bout we hold
+off on more trades till later?</message>
+	<message label="020" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You've done a lot for us, squirt.<delay20 />
+We really appreciate it.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Here, this is somethin' the two of
+us worked on. <delay20 />It's a DIY recipe for
+a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />wedding wand<colour id="65535" />.<delay20 /> You earned it.</message>
+	<message label="021" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Be sure to think of us when you're
+makin' it, ya hear?</message>
+	<message label="022" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hm! <delay20 />I don't think I can give it to you
+on account of your pockets bein' full.<10_4 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Not to worry. <delay20 />I'll just mail it to ya!</message>
+	<message label="023" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I went ahead and stuck it in your
+pockets. Hope you don't mind.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Be sure to think of us when you're
+makin' it, ya hear?</message>
+	<message label="024" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Just a sec. <delay20 />You do know your
+way around <colour id="1" />DIY<colour id="65535" />, don'tcha?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So, basically, <colour id="1" />DIY<colour id="65535" /> is makin' tools and
+furniture and such, and it's pretty
+fun once you get a handle on it.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Now, normally, I'd be happy to teach
+you, <delay8 />but I ain't got the time just at
+the moment.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />However, I also happen to know
+<colour id="3" />Tom Nook<colour id="65535" />'s been teachin' a <colour id="1" />DIY
+workshop<colour id="65535" /> at <colour id="1" />Resident Services<colour id="65535" />.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />You should go talk to him about
+it.<delay20 /> <colour id="3" />Mr. Nook<colour id="65535" /> certainly knows himself
+a thing or three.<pageBreak /><anim id="Aha" target="actor" targetSpec="" />Oh right! <delay20 />The <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />wedding wand<colour id="65535" /> recipe!</message>
+	<message label="101" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />We're countin' on ya, squirt!</message>
+	<message label="102" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I made a whole mess of special
+furniture just for this shoot.<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />Don't be shy about usin' it!</message>
+	<message label="103" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />What's a wedding without a big
+ol' reception to cap it off?<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I can't
+wait to see all the photos.</message>
+	<message label="104" attrib="00 00 00 00"><anim id="Love" target="actor" targetSpec="" /><colour id="3" />Reese<colour id="65535" /> sure is a sight, eh?<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />All eyes are gonna be on her at this
+reception shoot. <delay20 />Everyone had better
+be respectful.<delay frames="40" /> She's married<anim id="SmugFace" target="actor" targetSpec="" /><delay20 /> to ME!</message>
+	<message label="105" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is a hoot and a half!<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Ha ha ha!</message>
+	<message label="106" attrib="00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Just look at her<tag a="110" b="0" />I must be the
+luckiest fella in the whole world.</message>
+	<message label="107" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />I can't thank you enough for helpin'
+us put all this together.</message>
+</msbt>

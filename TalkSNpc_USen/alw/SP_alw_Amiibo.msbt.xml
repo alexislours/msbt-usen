@@ -1,0 +1,10 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 13"><anim id="FaintSmile" target="actor" targetSpec="" />Hello, this is <tag a="110" b="10" />.<delay20 />
+Who may I ask is calling?<10_4 />
+<anim id="Shocked" target="actor" targetSpec="" />Oh, <tag a="110" b="1" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />To what do I owe the pleasure?</message>
+	<message label="002" attrib="00 00 00 13"><anim id="Eh" target="actor" targetSpec="" />An invitation to your <colour id="1" />campsite<colour id="65535" />?<delay frames="40" />
+<anim id="Thinking" target="actor" targetSpec="" />Well, that sounds<tag a="110" b="0" /><delay20 />rustic. <delay frames="40" /><anim id="Frantic" target="actor" targetSpec="" />And
+quite charming! <delay20 />But<tag a="110" b="0" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />It's just not a good time for us right
+now, so I'll have to politely decline.<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" />But I'm so happy you thought of me!</message>
+</msbt>

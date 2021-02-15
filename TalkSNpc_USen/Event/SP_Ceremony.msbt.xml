@@ -4,8 +4,8 @@
 honoring <tag a="110" b="8" />'s brand-
 new <colour id="1" /><tag a="115" b="7" arg="0xcd00" /><colour id="65535" />!</message>
 	<message label="001_02" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />I'd like to begin our special ceremony<delay20 />
-celebrating the grand reopening
-of <colour id="1" /><tag a="115" b="7" arg="0xcd00" /><colour id="65535" />!</message>
+celebrating the grand opening of our
+fancy new <colour id="1" /><tag a="115" b="7" arg="0xcd00" /><colour id="65535" />!</message>
 	<message label="002" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Thank you!</message>
 	<message label="002_01" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="8" /> truly started out
 as a deserted island. There simply
@@ -38,6 +38,12 @@ do take care on your way home!</message>
 heartfelt and <anim id="Smiling" target="actor" targetSpec="" />encouraging sentiments
 there, <tag a="110" b="1" />!</message>
 	<message label="007" attrib="00 00 00 00">Oof<tag a="110" b="0" /><delay frames="30" /> <anim id="ShyBoy" target="actor" targetSpec="" />A little cramped here<tag a="110" b="0" /> But<tag a="110" b="0" /></message>
+	<message label="008" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />As I'm sure you've all noticed,<delay20 />
+<tag a="110" b="8" /> has gone through
+marvelous, <delay8 />wondrous changes!
+<anim id="BigSmile" target="actor" targetSpec="" />It's all thanks to the fine residents
+of this island who work together
+daily. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Yes, yes,<delay8 /> you have my thanks!</message>
 	<message label="201_01" attrib="00 00 00 00">I'd like to ask<anim id="Nodding" target="actor" targetSpec="" /> <colour id="3" />Timmy<colour id="65535" /> and <colour id="3" />Tommy<colour id="65535" /> to
 say a few words as representatives
 of the<anim id="Smiling" target="actor" targetSpec="" /> new <colour id="1" />Nook's Cranny<colour id="65535" />.</message>
@@ -161,4 +167,62 @@ made many valuable contributions
 toward seeing this <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />incline<colour id="65535" /> built.
 <anim id="Smiling" target="actor" targetSpec="" />I'm talking about Resident Rep
 <tag a="110" b="1" />!</message>
+	<message label="281" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I'd like to ask<anim id="Nodding" target="actor" targetSpec="" /> <colour id="3" />Blathers <colour id="65535" />to say a few
+words as the representative from our
+newly remodeled <colour id="1" />museum<colour id="65535" />.
+<anim id="EmotEnd" target="actor" targetSpec="" /><colour id="3" />Blathers<colour id="65535" /><tag a="110" b="0" />if you would?<delay20 /> Just<anim id="Worried" target="actor" targetSpec="" /><tag a="110" b="0" />um<tag a="110" b="0" />
+a word or two?</message>
+	<message label="282" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hoot, indeed. <delay8 />I shall keep this
+brief. <delay20 /><anim id="Serious" target="actor" targetSpec="" />Ahem!<delay8 /> Dearest residents
+of <tag a="110" b="8" /><tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />It is an honor and a pleasure to take
+this moment to thank you for your
+continued support of the <colour id="1" />museum<colour id="65535" />!</message>
+	<message label="283" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />'Tis you who are responsible for our
+display cases flush with zoological
+and paleontological wonders.
+<anim id="Explain" target="actor" targetSpec="" />And 'tis you who are responsible
+for making this a museum of the
+highest caliber.</message>
+	<message label="284" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Your diligent efforts have turned this
+museum into the grand<tag a="110" b="0" /><delay20 />nay,<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> the
+MAGNIFICENT attraction it is today!
+<anim id="HappyFlower" target="actor" targetSpec="" />So many fish!<delay8 /> So many fossils!<delay frames="40" />
+<anim id="Confused" target="actor" targetSpec="" /><size value="75" />So. Many. Insects.<size value="100" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Indeed,<delay8 /> all who set foot, hoof, or
+paw in this museum have you to
+thank for the splendors they behold.</message>
+	<message label="285" attrib="00 00 00 00">It must be said,<delay8 /><anim id="ShyBoy" target="actor" targetSpec="" /> I have received
+donations at a faster pace than
+I ever imagined possible.
+<anim id="Smiling" target="actor" targetSpec="" />Stunning!<delay20 /> Humbling! <delay20 /><anim id="WrySmile" target="actor" targetSpec="" />At times,
+overwhelming!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Your gifts of fossils, <delay8 />fish, <delay8 />and<tag a="110" b="0" /><delay20 />
+<anim id="Serious" target="actor" targetSpec="" />bugs<tag a="110" b="0" /><delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />have not only made our
+museum a cultural marvel<tag a="110" b="0" />
+<anim id="HappyFlower" target="actor" targetSpec="" />They have made my spirits soar!<delay8 />
+Hootie hoo! <delay8 />'Tis true!</message>
+	<message label="286" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />And now <delay8 />we have opened a new
+addition, <delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" />one I have dreamt of
+since I was but an owlet<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />Yes!<delay8 /> A proper <colour id="1" />art gallery<colour id="65535" />! <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />One in
+which we shall display proper art!<delay20 />
+Paintings!<delay8 /> Statues!<delay20 /><anim id="SmugFace" target="actor" targetSpec="" /> Proper! <delay8 />Art!
+<anim id="HappyDance" target="actor" targetSpec="" />By Jove,<delay8 /> my cultural and curatorial
+dreams have come true!<delay frames="40" /><anim id="Cheering" target="actor" targetSpec="" /> Hoot hoot
+and hooooray!<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />I beg your pardon! <delay frames="40" /><anim id="Blushing" target="actor" targetSpec="" />My enthusiasm
+has me running at the beak once
+again.
+<anim id="EmotEnd" target="actor" targetSpec="" />To the point, then.<delay20 /> <anim id="Hesitate" target="actor" targetSpec="" />As we celebrate
+this new wing of the museum, I feel
+I must entreat you<tag a="110" b="0" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />Please,<delay8 /> continue to donate your
+acquisitions.<delay20 /> <anim id="Negative" target="actor" targetSpec="" />I ask this not just for
+the betterment of the museum<tag a="110" b="0" />
+<anim id="Smiling" target="actor" targetSpec="" />But for the betterment of us all.<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />Hoo, and thank you.</message>
+	<message label="287" attrib="00 00 00 00"><anim id="Sleepy" target="actor" targetSpec="" /><delay40 />Er<tag a="110" b="0" /><delay40 /> Yes<tag a="110" b="0" /><delay40 /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Thinking" target="actor" targetSpec="" /><delay40 /> I mean<tag a="110" b="0" /><delay40 /><anim id="Aha" target="actor" targetSpec="" /> No!<delay frames="40" /> Thank YOU,
+<colour id="3" />Blathers<colour id="65535" />,<delay frames="40" /> for those many<tag a="110" b="0" /><delay frames="40" />many<tag a="110" b="0" /><delay frames="40" />
+many words<tag a="110" b="0" />of wisdom.</message>
+	<message label="288" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Next, <delay20 /><anim id="Explain" target="actor" targetSpec="" />a FEW words from someone
+whose valuable contributions made
+this remodel possible.
+Of course I mean<delay frames="30" /><anim id="Smiling" target="actor" targetSpec="" /> <tag a="110" b="1" />,
+our Resident Representative,
+hm? <tag a="50" b="3" /><tag a="110" b="1" />?</message>
 </msbt>

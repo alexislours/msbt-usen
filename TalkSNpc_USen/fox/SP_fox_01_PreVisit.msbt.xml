@@ -1,0 +1,216 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Well, well! <delay20 />You from around here?<delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" />Hi,<delay8 /> the name's <colour id="3" />Redd<colour id="65535" />. <delay20 />I work in sales.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />And you are<tag a="110" b="0" /><10_4 /> <anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />What a great name! <delay20 />Intelligent.
+<delay20 />Strong. <delay20 />I can already tell we're gonna
+be pals.<delay frames="40" /> <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />No, not pals<tag a="110" b="0" />family!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" /><tag a="110" b="0" /> <anim id="BigSmile" target="actor" targetSpec="" />It's a pleasure
+to meet ya, <tag a="110" b="1" />!</message>
+	<message label="002_01" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Ah, just feels like fate, don't it?<delay20 />
+Us meetin' here like this.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Well, seein' as we're practically
+family, <delay20 />I'm not gonna let it be the
+last time we see each other.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Like I said, I'm in sales. <delay20 />When we're
+ready to deal, I'll set you up with the
+family discount.<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />You'll love it.</message>
+	<message label="002_02" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />So what's this I've been hearing
+about there being some grand
+<colour id="1" />museum <colour id="65535" />around here?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />'Cause I got a warehouse full of art
+I'm settin' up to liquidate, and I'm
+gonna wanna pass those savings on.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Hey, if you know anything about it,
+keep me in mind!<delay frames="40" /> <anim id="Scheming" target="actor" targetSpec="" />I'll be sure to cut
+you in on the family discount.</message>
+	<message label="003_01" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Hey, I hope you don't mind me bein'
+forward, <delay20 />but you look to me like
+someone who's got an eye for art.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Don't be shocked. <delay20 />I've got a keen
+instinct for these things.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />And speakin' of instinct, I just had
+this feeling<tag a="110" b="0" /><delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />so I brought <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> with me!</message>
+	<message label="003_02" attrib="01 00 00 00"><anim id="Pardon" target="actor" targetSpec="" /><delay20 />Yeah, I know! <delay20 />What a crazy
+coincidence! <delay20 />It's like fate!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Well, I wanna sell to you, <delay20 />and ONLY
+you, 'cause you're family, <delay frames="40" />and you're
+gonna get a giveaway price.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />How does <colour id="1" />498,000 Bells<colour id="65535" /> grab ya?<delay20 />
+It's a bargain. <delay20 />Whaddaya say?</message>
+	<message label="003_02_a" attrib="00 00 00 00">I-I say no!</message>
+	<message label="003_02_b" attrib="00 00 00 00">Wha?!</message>
+	<message label="004" attrib="02 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Come on, now! <delay20 />You're never gonna
+find a better price than<tag a="110" b="0" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Ah, but that was fate talkin', right?
+<delay20 />Reminding me you're family<tag a="110" b="0" /><delay20 />I mean,
+you're practically my cousin!<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />So here's what I'm gonna do. <delay20 />I'm
+gonna give you my family-exclusive,<delay20 />
+patent-pending <delay frames="40" /><anim id="Assent" target="actor" targetSpec="" />Cousin's Discount.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />For only <tag a="90" b="21" arg="0x0" />, <delay20 />you'll be
+the proud owner of your very
+own <tag a="125" b="0" arg="0x0" />.</message>
+	<message label="004_a" attrib="00 00 00 00">Sold!</message>
+	<message label="004_b" attrib="00 00 00 00">That's crazy. No.</message>
+	<message label="005" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ha! <delay20 />You are NOT gonna regret this.<delay20 />
+I'll just take those Bells from you<tag a="110" b="0" /></message>
+	<message label="006" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />I knew you had an eye for art. <delay20 />It's
+like it was meant to be. <delay20 />I hope we
+can do this again, cousin!</message>
+	<message label="007" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Crazy like a<tag a="110" b="0" /><delay20 /> <anim id="Negative" target="actor" targetSpec="" />Well, you know.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Look, a deal like this may never
+come around again. <delay20 />Are you sure
+you wanna risk that?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />They're your Bells. <delay20 />I respect that.
+<delay20 />Think it over and come back when
+you change your mind.</message>
+	<message label="008" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Like I was saying—it's fate! <delay20 />Let's<tag a="110" b="0" /><delay20 />
+<anim id="TakenAback" target="actor" targetSpec="" />Now wait a minute. <delay20 />You don't have
+enough Bells, cousin!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Look, a deal like this may never
+come around again. <delay20 />Come back when
+you're ready to take this seriously.</message>
+	<message label="009" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Like I was saying—it's fate! <delay20 />Let's<tag a="110" b="0" /><delay20 />
+<anim id="TakenAback" target="actor" targetSpec="" />Now wait a minute. <delay20 />You don't have
+any room in your pockets, cousin!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Look, a bargain like this may never
+come around again. <delay20 />Go clear some
+space so we can seal the deal!</message>
+	<message label="010" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, if it isn't <tag a="110" b="1" />!<delay20 />
+Great to see you again!</message>
+	<message label="011" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="1" />! <delay20 />I knew you
+couldn't stay away from a deal!</message>
+	<message label="012" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />So with the Cousin's Discount, it's<tag a="110" b="0" /><delay20 />
+<anim id="Grin" target="actor" targetSpec="" /><tag a="90" b="22" arg="0x0" /> to claim your very own
+<tag a="125" b="0" arg="0x0" />. <delay20 />Deal?</message>
+	<message label="012_a" attrib="00 00 00 00">Sold!</message>
+	<message label="012_b" attrib="00 00 00 00">I'll pass.</message>
+	<message label="013" attrib="00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Whaaa?! <delay20 />You are missin' out!<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />I stand
+by this deal, cousin. <delay20 />You're not
+gonna find a better price!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />But they're your Bells, <delay20 />and you've
+got your preferences, <delay20 />and there'll be
+other deals.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />Count on that.</message>
+	<message label="014" attrib="00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />But, uh<tag a="110" b="0" />this is embarrassin'<tag a="110" b="0" /><delay20 />
+<anim id="Blushing" target="actor" targetSpec="" />Someone's already bought
+<tag a="50" b="1" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />Look, I'm so sorry! <delay20 />I tried to hold on
+to it for you, but they begged and
+begged and<tag a="110" b="0" /><delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />What could I say?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I warned you it was a hot deal.<delay20 />
+Well, there'll be others.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />You can
+count on that, cousin!</message>
+	<message label="015" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />We meet again, <tag a="110" b="1" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />It's nice to be someplace where art
+is loved and appreciated<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />It's too hard to find others who can
+enjoy all the beautiful <colour id="1" />art pieces<colour id="65535" /> out
+there, y'know?<delay frames="40" /> <anim id="Scheming" target="actor" targetSpec="" />Ha! <delay8 />Of course you do.</message>
+	<message label="016" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Ah, it's a real pleasure seein'
+you again, <tag a="110" b="1" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I didn't realize how much I'd miss
+talkin' to someone who truly gets art,<delay20 />
+<anim id="ShyBoy" target="actor" targetSpec="" />and can spot a good deal besides!</message>
+	<message label="017" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, if it isn't <tag a="110" b="1" />!<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />How can I help ya?</message>
+	<message label="017_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />One art, please!</message>
+	<message label="017_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Just saying hello.</message>
+	<message label="018" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Oh?<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />Well, hello to you too, cousin!<delay20 />
+Nice weather for a stroll, isn't it?<delay20 />
+See you around!</message>
+	<message label="019" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Ha ha ha! <delay20 />Straight to business.<delay8 />
+I like it.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Lucky you. <delay20 />I happen to have
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
+right here!<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />Don't ask how I got it. <delay8 />Long story.
+<delay20 />But it's got "you"<delay8 /> written all over
+it.<delay8 /> Metaphorically, that is.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Now, <delay20 />judging from your expression,
+you're either eager to buy, <delay8 />or you've
+got some déjà vu goin'. <delay20 />Maybe both.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="019_01" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'm gonna go with the former and
+tell you it's a steal at <tag a="90" b="22" arg="0x0" />.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />So whaddaya say? <delay20 />We got a deal?</message>
+	<message label="019_01_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Deal!</message>
+	<message label="019_01_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'll pass...</message>
+	<message label="020" attrib="00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Huh? <delay20 />Are you absolutely sure?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Masterpieces like this don't come
+around often, especially at such a
+bargain price.<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />But they're your Bells.</message>
+	<message label="021" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Great decision! <delay20 />You saw a deal you
+knew you'd <delay8 />NEVER<delay20 /> see again, and
+you jumped on it. <delay8 />Well done, cousin!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You're really gonna enjoy
+your <tag a="125" b="0" arg="0x0" />.<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" />I just know it!</message>
+	<message label="050" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="050_01" attrib="00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Y'know, there's just somethin' about
+this island<tag a="110" b="0" /><delay20 /> Everyone's so nice and
+trusting and generous.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />It's great!</message>
+	<message label="050_02" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> I got a real good deal on an
+old fishing trawler a while back. <delay20 />I bet
+it'd make a good showroom.</message>
+	<message label="050_03" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Young or old, it doesn't matter. <delay20 />Art
+speaks to everyone.<delay20 /> <anim id="ShyBoy" target="actor" targetSpec="" />And so, <delay20 />I think,<delay8 />
+does gettin' a good deal on it!</message>
+	<message label="060" attrib="00 00 00 00">Correct me if I'm wrong,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />but you're
+not from around here, are you?<10_4 /><anim id="Negative" target="player" targetSpec="" /><delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />
+What a coincidence! <delay20 />Me neither!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />It's a shame I don't have anything
+to sell you. <delay20 />But don't you worry.<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />I'll make it up to you!</message>
+	<message label="061" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="061_01" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />So are you here sightseeing? <delay20 />The
+feel of this place is wonderful. <delay20 />It's
+like a work of art<tag a="110" b="0" /><delay20 /><anim id="Laughing" target="actor" targetSpec="" />and I'd know!</message>
+	<message label="061_02" attrib="00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Usually, this is when I would pitch an
+amazing deal your way, but<tag a="110" b="0" />I don't
+have anythin' to sell ya right now.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />No excuses.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />Next time I'm in your
+neck of the water, you're gonna get
+a deal like you've never seen!</message>
+	<message label="061_03" attrib="00 00 00 00">You been to the <colour id="1" />museum<colour id="65535" /> here yet?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />If not, then I gotta tell ya, it is truly<delay20 />
+a sight to see<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />from the outside. <delay20 />I actually haven't
+been inside yet. <delay20 />Too many customers.
+<delay20 />You know how it is.</message>
+	<message label="101" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Well, well! <delay20 />You from around here?<delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" />Hi,<delay8 /> the name's <colour id="3" />Redd<colour id="65535" />. <delay20 />I work in sales.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />And you are<tag a="110" b="0" /><10_4 /> <anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />What a great name! <delay20 />Intelligent.
+<delay20 />Strong. <delay20 />I can already tell we're gonna
+be pals.<delay frames="40" /> <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />No, not pals<tag a="110" b="0" />family!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" /><tag a="110" b="0" /> <anim id="BigSmile" target="actor" targetSpec="" />It's a pleasure
+to meet ya, <tag a="110" b="1" />!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Hey, would you mind if I ran
+an idea by you?</message>
+	<message label="102_01" attrib="00 00 00 00">I'd know that shining face anywhere.<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />How ya been, <tag a="110" b="1" />?<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />You made the right choice buyin' that
+art from me earlier. <delay20 />I've had a lot of
+folks asking about it.</message>
+	<message label="102_02" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Well, if it isn't <tag a="110" b="1" />!<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Long time no see!</message>
+	<message label="103" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Ah<tag a="110" b="0" />you know, I really gotta
+be honest.<delay20 /> I think I'm fallin'
+for <tag a="110" b="8" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I mean, you've got quite a setup
+goin' here. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />And a LOT<delay20 /> of art fans<tag a="110" b="0" /></message>
+	<message label="104" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />! <delay20 />Just who
+I wanted to see. <delay20 />OK,
+I've been thinkin'<tag a="110" b="0" /></message>
+	<message label="105" attrib="01 00 00 00"><anim id="Explain" target="actor" targetSpec="" />So <tag a="110" b="8" /> wants art, <delay20 />and
+I got art to sell. <delay frames="40" />Might be
+something to this.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />But I couldn't sell to just anybody.<delay20 />
+I'd need someone I could trust.<delay20 />
+Completely. <delay20 />As if they were family<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />And since we're basically cousins<tag a="110" b="0" />
+And because I know you've got an
+eye for quality<tag a="110" b="0" /><delay20 /> <anim id="Smiling" target="actor" targetSpec="" />I want it to be you!<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />Wanna look at a few things? <delay20 />I've got
+both art and furniture, <delay20 />plus you'd get
+my Cousin's Discount.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You in?</message>
+	<message label="105_a" attrib="00 00 00 00">I'm in!</message>
+	<message label="105_b" attrib="00 00 00 00">Seems kinda sketchy...</message>
+	<message label="105_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I knew I could count on you, cousin!<delay20 />
+That is absolutely the right choice.</message>
+	<message label="105_02" attrib="00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><delay20 />I'm hurt!<delay20 /> There's nothing sketchy
+about this. <delay20 />I can prove it.</message>
+	<message label="105_03" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I've got my boat anchored off the
+<colour id="1" />northern shore<colour id="65535" />, and I'm almost done
+fixing all the leaks. <delay20 />Long story.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Come have a look at what I'm sellin'.<delay frames="40" />
+<anim id="Scheming" target="actor" targetSpec="" />You won't regret it!</message>
+	<message label="106" attrib="00 00 00 00">So I was<tag a="110" b="0" /> <delay20 /><anim id="Eh" target="actor" targetSpec="" />Oh, hang on. <delay20 />You've got
+company right now.<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />It can wait.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Come chat once we have a little
+more privacy, alright?</message>
+	<message label="107" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Hey, I wanna get you in on the
+ground floor of an idea of mine.<delay20 />
+Could be big!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I don't want to steal you from your
+company though. We can chat once
+we have a little more privacy, OK?</message>
+	<message label="160" attrib="00 00 00 00">Correct me if I'm wrong,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />but you're
+not from around here, are you?<10_4 /><anim id="Negative" target="player" targetSpec="" /><delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />
+What a coincidence! <delay20 />Me neither!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />It's a shame I don't have anything
+to sell you. <delay20 />But don't you worry.<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />I'll make it up to you!</message>
+	<message label="161" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="161_01" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />So are you here sightseeing? <delay20 />The
+feel of this place is wonderful. <delay20 />It's
+like a work of art<tag a="110" b="0" /><delay20 /><anim id="Laughing" target="actor" targetSpec="" />and I'd know!</message>
+	<message label="161_02" attrib="00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Usually, this is when I would pitch an
+amazing deal your way, but<tag a="110" b="0" />I don't
+have anythin' to sell ya right now.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />No excuses.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />Next time I've got
+somethin' I can sell ya, you'll get
+a deal like you've never seen!</message>
+	<message label="161_03" attrib="00 00 00 00">You been to the <colour id="1" />museum<colour id="65535" /> here yet?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />If not, then I gotta tell ya, it is truly<delay20 />
+a sight to see<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />from the outside. <delay20 />I actually haven't
+been inside yet. <delay20 />Too many customers.
+<delay20 />You know how it is.</message>
+</msbt>

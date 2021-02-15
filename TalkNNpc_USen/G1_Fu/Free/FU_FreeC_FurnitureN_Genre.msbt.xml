@@ -56,4 +56,22 @@ at this point<delay8 /><tag a="110" b="0" /></message>
 	<message label="016" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Thinking" target="actor" targetSpec="" />I guess it's weird<delay20 /> that I have <tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" /> inside<delay8 /><tag a="110" b="0" /><pageBreak /><20_3 arg="6" /><20_3 arg="3" /><20_3 arg="6" /><20_3 arg="3" /><anim id="Hesitate" target="actor" targetSpec="" />Maybe I'm just trying too hard<delay20 />
 at being creative here?</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" />What do you think of<anim id="Hello" target="actor" targetSpec="" /> my
+<tag a="125" b="0" arg="0x0" />?<delay frames="40" />
+<20_3 arg="3" /><20_3 arg="6" /><anim id="Blushing" target="actor" targetSpec="" />I'm quite fond of it myself.
+<anim id="Nodding" target="actor" targetSpec="" />It's the perfect accent item I never
+knew this room needed.</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />How do you feel about trying out
+different styles, <tag a="110" b="3" />?<10_4 />
+<anim id="Scheming" target="actor" targetSpec="" />It's kind of thrilling, isn't it?
+Well, <20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" />I suggest you try using
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="HappyFlower" target="actor" targetSpec="" />It's a great way to explore different
+aspects of your personality.</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The right piece of furniture always
+strikes a good balance between
+functionality and design.
+For example,<delay20 /><20_2 arg="10" /><20_2 arg="9" /><anim id="Thinking" target="actor" targetSpec="" /> consider my
+<tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="OhGeez" target="actor" targetSpec="" />This house would be so cluttered if I
+didn't have a place to put everything.<delay40 />
+But at the same time,<delay20 /><anim id="Love" target="actor" targetSpec="" /> it's so pretty!</message>
 </msbt>

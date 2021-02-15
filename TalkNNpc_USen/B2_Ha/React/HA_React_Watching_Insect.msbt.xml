@@ -51,9 +51,11 @@ staring at me.<delay frames="40" /> <anim id="Angry" target="actor" targetSpec="
 in a staring contest!</message>
 	<message label="019" attrib="00 00 00 00 00 00 00 00">A <tag a="50" b="0" arg="0x100 0xcd03" />walking leaf looks just like<tag a="110" b="0" />
 a leaf, <tag a="110" b="5" />! <delay20 />Huh.</message>
-	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" /><tag a="50" b="0" arg="0x100 0xcd03" />Bell cricket songs are so loud!<delay20 /> It's
-like, we all get it—your lungs are
-super strong.<delay20 /> Now please stop!</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />You can't hear it now because of
+the glass, <delay8 />but <tag a="50" b="0" arg="0x100 0xcd03" />bell cricket songs
+are really loud, <tag a="110" b="5" />.
+<anim id="Angry" target="actor" targetSpec="" />It's like,<delay8 /> we all get it—your lungs are
+super strong. <delay20 />Now quit showing off!</message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, a <tag a="50" b="0" arg="0x100 0xcd03" />cicada shell!<delay20 /> These things are
 kinda fun to crush, <tag a="110" b="5" />.</message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />That <tag a="50" b="0" arg="0x100 0xcd03" />rosalia batesi beetle's jaws look

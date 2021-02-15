@@ -21,14 +21,14 @@ duper really cool?<delay frames="40" /> There's all kindsa
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Heya! You here to see souvenirs?<delay frames="40" />
 There's a buncha stuff other than
 <anim id="Greeting" target="actor" targetSpec="" />clothes here, so have a look around!</message>
-	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />This new <colour id="1" />tailors <colour id="65535" />is neat! I can come
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />This <colour id="1" />tailors <colour id="65535" />place is neat! I can come
 in here and imagine being real cool
 and fashionable.</message>
 	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />I like buying new stuff at the <colour id="1" />tailors<colour id="65535" />,
 but I feel weird changing my clothes
 in the middle of the store.</message>
-	<message label="303" attrib="00 00 00 00 00 00 00 00">I wonder how many times I've visited
-the <colour id="1" />tailors <colour id="65535" />since it was built?<pageBreak />I wonder how many times <delay20 />I've
+	<message label="303" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I wonder how many times I've visited
+the <colour id="1" />tailors <colour id="65535" />now<tag a="110" b="0" /><pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I wonder how many times <delay20 />I've
 wondered how many times<delay20 /> I've
-visited the <colour id="1" />tailors <colour id="65535" />since it was built?</message>
+visited the <colour id="1" />tailors <colour id="65535" />now<tag a="110" b="0" /></message>
 </msbt>

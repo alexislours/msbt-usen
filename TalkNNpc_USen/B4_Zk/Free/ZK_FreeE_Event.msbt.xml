@@ -68,4 +68,19 @@ up on me.
 <anim id="Nodding" target="actor" targetSpec="" />Get down to the plaza in plenty
 of time, <tag a="110" b="3" />.<pageBreak /><anim id="Cheering" target="actor" targetSpec="" />I want to spend the last moments of
 <tag a="90" b="27" /> with you.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Do you know what May 1st is?<delay40 />
+<anim id="Sighing" target="actor" targetSpec="" />Well, obviously it's the first of May.
+<anim id="FaintSmile" target="actor" targetSpec="" />But it's also<tag a="110" b="0" /><delay40 /><anim id="HappyDance" target="actor" targetSpec="" />May Day, <tag a="110" b="5" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I hear there's gonna be a mysterious,
+super-exclusive event<delay20 /> on a currently
+undisclosed island.
+<anim id="Love" target="actor" targetSpec="" />I've been waiting my entire life to
+say a sentence like that.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Tomorrow is finally May Day!<10_4 />
+I hope you're ready, <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />'cause this May
+Day event promises to be epic!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you're lookin' for the deets on how
+to pick up a <colour id="1" />May Day Ticket<colour id="65535" />,
+hit up <colour id="3" />Tom Nook <colour id="65535" />tomorrow.
+<anim id="Aha" target="actor" targetSpec="" />This is not the type of event you
+want to miss, <tag a="110" b="3" />.</message>
 </msbt>

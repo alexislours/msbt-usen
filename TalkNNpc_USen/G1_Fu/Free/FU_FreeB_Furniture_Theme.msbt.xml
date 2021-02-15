@@ -35,8 +35,8 @@ a server<delay20 /> to order some drinks!</message>
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
 around<delay8 /><tag a="110" b="0" />
 <20_3 arg="6" /><20_3 arg="3" /><anim id="WrySmile" target="actor" targetSpec="" />Maybe they're just on a coffee break.</message>
-	<message label="009" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Nodding" target="actor" targetSpec="" />Seems fitting to set up <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
-outside<tag a="110" b="0" /><pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Smiling" target="actor" targetSpec="" />The style matches the setting!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Nodding" target="actor" targetSpec="" />Seems fitting to set up <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> outside.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Smiling" target="actor" targetSpec="" />The style matches the setting!</message>
 	<message label="010" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Love" target="actor" targetSpec="" />Aw,<delay20 /> who can resist <tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" />?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="HappyFlower" target="actor" targetSpec="" />Sooo adorable,<delay20 /> <tag a="110" b="5" />!</message>
 	<message label="011" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Smiling" target="actor" targetSpec="" />Look what someone left out here<delay8 /><tag a="110" b="0" />
@@ -59,4 +59,22 @@ the elements,<delay20 /> <tag a="110" b="5" />.</message>
 It's just so colorful and,<delay20 /> well,<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> eggy!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="HappyDance" target="actor" targetSpec="" />It makes me want to giggle for some
 reason.<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> If only all furniture could be
 this much fun, <tag a="110" b="6" />.</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Nodding" target="actor" targetSpec="" />There's something truly special
+about <tag a="125" b="0" arg="0x0" />,
+right?
+<20_3 arg="6" /><20_3 arg="3" /><anim id="Love" target="actor" targetSpec="" />Anything made with that much
+thought and care<delay8 /> should be
+treasured always, <tag a="110" b="5" />.</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Smiling" target="actor" targetSpec="" />I'm truly delighted to see
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
+with a little space-age charm.
+<20_3 arg="6" /><20_3 arg="3" /><anim id="AbsentMindedness" target="actor" targetSpec="" />It's a nice reminder that I am but
+an infinitesimal speck <delay8 />in this wide
+and grand universe we call home.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<delay40 />
+Here? <delay40 /><20_3 arg="6" /><20_3 arg="3" /><anim id="HappyDance" target="actor" targetSpec="" />Someone must be
+planning a wedding!
+<anim id="IdeaBulb" target="actor" targetSpec="" />I wonder if they have a registry<tag a="110" b="0" /><delay40 />
+<anim id="Frantic" target="actor" targetSpec="" />I better find out where it is before all
+the best gifts are taken!</message>
 </msbt>

@@ -51,15 +51,15 @@ get tired of coming here.</message>
 eh? <delay20 />Y'know, you could always just
 move here.<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha! <delay20 />Just kidding.</message>
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
-	<message label="200_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Our <colour id="1" />museum<colour id="65535" />'s finally open! <delay20 />Have you
-checked it out yet?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I can't wait to see all the weird fish
-they're gonna get, <tag a="110" b="5" />!</message>
-	<message label="200_02" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Hearing we got our own <colour id="1" />museum<colour id="65535" /> has
-me SOOOO hyped, <tag a="110" b="5" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I'm gonna come by every<delay20 /> single<delay20 /> day<delay20 />
-just to welcome all the new fish!<delay frames="60" />
+	<message label="200_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You checked out the <colour id="1" />museum<colour id="65535" /> yet?<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />I can't wait to see all the bizarre fish
+it's gonna get, <tag a="110" b="5" />!</message>
+	<message label="200_02" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Hearing this island's got its own
+<colour id="1" />museum<colour id="65535" /> has me SOOOO hyped!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I'm gonna go over there every<delay8 /> single<delay8 />
+day<delay8 /> just to say hi to all the fish!<delay frames="40" />
 <anim id="Scheming" target="actor" targetSpec="" /><size value="75" />They're gonna get so sick of seeing me<tag a="110" b="0" /><size value="100" /></message>
-	<message label="200_03" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Wow! <delay20 />I can't believe we've got our
-own <colour id="1" />museum<colour id="65535" /> now!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'm gonna go there every day. <delay20 />I'll
-be, like,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />the new fish welcoming
+	<message label="200_03" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Wow! <delay8 />I can't believe this island's
+got its own <colour id="1" />museum<colour id="65535" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I wonder if they're hiring. <delay20 />I could
+be, like,<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />the new-fish welcoming
 committee, <tag a="110" b="5" />!</message>
 </msbt>

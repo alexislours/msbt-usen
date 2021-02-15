@@ -321,11 +321,11 @@ some, thanks to their metallic luster.
 <anim id="Greeting" target="actor" targetSpec="" />In fact, some even think them to be
 good omens and bringers of
 favorable fortune.
-<anim id="Negative" target="actor" targetSpec="" />But I must protest!<delay20 /> These field-
-ravaging pests<delay20 /><anim id="Worried" target="actor" targetSpec="" /> love to burrow under
+<anim id="Angry" target="actor" targetSpec="" />But I must protest!<delay frames="40" /> <anim id="Confused" target="actor" targetSpec="" />These field-
+ravaging pests love to burrow under
 piles of dung and lay their eggs.
 <anim id="Serious" target="actor" targetSpec="" />They raise their young<delay20 /> under<delay20 />
-<anim id="Shocked" target="actor" targetSpec="" />DUNG!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Need I say more?<delay20 />
+<10_10 /><anim id="Surprised" target="actor" targetSpec="" />DUNG!<delay20 /><10_9 /><pageBreak /><anim id="Silent" target="actor" targetSpec="" />Need I say more?<delay frames="30" />
 <anim id="Shaking" target="actor" targetSpec="" /><size value="75" />Ick. I think not.<size value="100" /></message>
 	<message label="Insect_00615" attrib="00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Beware the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />horned atlas<colour id="65535" />!<delay frames="40" /> I tell you,<anim id="Worried" target="actor" targetSpec="" />
 this rhinoceros beetle is known for

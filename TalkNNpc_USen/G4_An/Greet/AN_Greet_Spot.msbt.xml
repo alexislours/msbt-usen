@@ -9,6 +9,9 @@ fish is so<tag a="110" b="0" /><delay20 />soothing, <tag a="110" b="5" />.<setNp
 	<message label="004" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Diggin' the fossils, <tag a="110" b="5" />?<delay20 />
 I love imagining what their world
 must've been like.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What's up? You checkin' out the art?
+<delay20 />'Cause if you're not, then, uh<tag a="110" b="0" /><delay20 /><anim id="Blushing" target="actor" targetSpec="" />wrong
+room, <tag a="110" b="5" />.</message>
 	<message label="006" attrib="00 00 0c 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />What's up, <tag a="110" b="3" />?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />You
 shop here too, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey there, <tag a="110" b="3" />!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />On

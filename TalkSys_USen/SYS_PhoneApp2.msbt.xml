@@ -22,7 +22,7 @@ Lemme tell you about me. <delay20 />I like it
 simple. <delay20 />Too many signals zippin'
 around makes things<tag a="110" b="0" />less simple.<pageBreak />If you really need help, <delay frames="30" />you gotta
 go choose <colour id="1" />Return to my island <colour id="65535" />on
-the <colour id="1" /> Button <colour id="65535" />menu, capice?<endTag a="100" b="5" /></message>
+the <colour id="1" /> Button <colour id="65535" />menu, capisce?<endTag a="100" b="5" /></message>
 	<message label="013" attrib="00 00 13"><tag a="100" b="5" />Stop. <delay20 />You ain't even outside,<delay20 /> are ya?<pageBreak />Here's the deal, pal. <delay20 />This service
 don't work if you're indoors.<pageBreak />It ain't rocket science. <delay20 />I can't come
 grab you if I got rafters and beams
@@ -53,7 +53,7 @@ called.<delay20 /> Hope you got that sorted<tag a="110" b="0" /><pageBreak />Fee
 	<message label="031_01" attrib="00 00 13"><tag a="100" b="5" />What, seriously?<endTag a="100" b="5" /></message>
 	<message label="031_02" attrib="00 00 13"><tag a="100" b="5" />Huh? <delay20 />No deal?<delay frames="40" /> Hey, listen<tag a="110" b="0" /><delay20 /> No one
 cares if you were short on miles
-before.<delay20 /> Not an issue—capice?<endTag a="100" b="5" /></message>
+before.<delay20 /> Not an issue—capisce?<endTag a="100" b="5" /></message>
 	<message label="032_01" attrib="00 00 13"><tag a="100" b="5" />If you're in a jam,<delay20 /> just say the word!<endTag a="100" b="5" /></message>
 	<message label="032_02" attrib="00 00 13"><tag a="100" b="5" />You really need help? <delay20 />Let's be
 clear<tag a="110" b="0" /><delay20 />I don't care if you got
@@ -127,6 +127,17 @@ drop you <colour id="1" />where the planes land<colour id="65535" />.<delay20 />
 That work for you?<endTag a="100" b="5" /></message>
 	<message label="048_a" attrib="00 00 13">Guess it'll have to!</message>
 	<message label="048_b" attrib="00 00 13">Cancel.</message>
+	<message label="049" attrib="02 00 13"><tag a="100" b="5" /><tag a="110" b="0" />Huh? Hey there, champ. Looks like
+you're on one of them <colour id="1" />May Day Tours
+<colour id="65535" /><colour id="3" />Tom Nook <colour id="65535" />set up.<pageBreak />And ya got yourself a Mayday-type
+situation!<delay20 /> Regs say I gotta reset and
+drop ya <colour id="1" />where the planes land<colour id="65535" /><tag a="110" b="0" /> OK?<endTag a="100" b="5" /></message>
+	<message label="049_a" attrib="00 00 13">Yes, please!</message>
+	<message label="049_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="049_01" attrib="00 00 13"><tag a="100" b="5" /><tag a="110" b="0" />Huh? Hey there, champ. Looks like
+you're on one of them <colour id="1" />May Day Tours
+<colour id="65535" /><colour id="3" />Tom Nook <colour id="65535" />set up.<pageBreak />Regs say I gotta reset and drop ya
+<colour id="1" />where the planes land<colour id="65535" />.<delay20 /> So buckle up!<endTag a="100" b="5" /></message>
 	<message label="050_01" attrib="00 00 13"><tag a="100" b="5" />Your tent? <delay20 />Sure thing.<endTag a="100" b="5" /></message>
 	<message label="050_02" attrib="00 00 13"><tag a="100" b="5" />Home sweet home? <delay20 />You got it, boss.<endTag a="100" b="5" /></message>
 	<message label="050_03" attrib="00 00 13"><tag a="100" b="5" />The plaza? <delay20 />No prob.<endTag a="100" b="5" /></message>

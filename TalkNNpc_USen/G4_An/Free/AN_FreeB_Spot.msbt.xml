@@ -100,7 +100,7 @@ before it's a full-on <colour id="1" />museum<colour id="65535" />,<20_2 arg="9"
 it'll happen, <tag a="110" b="5" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="FaintSmile" target="actor" targetSpec="" />I think they said they're gonna start
 working on a building once they get
 enough exhibits together.</message>
-	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6f 0x70 0x71 0x74" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x6f 0x70 0x71 0x72 0x74" /></message>
 	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Nodding" target="actor" targetSpec="" />You checking out <colour id="1" />Resident Services<colour id="65535" />?<delay20 />
 Everyone in there's ridiculously
 helpful, <tag a="110" b="5" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="QuestionMark" target="actor" targetSpec="" />Like, have you seen the zoning
@@ -129,6 +129,7 @@ wagon, <tag a="110" b="5" />?<20_3 arg="3" /></message>
 	<message label="111" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7700 0x7400 0xcd00" /></message>
 	<message label="112" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7801 0x7400 0xcd00" /></message>
 	<message label="113" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7902 0x7400 0xcd00" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7a03 0x7400 0xcd00" /></message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Tons to see, free admission, open
 24/7<tag a="110" b="0" /><delay20 /><20_2 arg="10" /><anim id="Love" target="actor" targetSpec="" /> Yeah, our <colour id="1" />museum<colour id="65535" /> rocks.<20_2 arg="9" /><pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Smiling" target="actor" targetSpec="" />Sometimes I'll go on a late-night
 stroll and wind up there, <delay20 />gawking
@@ -149,4 +150,9 @@ of by someone that knows what's up.</message>
 <tag a="50" b="2" /><tag a="135" b="13" arg="0x2" />
 with my own eyes.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Just looking at it sends my brain on
 a wild trip through time.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />So rad!</message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00">I'll admit I'm kinda clueless when it
+comes to high art,<delay20 /> <anim id="ShyBoy" target="actor" targetSpec="" />but I'm lovin' the
+stuff in the <colour id="1" />museum<colour id="65535" />.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />It's all so cool. <delay20 />Like, even the
+gallery itself gets my imagination
+cookin', <tag a="110" b="5" />!</message>
 </msbt>

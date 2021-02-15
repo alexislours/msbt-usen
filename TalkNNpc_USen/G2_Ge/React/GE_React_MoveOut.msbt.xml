@@ -3,14 +3,14 @@
 I'm glad you came to visit<tag a="110" b="0" /><delay40 />
 <anim id="FaintSmile" target="actor" targetSpec="" />I have something to say to you!
 <anim id="Greeting" target="actor" targetSpec="" />Thanks, like, sooo much for giving
-me advice yesterday.<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />It helped me
-decide to pack up!
+me advice.<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />It helped me decide to
+pack up!
 <anim id="Restless" target="actor" targetSpec="" />We'll be super far apart<tag a="110" b="0" /> But I'll
 always remember <tag a="110" b="3" />
 and my très superstar friend.</message>
-	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Heeey, <tag a="110" b="3" />!<delay40 />
-<anim id="EmotEnd" target="actor" targetSpec="" />Thanks for all your advice yesterday!
-<anim id="Nodding" target="actor" targetSpec="" />I've decided to move out, and<tag a="110" b="0" />
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Heeey, <tag a="110" b="3" />!<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />Thanks
+for all your advice! <anim id="Nodding" target="actor" targetSpec="" />I've decided
+to move out, and<tag a="110" b="0" />
 <anim id="Thinking" target="actor" targetSpec="" />I'm, like, low-key worried that
 everyone's going to suffer from
 <tag a="110" b="10" /> deficiency<tag a="110" b="0" />
@@ -18,8 +18,8 @@ everyone's going to suffer from
 <tag a="110" b="3" />?<delay40 /> <anim id="Greeting" target="actor" targetSpec="" />You'll take
 good care of everyone!</message>
 	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />THERE you are, <tag a="110" b="3" />!<delay40 />
-<anim id="Greeting" target="actor" targetSpec="" />Thanks for your advice yesterday.<delay40 />
-Kind of obvs, but I'm moving out!<pageBreak /><anim id="Love" target="actor" targetSpec="" />I owe you bunches, you know?
+<anim id="Greeting" target="actor" targetSpec="" />Thanks for your advice.<delay40 /> Kind
+of obvs, but I'm moving out!<pageBreak /><anim id="Love" target="actor" targetSpec="" />I owe you bunches, you know?
 I'm glad I got to see you one
 last time to say bye!</message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay40 />
@@ -59,6 +59,18 @@ to tell you bye, <tag a="110" b="6" />.</message>
 I'm heading out!<delay20 /> Moving away!<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I haven't decided where to move,
 though, so I guess I should get
 back to figuring that out. <delay40 />Bye!</message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />So, eh, it's nice to meet you.<delay40 /><anim id="FaintSmile" target="actor" targetSpec="" /> I'm
+<tag a="110" b="10" />.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Normally I'd say all that "let's get to
+know each other" stuff to you, but
+I'm actually about to move away.
+<anim id="OhGeez" target="actor" targetSpec="" />Guess I won't be lighting up
+<tag a="110" b="8" /> with my star
+power anymore.<delay frames="40" /> <anim id="SadSpiral" target="actor" targetSpec="" />Which is totes sad.<pageBreak />But, hey, <delay8 /><anim id="Nodding" target="actor" targetSpec="" />I'm sure everyone here
+would LOVE to teach you all about
+this awesome island.
+<anim id="Explain" target="actor" targetSpec="" />And don't worry, <tag a="110" b="5" />, <delay8 />it'll
+still be pretty awesome even when
+I'm not here. <delay20 /><anim id="Grin" target="actor" targetSpec="" />I mean, more or less.</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Thanks, <tag a="110" b="3" />!<delay40 />
 <anim id="AbsentMindedness" target="actor" targetSpec="" />I'm going to go wander the world
 and have some adventures!

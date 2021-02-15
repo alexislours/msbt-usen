@@ -114,7 +114,7 @@ local creatures and fossils in his tent.<delay frames="40" />
 <20_3 arg="6" /><20_3 arg="3" /><anim id="AbsentMindedness" target="actor" targetSpec="" />If all his research leads up to a real
 <colour id="1" />museum<colour id="65535" /> getting built,<delay20 /> <anim id="Frantic" target="actor" targetSpec="" />I can't wait to
 tour the exhibits,<delay20 /> <tag a="110" b="5" />!</message>
-	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6f 0x70 0x71 0x74" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x6f 0x70 0x71 0x72 0x74" /></message>
 	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Explain" target="actor" targetSpec="" />Our <colour id="1" />Resident Services<colour id="65535" /> works hard
 in the background to keep our island
 running smoothly,<delay20 /> <tag a="110" b="5" />.
@@ -166,4 +166,11 @@ the <colour id="1" />museum<colour id="65535" />,<delay20 /> <anim id="Hesitate"
 <tag a="135" b="13" arg="0x2" /> too?
 <anim id="OhGeez" target="actor" targetSpec="" />I can't help being awed by things
 that are awesome,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So, <tag a="110" b="3" />,<delay20 /> how are you
+liking the <colour id="1" />museum<colour id="65535" />'s art collection?<pageBreak /><anim id="Love" target="actor" targetSpec="" />My favorite piece is, without a doubt,
+the <tag a="135" b="13" arg="0x3" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />And seeing it in this context,<delay20 />
+surrounded by the spirit of so many
+great works of art<tag a="110" b="0" />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />It's as if I'm seeing the world<tag a="110" b="0" /><delay20 />and
+myself<delay20 /> from an entirely new angle.</message>
 </msbt>

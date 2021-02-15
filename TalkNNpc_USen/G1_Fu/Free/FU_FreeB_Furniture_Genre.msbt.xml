@@ -42,4 +42,19 @@ tasty.<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Mayb
 	<message label="016" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" />What a great spot to set up <delay20 /><tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" /><delay8 /><tag a="110" b="0" /><pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Nodding" target="actor" targetSpec="" />That's <tag a="110" b="8" /> thinking
 at its best!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" />There's something comforting about
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<delay frames="40" />
+<20_3 arg="6" /><20_3 arg="3" /><anim id="HappyFlower" target="actor" targetSpec="" />I feel all warm and fuzzy inside.</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" />Whoever thought of placing
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><delay8 />
+out here is so considerate!
+<20_3 arg="6" /><20_3 arg="3" />Now if we ever need to check our
+appearance when we're out and
+about,<delay8 /><anim id="HappyDance" target="actor" targetSpec="" /> we can do it right here.</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Thinking" target="actor" targetSpec="" />Does it strike you as odd<delay8 /> to see
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
+sitting out here<delay8 /> without explanation?
+<20_3 arg="6" /><20_3 arg="3" /><anim id="AbsentMindedness" target="actor" targetSpec="" />If we were in a children's book,<delay8 />
+it would be a portal to a parallel
+universe!<delay40 /><anim id="Blushing" target="actor" targetSpec="" /> But it's still worth a try<tag a="110" b="0" /></message>
 </msbt>

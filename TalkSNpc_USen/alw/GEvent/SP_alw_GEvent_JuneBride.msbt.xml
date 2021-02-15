@@ -1,0 +1,390 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hello there! <delay20 />It's so nice to meet you.
+<delay20 /><anim id="Hello" target="actor" targetSpec="" />I'm <colour id="3" />Reese<colour id="65535" />, and I'm just pleased as
+punch that you're helping us out!</message>
+	<message label="002" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><20_0 arg="N0&gt;N1" />And this is my hubby, my darling<tag a="110" b="0" /></message>
+	<message label="003" attrib="00 00 00 00"><20_0 arg="P0&gt;N1" /><anim id="Greeting" target="actor" targetSpec="" />The name's <colour id="3" />Cyrus<colour id="65535" />! <delay20 />Good to meetcha!</message>
+	<message label="004" attrib="00 00 00 00"><20_0 arg="P0&gt;N0" /><20_3 arg="0" /><anim id="HappyDance" target="actor" targetSpec="" />I just know these photos are going
+to be SO romantic<tag a="110" b="0" />and just in time
+for our anniversary.</message>
+	<message label="005" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />I'm just pleased as punch
+that you'll be helping us
+out, <tag a="110" b="1" />!</message>
+	<message label="006" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Of course, we do this every year
+for our anniversary, but it's always
+special, isn't it?<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />It's just like<tag a="110" b="0" />a slice of life from
+that year.<delay20 /> <20_0 arg="N0&gt;N1" />A delicious slice<tag a="110" b="0" />almost
+as sweet as our love<tag a="110" b="0" /><delay frames="40" /><anim id="Hello" target="actor" targetSpec="" /><20_0 arg="N1&gt;N0" /> Right, hon?<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />That's right! Sweeter than the
+sweetest <tag a="135" b="7" arg="0xcd00" /><tag a="110" b="0" /></message>
+	<message label="008" attrib="00 00 00 00"><tag a="10" b="6" />Oh, you!<delay20 /> Such a romantic<tag a="110" b="0" /><delay frames="80" /><endTag a="10" b="6" />
+<anim id="Shocked" target="actor" targetSpec="" />OH!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> <20_3 arg="0" /><anim id="Hesitate" target="actor" targetSpec="" />Sorry, I forgot what we were
+doing for a second there.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />We just get so lost in our own little
+world sometimes<tag a="110" b="0" /> Anyhoo!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />So here's what we're thinking for
+this year's photo sets. <10_4 /><anim id="HappyFlower" target="actor" targetSpec="" />A re-creation
+of our entire wedding day!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />And you can help us by making this
+place feel like we're saying "I do"
+all over again.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />It'll be just like decorating your
+own place! <delay20 />Easy peasy.</message>
+	<message label="010_01" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh! <delay20 />I almost forgot. <delay20 /><anim id="HappyDance" target="actor" targetSpec="" />My amazing
+<colour id="3" />Cy-Guy <colour id="65535" />even built some custom
+<colour id="1" />wedding furniture <colour id="65535" />for the shoot.<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="010_02" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Isn't that so sweet of my shmoopy?<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />He really put his heart into 'em, so I
+hope you can make them work.</message>
+	<message label="010_03" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Just open up the <colour id="1" />Event <colour id="65535" />tab to
+take a look and grab what you
+want for the shoot, OK?</message>
+	<message label="011" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What we're looking for is a cute set
+with plenty of <colour id="1" />pink<colour id="65535" /> and <colour id="1" />white<colour id="65535" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Preferably using lots of the furniture
+my <colour id="3" />Cy-Guy<colour id="65535" /> made!</message>
+	<message label="012" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Just let us know when you're ready
+for us to start posing.<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> I can't wait to
+see what you come up with!</message>
+	<message label="013" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />When you're all done with the set
+and we've got a few photos in the
+can, come talk to me, OK? <10_4 /><anim id="Greeting" target="actor" targetSpec="" />Thanks!</message>
+	<message label="014" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Aww, thanks so much for coming
+back to work with us on another
+set of photos, <tag a="110" b="1" />.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />I can't wait to see how these ones
+turn out!</message>
+	<message label="015_01" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />So, today I'm thinking we should
+take a <colour id="1" />ceremony<colour id="65535" /> photo<tag a="110" b="0" />in a place
+that looks like a wedding chapel.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />It'll be just like our real ceremony.<delay frames="40" />
+<anim id="Love" target="actor" targetSpec="" />Professing our love for each other
+in front of everyone<tag a="110" b="0" /> <10_4 /><anim id="Hello" target="actor" targetSpec="" />So romantic!</message>
+	<message label="015_02" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />So, we've already done the ceremony
+photos<tag a="110" b="0" /><delay frames="40" /> <anim id="IdeaBulb" target="actor" targetSpec="" />I think it would be fun to
+recreate the <colour id="1" />reception<colour id="65535" /> this time!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Oh, we had such a big, fancy party,
+didn't we? <delay frames="40" /><anim id="Love" target="actor" targetSpec="" />So much good food, and
+all of our family and friends<tag a="110" b="0" /></message>
+	<message label="016" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, and by the way, my handy-dandy
+<colour id="3" />Cy-Guy<colour id="65535" /> made some NEW furniture!<delay20 />
+<anim id="Blushing" target="actor" targetSpec="" />Isn't he the best?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Anyway, now you have even more to
+work with. <delay20 />Just take a look at the
+<colour id="1" />Event <colour id="65535" />tab again.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I can't wait to see what you
+come up with!</message>
+	<message label="016_pl" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, and by the way, my handy-dandy
+<colour id="3" />Cy-Guy<colour id="65535" /> made some NEW furniture!<delay20 />
+<anim id="Blushing" target="actor" targetSpec="" />Isn't he the best?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Anyway, now you have even more to
+work with. <delay20 />Just take a look at the
+<colour id="1" />Event <colour id="65535" />tab again.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I can't wait to see what you
+come up with!</message>
+	<message label="017" attrib="01 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Oh, <tag a="110" b="1" />! <delay20 />I'm so glad
+to see you're back for another shoot.<delay20 />
+<anim id="Grin" target="actor" targetSpec="" />I've got something fun in mind!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Everything has been just lovely so
+far, but it's also been a bit lonely.<delay20 />
+<anim id="Shocked" target="actor" targetSpec="" />What a difference one letter makes!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Anyway, I was thinking it would be
+great fun<tag a="110" b="0" /><delay frames="40" /><anim id="IdeaBulb" target="actor" targetSpec="" />to actually build the shoot
+around a real <colour id="1" />reception-style party<colour id="65535" />!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />So, if you wouldn't mind<tag a="110" b="0" /><delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />Work your
+magic in here, and then we'll invite
+all of <tag a="110" b="9" /> to join us!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />What do you think? <delay20 />Are you
+up for it?</message>
+	<message label="017_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sounds like fun!</message>
+	<message label="017_b" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's do it.</message>
+	<message label="018" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />You'll do it?<delay20 /> Oh, that's so fun!<delay20 />
+What a good sport! <delay20 /><20_2 arg="5" /><20_2 arg="7" /><anim id="Hello" target="actor" targetSpec="" />Isn't this
+going to be incredible, darling?<pageBreak /><20_3 arg="6" /><20_2 arg="8" /><anim id="FaintSmile" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />And we can help out too.<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />You just
+do your thing with the set, and we'll
+take care of the invites, OK?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Then, when everyone's here and
+everything is in place,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />would you
+mind staging the scene?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Just open the <colour id="1" />Residents <colour id="65535" />tab, and you
+can place folks wherever you like.</message>
+	<message label="019" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />When you've got the set just the
+way you want it, we can get the
+party started.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Just come talk to me, or press <colour id="1" /><colour id="65535" />
+when you're ready.</message>
+	<message label="020" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, hello! <delay20 />Wasn't that party just
+the MOST fun? <delay20 /><anim id="Love" target="actor" targetSpec="" />I can't thank you
+enough for everything!</message>
+	<message label="020_01" attrib="00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Noticing that things look a little
+different in here today? <delay20 />Hee-hee!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Well, I thought you did a great job
+with the cute theme we had going.<delay frames="40" />
+<anim id="HappyFlower" target="actor" targetSpec="" />And now it's time for something new!</message>
+	<message label="020_02" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Well, are you ready for another
+shoot? We sure are!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />We've been getting great stuff so
+far, so just keep doing what you do!</message>
+	<message label="021" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I've heard you're already a wiz at
+customization,<delay20 /> <anim id="Pardon" target="actor" targetSpec="" />but did you know
+that you can modify wedding items?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Even just changing the color can
+completely change how an item
+feels on the set.<delay frames="40" /> <anim id="Clapping" target="actor" targetSpec="" />It's so much fun!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />So, anyway<tag a="110" b="0" /> I was thinking that you
+could make a new set for us today
+using some custom colors.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />To start customizing in the studio,
+just line the cursor up with an item
+and press <colour id="1" /><colour id="65535" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />When you're done customizing, you
+can just build out the set the same
+way you've been doing it.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />And as for today's theme<tag a="110" b="0" /></message>
+	<message label="022" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey! <delay20 />So glad to see you again.<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />Are you ready to work on another
+fun set for us?</message>
+	<message label="022_02" attrib="00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />And as for today's theme<tag a="110" b="0" /></message>
+	<message label="023" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey! <delay20 />So glad to see you again.<delay20 /><anim id="Hello" target="actor" targetSpec="" />
+Are you ready to work on another
+fun set for us?<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I have to say, I'm afraid I don't have
+any more special rewards<tag a="110" b="0" />other
+than my gratitude.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />But <colour id="3" />Cy<colour id="65535" /> and I would simply love it
+if you're still willing to help!</message>
+	<message label="023_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'm in!</message>
+	<message label="023_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I can't right now.</message>
+	<message label="024" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Aw, I understand. <delay20 />You've already
+done so much. <10_4 /><anim id="Greeting" target="actor" targetSpec="" />Well, come on back
+another day if you feel like it!</message>
+	<message label="024_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Aw, I understand. <delay20 />You've already
+done so much. <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />We can't thank
+you enough!</message>
+	<message label="025" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ooh, I was hoping you'd say that!<10_4 />
+<anim id="WrySmile" target="actor" targetSpec="" />In that case, let's talk themes<tag a="110" b="0" /></message>
+	<message label="025_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ooh, I was hoping you'd say that!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />So, we're still looking for something
+really <colour id="1" />cute<colour id="65535" />, with splashes of <colour id="1" />pink<colour id="65535" />
+and <colour id="1" />white <colour id="65535" />everywhere.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />Let's talk again after the photo
+session, OK?</message>
+	<message label="026" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Got all that? <delay20 />I hope I don't seem
+too particular<tag a="110" b="0" /><delay20 /><anim id="Hesitate" target="actor" targetSpec="" />it's just that we want
+everything to be exactly perfect!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Not that our actual wedding wasn't
+perfect, but<tag a="110" b="0" />when you get a chance
+like this, you want to do it right!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Oh, and like always, we'll need your
+artistic touch behind the lens of the
+camera too.</message>
+	<message label="027" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I'm gonna miss this darling set
+we've been shooting on, but we'll
+need to clear it out for the next one.</message>
+	<message label="030" attrib="02 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Ooh, it's coming along<tag a="110" b="0" /><delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Does this
+mean you're ready for us to
+start the photo session?</message>
+	<message label="030_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's tie the knot!</message>
+	<message label="030_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Knot quite yet.</message>
+	<message label="031_01" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Yay! This is so exciting!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Um, but before we get started, I do
+have another teensy request<tag a="110" b="0" /><10_4 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Will you be our photographer?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Don't get me wrong—<colour id="3" />Harvey <colour id="65535" />is great!<delay frames="40" />
+<anim id="Explain" target="actor" targetSpec="" />It's just<tag a="110" b="0" />this lovely set is your
+vision, and I want YOU to realize it.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />So, when you're ready, just press
+<colour id="1" /> <colour id="65535" />to launch the Camera app, and
+then press <colour id="1" /><colour id="65535" /> to take a picture.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />If you find yourself in the frame and
+you don't want to be, press <colour id="1" /> <colour id="65535" />to
+change what's shown in the frame.<pageBreak /><anim id="Aha" target="actor" targetSpec="" />OK!<delay20 /> I know we're asking a lot, but
+I also know you've got this.<delay20 /> <anim id="HappyFlower" target="actor" targetSpec="" />I can't
+wait to see what you come up with!</message>
+	<message label="031_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Once everything is ready, would you
+mind being our photographer again?<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />You did such a nice job before!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Just press <colour id="1" /> <colour id="65535" />to open up the Camera
+app within the studio, and then press
+<colour id="1" /> <colour id="65535" />to take photos, remember?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Thanks again for all your hard work!<delay20 />
+I can't wait to see how these are
+going to turn out!</message>
+	<message label="032" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />No problem. <delay20 />Keep up the good work!</message>
+	<message label="033" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, that last one seemed nice!<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Mind if I take a quick peek?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Did you take more than one?<delay20 />
+I'll just look at the last one, if
+that's OK.</message>
+	<message label="033_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Go ahead!</message>
+	<message label="033_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Let me take another.</message>
+	<message label="034" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Great! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Now, let's see<tag a="110" b="0" /></message>
+	<message label="036_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Remember, when you're ready to
+start shooting, press <colour id="1" /> <colour id="65535" />to open the
+Camera app, and <colour id="1" /> <colour id="65535" />to take pictures.</message>
+	<message label="036_02" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />If you're having a hard time staying
+out of the frame, press <colour id="1" /> <colour id="65535" />to swap
+the display.</message>
+	<message label="036_03" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />The lighting and composition are
+all up to you. <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />Show us your full
+artistic vision!</message>
+	<message label="037_01" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Not sure how to get started?<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Press <colour id="1" /> <colour id="65535" />to begin working on your
+set design and arranging furniture.</message>
+	<message label="037_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If you're feeling inspired to use some
+of your own props, please do so!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I think my darling <colour id="3" />Cy-Guy<colour id="65535" />'s stuff is
+pretty great, but I'd love to see what
+you come up with!</message>
+	<message label="037_03" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Thinking of using some custom
+pieces?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Line up your cursor with
+the item, and then press <colour id="1" /><colour id="65535" />.</message>
+	<message label="038_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Today I'm looking for a photo set
+that feels like a real ceremony inside
+a wedding chapel!</message>
+	<message label="038_02" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Today I'm looking for a photo set
+that feels like the big, fun reception
+after a perfect wedding!</message>
+	<message label="038_03" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />If I were planning our wedding
+reception all over again<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'd find a place with room for all
+kinds of fancy decorations<tag a="110" b="0" />and
+tables piled high with delicious food!<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> And a wedding cake is an
+absolute must. <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />Everyone gets a
+slice<tag a="110" b="0" />or two!</message>
+	<message label="038_04" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />We'd be a pack of happy alpacas if
+you made us a <colour id="1" />cute<colour id="65535" /> set with plenty
+of <colour id="1" />white<colour id="65535" /> and <colour id="1" />pink <colour id="65535" />accents!</message>
+	<message label="038_05" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm thinking of something <colour id="1" />chic<colour id="65535" />.<delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" />You know<tag a="110" b="0" />calm and refined.<delay20 /> With
+<colour id="1" />brown<colour id="65535" />, <colour id="1" />beige<colour id="65535" />,<colour id="1" /> <colour id="65535" />or <colour id="1" />black<colour id="65535" /> accents.</message>
+	<message label="038_06" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I want to get a photo in a <colour id="1" />garden<colour id="65535" />
+setting<tag a="110" b="0" /><delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />with vibrant natural colors
+like <colour id="1" />green<colour id="65535" />, <colour id="1" />yellow<colour id="65535" />, and <colour id="1" />brown<colour id="65535" />!</message>
+	<message label="041" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /><delay20 /> It's good, but it's not quite
+what I was expecting.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />But that's OK! <delay20 />Thanks for sharing
+your artistic vision with us!</message>
+	<message label="042" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />What a lovely photo!<delay20 /> It really
+captures the feel we were looking
+for, and it's so sweet of you to help.</message>
+	<message label="043" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Oh.<delay frames="40" /> My. <delay frames="40" /><anim id="Love" target="actor" targetSpec="" />Goodness!<delay20 /> It's everything
+I could have wanted!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />You've somehow captured all the
+joy and love that my darling and I
+share in one amazing photo. <delay20 />I love it!</message>
+	<message label="044" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />If I could offer just one tiny bit
+of constructive criticism<tag a="110" b="0" /><delay20 /><anim id="Silent" target="actor" targetSpec="" />it felt
+a bit plain for a wedding set.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />But that's so easy to fix!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Just adding
+<colour id="1" />more furniture <colour id="65535" />to the scene would
+make it much fancier and more fun.</message>
+	<message label="045" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />If there was one tiny thing I could
+change about it<tag a="110" b="0" /><delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />I'd try to <colour id="1" />match
+up the colors <colour id="65535" />a little better.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Just adding a few more splashes of
+the colors I mentioned before would
+do the trick, I think.</message>
+	<message label="046" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I do have just one helpful note for
+you<tag a="110" b="0" /><delay20 /> <anim id="Negative" target="actor" targetSpec="" />Some of the furniture could
+have matched the theme a bit better.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Maybe if you had used themed
+furniture, or <colour id="1" />customized the color
+<colour id="65535" />of <colour id="3" />Cy-Guy<colour id="65535" />'s furniture to match<tag a="110" b="0" /></message>
+	<message label="050" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Anyway, I have a little something to
+show our appreciation. <delay20 />I hope you
+like it!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />My <colour id="3" />Cy-Guy<colour id="65535" /> made it just for you<tag a="110" b="0" /><delay20 /> It's
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
+	<message label="051" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh! <delay20 />But you don't have any room to
+take it with you right now, do you?<delay frames="40" />
+<anim id="OhGeez" target="actor" targetSpec="" />Well. <delay20 />I'll mail it to you first class.</message>
+	<message label="052" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Aaaand<tag a="110" b="0" /><delay20 />because I'm just full
+of surprises, I also have some
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />heart crystals<colour id="65535" /> for you!</message>
+	<message label="053" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />They're so cute that I just hate to
+give them away, but my <colour id="3" />Cy-Guy<colour id="65535" /> likes
+'em too. He'll trade you for furniture!</message>
+	<message label="054" attrib="00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Ooh, but you don't have any room
+for those either. <delay20 />How frustrating!<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />Well, I'll pack those in with your gift.</message>
+	<message label="055" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Now, I can't let you leave without a
+reward. <delay20 />Treat yourself to something
+nice with these <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />heart crystals<colour id="65535" />!</message>
+	<message label="056" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Once again, thank you so much for
+everything. <delay20 />You helped us make a
+wonderful new memory!</message>
+	<message label="057" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You know, this was so fun<tag a="110" b="0" /><delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Would
+you be interested in helping us out
+again tomorrow?<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />We have the studio space rented for
+the entire month! <delay frames="40" /><anim id="AbsentMindedness" target="actor" targetSpec="" />Just think of all
+the different themes we could try<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well, no pressure, darling. <delay20 />But I do
+hope you'll consider it. <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Thanks again!</message>
+	<message label="058" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, that was so much fun, and
+we made another great photo.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />I hope you'll come back tomorrow
+for another shoot!</message>
+	<message label="059" attrib="00 00 00 00">I already stashed your reward with
+your other stuff, so you're all set!</message>
+	<message label="060" attrib="00 00 00 00">I already put those with your other
+stuff too.<delay20 /> Hee-hee! <delay20 />I've got a few
+tricks up my sleeve.</message>
+	<message label="070" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are we ready to get started?</message>
+	<message label="070_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sure!</message>
+	<message label="070_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not quite yet.</message>
+	<message label="071" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Yay!<delay20 /> Here we go<tag a="110" b="0" /><delay20 /></message>
+	<message label="072" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hmm, we can't have a party without
+guests<tag a="110" b="0" /> <delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />That would be something
+else entirely!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Why don't you call them up on the
+<colour id="1" />Residents <colour id="65535" />tab and help them all
+get settled, OK?</message>
+	<message label="073" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Since we've already got company,<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />
+should we go ahead and throw
+another party?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Just press <colour id="1" /> <colour id="65535" />if you think it's a good
+idea. <delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" /><colour id="4" />A party is ALWAYS a good
+idea, if you ask me<tag a="110" b="0" /><colour id="65535" /></message>
+	<message label="074" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Would you be a dear and wake my
+silly sleeping <colour id="3" />Cy-Guy <colour id="65535" />before we start
+the party?</message>
+	<message label="080" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hello, everyone!</message>
+	<message label="081" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I know you're all so, so hard at work
+back home, so I truly appreciate all
+of you taking the time to join us.</message>
+	<message label="082" attrib="00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Today we're celebrating the love that
+my <colour id="3" />Cy-Guy<colour id="65535" /> and I share all over again!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Now, I wish you all could have
+celebrated with us the first time, but
+I have to say<tag a="110" b="0" /><delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />this is just as good!<pageBreak /><anim id="Love" target="actor" targetSpec="" />It makes me so happy to have all of
+you join us in this wonderful setting
+that <tag a="110" b="1" /> worked on.<pageBreak /><anim id="Crying" target="actor" targetSpec="" />Oh, I better stop before I get all
+weepy. <10_4 /><anim id="HappyDance" target="actor" targetSpec="" />Let's just all let down our
+hair and have a good time!</message>
+	<message label="083" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Now<tag a="110" b="0" /><delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />does everyone have a
+party popper?</message>
+	<message label="084" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />It's time to fire 'em off.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Let's party!
+In three,<delay20 /> two,<delay20 /> one<tag a="110" b="0" /><delay20 /></message>
+	<message label="085" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Whee! <delay20 />That was great!<delay20 /> Let's keep
+the party going, everyone!</message>
+	<message label="090" attrib="02 00 00 00">Do you think we should wrap up
+the party?</message>
+	<message label="090_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's wrap it up.</message>
+	<message label="090_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Let's keep partying!</message>
+	<message label="091" attrib="02 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, do you need to head out?<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />I just wanted to wrap things up
+here first if so.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />So, shall I go ahead and do that?<delay20 />
+Or do you want to keep going?</message>
+	<message label="091_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's wrap it up.</message>
+	<message label="091_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Let's keep partying!</message>
+	<message label="092" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />This is so much fun, don't you think?<delay20 />
+I feel like my <colour id="3" />Cy-Guy<colour id="65535" /> and I are newly
+married all over again!
+<anim id="OhGeez" target="actor" targetSpec="" />Oh, I know it can't go on forever,
+of course. <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />Would you mind coming
+to see me when you're ready to go?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />No rush, no rush. <delay20 />Enjoy yourself
+for as long as you want!</message>
+	<message label="093" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I think you're right. <delay20 />Fun is fun, but
+knowing when to call it a day is
+important too.</message>
+	<message label="094" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />That's the spirit!<delay20 /> We don't do this
+EVERY day, so let's make the most
+of it, right?</message>
+	<message label="100" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh, that was just wonderful, wasn't
+it? <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Thank you, <tag a="110" b="1" />!</message>
+	<message label="101" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />We have one more teensy thing for
+you<tag a="110" b="0" /><delay20 /> <anim id="Hesitate" target="actor" targetSpec="" />It's nothing much, but I do
+hope you like it.</message>
+	<message label="102_01" attrib="00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Please accept this with all of our
+love<tag a="110" b="0" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> It's a commemorative
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Reese &amp; Cyrus photo plate<colour id="65535" />!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="102_02" attrib="00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Please accept this with all of our
+love<tag a="110" b="0" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> It's a commemorative
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Reese &amp; Cyrus photo plate<colour id="65535" />!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Oh, but you don't have room to take
+it with you right now. <delay20 /><anim id="Hello" target="actor" targetSpec="" />That's OK—I'll
+make sure it gets to you.</message>
+	<message label="103" attrib="00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />I know it's a bit sentimental, but<tag a="110" b="0" /><delay20 />
+<anim id="HappyFlower" target="actor" targetSpec="" />we just wanted a way to share our
+happiness with you.<pageBreak /><20_1 arg="N0&gt;N1" /><anim id="BigSmile" target="subNpc" targetSpec="" />Isn't that right, <delay20 /><20_1 arg="N1&gt;N0" />darling?</message>
+	<message label="104" attrib="00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />Got that right!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> So long as you got
+that pretty li'l plate, you'll be as
+happy as me an' <colour id="3" />Reese<colour id="65535" /> here, squirt.</message>
+	<message label="105" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes! <delay20 />It's true! <delay frames="40" /><anim id="AbsentMindedness" target="actor" targetSpec="" />I mean, it's true if
+you believe in it, I think.</message>
+	<message label="106" attrib="00 00 00 00"><20_1 arg="N1&gt;N2" /><20_1 arg="N2&gt;N0" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />And we haven't forgotten about
+you, <colour id="3" />Harvey<colour id="65535" />! <delay20 />Thank you so much
+for the use of your studio.<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Nodding" target="actor" targetSpec="" />We've got a special photo plate
+for you as well.<delay20 /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" /> It'll be ready for
+you soon!</message>
+	<message label="107" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Gee, uh<tag a="110" b="0" />thanks?<10_4 />
+<anim id="Pardon" target="actor" targetSpec="" /><colour id="4" />Play it cool, Harv<tag a="110" b="0" /> Smile and nod<tag a="110" b="0" />
+and we'll hide it in a drawer later<tag a="110" b="0" /><colour id="65535" /></message>
+	<message label="108" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, that's it for now. <delay20 />Of course,
+we'll be here all month,<delay20 /> <anim id="Hello" target="actor" targetSpec="" />so we'd love
+to have your help again tomorrow!</message>
+	<message label="109" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> Today is the last day of June,
+which means<tag a="110" b="0" /><delay20 /><anim id="OhGeez" target="actor" targetSpec="" />our time here has
+come to an end. <10_4 /><anim id="Hesitate" target="actor" targetSpec="" />We'll miss you!</message>
+	<message label="110" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />I really can't thank you enough for
+all of your help, <tag a="110" b="1" />.<delay20 />
+You've been wonderful!</message>
+	<message label="cute" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I want to take a picture in a <colour id="1" />cute<colour id="65535" /> set!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Think<tag a="110" b="0" />the most adorable scene ever,<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />surrounded by <colour id="1" />pink<colour id="65535" /> and <colour id="1" />white<colour id="65535" />.<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> I'd
+be tickled pink<tag a="110" b="0" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" />and white! <delay20 />Hee-hee!</message>
+	<message label="chic" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I want to take a picture in a <colour id="1" />chic <colour id="65535" />set.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />You know<tag a="110" b="0" />big-city sophistication,
+subtle hues of <colour id="1" />brown<colour id="65535" />, <colour id="1" />beige<colour id="65535" />, and
+<colour id="1" />black<colour id="65535" /><tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Got it?</message>
+	<message label="garden" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />I want to take a picture in a <colour id="1" />garden<colour id="65535" />-
+themed set, surrounded by nature<tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />It should be filled with gentle,
+natural colors like <colour id="1" />green<colour id="65535" />, <colour id="1" />yellow<colour id="65535" />,
+and <colour id="1" />brown<colour id="65535" />. <delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" />I can see it now<tag a="110" b="0" /></message>
+</msbt>

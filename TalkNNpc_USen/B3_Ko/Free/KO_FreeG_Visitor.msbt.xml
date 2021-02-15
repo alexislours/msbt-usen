@@ -5,7 +5,7 @@ here on <tag a="110" b="8" />?</message>
 	<message label="001_a" attrib="04 00 00 00 00 00 00 00">I do!</message>
 	<message label="001_b" attrib="05 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Sorry, no.</message>
 	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
-	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x1 0x10 0x11 0x12" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x1 0x10 0x11 0x14" /></message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Is that right?<delay20 /> <tag a="50" b="3" /><tag a="110" b="7" arg="0xcd01" />?<delay20 /> <anim id="Grin" target="actor" targetSpec="" />Well,
 I shoulda known that you'd know.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Well,<delay20 /> lemme know how they taste
 if you end up trying one, OK?</message>
@@ -36,18 +36,25 @@ a proper attraction,<delay20 /> <tag a="110" b="5" />.
 when we do<delay8 /><tag a="110" b="0" /> Just to prove me
 right!<delay frames="30" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x15 0x16 0x17 0x18 0x19" /></message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, you heard the news?<10_4 /> <anim id="Cheering" target="actor" targetSpec="" />Sounds
+like our local <colour id="1" />museum <colour id="65535" />has a space
+dedicated to fancy art now.
+<anim id="Explain" target="actor" targetSpec="" />You know, the real highbrow stuff.<delay20 />
+Entire white canvases with one blue
+dot, stuff like that.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!<delay frames="40" /> I'm just kiddin'. <delay20 /><anim id="Grin" target="actor" targetSpec="" />That's real
+art, and I'm not sayin' that just
+because I paint blue dots myself.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="4" arg="0x15 0x16 0x17 0x18 0x19 0x12" /></message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
 	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
 	<message label="024" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1f03 0x1900 0xcd00" /></message>
-	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Can't say I know much about art<delay8 /><tag a="110" b="0" />
-<anim id="EmotEnd" target="actor" targetSpec="" />But I like that there's some in the
-<anim id="Nodding" target="actor" targetSpec="" /><colour id="1" />museum<colour id="65535" /> here for me to gawk at.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I just kinda stand there for a bit
-starin' at each piece,<delay20 /> <anim id="Serious" target="actor" targetSpec="" />tryin' to look
-real thoughtful-like,<delay20 /> <tag a="110" b="5" />.
-<anim id="Explain" target="actor" targetSpec="" />Now and then I might throw in
-a "hmmm" or maybe an "I see!"<delay frames="30" />
-<anim id="Thinking" target="actor" targetSpec="" />Wonder if everyone's fakin' it<delay8 /><tag a="110" b="0" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />I gotta say<tag a="110" b="0" />the <colour id="1" />museum <colour id="65535" />here in
+<tag a="110" b="8" /> sure is fancy.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I mean, I don't know one fancy thing
+from another, but even I can see it's
+a real classy joint. <delay frames="40" /><anim id="Pardon" target="actor" targetSpec="" />Plain as day!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Anyhow, if you ain't been in there
+yet, you gotta go see it with your
+own two eyes, <tag a="110" b="5" />!</message>
 	<message label="028" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />I'd just as soon eat a fish as look
 at one, but the fish exhibit in our
 <colour id="1" />museum<colour id="65535" /> ain't half bad, kiddo.
@@ -70,6 +77,11 @@ fossils there<tag a="110" b="0" /> Reckon my favorite
 is the <tag a="135" b="13" arg="0x2" />.<delay20 />
 <anim id="BigSmile" target="actor" targetSpec="" />Yep, compared to that thing,
 I'm a real spring chicken!</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You know what's easy on the eyes?<10_4 />
+<anim id="HappyFlower" target="actor" targetSpec="" />Lookin' at this <colour id="1" />museum<colour id="65535" />'s fancy
+<tag a="135" b="13" arg="0x3" />.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />Didn't know I was a connoisseur,
+didja, kiddo?<delay frames="40" /> Or that I knew the
+word connoisseur?<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> Gahaha!</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xca 0xcd" /></message>
 	<message label="202" attrib="00 00 02 00 00 00 00 00">Got a question for you, kiddo.<delay20 />
 <anim id="QuestionMark" target="actor" targetSpec="" />Do you miss havin' me around

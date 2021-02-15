@@ -20,9 +20,9 @@ this so I don't wreck it<tag a="110" b="0" /></message>
 	<message label="015" attrib="00 00 00 00"><tag a="110" b="0" />Hey, <colour id="3" />Mabes<colour id="65535" />,<delay20 /> could you help this
 customer, please?</message>
 	<message label="016" attrib="00 00 00 00"><tag a="110" b="0" /></message>
-	<message label="017" attrib="00 00 00 00">Oh! <20_2 arg="8" />Hey, sorry about that!<delay20 />
-<20_2 arg="4" /><anim id="Worried" target="subNpc" targetSpec="" />When Sable's really focused, she
-gets a little,<delay20 /> y'know,<delay20 /> prickly.</message>
+	<message label="017" attrib="00 00 00 00">Oh! <20_2 arg="8" />Hey, sorry about that!<delay20 /> <20_2 arg="4" /><anim id="Worried" target="subNpc" targetSpec="" />When
+<colour id="3" />Sable<colour id="65535" />'s really focused, she gets
+a little,<delay20 /> y'know,<delay20 /> prickly.</message>
 	<message label="018" attrib="00 00 00 00">No talking—only sewing.</message>
 	<message label="019" attrib="00 00 00 00"><20_2 arg="8" /><anim id="Shocked" target="subNpc" targetSpec="" />Oh, whoops!<delay20 /><20_2 arg="4" /><anim id="Smiling" target="subNpc" targetSpec="" /> I'm happy to help you
 with whatever you need. <delay20 />Just step
@@ -45,7 +45,7 @@ over here!</message>
 right?</message>
 	<message label="031" attrib="00 00 00 00"><20_2 arg="7" /><anim id="Shocked" target="actor" targetSpec="" />Wait, what just happened?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I don't think I've ever heard you call
 a customer by name before, Sis!</message>
-	<message label="032" attrib="00 00 00 00"><20_2 arg="5" /><anim id="Serious" target="actor" targetSpec="" /><size value="75" />Hush, <colour id="3" />Mabel<colour id="65535" />! <delay frames="40" />You know this is hard for me.<size value="100" /><pageBreak /><20_2 arg="6" /><anim id="EmotEnd" target="actor" targetSpec="" />Anyway, I'm Sable.<delay frames="40" /> I figured it was
+	<message label="032" attrib="00 00 00 00"><20_2 arg="5" /><anim id="Serious" target="actor" targetSpec="" /><size value="75" />Hush, <colour id="3" />Mabel<colour id="65535" />! <delay frames="40" />You know this is hard for me.<size value="100" /><pageBreak /><20_2 arg="6" /><anim id="EmotEnd" target="actor" targetSpec="" />Anyway, I'm <colour id="3" />Sable<colour id="65535" />.<delay frames="40" /> I figured it was
 time we were introduced properly.<delay frames="40" />
 <anim id="Worried" target="actor" targetSpec="" />Y-you can go back to shopping now<tag a="110" b="0" /></message>
 	<message label="035" attrib="00 00 00 00">Sorry we can't offer you a cup of tea
@@ -198,7 +198,7 @@ of good memories.</message>
 	<message label="081" attrib="00 00 00 00"><20_2 arg="8" />I was pretty young<20_2 arg="2" /> when they
 died,<delay20 /> so I don't remember them
 all that well<tag a="110" b="0" />
-<anim id="Smiling" target="actor" targetSpec="" /><20_2 arg="7" />What I do remember is Sable doing
+<anim id="Smiling" target="actor" targetSpec="" /><20_2 arg="7" />What I do remember is <colour id="1" />Sable<colour id="65535" /> doing
 her best to raise me all on her own.<delay20 />
 Thanks, Sis. <10_4 /><anim id="Serious" target="actor" targetSpec="" />Sorry I was such a pain.</message>
 	<message label="082" attrib="00 00 00 00"><20_2 arg="3" /><anim id="Shocked" target="actor" targetSpec="" />Are you feeling OK, <colour id="3" />Mabes<colour id="65535" />? <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />What
@@ -214,7 +214,7 @@ need to treat you like one.
 And<tag a="110" b="0" /><delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />I'm really proud of you, <colour id="3" />Mabes<colour id="65535" />.
 You're a lot of things I could never
 be, little sister.
-I took care of you and Label when
+I took care of you and <colour id="1" />Label<colour id="65535" /> when
 you were younger, <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />but now we can
 all watch out for each other.
 And when the Able Sisters work
@@ -276,10 +276,10 @@ true-crime show, Pointed Questions.
 sewing in, <anim id="FaintSmile" target="actor" targetSpec="" />try to get a jump on
 next week's work.</message>
 	<message label="116" attrib="00 00 00 00">I know what you're thinking.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> "Why is
-Sable here working every Saturday?"<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I actually get the most done on
+<colour id="3" />Sable <colour id="65535" />here working every Saturday?"<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I actually get the most done on
 Saturdays.<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> I like feeling productive
 when everyone else is resting!
-<anim id="Serious" target="actor" targetSpec="" />And Papa always told me "Stitching
+<anim id="Serious" target="actor" targetSpec="" />And Papa always told me, "Stitching
 overtime can save your spines!"</message>
 	<message label="117" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It makes me so happy that you'd
 come all this way to see us, even
@@ -314,7 +314,7 @@ there, alright?</message>
 	<message label="127" attrib="00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Oh, the cherry blossoms are so
 pretty this time of year!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />They take me back to picnics under
 the cherry trees when we were kids<tag a="110" b="0" />
-<delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" />Mabel and I should do that again<tag a="110" b="0" /></message>
+<delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" /><colour id="3" />Mabel<colour id="65535" /> and I should do that again<tag a="110" b="0" /></message>
 	<message label="130" attrib="00 00 00 00"><tag a="60" b="14" arg="0x8a 0x8a 0x8b 0x83 0x84 0x84 0x85 0x86 0x87 0x88 0x89 0x8a" /></message>
 	<message label="130_01" attrib="00 00 00 00"><tag a="60" b="14" arg="0x85 0x86 0x87 0x88 0x89 0x8a 0x8a 0x8a 0x8b 0x83 0x84 0x84" /></message>
 	<message label="131" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />The weather's been feeling more
@@ -355,7 +355,7 @@ than the last.
 <anim id="Smiling" target="actor" targetSpec="" />Which makes it the perfect time to
 check out our spring fashions!<delay20 /><anim id="Blushing" target="actor" targetSpec="" /> I was
 thinking of you when I made them.</message>
-	<message label="150" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />I think you've heard Mabel and me
+	<message label="150" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />I think you've heard <colour id="3" />Mabel<colour id="65535" /> and me
 talk about our other sister?<delay frames="40" /> <colour id="3" />Label<colour id="65535" />,<delay20 />
 the fashion designer?
 <anim id="Explain" target="actor" targetSpec="" />She's traveling around a lot

@@ -9,6 +9,9 @@ wild running into you here!<setNpcTalkChoices chatOption="0" cancelOption="1" />
 	<message label="004" attrib="00 00 0c 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />It's <tag a="110" b="3" />!<delay frames="50" /> <anim id="FaintSmile" target="actor" targetSpec="" />So you like
 fossils? I totes understand. Dead
 things in rocks are pretty fab!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Ah, ciao, <tag a="110" b="3" />.<delay40 />
+<anim id="Grin" target="actor" targetSpec="" />Here for a little artistic inspiration,
+I take it? <delay20 />Me too, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
 	<message label="006" attrib="00 00 0c 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Out shopping, <tag a="110" b="3" />?<delay frames="50" />
 <anim id="Smiling" target="actor" targetSpec="" />I, like, LOVE window-shopping here!<10_4 />
 And regular shopping too.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>

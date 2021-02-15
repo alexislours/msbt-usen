@@ -27,6 +27,23 @@ it'd be a waste for me to keep it.
 <colour id="3" />Blathers <colour id="65535" />instead,<delay20 /> <tag a="110" b="5" />.</message>
 	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />So awesomely ancient<delay8 /><tag a="110" b="0" />
 <anim id="Smiling" target="actor" targetSpec="" />Thank you very much!</message>
+	<message label="121" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I never imagined that such a valuable
+work of art might one day be<tag a="110" b="0" />mine.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />I feel like the luckiest <tag a="110" b="15" />
+in the world, <tag a="110" b="5" />!</message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />This is an extremely generous offer,<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />but maybe you should hold on to it
+for a little while longer.
+<anim id="FaintSmile" target="actor" targetSpec="" />You never know when a valuable
+piece of art will come in handy.</message>
+	<message label="123" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Wow. <delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />It's an honor just to be in the
+presence of such a great work of
+art, <tag a="110" b="5" /><tag a="110" b="0" />
+<anim id="Blushing" target="actor" targetSpec="" />Which is probably a sign that it
+shouldn't be hanging on the walls
+of <tag a="110" b="10" /> Manor.
+<anim id="OhGeez" target="actor" targetSpec="" />But what do I know? <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />I suggest you
+show it to <colour id="3" />Blathers <colour id="65535" />and see what
+he has to say about it.</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Ooh,<delay20 /> I can't wait to try this on!</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00">I'm going to try wearing this<delay20 />
 <anim id="Smiling" target="actor" targetSpec="" />and see how it feels on me!</message>
@@ -89,6 +106,11 @@ accepting this.<delay frames="30" /> <anim id="Nodding" target="actor" targetSpe
 <anim id="Confused" target="actor" targetSpec="" />But what if this recipe is super rare?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I'd feel awful if it turned out to be
 something you wished you hadn't
 given away,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You should keep this instead.</message>
+	<message label="509" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />I can't believe it.<pageBreak /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<delay frames="40" />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />I must be dreaming<tag a="110" b="0" /></message>
+	<message label="510" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />I mean, thanks. <delay20 />I appreciate it.<delay20 />
+<anim id="SmugFace" target="actor" targetSpec="" />This is no big deal. <delay40 />Me? A die-hard
+romantic? <delay20 /><anim id="Negative" target="actor" targetSpec="" />Please, <tag a="110" b="5" />.</message>
 	<message label="511" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, nice!<delay frames="30" /> You got me <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
 	<message label="512" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I like this one.<delay frames="30" /> <anim id="Blushing" target="actor" targetSpec="" />Guess this means
 we have similar taste in music.</message>

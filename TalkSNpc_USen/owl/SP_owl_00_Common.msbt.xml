@@ -132,6 +132,21 @@ to donate?</message>
 is always welcome.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="106" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Woo hoo! <delay frames="13" />Several things, I see!<delay frames="30" />
 <anim id="EmotEnd" target="actor" targetSpec="" />Let us take a look,<delay frames="30" /><tag a="10" b="6" /><anim id="Thinking" target="actor" targetSpec="" /> shall we?<delay20 /><endTag a="10" b="6" /><10_8 arg="30" /></message>
+	<message label="107" attrib="00 00 00 06"><tag a="10" b="12" /><anim id="Surprised" target="actor" targetSpec="" /><size value="150" />HOO-WHAT?!<size value="100" /><delay frames="15" /><10_9 /><delay20 />
+<anim id="Confused" target="actor" targetSpec="" />Terribly sorry, but I'm afraid these
+are all the work of a nefarious forger.
+You must understand,<delay frames="13" /> <anim id="Negative" target="actor" targetSpec="" />we simply
+cannot display fakes.<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />I have no
+choice but to pass on these.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 06"><tag a="10" b="12" /><anim id="Surprised" target="actor" targetSpec="" /><size value="150" />HOO!!<size value="100" /><10_8 arg="5" /><10_9 /><pageBreak /><anim id="Confused" target="actor" targetSpec="" />I am afraid fraudulent work has
+wormed its way in amongst the
+donations you have presented me<tag a="110" b="0" />
+<anim id="Worried" target="actor" targetSpec="" />I am terribly sorry,<delay frames="13" /> but surely you
+understand,<delay20 /><anim id="Negative" target="actor" targetSpec="" /> we simply cannot
+display fakes<tag a="110" b="0" />
+Of course,<delay frames="13" /> <anim id="Smiling" target="actor" targetSpec="" />we will gladly accept the
+remaining items of quality for our
+collection.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="109" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Splendid!<delay frames="30" /><anim id="Smiling" target="actor" targetSpec="" /> We will gladly take
 these off your hands!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="110" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ah, <delay frames="13" />no need to pull them all out!<delay frames="30" />
@@ -221,6 +236,38 @@ nothing more!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="
 <anim id="Smiling" target="actor" targetSpec="" />Fascinating stuff, no?</message>
 	<message label="134" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ah,<delay frames="13" /> I see.<10_4 /><anim id="ShyBoy" target="actor" targetSpec="" /> Another time, perhaps<tag a="110" b="0" /><pageBreak />Well then,<anim id="Nodding" target="actor" targetSpec="" /> let me assure you we shall
 take very good care of your donation.</message>
+	<message label="135" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="135_01" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hoo WHAT?!<delay8 /> Is that<tag a="110" b="0" /><tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />? <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />And
+the genuine article, no less?
+<anim id="Clapping" target="actor" targetSpec="" />Yes,<delay8 /> it is,<delay8 /> indubitably!<delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" /> 'Tis even
+more magnificent than I imagined!</message>
+	<message label="135_02" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hoo!<delay20 /> Unless I am mistaken—<anim id="EmotEnd" target="actor" targetSpec="" />
+and I am not—<anim id="Greeting" target="actor" targetSpec="" />that is <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />!
+<anim id="Smiling" target="actor" targetSpec="" />Hoo my, but it is so much more of
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
+than I could have imagined!</message>
+	<message label="135_03" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hoo! <delay8 />I say, hoot! <anim id="Explain" target="actor" targetSpec="" />THAT is most surely
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I never thought I'd lay eyes upon the
+real thing.<delay frames="30" /><anim id="HappyDance" target="actor" targetSpec="" /> But there it is,<delay frames="13" /> very much
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
+	<message label="147" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I shall treat this donation with the
+utmost care.<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />Owl's honor!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I shall also leave details about your
+donation for all to read once it is
+on display.
+<anim id="Smiling" target="actor" targetSpec="" />Hoo! Please do check back later.</message>
+	<message label="138" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />My feathers,<delay8 /> is that <delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />?!</message>
+	<message label="148" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" />it gives one pause to see
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /> up
+close like this.</message>
+	<message label="139" attrib="00 00 00 00"><tag a="10" b="12" /><anim id="Surprised" target="actor" targetSpec="" /><10_10 /> <size value="150" />HOO-WHAT?!<size value="100" /><delay20 /><10_9 /><pageBreak /><anim id="Frantic" target="actor" targetSpec="" />Upon closer examination,<delay8 /> I have
+grave news to share with you!<delay8 />
+This work of art<tag a="110" b="0" /><delay20 /><anim id="Serious" target="actor" targetSpec="" />is a FAKE!</message>
+	<message label="140" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I cannot accept forgeries, you see,<delay20 />
+so I must give it back.<delay20 /><anim id="Serious" target="actor" targetSpec="" /> Hoo,<delay8 /> sad but
+true!</message>
 	<message label="141" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hoo hoo!<delay20 /> Thank you very much!<delay20 />
 <tag a="110" b="0" /><delay8 /><anim id="Shocked" target="actor" targetSpec="" />My feathers!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Why,<delay frames="13" /> it seems you have nothing
 on your person we can accept
@@ -228,8 +275,10 @@ at this time<tag a="110" b="0" /></message>
 	<message label="142" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We are currently accepting <colour id="1" />bugs<colour id="65535" />,<delay frames="13" />
 <colour id="1" />fish<colour id="65535" />,<delay frames="13" /> and properly assessed <colour id="1" />fossils<colour id="65535" /><tag a="110" b="0" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="143" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We accept donations of <colour id="1" />bugs<colour id="65535" />,<delay frames="13" /> <colour id="1" />fish<colour id="65535" />,<delay frames="13" />
-sea creatures,<delay frames="13" /> and officially
-assessed <colour id="1" />fossils<colour id="65535" /><tag a="110" b="0" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+and officially assessed <colour id="1" />fossils<colour id="65535" /><tag a="110" b="0" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="146" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We accept donations of <colour id="1" />bugs<colour id="65535" />,<delay8 /> <colour id="1" />fish<colour id="65535" />,<delay8 />
+and officially assessed <colour id="1" />fossils<colour id="65535" />,<delay8 />
+as well as <colour id="1" />works of art<colour id="65535" /><tag a="110" b="0" /></message>
 	<message label="144" attrib="00 00 00 00">That is,<delay frames="13" /> <anim id="SmugFace" target="actor" targetSpec="" />fossils must first be
 appraised by yours truly.<pageBreak />So if you have a relic of unknown
 origin,<delay frames="13" /><anim id="Smiling" target="actor" targetSpec="" /> please allow me to give it
@@ -368,6 +417,21 @@ release it from its cage!<delay20 />
 <size value="75" /><anim id="Shaking" target="actor" targetSpec="" />I shudder at the very thought.<size value="100" /></message>
 	<message label="306" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hoo, indeed, hoot!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> What a splendid
 <tag a="125" b="0" arg="0x0" />!</message>
+	<message label="315" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Details about each work of art can be
+found in front of their displays.<delay frames="30" /> <anim id="Nodding" target="actor" targetSpec="" />Do
+look there for relevant information.</message>
+	<message label="316" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />To the best of my knowledge, our
+collection does not yet include
+<tag a="50" b="1" /><tag a="125" b="0" arg="0x0" />.
+<anim id="Smiling" target="actor" targetSpec="" />Thus, it would be well and truly
+appreciated if you considered
+donating it.
+<anim id="Explain" target="actor" targetSpec="" />By the by, <delay8 />you might take a gander
+at the placards by each work of art.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Important details can be found there.</message>
+	<message label="307" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I say,<delay frames="13" /> might this be an original
+<tag a="125" b="0" arg="0x0" />?<pageBreak /><anim id="Eh" target="actor" targetSpec="" />But no! <delay frames="13" />It cannot be<tag a="110" b="0" /><delay20 /><anim id="Serious" target="actor" targetSpec="" /> It is a fake!
+A complete and utter counterfeit!</message>
 	<message label="308" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hear, hear! <delay frames="13" />We must assess this
 fossil to determine its origin.<delay frames="30" />
 <anim id="QuestionMark" target="actor" targetSpec="" />Shall I appraise it now?</message>
@@ -379,6 +443,8 @@ professional, you know.</message>
 	<message label="310" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Splendid! <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Let me take a look<tag a="110" b="0" /></message>
 	<message label="313" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />By my beak!<delay20 /> What you have here<delay frames="13" /><anim id="BigSmile" target="actor" targetSpec="" /> is
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<delay frames="40" /></message>
+	<message label="351" attrib="00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />There's a lot of bad art out there
+these days. One can't be too careful.</message>
 	<message label="352" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />And that <delay frames="13" />is all I have to say about
 that. <delay20 /><anim id="Worried" target="actor" targetSpec="" />Now, if you please, <delay frames="13" />put away
 your <tag a="125" b="0" arg="0x0" />.</message>
@@ -497,6 +563,15 @@ was but a<tag a="110" b="0" />bare-bones collection<tag a="110" b="0" /><pageBre
 humor for you there.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Ahem. <delay frames="13" />Yes.<delay frames="13" /> That is to say<tag a="110" b="0" /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" />THANK YOU for your commitment to
 collecting and donating fossils.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Our humble museum's reputation is
 growing because of you.</message>
+	<message label="406" attrib="00 00 00 00">Hoo hoo! Oh my<tag a="110" b="0" /><pageBreak />This is the final piece we need for
+our art collection! Our art gallery
+is now complete!
+And you, <tag a="110" b="1" />, you are
+the very definition of a patron
+of the arts. I salute you!
+Thank you for your efforts in helping
+us put together such a fine collection
+of artwork. Well done! Hoo hoo!</message>
 	<message label="501" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Our noble institution displays relics,
 rare items, and masterpieces from
 a variety of disciplines.

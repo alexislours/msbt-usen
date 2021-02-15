@@ -25,6 +25,11 @@ new gym every day<tag a="110" b="0" /><delay frames="60" /><anim id="HappyDance"
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You see that <colour id="3" />Daisy Mae<colour id="65535" />'s here today?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Her turnips are the best. I use 'em
 twice.<delay frames="40" /> <anim id="HappyDance" target="actor" targetSpec="" />First as dumbbells, then as
 a snack, <tag a="110" b="5" />!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />You see the boat that's anchored
+off the northern shore?<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />It looks
+kinda fishy, <tag a="110" b="5" />.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />Er<tag a="110" b="0" /><delay20 /> It's a fishing boat, and those
+are supposed to look fishy<tag a="110" b="0" /><delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />I mean,
+I think it looks suspicious!</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="ColdChill" target="actor" targetSpec="" />Huh?<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />.
 You ever feel like you're
 being watched?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Hey, if someone wants to see what a
@@ -76,6 +81,10 @@ me out there. <delay20 />My heart was racing.<delay20 />
 I was covered in sweat.<delay20 /> I was alone.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Well, <delay20 />I have no idea what made that
 noise<tag a="110" b="0" /><10_4 /><anim id="SmugFace" target="actor" targetSpec="" />but I wanna thank it for giving
 me my best workout in months!</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I was jogging by the plaza and saw
+<colour id="3" />Leif<colour id="65535" /> there selling plants.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Breathing is key to a good workout,
+so the more plants we have around,<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />the better, <tag a="110" b="5" />!</message>
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I was doing some cross-training
 earlier and thought I saw someone
 new on the island, <tag a="110" b="5" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />But when I was done, they were

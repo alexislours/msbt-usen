@@ -78,6 +78,47 @@ done with my camping trip.
 <anim id="Thinking" target="actor" targetSpec="" />Oh,<delay8 /> but before I can do that,<delay20 /> I've got
 to check with <colour id="1" />Resident Services <colour id="65535" />to
 get their approval. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />I'm on it!</message>
+	<message label="207_01" attrib="00 00 01 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Really?<delay20 /> Even though I rejected you
+last time you asked?<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Wow, I'm touched. <delay40 />That said<tag a="110" b="0" /><delay20 />
+<anim id="Hesitate" target="actor" targetSpec="" />I don't know if I'm ready to make
+such a big life decision.
+<anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />I know! <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Why don't we play a game to
+help me decide?<delay20 /> If you win,<delay8 /> I'll honor
+your request and move here.
+<anim id="Hello" target="actor" targetSpec="" />Sound like a plan, <tag a="110" b="5" />?</message>
+	<message label="207_01_a" attrib="00 00 00 00 00 00 00 00">Yeah, let's do it!</message>
+	<message label="207_01_b" attrib="00 00 00 00 00 00 00 00">I'll pass.</message>
+	<message label="207_02" attrib="00 00 01 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You're nothing if not persistent,
+<tag a="110" b="3" />.<delay20 /> It's actually
+quite sweet, <tag a="110" b="5" />.
+<anim id="Hesitate" target="actor" targetSpec="" />But <delay20 />should I move here? <delay20 />Really?<delay20 />
+<anim id="Sighing" target="actor" targetSpec="" />I can't decide! <delay40 /><anim id="Thinking" target="actor" targetSpec="" /><delay20 />Say<tag a="110" b="0" /><delay20 />how about we
+we play a little game?
+<anim id="Nodding" target="actor" targetSpec="" />And we'll let the outcome of the
+game determine the outcome of my
+life! <delay40 /><anim id="Eh" target="actor" targetSpec="" />What could possibly go wrong?
+<anim id="Explain" target="actor" targetSpec="" />If you win,<delay8 /> I'll move.<delay20 /> If you lose,<delay8 />
+well<tag a="110" b="0" /><delay20 />let's just see what happens.<delay40 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Are you in?</message>
+	<message label="207_02_a" attrib="00 00 00 00 00 00 00 00">Yeah, and I'll win!</message>
+	<message label="207_02_b" attrib="00 00 00 00 00 00 00 00">No, thanks.</message>
+	<message label="207_03" attrib="00 00 01 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I want to say yes, but<tag a="110" b="0" /><delay40 /><anim id="OhGeez" target="actor" targetSpec="" />I have a habit
+of giving in too easily to peer
+pressure<delay8 /> in situations like this.
+<anim id="Aha" target="actor" targetSpec="" />I have an idea!<delay20 /> Why don't we leave
+my future up to luck?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />We'll play a game and, if you win,<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />I'll make <tag a="110" b="9" /> my new
+home.<delay40 /><anim id="BigSmile" target="actor" targetSpec="" /> Ready to go?</message>
+	<message label="207_03_a" attrib="00 00 00 00 00 00 00 00">I was born ready!</message>
+	<message label="207_03_b" attrib="00 00 00 00 00 00 00 00">Not so much.</message>
+	<message label="208_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh?<delay20 /> That's too bad.<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />I'm not
+disappointed at all<tag a="110" b="0" /></message>
+	<message label="208_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />So that's a no? <delay40 />Well, <delay8 /><anim id="Explain" target="actor" targetSpec="" />there's a time
+and place for games,<delay20 /> and I guess
+this was neither.</message>
+	<message label="208_03" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I wasn't expecting you to say that,<delay20 />
+but I understand. <delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />This just wasn't
+the right time, I guess.</message>
 	<message label="302" attrib="00 00 01 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Sorry to keep you waiting!<delay frames="40" />
 I checked with <colour id="1" />Resident Services<colour id="65535" />,<delay20 />
 but the news wasn't good<tag a="110" b="0" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />There's no room for any new homes
@@ -139,6 +180,12 @@ moving for now, <tag a="110" b="6" />.</message>
 but they couldn't help me<delay8 /><tag a="110" b="0" />
 <anim id="Restless" target="actor" targetSpec="" />They said they aren't able to take
 in<delay20 /> <anim id="BrokenHeart" target="actor" targetSpec="" />any more residents right now.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I'm disappointed,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />but I'm glad I tried.</message>
+	<message label="405" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Sorry to keep you waiting!<delay frames="40" />
+<anim id="Explain" target="actor" targetSpec="" />I checked with <colour id="1" />Resident Services<colour id="65535" />,<delay20 />
+but the news wasn't good<delay8 /><tag a="110" b="0" />
+<anim id="Restless" target="actor" targetSpec="" />There just aren't any plots for sale<delay20 />
+<anim id="BrokenHeart" target="actor" targetSpec="" />on the island right now.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Even though things didn't work out
+for me this time,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I'm still glad I tried.</message>
 	<message label="406" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />It's um<delay8 /><tag a="110" b="0" /> <tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> right?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Sorry to keep you waiting!<delay frames="40" />
 <anim id="Explain" target="actor" targetSpec="" />I checked with <colour id="1" />Resident Services<colour id="65535" />,<delay20 />
 and I have some good news<delay8 /><tag a="110" b="0" />
@@ -158,6 +205,9 @@ bothering your <colour id="1" />Resident Services
 	<message label="423" attrib="00 00 00 00 00 00 00 00">If they're having to turn new
 residents away,<delay20 /> <anim id="Nodding" target="actor" targetSpec="" /><tag a="110" b="9" />
 must be really booming!</message>
+	<message label="424" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />If only there was an open plot for
+sale on <tag a="110" b="9" />.<delay40 /> <anim id="Love" target="actor" targetSpec="" />I'd love
+to move here, <delay8 /><tag a="110" b="5" />!</message>
 	<message label="504" attrib="00 00 01 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />This island's community and scenery
 are both great!<delay frames="30" /> <anim id="FaintSmile" target="actor" targetSpec="" />I just love it here.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I really hope someday<delay20 /> I can live on
 an island this nice,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>

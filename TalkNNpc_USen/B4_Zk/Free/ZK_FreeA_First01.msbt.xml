@@ -59,9 +59,10 @@ the program, weather.</message>
 	<message label="025" attrib="00 00 00 0a 00 00 00 08"><anim id="WrySmile" target="actor" targetSpec="" />This snow isn't cooling you off
 at all, <tag a="110" b="3" />. <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />You're
 on fire!</message>
-	<message label="026" attrib="00 00 00 09 00 00 00 08"><anim id="Worried" target="actor" targetSpec="" />This is kind of embarrassing to admit,
+	<message label="026" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />This is kind of embarrassing to admit,
 but I thought this was a TROPICAL
 island, <tag a="110" b="5" /><tag a="110" b="0" /></message>
+	<message label="026_01" attrib="00 00 00 09 00 00 00 08"><tag a="60" b="31" arg="0x1a 0x15" /></message>
 	<message label="027" attrib="00 00 00 08 00 00 00 08"><anim id="OhGeez" target="actor" targetSpec="" />It's really coming down today, huh?<delay20 />
 Well, don't let it cramp your style,
 <tag a="110" b="3" />. <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Stay fabulous!</message>
@@ -82,9 +83,10 @@ dyed pink and I'm here for it.</message>
 	<message label="034" attrib="00 00 00 06 00 0a 00 09"><anim id="OhGeez" target="actor" targetSpec="" />It's like the sky didn't have any
 clean laundry, so it just threw on
 a frumpy gray sweatshirt<tag a="110" b="0" /></message>
-	<message label="035" attrib="00 00 00 0a 00 00 00 09"><anim id="Grin" target="actor" targetSpec="" />I don't mind the cold, as long as I've
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />I don't mind the cold, as long as I've
 got this heavy blanket of snow to
 keep my soul warm.</message>
+	<message label="035_01" attrib="00 00 00 0a 00 00 00 09"><tag a="60" b="31" arg="0x23 0x24" /></message>
 	<message label="036" attrib="00 00 00 09 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" />It doesn't feel cold out here at all
 when you're around.</message>
 	<message label="037" attrib="00 00 00 08 00 00 00 09"><anim id="ShyBoy" target="actor" targetSpec="" />Sometimes I wish they made, like,

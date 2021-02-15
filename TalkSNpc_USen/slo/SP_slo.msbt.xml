@@ -1,0 +1,160 @@
+<msbt attribsize="4">
+	<message label="004" attrib="04 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'd be happy to know<delay8 /> what I can do
+<delay20 />for you today.</message>
+	<message label="004_a" attrib="00 00 00 00">I'm here to shop!</message>
+	<message label="004_b" attrib="00 00 00 00">Let's talk weeds!</message>
+	<message label="004_c" attrib="00 00 00 00">Nothing.</message>
+	<message label="005" attrib="04 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />I'm so happy to <delay8 />see you again!<delay20 />
+<anim id="QuestionMark" target="mainNpc" targetSpec="" />What can I do for you?</message>
+	<message label="005_a" attrib="00 00 00 00">I'm here to shop!</message>
+	<message label="005_b" attrib="00 00 00 00">Let's talk weeds!</message>
+	<message label="005_c" attrib="00 00 00 00">Nothing.</message>
+	<message label="007" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Oh, yes.<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> I'd love to introduce you to
+all the little seeds and saplings I've
+got with me today!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00">You gotta do <delay20 />what makes you happy.<delay frames="60" />
+<anim id="Smiling" target="actor" targetSpec="" />I'll be here if you change your mind.<anim id="Hello" target="actor" targetSpec="" /></message>
+	<message label="011" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That <delay20 />is the perfect choice!<delay frames="60" /> <anim id="EmotEnd" target="actor" targetSpec="" />Oh, <delay8 /><anim id="Hesitate" target="actor" targetSpec="" />I just
+wish you had room in your pockets
+so you could take it home.
+<anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />But at least I know we'll be seeing
+each other again<delay20 /><anim id="HappyFlower" target="actor" targetSpec="" /> when you do!</message>
+	<message label="012" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Aw, <delay20 />thank you!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="020" attrib="00 00 00 00">If you've got weeds,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> I'm buying!<delay frames="60" />
+<anim id="Nodding" target="actor" targetSpec="" /><tag a="90" b="26" arg="0x2" /> a clump.</message>
+	<message label="021" attrib="00 00 00 00">Huh<tag a="110" b="0" /><delay20 /><anim id="Hesitate" target="actor" targetSpec="" /> I think your weeds must've
+sprouted off to another garden,
+<tag a="110" b="1" />.<delay40 /> I don't see 'em.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />And I can't buy <delay20 />what you don't have.</message>
+	<message label="022" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />If I'm counting right,<delay20 /> you've got
+<tag a="90" b="6" arg="0x3" /> <50_8 x="0" y="3" a="clumps" b="clump" c="clumps" /> of weeds<tag a="110" b="0" /><delay20 /> <anim id="AbsentMindedness" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /><delay40 />
+Which would be<tag a="110" b="0" />
+<anim id="Eh" target="actor" targetSpec="" />Hmm?<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Oh, yes!<delay20 /> <tag a="90" b="26" arg="0x4" />.
+So, uh, <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />can I buy your weeds?</message>
+	<message label="022_a" attrib="00 00 00 00">OK!</message>
+	<message label="022_b" attrib="00 00 00 00">Actually, not right now.</message>
+	<message label="023" attrib="00 00 00 00">Ah,<delay8 /> so it goes.<delay20 /><delay frames="60" /> <anim id="Smiling" target="actor" targetSpec="" />If you change your
+mind,<delay8 /> I'd be happy to do business
+with you.<anim id="Hello" target="actor" targetSpec="" /></message>
+	<message label="024" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Thank you <delay20 />kindly!</message>
+	<message label="027" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Thank you <delay20 />kindly!<delay40 /> <anim id="Nodding" target="actor" targetSpec="" />Your extra Bells
+are happily stashed<delay20 /> in this bag here.</message>
+	<message label="029" attrib="04 00 00 00">Can I help<delay8 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /> with anything else?</message>
+	<message label="029_a" attrib="00 00 00 00">Show me your stock!</message>
+	<message label="029_b" attrib="00 00 00 00">Let's talk weeds!</message>
+	<message label="029_c" attrib="00 00 00 00">I'm good.</message>
+	<message label="031" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Until next time!</message>
+	<message label="038" attrib="04 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><delay8 /><tag a="125" b="0" arg="0x0" />!<delay20 />
+A perfectly wonderful selection.
+<anim id="HappyFlower" target="actor" targetSpec="" />And they're available in bulk.<delay40 />
+<anim id="QuestionMark" target="mainNpc" targetSpec="" />How many <delay20 />would you like?</message>
+	<message label="038_a" attrib="00 00 00 00">Just 1. (<colour id="1" /><tag a="90" b="12" arg="0x0" /><colour id="65535" />)</message>
+	<message label="038_b" attrib="00 00 00 00">I'll take 5! (<colour id="1" /><tag a="90" b="13" arg="0x1" /><colour id="65535" />)</message>
+	<message label="038_c" attrib="00 00 00 00">Never mind.</message>
+	<message label="039" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Oh!<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> No worries. <delay20 />You know what's
+best for your garden.<delay40 /><anim id="FaintSmile" target="actor" targetSpec="" /> Is there
+anything else<delay20 /> I can do for you?</message>
+	<message label="040" attrib="01 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Heya, heya!<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> And welcome.<delay frames="60" />
+<anim id="QuestionMark" target="actor" targetSpec="" />What should I call you, friend?</message>
+	<message label="040_a" attrib="00 00 00 00"><tag a="50" b="3" /><tag a="110" b="1" />!</message>
+	<message label="040_b" attrib="00 00 00 00"><tag a="50" b="3" /><tag a="110" b="1" />...</message>
+	<message label="041" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Did you say <tag a="110" b="1" />?<delay frames="60" />
+<anim id="HappyFlower" target="actor" targetSpec="" />What a happy name.<delay40 />
+<anim id="BigSmile" target="actor" targetSpec="" />Oh, yes,<delay20 /> and I'm <colour id="3" />Leif<colour id="65535" />.</message>
+	<message label="042" attrib="00 00 00 00">I heard that my good pal <colour id="3" />Timmy<colour id="65535" /><delay8 />
+started a shop here,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> so I thought
+I'd pay him a visit.</message>
+	<message label="043" attrib="01 00 00 00"><colour id="3" /><anim id="Hesitate" target="actor" targetSpec="" />Timmy <colour id="65535" />told me this was a deserted
+island before you moved here<tag a="110" b="0" /><delay frames="60" />
+<anim id="HappyFlower" target="actor" targetSpec="" />What a happy adventure!
+<anim id="Shocked" target="actor" targetSpec="" />I bet you were up to your ear holes
+in weeds when you first arrived.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />But the island itself is a blank canvas
+that you can paint however you like.<pageBreak /><anim id="Eh" target="actor" targetSpec="" />I hope some of the rare flower seeds
+and <colour id="1" />shrubs <colour id="65535" />I brought with me<delay20 /><anim id="SmugFace" target="actor" targetSpec="" /> will be
+featured in your final masterpiece.</message>
+	<message label="043_a" attrib="00 00 00 00">What's a shrub?</message>
+	<message label="043_b" attrib="00 00 00 00">Me too!</message>
+	<message label="049" attrib="00 00 00 00">Oh,<delay8 /> what a happy coincidence. <delay40 /><anim id="Smiling" target="actor" targetSpec="" />I was
+just thinking to myself that <colour id="1" />shrubs<colour id="65535" />
+are too often overlooked.
+<anim id="Nodding" target="actor" targetSpec="" />Shrubs are kinda like little trees.<delay40 /><anim id="Thinking" target="actor" targetSpec="" /><delay20 />
+Or are they more like flowers,<delay8 />
+but bigger?
+<anim id="EmotEnd" target="actor" targetSpec="" />However you see them, what matters<delay20 />
+is that they bloom seasonally<delay8 /><anim id="Love" target="actor" targetSpec="" /> and
+add something special to a garden.</message>
+	<message label="080" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I recommend lining them up around
+your house,<delay20 /> along with flowers,
+of course,<delay8 /> for the best effect.
+<anim id="HappyFlower" target="actor" targetSpec="" />You can't go wrong when you
+surround yourself with such beauty!</message>
+	<message label="081" attrib="00 00 00 00">By the way,<delay8 /> today I'm selling
+the happiest shrub I know.<delay40 /><anim id="Greeting" target="actor" targetSpec="" />
+The <colour id="1" /><tag a="140" b="20" arg="0xcd00" /><colour id="65535" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />And, lucky for us,<delay20 /> it's currently in
+season,<delay20 /><anim id="Love" target="actor" targetSpec="" /> so we don't have to wait to
+appreciate its lovely blossoms.</message>
+	<message label="044" attrib="01 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, <delay20 /><tag a="110" b="1" />.<delay40 /> <anim id="Hesitate" target="actor" targetSpec="" />Are you
+interested in selling weeds?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Yeah,<delay20 /> I know how it feels to start
+pulling weeds and suddenly realize,<delay frames="60" />
+<delay20 /><anim id="WrySmile" target="actor" targetSpec="" />"Wow. <delay20 />This could take a while."</message>
+	<message label="044_a" attrib="00 00 00 00">Exactly!</message>
+	<message label="044_b" attrib="00 00 00 00">Huh?</message>
+	<message label="045" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I had a feeling<tag a="110" b="0" /></message>
+	<message label="046" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Eh heh<tag a="110" b="0" /></message>
+	<message label="047" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />But gardening should make you
+happy, <tag a="110" b="1" />.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Which is why I have decided to buy
+weeds from you<delay20 /><anim id="Clapping" target="actor" targetSpec="" /> at a very special
+high price point.
+And<delay8 /> if you act now,<delay8 /><anim id="Nodding" target="actor" targetSpec="" /> I'll double
+what the <colour id="3" />Nooklings<colour id="65535" /> are offering.<delay40 />
+<anim id="HappyFlower" target="actor" targetSpec="" />That's <colour id="1" />20 Bells<colour id="65535" /> per clump of weeds.</message>
+	<message label="059" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />It's a win-win.<delay40 /> <anim id="Hesitate" target="actor" targetSpec="" />You get paid for
+all that hard work you put into
+pulling weeds<tag a="110" b="0" />
+<anim id="HappyFlower" target="actor" targetSpec="" />and I get to enjoy your pristine,<delay8 />
+weed-free island landscape.</message>
+	<message label="060" attrib="02 00 00 00">So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />can I <delay8 />buy your weeds?</message>
+	<message label="060_a" attrib="00 00 00 00">You sure can!</message>
+	<message label="060_b" attrib="00 00 00 00">Not right now.</message>
+	<message label="048" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Anyway<tag a="110" b="0" /><delay20 /> Meeting you has been a
+true pleasure.<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> I hope to see you
+again soon, <tag a="110" b="1" />.</message>
+	<message label="050" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />,<delay20 /><anim id="HappyFlower" target="actor" targetSpec="" /> have I ever told
+you<delay8 /> that you remind me of a
+radiant <tag a="135" b="2" arg="0xcd00" />?
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /><delay20 /> Although, at this moment,
+I'm getting <tag a="50" b="2" /><tag a="135" b="2" arg="0xcd01" /> vibe.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />The point is,<delay20 /> you're one of my very
+best customers,<delay20 /> and I have a little
+thank-you gift for you.
+<anim id="BigSmile" target="actor" targetSpec="" />It's a recipe for a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />hedge<colour id="65535" />.</message>
+	<message label="051" attrib="00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />I'd be so happy<delay20 /> if you were to use
+it<delay8 /> in your own gardening pursuits.</message>
+	<message label="052" attrib="00 00 00 00"><anim id="Aha" target="mainNpc" targetSpec="" />I almost forgot, <tag a="110" b="1" />!<delay40 />
+<anim id="HappyFlower" target="actor" targetSpec="" />I've been waiting to give you
+this recipe for a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />hedge<colour id="65535" />.
+<anim id="FaintSmile" target="actor" targetSpec="" />Now that you can make your own,<delay20 />
+I hope you'll use the Bells from your
+hedge fund<delay8 /> to buy more flowers.</message>
+	<message label="053" attrib="00 00 00 00">Oh!<delay8 /><anim id="Eh" target="actor" targetSpec="" /> Your pockets are already full<delay8 /> to
+the brim, my friend.<delay40 /> <anim id="Hello" target="actor" targetSpec="" />Let's chat again
+when you've got more space.</message>
+	<message label="054" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh no!<delay20 /><anim id="Sighing" target="actor" targetSpec="" /> It looks like the shop<delay8 /> is
+already closed for the day.<delay40 />
+<anim id="SadSpiral" target="mainNpc" targetSpec="" />And after you came all this way<tag a="110" b="0" />
+<anim id="Hesitate" target="actor" targetSpec="" />Well,<delay20 /> if you come back another time,<delay20 />
+<anim id="HappyFlower" target="actor" targetSpec="" />I'll be extra happy to help you!</message>
+	<message label="055" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thank you!<delay20 /><anim id="Hesitate" target="actor" targetSpec="" /> Oh my<tag a="110" b="0" /><delay frames="60" /> You don't<delay8 /> have
+enough money right now.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />But I'm sure you will have spare Bells
+to spend soon.<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> And I look forward
+to seeing you then.</message>
+	<message label="056" attrib="00 00 00 00"><anim id="QuestionMark" target="mainNpc" targetSpec="" />Is there anything else<delay8 /> I can do for
+you,<delay8 /> my friend?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="057" attrib="00 00 00 00">Oh!<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> Heya, <delay8 /><tag a="110" b="1" />.<delay frames="60" />
+<anim id="HappyFlower" target="actor" targetSpec="" />Isn't this the most perfect day<delay8 />
+to shop for flowers?</message>
+	<message label="058" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />And shrubs too!<delay frames="60" /> <anim id="FaintSmile" target="actor" targetSpec="" />You're so lucky,<delay20 />
+because today I'm selling the
+<anim id="Love" target="actor" targetSpec="" />beloved<delay8 /> <colour id="1" /><tag a="140" b="20" arg="0xcd00" /><colour id="65535" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />And it's currently in season,<delay20 /> so you
+can enjoy those magical blossoms<delay8 />
+<anim id="HappyFlower" target="actor" targetSpec="" />as soon as you plant this little friend.</message>
+</msbt>

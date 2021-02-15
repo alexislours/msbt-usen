@@ -7,6 +7,8 @@ you were into bugs, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" canc
 with the fishies, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
 	<message label="004" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />What's up, <tag a="110" b="3" />?<delay20 />
 Soakin' up some ancient history?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Yo, <tag a="110" b="3" />!<delay20 /> Here to
+check out art<tag a="110" b="0" />stuff?</message>
 	<message label="006" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />How's it going, <tag a="110" b="3" />?<delay20 />
 You here to buff up your home?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Yo, <tag a="110" b="3" />!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />You looking

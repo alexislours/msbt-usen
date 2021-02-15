@@ -1,0 +1,41 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />It's really quiet in here<tag a="110" b="0" />even
+quieter than my bedroom<tag a="110" b="0" /><delay20 />
+<anim id="Sleepy" target="actor" targetSpec="" />Eyelids<tag a="110" b="0" />closing<tag a="110" b="0" /><delay20 />getting<tag a="110" b="0" /><anim id="Sleep" target="actor" targetSpec="" />sleepy<tag a="110" b="0" /><delay frames="40" /><pageBreak /><anim id="Pardon" target="actor" targetSpec="" />Whoa!<delay20 /> I almost fell asleep just then.<delay20 />
+But then my tummy rumbled and
+woke me up. <delay20 /><anim id="Frantic" target="actor" targetSpec="" />I'm a huh huh hungry!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Everything in here is just so quiet
+and still<tag a="110" b="0" />so if I stand reeeeally still
+I can just blend in!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Look ma, I'm art! <delay20 />A huh huh huh!</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You don't think this room is
+haunted, do you? <delay20 />Because it'd
+be SO creepy if it was haunted.<pageBreak /><anim id="ColdChill" target="actor" targetSpec="" />Like, imagine you're in here alone
+at night, and you hear a whisper<tag a="110" b="0" /><delay frames="40" />
+<anim id="Surprised" target="actor" targetSpec="" />AAAUGH! <delay20 />I'm scaring myself!</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="100_01" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Isn't <tag a="110" b="8" />'s <colour id="1" />museum<colour id="65535" />
+so cool? <delay20 />I know the boss put a lot
+of work into this room especially!</message>
+	<message label="100_02" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Isn't our <colour id="1" />museum <colour id="65535" />so big and cool
+now? <10_4 /><anim id="Hesitate" target="actor" targetSpec="" />Don't tell anyone that I get
+lost in here for days sometimes<tag a="110" b="0" /></message>
+	<message label="100_03" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Just walking around in here makes
+you smarter, you know.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />How do you
+think I got so smart?</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="200_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Isn't this new space so clean and
+new, <tag a="110" b="5" />?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />And it's huuuuge!<delay20 /> There's so much
+room for art, like giant statues and
+mega fingerpaint installations!</message>
+	<message label="200_02" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />I still can't believe how cool this new
+display room is. <delay20 />We can come look
+at fancy art stuff here for FREE?!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />And then when I think about how
+this place was just a deserted island
+before<tag a="110" b="0" /><delay20 /> <anim id="Pardon" target="actor" targetSpec="" />Like, WHOA!</message>
+	<message label="200_03" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm here to check out the new
+<colour id="1" />museum <colour id="65535" />display room, just like you.<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />And WOW!<delay20 /> It's way more fancy than
+I was expecting!<delay20 /><anim id="Worried" target="actor" targetSpec="" /> I hope I'm not
+messing it up just by being here<tag a="110" b="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="21" arg="0xc803 0xc800 0x100 0x100 0x100 0x100 0x100 0x100 0x100 0x100 0x100 0x100 0xcd00" /></message>
+</msbt>

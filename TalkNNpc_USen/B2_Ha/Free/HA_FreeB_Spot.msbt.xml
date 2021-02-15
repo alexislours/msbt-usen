@@ -110,7 +110,7 @@ this point, doesn't it?<delay frames="40" /> <20_3 arg="6" /><anim id="Nodding" 
 been helping 'em out.<delay20 /> They need it!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Eh" target="actor" targetSpec="" />Huh?<delay20 /> Me?<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Heh heh, I already have a specimen
 to care for.<delay20 /> This bod ain't gonna
 sculpt itself, <tag a="110" b="5" />!</message>
-	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6f 0x70 0x71 0x74" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x6f 0x70 0x71 0x72 0x74" /></message>
 	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Nodding" target="actor" targetSpec="" />If you get stumped with a question,
 <colour id="1" />Resident Services<colour id="65535" /> is the place to get
 it answered, <tag a="110" b="5" />!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Explain" target="actor" targetSpec="" />Like, for instance, I asked <colour id="3" />Isabelle
@@ -142,6 +142,7 @@ ripped as I am, <tag a="110" b="5" /><tag a="110" b="0" /></message>
 	<message label="111" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7700 0x7400 0xcd00" /></message>
 	<message label="112" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7801 0x7400 0xcd00" /></message>
 	<message label="113" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7902 0x7400 0xcd00" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7a03 0x7400 0xcd00" /></message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Smiling" target="actor" targetSpec="" />Museums are like going through
 a time warp. Time goes by so
 fast there!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Nodding" target="actor" targetSpec="" />The other day, I went to the <colour id="1" />museum<colour id="65535" />
@@ -166,4 +167,8 @@ complete, <tag a="110" b="5" />!</message>
 in the <colour id="1" />museum<colour id="65535" /> is so cool!<pageBreak /><anim id="Love" target="actor" targetSpec="" />If I'm ever lucky enough to become a
 fossil,<delay20 /> I wanna be displayed just like
 that, <tag a="110" b="5" />.</message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />The <colour id="1" />museum<colour id="65535" />'s got this really
+cool <tag a="135" b="13" arg="0x3" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I just stare at it, <delay20 />and stare<tag a="110" b="0" /><delay frames="40" /><anim id="Sleepy" target="actor" targetSpec="" />and I get
+so relaxed and<tag a="110" b="0" /><10_4 /> <anim id="Pardon" target="actor" targetSpec="" /><delay20 />You can't buy a nap
+like that, <tag a="110" b="5" />!</message>
 </msbt>

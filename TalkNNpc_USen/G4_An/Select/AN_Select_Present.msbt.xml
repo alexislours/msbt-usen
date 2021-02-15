@@ -28,6 +28,20 @@ accept this.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="
 	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /><delay20 /> This has that weird old dirt
 smell I can't get enough of.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Very
 cool, <tag a="110" b="3" />!</message>
+	<message label="121" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Whoa! <delay20 />You SURE<delay8 /> you wanna give
+this to me? Not that I'm complainin',
+but<tag a="110" b="0" /><delay20 /> <anim id="Smiling" target="actor" targetSpec="" />Thanks, <tag a="110" b="3" />!</message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Art? <delay20 />Seriously? <delay20 />For me?<delay20 /> <anim id="Blushing" target="actor" targetSpec="" />I don't<tag a="110" b="0" />
+know what to say. <delay20 />This is rad. <delay8 />Is it
+valuable?<delay20 /> It looks valuable.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Know what? <anim id="Negative" target="actor" targetSpec="" />I don't think I'm cool
+with keeping this right now.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />You
+should hang onto it, <tag a="110" b="5" />.</message>
+	<message label="123" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wait, hang on, hold up! <delay20 />You're givin'
+me art?!<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Wow, this is really cool!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Hey, uh<tag a="110" b="0" /> I don't wanna sound
+ungrateful,<delay8 /> but has <colour id="3" />Blathers<colour id="65535" /> seen
+this yet, <tag a="110" b="5" />?<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I just feel like <colour id="3" />Blathers<colour id="65535" /> has done
+a ton for <tag a="110" b="8" />, so he
+oughta get first crack at it.</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I bet this'll look great on me!</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Y'know, this kinda stuff isn't normally
 my style,<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />but I've gotta try this on!</message>
@@ -66,8 +80,8 @@ day's not gonna know what hit it.<delay20 />
 Thanks a ton, <tag a="110" b="3" />!</message>
 	<message label="401" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You thinkin' what I'm thinkin'?<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />Let's
 paint the island with greenery!</message>
-	<message label="402" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Now THAT is a tasty-lookin'
-<tag a="125" b="0" arg="0x0" />!</message>
+	<message label="402" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />There's nothing tastier than <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />. <delay20 />Thanks!</message>
 	<message label="403" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Thanks! <delay20 />I could eat these for days.<delay20 />
 They're scary good, <tag a="110" b="5" />!</message>
 	<message label="404" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Someone took REALLY good care of
@@ -121,6 +135,11 @@ Thanks, <tag a="110" b="3" />!</message>
 this?<delay frames="40" /> 'Cause<tag a="110" b="0" /><delay frames="40" /> <anim id="Apologize" target="actor" targetSpec="" />No, I'm sorry. <delay20 />I can't
 accept this. <delay20 />Sorry, <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />It's SUPER thoughtful, though.<delay20 />
 I really appreciate it!</message>
+	<message label="509" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />That what I think it is? <delay20 /><tag a="50" b="3" /><tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />?</message>
+	<message label="510" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ha! <delay8 />You rock, <tag a="110" b="3" />!<delay20 />
+<tag a="50" b="3" /><tag a="110" b="8" /> for life! <delay20 />Buddies
+for life, <tag a="110" b="5" />!</message>
 	<message label="511" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />,
 right? <delay20 />VERY cool!</message>
 	<message label="512" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Now THAT<delay20 /> is my jam! <delay20 />I love this

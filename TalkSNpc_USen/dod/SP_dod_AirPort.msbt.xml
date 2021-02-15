@@ -458,4 +458,52 @@ residents.
 <anim id="Explain" target="actor" targetSpec="" />It can be in a tent, <delay20 />but you gotta live
 on the island. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Come talk to me when
 you're squared away on that.</message>
+	<message label="1300" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />By the way, I got a <colour id="1" />May Day Ticket
+<colour id="65535" />with your name on it behind the desk
+here, so take advantage of it!</message>
+	<message label="1301" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I got a <colour id="1" />May Day Ticket <colour id="65535" />from
+<colour id="3" />Tom Nook<colour id="65535" /> with "<tag a="110" b="1" />"
+written on it, <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />which makes it yours.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />When you want to use this ticket,
+you just gotta say the magic words
+"<colour id="1" />I wanna fly!<colour id="65535" />"<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Got it?</message>
+	<message label="1302" attrib="04 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />just to get the paperwork all
+official, <anim id="QuestionMark" target="actor" targetSpec="" />where didja want to go?</message>
+	<message label="1302_a" attrib="00 00 00 00">I wanna visit someone.</message>
+	<message label="1302_b" attrib="00 00 00 00">Use <colour id="1" />May Day Ticket<colour id="65535" />.</message>
+	<message label="1302_c" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="1302_02" attrib="06 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />just to get the paperwork all
+official, <anim id="QuestionMark" target="actor" targetSpec="" />where didja want to go?</message>
+	<message label="1302_02_a" attrib="00 00 00 00">I wanna visit someone.</message>
+	<message label="1302_02_b" attrib="00 00 00 00">Use <colour id="1" />May Day Ticket<colour id="65535" />.</message>
+	<message label="1302_02_c" attrib="00 00 00 00">Visit Harv's Island.</message>
+	<message label="1302_02_d" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="1302_04" attrib="06 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />just to get the paperwork all
+official, <anim id="QuestionMark" target="actor" targetSpec="" />where didja want to go?</message>
+	<message label="1302_04_a" attrib="00 00 00 00">I wanna visit someone.</message>
+	<message label="1302_04_b" attrib="00 00 00 00">Use <colour id="1" />May Day Ticket<colour id="65535" />.</message>
+	<message label="1302_04_c" attrib="00 00 00 00">Use <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket<colour id="65535" />.</message>
+	<message label="1302_04_d" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="1302_06" attrib="08 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />just to get the paperwork all
+official, <anim id="QuestionMark" target="actor" targetSpec="" />where didja want to go?</message>
+	<message label="1302_06_a" attrib="00 00 00 00">I wanna visit someone.</message>
+	<message label="1302_06_b" attrib="00 00 00 00">Use <colour id="1" />May Day Ticket<colour id="65535" />.</message>
+	<message label="1302_06_c" attrib="00 00 00 00">Use <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket<colour id="65535" />.</message>
+	<message label="1302_06_d" attrib="00 00 00 00">Visit Harv's Island.</message>
+	<message label="1302_06_e" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="1303" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You're ready to go on the tour
+with your <colour id="1" />May Day Ticket<colour id="65535" />?<delay frames="40" /><snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />
+Roger that!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="1304" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />This <colour id="1" />May Day Tour<colour id="65535" /> is a special trip
+to a faraway island. <delay20 />It's all organized
+by <colour id="3" />Tom Nook<colour id="65535" />!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />As for what awaits you there<tag a="110" b="0" /><anim id="Grin" target="actor" targetSpec="" /> You'll
+just have to find out when you land!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />For this tour, <anim id="Nodding" target="actor" targetSpec="" />you have to go <colour id="1" />empty-
+handed<colour id="65535" />. We'll hold on to all your
+belongings here at the counter.<pageBreak /><anim id="Assent" target="actor" targetSpec="" />Don't worry! <delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />We'll be sure to <anim id="Smiling" target="actor" targetSpec="" />return
+them when you get back.</message>
+	<message label="1305" attrib="02 00 00 00">So<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />wanna stow your luggage and
+head out on the <colour id="1" />May Day Tour<colour id="65535" />?</message>
+	<message label="1305_a" attrib="00 00 00 00">Time for takeoff!</message>
+	<message label="1305_b" attrib="00 00 00 00">Not yet.</message>
+	<message label="1306" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Roger that!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Just let me know when
+you're ready to take to the skies!</message>
 </msbt>

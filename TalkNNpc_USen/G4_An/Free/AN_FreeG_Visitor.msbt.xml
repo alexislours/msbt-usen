@@ -4,7 +4,7 @@ of <tag a="110" b="8" />?</message>
 	<message label="001_a" attrib="04 00 00 00 00 00 00 00">Oh! Um, that one!</message>
 	<message label="001_b" attrib="05 00 00 00 00 00 00 00">Is it one of those?</message>
 	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
-	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x1 0x10 0x11 0x12" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x13 0x10 0x11 0x14" /></message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" /><tag a="110" b="0" />You win this round.<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />Anyway, <delay20 />yep,
 it's <tag a="110" b="7" arg="0xcd01" />.<delay20 /> Don't forget to buy
 a few, <tag a="110" b="5" />!</message>
@@ -32,6 +32,16 @@ get almost anything there!</message>
 They're still getting everything set
 up, but some day<tag a="110" b="0" /><delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />Some day!</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x15 0x16 0x17 0x18 0x19" /></message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey! <delay8 />You seen our <colour id="1" />museum<colour id="65535" />'s art
+gallery yet? <delay20 />If you haven't, you
+really should, <tag a="110" b="5" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />For one, it's gorgeous. <delay20 />For another,
+it's an art gallery, so there's lots of
+cool art in there.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Crazy, huh?</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />So what're you visiting for? <delay20 />You
+gonna catch some <tag a="110" b="8" />
+bugs and fish to take home?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />'Cause if so, you're in luck.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />We've
+got some cool ones, <tag a="110" b="5" />!</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="4" arg="0x15 0x16 0x17 0x18 0x19 0x12" /></message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
 	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
@@ -49,6 +59,11 @@ our <tag a="135" b="13" arg="0x0" />!</message>
 	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />You better not leave until you check
 out the <tag a="135" b="13" arg="0x2" />
 at the <colour id="1" />museum<colour id="65535" />'s fossil exhibit!</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I get real fired up whenever I see
+<tag a="50" b="2" /><tag a="135" b="13" arg="0x3" />.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Like, <delay8 />I'll come up with new recipes,<delay8 />
+get new gardening ideas,<delay8 /> come up
+with pranks to pull<tag a="110" b="0" /><delay20 /> <anim id="Greeting" target="actor" targetSpec="" />You name it!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I had no idea the <colour id="1" />museum<colour id="65535" /> here was
+gonna hit me like that, <tag a="110" b="5" />!</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xca 0xd2" /></message>
 	<message label="202" attrib="00 00 01 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You just couldn't stay away, could
 you?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />So which is it—you here to see

@@ -30,7 +30,7 @@ too scared to try indoors!<delay8 /><anim id="FaintSmile" target="actor" targetS
 <20_3 arg="6" /><20_3 arg="3" /><anim id="HappyFlower" target="actor" targetSpec="" />And the outside bugs could join
 in since it's an outside party!</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" />I always make sure nobody's <anim id="Explain" target="actor" targetSpec="" />sitting
-in that <tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" />I like to keep it empty so there's
+on that <tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" />I like to keep it empty so there's
 someplace <anim id="Greeting" target="actor" targetSpec="" />for Grandma to sit if
 she comes to visit!</message>
 	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />?<delay frames="40" />
@@ -47,4 +47,15 @@ FOR OUTDOOR FOOD! <delay20 />OH! <delay20 />WOW!</message>
 makes me wanna<anim id="EmotEnd" target="actor" targetSpec="" /> go camping!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="AbsentMindedness" target="actor" targetSpec="" />Eating some yummy food beside a
 campfire and talking to night bugs?<delay frames="40" />
 <anim id="HappyFlower" target="actor" targetSpec="" />Yeah! I should do it!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><20_2 arg="9" /><20_2 arg="10" /><anim id="Grin" target="actor" targetSpec="" />I have an inside source saying moths
+wanna thank whoever put <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> here.<20_3 arg="6" /><20_3 arg="3" /></message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="HappyFlower" target="actor" targetSpec="" />It's soooo convenient having
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
+out here.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="SmugFace" target="actor" targetSpec="" />Now I can see all my cool grass
+stains the same way everyone
+else does, <tag a="110" b="5" />!</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<delay20 />
+Here?<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="OhGeez" target="actor" targetSpec="" />Was someone moving and got
+bored, <tag a="110" b="5" />?</message>
 </msbt>

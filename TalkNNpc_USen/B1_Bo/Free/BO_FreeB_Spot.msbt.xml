@@ -119,7 +119,7 @@ make a great <colour id="1" />museum<colour id="65535" /> here
 on <tag a="110" b="8" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" /><20_3 arg="6" /><20_3 arg="3" />Sounds like he still needs things to
 put on display, though. Maybe we
 oughta help him out?</message>
-	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6f 0x70 0x71 0x74" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x6f 0x70 0x71 0x72 0x74" /></message>
 	<message label="029" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" /><20_2 arg="10" />Hey! Ya visiting <colour id="1" />Resident Services<colour id="65535" />?<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />Are ya gonna start doing
 community work?<pageBreak /><20_3 arg="6" />I had to work once. <10_4 /><anim id="Shaking" target="actor" targetSpec="" />It was the worst!</message>
 	<message label="030" attrib="00 00 00 00 00 00 00 00"><20_3 arg="10" /><20_3 arg="9" />Hey, <tag a="110" b="4" />!<delay20 />
@@ -146,6 +146,7 @@ be friends! A huh huh!</message>
 	<message label="111" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7700 0x7400 0xcd00" /></message>
 	<message label="112" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7801 0x7400 0xcd00" /></message>
 	<message label="113" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7902 0x7400 0xcd00" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7a03 0x7400 0xcd00" /></message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><tag a="50" b="3" /><tag a="110" b="6" />, <anim id="Smiling" target="actor" targetSpec="" />this is really some
 <colour id="1" />museum<colour id="65535" />!<delay frames="40" /> It's open 24/7, ya know.<pageBreak />It's like a convenience store<tag a="110" b="0" /><delay40 />
 <20_3 arg="6" /><20_3 arg="3" /><delay8 />but for your mind.</message>
@@ -160,4 +161,11 @@ tag with bug friends.</message>
 and I just stare at <tag a="50" b="2" />
 <tag a="135" b="13" arg="0x2" />!<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I'd hate to miss it if a fossil starts
 moving, <tag a="110" b="6" />!</message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I like to visit the museum
+sometimes to look at <tag a="50" b="1" />
+<tag a="135" b="13" arg="0x3" />!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I really like art BECAUSE I don't
+always get it.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />But then I learn about the art,
+or the artist, <delay20 />and I DO get it!<pageBreak />I really dig learning, ya know?<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />It makes my brain feel all weird
+inside, <tag a="110" b="5" />!</message>
 </msbt>

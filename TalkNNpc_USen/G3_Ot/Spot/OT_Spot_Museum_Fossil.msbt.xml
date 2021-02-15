@@ -59,13 +59,13 @@ lonely.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" 
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="200_01" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />This <colour id="1" />museum <colour id="65535" />is something of a
 status symbol for the island,<delay8 />
-don't you think?
-I mean,<anim id="Explain" target="actor" targetSpec="" /> it's such a civilized and
+don't you think, <tag a="110" b="5" />?
+<anim id="Explain" target="actor" targetSpec="" />I mean, it's such a civilized and
 dignified institution to have here on
 what was once but a deserted isle.
-Why, <anim id="SmugFace" target="actor" targetSpec="" />I feel more civilized and
-dignified just being here,
-<tag a="110" b="6" />.</message>
+<anim id="Nodding" target="actor" targetSpec="" />I feel more civilized and dignified
+just being here. <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />And I wouldn't have
+thought that possible, my dear.</message>
 	<message label="200_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I came to see the fossil exhibit today.<delay frames="40" />
 <anim id="Explain" target="actor" targetSpec="" />These prehistoric finds have ALWAYS
 fascinated me, <tag a="110" b="6" />.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />And the way everything is displayed

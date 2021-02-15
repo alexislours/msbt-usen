@@ -28,6 +28,23 @@ it makes your voice squeaky.</message>
 <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />You should go show this to <colour id="3" />Blathers<colour id="65535" />!</message>
 	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Is this for me?!<delay40 /> <anim id="HappyDance" target="actor" targetSpec="" />I've always been into paleontology as maybe, like, a side
 gig<tag a="110" b="0" /><delay20 /> <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />I should write a fossil song!</message>
+	<message label="121" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />This is really for me?<delay40 /> Because I live
+by two rules, <tag a="110" b="5" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Rule one: Always be ON! <delay20 />You never
+know who's watching.<delay40 /> Rule two:
+<anim id="Negative" target="actor" targetSpec="" />No takesies backsies.</message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00">Wow. <delay20 /><anim id="Blushing" target="actor" targetSpec="" />This is the nicest gift anyone
+has ever offered me<tag a="110" b="0" /><delay40 /><anim id="Frantic" target="actor" targetSpec="" />but don't tell
+my mom that, OK?
+<anim id="Worried" target="actor" targetSpec="" />She spent, like,<delay8 /> months on the hand-
+crocheted jumpsuit she made me for
+my birthday last year.
+And,<delay8 /> much like that jumpsuit,<delay20 /><anim id="Negative" target="actor" targetSpec="" /><delay20 /> I can't
+accept this.<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> It's just too special to
+wear<delay20 />— I mean,<delay20 /><anim id="ShyBoy" target="actor" targetSpec="" /> display.</message>
+	<message label="123" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Thank you!<delay40 /> <colour id="3" /><anim id="FaintSmile" target="actor" targetSpec="" /><colour id="65535" />As much as I wish I could
+keep this for myself,<delay20 /> I think it
+deserves a wider audience.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'm guessing <colour id="3" />Blathers <colour id="65535" />will have the
+perfect spot for it, <tag a="110" b="5" />.</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm going to try it on<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><delay20 />très pronto!</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Tiiime to try it on! <anim id="HappyDance" target="actor" targetSpec="" />Ahhh!
 I'm so EXCITED.</message>
@@ -112,6 +129,13 @@ super rare,<delay20 /> right?<pageBreak /><anim id="Serious" target="actor" targ
 <tag a="110" b="3" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />But thanks SO much for thinking
 of me.<delay20 /> <anim id="HappyDance" target="actor" targetSpec="" />I am TOTES feeling the
 love, <tag a="110" b="6" /><tag a="110" b="0" /></message>
+	<message label="509" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Oh my. <delay20 />Is this<tag a="110" b="0" /><delay40 /> Could this be<tag a="110" b="0" /><delay40 />
+<anim id="Love" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
+	<message label="510" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />This gift is so amazing I'm almost
+jealous of myself, <tag a="110" b="5" />.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I know you're not supposed to have
+favorites when it comes to friends,<delay20 />
+but in a purely hypothetical sense<tag a="110" b="0" />
+<anim id="EmotEnd" target="actor" targetSpec="" />you're definitely my top pick.</message>
 	<message label="511" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ooh!
 <tag a="125" b="0" arg="0x0" />?!</message>
 	<message label="512" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Thanks, <tag a="110" b="3" />! I have
