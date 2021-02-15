@@ -52,11 +52,10 @@ just before you unwrap somethin'.</message>
 <anim id="FaintSmile" target="actor" targetSpec="" />What say I open this one up?</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oho<tag a="110" b="0" />cake!<anim id="EmotEnd" target="actor" targetSpec="" /> Usually I try to avoid
 sweets, <anim id="Grin" target="actor" targetSpec="" />but it's a special occasion!</message>
-	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />
-<anim id="Pardon" target="actor" targetSpec="" />Guess you didn't notice I had one
-of those already<tag a="110" b="0" /><delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />
-<anim id="Smiling" target="actor" targetSpec="" />I'm just teasin' you, kiddo! <delay20 /><anim id="Grin" target="actor" targetSpec="" />You can
-never have too much of a good thing.</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />Guess you didn't know I had <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> already!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Aw, I'm just teasin' you, kiddo.
+<delay20 /><anim id="Grin" target="actor" targetSpec="" />You can never have too much of
+a good thing.</message>
 	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<anim id="EmotEnd" target="actor" targetSpec="" />
 Psst, <anim id="Pardon" target="actor" targetSpec="" />have a gander at what
 I'm wearin' right now<tag a="110" b="0" /><delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!<delay8 />

@@ -72,4 +72,18 @@ I'm <tag a="110" b="10" />.<pageBreak /><anim id="Explain" target="actor" target
 us celebrate <tag a="115" b="1" arg="0xcd00" />'s
 birthday,<delay20 /> <tag a="110" b="5" />.
 <anim id="HappyDance" target="actor" targetSpec="" />So join the party!</message>
+	<message label="020" attrib="00 00 02 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />A birthday on Valentine's Day is
+doubly sweet. <delay20 /><anim id="HappyDance" target="actor" targetSpec="" />But then again, so is
+<tag a="115" b="1" arg="0xcd00" />, so it works out!</message>
+	<message label="020_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I have a gift for you!</message>
+	<message label="020_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />It sure does.</message>
+	<message label="021" attrib="00 00 02 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Isn't being born on Valentine's Day
+just terribly lovely and romantic?</message>
+	<message label="021_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I have a gift for you!</message>
+	<message label="021_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yeah, it is...</message>
+	<message label="022" attrib="00 00 02 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />It's so fun to celebrate Valentine's
+Day and <tag a="115" b="1" arg="0xcd00" />'s b-day
+at the same time<tag a="110" b="0" /></message>
+	<message label="022_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I have a gift for you!</message>
+	<message label="022_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />It really is!</message>
 </msbt>

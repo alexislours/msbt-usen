@@ -89,4 +89,21 @@ birthday bash!
 <anim id="Grin" target="actor" targetSpec="" />There's nothing better than
 crashing a stranger's birthday.<delay frames="40" />
 <anim id="SmugFace" target="actor" targetSpec="" />Ask me how I know.</message>
+	<message label="020" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Talk about a VIP event. <delay20 /><anim id="Hello" target="actor" targetSpec="" />Not only is
+it <tag a="115" b="1" arg="0xcd00" />'s birthday, it's
+Valentine's Day!</message>
+	<message label="020_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I have a gift for you!</message>
+	<message label="020_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's right.</message>
+	<message label="021" attrib="00 00 02 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />So it's <tag a="115" b="1" arg="0xcd00" />'s birthday.<delay frames="40" />
+<delay frames="40" />But I feel like February 14th is
+big for some other reason too<tag a="110" b="0" /></message>
+	<message label="021_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Here's a valentine!</message>
+	<message label="021_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Hmm...</message>
+	<message label="022" attrib="00 00 02 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />It's Valentine's Day and
+<tag a="115" b="1" arg="0xcd00" />'s birthday at
+the same time!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />This is like when a dance party
+breaks out at <tag a="50" b="2" /><tag a="135" b="3" arg="0xcd00" />
+restaurant. <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />Two of my faves at once!</message>
+	<message label="022_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I also have a gift!</message>
+	<message label="022_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sounds fun!</message>
 </msbt>

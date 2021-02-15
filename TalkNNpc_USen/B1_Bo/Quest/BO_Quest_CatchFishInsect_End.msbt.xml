@@ -84,9 +84,8 @@ I picked it out, just for you!</message>
 	<message label="045" attrib="00 00 00 00 00 00 00 00">A huh huh huh!<delay frames="40" /> It's
 <anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><10_4 />
 I hope you like it!</message>
-	<message label="046" attrib="00 00 00 00 00 00 00 00">A huh huh huh!<delay frames="40" /> Here ya go!
-<anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><10_4 />
-From me to you! <delay40 />Me to you.</message>
+	<message label="046" attrib="00 00 00 00 00 00 00 00">A huh huh huh!<delay frames="40" /> Hope you like it. <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />It's
+<tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!</message>
 	<message label="051" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ooh,<delay20 /> lemme see!</message>
 	<message label="052" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Can I see?</message>
 	<message label="053" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Huh?<delay frames="40" /> What is it?</message>
@@ -106,7 +105,7 @@ follow the sound!</message>
 	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I'm waiting for a butterfly!<delay40 />
 I see them everywhere, <delay20 />but
 I think they REALLY like flowers.</message>
-	<message label="106" attrib="00 00 00 00 00 00 00 00">I really <anim id="BigSmile" target="actor" targetSpec="" /> want a dragonfly!<delay frames="40" />
+	<message label="106" attrib="00 00 00 00 00 00 00 00">I really<anim id="BigSmile" target="actor" targetSpec="" /> want a dragonfly!<delay frames="40" />
 <anim id="Restless" target="actor" targetSpec="" />They fly real fast, <delay20 />so make sure
 you sneak up, like, reaaal slow.<delay20 /></message>
 	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I want a bug that likes flowers.<delay frames="40" />

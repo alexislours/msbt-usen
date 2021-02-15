@@ -11,7 +11,7 @@ for the island. <anim id="Love" target="actor" targetSpec="" />And for me! I get
 practice standing in front of a crowd!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />They might not know they're
 supposed to look at me and cheer,
 but that's OK. <anim id="FaintSmile" target="actor" targetSpec="" />I'm only practicing.</message>
-	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Next Saturday is the Fishing Tourney!
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />This Saturday is the Fishing Tourney!
 <anim id="HappyDance" target="actor" targetSpec="" />I can't wait, <tag a="110" b="3" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I have to start thinking about what
 I'm going to wear. <delay20 />I've got to look
 good when I accept my trophy<tag a="110" b="0" /></message>
@@ -111,4 +111,12 @@ anyway, <tag a="110" b="3" /><tag a="110" b="0" /></message>
 longer! <delay20 />Just thinking of all the fun
 we'll have is driving me mad!<pageBreak /><anim id="Hot" target="actor" targetSpec="" />Now I'm sweating?<delay frames="40" /> This anticipation
 is literally cardio.<delay20 /> <anim id="Sighing" target="actor" targetSpec="" />I need to hydrate!</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00">It's almost Festivale! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Ooh! <delay8 />Yeah!<delay8 />
+This type of dance toootally jazzes
+me up! Can it just be here already?</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Tomorrow is Festivale!<delay20 /> I'm waaay too
+excited. <delay20 /><anim id="HappyDance" target="actor" targetSpec="" />My PASSION is at a solid 11!<delay20 />
+That's nearly as high as it goes!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Tomorrow's all about being a star,
+chasing the rhythm, and getting
+attention. <delay40 /><anim id="Grin" target="actor" targetSpec="" />It's only the best day ever!</message>
 </msbt>

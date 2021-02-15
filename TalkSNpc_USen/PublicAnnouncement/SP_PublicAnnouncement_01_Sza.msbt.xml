@@ -336,6 +336,9 @@ someone visiting our island with
 a hefty sack of gifts<tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />If you happen to see him,<delay8 /> it might
 be worth asking if he could give
 you a present too. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />You never know!</message>
+	<message label="008_11_01" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Festivale will be happening all day
+today.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I want everyone to go out and
+show off your best dance moves!</message>
 	<message label="010" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />Hello, everyone.<delay40 />
 I'm sorry to interrupt your day, but I
 thought you might want to know<tag a="110" b="0" />
@@ -511,13 +514,13 @@ craft <anim id="Smiling" target="actor" targetSpec="" />something truly wintry!<
 	<message label="615" attrib="00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />Oof!<delay20 /> Another one of those days
 that chills you right to the core<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Which means it's also a perfect day
 to go outside and play in the snow!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you do venture out into the cold,<delay8 />
-check the ground for snowballs,
+check the ground for snowballs
 and give them a little push.
 <anim id="Smiling" target="actor" targetSpec="" />Keep rolling them up and, once they
 get big enough,<delay20 /> you can stick two
-together and make a <colour id="1" />Snowboy<colour id="65535" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I hope to see a whole parade
+together to make a <colour id="1" />Snowboy<colour id="65535" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I hope to see a whole parade
 of <colour id="1" />Snowboys<colour id="65535" /> on my morning
-walk tomorrow!</message>
+walks eventually!</message>
 	<message label="616_01" attrib="00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />While going through my mental
 checklist this morning, I was rudely
 interrupted<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> by an errant <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />maple leaf<colour id="65535" />!

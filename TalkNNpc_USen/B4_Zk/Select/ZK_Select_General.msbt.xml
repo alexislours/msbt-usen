@@ -39,11 +39,11 @@ return.
 	<message label="006_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I can't let you walk away empty-
 handed after you were so generous
 to me.
-<anim id="Grin" target="actor" targetSpec="" />Here, you gotta take this
+<anim id="Grin" target="actor" targetSpec="" />Here, you gotta take <tag a="50" b="2" />
 <tag a="125" b="4" arg="0x0" />, OK?</message>
 	<message label="006_03" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Hold up, I can't let you just give
 me something this good for free.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Let's see if I have anything decent
-to give you<tag a="110" b="0" /><delay20 /> <anim id="Aha" target="actor" targetSpec="" />Aha! <delay20 />How about this
+to give you<tag a="110" b="0" /><delay20 /> <anim id="Aha" target="actor" targetSpec="" />Aha! <delay20 />How about <tag a="50" b="2" />
 <tag a="125" b="4" arg="0x0" />, eh?</message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />You're too generous.<delay20 /> Seriously!<delay20 />

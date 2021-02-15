@@ -90,4 +90,25 @@ a party.
 <anim id="FaintSmile" target="actor" targetSpec="" />The more the merrier, <delay frames="13" />that's MY
 motto, <tag a="110" b="5" />! <delay20 />Which is my
 way of saying<tag a="110" b="0" /><delay frames="13" /><anim id="HappyDance" target="actor" targetSpec="" />join the fun!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="020" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I do approve of the dual celebration.
+That is, Valentine's Day and one's
+birthday, <tag a="110" b="5" />.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />It takes the focus away from the
+adding up of years, you see!</message>
+	<message label="020_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Here's a gift too!</message>
+	<message label="020_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I hear you.</message>
+	<message label="021" attrib="00 00 02 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Ah, birthdays bring back such
+memories.<delay20 /> I can still taste the
+various cakes of my youth<tag a="110" b="0" /><pageBreak /><anim id="Eh" target="actor" targetSpec="" />But today is Valentine's Day as
+well! <delay20 /><anim id="Nodding" target="actor" targetSpec="" />And there are other sweets
+to savor, <tag a="110" b="5" />.</message>
+	<message label="021_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Here's a sweet gift!</message>
+	<message label="021_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Enjoy!</message>
+	<message label="022" attrib="00 00 02 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />We want to make <tag a="115" b="1" arg="0xcd00" />
+feel truly special today, so we put up
+all of these birthday decorations.
+<anim id="Blushing" target="actor" targetSpec="" />Of course, it's also Valentine's Day,
+so we worked in some extremely
+subtle Valentine's themes<tag a="110" b="0" /></message>
+	<message label="022_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Here's your valentine!</message>
+	<message label="022_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Cool. Nice job!</message>
 </msbt>

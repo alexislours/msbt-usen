@@ -54,8 +54,9 @@ Do you mind if I open it?</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh!<delay20 /> Look at this!<pageBreak /><anim id="Love" target="actor" targetSpec="" />I love baked treats,<delay20 /> <tag a="110" b="5" />.<delay frames="30" />
 <anim id="Smiling" target="actor" targetSpec="" />This is so sweet of you,<delay20 /> <anim id="Crying" target="actor" targetSpec="" />I could cry!</message>
 	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I can't believe this,<delay20 /> <tag a="110" b="5" />!<delay frames="30" />
-<anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />How'd you know?<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />It's just the sort of
-thing I like having around my home.</message>
+<anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />The truth is, I already have
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />But you knew exactly what I'd like,
+and that counts for a lot.</message>
 	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<delay frames="40" />
 <anim id="Smiling" target="actor" targetSpec="" />This is so perfect!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I love wearing mine so much<delay20 /> that
 I hate ever taking it off to wash it.<delay40 />
@@ -112,9 +113,10 @@ to give me some trash as a gift<delay8 /><tag a="110" b="0" /></message>
 <anim id="FaintSmile" target="actor" targetSpec="" />side dish,<delay20 /> like glazed turnips!<pageBreak />I know you can sell these<delay20 />, but
 <anim id="Explain" target="actor" targetSpec="" />when they're crisp like this<delay20 />, I
 like to try cooking with them.</message>
-	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I was just wondering what smelled
-so good!<delay40 /> <anim id="HappyFlower" target="actor" targetSpec="" />I must've been smelling
-your <tag a="125" b="0" arg="0x0" />.<delay20 /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />What a sweet thing to bring me!</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ooh, look at that! <delay20 />It's <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />What a treat! <delay20 />Thank you for this.<delay20 />
+You're such a sweetheart for
+thinking of me.</message>
 	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />This is the DIY recipe for <tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Hmmmm<delay8 /><tag a="110" b="0" /> I don't think I can accept
 this from you,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I appreciate the thought,<delay20 /> but I'd feel

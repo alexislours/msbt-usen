@@ -32,10 +32,11 @@ something to give you!<delay frames="40" /> Soooo<tag a="110" b="0" />
 	<message label="005_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I thought maybe you'd like this,
 so here you go!</message>
 	<message label="006" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
-	<message label="006_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />The <tag a="125" b="0" arg="0x0" />
-is something I brought
-from my last island.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />It seemed like your kind of thing, so
-now it actually is your thing!</message>
+	<message label="006_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Just a chic little souvenir I brought
+from my last island.<delay8 /> Check it!<delay20 /> <anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I just had this feeling those might be
+your thing<tag a="110" b="0" /><anim id="SmugFace" target="actor" targetSpec="" />and now they get to be
+<tag a="110" b="9" />'s thing too!</message>
 	<message label="006_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<delay frames="40" />
 I think it's perfect for this island.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You seem like you'd have good taste.<delay20 />
 <anim id="Explain" target="actor" targetSpec="" />Can you find a good place to put it?</message>

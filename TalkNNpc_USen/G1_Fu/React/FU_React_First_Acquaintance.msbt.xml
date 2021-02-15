@@ -138,6 +138,22 @@ we haven't run into each other yet.<delay40 />
 <anim id="Nodding" target="actor" targetSpec="" />Once I'm feeling better,<delay20 /> we should
 get together,<delay20 /> <tag a="110" b="5" />.
 <anim id="Sneezing" target="actor" targetSpec="" />AAAAA-CHOO!<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />Sorry again.</message>
+	<message label="421" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hello, <tag a="110" b="3" />! <delay20 />Starting
+today, I'll be living here.<delay20 /> If you
+remember, I'm <tag a="110" b="10" />.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I was feeling a bit nervous, but
+knowing you're here makes me feel
+much better about it all.</message>
+	<message label="422" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Hello, <tag a="110" b="3" />!<delay20 /> My name's
+<tag a="110" b="10" />.<delay20 /> Do you happen
+to remember me, by any chance?<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />In case you haven't heard, I'm living
+here now.<delay20 /> I truly hope we can get to
+know each other better!</message>
+	<message label="424" attrib="00 00 00 00 00 00 00 00">Ah<tag a="110" b="0" /><delay20 /> <anim id="Sneezing" target="actor" targetSpec="" />ACHOO!<delay20 /> Oh, pardon me!<delay20 />
+It's you, right? <tag a="50" b="3" /><tag a="110" b="3" />?<delay20 />
+It's me, <tag a="110" b="10" />.<pageBreak />I'm living on <tag a="110" b="8" /> now.<delay20 />
+<anim id="Worried" target="actor" targetSpec="" />Oh, but I have a bit of a cold,
+I'm afraid.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Once I'm feeling better, let's plan on
+having a nice chat!</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="101_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<pageBreak />I'm so glad we met on that island.<delay frames="40" />
 <anim id="Assent" target="actor" targetSpec="" />And that I'm all moved in here now.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I've still got lots of unpacking to do,<delay20 />

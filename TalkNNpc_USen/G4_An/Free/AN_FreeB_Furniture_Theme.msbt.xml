@@ -28,11 +28,11 @@ set up an outdoor school here or
 something, <tag a="110" b="5" />?<pageBreak /><20_2 arg="3" /><20_3 arg="6" /><anim id="Grin" target="actor" targetSpec="" />Well, you can't teach an old
 <tag a="110" b="15" /> new tricks, <delay20 />so count
 me out!</message>
-	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="BigSmile" target="actor" targetSpec="" />Well, <delay20 />we're already on an island.<delay20 />
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="BigSmile" target="actor" targetSpec="" />Well, we ARE living on an island.<delay20 />
 May as well make it a fancy, <delay8 />resort-y
-one, <tag a="110" b="5" />!<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha!<pageBreak /><20_2 arg="6" /><20_2 arg="3" /><anim id="Smiling" target="actor" targetSpec="" />Hey! <delay20 />I say whoever put <tag a="50" b="2" />
-<tag a="125" b="0" arg="0x0" /> here,<delay20 />
-keep 'em coming!</message>
+one, <tag a="110" b="5" />!<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha!<pageBreak /><20_2 arg="6" /><20_2 arg="3" /><anim id="Smiling" target="actor" targetSpec="" />It's easy. <delay20 />Just slam down <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />,<delay20 />
+and you're halfway there!</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="QuestionMark" target="actor" targetSpec="" />Who do you think put <tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" /> out
 here, <tag a="110" b="5" />?<pageBreak /><20_2 arg="6" /><20_2 arg="3" /><anim id="Worried" target="actor" targetSpec="" />I get wanting to feel the breeze while
@@ -126,4 +126,7 @@ testin' to see what folks think.<delay frames="40" />
 <tag a="125" b="0" arg="0x0" /> here.<pageBreak /><20_3 arg="3" /><20_3 arg="6" /><anim id="AbsentMindedness" target="actor" targetSpec="" />Reminds me of holidays with the
 fam,<delay8 /> and how Gramps used to<tag a="110" b="0" /><delay20 />
 <anim id="Shocked" target="actor" targetSpec="" />Ah!<delay frames="30" /> <anim id="Frantic" target="actor" targetSpec="" />No!<delay8 /> No getting homesick!</message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Grin" target="actor" targetSpec="" />I can't stop grinning when I see our
+<tag a="125" b="0" arg="0x0" /> there.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" />It's like all of <tag a="110" b="8" /> is
+getting its party on.<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />I love it!</message>
 </msbt>

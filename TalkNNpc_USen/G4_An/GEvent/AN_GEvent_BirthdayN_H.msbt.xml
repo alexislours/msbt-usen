@@ -54,10 +54,10 @@ to see what's in here!</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ha! <delay20 />I never woulda guessed you'd
 bring birthday sweets!<delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> This looks
 so, <delay20 />so good. <delay20 />Thank you!</message>
-	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?!<delay frames="40" />
-<anim id="Greeting" target="actor" targetSpec="" />You know me so well. I just
-bought that yesterday!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I love how in sync we are. <delay20 />I'm
-definitely gonna hang on to this!</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />You know me so well.<delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> I already have
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I love how in sync we are.<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />I don't
+even mind having <tag a="50" b="2" />extra
+<tag a="125" b="0" arg="0x0" />!</message>
 	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha!<delay20 /> Didja happen to notice
 I'm already wearing one?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />This is great! <delay20 />Now I've got
 two for when one gets dirty.<delay frames="40" />
@@ -116,15 +116,23 @@ were you?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="029" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />I don't know what I expected but<tag a="110" b="0" /><delay20 />it
 definitely wasn't turnips.<delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> Thanks?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />They look tasty, though. <delay20 />Guess I
 know my lunch plans for tomorrow.</message>
-	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<delay frames="40" />
-<anim id="Smiling" target="actor" targetSpec="" />Wow! <delay20 />I knew SOMETHING
-smelled good. <delay20 />Thanks!</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />I KNEW it'd be something good
+from you. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />You brought me
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
 	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa! <delay20 />Is that a DIY recipe for
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />That's really, <delay20 />REALLY cool!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 />too cool, actually.<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />I can't accept
 this. <delay20 />These recipes don't grow on
 trees. <delay20 />You oughta hang on to this.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />But it's the thought that counts,
 and you went <delay20 />ALL <delay20 />OUT.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />That was
 pretty stinkin' rad, <tag a="110" b="5" />.</message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wait!<delay8 /> Hang on!<delay8 /> Whoa!<delay20 /> You got me
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Wow!<delay8 /> You remembered my birthday!<delay20 />
+I usually get forgotten with all the
+Valentine's Day stuff going on.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Birthdays on holidays can be rough.<delay20 />
+Folks go off celebrating whatever,
+but you're like<tag a="110" b="0" /><delay20 /><anim id="Outraged" target="actor" targetSpec="" />hey!<delay8 /> It's my day too!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Anyway, you rock.<delay20 /> Thanks a ton for
+this.<delay20 /> Wait, no!<delay8 /> <anim id="HappyDance" target="actor" targetSpec="" />Make that two tons,
+PLUS an encore ton, <tag a="110" b="5" />!</message>
 	<message label="048" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Here! <delay20 />This is for you. <delay20 />It's <tag a="50" b="2" />
 <tag a="125" b="4" arg="0x0" />.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I know it ain't much, but y'know, <delay20 />it's
 MY birthday, not yours.</message>
@@ -227,4 +235,20 @@ double rock?<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec=""
 from you, <tag a="110" b="5" />!</message>
 	<message label="100_a" attrib="00 00 00 00 00 00 00 00">Here you go!</message>
 	<message label="100_b" attrib="00 00 00 00 00 00 00 00">Sorry, nope.</message>
+	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's so rad everyone came out for my
+birthday today.<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />Or<tag a="110" b="0" />maybe they're
+only here to exchange valentines?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Nah, it's gotta be for me. <anim id="BigSmile" target="actor" targetSpec="" />I mean, just
+LOOK at this place, <tag a="110" b="5" />!</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />You rock! This is for you!</message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Stay awesome.</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I wanna see everyone rockin' out like
+it's both your best buddy's birthday
+AND Valentine's Day<tag a="110" b="0" /><anim id="Smiling" target="actor" targetSpec="" />'cause it is!</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />This is for you!</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll do my best.</message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Having my birthday on Valentine's
+Day kinda rocks, honestly.<delay20 /> Double
+parties are a total blast!<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha!</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Here! Take this!</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll bet.</message>
 </msbt>

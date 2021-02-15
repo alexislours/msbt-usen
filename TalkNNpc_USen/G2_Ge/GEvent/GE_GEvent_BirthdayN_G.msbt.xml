@@ -68,4 +68,22 @@ make it a fun one, <tag a="110" b="6" />!</message>
 Are you here to celebrate
 <tag a="115" b="1" arg="0xcd00" />'s b-day too?<pageBreak />Well then! <delay20 />Let's go <anim id="HappyDance" target="actor" targetSpec="" />make this party<tag a="110" b="0" />
 a PAR-TAY, <tag a="110" b="6" />!</message>
+	<message label="020" attrib="00 00 02 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Um, just LOOKING at fab birthday
+decor makes my head go all swimmy
+with happiness!<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />And on Valentine's Day, of all days?<delay20 />
+<anim id="Love" target="actor" targetSpec="" />I couldn't BE happier!</message>
+	<message label="020_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Oh? Here, take this!</message>
+	<message label="020_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'm happy for you!</message>
+	<message label="021" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Isn't this birthday party the best?<delay20 />
+<anim id="Cheering" target="actor" targetSpec="" />Yay, <tag a="115" b="1" arg="0xcd00" />!<pageBreak /><anim id="Love" target="actor" targetSpec="" />And it's Valentine's Day too!<delay20 />
+Double yay!</message>
+	<message label="021_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I have a gift for you!</message>
+	<message label="021_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yay! Yay!</message>
+	<message label="022" attrib="00 00 02 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Can you tell that yours truly had
+a hand in picking out the b-day
+decor, <tag a="110" b="5" />?<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I mean, it doesn't get any more
+special than a birthday and
+Valentine's Day collab, does it?</message>
+	<message label="022_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I have a gift for you!</message>
+	<message label="022_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You did great!</message>
 </msbt>
