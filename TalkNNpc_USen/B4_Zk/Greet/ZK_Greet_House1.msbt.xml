@@ -39,9 +39,9 @@ did it, <tag a="110" b="3" />?<setNpcTalkChoices chatOption="0" cancelOption="1"
 	<message label="031" attrib="00 00 0c 09 00 00 00 08"><anim id="Grin" target="actor" targetSpec="" />Neither rain, nor sleet, nor snow,
 nor hail will stop <tag a="110" b="3" />!<delay20 />
 <anim id="SmugFace" target="actor" targetSpec="" />Am I right?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, welcome back to
-Chez <tag a="110" b="14" /><tag a="110" b="10" /><endTag a="110" b="14" />!<delay20 /> <anim id="Grin" target="actor" targetSpec="" />So great
-to see you again, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" /><tag a="50" b="3" /><tag a="110" b="5" />, welcome back to
+Chez <tag a="110" b="10" /><endTag a="110" b="14" />!<delay20 /> <anim id="Grin" target="actor" targetSpec="" />So great
+to see you again, <tag a="110" b="3" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="034" attrib="00 00 0c 01 00 00 00 09"><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, <delay8 />now that you're here,
 this is the most happening spot
 on <tag a="110" b="8" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>

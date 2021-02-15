@@ -14,7 +14,7 @@ clouds!<delay20 /> Hit me with everything!"<setNpcTalkChoices chatOption="0" can
 have fun, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="009" attrib="00 00 0c 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Am I soaked with sweat? <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />Heh, no,
 this is just rain, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="110" b="14" />Yo, <tag a="110" b="3" />!<endTag a="110" b="14" /><pageBreak />It's raining out, so take it easy!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Yo, <tag a="110" b="3" />!<endTag a="110" b="14" /><pageBreak />It's raining out, so take it easy!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="011" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Morning, <tag a="110" b="5" />! <delay20 /><anim id="Pardon" target="actor" targetSpec="" />Wait, did
 I say that already?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="012" attrib="00 00 0c 00 00 00 00 00">It doesn't look like it's gonna stop

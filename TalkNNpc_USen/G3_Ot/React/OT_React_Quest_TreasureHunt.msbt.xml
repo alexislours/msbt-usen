@@ -6,4 +6,10 @@ still went to find the treasure?!<delay frames="40" />
 me the trouble of digging it up!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Unfortunately you ran out of time, so
 there's no reward. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />But perhaps you'll
 do better next time, <tag a="110" b="6" />.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><delay8 /><anim id="BigSmile" target="actor" targetSpec="" />Why, you're alright! <delay40 /><anim id="Nodding" target="actor" targetSpec="" />I was ever so
+worried about you.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />When you didn't return from our
+little treasure hunt and then it all
+went dark<tag a="110" b="0" /><delay20 /><anim id="Negative" target="actor" targetSpec="" />I feared the worst.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I'm not certain what happened to
+interrupt us, <delay20 /><anim id="Hello" target="actor" targetSpec="" />but let's table the
+treasure hunt for now, shall we?</message>
 </msbt>

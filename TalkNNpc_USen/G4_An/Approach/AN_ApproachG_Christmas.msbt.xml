@@ -1,0 +1,15 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />About time I found you! <delay20 />I got
+somethin' to give you. <delay20 /><anim id="Grin" target="actor" targetSpec="" />Any guesses
+what it is?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />If you guessed "a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />festive wreath<colour id="65535" />,"
+you win the prize!<delay40 /> The prize is a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />festive wreath<colour id="65535" />.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Perfect for door-decorating, right?<delay40 />
+<anim id="Nodding" target="actor" targetSpec="" />You can get your place lookin' cool
+in time for Toy Day, <tag a="110" b="6" />.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh? <delay40 /><anim id="Silent" target="actor" targetSpec="" />Yo, you know you're walkin'
+around with full pockets? Makes it
+hard to give you stuff, <tag a="110" b="6" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'll hang onto this for now. <delay20 />Figure
+out your pocket situation, and come
+back for it later, OK? <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Seeya!</message>
+</msbt>

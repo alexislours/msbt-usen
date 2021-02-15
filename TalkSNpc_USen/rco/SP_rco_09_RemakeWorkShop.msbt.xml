@@ -9,6 +9,20 @@ you take me up on this opportunity.</message>
 a <colour id="1" />customization <colour id="65535" />workshop.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Learning how to customize your
 creations<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> will make DIY even more
 fun, so I hope you join in!</message>
+	<message label="011" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />As you may have heard on today's
+broadcast, I'm offering a workshop
+on <colour id="1" />customization<colour id="65535" />.<anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="011_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I'm looking for folks to participate in
+a <colour id="1" />customization <colour id="65535" />workshop.</message>
+	<message label="012" attrib="00 00 00 00">However, <delay8 />if my hunch is correct, <delay20 />you
+already learned about customization<delay8 />
+<anim id="Smiling" target="actor" targetSpec="" />on your previous island, hm?</message>
+	<message label="013_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes, <delay20 />I'm certain I saw your
+expertise in action<anim id="Nodding" target="actor" targetSpec="" /> at the workbench
+here, <tag a="110" b="1" />!</message>
+	<message label="014" attrib="00 00 00 00">In that case,<delay8 /> <anim id="Smiling" target="actor" targetSpec="" />I hope you continue to
+enjoy the freedom of expression<delay8 /> that
+only customization can provide!</message>
 	<message label="101" attrib="04 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ready to dip your toes into the
 <anim id="QuestionMark" target="actor" targetSpec="" />delightful waters of customization,
 <tag a="110" b="1" />?</message>

@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I have something that I've been
+wanting to give you! <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />Any guesses
+what it is?<pageBreak />The answer is<tag a="110" b="0" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" />a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />festive wreath<colour id="65535" />!<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I hope you like it!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00">Everyone needs one of these this
+season. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />I hope you find a good place
+to put it up, <tag a="110" b="6" />!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Oh, your pockets are too full for a
+gift right now? <delay frames="40" /><anim id="Confused" target="actor" targetSpec="" />Guess this was a
+bad time for it.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Well, if things change, come let me
+know. <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />I'll still have this for you
+then, <tag a="110" b="6" />.</message>
+</msbt>

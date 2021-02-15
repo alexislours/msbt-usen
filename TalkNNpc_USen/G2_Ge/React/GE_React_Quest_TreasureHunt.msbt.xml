@@ -5,4 +5,11 @@ though the hunt is over?<delay frames="40" /><anim id="BigSmile" target="actor" 
 	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You were so close today.
 <delay frames="60" /><anim id="Greeting" target="actor" targetSpec="" />We have got to play again
 sometime, <tag a="110" b="6" />!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> You're OK!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Everything went dark during our
+treasure hunt!<delay20 /> It happened to you
+too right?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I've been trying to figure out what
+happened.<delay20 /> Was it an eclipse? Aliens?<delay20 />
+Probs something like that.<pageBreak />Whatevs.<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />We'll just have to make
+sure our next treasure hunt is
+TWICE as fun, <tag a="110" b="5" />.</message>
 </msbt>

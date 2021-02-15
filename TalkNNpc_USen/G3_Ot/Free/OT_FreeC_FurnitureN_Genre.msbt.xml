@@ -7,6 +7,12 @@ refined sensibilities.
 <anim id="Hello" target="actor" targetSpec="" />Go on, <delay8 />feel free to appreciate it as
 much as you like.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> I won't mind,
 <tag a="110" b="6" />!</message>
+	<message label="999_02" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="QuestionMark" target="actor" targetSpec="" />Were you surprised to see<delay8 /> <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /><anim id="QuestionMark" target="actor" targetSpec="" /> in my
+home?<delay40 /><anim id="FaintSmile" target="actor" targetSpec="" /> I suppose I am too.
+<20_3 arg="6" /><20_3 arg="3" /><anim id="Thinking" target="actor" targetSpec="" />There's a story, of course,<delay20 /> but suffice
+to say <anim id="Love" target="actor" targetSpec="" />I have a deep attachment to
+my <tag a="125" b="0" arg="0x0" />.</message>
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I'm VERY particular about my bed.<delay20 />
 <20_2 arg="10" /><20_2 arg="9" /><anim id="Nodding" target="actor" targetSpec="" />Clearly I sleep extremely well on my
 <tag a="125" b="0" arg="0x0" /> here.
@@ -187,4 +193,10 @@ had a hard time finding the style in
 my <tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Nodding" target="actor" targetSpec="" />But that's where interior design
 comes in!<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />Anything can look great
 if placed well, <tag a="110" b="6" />!</message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" />If your hands or feet are cold,<delay20 />
+feel free to set up camp by my
+<tag a="125" b="0" arg="0x0" />!
+<20_3 arg="6" /><20_3 arg="3" /><anim id="Laughing" target="actor" targetSpec="" />To be honest, <delay20 />that's as close
+as I ever come to camping
+anymore, <tag a="110" b="6" />.</message>
 </msbt>

@@ -49,23 +49,23 @@ earned an ice-cold sports drink.<setNpcTalkChoices chatOption="0" cancelOption="
 	<message label="031" attrib="00 00 0c 09 00 00 00 08"><anim id="Smiling" target="actor" targetSpec="" />You made it through all the snow,
 <tag a="110" b="3" />!<delay frames="30" /> <anim id="Greeting" target="actor" targetSpec="" />I'll microwave us
 some protein shakes, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Smiling" target="actor" targetSpec="" /><tag a="110" b="14" />Way to get here, <tag a="110" b="3" />!<endTag a="110" b="14" /><pageBreak />Guess we might as well work out<tag a="110" b="0" /><delay20 />
+	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Way to get here, <tag a="110" b="3" />!<endTag a="110" b="14" /><pageBreak />Guess we might as well work out<tag a="110" b="0" /><delay20 />
 <anim id="Pardon" target="actor" targetSpec="" />Huh?<delay20 /> Not what you had in mind?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="034" attrib="00 00 0c 01 00 00 00 09"><anim id="Smiling" target="actor" targetSpec="" /><tag a="110" b="14" />I've been waitin' for ya!<endTag a="110" b="14" /><pageBreak />Had a feeling you'd show up!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="034" attrib="00 00 0c 01 00 00 00 09"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />I've been waitin' for ya!<endTag a="110" b="14" /><pageBreak />Had a feeling you'd show up!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="035" attrib="00 00 0c 01 00 00 00 09"><anim id="FaintSmile" target="actor" targetSpec="" />Welcome!<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />I guess you're here for a
 tour of the soon-to-be-world-famous
-<tag a="10" b="13" /><capitaliseNextWord /><tag a="110" b="10" /><endTag a="10" b="13" />'s Gym!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="036" attrib="00 00 0c 01 00 07 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Heeeyaa, <tag a="110" b="3" />!<endTag a="110" b="14" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Get ready for some early morning
+<capitaliseNextWord /><tag a="110" b="10" />'s Gym!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="036" attrib="00 00 0c 01 00 07 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Heeeyaa, <tag a="110" b="3" />!<endTag a="110" b="14" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Get ready for some early morning
 squats!<delay frames="40" /><anim id="Pardon" target="actor" targetSpec="" /> Ha!<delay20 /> Kidding, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="037" attrib="00 00 0c 01 00 08 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Heeyooo, <tag a="110" b="3" /><endTag a="110" b="14" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />You're just in time for some
+	<message label="037" attrib="00 00 0c 01 00 08 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Heeyooo, <tag a="110" b="3" /><endTag a="110" b="14" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />You're just in time for some
 push-up training!<delay frames="40" /><anim id="Pardon" target="actor" targetSpec="" /> Ha ha!<delay20 /> Just
 kidding, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="038" attrib="00 00 0c 01 00 05 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Hey, <tag a="110" b="3" />!<endTag a="110" b="14" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" /><delay20 />Let's do sit-ups together!<delay20 /> <anim id="Pardon" target="actor" targetSpec="" />Ha ha!<delay20 />
+	<message label="038" attrib="00 00 0c 01 00 05 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Hey, <tag a="110" b="3" />!<endTag a="110" b="14" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" /><delay20 />Let's do sit-ups together!<delay20 /> <anim id="Pardon" target="actor" targetSpec="" />Ha ha!<delay20 />
 Just kidding, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="039" attrib="00 00 0c 01 00 06 00 09"><anim id="Eh" target="actor" targetSpec="" />Huh? <delay20 />Why am I awake now?<delay frames="40" />
 <anim id="Grin" target="actor" targetSpec="" />I'm talking to my muscles,
 of course, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="040" attrib="00 00 0c 05 00 00 00 09"><anim id="Smiling" target="actor" targetSpec="" /><tag a="110" b="14" />There you are, <tag a="110" b="3" /><endTag a="110" b="14" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />OK!<delay20 /> Commence <tag a="110" b="10" />'s
+	<message label="040" attrib="00 00 0c 05 00 00 00 09"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />There you are, <tag a="110" b="3" /><endTag a="110" b="14" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />OK!<delay20 /> Commence <tag a="110" b="10" />'s
 Special Training! <delay frames="40" /><anim id="Pardon" target="actor" targetSpec="" />Ha ha,<delay20 /> just
 kidding, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="041" attrib="00 00 0c 07 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />You made it, <tag a="110" b="3" /><endTag a="110" b="14" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I've got an ice-cold sports drink with

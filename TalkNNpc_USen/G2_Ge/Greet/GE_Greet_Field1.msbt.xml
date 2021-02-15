@@ -12,9 +12,9 @@ totally a great day!<setNpcTalkChoices chatOption="0" cancelOption="1" /></messa
 	<message label="023" attrib="00 00 0c 01 00 00 00 08"><anim id="Hello" target="actor" targetSpec="" />Nice to see you, <tag a="110" b="3" />!<delay40 />
 <anim id="Nodding" target="actor" targetSpec="" />You're looking perf as ever!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="031" attrib="00 00 0c 01 00 00 00 09">Oh, <anim id="BigSmile" target="actor" targetSpec="" /><tag a="110" b="3" />!<delay40 />
-<anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Hi there, my fabulous bestie<endTag a="110" b="14" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="032" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><delay20 /><tag a="110" b="14" />Hi there, my fabulous bestie<endTag a="110" b="14" />!
+<anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Hi there, my fabulous bestie<endTag a="110" b="14" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="032" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><delay20 /><tag a="50" b="3" /><tag a="110" b="14" />Hi there, my fabulous bestie<endTag a="110" b="14" />!
 <anim id="FaintSmile" target="actor" targetSpec="" /><delay20 />Thanks for chatting with me!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="BigSmile" target="actor" targetSpec="" />Hey! I was just thinking about you!<delay20 />
-<anim id="Hello" target="actor" targetSpec="" /><tag a="110" b="14" />Hi there, my fabulous bestie<endTag a="110" b="14" />!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+<anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Hi there, my fabulous bestie<endTag a="110" b="14" />!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
 </msbt>

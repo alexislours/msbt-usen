@@ -2,6 +2,9 @@
 	<message label="001" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hello there, <tag a="110" b="1" />!</message>
 	<message label="001_00" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, <tag a="110" b="1" />! By the way<tag a="110" b="0" /></message>
 	<message label="001_01" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Congratulations on your new home!</message>
+	<message label="001_01_01" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />How is your home since the move?<delay20 /> If
+you ever need help, you can always
+talk to <colour id="3" />President Nook<colour id="65535" />.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />By the way<tag a="110" b="0" /></message>
 	<message label="001_10" attrib="02 00 00 00">I have something I would like to chat
 about<tag a="110" b="0" /><delay20 /><anim id="Hesitate" target="actor" targetSpec="" />if you have a moment, that is.<pageBreak /><anim id="Silent" target="actor" targetSpec="" />It is a bit of a proposal, so if now's
 not a good time, I understand

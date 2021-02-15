@@ -53,7 +53,7 @@ few snacks.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="035" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" />Hello, <tag a="110" b="3" />!<delay20 />
 What's mine is yours.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="036" attrib="00 00 0c 01 00 07 00 09"><anim id="FaintSmile" target="actor" targetSpec="" />Well, it must be my lucky day.<delay20 />
-<tag a="110" b="14" />Hey, <tag a="110" b="3" /><endTag a="110" b="14" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+<tag a="50" b="3" /><tag a="110" b="14" />Hey, <tag a="110" b="3" /><endTag a="110" b="14" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="037" attrib="00 00 0c 01 00 08 00 09"><anim id="Greeting" target="actor" targetSpec="" />Sometimes you just gotta sit around
 all day and do nothin', <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="038" attrib="00 00 0c 01 00 1f 00 09"><anim id="Silent" target="actor" targetSpec="" />Hey, uh<tag a="110" b="0" /> You know I don't have

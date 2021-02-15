@@ -170,6 +170,8 @@ are..."Bikers Are More Fun."</message>
 	<message label="200" attrib="00 00 18">My new life is underway...<delay frames="30" />
 I can do whatever I want!<delay frames="30" />
 WOO-HOO!</message>
+	<message label="200_01" attrib="00 00 18">My move is complete...<delay frames="30" />
+Deserted-island life begins anew!</message>
 	<message label="204_02" attrib="00 00 18">Yes!<delay frames="30" /> I finished paying
 off my home loan!</message>
 	<message label="204_03" attrib="00 00 18">Sweet!<delay frames="30" /> I finally finished paying
@@ -208,6 +210,12 @@ a <colour id="1" />vanity<colour id="65535" /> or a <colour id="1" />mirror<colo
 	<message label="210_10" attrib="00 00 18">I learned about new <colour id="1" />eye color<colour id="65535" />
 options!<delay40 /> I bet I could change up
 my look with a <colour id="1" />vanity<colour id="65535" /> or a <colour id="1" />mirror<colour id="65535" />!</message>
+	<message label="210_13" attrib="00 00 18">I learned some new <colour id="1" />hairstyles<colour id="65535" />!<delay40 />
+I bet I could change up my look even
+more with a <colour id="1" />vanity<colour id="65535" /> or a <colour id="1" />mirror<colour id="65535" />...</message>
+	<message label="210_14" attrib="00 00 18">Whoa, I learned some new <colour id="1" />Reactions<colour id="65535" />!<delay40 />
+I can press <colour id="1" /> <colour id="65535" />to see all of them and
+choose how to express myself.</message>
 	<message label="211_01" attrib="00 00 18">Now I can do <colour id="1" />river construction
 <colour id="65535" />with my <colour id="1" />Island Designer <colour id="65535" />app!</message>
 	<message label="211_02" attrib="00 00 18">Now I can do <colour id="1" />cliff construction
@@ -288,10 +296,24 @@ nice getting to celebrate with
 good cake and good friends.</message>
 	<message label="701" attrib="00 00 18">Supplies for getaway-package
 participants are likely inside.</message>
+	<message label="702" attrib="00 00 18">There are still <tag a="90" b="1" arg="0x0" /> gifts left in the bag.</message>
+	<message label="703_01" attrib="00 00 18">Let's see. I still have presents for<tag a="110" b="0" /><pageBreak /><tag a="115" b="1" arg="0xcd00" />,<delay20 />
+<tag a="115" b="1" arg="0xcd01" />, and<delay20 />
+<tag a="115" b="1" arg="0xcd02" />.</message>
+	<message label="703_02" attrib="00 00 18">Let's see. I still have presents for<tag a="110" b="0" /><10_4 />
+<tag a="115" b="1" arg="0xcd00" /> and<delay20 />
+<tag a="115" b="1" arg="0xcd01" />.</message>
+	<message label="703_03" attrib="00 00 18">Let's see. I still have a present for<tag a="110" b="0" /><10_4 />
+<tag a="115" b="1" arg="0xcd00" />.</message>
+	<message label="704" attrib="00 00 18">The bag is completely empty!</message>
 	<message label="901" attrib="04 00 18">Should I put my tent here?</message>
 	<message label="901_a" attrib="00 00 00">Let me imagine it...</message>
 	<message label="901_b" attrib="00 00 00">This is the spot!</message>
 	<message label="901_c" attrib="00 00 00">I need to rethink it.</message>
+	<message label="901_01" attrib="04 00 18">Should I set up my home here?</message>
+	<message label="901_01_a" attrib="00 00 00">Let me imagine it...</message>
+	<message label="901_01_b" attrib="00 00 00">This is the spot!</message>
+	<message label="901_01_c" attrib="00 00 00">I need to rethink it.</message>
 	<message label="902" attrib="04 00 18">Would this be a good place
 for <colour id="3" />Blathers<colour id="65535" />'s tent?</message>
 	<message label="902_a" attrib="00 00 00">Let me imagine it...</message>
@@ -474,6 +496,9 @@ for the <colour id="1" />tailor shop<colour id="65535" />!</message>
 	<message label="960_05" attrib="00 00 18">I picked a new location for
 the <colour id="1" />campsite<colour id="65535" />! I hope we get
 even more visitors now!</message>
+	<message label="961" attrib="00 00 18">I picked a spot for my house!<delay frames="30" />
+Now I have a home base for my
+island adventures!</message>
 	<message label="990" attrib="00 09 22">I'm searching for treasure right now,<delay20 />
 so I'll look for a good place for this
 some other time.</message>

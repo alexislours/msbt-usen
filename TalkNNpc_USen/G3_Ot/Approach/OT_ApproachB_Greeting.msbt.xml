@@ -66,11 +66,11 @@ a sophisticated greeting <delay20 /><anim id="SmugFace" target="actor" targetSpe
 have the PERFECT greeting already!</message>
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well let's hear it, then!</message>
 	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Alrighty! Let's try it out<tag a="110" b="0" /><10_4 />
-<anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Don't YOU look fabulous today<endTag a="110" b="14" />!<delay40 />
+<anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Don't YOU look fabulous today<endTag a="110" b="14" />!<delay40 />
 <anim id="Blushing" target="actor" targetSpec="" />Well<tag a="110" b="0" />what do you think?</message>
 	<message label="101_a" attrib="00 00 00 00 00 00 00 00">I like it!</message>
 	<message label="101_b" attrib="00 00 00 00 00 00 00 00">It's a little off...</message>
-	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />"<tag a="110" b="14" />Don't YOU look fabulous today<endTag a="110" b="14" />"?<delay40 />
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="14" />Don't YOU look fabulous today<endTag a="110" b="14" />"?<delay40 />
 <anim id="EmotEnd" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /><delay frames="13" /> <anim id="Hello" target="actor" targetSpec="" />So, you want to keep our
 greeting the way it is, then?</message>
 	<message label="102_a" attrib="00 00 00 00 00 00 00 00">Yes. Let's keep it!</message>
@@ -80,9 +80,9 @@ We'll get it this time!</message>
 	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh dear,<delay20 /> fretting over what to pick?<delay frames="40" />
 <anim id="FaintSmile" target="actor" targetSpec="" />Take your time,<delay8 /> there's no rush.<delay frames="40" />
 <anim id="Greeting" target="actor" targetSpec="" />Shall we give it another try?</message>
-	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Don't YOU look fabulous today<endTag a="110" b="14" />!<10_4 />
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Don't YOU look fabulous today<endTag a="110" b="14" />!<10_4 />
 <anim id="HappyDance" target="actor" targetSpec="" />Yes! That sounds wonderful!</message>
-	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Don't YOU look fabulous today<endTag a="110" b="14" />!<10_4 />
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Don't YOU look fabulous today<endTag a="110" b="14" />!<10_4 />
 <anim id="Smiling" target="actor" targetSpec="" />Yes!<delay frames="13" /> Well done!<delay frames="13" /> It's absolutely
 perfect!</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Well, <tag a="110" b="3" />, <delay frames="13" />our new
@@ -103,7 +103,7 @@ greeting, don't you?
 I mean, <anim id="SmugFace" target="actor" targetSpec="" />why mess with the
 best, <tag a="110" b="6" />?</message>
 	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, I understand completely.<delay20 />
-<anim id="HappyFlower" target="actor" targetSpec="" />"<tag a="110" b="14" />Don't YOU look fabulous today<endTag a="110" b="14" />"
+<anim id="HappyFlower" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="14" />Don't YOU look fabulous today<endTag a="110" b="14" />"
 evokes so many fond memories!
 <anim id="Worried" target="actor" targetSpec="" />I'm sorry I ever doubted our special
 greeting.<delay20 /><anim id="Blushing" target="actor" targetSpec="" /> Let's just pretend this

@@ -42,11 +42,11 @@ who cares who knows!</message>
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Cool, <tag a="110" b="5" />. <delay20 />Let's hear
 your idea!</message>
 	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Oh, nice! <delay20 />I like where your head's at.<delay frames="40" />
-<anim id="Greeting" target="actor" targetSpec="" />"<tag a="110" b="14" />Hey there, rock star<endTag a="110" b="14" />."<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="14" />Hey there, rock star<endTag a="110" b="14" />."<delay frames="40" />
 That work for you?</message>
 	<message label="101_a" attrib="00 00 00 00 00 00 00 00">I think it's perfect!</message>
 	<message label="101_b" attrib="00 00 00 00 00 00 00 00">On second thought...</message>
-	<message label="102" attrib="00 00 02 00 00 00 00 00">"<tag a="110" b="14" />Hey there, rock star<endTag a="110" b="14" />"?<delay20 />
+	<message label="102" attrib="00 00 02 00 00 00 00 00">"<tag a="50" b="3" /><tag a="110" b="14" />Hey there, rock star<endTag a="110" b="14" />"?<delay20 />
 <anim id="Shocked" target="actor" targetSpec="" />Uh,<delay20 /> isn't that what we say already?
 <anim id="Thinking" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />you don't wanna change it?</message>
 	<message label="102_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Right.</message>
@@ -55,9 +55,9 @@ That work for you?</message>
 	<message label="104" attrib="00 00 00 00 00 00 00 00"><tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />Huh? <delay20 />Did you say something just
 now?<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />Sorry, <delay20 />could you run that by
 me again, <tag a="110" b="5" />?</message>
-	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Cheering" target="actor" targetSpec="" />"<tag a="110" b="14" />Hey there, rock star<endTag a="110" b="14" />."<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Cheering" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="14" />Hey there, rock star<endTag a="110" b="14" />."<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />
 <anim id="HappyDance" target="actor" targetSpec="" />Not bad! <delay20 />I'm into it!</message>
-	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />"<tag a="110" b="14" />Hey there, rock star<endTag a="110" b="14" />."<delay frames="40" />
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="14" />Hey there, rock star<endTag a="110" b="14" />."<delay frames="40" />
 <anim id="HappyFlower" target="actor" targetSpec="" />That's it! <delay20 />That's perfect for us!</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I can't wait to try it out. <delay20 />And don't
 forget: <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />this is just between us,<delay20 />
@@ -74,5 +74,5 @@ with it a while longer, <tag a="110" b="5" />.
 what we've got, why mess
 with success?</message>
 	<message label="302" attrib="00 00 00 00 00 00 00 00">Good point. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />I'm way too used to
-"<tag a="110" b="14" />Hey there, rock star<endTag a="110" b="14" />!"<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Let's stick with it, <tag a="110" b="5" />!</message>
+"<tag a="110" b="14" />hey there, rock star<endTag a="110" b="14" />!"<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Let's stick with it, <tag a="110" b="5" />!</message>
 </msbt>

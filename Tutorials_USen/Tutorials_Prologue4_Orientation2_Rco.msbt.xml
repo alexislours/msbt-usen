@@ -96,4 +96,22 @@ come on back here again!</message>
 but it's not ready for you just yet.
 <anim id="Hesitate" target="actor" targetSpec="" />Please give us a little more time
 to get things ready for you.</message>
+	<message label="1001" attrib="00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Ah, yes!<delay20 /> There you are. <delay8 />There's
+something I really need to talk to
+you about, <tag a="110" b="1" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You moved here after taking part in a
+Deserted Island Getaway Package on
+a different island,<delay8 /> <anim id="QuestionMark" target="actor" targetSpec="" />correct?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Unfortunately, <delay8 />we're still waiting on
+the plane carrying your things, so we
+don't have your house set up yet.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />It would have been ideal to have your
+house and belongings ready<delay8 /> before
+you arrived<tag a="110" b="0" /><delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />but that's not possible.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I promise you that everything will be
+here on the morrow!<delay20 /> But tonight<tag a="110" b="0" /><pageBreak /><anim id="Apologize" target="actor" targetSpec="" />We humbly ask that you spend the
+night in a tent like the others.</message>
+	<message label="1002" attrib="00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Ah, <tag a="110" b="1" />!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You likely already heard about your
+belongings and house from <colour id="3" />Timmy
+<colour id="65535" />or <colour id="3" />Tommy<colour id="65535" />, hm?<pageBreak /><anim id="Restless" target="actor" targetSpec="" />Unfortunately, the flight carrying
+them was delayed slightly, so we
+won't have your house ready today.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I promise you that everything will be
+here on the morrow!<delay20 /> But tonight<tag a="110" b="0" /><pageBreak /><anim id="Apologize" target="actor" targetSpec="" />We humbly ask that you spend the
+night in a tent like the others.</message>
 </msbt>

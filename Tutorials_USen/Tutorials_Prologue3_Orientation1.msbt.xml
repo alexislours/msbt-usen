@@ -105,4 +105,42 @@ offer you much in terms of support
 today, but<delay20 /> I hope you understand.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />We'll be back open tomorrow,
 so<delay20 /> enjoy the final day of the year.
 And come by to see us!</message>
+	<message label="1001" attrib="00 00 00">Now, about where you'll live.<delay frames="40" />
+<anim id="Thinking" target="actor" targetSpec="" />Since you moved here from
+another island<tag a="110" b="0" /></message>
+	<message label="1002" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I know! <delay8 />Why don't we just relocate
+your entire home?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Yes, yes! <delay8 />First,
+I want you to take one of these.</message>
+	<message label="1003" attrib="01 00 00"><anim id="Smiling" target="actor" targetSpec="" />I know! Why don't we just relocate
+your entire home? Yes, yes!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Except there is something important
+you'll need for this process, <delay8 />and your
+pockets appear to be full.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Well, this is quite the riddle, hm?<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />You need a home in which to store
+things so I can give you something
+to let me set up your home<tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oho! <delay8 />I've got it!<delay20 /> I'll just hold on to an
+item for you <anim id="Smiling" target="actor" targetSpec="" />and give you what you
+need to pick out your new plot!</message>
+	<message label="1003_a" attrib="00 00 00">Yes, let's do that!</message>
+	<message label="1003_b" attrib="00 00 00">Well, OK.</message>
+	<message label="1004" attrib="00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Excellent! <delay20 />In that case, please pick
+an item from your pockets for me to
+hold on to.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Temporarily, of course!</message>
+	<message label="1005" attrib="00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I promise to take great care of your
+<tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /></message>
+	<message label="1006" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />In return, <delay8 />please take this
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />transfer kit<colour id="65535" />!</message>
+	<message label="1007" attrib="00 00 00"><anim id="Explain" target="actor" targetSpec="" />Simply use this <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />transfer kit<colour id="65535" /> to mark
+out where you'd like us to set up
+your house.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />While you're at it, why not take this
+chance to explore the island before
+deciding where to settle down, hm?<pageBreak />Later, <delay8 />once you've chosen a plot,<delay8 /> use
+your <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />transfer kit<colour id="65535" />,<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />and we'll have your
+house set up in no time!</message>
+	<message label="1021" attrib="00 00 00">Well, <delay8 />that's everything we needed to
+discuss about where you'll live.<delay20 /> <anim id="Thinking" target="actor" targetSpec="" />Now,
+what else was there<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />AH! <delay8 />I remember now!<delay20 /> <anim id="Explain" target="actor" targetSpec="" />Yes, yes! <delay8 />There
+are still some very important things
+that we need to talk about!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="1022" attrib="00 00 00">Don't forget to visit the <colour id="1" />recycle box<colour id="65535" />
+in Resident Services<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />to retrieve
+your <tag a="125" b="0" arg="0x0" />.</message>
 </msbt>

@@ -12,9 +12,9 @@ Nice to see you, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelO
 	<message label="022" attrib="00 00 0c 01 00 00 00 08"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!
 <anim id="FaintSmile" target="actor" targetSpec="" />Fancy runnin' into you here!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="023" attrib="00 00 0c 01 00 00 00 08"><anim id="Greeting" target="actor" targetSpec="" />Glad to see you, <tag a="110" b="3" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="031" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Hey there, <tag a="110" b="3" /><endTag a="110" b="14" />!<delay8 />
+	<message label="031" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Hey there, <tag a="110" b="3" /><endTag a="110" b="14" />!<delay8 />
 <anim id="Smiling" target="actor" targetSpec="" />Was hoping I'd see you.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="032" attrib="00 00 0c 01 00 00 00 09"><anim id="Smiling" target="actor" targetSpec="" /><tag a="110" b="14" />Hey, it's <tag a="110" b="3" /><endTag a="110" b="14" />!<delay8 />
+	<message label="032" attrib="00 00 0c 01 00 00 00 09"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Hey, it's <tag a="110" b="3" /><endTag a="110" b="14" />!<delay8 />
 <anim id="FaintSmile" target="actor" targetSpec="" />Always a pleasure.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Shocked" target="actor" targetSpec="" />Oh, hey! <tag a="50" b="3" /><tag a="110" b="3" />!<delay8 />
 <anim id="FaintSmile" target="actor" targetSpec="" />You're a sight for these sore eyes.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>

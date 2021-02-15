@@ -3,6 +3,10 @@
 	<message label="999_01" attrib="00 00 00 00 00 00 00 00">Welcome<tag a="110" b="0" /><delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />to my palace!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I've filled it full of all the things that
 make me H-A-P-P-Y HAPPY!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Feel free to look at all my fab stuff
 and validate my life choices!</message>
+	<message label="999_02" attrib="00 00 00 00 00 00 00 00"><20_2 arg="9" /><anim id="QuestionMark" target="actor" targetSpec="" />Oh, did something catch your eye?<delay20 />
+<20_2 arg="10" />My <tag a="125" b="0" arg="0x0" />?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Nodding" target="actor" targetSpec="" />Yes, the placement is intentional.<delay20 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />I have a total VISION for how I want
+this room to be!<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />And it's working.</message>
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><anim id="EmotEnd" target="actor" targetSpec="" />My <tag a="125" b="0" arg="0x0" /><20_3 arg="3" /><delay20 />
 <anim id="HappyDance" target="actor" targetSpec="" />is the <delay20 />comfiest thing EVER!<pageBreak /><20_3 arg="6" /><anim id="Explain" target="actor" targetSpec="" />I like to lay on it while I read Fauna
 Magazine or Ms. Nintendique.<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> It's SO
@@ -59,7 +63,7 @@ like a job well done, so I haven't<delay20 />
 about pop stars living outdoors<anim id="EmotEnd" target="actor" targetSpec="" />
 this season!<pageBreak />I love the outdoors, <anim id="OhGeez" target="actor" targetSpec="" />but I don't know
 how to, uh, <20_2 arg="3" />use it? The outdoors,
-I mean. <delay40 /><20_2 arg="9" />So I bought this to study!</message>
+I mean. <delay40 /><20_2 arg="9" />So I'm using this to study!</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="HappyFlower" target="actor" targetSpec="" />Don't you just love my
 <tag a="125" b="0" arg="0x0" />? <delay frames="45" /><anim id="EmotEnd" target="actor" targetSpec="" /><20_2 arg="6" /><20_2 arg="3" />I mean,<delay8 /><anim id="Nodding" target="actor" targetSpec="" />
 it really sets the mood, doesn't it?
@@ -172,4 +176,8 @@ I finally found the perfect spot
 for my <tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="ShyBoy" target="actor" targetSpec="" />Such a dust magnet<tag a="110" b="0" />but my decor
 is at stake!<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />I need some fancy stuff
 to balance my messy lifestyle!</message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="AbsentMindedness" target="actor" targetSpec="" />Doesn't it feel cozy in here thanks to
+my <tag a="125" b="0" arg="0x0" />?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Explain" target="actor" targetSpec="" />Sometimes I get so fired up about
+it that I<tag a="110" b="0" /><delay20 /><anim id="Serious" target="actor" targetSpec="" /> Wait.<delay20 /> FIRED UP?<delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> I totes
+just did a pun, <tag a="110" b="5" />!</message>
 </msbt>

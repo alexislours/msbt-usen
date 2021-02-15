@@ -1,0 +1,13 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hi<delay8 />i<delay8 />i<delay8 />i! <delay20 /><anim id="Grin" target="actor" targetSpec="" />Are you FULLY in the holiday
+spirit yet, <tag a="110" b="5" />?<delay20 /> Because if
+not, you're about to be<tag a="110" b="0" />
+<anim id="HappyDance" target="actor" targetSpec="" />I got you a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />festive wreath<colour id="65535" />!<delay20 /> Do you
+love it? <delay20 /><anim id="Laughing" target="actor" targetSpec="" />No need to answer!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I'd be mega honored if you end up
+decorating your door with it. <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />But no
+presh, OK? <delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />Yay, Toy Day!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Aww, you don't have room to take
+it right now.<delay20 /> Can you come back
+when you do? <delay20 /><anim id="Greeting" target="actor" targetSpec="" />'K, bye!</message>
+</msbt>

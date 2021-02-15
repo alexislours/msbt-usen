@@ -2,7 +2,7 @@
 	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You again!<delay20 /> <anim id="ShyBoy" target="actor" targetSpec="" />Is this island not big
 enough for the both of us? <delay20 />Do we
 need a bigger island, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Ha!<delay20 /> We keep meeting up!<endTag a="110" b="14" /><delay20 />
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Ha!<delay20 /> We keep meeting up!<endTag a="110" b="14" /><delay20 />
 So, uh<tag a="110" b="0" /><delay20 />minutes been treating
 you well, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 />didn't I just see you over there,

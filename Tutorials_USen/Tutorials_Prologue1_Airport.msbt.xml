@@ -117,4 +117,88 @@ we're back on the ground!<anim id="Smiling" target="actor" targetSpec="" /><anim
 	<message label="203_02" attrib="00 00 00" />
 	<message label="203_03" attrib="00 00 00" />
 	<message label="203_04" attrib="00 00 00" />
+	<message label="1003_02" attrib="01 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />The first step is checking your
+application.<delay20 /> <anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />Is this your first time
+applying for one of our packages?</message>
+	<message label="1003_02_a" attrib="00 00 00">Yes, it is!</message>
+	<message label="1003_02_b" attrib="00 00 00">I'm moving.</message>
+	<message label="1003_02_01" attrib="00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" />Understood!<delay8 /><size value="75" /><tag a="100" b="4" /> ...stood!<endTag a="100" b="4" /><size value="100" /><pageBreak /><anim id="Nodding" target="mainNpc" targetSpec="" />Now then, we'll need to look up
+your application.<delay20 /> <anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />Can we have your
+<colour id="1" />name<colour id="65535" /> and <colour id="1" />birthday<colour id="65535" />?<delay8 /><size value="75" /><tag a="100" b="4" /> ...birthday?<endTag a="100" b="4" /><size value="100" /></message>
+	<message label="2001" attrib="00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" />Understood!<size value="75" /><delay8 /><tag a="100" b="4" /> ...stood!<endTag a="100" b="4" /><size value="100" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You're moving off of your previous
+<colour id="2" />Animal Crossing: New Horizons<colour id="65535" />
+island.<delay20 /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /> That's great!<delay8 /> <tag a="100" b="4" /><size value="75" /> ...great!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="2001_01" attrib="00 00 00">Before we continue,<delay8 /><anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" /> are you also
+considering <colour id="1" />transferring users<colour id="65535" />
+between Nintendo Switch systems?<pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="Explain" target="subNpc" targetSpec="" />If so, you should complete that
+transfer first by selecting "<colour id="1" />Transfer
+Your User Data<colour id="65535" />" in System Settings.<pageBreak /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />We'd be happy to help process
+your move once that step is
+complete!<delay20 /><tag a="100" b="4" /><size value="75" /> ...lete!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="2002" attrib="04 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />We'd be happy to help you with your
+move, then.<pageBreak /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" />Have you already sent a <colour id="0" />Transfer
+Request<colour id="65535" /> from the Nintendo Switch
+system that has your current island?</message>
+	<message label="2002_a" attrib="00 00 00">Yes, I have!</message>
+	<message label="2002_b" attrib="00 00 00">How do I do that?</message>
+	<message label="2002_c" attrib="00 00 00">Actually, never mind.</message>
+	<message label="2002_01" attrib="02 00 00">Alright, please take a look at the
+Nintendo Switch system<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />that has
+your current island.<delay8 /><size value="75" /><tag a="100" b="4" /> ...island.<endTag a="100" b="4" /><size value="100" />
+<anim id="Smiling" target="actor" targetSpec="" />If you see "<colour id="0" />The Transfer Request
+has been sent.<colour id="65535" />" there,<delay20 /> <anim id="Explain" target="actor" targetSpec="" />then please
+select "<colour id="1" />Start the process.<colour id="65535" />" here.</message>
+	<message label="2002_01_a" attrib="00 00 00"><colour id="1" />Start the process.<colour id="65535" /></message>
+	<message label="2002_01_b" attrib="00 00 00">Actually, never mind.</message>
+	<message label="2004" attrib="02 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" />I've found <tag a="115" b="0" arg="0xcd00" /><delay8 /> from
+<tag a="115" b="2" arg="0xcd00" />!<delay frames="40" /> <anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />Can you please
+confirm if that is correct?</message>
+	<message label="2004_a" attrib="00 00 00">Yes, that is correct.</message>
+	<message label="2004_b" attrib="00 00 00">Actually, never mind.</message>
+	<message label="2005" attrib="00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />In that case, <delay8 />we can move on to the
+next part of the process!</message>
+	<message label="2006" attrib="00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" />And there we go!<delay20 /> The moving
+process is complete!</message>
+	<message label="2007" attrib="00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="Explain" target="subNpc" targetSpec="" />To send a <colour id="0" />Transfer Request<colour id="65535" />,<delay8 /> you'll
+need to use the Nintendo Switch
+system with your current home.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak />First, launch the <colour id="2" />Animal Crossing:
+New Horizons<colour id="65535" /> game.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak />Then, at the title screen, <delay8 />press the
+<colour id="1" /> Button<colour id="65535" /> to enter the settings menu.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak />When you're asked, please select<delay8 />
+"<colour id="1" />Move to a new island.<colour id="65535" />"<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak />After that, follow the instructions to
+begin the moving process, <delay8 />which will
+send a <colour id="0" />Transfer Request<colour id="65535" />.</message>
+	<message label="2008" attrib="00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay frames="40" /><anim id="Explain" target="actor" targetSpec="" /> I have one more important detail
+in case you've already transferred
+user data from a different system.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />After you use "<colour id="1" />Transfer Your User
+Data<colour id="65535" />," <delay20 /><anim id="Explain" target="actor" targetSpec="" />then your user account won't
+be on the source system anymore.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />If that's the case, <delay20 /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />please ask <colour id="1" />another
+resident from the source system<delay8 /> to
+start the process on your behalf<colour id="65535" />.</message>
+	<message label="2009" attrib="04 00 00">I believe that's everything! <delay20 /><anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />Do you
+think you're ready to begin the
+moving process?<delay20 /><size value="75" /><tag a="100" b="4" /> ...process?<endTag a="100" b="4" /><size value="100" /></message>
+	<message label="2009_a" attrib="00 00 00">Yes, please!</message>
+	<message label="2009_b" attrib="00 00 00">Can I hear it all again?</message>
+	<message label="2009_c" attrib="00 00 00">No, not right now.</message>
+	<message label="2021" attrib="02 00 00">Oh!<delay20 /> <anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />Do you want to cancel the
+moving process?</message>
+	<message label="2021_a" attrib="00 00 00">Cancel it.</message>
+	<message label="2021_b" attrib="00 00 00">Keep going.</message>
+	<message label="2023" attrib="00 00 00"><anim id="Eh" target="mainNpc" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />Oh! <delay8 />In that case, we'll cancel all
+processing on our packages.
+<anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Take care!<delay8 /> <size value="75" /><tag a="100" b="4" /> ...care!<endTag a="100" b="4" /><size value="100" /></message>
+	<message label="2024" attrib="02 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" /><delay8 />I couldn't find anybody who is trying
+to move<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" /> Should I search again?</message>
+	<message label="2024_a" attrib="00 00 00">Please search again.</message>
+	<message label="2024_b" attrib="00 00 00">No, thank you.</message>
+	<message label="2025" attrib="00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />Hm? <delay8 />The moving process failed<tag a="110" b="0" /></message>
+	<message label="2051" attrib="00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />,<delay20 /> we've been
+waiting for you!<delay8 /><size value="75" /><tag a="100" b="4" /> ...for you!<endTag a="100" b="4" /><size value="100" /><pageBreak /><anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />You were in the process of moving
+here from another island, right?</message>
+	<message label="2052" attrib="00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Let's resume the process now!<delay8 /><size value="75" /><tag a="100" b="4" /> ...now!<endTag a="100" b="4" /><size value="100" /></message>
+	<message label="2053" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" />We've already finished everything
+that needed to be done before we
+take off,<delay20 /> <anim id="BigSmile" target="mainNpc" targetSpec="" />so please wait for boarding!<pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" />We'll give you an in-depth overview
+of island life<delay8 /> once we're on the
+ground!<delay8 /><anim id="Smiling" target="actor" targetSpec="" /><anim id="Smiling" target="actor" targetSpec="" /><size value="75" /><tag a="100" b="4" /> ...ground!<endTag a="100" b="4" /><size value="100" /></message>
 </msbt>

@@ -40,7 +40,7 @@ hard drives.</message>
 	<message label="002_d" attrib="00 00 00 00">I want to wake up.</message>
 	<message label="002_01" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How may I be of assistance?</message>
 	<message label="002_01_a" attrib="00 00 00 00">I want to dream.</message>
-	<message label="002_01_b" attrib="00 00 00 00">About the dream I shared...</message>
+	<message label="002_01_b" attrib="00 00 00 00">About my island's dream...</message>
 	<message label="002_01_c" attrib="00 00 00 00">Where am I?</message>
 	<message label="002_01_d" attrib="00 00 00 00">I want to wake up.</message>
 	<message label="002_02" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />May I be of assistance to you in any
@@ -52,7 +52,7 @@ other way?</message>
 	<message label="002_03" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />May I be of assistance to you in any
 other way?</message>
 	<message label="002_03_a" attrib="00 00 00 00">I want to dream.</message>
-	<message label="002_03_b" attrib="00 00 00 00">About the dream I shared...</message>
+	<message label="002_03_b" attrib="00 00 00 00">About my island's dream...</message>
 	<message label="002_03_c" attrib="00 00 00 00">Where am I?</message>
 	<message label="002_03_d" attrib="00 00 00 00">I want to wake up.</message>
 	<message label="002_04" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How may I be of assistance?</message>
@@ -62,7 +62,7 @@ other way?</message>
 	<message label="002_04_d" attrib="00 00 00 00">I want to wake up.</message>
 	<message label="002_05" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How may I be of assistance?</message>
 	<message label="002_05_a" attrib="00 00 00 00">I want to dream.</message>
-	<message label="002_05_b" attrib="00 00 00 00">About the dream I shared...</message>
+	<message label="002_05_b" attrib="00 00 00 00">About my island's dream...</message>
 	<message label="002_05_c" attrib="00 00 00 00">And...where is this?</message>
 	<message label="002_05_d" attrib="00 00 00 00">I want to wake up.</message>
 	<message label="002_06" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />May I be of assistance to you in any
@@ -74,7 +74,7 @@ other way?</message>
 	<message label="002_07" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />May I be of assistance to you in any
 other way?</message>
 	<message label="002_07_a" attrib="00 00 00 00">I want to dream.</message>
-	<message label="002_07_b" attrib="00 00 00 00">About the dream I shared...</message>
+	<message label="002_07_b" attrib="00 00 00 00">About my island's dream...</message>
 	<message label="002_07_c" attrib="00 00 00 00">And...where is this?</message>
 	<message label="002_07_d" attrib="00 00 00 00">I want to wake up.</message>
 	<message label="003" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I see. <delay8 />Please, come again.<delay8 /> <anim id="FaintSmile" target="actor" targetSpec="" />You are
@@ -109,10 +109,21 @@ appears to be for an island called
 <tag a="115" b="2" arg="0xcd00" />.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Is that correct?</message>
 	<message label="1005_a" attrib="00 00 00 00">Yes, it is!</message>
 	<message label="1005_b" attrib="00 00 00 00">Nope.</message>
-	<message label="1006" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Splendid! <delay20 />Then everything is sorted.<delay20 />
+	<message label="1006" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Splendid! <delay20 />Everything is now sorted.<delay20 />
 <anim id="AbsentMindedness" target="actor" targetSpec="" /><delay20 />Please close your eyes<tag a="110" b="0" />and relax<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="1006_01" attrib="00 00 00 00">Drift and compile<tag a="110" b="0" /><delay20 />and emerge within
-the dream of <tag a="115" b="2" arg="0xcd00" /><tag a="110" b="0" /><10_8 arg="75" /></message>
+the dream<tag a="110" b="0" />of <tag a="115" b="2" arg="0xcd00" /><tag a="110" b="0" /><10_8 arg="75" /></message>
+	<message label="1010" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Of course, of course! <delay8 />But there are
+a few things I must clarify further
+before I guide you to a dream.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Dreams, <delay8 />like many things these days,<delay8 />
+are downloaded from the <colour id="1" />internet<colour id="65535" />.<delay8 />
+A connection is, of course, required.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you wish to visit a specific dream,<delay8 />
+a <colour id="1" />Dream Address<colour id="65535" />—an identity unique
+to each dream—will be needed.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Alternatively,<delay8 /> if you prefer to be
+surprised,<delay20 /> I would be happy to
+choose a dream for you.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you would like me to choose a
+dream for you to visit, you need
+only say,<delay20 /> <anim id="Hello" target="actor" targetSpec="" />"<colour id="1" />Surprise me.<colour id="65535" />"</message>
 	<message label="1031" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My apologies, <delay8 />but there is no dream
 filed to that <colour id="1" />Dream Address<colour id="65535" />.</message>
 	<message label="1031_a" attrib="00 00 00 00">Let's try again.</message>
@@ -160,6 +171,57 @@ another dream you wish to visit?</message>
 	<message label="1058" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> There do not appear to be
 any dreams which you can revisit.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />If you wish to dream, <delay8 />I may need you
 to provide a <colour id="1" />Dream Address<colour id="65535" />.</message>
+	<message label="1060" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />By the way,<delay8 /> if you prefer that
+I choose a dream for you,<delay8 /> I will
+be happy to find you a surprise.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />No Dream Address is needed.<delay20 /> I will
+simply pluck a pleasant dream from
+the internet for you to experience.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you would like me to surprise you
+with a dream of my choosing, you
+need only say,<delay20 /> <anim id="Hello" target="actor" targetSpec="" />"<colour id="1" />Surprise me.<colour id="65535" />"</message>
+	<message label="1061" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How shall I prepare your dream?</message>
+	<message label="1061_a" attrib="00 00 00 00">Search by Dream Address.</message>
+	<message label="1061_b" attrib="00 00 00 00">Revisit a dream.</message>
+	<message label="1061_c" attrib="00 00 00 00">Surprise me.</message>
+	<message label="1061_d" attrib="00 00 00 00">Never mind.</message>
+	<message label="1062" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Gladly.<delay8 /> There are so many wonderful
+surprises to be found in dreams.<delay20 /> Let
+me find one for you<tag a="110" b="0" /></message>
+	<message label="1062_a" attrib="00 00 00 00">I'm ready.</message>
+	<message label="1062_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="1063" attrib="02 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh!<delay8 /> I was unable to find a dream for
+you<tag a="110" b="0" />which I suppose is a surprise in
+itself.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Shall I try again?</message>
+	<message label="1063_a" attrib="00 00 00 00">Please do!</message>
+	<message label="1063_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="1065" attrib="04 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How shall I prepare your dream?</message>
+	<message label="1065_a" attrib="00 00 00 00">Search by Dream Address.</message>
+	<message label="1065_b" attrib="00 00 00 00">Surprise me.</message>
+	<message label="1065_c" attrib="00 00 00 00">Never mind.</message>
+	<message label="1066" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />May I trouble you with a request?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I would like your permission to share
+your dream of <tag a="110" b="9" /> if I
+am asked for a surprise.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you allow me to surprise others
+with your dream,<delay8 /> I would also like to
+update it.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Does this interest you?</message>
+	<message label="1066_a" attrib="00 00 00 00">Let's do it!</message>
+	<message label="1066_b" attrib="00 00 00 00">I don't want to.</message>
+	<message label="1067" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Excellent. <delay20 />I am certain many will
+be delighted to come across your
+dream.<delay8 /> Thank you for your trust.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Now,<delay8 /> let us update your dream
+of <tag a="110" b="9" /><tag a="110" b="0" /></message>
+	<message label="1068" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />There! <delay8 />Your dream is now updated.<delay20 />
+I look forward to surprising many
+others with it.</message>
+	<message label="1069" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Please note that the Dream Address
+for <tag a="110" b="9" /> is filed under
+<tag a="140" b="17" arg="0xcd00" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you do not want your dream to be
+shared if I am asked for a surprise,
+tell me to<delay20 /> <anim id="Hello" target="actor" targetSpec="" />"<colour id="1" />Adjust surprise sharing.<colour id="65535" />"</message>
+	<message label="1070" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I completely understand. <delay20 />In that
+case, your dream will not be shared
+if I am asked for a surprise.</message>
+	<message label="1071" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Should you decide that I may share
+your dream if asked for a surprise,<delay8 />
+tell me to<delay20 /> <anim id="Hello" target="actor" targetSpec="" />"<colour id="1" />Adjust surprise sharing.<colour id="65535" />"</message>
 	<message label="2001" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Of course. <delay20 /><anim id="Serious" target="actor" targetSpec="" />But before we continue,
 there is some <colour id="1" />important information
 <colour id="65535" />you will need to read first.</message>
@@ -247,6 +309,27 @@ day. <delay20 />I will be happy to try again then.</message>
 on <delay8 />"Communicating with Others"<delay8 /> in
 Parental Controls to upload a dream.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Please come and see me again when
 you are ready.</message>
+	<message label="2100" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Since you have been so generous in
+sharing your Dream Address,<delay20 /> I would
+like to request something.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It sometimes occurs that I am asked
+to surprise someone with a dream of
+my choosing.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />But I would never share a dream
+without the permission of the
+dreamer. <delay20 />And so<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />May I surprise others by sharing
+your dream of <tag a="110" b="9" />?</message>
+	<message label="2100_a" attrib="00 00 00 00">Yes, please do!</message>
+	<message label="2100_b" attrib="00 00 00 00">No, please do not.</message>
+	<message label="2101" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Excellent. <delay20 />I am certain many will
+be delighted to come across your
+dream.<delay20 /> <anim id="AbsentMindedness" target="actor" targetSpec="" />One moment<tag a="110" b="0" /></message>
+	<message label="2102" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />There! <delay20 />I look forward to surprising
+many others with your dream.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you do not want your dream to be
+shared if I am asked for a surprise,
+tell me to<delay20 /> <anim id="Hello" target="actor" targetSpec="" />"<colour id="1" />Adjust surprise sharing.<colour id="65535" />"</message>
+	<message label="2103" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I am terribly sorry,<delay8 /> but I was unable
+to compile and update your dream
+of <tag a="110" b="9" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You may need to try again at another
+time.<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />My apologies.</message>
 	<message label="3001" attrib="06 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I have a dream of <tag a="110" b="9" />
 filed under the <colour id="1" />Dream Address
 <colour id="65535" /><tag a="140" b="17" arg="0xcd00" />.</message>
@@ -260,9 +343,19 @@ with your uploaded dream?</message>
 	<message label="3001_01_b" attrib="00 00 00 00">Adjust Dream Address privacy.</message>
 	<message label="3001_01_c" attrib="00 00 00 00">Delete the dream.</message>
 	<message label="3001_01_d" attrib="00 00 00 00">Never mind.</message>
+	<message label="3002" attrib="08 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I have a dream of <tag a="110" b="9" />
+filed under the <colour id="1" />Dream Address
+<colour id="65535" /><tag a="140" b="17" arg="0xcd00" />.</message>
+	<message label="3002_a" attrib="00 00 00 00">Update the dream.</message>
+	<message label="3002_b" attrib="00 00 00 00">Adjust Dream Address privacy.</message>
+	<message label="3002_c" attrib="00 00 00 00">Adjust surprise sharing.</message>
+	<message label="3002_d" attrib="00 00 00 00">Delete the dream.</message>
+	<message label="3002_e" attrib="00 00 00 00">Never mind.</message>
+	<message label="3002_02" attrib="08 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Is there any other way I can assist
+with your uploaded dream?</message>
 	<message label="3002_02_a" attrib="00 00 00 00">Update the dream.</message>
 	<message label="3002_02_b" attrib="00 00 00 00">Adjust Dream Address privacy.</message>
-	<message label="3002_02_c" attrib="00 00 00 00">Adjust Dream Address privacy.</message>
+	<message label="3002_02_c" attrib="00 00 00 00">Adjust surprise sharing.</message>
 	<message label="3002_02_d" attrib="00 00 00 00">Delete the dream.</message>
 	<message label="3002_02_e" attrib="00 00 00 00">Never mind.</message>
 	<message label="3101" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />As a precaution, I must first confirm
@@ -345,6 +438,38 @@ your <colour id="1" />Passport <colour id="65535" />or your island's <colour id=
 	<message label="3405" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />There! <delay20 />Your <colour id="1" />Dream Address<colour id="65535" /> is public.
 Others will now be able to see it on
 your <colour id="1" />Passport <colour id="65535" />and your island's <colour id="1" />map<colour id="65535" />.</message>
+	<message label="3500" attrib="01 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Certainly. <delay20 />Right now, I have
+permission to share your
+dream of <tag a="110" b="9" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />When I am asked to choose a dream
+to surprise someone,<delay8 /> it is possible I
+may share yours.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Is this OK?</message>
+	<message label="3500_a" attrib="00 00 00 00">Stop sharing my dream.</message>
+	<message label="3500_b" attrib="00 00 00 00">Keep sharing my dream.</message>
+	<message label="3501" attrib="01 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Sure. <delay20 />Currently, I am not sharing
+your dream of <tag a="110" b="9" />.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Would you like your dream to be
+among those I might share if I am
+asked for a surprise?</message>
+	<message label="3501_a" attrib="00 00 00 00">You may share my dream.</message>
+	<message label="3501_b" attrib="00 00 00 00">Do not share my dream.</message>
+	<message label="3502" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Understood. <delay20 />Your dream will remain
+among those I share if I am asked for
+a surprise.</message>
+	<message label="3503" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Alright. <delay20 />I will no longer share your
+dream if I am asked for a surprise.</message>
+	<message label="3504" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Very well.<delay20 /> Now when someone asks
+me for a surprise, that surprise might
+be your dream of <tag a="110" b="9" />.</message>
+	<message label="3505" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Done.<delay20 /> I will leave things as they are.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />If someone asks me for a surprise,<delay8 />
+that surprise will not be your dream
+of <tag a="110" b="9" />.</message>
+	<message label="3506" attrib="01 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Sure. <delay20 />Currently, I am not sharing
+your dream of <tag a="110" b="9" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Would you like your dream to be
+among those I might share when
+I am asked for a surprise?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you allow me to surprise others
+with your dream,<delay8 /> I would also like to
+update it.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Does this interest you?</message>
+	<message label="3506_a" attrib="00 00 00 00">Let's do it!</message>
+	<message label="3506_b" attrib="00 00 00 00">Do not share my dream.</message>
 	<message label="4000" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />This is the world between,<delay8 /> where
 electronic dreams and dreamers
 meet. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />I am a guide here.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I can help you dream another's
@@ -392,4 +517,10 @@ in your <colour id="1" />Custom Designs Portal<colour id="65535" />.<pageBreak /
 which designs will be made available.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />You may think of those designs as
 <tag a="110" b="9" /> souvenirs.</message>
 	<message label="4003_03" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />And with that, you are up-to-date!</message>
+	<message label="4010" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Oh! I should also mention that this
+process requires <colour id="1" />internet access<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Additionally, <delay8 />if you wish to visit a
+specific dream, you will also need
+to provide its <colour id="1" />Dream Address<colour id="65535" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Or, if you prefer to be surprised with
+a dream of my choosing, simply say,<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />"<colour id="1" />Surprise me.<colour id="65535" />"<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And that is all there is to it!</message>
 </msbt>

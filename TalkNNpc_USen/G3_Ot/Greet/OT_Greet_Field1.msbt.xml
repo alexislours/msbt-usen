@@ -16,12 +16,12 @@ for saying hello, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancel
 pleasure it is to see you today,
 <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="031" attrib="00 00 0c 01 00 00 00 09"><anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Well, if it isn't <tag a="110" b="3" /><endTag a="110" b="14" />!<delay frames="40" />
-<anim id="FaintSmile" target="actor" targetSpec="" />I was hoping you'd drop by to
-say hello, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+<anim id="FaintSmile" target="actor" targetSpec="" />I was hoping you'd come over
+and say hello, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="032" attrib="00 00 0c 01 00 00 00 09"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />If it isn't dear <tag a="110" b="3" /><endTag a="110" b="14" />!<delay20 />
-<anim id="Hello" target="actor" targetSpec="" />Thank you for coming to see me,
-<tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Hello" target="actor" targetSpec="" /><tag a="110" b="14" />How do you do, <tag a="110" b="3" /><endTag a="110" b="14" />.<delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" />Thank you for coming over
+to see me, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />How do you do, <tag a="110" b="3" /><endTag a="110" b="14" />.<delay frames="40" />
 <anim id="FaintSmile" target="actor" targetSpec="" />I was JUST thinking how lovely
 it would be to see you, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 </msbt>

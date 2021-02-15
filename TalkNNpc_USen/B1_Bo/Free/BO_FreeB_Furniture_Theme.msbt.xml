@@ -1,8 +1,5 @@
 <msbt attribsize="8">
-	<message label="999" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" />How funny, putting <tag a="50" b="2" />
-<tag a="125" b="0" arg="0x0" /><20_2 arg="9" /><delay8 /><anim id="Greeting" target="actor" targetSpec="" /> outside.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="FaintSmile" target="actor" targetSpec="" />Looks like I'm gonna be visiting
-<anim id="Laughing" target="actor" targetSpec="" />here everyday on my walk,
-just to see this! <tag a="50" b="3" /><tag a="110" b="6" />!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="999" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="999_01" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" />Hmm. <delay8 /><anim id="Negative" target="actor" targetSpec="" />I'm not sure this is
 the exact right spot for
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />But<tag a="110" b="0" />what IS the exact right spot?
@@ -12,6 +9,10 @@ THAT'S the exact right spot for the
 thing, <tag a="110" b="6" />!
 <anim id="Blushing" target="actor" targetSpec="" />I hope so, because that'd make
 decorating way less stressful.</message>
+	<message label="999_02" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><anim id="Smiling" target="actor" targetSpec="" />That's a perfect spot for <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />, huh?<20_2 arg="9" /><pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /><delay20 /> Maybe I should take a picture
+before I fall and smear jam all over
+the place later.<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Busy, busy!</message>
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><20_2 arg="10" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<delay frames="40" />
 <20_3 arg="6" /><20_3 arg="3" />It looks so real!<10_4 /> Maybe I oughta
 bite it<tag a="110" b="0" /> Just to be sure<tag a="110" b="0" /></message>
@@ -131,4 +132,13 @@ rumbles. <delay20 /><anim id="Blushing" target="actor" targetSpec="" />Sometimes
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><20_3 arg="3" /><20_3 arg="6" /><anim id="Explain" target="actor" targetSpec="" />Halloween means ghosts, right? But
 it also means pumpkins. <delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />And those
 are WAY yummier, <tag a="110" b="6" />.</message>
+	<message label="026" attrib="00 00 00 00 00 00 00 00"><20_2 arg="9" /><20_2 arg="10" /><anim id="AbsentMindedness" target="actor" targetSpec="" />Whenever I wanna think about Toy
+Day, all I gotta do is look over there
+at <tag a="50" b="1" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="3" /><20_3 arg="6" /><anim id="Blushing" target="actor" targetSpec="" />I really like thinking about Toy Day,<delay8 />
+so I do that a lot, <tag a="110" b="6" />.</message>
+	<message label="027" attrib="00 00 00 00 00 00 00 00"><20_2 arg="9" /><20_2 arg="10" /><anim id="Serious" target="actor" targetSpec="" />Some days the only thing I wanna do
+is sit with a buncha snacks and stare
+at <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="3" /><20_3 arg="6" /><anim id="AbsentMindedness" target="actor" targetSpec="" />Turkey Day is so snacktacular that
+I just like to<tag a="110" b="0" />bask a little, y'know?<delay20 />
+Yeah,<delay8 /> basking is nice, <tag a="110" b="6" />.</message>
 </msbt>

@@ -195,4 +195,48 @@ the program in action!</message>
 	<message label="019" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I've got a few tips for racking up the
 ol' Nook Miles, <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />so don't hesitate to
 ask if you need a little advice.</message>
+	<message label="111" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh, I know! <delay8 />We'll just call this a little
+reward for your assistance.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />I think
+you'll like it.</message>
+	<message label="112" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It's some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd00" />fish bait<colour id="65535" />!<delay20 /> Just sprinkle this
+in a river or the ocean, and fish are
+sure to appear!<pageBreak />I do hope you enjoy that.<delay20 /> <anim id="WrySmile" target="actor" targetSpec="" />I'll try to
+think up some other kind of reward
+for next time.</message>
+	<message label="121" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I have lots of recipes for items made
+from wood, <delay8 />including an <colour id="1" />axe<colour id="65535" /> which is
+needed to cut <colour id="1" />wood <colour id="65535" />from trees!<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Oh! <delay8 />But perhaps you already know
+all of these, <tag a="110" b="1" /><tag a="110" b="0" /></message>
+	<message label="122" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> I'm afraid I don't have any
+other fancy recipes to give you.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />But I owe you, <delay8 />so I need to make this
+right.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />I know! <delay8 />Allow me to present
+you with your very own<tag a="110" b="0" /><anim id="SmugFace" target="actor" targetSpec="" /><colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />flimsy axe<colour id="65535" />!</message>
+	<message label="123" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />As you may know, <delay20 />tools such as axes
+eventually break with use.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />That's why
+it's always good to have a spare!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Yes, yes!<delay8 /> I'm sure that axe will help
+you gather up lots of wood.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Then you
+can use that wood in <colour id="1" />DIY projects<colour id="65535" />!
+<anim id="Nodding" target="actor" targetSpec="" />I hope this helps you get a better
+grip on the "self-sufficient"<delay8 /> lifestyle
+we have here on <tag a="110" b="9" />.</message>
+	<message label="141" attrib="01 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The flowers that grow will be very
+strong. <delay8 />They'll spring up even if you
+just plant them and forget them.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Ah, but if you water them each day<tag a="110" b="0" /><delay8 />
+that's when the magic happens!<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Have
+you ever made a <colour id="1" />watering can<colour id="65535" />?</message>
+	<message label="141_a" attrib="00 00 00 00">Yes, I have!</message>
+	<message label="141_b" attrib="00 00 00 00">I know how to make one.</message>
+	<message label="142" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oho! <delay20 />I was about to teach you how to
+make one, but if you already know,<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />then you're good to go!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Instead, how about I thank you for
+the critter<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />by giving you another
+product sample!</message>
+	<message label="143" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes!<delay8 /> I'm going to give you
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x200" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />These are certain to grow into lovely
+flowers.<delay20 /> <anim id="WrySmile" target="actor" targetSpec="" />And if you enjoy them, you
+can always come back and buy more!</message>
+	<message label="143_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes! <delay8 />I'm going to give you
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x200" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />These are certain to grow into lovely
+flowers.<delay20 /> <anim id="HappyDance" target="actor" targetSpec="" />And if you enjoy them, you
+can buy more from the shop!</message>
 </msbt>

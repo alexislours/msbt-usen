@@ -1,0 +1,422 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are you one of the locals here?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'm <colour id="3" />Franklin<colour id="65535" />, professional chef
+extraordinaire. <10_4 /><anim id="Nodding" target="actor" targetSpec="" />Nook Inc. hired me
+to come and cook for everyone.</message>
+	<message label="001_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey! It's you again! <delay frames="30" /><anim id="Smiling" target="actor" targetSpec="" />You're just in
+time for a Turkey Day feast.</message>
+	<message label="002" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />See, Turkey Day's about celebrating
+the harvest by preparing a feast with
+all those fresh ingredients.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />And no one knows feasting like
+turkeys, which is why they called
+in a professional, gobble gob.</message>
+	<message label="002_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />See, Turkey Day's about celebrating
+the bounty of spring by cooking it.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />And no one knows how to cook a
+feast like turkeys, which is why they
+called in a professional, gobble gob.</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Well<tag a="110" b="0" />I say that, but right now it's
+what those of us in my line of work
+would call a<tag a="110" b="0" /><anim id="WrySmile" target="actor" targetSpec="" />conceptual feast.</message>
+	<message label="003_01" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I've gotten a bit of a start already,
+as you can see here, <anim id="OhGeez" target="actor" targetSpec="" />but I'm not as
+far along as I'd like.</message>
+	<message label="004" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Make no mistake: I brought with
+me everything I need to whip up a
+positively gobblicious <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />clam chowder<colour id="65535" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />But today is about nature's bounty,
+not my personal excellence. <delay20 /><anim id="Sighing" target="actor" targetSpec="" />I want to
+use local ingredients where possible.</message>
+	<message label="005" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Just <colour id="1" />3<colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />manila clams<colour id="65535" /> would be all I'd
+need to adapt my award-winning
+<tag a="50" b="0" arg="0x400 0xcd03" />clam chowder recipe.<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />But I typically have people to do my
+clam digging. <delay20 /><anim id="Worried" target="actor" targetSpec="" />Where am I going to
+find a digger on short notice?</message>
+	<message label="011" attrib="00 00 00 00">Everyone must be salivating to get
+a taste of my cooking. <delay20 /><anim id="Worried" target="actor" targetSpec="" />I'd love to
+start on some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />clam chowder<colour id="65535" /><tag a="110" b="0" /></message>
+	<message label="012" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />And I would, if only I had a digger to
+fetch me <colour id="1" />3<colour id="65535" /> fresh <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />manila clams<colour id="65535" />.</message>
+	<message label="013" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I'd do it myself, but these are chef's
+hands. <delay20 /><anim id="Sighing" target="actor" targetSpec="" />Without an assistant digger,
+I despair of getting my ingredients.</message>
+	<message label="013_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />You can have these!</message>
+	<message label="013_b" attrib="00 00 00 00">That sounds rough...</message>
+	<message label="014" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />What?! <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />Did you bring me my
+ingredients?!</message>
+	<message label="015" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Well, what do you know! <delay frames="40" />Fresh
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />manila clams <colour id="65535" />from this very island!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />These are some beauties. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />I'll make
+the finest <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />clam chowder <colour id="65535" />you've ever
+had with these magnificent mollusks!</message>
+	<message label="021" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks to me, and also you to
+some extent, we've got delicious
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />clam chowder <colour id="65535" />ready to serve!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Folks tend to underrate soup, but
+they should think twice. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Some nice,
+fresh <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />manila clams<colour id="65535" /> can really satisfy!</message>
+	<message label="022" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I'd like to show my appreciation for
+your help. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />I present to you <tag a="50" b="2" />
+<colour id="1" /><tag a="125" b="0" arg="0x3" /><colour id="65535" />!</message>
+	<message label="026" attrib="01 00 00 00">I'll say this: <delay20 /><anim id="Smiling" target="actor" targetSpec="" />for an amateur, you've
+got a real eye for ingredients!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Next on my menu, I plan to cook up
+a <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />pumpkin pie<colour id="65535" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I was going to hire a gopher to fetch
+ingredients, but he didn't show, so
+how would you like to be my gofer?</message>
+	<message label="026_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Sure!</message>
+	<message label="026_b" attrib="00 00 00 00">Yeah, why not.</message>
+	<message label="027" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Gobble gob! <delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />I really appreciate this.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Even a brilliant chef is nothing
+without an eager assistant. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Let's
+make this a red-letter Turkey Day!</message>
+	<message label="028" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Let's talk turkey about what we'll
+need to bake that <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />pumpkin pie<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'll need <tag a="50" b="2" /><colour id="1" /><tag a="140" b="26" arg="0x0" /><colour id="65535" />,<delay20 />
+plus <tag a="50" b="2" /><colour id="1" /><tag a="140" b="26" arg="0x1" /><colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Once it's all stirred in, <delay20 /><anim id="Smiling" target="actor" targetSpec="" />it'll make for
+the best <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />pumpkin pie <colour id="65535" />this island has
+ever seen!</message>
+	<message label="029" attrib="00 00 00 00">If you don't have what we need,<delay20 />
+someone else might.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />There's no shame in asking around
+for help. <delay20 /><anim id="Greeting" target="actor" targetSpec="" />It's how I recruited you,
+after all.</message>
+	<message label="041" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Yikes! <delay frames="40" /><anim id="Confused" target="actor" targetSpec="" />I forgot an important rule of
+fine dining: never rope the customer
+into cooking. My a-gobb-logies!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />That does leave the question of
+where I'll get the ingredients for
+this Turkey Day feast though<tag a="110" b="0" /></message>
+	<message label="041_01" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Let's table that rule for a second.<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />Is there any chance at all I could
+sweet talk you into getting those
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />manila clams<colour id="65535" /> I need?<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />Maybe go stew on it for a bit?! <delay frames="40" />Don't
+make me beg, gobble gob!</message>
+	<message label="042" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />If you don't have the ingredients yet,
+that's fine. <delay20 />Just deliver them to me
+here before I'm off the clock.</message>
+	<message label="043" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Ermm<tag a="110" b="0" /><delay frames="40" /><anim id="Worried" target="actor" targetSpec="" />I appreciate the gesture,<delay20 />
+<anim id="Negative" target="actor" targetSpec="" />but this isn't what I was looking for.</message>
+	<message label="043_01" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I need <colour id="1" />3 <tag a="50" b="0" arg="0x100 0xcd03" />manila clams<colour id="65535" /> to make
+world-class <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />clam chowder<colour id="65535" />. <anim id="EmotEnd" target="actor" targetSpec="" /><10_4 /><anim id="Smiling" target="actor" targetSpec="" />Shouldn't
+take too long, so off you go!</message>
+	<message label="051" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Our next dish will be a <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />pumpkin pie
+<colour id="65535" />absolutely stuffed with pumpkin!</message>
+	<message label="051_01" attrib="00 00 00 00">Our next dish will be a <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />gratin<colour id="65535" />. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />We'll
+be working from my own recipe,
+centered on the bounty of the sea!</message>
+	<message label="051_02" attrib="00 00 00 00">Last up is a dazzling presentation
+of fresh fish: <delay20 /><anim id="Smiling" target="actor" targetSpec="" />the one, the only,
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />fish meunière<colour id="65535" />!</message>
+	<message label="052" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The main ingredients are simple:<delay8 />
+<tag a="50" b="2" /><colour id="1" /><tag a="140" b="26" arg="0x0" /> <colour id="65535" />and <tag a="50" b="2" />
+<colour id="1" /><tag a="140" b="26" arg="0x1" /><colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="053" attrib="01 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll get started prepping it here.<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Once you get your hands on the
+ingredients, <delay8 /><anim id="Greeting" target="actor" targetSpec="" />bring them back to me!</message>
+	<message label="053_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />I have them!</message>
+	<message label="053_b" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Got it, Chef!</message>
+	<message label="054" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />So soon?! That's great, gobble gob!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Let's see what you found.</message>
+	<message label="055" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Nice! <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />Reliable assistants and high-
+quality ingredients make a master
+chef's work that much smoother.</message>
+	<message label="056" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It's a real load off my mind to have
+such a hardworking assistant today.<delay20 />
+<anim id="Laughing" target="actor" targetSpec="" />Frees me up to do the real work!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />If you have trouble finding what we
+need, <delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />don't think twice about asking
+your neighbors if they have some.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />If you run into any resistance, just
+drop my name, and they should be
+thrilled to do their part.</message>
+	<message label="057" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />If you don't have the ingredients yet,
+that's fine. <delay20 />Just deliver them to me
+here before I'm off the clock.</message>
+	<message label="058" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Ermm<tag a="110" b="0" /><delay frames="40" /><anim id="Worried" target="actor" targetSpec="" />I appreciate the gesture,<delay20 />
+<anim id="Negative" target="actor" targetSpec="" />but this isn't what I was looking for.</message>
+	<message label="058_01" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We need <tag a="50" b="2" /><colour id="1" /><tag a="140" b="26" arg="0x0" /><colour id="65535" /><delay20 />
+and <tag a="50" b="2" /><colour id="1" /><tag a="140" b="26" arg="0x1" /><colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /><10_4 />
+<anim id="Smiling" target="actor" targetSpec="" />Go get 'em, double time!</message>
+	<message label="061" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Now then. <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />I've got everything
+I need, so<tag a="110" b="0" /></message>
+	<message label="062" attrib="00 00 00 00"><anim id="64" target="mainNpc" targetSpec="" /><anim id="64" target="player" targetSpec="" /><tag a="10" b="12" /><tag a="10" b="6" /><size value="150" />Let's<delay frames="20" /> get cooking!<size value="100" /><endTag a="10" b="6" /><10_8 arg="80" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="062_01" attrib="00 00 00 00"><anim id="64" target="mainNpc" targetSpec="" /><tag a="10" b="12" /><tag a="10" b="6" /><size value="150" />Let's<delay frames="20" /> get cooking!<size value="100" /><endTag a="10" b="6" /><10_8 arg="80" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="063" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Now then. <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />You've given me
+everything I need, so<tag a="110" b="0" /></message>
+	<message label="071" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks to me, and also you to
+some extent, we've got delicious
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />clam chowder <colour id="65535" />ready to serve!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Folks tend to underrate soup, but
+they should think twice. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Some nice,
+fresh <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />manila clams<colour id="65535" /> can really satisfy!</message>
+	<message label="071_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Mm-mm-MMM! <delay20 />That creamy roasted
+pumpkin,<delay8 /> pureed with spices, <delay8 />makes
+for a quintessential <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />pumpkin pie<colour id="65535" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Few chefs could have brought out
+the flavor quite so well, <delay20 /><anim id="Smiling" target="actor" targetSpec="" />but the raw
+ingredients were all you!</message>
+	<message label="071_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Masterful! <delay20 />My <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />gratin <colour id="65535" />is filled with the
+freshest of fresh seafood. <delay20 /><anim id="HappyDance" target="actor" targetSpec="" />It'll be
+the talk of the town!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />You know, you're proving yourself
+quite the catch when it comes to
+assistants too!</message>
+	<message label="071_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />We've done it! <delay20 /><anim id="HappyDance" target="actor" targetSpec="" />We've fused two
+splendid fish to create a <colour id="1" />meunière<colour id="65535" />
+worthy of a main course!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I couldn't have worked my magic
+without the ingredients you found.<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />We make a complementary pairing!</message>
+	<message label="072" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Gobble gob! <delay20 />Your ingredients have
+pushed my <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />clam chowder <colour id="65535" />recipe to
+previously undreamt-of heights!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />With the addition of a hearty scallop
+to the manila clams, it's no longer
+merely soup<tag a="110" b="0" /><delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />it's souper-douper!</message>
+	<message label="073" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Wow! <delay20 /><anim id="HappyDance" target="actor" targetSpec="" />Your bounty of multicolored
+pumpkins has revamped the palate,
+if not the palette, of my <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />pumpkin pie<colour id="65535" />!
+<anim id="FaintSmile" target="actor" targetSpec="" />I don't think it would have occurred
+to me to harvest so many colors of
+pumpkin for one pie. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Hats off to you!</message>
+	<message label="074" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I'm gobsmacked! <delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" />Those thick crab
+legs really lent some depth to my
+standard <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />gratin <colour id="65535" />recipe.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Looking at the finished <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />gratin<colour id="65535" /> gives
+me goosebumps, <delay20 /><anim id="Laughing" target="actor" targetSpec="" />and I'm not even
+a goose!</message>
+	<message label="075" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />My original request would have made
+a fine <colour id="1" />meunière<colour id="65535" />, <delay20 /><anim id="Smiling" target="actor" targetSpec="" />but your barred
+knifejaw was an inspired choice.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Our main dish is now even more
+luxurious. <delay20 /><anim id="HappyDance" target="actor" targetSpec="" />There'll be lines around
+the block for this one!</message>
+	<message label="081" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I'd like to show my appreciation for
+your help. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />I present to you <tag a="50" b="2" />
+<colour id="1" /><tag a="125" b="0" arg="0x3" /><colour id="65535" />!</message>
+	<message label="081_01" attrib="00 00 00 00">This is for your help with another
+great dish. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Compliments of the chef,
+<tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x3" /><colour id="65535" />!</message>
+	<message label="081_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Gobble gob! <delay8 />We got through the
+entire four-course menu I planned
+for today! <delay frames="30" /><anim id="Nodding" target="actor" targetSpec="" />I owe much of that to you.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />In all honesty, I'm deeply thankful
+for your help today.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />In honor of that, as well as nature's
+bounty all around us, I hope you'll
+accept this <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />cornucopia<colour id="65535" />!</message>
+	<message label="082" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Ahh<tag a="110" b="0" /> Few things are as rewarding
+as a job well done, don't you think?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />But the job IS done now, <delay20 /><anim id="Hello" target="actor" targetSpec="" />so you have
+my blessing to go and enjoy this
+Turkey Day to the fullest!</message>
+	<message label="083" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />So we didn't follow my tried-and-true
+recipes to the letter. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Your choice of
+ingredients was too ingenious not to!
+<anim id="Serious" target="actor" targetSpec="" />It's got me thinking<tag a="110" b="0" /> <delay20 /><anim id="Explain" target="actor" targetSpec="" />I suspect all of
+today's dishes could be enhanced
+with <colour id="1" />unconventional ingredients<colour id="65535" />.</message>
+	<message label="083_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Gobble gob! <delay20 />With some help from
+you, I made four wonderful courses
+for our festival today.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />But as a professional chef, I should
+always be striving to break the mold.
+<size value="75" />Not literally. Molds are expensive.<size value="100" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />I wonder what would happen if we
+went <colour id="1" />off-recipe with a few of the
+ingredients<colour id="65535" /><tag a="110" b="0" /></message>
+	<message label="084" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It's your call, but if you'd like to go
+above and beyond, <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />bring me any
+<colour id="1" />ingredients you think might work<colour id="65535" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />If they improve my recipes<tag a="110" b="0" />well,
+I won't credit you, <delay20 /><anim id="Hello" target="actor" targetSpec="" />but I will offer
+you a small reward!</message>
+	<message label="086" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Stowed some of your stuff, did you?<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />In that case, I present to you
+your <colour id="1" /><tag a="125" b="0" arg="0x3" /><colour id="65535" />!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="087" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I still want to give you that reward
+I mentioned! <10_4 /><anim id="EmotEnd" target="actor" targetSpec="" />After you make some
+pocket space, <delay20 /><anim id="Greeting" target="actor" targetSpec="" />come remind me!</message>
+	<message label="088" attrib="00 00 00 00">That's that for this year's Turkey
+Day gala. <anim id="Smiling" target="actor" targetSpec="" />Your help this year was
+a lifesaver!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'll keep honing my skills as a chef so
+I can get hired back next year. <delay20 /><anim id="Hello" target="actor" targetSpec="" />I hope
+you'll be around to help then too!</message>
+	<message label="089" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Wait. <delay40 /><anim id="Worried" target="actor" targetSpec="" />You wouldn't have enough
+room in your pockets if I gave this to
+you right now.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I don't want you to go home empty-
+handed, <delay20 /><anim id="Hello" target="actor" targetSpec="" />so make some pocket space
+and come see me again.</message>
+	<message label="091" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Let's talk turkey about what we'll
+need to bake that <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />pumpkin pie<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'll need <tag a="50" b="2" /><colour id="1" /><tag a="140" b="26" arg="0x0" /><colour id="65535" />,<delay20 />
+plus <tag a="50" b="2" /><colour id="1" /><tag a="140" b="26" arg="0x1" /><colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Once it's all stirred in, <delay20 /><anim id="Smiling" target="actor" targetSpec="" />it'll make for
+the best <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />pumpkin pie <colour id="65535" />this island has
+ever seen!</message>
+	<message label="092" attrib="00 00 00 00">Now then<tag a="110" b="0" />for our next dish, <delay20 /><anim id="Nodding" target="actor" targetSpec="" />we'll
+make a hearty seafood <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />gratin<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />The key ingredients here are <tag a="50" b="2" />
+<colour id="1" /><tag a="140" b="26" arg="0x0" /> <colour id="65535" /><delay20 />as well as
+<tag a="50" b="2" /><colour id="1" /><tag a="140" b="26" arg="0x1" /><colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" />
+<anim id="Greeting" target="actor" targetSpec="" />Come back once you've found them!</message>
+	<message label="093" attrib="00 00 00 00">Let's see<tag a="110" b="0" /> <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Yes, it's time to tackle
+the final dish. <delay frames="40" /><anim id="Serious" target="actor" targetSpec="" />Only the best for our
+main course!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />The final dish I have planned is none
+other than<tag a="110" b="0" /><delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" /><delay20 />a grand <colour id="1" />fish meunière<colour id="65535" />!</message>
+	<message label="093_01" attrib="00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />I understand it's Turkey Day, but you
+wouldn't believe the way they choose
+to celebrate it in some places.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />But the less said there, the better.<delay frames="30" />
+<anim id="Explain" target="actor" targetSpec="" />We'll need <colour id="1" /><tag a="140" b="26" arg="0x0" /> <colour id="65535" />and
+<tag a="50" b="2" /><colour id="1" /><tag a="140" b="26" arg="0x1" /><colour id="65535" />, I think.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Assent" target="actor" targetSpec="" />I'll prove that a <colour id="1" />meunière<colour id="65535" /> featuring
+both of them is inarguably the proper
+dish for the occasion.<pageBreak />This is the final course. <delay20 /><anim id="Hello" target="actor" targetSpec="" />Stick with
+me, and we'll feast like kings!</message>
+	<message label="101" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Ooooh! <delay40 /><anim id="Smiling" target="actor" targetSpec="" />Your <colour id="1" /><tag a="140" b="26" arg="0x4" /><colour id="65535" />
+is a very interesting ingredient.</message>
+	<message label="102" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hang on<tag a="110" b="0" /> <delay20 /><anim id="Thinking" target="actor" targetSpec="" />Your <colour id="1" /><tag a="140" b="26" arg="0x4" /><colour id="65535" />
+could be just what I need to spice
+up my <colour id="1" /><tag a="140" b="25" arg="0xcd02" /> <colour id="65535" />recipe.</message>
+	<message label="103" attrib="00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Every professional chef worth their
+salt knows when greatness is at
+hand! <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />I can taste it in the air!</message>
+	<message label="104" attrib="00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />I'm sorry, but I need you to give me
+your <colour id="1" /><tag a="140" b="26" arg="0x4" /><colour id="65535" />. <delay20 />Trust me,
+it's all for the greater food.</message>
+	<message label="105" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You're holding the key to a positively
+delectable <colour id="1" /><tag a="140" b="25" arg="0xcd02" /><colour id="65535" />! Help me
+unlock its flavor potential!</message>
+	<message label="105_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />OK!</message>
+	<message label="105_b" attrib="00 00 00 00">I dunno about this...</message>
+	<message label="106" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You won't regret this! <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />I'm going to
+cook the most amazing <colour id="1" /><tag a="140" b="25" arg="0xcd02" />
+<colour id="65535" />you've ever had. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Just you wait!</message>
+	<message label="107" attrib="00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />So it's like that, huh? <delay frames="40" /><anim id="Worried" target="actor" targetSpec="" />Disappointing,
+but you're free to do as you will.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />That said, I have a sense for these
+things. <delay20 /><anim id="Hello" target="actor" targetSpec="" />If you get any more you're
+willing to part with, speak with me!</message>
+	<message label="108" attrib="00 00 00 00">Anyway, back to the matter at hand<tag a="110" b="0" /></message>
+	<message label="111" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh! <delay40 /><anim id="Smiling" target="actor" targetSpec="" />That <colour id="1" /><tag a="140" b="26" arg="0x4" /><colour id="65535" /><delay8 /> and
+the <colour id="1" /><tag a="140" b="26" arg="0x5" /><colour id="65535" /> have a
+scent to them that screams "YUM"!</message>
+	<message label="112" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Wait! <delay20 /><anim id="Thinking" target="actor" targetSpec="" />I'd bet those <colour id="1" />2 shades of
+pumpkin <colour id="65535" />could be used to make my
+<colour id="1" /><tag a="140" b="25" arg="0xcd02" /><colour id="65535" /> recipe even better.</message>
+	<message label="113" attrib="00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />I need your <colour id="1" /><tag a="140" b="26" arg="0x4" /> <colour id="65535" />and
+your <colour id="1" /><tag a="140" b="26" arg="0x5" /><colour id="65535" />. <delay20 />Trust me,
+it's all for the greater food.</message>
+	<message label="114" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I could use your <colour id="1" /><tag a="140" b="26" arg="0x4" />
+<colour id="65535" />to bring my <colour id="1" /><tag a="140" b="25" arg="0xcd02" /><colour id="65535" /> recipe
+from five stars to six!</message>
+	<message label="114_01" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I could use your <colour id="1" />2 shades of
+pumpkin<colour id="65535" /> to bring my <colour id="1" /><tag a="140" b="25" arg="0xcd02" />
+<colour id="65535" />recipe from five stars to six!</message>
+	<message label="115" attrib="02 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />I'd do anything to get my hands on
+a high-quality ingredient like your
+<colour id="1" /><tag a="140" b="26" arg="0x4" /><colour id="65535" />.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I know you said no, but I must ask
+again: <delay frames="40" /><anim id="Serious" target="actor" targetSpec="" />may I make <colour id="1" /><tag a="140" b="25" arg="0xcd02" /> <colour id="65535" />with
+your<colour id="1" /> <tag a="140" b="26" arg="0x4" /><colour id="65535" />?</message>
+	<message label="115_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Sure!</message>
+	<message label="115_b" attrib="00 00 00 00">I'm sorry, but no.</message>
+	<message label="115_01" attrib="02 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />I'd just love to cook with high-quality
+ingredients like <colour id="1" /><tag a="140" b="26" arg="0x4" />
+<colour id="65535" />and <colour id="1" /><tag a="140" b="26" arg="0x5" /><colour id="65535" />.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I know you said no, but I must ask
+again: <delay frames="40" /><anim id="Serious" target="actor" targetSpec="" />may I make <colour id="1" /><tag a="140" b="25" arg="0xcd02" /> <colour id="65535" />with
+<colour id="1" />both your colors of pumpkin<colour id="65535" />?</message>
+	<message label="115_01_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Sure!</message>
+	<message label="115_01_b" attrib="00 00 00 00">I'm sorry, but no.</message>
+	<message label="121" attrib="00 00 00 00">This is for your help with another
+great dish. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Compliments of the chef,
+<tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x3" /><colour id="65535" />!</message>
+	<message label="122" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I hope you'll keep helping me out
+with ingredients for the next course!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You find the ingredients, and I'll cook
+'em. <delay frames="30" /><anim id="Hello" target="actor" targetSpec="" />That's division of labor for you!</message>
+	<message label="123" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Something tells me we could try even
+harder to find unique ingredients to
+give my recipes a special kick.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />If you find anything delicious that
+fits the bill, bring it to me!</message>
+	<message label="124" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Good gobble! <delay frames="40" /><anim id="HappyDance" target="actor" targetSpec="" />All four of the courses
+we prepared today have surpassed
+my original recipes!</message>
+	<message label="125" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You've done so much for me. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />I need
+to think hard about the best way to
+thank you<tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Oh, I've got it! <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />DIY<colour id="65535" /> is popular on this
+island, right? <delay8 />You create a lot of what
+you need? <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />Then how about this?</message>
+	<message label="126" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />It's a recipe collection that teaches
+you how to make Turkey Day–themed
+furniture, <delay8 /><anim id="Smiling" target="actor" targetSpec="" />and other things besides!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />The shop should carry it starting
+tomorrow, but they gave me an
+advance copy. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />And now it's yours!</message>
+	<message label="127" attrib="00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />I may be a genius at the stove, but
+furniture is beyond me. <delay20 /><anim id="Greeting" target="actor" targetSpec="" />I think these
+plans belong with you instead.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />All the recipes will be added to your
+<colour id="1" />NookPhone app<colour id="65535" />, <delay20 /><anim id="Nodding" target="actor" targetSpec="" />including the ones
+for items I've already given you.
+<anim id="EmotEnd" target="actor" targetSpec="" />If you liked any of those, <delay8 /><anim id="Hello" target="actor" targetSpec="" />try making
+them yourself!</message>
+	<message label="128" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />You know, at first I only thought of
+you as an amateur ingredient gofer.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />But the ingredients you brought
+me led to all sorts of flavor
+breakthroughs. <delay frames="30" /><anim id="Nodding" target="actor" targetSpec="" />I learned a lot!
+<anim id="SmugFace" target="actor" targetSpec="" />I think I'm ready to upgrade you to
+PROFESSIONAL ingredient gofer!</message>
+	<message label="129" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />But no, you've earned a break.<delay8 />
+Go take some time to really, <delay8 />truly
+<anim id="Greeting" target="actor" targetSpec="" />enjoy the rest of Turkey Day!</message>
+	<message label="150" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I bet there are still dishes that could
+be improved even more with
+<colour id="1" />ingredients I hadn't considered<colour id="65535" />.
+<anim id="Thinking" target="actor" targetSpec="" />If this island has secret ingredients
+up its sleeve, <delay frames="30" /><anim id="EmotEnd" target="actor" targetSpec="" />maybe its residents
+might know something<tag a="110" b="0" /></message>
+	<message label="150_01" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> <delay20 />No. Nothing you're carrying
+is firing my imagination.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />But if you come across something
+you think we could put to use, <delay20 /><anim id="Hello" target="actor" targetSpec="" />I'd
+appreciate you bringing it to me.</message>
+	<message label="151" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />The feast was a smashing success,
+and more of it was your work than I
+expected! <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />I'm extremely thankful.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Now go on, then! <delay20 /><anim id="Hello" target="actor" targetSpec="" />Enjoy the Turkey
+Day festival like a regular guest!</message>
+	<message label="501" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hm? Who might you be? <delay20 />Oh, a visitor
+from another island. I see. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Here for
+a good meal, are you?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You're in luck, because on Turkey
+Day we celebrate nature's bounty in
+food. <delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />I hope you have a great time!</message>
+	<message label="502" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Well, well! <delay8 />Look who's back! <delay frames="30" /><anim id="Nodding" target="actor" targetSpec="" />Our
+Turkey Day festivities are underway
+now. <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Bon appétit!</message>
+	<message label="511" attrib="00 00 00 00">You've come a long way! <delay frames="30" /><anim id="Smiling" target="actor" targetSpec="" />I hope you
+enjoy Turkey Day<colour id="1" /> <colour id="65535" />the way they do it
+on <tag a="110" b="8" />. I certainly do!</message>
+	<message label="1001" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are you one of the locals here?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'm <colour id="3" />Franklin<colour id="65535" />, professional chef
+extraordinaire. <10_4 /><anim id="Nodding" target="actor" targetSpec="" />Nook Inc. hired me
+to come and cook for everyone.</message>
+	<message label="1002" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />See, Turkey Day's about celebrating
+the harvest by preparing a feast with
+all those fresh ingredients.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />And no one knows feasting like
+turkeys, which is why they called
+in a professional, gobble gob.</message>
+	<message label="1002_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />See, Turkey Day's about celebrating
+the bounty of spring by cooking it.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />And no one knows how to cook a
+feast like turkeys, which is why they
+called in a professional, gobble gob.</message>
+	<message label="1003" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />However, there's still some time
+before the festivities kick off.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm sure your taste buds are raring to
+go, but I still have prep to do. <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Come
+by once everything gets started!</message>
+	<message label="1011" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hm? Who might you be? <delay20 />Oh, a visitor
+from another island. I see. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Here for
+a good meal, are you?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You're in luck, <delay20 /><anim id="Smiling" target="actor" targetSpec="" />because on Turkey
+Day we celebrate nature's bounty
+through food.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'm still setting up right now, <delay8 />but if
+you come back later, <delay20 /><anim id="Greeting" target="actor" targetSpec="" />we'll do our
+best to show you a good time!</message>
+	<message label="1021" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Our Turkey Day feast isn't ready to
+be served quite yet. <delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />But come back
+once everything gets underway!</message>
+	<message label="2001" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are you one of the locals here?</message>
+	<message label="2002" attrib="00 00 00 00">I'm <colour id="3" />Franklin<colour id="65535" />. <10_4 /><anim id="Nodding" target="actor" targetSpec="" />They brought me on
+special to cook for Turkey Day<tag a="110" b="0" /><pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />But the feast is over, alas. <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />Mark your
+calendar now for next year's festival,
+I suppose.</message>
+	<message label="2003" attrib="00 00 00 00">The Turkey Day festivities have come
+to a close this year. <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />I hope to see you
+at next year's smorgasbord!</message>
+	<message label="2011" attrib="00 00 00 00">The Turkey Day festivities have come
+to a close this year. <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />I hope to see you
+at next year's smorgasbord!</message>
+	<message label="2012" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Gobble gob gob! <delay20 />Today's Turkey Day
+feast was everything I hoped for!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />And it might not have been without
+your help. <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />I hope I get an assistant
+as capable as you every year!</message>
+	<message label="2101" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hm? Who might you be? <delay20 />Oh, a visitor
+from another island. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Here to see
+what all the fuss is about, hm?</message>
+	<message label="2102" attrib="00 00 00 00">I'm <colour id="3" />Franklin<colour id="65535" />. <10_4 /><anim id="Nodding" target="actor" targetSpec="" />They brought me on
+special to cook for Turkey Day<tag a="110" b="0" /><pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />But the feast is over, alas. <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />Mark your
+calendar now for next year's festival,
+I suppose.</message>
+	<message label="2103" attrib="00 00 00 00">The Turkey Day festivities have come
+to a close this year. <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />I hope to see you
+at next year's smorgasbord!</message>
+	<message label="2111" attrib="00 00 00 00">The Turkey Day festivities have come
+to a close this year. <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />I hope to see you
+at next year's smorgasbord!</message>
+	<message label="2112" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Gobble gob gob! <delay20 />Today's Turkey Day
+feast was everything I hoped for!</message>
+</msbt>

@@ -77,6 +77,12 @@ Are you really sure you want to part
 with it?<delay40 /> I can give you <tag a="90" b="21" arg="0x0" /><tag a="110" b="0" /></message>
 	<message label="037_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sold!</message>
 	<message label="037_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="037_01" attrib="02 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Oh my!<delay20 /> This is a DIY recipe for
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Worried" target="mainNpc" targetSpec="" />It's quite rare and valuable.<delay frames="40" /><anim id="QuestionMark" target="mainNpc" targetSpec="" /> Are you
+sure you want to sell it? <delay20 /><anim id="Nodding" target="subNpc" targetSpec="" />We can only
+offer <tag a="90" b="21" arg="0x0" />, I'm afraid.</message>
+	<message label="037_01_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sold!</message>
+	<message label="037_01_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
 	<message label="038" attrib="02 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />Oh<tag a="110" b="0" /><delay40 /> I'm sorry, but I can't pay you
 for items like this.<pageBreak />I can dispose of it for free if you
 don't need it, though.</message>
@@ -101,6 +107,11 @@ an extremely valuable recipe in the
 mix.<delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" /> Are you sure about this?</message>
 	<message label="043_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's fine. Go ahead.</message>
 	<message label="043_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Er, no. Hold on a sec.</message>
+	<message label="043_01" attrib="02 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />So many fine thi—<anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" /><delay8 /> OH!<delay20 /> <anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />I'm seeing
+an extremely valuable recipe in the
+mix.<delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" /> Are you sure about this?</message>
+	<message label="043_01_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's fine. Go ahead.</message>
+	<message label="043_01_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Er, no. Hold on a sec.</message>
 	<message label="044_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><delay8 /><anim id="Smiling" target="subNpc" targetSpec="" />Understood!<tag a="100" b="4" /> <delay8 /><size value="75" />...understood!<size value="100" /><endTag a="100" b="4" /><delay frames="40" />
 <anim id="AbsentMindedness" target="mainNpc" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" />I'll just run the numbers<tag a="110" b="0" /></message>
 	<message label="044_02" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><delay8 /><anim id="Smiling" target="subNpc" targetSpec="" />Understood!<tag a="100" b="4" /> <delay8 /><size value="75" />...understood!<size value="100" /><endTag a="100" b="4" /><delay frames="40" />
@@ -372,6 +383,12 @@ today, and I'm afraid that this is the
 last day it will be available this year.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I do hope you'll come back
 for more at the next possible
 opportunity!</message>
+	<message label="145" attrib="00 00 00 00"><anim id="Eh" target="mainNpc" targetSpec="" />Ah, I suppose this requires some
+explanation. <delay20 /><anim id="Nodding" target="mainNpc" targetSpec="" />You see, we decided
+to begin selling toys!<pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />This is a limited-time offering until
+December 25th to allow folks to
+purchase Toy Day gifts.<pageBreak /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Do let us know if anything catches
+your eye! <tag a="100" b="4" /><delay8 /><size value="75" />...eye!<size value="100" /><endTag a="100" b="4" /></message>
 	<message label="200" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Thank you!<tag a="100" b="4" /><delay8 /> <size value="75" />...thank you!<size value="100" /><endTag a="100" b="4" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><10_7 arg="90" /></message>
 	<message label="201" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay8 /><anim id="FaintSmile" target="subNpc" targetSpec="" />Hello!<tag a="100" b="4" /><delay8 /> <size value="75" />...hello!<size value="100" /><endTag a="100" b="4" /><delay40 /> Welcome to
 <colour id="1" />Nook's Cranny<colour id="65535" />!</message>
@@ -410,4 +427,26 @@ Please let me know if you need help
 with anything else!<tag a="100" b="4" /><delay8 /> <size value="75" />...anything else!<size value="100" /><endTag a="100" b="4" /></message>
 	<message label="905" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Well then, please don't hesitate <anim id="FaintSmile" target="mainNpc" targetSpec="" />to
 ask if you need assistance!<tag a="100" b="4" /> <delay8 /><size value="75" />...assistance!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="2001" attrib="00 00 00 00"><anim id="Eh" target="mainNpc" targetSpec="" />Ah! <delay8 /><anim id="EmotEnd" target="mainNpc" targetSpec="" />A Turkey Day item! <delay20 />That's <tag a="50" b="1" />
+<tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" />I should warn you that supplies are
+limited<tag a="110" b="0" /><anim id="FaintSmile" target="subNpc" targetSpec="" />and you might be able to
+craft something similar with DIY<tag a="110" b="0" /><pageBreak /><anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />In fact, I believe we have recipes
+<colour id="1" />on sale now in the cabinet<colour id="65535" /><tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" />Just providing you another option.<delay20 />
+We are always happy to make a
+sale!<tag a="100" b="4" /> <delay8 /><size value="75" />...sale!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="2002" attrib="02 00 00 00"><anim id="OhGeez" target="mainNpc" targetSpec="" />Goodness, I completely forgot to
+give the price!<delay frames="40" /> <anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />It's <tag a="90" b="24" arg="0x0" />.<delay20 />
+What do you say?</message>
+	<message label="2002_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy it!</message>
+	<message label="2002_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="2003" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Not that we're keeping track, but<tag a="110" b="0" /><delay20 />
+<anim id="OhGeez" target="mainNpc" targetSpec="" />you've already learned all of the DIY
+recipes in that collection!<delay20 /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak /><anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />Perhaps you would enjoy the
+challenge of crafting some new
+Turkey Day–inspired recipes.</message>
+	<message label="2004" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />Ah! <delay20 />You've found a collection of <colour id="1" />DIY<colour id="65535" />
+recipes inspired by Turkey Day. <delay20 /><anim id="Smiling" target="subNpc" targetSpec="" />It's
+<tag a="50" b="1" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Serious" target="mainNpc" targetSpec="" />We'll only be offering this collection
+until the end of the month, so don't
+delay if you're interested.</message>
 </msbt>

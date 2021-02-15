@@ -220,4 +220,79 @@ should take priority<tag a="110" b="0" /></message>
 find a way to handle this little puzzle.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />The two of you have been training
 under me for how many years
 now, hm?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />This should be a piece of cake!<delay20 /><anim id="Shocked" target="actor" targetSpec="" /><delay20 /><20_2 arg="0" /></message>
+	<message label="1001" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Well, hello there, <tag a="110" b="1" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Say, <delay8 />I was just looking over the
+file on your home loan from your
+previous island.</message>
+	<message label="1002" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Well, hello there, <tag a="110" b="1" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Say, <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />didn't you ask to have a home
+built just before you moved here?</message>
+	<message label="1003" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Well, hello there, <tag a="110" b="1" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Say, <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />didn't you ask to have your
+home remodeled just before you
+moved here?</message>
+	<message label="1101" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hello, <tag a="110" b="1" />!</message>
+	<message label="1102" attrib="01 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How are you settling in?<delay20 /> Is life on
+<tag a="110" b="9" /> treating you well?</message>
+	<message label="1102_a" attrib="00 00 00 00">I love it here!</message>
+	<message label="1102_b" attrib="00 00 00 00">I'm doing alright.</message>
+	<message label="1103" attrib="01 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Good, good!<delay20 /> I think you'll enjoy it
+here.<delay8 /> There are countless wonderful
+ways to spend your time!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Even so, sometimes it's just nice to
+get off the island. <delay20 />And coincidentally,<delay8 />
+<anim id="Nodding" target="actor" targetSpec="" />I have a special present for you.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I do hope you're ready for this<tag a="110" b="0" /><delay40 />
+<anim id="HappyFlower" target="actor" targetSpec="" />It's a premium miles-redemption
+item: a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket<colour id="65535" />!</message>
+	<message label="1103_a" attrib="00 00 00 00">Wow, thanks!</message>
+	<message label="1103_b" attrib="00 00 00 00">What's a <tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket?</message>
+	<message label="1104" attrib="00 00 00 00">Well, <anim id="Greeting" target="actor" targetSpec="" />I won't take up any more of
+your time.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />Get back out there and
+explore <tag a="110" b="9" />!</message>
+	<message label="1105" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />You can use a <tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket to
+do some island-hopping adventuring,
+yes, yes! Go anytime you want!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Maybe you're looking to meet some
+new characters or gather materials
+for DIY projects.
+<anim id="BigSmile" target="actor" targetSpec="" />Your trip is yours to enjoy in the way
+you like.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I've left your ticket at the counter in
+the <colour id="1" />airport<colour id="65535" />, so use it whenever the
+travel mood strikes.</message>
+	<message label="1201" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />My goodness, you've done it.<delay20 />
+You've paid off your home-
+renovation loan in full!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Congratulations! <delay20 />You're debt-free
+and set for life in an amazing,
+spacious island home! <delay20 />Yes, yes!<pageBreak /><anim id="Angry" target="actor" targetSpec="" /><tag a="110" b="0" />I know you're just waiting for me
+to offer to expand your home, but
+your house is as grand as it gets.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />I have something else to offer,
+however! <delay20 />For free, of course.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Nook Inc. guarantees its work for
+life, and as a small token of my
+appreciation<tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I am proud to offer you a lifetime
+of free exterior renovations!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Limit one per day, terms and
+conditions apply. <delay20 />Yes, yes<tag a="110" b="0" />
+I'm legally required to say that<tag a="110" b="0" /></message>
+	<message label="1201_01" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh, yes!<delay8 /> There is one other thing for
+us to discuss.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />Although we cannot
+expand your house any further<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Maybe we could look into <colour id="1" />expanding
+the size of your home storage<colour id="65535" />, hm?</message>
+	<message label="1201_02" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Unfortunately,<delay8 /> such construction
+would not come cheap,<delay20 /> so I'd need
+the entire cost to be paid up front.</message>
+	<message label="1201_03" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Now, I imagine that,<delay8 /> as your house
+has grown,<delay8 /> you've placed quite a few
+things into storage, hm?<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />But then, before you know it,<delay20 /> your
+storage is full!<delay8 /> And where does your
+old couch go then?<delay20 /> <anim id="Thinking" target="actor" targetSpec="" />Where indeed<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />That's what expanded storage would
+aim to solve.<delay20 /> So,<delay8 /> <anim id="Greeting" target="actor" targetSpec="" />think it over, and
+tell me if you'd like to know more!</message>
+	<message label="1201_04" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />And on that note,<delay20 /> I'd just like to say
+that I hope Nook Inc. continues to
+serve you for years to come.<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Oh!<delay8 /> <anim id="HappyFlower" target="actor" targetSpec="" />And once again,<delay20 /> congratulations!</message>
+	<message label="1202" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh!<delay8 /> I'd like to discuss something.<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Although we can't increase the size
+of your house any further, well<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />With all the furniture and trinkets
+you've collected,<delay8 /> I suspect your
+storage is becoming quite full.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />So, once this loan is paid off,<delay8 /> I'd like
+to offer a new service<tag a="110" b="0" /><delay20 /><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />expanding
+your home storage<colour id="65535" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Anyway, that's just something to
+keep in mind for later.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />For now,<delay8 /> please keep making your
+loan payments using the <colour id="1" />ABD<colour id="65535" /> feature
+on the <colour id="1" />Nook Stop<colour id="65535" />.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Take care!</message>
 </msbt>

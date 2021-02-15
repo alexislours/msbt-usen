@@ -302,6 +302,13 @@ fainted when they said I was in.
 <anim id="HappyDance" target="actor" targetSpec="" />Needless to say, I am over the moon.
 Thank you for calling little ol'
 <tag a="110" b="10" /> your neighbor.</message>
+	<message label="407" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Well, that took longer than it ought.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />The good news is, <colour id="1" />Resident Services
+<colour id="65535" />tells me that there is a vacant lot
+on the island just waiting for me.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I appreciate it when obstacles stand
+aside for me, don't you?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Now then<tag a="110" b="0" />your name was
+<tag a="110" b="3" />, yes?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Let me properly introduce myself.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />I am <tag a="110" b="10" />, and as of
+now, you can call me "neighbor."</message>
 	<message label="410" attrib="00 00 01 00 00 00 00 00">You know, <anim id="Restless" target="actor" targetSpec="" />on second thought,<delay frames="13" /> failing
 to achieve my dream is<tag a="110" b="0" /><delay frames="13" />is<tag a="110" b="0" /><delay20 />
 <anim id="Angry" target="actor" targetSpec="" />well, it is simply unacceptable.

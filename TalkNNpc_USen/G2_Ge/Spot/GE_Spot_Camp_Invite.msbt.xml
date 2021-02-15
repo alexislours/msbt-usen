@@ -256,6 +256,11 @@ also means it's introduction time!
 <anim id="Thinking" target="actor" targetSpec="" />So,<delay8 /> you're <tag a="110" b="3" />,<delay8 /> right?<delay frames="40" />
 <anim id="EmotEnd" target="actor" targetSpec="" />Well, I'm <tag a="110" b="10" />, <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />your
 new favorite neighbor, <tag a="110" b="6" />!</message>
+	<message label="407" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Thanks for waiting!<delay frames="60" /> <anim id="Restless" target="actor" targetSpec="" />So,<delay8 /> I asked
+<colour id="1" />Resident Services<colour id="65535" />,<colour id="1" /> <colour id="65535" />and<tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />There's an open spot available!<delay20 />
+I'm totes in!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Now that we're <tag a="110" b="8" />
+besties, you'll have to show
+me around the place, 'K?<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Yay! <delay20 />I'm so excited for us!</message>
 	<message label="410" attrib="00 00 01 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" /><delay20 />Oh, but<tag a="110" b="0" /><delay20 />should I maybe go ask
 <colour id="1" />Resident Services <colour id="65535" />one more
 time? Just in case?<pageBreak /><anim id="Frantic" target="actor" targetSpec="" /><delay20 />I want to live here SO MUCH,

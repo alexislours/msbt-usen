@@ -49,11 +49,9 @@ by to see me, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOpti
 	<message label="031" attrib="00 00 0c 09 00 00 00 08"><anim id="Greeting" target="actor" targetSpec="" />Thank you for stopping by!<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />It's so
 cold outside, I didn't think I would
 get any visitors today, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Why, hello there, <tag a="110" b="3" /><endTag a="110" b="14" />!<delay20 /><anim id="HappyDance" target="actor" targetSpec="" />
-I was JUST thinking how nice it
+	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Hello there, <tag a="110" b="3" /><endTag a="110" b="14" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I was JUST thinking how nice it
 would be to see you, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="034" attrib="00 00 0c 01 00 00 00 09"><anim id="Nodding" target="actor" targetSpec="" /><tag a="110" b="14" />Well, hello there, <tag a="110" b="3" /><endTag a="110" b="14" />!<delay20 />
-<anim id="Smiling" target="actor" targetSpec="" />Sit down, stay awhile! Make
+	<message label="034" attrib="00 00 0c 01 00 00 00 09"><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Hello there, <tag a="110" b="3" /><endTag a="110" b="14" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Sit down, stay awhile! Make
 yourself at home, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="035" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Hello there, <tag a="110" b="3" /><endTag a="110" b="14" />!<delay20 />
 <anim id="ShyBoy" target="actor" targetSpec="" />If I'd known you'd be stopping by,
@@ -61,10 +59,10 @@ I'd have prepared something.<setNpcTalkChoices chatOption="0" cancelOption="1" /
 	<message label="036" attrib="00 00 0c 01 00 07 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Well, if it isn't <tag a="110" b="3" /><endTag a="110" b="14" />!<delay20 />
 <anim id="Grin" target="actor" targetSpec="" />What a surprise to see you out and
 about so early, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="037" attrib="00 00 0c 01 00 03 00 09"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" /><tag a="110" b="3" />! Hello there<endTag a="110" b="14" />!<delay20 />
+	<message label="037" attrib="00 00 0c 01 00 03 00 09"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" /><tag a="50" b="3" /><tag a="110" b="3" />! Hello there<endTag a="110" b="14" />!<delay20 />
 I'm being quite lazy this afternoon.<delay frames="13" />
 <anim id="Grin" target="actor" targetSpec="" />You should join me, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="038" attrib="00 00 0c 01 00 04 00 09"><anim id="Hello" target="actor" targetSpec="" /><tag a="110" b="14" /><tag a="50" b="3" /><tag a="110" b="3" />! Why, hello<endTag a="110" b="14" />!<delay20 />
+	<message label="038" attrib="00 00 0c 01 00 04 00 09"><anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" /><tag a="50" b="3" /><tag a="110" b="3" />! Why, hello<endTag a="110" b="14" />!<delay20 />
 <anim id="Smiling" target="actor" targetSpec="" />So happy to see you this
 evening, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="039" attrib="00 00 0c 01 00 06 00 09"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Good evening, <tag a="110" b="3" /><endTag a="110" b="14" />.<delay frames="13" />

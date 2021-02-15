@@ -8,10 +8,11 @@ be a great giorno in Italian!<setNpcTalkChoices chatOption="0" cancelOption="1" 
 	<message label="012" attrib="00 00 0c 01 00 00 00 07"><anim id="BigSmile" target="actor" targetSpec="" />Ciao, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="013" attrib="00 00 0c 01 00 00 00 07"><anim id="Hello" target="actor" targetSpec="" />Hey, what's the good word?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
 	<message label="021" attrib="00 00 0c 01 00 00 00 08"><anim id="SmugFace" target="actor" targetSpec="" />What's the latest, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="022" attrib="00 00 0c 01 00 00 00 08"><anim id="BigSmile" target="mainNpc" targetSpec="" />Heya!<delay20 /> I was just thinking about you.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="022" attrib="00 00 0c 01 00 00 00 08"><anim id="Greeting" target="actor" targetSpec="" />Heya! <delay20 />Always great running into
+you, <tag a="110" b="3" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="023" attrib="00 00 0c 01 00 00 00 08"><anim id="Greeting" target="mainNpc" targetSpec="" />Yo! Good to see you, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="031" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="mainNpc" targetSpec="" />Mi amigo! <delay20 /><tag a="110" b="14" />How's it going?<endTag a="110" b="14" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="032" attrib="00 00 0c 01 00 00 00 09"><anim id="BigSmile" target="mainNpc" targetSpec="" /><tag a="110" b="14" /><tag a="50" b="3" /><tag a="110" b="5" />, I was hoping to run
+	<message label="031" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="mainNpc" targetSpec="" />Mi amigo! <delay20 /><tag a="50" b="3" /><tag a="110" b="14" />How's it going?<endTag a="110" b="14" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="032" attrib="00 00 0c 01 00 00 00 09"><anim id="BigSmile" target="mainNpc" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" /><tag a="50" b="3" /><tag a="110" b="5" />, I was hoping to run
 into you<endTag a="110" b="14" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Smiling" target="actor" targetSpec="" />Well, if it isn't <tag a="110" b="3" />!<delay20 />
 <anim id="Blushing" target="actor" targetSpec="" />So glad to hear your voice.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>

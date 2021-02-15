@@ -1,0 +1,11 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 13"><anim id="Smiling" target="actor" targetSpec="" />Hey there! I'm <tag a="110" b="10" />.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />And you must be <tag a="110" b="1" />?<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />What can I do for you?</message>
+	<message label="002" attrib="00 00 00 13"><anim id="Eh" target="actor" targetSpec="" />You want me to<tag a="110" b="0" />go <colour id="1" />camping<colour id="65535" />?<delay20 />
+<anim id="Blushing" target="actor" targetSpec="" />Aww, I don't know what that is,
+but it sounds pretty fun.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />But I'm afraid that I can't right now.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />This little reindeer has a lot of work
+to handle behind the scenes.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />I hope to see you on the next Toy
+Day though. <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />It's gonna be magical!</message>
+</msbt>

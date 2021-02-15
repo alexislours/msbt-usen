@@ -180,4 +180,19 @@ in bulk.<delay20 /> So,<delay8 /> <anim id="QuestionMark" target="actor" targetS
 	<message label="106_a" attrib="00 00 00 00">Just 1. (<colour id="1" /><tag a="90" b="12" arg="0x0" /><colour id="65535" />)</message>
 	<message label="106_b" attrib="00 00 00 00">I'll take 5! (<colour id="1" /><tag a="90" b="13" arg="0x1" /><colour id="65535" />)</message>
 	<message label="106_c" attrib="00 00 00 00">Never mind.</message>
+	<message label="107" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh, yes! <delay8 />I have some happy news
+to share with you.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Since October and Halloween are
+such close friends,<delay8 /> <anim id="BigSmile" target="actor" targetSpec="" /><colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />pumpkin starts
+<colour id="65535" />are on sale for half off!</message>
+	<message label="108" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh, yes!<delay20 /> I also brought some
+wonderful little <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />pumpkin starts
+<colour id="65535" />that I'd love to sell you.</message>
+	<message label="108_01" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh!<delay20 /> I also have something new with
+me.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />I brought a couple of wonderful
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />pumpkin starts <colour id="65535" />I'd love to sell you.</message>
+	<message label="109" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />And since October and Halloween
+are such close friends, <delay8 />they're on
+sale for half off!</message>
+	<message label="110" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Pumpkins are so much fun.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />I sure
+hope you'll try raising some!</message>
 </msbt>

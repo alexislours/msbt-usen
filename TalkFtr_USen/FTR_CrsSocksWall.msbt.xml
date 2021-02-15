@@ -1,0 +1,9 @@
+<msbt attribsize="4">
+	<message label="000" attrib="00 00 00 18">Hold on<tag a="110" b="0" /><delay20 />
+There's something inside!</message>
+	<message label="001_1" attrib="00 00 00 18">Wow, <delay8 />could it be<tag a="110" b="0" /></message>
+	<message label="001_2" attrib="00 00 00 18"><colour id="1" /><tag a="50" b="0" arg="0x0 0xcd00" />Jingle's photo<colour id="65535" /> was inside!<delay frames="40" />
+How sneaky of Santa<tag a="110" b="0" /></message>
+	<message label="002" attrib="00 00 00 18">Oh, but my pockets are full<tag a="110" b="0" />
+I'll come back and get it later.</message>
+</msbt>

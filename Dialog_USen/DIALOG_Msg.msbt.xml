@@ -224,6 +224,19 @@ for <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="1" />?<colour id
 	<message label="1105_a" attrib="01 00">Place Order</message>
 	<message label="1105_b" attrib="01 00">Send as Gift</message>
 	<message label="1105_c" attrib="01 00">Cancel</message>
+	<message label="1106" attrib="08 00">Order <tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />
+for <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="65535" />?
+<colour id="0" />To equip a new phone case, use the
+customization option at a workbench.<colour id="65535" /></message>
+	<message label="1106_a" attrib="01 00">Cancel</message>
+	<message label="1106_b" attrib="01 00">Place Order</message>
+	<message label="1107" attrib="0c 00">Order <tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />
+for <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="65535" />?
+<colour id="0" />To equip a new phone case, use the
+customization option at a workbench.<colour id="65535" /></message>
+	<message label="1107_a" attrib="01 00">Place Order</message>
+	<message label="1107_b" attrib="01 00">Send as Gift</message>
+	<message label="1107_c" attrib="01 00">Cancel</message>
 	<message label="1108" attrib="06 06">Your order has been placed! Your
 order will be delivered shortly to
 your home through the mail.</message>
@@ -1111,6 +1124,14 @@ upon redemption.<colour id="65535" /></message>
 vanity <colour id="65535" />with new eye-color choices!
 <colour id="0" />Book will be printed immediately
 upon redemption.<colour id="65535" /></message>
+	<message label="3026" attrib="01 00">Learn about a variety of Reactions
+that'll spice up your island life.
+<colour id="0" />Book will be printed immediately
+upon redemption.<colour id="65535" /></message>
+	<message label="3027" attrib="01 00">Discover even more hairstyles to try
+on at a <colour id="1" />mirror <colour id="65535" />or <colour id="1" />vanity<colour id="65535" />!
+<colour id="0" />Book will be printed immediately
+upon redemption.<colour id="65535" /></message>
 	<message label="5001" attrib="01 00"><colour id="1" />Camera<colour id="65535" />
 Take pictures using various
 filters and effects.<pageBreak /><colour id="0" />The pictures will be saved to the
@@ -1568,6 +1589,9 @@ this process.</message>
 	<message label="8020_a" attrib="01 00">No</message>
 	<message label="8020_b" attrib="01 00">Close</message>
 	<message label="8019" attrib="01 00">Starting game again.</message>
+	<message label="8021" attrib="01 00">Player data for an in-progress move
+from another island was detected.
+The moving process will now resume.</message>
 	<message label="9001" attrib="08 00">Do you want to begin island backup
 restoration?</message>
 	<message label="9001_a" attrib="01 00">Cancel</message>
@@ -1581,4 +1605,53 @@ complete. Gameplay will now resume.</message>
 	<message label="9013_a" attrib="01 00">Close</message>
 	<message label="9016" attrib="02 00">Saving.
 <colour id="0" />Do not touch .<colour id="65535" /></message>
+	<message label="9101" attrib="08 00">The user account you are using does
+not have a linked Nintendo Account.<pageBreak />Do you want to link a Nintendo Account
+now so you can carry over save data
+related to features that use the
+internet, like the Best Friends List?</message>
+	<message label="9101_a" attrib="01 00">No.</message>
+	<message label="9101_b" attrib="01 00">Link account.</message>
+	<message label="9102" attrib="08 00">If you do not link a Nintendo Account
+before proceeding, all features that
+use the internet will be reset.
+Do you want to proceed?</message>
+	<message label="9102_a" attrib="01 00">No.</message>
+	<message label="9102_b" attrib="01 00">OK to reset.</message>
+	<message label="9103" attrib="08 00">The Nintendo Account linked to this
+user account is different than the
+Nintendo Account used on the
+previous system.<pageBreak />This means all features that use the
+internet, like the Best Friends List,
+will be reset before the moving
+process continues. Proceed?</message>
+	<message label="9103_a" attrib="01 00">No.</message>
+	<message label="9103_b" attrib="01 00">OK to reset.</message>
+	<message label="9104" attrib="05 00">The save data for features that use
+the internet has been reset.</message>
+	<message label="9104_a" attrib="01 00">OK.</message>
+	<message label="9105" attrib="03 00">Please close the game using the
+HOME Menu. Then link a user
+account to the same Nintendo
+Account you used before moving.
+Finally, relaunch the game.</message>
+	<message label="9105_01" attrib="03 00">Close the game from the HOME Menu.
+Then relaunch the game with a user
+account linked to the same Nintendo
+Account you used before moving.</message>
+	<message label="9111" attrib="08 00">The target Nintendo Switch system
+does not have save data for the
+<colour id="2" />Animal Crossing: New Horizons<colour id="65535" /> game.<pageBreak />If you continue the moving process,
+<colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" /> will become the
+<colour id="1" />Resident Representative<colour id="65535" /> on the
+target system's island. Proceed?</message>
+	<message label="9111_a" attrib="01 00">Cancel.</message>
+	<message label="9111_b" attrib="01 00">Proceed.</message>
+	<message label="9112" attrib="12 00">The save data transfer process will
+take some time. If you're playing in
+handheld mode, please connect the
+system to the Nintendo Switch AC
+adapter before beginning the save
+data transfer process.</message>
+	<message label="9112_a" attrib="01 00">I Understand</message>
 </msbt>

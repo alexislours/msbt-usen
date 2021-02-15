@@ -30,6 +30,26 @@ lives of all island residents.
 <anim id="Smiling" target="actor" targetSpec="" />Feel free to chat with me about
 island life anytime.<pageBreak />For island business, <colour id="3" />Isabelle<colour id="65535" /> will
 be happy to assist you.</message>
+	<message label="011" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah, <delay20 /><tag a="110" b="1" />!
+Welcome, welcome!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />This is <colour id="1" />Resident Services<colour id="65535" />.<delay20 /> Here, we
+provide support for all the residents
+of <tag a="110" b="9" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'm sure you've already got the hang
+of deserted-island life,<delay20 /> but please
+stop by<delay8 /> <anim id="Greeting" target="actor" targetSpec="" />if you ever need help!</message>
+	<message label="012" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Now, normally the first thing we ask
+of any package-plan members is to
+attend a special <colour id="1" />DIY<colour id="65535" /><delay8 /> workshop.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />However, I don't think there's any
+need for that<delay8 /> since you've already
+been to one on your previous island.</message>
+	<message label="013_01" attrib="00 00 00 00">But, if you have time,<delay20 /> <anim id="Explain" target="actor" targetSpec="" />it would be
+wonderful if I could get your help
+investigating the local wildlife.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />If you happen to catch any bugs or
+fish,<delay8 /> please bring them back here to
+me.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />I would love to see them!</message>
+	<message label="013_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />So why don't you get out there and
+enjoy deserted-island life, hm?</message>
+	<message label="013_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />So why don't you get out there and
+enjoy life on your new island, hm?</message>
 	<message label="021_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It is good to be good! <delay20 />Yes, yes!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I'm glad to see that you're taking
 the initiative to explore and learn
 all about our new island home.
@@ -215,6 +235,21 @@ park, and more!
 <anim id="Smiling" target="actor" targetSpec="" />I do hope you'll redeem your miles
 for some recipes and see what a bit
 of nice fencing can do for the island!</message>
+	<message label="181" attrib="00 00 00 00">It occurs to me, <tag a="110" b="1" /><tag a="110" b="0" /><pageBreak />Have you<anim id="QuestionMark" target="actor" targetSpec="" /> settled on a place to live?
+A spot for your tent? Hm?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You're free to live the way you like,
+of course. But there are many
+advantages to having a house.<pageBreak />There are some island services you
+can't use without a place of your
+own, so <anim id="Smiling" target="actor" targetSpec="" />please give it some thought.</message>
+	<message label="182" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />I can't think of any pressing business
+for you to attend to!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Why not enjoy some <colour id="1" />Nook Shopping
+<colour id="65535" />or <colour id="1" />redeem some miles<colour id="65535" />?<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> I'd like you
+to spend your time as you please!</message>
+	<message label="183" attrib="00 00 00 00">Have you taken the time to sort
+through your belongings<delay8 /> <anim id="QuestionMark" target="actor" targetSpec="" />since you
+moved here, <tag a="110" b="1" />?<pageBreak />Should you need anything for your
+new life here, <delay8 /><anim id="Hesitate" target="actor" targetSpec="" />may I humbly suggest
+<colour id="1" />Nook Shopping<colour id="65535" /> from the <colour id="1" />Nook Stop<colour id="65535" />?</message>
 	<message label="201" attrib="04 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Yes, yes! <delay20 />The DIY workshop!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Each participant will make and keep
 their own tools <delay20 />and receive a set of
 DIY recipes.
@@ -373,6 +408,12 @@ for lots of interesting things.
 <anim id="FaintSmile" target="actor" targetSpec="" />You'll be sure to check it out
 sometime soon, hm?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><delay20 />Well then, I hope you continue to
 enjoy <anim id="Greeting" target="actor" targetSpec="" />your getaway-package life!</message>
+	<message label="410" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay8 />Oh!<delay20 /> You want to talk about
+<anim id="QuestionMark" target="actor" targetSpec="" />your home?<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Well, of course that would be fine,<delay8 />
+but I'd feel bad discussing that when
+you haven't really<tag a="110" b="0" />settled in yet.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'll tell you what. <delay8 />Use the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />transfer kit<colour id="65535" />
+you have to pick a location for your
+home,<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />then come by to chat with me!</message>
 	<message label="901" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah, I see you've discovered my
 <colour id="1" />DIY<colour id="65535" /> workbench.</message>
 	<message label="911" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Remember, to craft the fishing rod

@@ -15,10 +15,10 @@ you here?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
 	<message label="022" attrib="00 00 0c 01 00 00 00 08"><anim id="Aha" target="actor" targetSpec="" />What's up, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
 	<message label="023" attrib="00 00 0c 01 00 00 00 08"><anim id="Greeting" target="actor" targetSpec="" />Yo! <delay20 /><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> How you
 doing, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="031" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Heya, <tag a="110" b="3" />!<endTag a="110" b="14" /><delay frames="40" />
+	<message label="031" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Heya, <tag a="110" b="3" />!<endTag a="110" b="14" /><delay frames="40" />
 <anim id="Blushing" target="actor" targetSpec="" />Great to see you!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="032" attrib="00 00 0c 01 00 00 00 09"><anim id="Cheering" target="mainNpc" targetSpec="" /><delay20 /><tag a="110" b="14" />Yo yo yo, <delay8 /><tag a="110" b="3" /><endTag a="110" b="14" />!<delay frames="40" />
+	<message label="032" attrib="00 00 0c 01 00 00 00 09"><anim id="Cheering" target="mainNpc" targetSpec="" /><delay20 /><tag a="50" b="3" /><tag a="110" b="14" />Yo yo yo, <delay8 /><tag a="110" b="3" /><endTag a="110" b="14" />!<delay frames="40" />
 <anim id="Greeting" target="actor" targetSpec="" />Feelin' psyched, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
-	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Aha" target="actor" targetSpec="" /><tag a="110" b="14" />What's up, <tag a="110" b="3" />?<endTag a="110" b="14" /><delay frames="40" />
-<anim id="Hello" target="actor" targetSpec="" />Was hopin' you'd come by!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />What's up, <tag a="110" b="3" />?<endTag a="110" b="14" /><delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" />Was hopin' I'd see you!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 </msbt>

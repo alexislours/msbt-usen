@@ -26,7 +26,7 @@ like a secret code or somethin'!</message>
 	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh, heya, <tag a="110" b="3" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I was thinkin' about that goofy thing
 we say every time we meet up.<delay20 />
 You know<tag a="110" b="0" />
-"<tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Well,<delay20 /> I got this idea rattlin' around
+"<tag a="50" b="3" /><tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Well,<delay20 /> I got this idea rattlin' around
 in my brainpan about changing it up.<delay20 />
 <anim id="QuestionMark" target="actor" targetSpec="" />Whaddaya say to that?</message>
 	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />How about this?</message>
@@ -44,13 +44,13 @@ new anyway!<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ha! <delay8 />I knew this was a good idea.<delay8 />
 <anim id="FaintSmile" target="actor" targetSpec="" />Alright, lay it on me, kiddo!</message>
 	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />So, just checkin' here<delay8 /><tag a="110" b="0" />
-"<tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"?<delay40 />
+"<tag a="50" b="3" /><tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"?<delay40 />
 <anim id="QuestionMark" target="actor" targetSpec="" />That work for you?</message>
 	<message label="101_a" attrib="00 00 00 00 00 00 00 00">That's right.</message>
 	<message label="101_b" attrib="00 00 00 00 00 00 00 00">No, wait!</message>
 	<message label="102" attrib="00 00 02 00 00 00 00 00">Wait<tag a="110" b="0" /> <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />Are you saying you
 wanna stick with the old one?<delay frames="40" />
-"<tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"?</message>
+"<tag a="50" b="3" /><tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"?</message>
 	<message label="102_a" attrib="00 00 00 00 00 00 00 00">Yup!</message>
 	<message label="102_b" attrib="00 00 00 00 00 00 00 00">No, wait!</message>
 	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />You got my head spinnin', kiddo.<delay20 />
@@ -60,12 +60,12 @@ or not?! <delay8 />If so, let's hear it!</message>
 I won't make fun of your idea!<delay frames="40" />
 Go on,<delay20 /> try again, <tag a="110" b="5" />.</message>
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Alright!<delay20 />
-<anim id="Greeting" target="actor" targetSpec="" />"<tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"?<delay frames="40" />
-<anim id="EmotEnd" target="actor" targetSpec="" /><delay frames="60" />"<tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"?
+<anim id="Greeting" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" /><delay frames="60" />"<tag a="50" b="3" /><tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"?
 <anim id="WrySmile" target="actor" targetSpec="" />I think I can remember that. <delay20 />And it's
 got a nice ring to it, <tag a="110" b="5" />!</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hmm<delay8 /><tag a="110" b="0" />
-"<tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />?"<10_4 />
+"<tag a="50" b="3" /><tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />?"<10_4 />
 <anim id="Smiling" target="actor" targetSpec="" />I like it!</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />This calls for a celebration!<delay8 /> And by
 a celebration, I mean a cold bath and
@@ -77,13 +77,13 @@ for humoring me.</message>
 little saying, just like a couple
 of weirdos should. <delay8 /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
 	<message label="300" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You know what?<delay8 /> You're right.<delay20 />
-"<tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"
+"<tag a="50" b="3" /><tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"
 sounds good after all, <tag a="110" b="5" />!</message>
 	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Hey, I get it. <delay20 />You don't like change.<delay20 />
 I don't like it either!<delay20 /> <anim id="Grin" target="actor" targetSpec="" />Let's keep on
 keepin' everything the same forever!
 <anim id="Nodding" target="actor" targetSpec="" />Including our little saying.<delay20 />
-"<tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Still sounds as good as it did
+"<tag a="50" b="3" /><tag a="110" b="14" />What's the latest and greatest<endTag a="110" b="14" />"!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Still sounds as good as it did
 the first time. <delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
 	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yep.<delay8 /> I suppose you're right.<delay8 />
 We should just stick with what

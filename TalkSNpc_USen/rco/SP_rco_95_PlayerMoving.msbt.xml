@@ -1,0 +1,367 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />So you're thinking about leaving
+<tag a="110" b="9" />, hm? <delay20 /><anim id="Thinking" target="actor" targetSpec="" />I see,
+I see<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Well, I'm afraid it doesn't quite work
+like that, since you're our Resident
+Representative. <delay frames="40" /><anim id="IdeaBulb" target="actor" targetSpec="" />That said<tag a="110" b="0" /></message>
+	<message label="002" attrib="01 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I can help you move the entirety of
+<tag a="110" b="9" /> to a different
+Nintendo Switch system.<pageBreak /><anim id="Serious" target="actor" targetSpec="" /><tag a="110" b="0" />If that is something that interests
+you at this time. <delay frames="40" /><anim id="Negative" target="actor" targetSpec="" />However, I cannot
+help you with that process here.</message>
+	<message label="002_a" attrib="00 00 00 00">I understand.</message>
+	<message label="002_b" attrib="00 00 00 00">Where can I do that?</message>
+	<message label="002_01" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />So you're thinking about leaving
+<tag a="110" b="9" />, hm? <delay20 /><anim id="Thinking" target="actor" targetSpec="" />I see,
+I see<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Well, I'm afraid that,<delay8 /> because you're
+our Resident Representative,<delay8 /> <anim id="Negative" target="actor" targetSpec="" />I can't
+help you leave <tag a="110" b="9" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />But, if you like, I can help move the
+entire island of <tag a="110" b="9" /> to
+another Nintendo Switch system.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002_02" attrib="00 00 00 00">Now,<delay8 /> although I can't help you move
+yourself to a different island,<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />maybe
+you want to move someone else?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you want to <colour id="1" />begin the moving
+process on behalf of another player
+on this island<colour id="65535" />,<delay20 /> <anim id="Hello" target="actor" targetSpec="" />I'd be glad to help.</message>
+	<message label="002_03" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Please note that I can only move
+players who <colour id="1" />currently own a house<colour id="65535" />
+on this island.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Oh! <delay8 />And I can't move players who
+are linked to a user account on this
+Nintendo Switch system.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you'd like to begin the moving
+process for another player, please
+ask me to<delay8 /> <anim id="Greeting" target="actor" targetSpec="" />"<colour id="1" />Move another resident.<colour id="65535" />"</message>
+	<message label="002_04" attrib="06 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />So, with that out of the way<tag a="110" b="0" /> <anim id="QuestionMark" target="actor" targetSpec="" />How
+can I meet your moving needs, hm?</message>
+	<message label="002_04_a" attrib="00 00 00 00">Move another resident.</message>
+	<message label="002_04_b" attrib="00 00 00 00">I want more info.</message>
+	<message label="002_04_c" attrib="00 00 00 00">How do I move my island?</message>
+	<message label="002_04_d" attrib="00 00 00 00">Never mind.</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I'm relieved to hear that!<10_4 /> In that
+case, let's get you back to the title
+screen, hm?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" /><delay8 />I hope you continue enjoying life on
+<tag a="110" b="9" />!</message>
+	<message label="004" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Very well, I'll explain. <delay frames="40" /><anim id="Explain" target="actor" targetSpec="" />First, download
+the <colour id="2" />Island Transfer Tool<colour id="65535" /><delay8 /> from
+Nintendo eShop on both systems.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />The Island Transfer Tool<delay8 /> will take
+you through the process of moving
+your island to a different system.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />If you go through with it, all of your
+island data on this system will be
+deleted, of course.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Detailed info on the moving process<delay8 />
+<anim id="Smiling" target="actor" targetSpec="" />can also be found on the Nintendo
+Support website if you need it.</message>
+	<message label="005" attrib="01 00 00 00">For now, all I am able to do is point
+you in the right direction.<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />I hope
+that's helpful, <tag a="110" b="1" />!</message>
+	<message label="005_a" attrib="00 00 00 00">I understand.</message>
+	<message label="005_b" attrib="00 00 00 00">Explain that again.</message>
+	<message label="501_00_00" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Of course!<delay20 /> Let me walk you through
+moving a player.<delay8 /> Remember, they
+must not be linked to a user account.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Also, please keep in mind that I
+cannot help you move this island's
+Resident Representative.</message>
+	<message label="501_00_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Of course!<delay20 /> Let me walk you through
+moving a player. Remember, they
+must not be linked to a user account.</message>
+	<message label="501_01" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The first step is to select which
+player will be moving to a different
+Nintendo Switch system.</message>
+	<message label="502" attrib="04 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />And are you absolutely sure that
+<tag a="115" b="0" arg="0xcd00" /> wants to move?</message>
+	<message label="502_a" attrib="00 00 00 00">Yes, that is correct.</message>
+	<message label="502_b" attrib="00 00 00 00">Choose another resident.</message>
+	<message label="502_c" attrib="00 00 00 00">Stop the moving process.</message>
+	<message label="503" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Understood, understood!<delay20 /> One
+moment while I make sure that
+<tag a="115" b="0" arg="0xcd00" /> can move.</message>
+	<message label="504" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yes, yes!<delay20 /> Everything appears to be
+in order.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Now, before we start the moving
+process, <anim id="FaintSmile" target="actor" targetSpec="" />we need to go over some
+very important information.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Even if you aren't the one moving,<delay8 />
+this is still important to hear.</message>
+	<message label="551" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I hate to be the bearer of bad news,
+but<tag a="110" b="0" /><delay20 /><anim id="OhGeez" target="actor" targetSpec="" />right now, <tag a="115" b="0" arg="0xcd00" />
+can't move to a new system.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You see,<delay8 /> I can't move someone
+until they have their own house
+on <tag a="110" b="9" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Sadly, for now we'll need to cancel
+the moving process.<delay20 /> Please send my
+apologies to <tag a="115" b="0" arg="0xcd00" />, hm?</message>
+	<message label="552" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Of course, of course.<delay8 /> One moment<tag a="110" b="0" /><delay20 />
+Oh!<delay8 /> Um<tag a="110" b="0" /> <anim id="OhGeez" target="actor" targetSpec="" />Unfortunately, there aren't
+any players I can move off the island.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />You see, there are a few conditions
+that must be met in order for me to
+help someone move.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />First,<delay8 /> the player <colour id="1" />cannot be the
+island's Resident Representative<colour id="65535" />.<delay20 />
+Second,<delay8 /> they must <colour id="1" />own a house<colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />And third,<delay8 /> the player's data must <colour id="1" />not
+be linked to a user account<colour id="65535" /> on this
+Nintendo Switch system.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Once a player has met all three
+conditions,<delay8 /> <anim id="FaintSmile" target="actor" targetSpec="" />I'll be happy to begin
+the moving process for them.</message>
+	<message label="590" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes, <delay20 />there's nothing we need to
+do right now.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Oh! <delay20 />And I'm sorry to ask this,<delay8 /> but I'll
+need you to close the game.<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />I hope
+you continue to enjoy island life!</message>
+	<message label="901" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />So you're thinking about leaving
+<tag a="110" b="9" />, hm? <delay20 /><anim id="Thinking" target="actor" targetSpec="" />I see,
+I see<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you're sure about moving off this
+island and Nintendo Switch system,<delay8 />
+say,<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />"<colour id="1" />Move me off the island.<colour id="65535" />"</message>
+	<message label="901_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I can also help you <colour id="1" />begin the moving
+process on behalf<colour id="65535" /> of another player.</message>
+	<message label="901_02" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Please note that I can only move
+players who <colour id="1" />currently own a house<colour id="65535" />
+on this island.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Also, I can't move this island's
+<colour id="1" />Resident Representative<colour id="65535" />.<delay20 /> They're
+too important to the community.<pageBreak />Oh!<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />And I can't move players who
+are <colour id="1" />linked to a user account<colour id="65535" /> on this
+Nintendo Switch system.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you'd like to begin the moving
+process for another player,<delay8 /> please
+ask me to<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />"<colour id="1" />Move another resident.<colour id="65535" />"</message>
+	<message label="902" attrib="06 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />So, with that out of the way<tag a="110" b="0" /> <anim id="QuestionMark" target="actor" targetSpec="" />How
+can I meet your moving needs, hm?</message>
+	<message label="902_a" attrib="00 00 00 00">Move me off the island.</message>
+	<message label="902_b" attrib="00 00 00 00">Move another resident.</message>
+	<message label="902_c" attrib="00 00 00 00">I want more info.</message>
+	<message label="902_d" attrib="00 00 00 00">Never mind.</message>
+	<message label="1001" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You want to move to another island?<delay20 />
+I know everyone will miss you, <delay8 />but I
+support you <delay8 /><anim id="Smiling" target="actor" targetSpec="" />on this new adventure!</message>
+	<message label="1002" attrib="02 00 00 00">I just want to confirm<tag a="110" b="0" /> You wish to
+<colour id="1" />move to a different island<delay8 /> on another
+Nintendo Switch system<colour id="65535" />,<delay8 /> <anim id="QuestionMark" target="actor" targetSpec="" />correct?</message>
+	<message label="1002_a" attrib="00 00 00 00">Yes, that is correct.</message>
+	<message label="1002_b" attrib="00 00 00 00">I've changed my mind.</message>
+	<message label="1003" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />OK! <delay8 />There are several important
+things you'll need to know before
+leaving <tag a="110" b="9" />.</message>
+	<message label="1003_01" attrib="00 00 00 00">When someone moves,<delay20 /> <anim id="Explain" target="actor" targetSpec="" />they bring the
+items in their pockets,<delay8 /> their home,<delay8 />
+and the furniture inside that home.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />They also bring the Bells in their
+bank account,<delay8 /> the contents of their
+mailbox,<delay8 /> and their shop catalog.<pageBreak />However,<delay20 /> <anim id="Negative" target="actor" targetSpec="" />they cannot take items that
+don't belong to them,<delay8 /> such as items
+they're holding for their neighbors.</message>
+	<message label="1003_02" attrib="00 00 00 00">After they move,<delay8 /> <anim id="Smiling" target="actor" targetSpec="" />they'll still be able
+to use their current NookPhone and
+all the apps installed on it.<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Although<tag a="110" b="0" />we should have a chat
+about the custom designs<delay8 /> saved in
+one's Custom Designs app.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Moving to someone else's island will
+cause all designs to be overwritten
+with those of the new home.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Please keep that in mind if anyone
+is moving to a populated island!</message>
+	<message label="1003_02_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay8 />Oh! <delay20 />And it may give players peace of
+mind to know<delay8 /> <anim id="Smiling" target="actor" targetSpec="" />they can keep using
+their NookPhone and their apps!</message>
+	<message label="1003_03" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />One last thing we should discuss<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />It's about features that use the
+internet,<delay8 /> like the <colour id="1" />Best Friends List<colour id="65535" /><delay8 />
+and the <colour id="1" />Custom Designs Portal<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If the mover won't be using the same
+Nintendo Account they're using now<delay8 />
+after they arrive on the new system<tag a="110" b="0" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />all data related to those features
+will be deleted, <delay8 />so please keep that
+in mind before someone moves.</message>
+	<message label="1003_04" attrib="04 00 00 00"><tag a="110" b="0" />Yes, yes,<delay8 /> I believe that covers
+everything.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Are you ready to start
+the moving process now?</message>
+	<message label="1003_04_a" attrib="00 00 00 00">Yes, I'm ready!</message>
+	<message label="1003_04_b" attrib="00 00 00 00">Explain that again.</message>
+	<message label="1003_04_c" attrib="00 00 00 00">Actually, never mind.</message>
+	<message label="1004" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Understood.<delay20 /> In that case,<delay8 /> I want you
+to <anim id="Silent" target="actor" targetSpec="" />listen VERY<delay8 /> closely to how the
+moving process works!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You'll need another Nintendo Switch
+system in addition to the one you're
+using now.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />It will be your new home.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You'll also need a second copy of the
+game to use with the other system.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Launch the <colour id="2" />Animal Crossing: New
+Horizons<colour id="65535" /> game on the second
+system.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />When you launch the game on the
+second system, <delay8 />pick the user you'll
+use to play as <tag a="115" b="0" arg="0xcd00" />.</message>
+	<message label="1004_00_01" attrib="00 00 00 00">Understood.<delay20 /> In that case,<delay8 /> I want you
+to <anim id="Silent" target="actor" targetSpec="" />listen VERY<delay8 /> closely to how the
+moving process works!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You'll need another Nintendo Switch
+system in addition to this one.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />It will
+be <tag a="115" b="0" arg="0xcd00" />'s new home.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You'll also need a second copy of the
+game to use with the other system.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Launch the <colour id="2" />Animal Crossing: New
+Horizons<colour id="65535" /> game on the second
+system.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />When launching the game on the
+second system, <delay8 />pick the user that
+will be playing as <tag a="115" b="0" arg="0xcd00" />.</message>
+	<message label="1004_01" attrib="00 00 00 00">Once the game launches,<delay8 /> <anim id="Explain" target="actor" targetSpec="" />it will
+begin at the check-in counter.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Please tell whoever is working the
+counter,<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />"<colour id="1" />I'm moving.<colour id="65535" />"</message>
+	<message label="1004_04" attrib="04 00 00 00"><anim id="Explain" target="actor" targetSpec="" />After that, <delay8 />follow the instructions on
+both screens to continue with the
+moving process!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Now then,<delay8 /> <anim id="QuestionMark" target="actor" targetSpec="" />are you ready to begin
+searching for the second system
+by sending a <colour id="0" />Transfer Request<colour id="65535" />?</message>
+	<message label="1004_04_a" attrib="00 00 00 00">Yes, I'm ready!</message>
+	<message label="1004_04_b" attrib="00 00 00 00">Explain that again.</message>
+	<message label="1004_04_c" attrib="00 00 00 00">Actually, never mind.</message>
+	<message label="1005" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems <colour id="1" /><tag a="140" b="23" arg="0xcd00" /><colour id="65535" />'s system
+is ready to accept someone.</message>
+	<message label="1005_00" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yes, yes!<delay20 /> It appears we can continue
+the process of moving a player to
+<colour id="1" /><tag a="140" b="23" arg="0xcd00" /><colour id="65535" />'s system.</message>
+	<message label="1005_01" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It looks like someone can move over
+to <tag a="115" b="2" arg="0xcd00" />,<delay8 /> which is on
+<colour id="1" /><tag a="140" b="23" arg="0xcd00" /><colour id="65535" />'s system!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Shall we continue with moving a
+player to <tag a="115" b="2" arg="0xcd00" />?</message>
+	<message label="1005_01_a" attrib="00 00 00 00">Let's do it!</message>
+	<message label="1005_01_b" attrib="00 00 00 00">Actually, never mind.</message>
+	<message label="1006" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Thank you so much for being patient.<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />Everything is ready!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm sure you'll have lots of fun at
+your new home.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Do take care, hm,
+<tag a="110" b="1" />?</message>
+	<message label="1006_01" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Thank you for being patient.<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />It
+appears everything is ready for
+<tag a="115" b="0" arg="0xcd00" />'s big move!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Please wish <tag a="115" b="0" arg="0xcd00" /><delay8 /> <anim id="Greeting" target="actor" targetSpec="" />the
+best on their new adventure!</message>
+	<message label="1007" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems <colour id="1" /><tag a="140" b="23" arg="0xcd00" /><colour id="65535" />'s system
+is ready to accept someone.</message>
+	<message label="1007_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It looks like someone can move over
+to <tag a="115" b="2" arg="0xcd00" />,<delay8 /> which is on
+<colour id="1" /><tag a="140" b="23" arg="0xcd00" /><colour id="65535" />'s system!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />However<tag a="110" b="0" /></message>
+	<message label="1007_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Yes, yes! <delay8 />Excellent.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Now, there is one
+more thing we need to discuss<tag a="110" b="0" /></message>
+	<message label="1008" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The <colour id="1" />Nintendo Account<colour id="65535" /> used on the
+other system<delay8 /> is not the same as the
+one you're using now<tag a="110" b="0" /></message>
+	<message label="1008_01" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The user on the other system<delay8 />
+doesn't appear to be using a
+<colour id="1" />Nintendo Account<colour id="65535" /><tag a="110" b="0" /></message>
+	<message label="1009" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />If you continue with the move,<delay20 /> <colour id="1" />all
+features that use the internet<colour id="65535" />,<delay8 /> like
+the Best Friends List,<delay20 /> <anim id="Negative" target="actor" targetSpec="" />will be reset.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I just want to make sure that you
+understand that, hm?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Moving to a system that's not linked
+to the same Nintendo Account will be
+a bit like starting over in some ways.</message>
+	<message label="1010" attrib="02 00 00 00">After hearing that,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />do you still
+want to move someone over to
+<colour id="1" /><tag a="140" b="23" arg="0xcd00" /><colour id="65535" />'s system?</message>
+	<message label="1010_a" attrib="00 00 00 00">Let's do it!</message>
+	<message label="1010_b" attrib="00 00 00 00">Actually, never mind.</message>
+	<message label="1010_01" attrib="02 00 00 00">After hearing that,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />do you
+still want to move someone
+to <tag a="115" b="2" arg="0xcd00" />?</message>
+	<message label="1010_01_a" attrib="00 00 00 00">Let's do it!</message>
+	<message label="1010_01_b" attrib="00 00 00 00">Actually, never mind.</message>
+	<message label="1011" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The <colour id="1" />Nintendo Account<colour id="65535" /> in use on the
+other system isn't the same as the
+one <tag a="115" b="0" arg="0xcd00" /> uses<tag a="110" b="0" /></message>
+	<message label="1011_01" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The user on the target system isn't
+linked to a <colour id="1" />Nintendo Account<colour id="65535" />.<pageBreak />And yet,<delay8 /> <anim id="OhGeez" target="actor" targetSpec="" />a <colour id="1" />Nintendo Account<colour id="65535" /> is
+linked to <tag a="115" b="0" arg="0xcd00" /> here<tag a="110" b="0" /></message>
+	<message label="1012" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />That means that <colour id="1" />all features that use
+the internet<colour id="65535" />,<delay8 /> like their Best Friends
+List,<delay8 /> will be reset if they move.</message>
+	<message label="1019" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Understood! <delay20 />We'll stop here.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If someone plans to use their data
+from features which use the internet
+after they move between systems<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />that person's user accounts on both
+systems must be linked to the same
+Nintendo Account.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Once that's done,<delay8 /> you can restart the
+process with me.</message>
+	<message label="1020" attrib="00 00 00 00">For now,<delay8 /> <anim id="Greeting" target="actor" targetSpec="" />let's go back to the title
+screen, shall we?</message>
+	<message label="1020_01" attrib="00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Oh!<delay20 /> And I'm sorry to ask this,<delay8 /> but I'll
+need you to close the game.</message>
+	<message label="1021" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hm?<delay20 /> Do you still want to go through
+with the moving process?</message>
+	<message label="1021_a" attrib="00 00 00 00">Let's do it!</message>
+	<message label="1021_b" attrib="00 00 00 00">Actually, never mind.</message>
+	<message label="1022" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I couldn't find a Nintendo Switch
+system that is accepting anyone<tag a="110" b="0" /><delay8 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Would you like me to try again?</message>
+	<message label="1022_a" attrib="00 00 00 00">Try searching again.</message>
+	<message label="1022_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="1023" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes, <delay20 />we don't need to do
+anything right now.<10_4 /> In that case,
+let's return you to the title screen.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" /><delay8 />I hope <delay20 />you continue to enjoy life on
+<tag a="110" b="9" />!</message>
+	<message label="1024" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hm? <delay8 />It seems we've run into some
+connection trouble.<delay8 /> I'm sorry, but for
+now let's go back to the title screen.</message>
+	<message label="1024_01" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hm? <delay8 />We've run into some connection
+trouble.<delay20 /> I'm sorry,<delay8 /> but I'll need you to
+close the game and start over.</message>
+	<message label="1801" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I appreciate you giving this ample
+thought.<delay20 /> It's a big decision.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />For now,
+let's go back to the title screen.
+<anim id="Greeting" target="actor" targetSpec="" />I hope you continue to enjoy life
+on <tag a="110" b="9" />.</message>
+	<message label="1901" attrib="01 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You want to move to another island?<delay8 />
+I see, I see<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I really wish I could help you,<delay20 /> <anim id="Worried" target="actor" targetSpec="" />but
+I'm afraid I can't.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You see, in order to start the moving
+process, you need to <colour id="1" />own a house<colour id="65535" /> on
+<tag a="110" b="9" /> first.</message>
+	<message label="1901_a" attrib="00 00 00 00">I understand.</message>
+	<message label="1901_b" attrib="00 00 00 00">Well, alright...</message>
+	<message label="1902" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Thank you for understanding.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'll send you back to the title screen
+for now.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />I hope you continue to enjoy
+your life on <tag a="110" b="9" />!</message>
+	<message label="2001" attrib="06 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Of course, of course!<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />What would
+you like to know about moving to
+a different island?</message>
+	<message label="2001_a" attrib="00 00 00 00">Moving to a new island?</message>
+	<message label="2001_b" attrib="00 00 00 00">What do I need to have?</message>
+	<message label="2001_c" attrib="00 00 00 00">What are the conditions?</message>
+	<message label="2001_d" attrib="00 00 00 00">I think I'm good.</message>
+	<message label="2002" attrib="06 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yes, yes,<delay8 /> I believe that covers that.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Anything else you want to know?</message>
+	<message label="2002_a" attrib="00 00 00 00">Moving to a new island?</message>
+	<message label="2002_b" attrib="00 00 00 00">What do I need to have?</message>
+	<message label="2002_c" attrib="00 00 00 00">What are the conditions?</message>
+	<message label="2002_d" attrib="00 00 00 00">Nothing else, I'm good!</message>
+	<message label="2003" attrib="08 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Of course, of course!<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />What would
+you like to know about moving to
+a different island?</message>
+	<message label="2003_a" attrib="00 00 00 00">Moving to a new island?</message>
+	<message label="2003_b" attrib="00 00 00 00">What do I need to have?</message>
+	<message label="2003_c" attrib="00 00 00 00">What are the conditions?</message>
+	<message label="2003_d" attrib="00 00 00 00">Can I move my user account?</message>
+	<message label="2003_e" attrib="00 00 00 00">I think I'm good.</message>
+	<message label="2004" attrib="08 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yes, yes,<delay8 /> I believe that covers that.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Anything else you want to know?</message>
+	<message label="2004_a" attrib="00 00 00 00">Moving to a new island?</message>
+	<message label="2004_b" attrib="00 00 00 00">What do I need to have?</message>
+	<message label="2004_c" attrib="00 00 00 00">What are the conditions?</message>
+	<message label="2004_d" attrib="00 00 00 00">Can I move my user account?</message>
+	<message label="2004_e" attrib="00 00 00 00">Nothing else, I'm good!</message>
+	<message label="2011" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes!<delay20 /> A <colour id="1" />single player<colour id="65535" /> can choose to
+<colour id="1" />move<colour id="65535" /> to a different island on a
+different Nintendo Switch system.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If the destination lacks save data for
+the <colour id="2" />Animal Crossing: New Horizons<colour id="65535" />
+game,<delay8 /> they'll arrive at a new island.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />However,<delay8 /> if there is save data on the
+target system,<delay8 /> the player can move
+to the existing island on that system.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Now, there are two ways to move.<delay20 />
+The first is when <colour id="1" />the player wanting
+to move speaks with me directly<colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />The other option is for cases where
+the player is no longer linked with
+a user account on the system.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />In that case,<delay8 /> <anim id="Nodding" target="actor" targetSpec="" />a <colour id="1" />different player<colour id="65535" /> from
+that island can speak with me and
+<colour id="1" />begin the move on their behalf<colour id="65535" />.</message>
+	<message label="2012" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Moving to a different island requires
+a separate Nintendo Switch system
+from the one you are using now.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />You'll also need a second copy of
+the <colour id="2" />Animal Crossing: New Horizons<colour id="65535" />
+game running on that other system.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Part of the process also involves
+using a local wireless connection.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Make sure you have both systems,<delay8 />
+both copies of the game,<delay8 /> and a local
+wireless connection before you start.</message>
+	<message label="2013" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />There are a few conditions that need
+to be met in order to move.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Players who <colour id="1" />don't have their own
+house<colour id="65535" />, or are the island's <colour id="1" />Resident
+Representative<colour id="65535" />, cannot move.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />There is also an important condition
+if you are trying to start the moving
+process on behalf of another player<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />The player who is moving <colour id="1" />must not
+be linked <colour id="65535" />to a user account on this
+Nintendo Switch system.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Please keep all of these conditions in
+mind when considering a move, hm?</message>
+	<message label="2014" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Indeed!<delay20 /> To do this, you'll need to use
+the <colour id="1" />Transfer Your User Data<colour id="65535" /> option
+on this system as part of your move.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />First,<delay8 /> in system settings,<delay8 /> use the
+<colour id="1" />Transfer Your User Data<colour id="65535" /> option to
+move the user to the target system.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Then,<delay8 /> on the target system,<delay8 /> launch
+the <colour id="2" />Animal Crossing: New Horizons<colour id="65535" />
+game using the transferred user.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Next,<delay8 /> begin the moving process on
+the target system.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Last,<delay8 /> since the user data moved,<delay20 /> ask
+<colour id="1" />another player<colour id="65535" /> to <colour id="1" />start this system's
+moving process<colour id="65535" /> on your behalf.</message>
+</msbt>

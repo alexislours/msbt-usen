@@ -1,6 +1,6 @@
 <msbt attribsize="8">
 	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> We meet again!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="110" b="14" />Hey, <tag a="110" b="3" /><endTag a="110" b="14" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="14" />Hey, <tag a="110" b="3" /><endTag a="110" b="14" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />What's the good word?<delay20 />
 Is it <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Jinx, you owe me <tag a="50" b="2" />

@@ -202,6 +202,13 @@ and I have some good news<delay8 /><tag a="110" b="0" />
 <anim id="FaintSmile" target="actor" targetSpec="" />Either I have great timing<delay20 />, or I was
 meant to move here,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" />
 <anim id="HappyDance" target="actor" targetSpec="" />We're gonna be neighbors soon!</message>
+	<message label="407" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Thanks for waiting for me! <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />I checked
+with <colour id="1" />Resident Services<colour id="65535" />,<delay8 /><anim id="Pardon" target="actor" targetSpec="" /> and they
+gave me the all clear to move here!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Apparently, someone just moved out
+and left an empty lot behind.<delay frames="40" /><anim id="Blushing" target="actor" targetSpec="" />
+What luck, <tag a="110" b="6" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Sorry, but remind me of your name
+again? <delay20 /><anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, was it?<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I thought so! <delay20 />I'm eager to have you
+as a neighbor, <tag a="110" b="6" />.</message>
 	<message label="410" attrib="00 00 01 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You know,<delay20 /> sometimes these things
 are all about timing,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />The situation might have changed
 in the meantime.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Do you think it's
