@@ -8,7 +8,7 @@ my <tag a="125" b="0" arg="0x0" />.</message>
 	<message label="001_a" attrib="00 00 00 00 00 00 00 00">How much we talkin'?
 I'm listening...</message>
 	<message label="001_b" attrib="00 00 00 00 00 00 00 00">Not interested.
-<anim id="Apologize" target="player" targetSpec="" />Sorry, not today.</message>
+Sorry, not today.</message>
 	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Hey, I bet I can read your mind!<delay20 />
 <anim id="AbsentMindedness" target="actor" targetSpec="" />You're thinking<tag a="110" b="0" />I wish I had
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><tag a="110" b="0" />
@@ -35,7 +35,7 @@ interest YOU in a lightly-used
 <tag a="125" b="0" arg="0x0" />, eh?</message>
 	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />How much?
 <anim id="EmotEnd" target="player" targetSpec="" />I'm interested...</message>
-	<message label="004_b" attrib="00 00 00 00 00 00 00 00"><anim id="Apologize" target="player" targetSpec="" />Mmm, sorry...
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00">Mmm, sorry...
 <anim id="EmotEnd" target="player" targetSpec="" />I'd better not.</message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Seriously? <delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" />OK, but this is
 DEFINITELY gonna sell to
@@ -60,7 +60,7 @@ low price of <tag a="90" b="21" arg="0x2" />?</message>
 	<message label="100_a" attrib="00 00 00 00 00 00 00 00">Sure, I'll take it!
 Yeah, that works.</message>
 	<message label="100_b" attrib="00 00 00 00 00 00 00 00">No, thanks.
-<anim id="Apologize" target="player" targetSpec="" />Er, sorry...</message>
+Er, sorry...</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />! <delay8 />Another sale in
 the books for <tag a="110" b="10" />!</message>
 	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />How does it feel to be

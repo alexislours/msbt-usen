@@ -151,6 +151,44 @@ that is it's terrible for <tag a="135" b="6" arg="0xcd00" />.<delay20 />
 your <tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Wait<tag a="110" b="0" />if eating fruits and veggies is
 good for you, <delay frames="40" /><anim id="IdeaBulb" target="actor" targetSpec="" />maybe wearing them
 is too. <delay20 />You're onto something!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="7" arg="0xfd10 0xfe00 0xcd00" /></message>
+	<message label="253" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Hey, you're lookin' super sharp
+today, <tag a="110" b="3" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I hope this means I've inspired you
+in some way. <delay20 /><anim id="WrySmile" target="actor" targetSpec="" />Possibly with my
+long-jump and high-jump records!</message>
+	<message label="254" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />That's a pretty aerodynamic look
+you've got going, <tag a="110" b="3" />.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Looking to reduce wind resistance?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I can tell you from experience that
+you'll gain 0.2 percent in speed, <delay20 /><anim id="Negative" target="actor" targetSpec="" />but
+nothing beats good hard training!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey, now that's an adventurous
+look, <tag a="110" b="5" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I wonder if there's a category
+for "swashbuckling" on my
+fitness-tracking watch<tag a="110" b="0" /></message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, just curious, but does that
+outfit help with swimming at all?<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Not that I need HELP with swimming,
+per se<tag a="110" b="0" /><delay20 /> It's just<tag a="110" b="0" /><delay frames="50" /> <anim id="Angry" target="actor" targetSpec="" />OK, FINE! <delay20 />I need
+floaties to swim.</message>
+	<message label="208" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ooh, you look like you're ready to
+hop in the water. <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />Going swimming
+or diving?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Me? <delay20 />I just like splashing vigorously.<delay20 />
+<anim id="SmugFace" target="actor" targetSpec="" />And I let waves crash into me for free
+resistance training, <tag a="110" b="5" />!</message>
+	<message label="209" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> Did we have a sparring session
+planned for today, <tag a="110" b="5" />?<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />No need to take it easy on me. <delay20 />Give
+it everything you've got! <delay20 /><anim id="Worried" target="actor" targetSpec="" />Unless<tag a="110" b="0" /><delay20 />
+Wait, what color is your belt?</message>
+	<message label="210" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, now that's an outfit that speaks
+to me.<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> It's lightweight, breathable,
+and I bet you can really move in it.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />How is it at wicking moisture?<delay20 /> Like,
+if I dumped a gallon of <tag a="135" b="1" arg="0xcd00" />
+on you right now<tag a="110" b="0" /><delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Ah, never mind.</message>
+	<message label="211" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, I like your outfit! <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />How is it for
+working out?<delay20 /> Like, hypothetically, if
+one were to do a triathlon in it<tag a="110" b="0" />
+<anim id="OhGeez" target="actor" targetSpec="" />Ah, you got me. <delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />I was just looking
+for an excuse to talk about this
+triathlon I'm training for<tag a="110" b="0" /></message>
 	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Oh, wow. <delay20 />You look SO COOL in that!<delay20 />
 <anim id="BigSmile" target="actor" targetSpec="" />You're like a martial-arts master in
 your <tag a="125" b="0" arg="0x0" />!<pageBreak /><tag a="10" b="12" /><anim id="Cheering" target="actor" targetSpec="" /><delay20 /><10_10 /><size value="150" />YAAAAHHH!<size value="100" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_9 /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Sorry, I was caught up in the spirit,
@@ -167,6 +205,22 @@ of muscle-enhancing clothing.<delay20 />
 <anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Well, that's cool, but if you really
 wanna get swole, I'll happily teach
 you the <tag a="110" b="10" /> System.</message>
+	<message label="304" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa, I didn't know you played ball!<delay20 />
+<anim id="SmugFace" target="actor" targetSpec="" />I was something of a ballplayer
+myself, you know.<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />What position did I play? <delay20 />Umm<tag a="110" b="0" /><delay20 /><anim id="Blushing" target="actor" targetSpec="" />
+Well, technically I was the team
+water <tag a="110" b="15" />. <delay20 />And punter.</message>
+	<message label="305" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ooh, are you running a race?<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Is it
+a 5K? <delay20 />10K?<delay20 /> Half marathon?<delay20 /> Relay?<delay20 />
+What's the course like?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />What's your goal pace? <delay20 />Your PR?<delay20 />
+Your target heart rate? <delay20 />What training
+plan have you been following?!
+<anim id="Silent" target="actor" targetSpec="" /><tag a="110" b="0" />You're going to run away from
+me, aren't you.</message>
+	<message label="306" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey, you wanna play catch? <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />If you
+can catch my fastball, you've got
+major-league potential.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Oh, not because it's fast.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />I just can't
+control where I throw it!</message>
 	<message label="401" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="401_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, I've seen that outfit before.<delay20 /><anim id="Nodding" target="actor" targetSpec="" />
 It still rocks just as hard as the first

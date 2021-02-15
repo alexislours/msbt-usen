@@ -467,10 +467,8 @@ And I couldn't resist.<delay frames="13" /><anim id="Dance" target="actor" targe
 but please do come over any time
 you like, <tag a="110" b="6" />.</message>
 	<message label="302" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
-	<message label="302_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Why hello,<delay frames="13" /> I'm <tag a="110" b="10" />.<delay20 />
-<anim id="EmotEnd" target="actor" targetSpec="" />So you're <tag a="110" b="3" />, eh?<delay20 />
-<anim id="Grin" target="actor" targetSpec="" />I've heard ALL about you, my dear.
-<anim id="Negative" target="actor" targetSpec="" />Oh, not to worry.<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> Your neighbors
+	<message label="302_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Why, hello,<delay frames="13" /> I'm <tag a="110" b="10" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />So you're <tag a="110" b="3" />, eh?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I've heard ALL about you, my dear.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Oh, not to worry.<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> Your neighbors
 have had nothing but good
 things to say, I assure you.
 <anim id="Greeting" target="actor" targetSpec="" />In fact, <delay frames="13" />when I was at the <colour id="1" />campsite
@@ -524,12 +522,12 @@ I'd love to chat more,<delay frames="13" /> <anim id="SadSpiral" target="actor" 
 I might give you this dreadful cold.
 <anim id="Worried" target="actor" targetSpec="" />What say we chat again when I'm not
 a walking petri dish?</message>
-	<message label="311" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Why hello and, <delay frames="13" />eh, <delay frames="13" />please excuse
+	<message label="311" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Why, hello and, <delay frames="13" />eh, <delay frames="13" />please excuse
 the mess. <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Normally I'm very tidy,<anim id="BigSmile" target="actor" targetSpec="" />
 but I just moved here TODAY!
 <anim id="Hello" target="actor" targetSpec="" />Anyhoo, <delay frames="13" />I'm <tag a="110" b="10" />.<delay20 />
-I must tell you,<anim id="Negative" target="actor" targetSpec="" /> moving here has
-NOT gone as expected.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I was visiting the <tag a="110" b="8" />
+I must tell you,<anim id="Negative" target="actor" targetSpec="" /> moving here
+has NOT gone as expected.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I was visiting the <tag a="110" b="8" />
 <colour id="1" />campsite<colour id="65535" /> when SOMEONE invited
 me to move here for good.
 But when I got here today,<delay frames="13" /><anim id="Serious" target="actor" targetSpec="" /> that

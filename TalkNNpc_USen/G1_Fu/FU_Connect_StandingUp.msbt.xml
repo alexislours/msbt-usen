@@ -7,9 +7,8 @@ want to tell me?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
 	<message label="201_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay frames="30" />
 <anim id="Hello" target="actor" targetSpec="" />What's on your mind?<delay frames="40" />
 <anim id="EmotEnd" target="actor" targetSpec="" />Give me a second<delay8 /><tag a="110" b="0" /></message>
-	<message label="201_02" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh hey,<delay20 /> <tag a="110" b="3" />!<delay frames="30" />
-<anim id="FaintSmile" target="actor" targetSpec="" />Give me just a moment.<delay frames="30" />
-I'll stand up first<delay20 />,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="201_02" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey,<delay20 /> <tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Give me just a moment.<delay frames="30" /> I'll stand up
+first<delay20 />,<delay20 /> <tag a="110" b="5" />.</message>
 	<message label="201_03" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> did you need
 to chat with me?<delay frames="30" />
 <anim id="EmotEnd" target="actor" targetSpec="" />Let me stand up first.</message>

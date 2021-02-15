@@ -42,6 +42,12 @@ on <tag a="110" b="33" />, right?
 	<message label="021_03" attrib="00 00 13"><tag a="100" b="5" />Huh? <delay20 /><tag a="50" b="3" /><tag a="110" b="1" />?<delay20 />
 Again? Got yourself in another
 pickle, huh?<endTag a="100" b="5" /></message>
+	<message label="021_04" attrib="00 00 13"><tag a="100" b="5" />I got it. <delay20 />This is <tag a="110" b="1" />
+of <tag a="110" b="34" />, right?<endTag a="100" b="5" /></message>
+	<message label="021_05" attrib="00 00 13"><tag a="100" b="5" />Just gimme a sec...<delay8 /> OK! Got it!<delay20 />
+<tag a="50" b="3" /><tag a="110" b="1" /> from over on
+<tag a="110" b="34" />, right?
+<delay frames="30" />In a bit of a jam, huh?<endTag a="100" b="5" /></message>
 	<message label="022" attrib="00 00 13"><tag a="100" b="5" />Hey, pal. <delay20 />You're a first-time user,
 right? <delay frames="30" />Let me lay out the nuts and
 bolts of the service for ya.<pageBreak />We're here to <delay8 />help ya out when<delay20 />
@@ -154,6 +160,20 @@ start over<tag a="110" b="0" /> You good with that?<endTag a="100" b="5" /></mes
 ain't ya?<pageBreak />In that case, I'm supposed to drop
 ya <colour id="1" />where the planes land<colour id="65535" /> so you can
 start over!<endTag a="100" b="5" /></message>
+	<message label="049_02" attrib="02 00 13"><tag a="100" b="5" />What's going on here? <delay20 />Hey, pal<tag a="110" b="0" /><delay20 />
+You diggin' in strange tunnels?<delay frames="40" />
+Like tryin' to look through mud here.
+Well, <delay8 />I ain't got much choice.<delay20 />
+I gotta drop ya at the <colour id="1" />nearest
+plaza<colour id="65535" />.<delay20 /> Ya good with that?<endTag a="100" b="5" /></message>
+	<message label="049_02_a" attrib="00 00 13">Yes, please!</message>
+	<message label="049_02_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="049_03" attrib="00 00 13"><tag a="100" b="5" />Glad that's settled. <delay20 />I'll go ahead and
+drop ya at the plaza on <delay8 />whatever
+<tag a="110" b="32" /> you're on.
+Since I ain't givin' ya a choice in
+locations, <delay8 />this one's on me.<delay20 /> Ya can
+keep those miles for another day!<endTag a="100" b="5" /></message>
 	<message label="050_01" attrib="00 00 13"><tag a="100" b="5" />Your tent? <delay20 />No sweat.<endTag a="100" b="5" /></message>
 	<message label="050_02" attrib="00 00 13"><tag a="100" b="5" />Your place, huh? <delay20 />Easy peasy.<endTag a="100" b="5" /></message>
 	<message label="050_03" attrib="00 00 13"><tag a="100" b="5" />The plaza? <delay20 />You got it!<endTag a="100" b="5" /></message>
@@ -196,6 +216,10 @@ ways to stack 'em up, and it ain't
 rocket science!<pageBreak />To begin with, <delay8 />ya get miles just by
 accessing the <colour id="1" />Nook Stop <colour id="65535" />on the
 daily.<delay20 /> Remember that!<endTag a="100" b="5" /></message>
+	<message label="065" attrib="00 00 13"><tag a="60" b="20" /></message>
+	<message label="065_01" attrib="00 00 13"><tag a="100" b="5" />What's all this nonsense 'bout free
+rescue service? <delay20 />Dream on, pal!<delay frames="40" />
+Ain't nothin' in this world free. <delay8 />Hah!<endTag a="100" b="5" /></message>
 	<message label="201" attrib="06 00 18">Should I start up the <colour id="1" />Island Designer
 <colour id="65535" />app and do some construction work?</message>
 	<message label="201_a" attrib="00 00 18">Start construction!</message>
@@ -394,5 +418,10 @@ while I'm swimming...</message>
 Guess I can't use it here.</message>
 	<message label="321" attrib="00 00 18">Looks like I can't use the Chat Log
 app during Party Play<tag a="110" b="0" /></message>
+	<message label="332" attrib="00 00 18">Oh, I don't think I can use this
+app while I'm dreaming...</message>
+	<message label="333" attrib="00 00 18">Hmm<tag a="110" b="0" />the reception isn't great in
+here.<delay20 /> It doesn't seem like you can
+open the app right now.</message>
 	<message label="999" attrib="00 00 13"><colour id="1" />100 <colour id="65535" />miles</message>
 </msbt>

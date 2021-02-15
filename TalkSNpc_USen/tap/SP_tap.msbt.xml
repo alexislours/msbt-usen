@@ -1,0 +1,363 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><tag a="100" b="10" />Welcome<tag a="110" b="0" /><endTag a="100" b="10" /><10_8 arg="55" /></message>
+	<message label="001_01" attrib="01 00 00 00">If I am not mistaken, you are from
+<tag a="110" b="9" />, yes?<delay20 /> You must
+be the famous <tag a="110" b="1" />.</message>
+	<message label="001_01_a" attrib="00 00 00 00">Good guess!</message>
+	<message label="001_01_b" attrib="00 00 00 00">How did you know?</message>
+	<message label="001_02" attrib="01 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Mmmmmm<tag a="110" b="0" /><delay8 /> Few dream as pleasantly
+as those from <tag a="110" b="9" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Forgive me. <delay8 />I have yet to introduce
+myself.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />My name is <colour id="3" />Luna<colour id="65535" />.<delay8 /> Think of me
+as a guide to the library of dreams.</message>
+	<message label="001_02_a" attrib="00 00 00 00">The library of dreams?</message>
+	<message label="001_02_b" attrib="00 00 00 00">What do you mean?</message>
+	<message label="001_03" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />A dream is but a manifestation of a
+memory that one holds dear<tag a="110" b="0" /><delay8 /><anim id="WrySmile" target="actor" targetSpec="" />then
+chooses to upload to the <colour id="1" />internet<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />My role is to ferry travelers between
+dreams, <delay8 />allowing one such as you to
+tour the islands of distant strangers.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Once within the dream of another, <delay8 />it
+will be as though you have actually
+set foot on their island.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Sounds fascinating, does it not?<delay20 />
+To visit another's dream, merely
+say to me,<delay8 /> "<colour id="1" />I want to dream.<colour id="65535" />"</message>
+	<message label="001_04" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />This need not be a one-way matter
+either. <delay8 />If you wish, I can collect your
+dream of <tag a="110" b="9" /> as well!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Then I will spirit your dream through
+channels of fiber optics to live in the
+library and be shared with the world.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Put simply, <delay8 />to share your dream of
+<tag a="110" b="9" /> with others, tell
+me,<delay8 /> <anim id="Hello" target="actor" targetSpec="" />"<colour id="1" />I'd like to share a dream.<colour id="65535" />"<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Well, now that we have the
+introductions out of the way<tag a="110" b="0" /></message>
+	<message label="001_05" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Welcome, welcome.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />The binary fields
+are teeming with beautiful dreams!</message>
+	<message label="001_06" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Welcome back.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />The dreams are
+well rested, tucked into their idling
+hard drives.</message>
+	<message label="002" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How may I be of assistance?</message>
+	<message label="002_a" attrib="00 00 00 00">I want to dream.</message>
+	<message label="002_b" attrib="00 00 00 00">I'd like to share a dream.</message>
+	<message label="002_c" attrib="00 00 00 00">Where am I?</message>
+	<message label="002_d" attrib="00 00 00 00">I want to wake up.</message>
+	<message label="002_01" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How may I be of assistance?</message>
+	<message label="002_01_a" attrib="00 00 00 00">I want to dream.</message>
+	<message label="002_01_b" attrib="00 00 00 00">About the dream I shared...</message>
+	<message label="002_01_c" attrib="00 00 00 00">Where am I?</message>
+	<message label="002_01_d" attrib="00 00 00 00">I want to wake up.</message>
+	<message label="002_02" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />May I be of assistance to you in any
+other way?</message>
+	<message label="002_02_a" attrib="00 00 00 00">I want to dream.</message>
+	<message label="002_02_b" attrib="00 00 00 00">I'd like to share a dream.</message>
+	<message label="002_02_c" attrib="00 00 00 00">Where am I?</message>
+	<message label="002_02_d" attrib="00 00 00 00">I want to wake up.</message>
+	<message label="002_03" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />May I be of assistance to you in any
+other way?</message>
+	<message label="002_03_a" attrib="00 00 00 00">I want to dream.</message>
+	<message label="002_03_b" attrib="00 00 00 00">About the dream I shared...</message>
+	<message label="002_03_c" attrib="00 00 00 00">Where am I?</message>
+	<message label="002_03_d" attrib="00 00 00 00">I want to wake up.</message>
+	<message label="002_04" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How may I be of assistance?</message>
+	<message label="002_04_a" attrib="00 00 00 00">I want to dream.</message>
+	<message label="002_04_b" attrib="00 00 00 00">I'd like to share a dream.</message>
+	<message label="002_04_c" attrib="00 00 00 00">And...where is this?</message>
+	<message label="002_04_d" attrib="00 00 00 00">I want to wake up.</message>
+	<message label="002_05" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How may I be of assistance?</message>
+	<message label="002_05_a" attrib="00 00 00 00">I want to dream.</message>
+	<message label="002_05_b" attrib="00 00 00 00">About the dream I shared...</message>
+	<message label="002_05_c" attrib="00 00 00 00">And...where is this?</message>
+	<message label="002_05_d" attrib="00 00 00 00">I want to wake up.</message>
+	<message label="002_06" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />May I be of assistance to you in any
+other way?</message>
+	<message label="002_06_a" attrib="00 00 00 00">I want to dream.</message>
+	<message label="002_06_b" attrib="00 00 00 00">I'd like to share a dream.</message>
+	<message label="002_06_c" attrib="00 00 00 00">And...where is this?</message>
+	<message label="002_06_d" attrib="00 00 00 00">I want to wake up.</message>
+	<message label="002_07" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />May I be of assistance to you in any
+other way?</message>
+	<message label="002_07_a" attrib="00 00 00 00">I want to dream.</message>
+	<message label="002_07_b" attrib="00 00 00 00">About the dream I shared...</message>
+	<message label="002_07_c" attrib="00 00 00 00">And...where is this?</message>
+	<message label="002_07_d" attrib="00 00 00 00">I want to wake up.</message>
+	<message label="003" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I see. <delay8 />Please, come again.<delay8 /> <anim id="FaintSmile" target="actor" targetSpec="" />You are
+welcome at any time.</message>
+	<message label="1000" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Of course, of course! <delay8 />But there are
+a few things I must clarify further
+before I guide you to your dream.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Dreams, <delay8 />like many things these days,<delay8 />
+are downloaded from the <colour id="1" />internet<colour id="65535" />.<delay8 />
+A connection is, of course, required.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Furthermore, <delay8 />a <colour id="1" />Dream Address<colour id="65535" />—an
+identity unique to each dream—is
+also needed.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />So, before dreaming, <delay8 />be sure you
+have your desired <colour id="1" />Dream Address
+<colour id="65535" />at the ready.</message>
+	<message label="1000_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay8 />One other wrinkle<tag a="110" b="0" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />Dreams are very fragile things. <delay8 />To
+prevent the introduction of glitches,
+you must go empty-handed.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />Do not worry. <delay20 />I will happily hold on
+to your belongings and return them
+after you wake.</message>
+	<message label="1001" attrib="02 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I believe that covers everything.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Now, are you ready to link with
+the library of dreams?</message>
+	<message label="1001_a" attrib="00 00 00 00">Yes, I am!</message>
+	<message label="1001_b" attrib="00 00 00 00">Another time.</message>
+	<message label="1002" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Then I shall connect to the <colour id="1" />internet<colour id="65535" />
+to initialize a dream download.</message>
+	<message label="1003" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />What is the <colour id="1" />Dream Address<colour id="65535" /> for your
+desired dream?</message>
+	<message label="1004" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Thank you.<delay20 /> <anim id="Silent" target="actor" targetSpec="" />One moment whilst
+I browse the library of dreams<tag a="110" b="0" /></message>
+	<message label="1005" attrib="02 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />The <colour id="1" />Dream Address<colour id="65535" /> you provided
+appears to be for an island called
+<tag a="115" b="2" arg="0xcd00" />.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Is that correct?</message>
+	<message label="1005_a" attrib="00 00 00 00">Yes, it is!</message>
+	<message label="1005_b" attrib="00 00 00 00">Nope.</message>
+	<message label="1006" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Splendid! <delay20 />Then everything is sorted.<delay20 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" /><delay20 />Please close your eyes<tag a="110" b="0" />and relax<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="1006_01" attrib="00 00 00 00">Drift and compile<tag a="110" b="0" /><delay20 />and emerge within
+the dream of <tag a="115" b="2" arg="0xcd00" /><tag a="110" b="0" /><10_8 arg="75" /></message>
+	<message label="1031" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My apologies, <delay8 />but there is no dream
+filed to that <colour id="1" />Dream Address<colour id="65535" />.</message>
+	<message label="1031_a" attrib="00 00 00 00">Let's try again.</message>
+	<message label="1031_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="1032" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My apologies, <delay8 />but I was unable to
+connect to the <colour id="1" />internet<colour id="65535" /> just now.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Shall I try again?</message>
+	<message label="1032_a" attrib="00 00 00 00">Please do!</message>
+	<message label="1032_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="1033" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> That is the <colour id="1" />Dream Address<colour id="65535" />
+for your own island.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I am sorry, <delay8 />but I can no more guide
+you to your own island than I can
+divide by zero.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Perhaps there is another dream you
+would like to visit?</message>
+	<message label="1033_a" attrib="00 00 00 00">Yes, there is.</message>
+	<message label="1033_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="1041" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My apologies, but you must first turn
+on <delay8 />"Communicating with Others"<delay8 /> in
+Parental Controls in order to dream.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Please come and see me again when
+you are ready.</message>
+	<message label="2001" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Of course. <delay20 /><anim id="Serious" target="actor" targetSpec="" />But before we continue,
+there is some <colour id="1" />important information
+<colour id="65535" />you will need to read first.</message>
+	<message label="2002" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />All done! <anim id="Explain" target="actor" targetSpec="" />From here it is simple.<delay8 />
+First, I will form your memory of
+<tag a="110" b="9" /> into a dream.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Then, I will connect to the <colour id="1" />internet<colour id="65535" /> to
+upload your dream to the library.</message>
+	<message label="2002_01" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh! <delay8 />There is something else you may
+be interested to know<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Visitors to your dream may bring
+back any design that is on display in
+your <colour id="1" />Custom Designs Portal<colour id="65535" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Check your <colour id="1" />Custom Designs Portal
+<colour id="65535" />before uploading your dream to see
+which designs will be made available.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Try thinking of those designs as
+<tag a="110" b="9" /> souvenirs.</message>
+	<message label="2003" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Enough explanations! <delay20 />I shall now
+collect and compile your memory of
+<tag a="110" b="9" />.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Are you ready?</message>
+	<message label="2003_a" attrib="00 00 00 00">I'm ready!</message>
+	<message label="2003_b" attrib="00 00 00 00">Nope.</message>
+	<message label="2003_01" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Enough explanations! <delay20 />The time has
+come to gather your beloved memory
+of <tag a="110" b="9" />.<delay20 /> <anim id="Serious" target="actor" targetSpec="" />Except<tag a="110" b="0" /><pageBreak /><anim id="Eh" target="actor" targetSpec="" />Ah! <delay20 />It would seem another resident
+has already uploaded a dream of
+<tag a="110" b="9" /> to the library.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I am afraid I can only <colour id="1" />overwrite <colour id="65535" />the
+existing dream with a <colour id="1" />refreshed
+<colour id="65535" />version.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Is that acceptable?</message>
+	<message label="2003_01_a" attrib="00 00 00 00">Yes, it is!</message>
+	<message label="2003_01_b" attrib="00 00 00 00">Nope.</message>
+	<message label="2004" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Splendid! <delay20 />I shall now connect to the
+<colour id="1" />internet<colour id="65535" /> and the library of dreams.</message>
+	<message label="2005" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I am in. <delay8 />And now I shall collect and
+compile your cherished memory of
+<tag a="110" b="9" /> into a dream<tag a="110" b="0" /></message>
+	<message label="2005_01" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Close your eyes<tag a="110" b="0" /><delay8 /> Picture what you
+love most about <tag a="110" b="9" /><tag a="110" b="0" /><delay20 />
+<tag a="100" b="10" />Relax. <delay20 />Reeela<delay8 />a<delay8 />a<delay8 />x<tag a="110" b="0" /><endTag a="100" b="10" /></message>
+	<message label="2006" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />There! <delay20 />The dream upload is now
+complete. <delay8 />Each byte now reclines
+in its new home.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Well done!</message>
+	<message label="2007" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Your dream of <tag a="110" b="9" /> is
+filed under the <colour id="1" />Dream Address<colour id="65535" />
+<tag a="140" b="17" arg="0xcd00" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />To share your dream with others,
+simply give them the <colour id="1" />Dream Address<colour id="65535" />.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Again, it is <tag a="140" b="17" arg="0xcd00" />.</message>
+	<message label="2008" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Your <colour id="1" />Dream Address<colour id="65535" /> is currently set
+to appear on your <colour id="1" />Passport<colour id="65535" /> and on
+your island's <colour id="1" />map<colour id="65535" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />If you do not<delay8 /> want your island's
+<colour id="1" />Dream Address<colour id="65535" /> displayed on your
+<colour id="1" />Passport<colour id="65535" /> and <colour id="1" />map<colour id="65535" />,<delay8 /> let me know.</message>
+	<message label="2009" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Lastly, <delay8 />do remember that your dream
+will not reflect any changes made to
+<tag a="110" b="9" /> after an upload.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />However, as your island develops, its
+dream can be refreshed if you wish.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />I
+can update your dream <colour id="1" />once per day<colour id="65535" />.</message>
+	<message label="2010" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I believe that is everything! <delay20 />Thank
+you for your patience, and may your
+dream host many happy visitors.</message>
+	<message label="2031" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My apologies, <delay8 />but I was unable to
+connect to the <colour id="1" />internet<colour id="65535" /> just now.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Shall I try again?</message>
+	<message label="2031_a" attrib="00 00 00 00">Please do!</message>
+	<message label="2031_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="2032" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Unfortunately, I can only upload a
+dream <colour id="1" />once per day<colour id="65535" />.<delay20 /> <anim id="Explain" target="actor" targetSpec="" />I will be more
+than happy to help you tomorrow.</message>
+	<message label="2033" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />The library of dreams must rest after
+the deletion of a dream.<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />I can help
+you upload a new dream tomorrow.</message>
+	<message label="2034" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Splendid! <delay20 />Incidentally, there is
+something you may wish to know<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Visitors to your dream may bring
+back any design that is on display in
+your <colour id="1" />Custom Designs Portal<colour id="65535" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Check your <colour id="1" />Custom Designs Portal
+<colour id="65535" />before uploading your dream to see
+which designs will be made available.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Try thinking of those designs as
+<tag a="110" b="9" /> souvenirs.</message>
+	<message label="2035" attrib="02 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />And with that said, I am now ready to
+collect and compile your memory of
+<tag a="110" b="9" />. <anim id="Hello" target="actor" targetSpec="" />Shall I begin?</message>
+	<message label="2035_a" attrib="00 00 00 00">Let's do it!</message>
+	<message label="2035_b" attrib="00 00 00 00">Nope.</message>
+	<message label="2036" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Unfortunately, I am unable to compile
+your dream of <tag a="110" b="9" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You will need to return on another
+day. <delay20 />I will be happy to try again then.</message>
+	<message label="2041" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My apologies, <delay8 />but you must first turn
+on <delay8 />"Communicating with Others"<delay8 /> in
+Parental Controls to upload a dream.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Please come and see me again when
+you are ready.</message>
+	<message label="3001" attrib="06 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I have a dream of <tag a="110" b="9" />
+filed under the <colour id="1" />Dream Address
+<colour id="65535" /><tag a="140" b="17" arg="0xcd00" />.</message>
+	<message label="3001_a" attrib="00 00 00 00">Update the dream.</message>
+	<message label="3001_b" attrib="00 00 00 00">Adjust Dream Address privacy.</message>
+	<message label="3001_c" attrib="00 00 00 00">Delete the dream.</message>
+	<message label="3001_d" attrib="00 00 00 00">Never mind.</message>
+	<message label="3001_01" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Is there any other way I can assist
+with your uploaded dream?</message>
+	<message label="3001_01_a" attrib="00 00 00 00">Update the dream.</message>
+	<message label="3001_01_b" attrib="00 00 00 00">Adjust Dream Address privacy.</message>
+	<message label="3001_01_c" attrib="00 00 00 00">Delete the dream.</message>
+	<message label="3001_01_d" attrib="00 00 00 00">Never mind.</message>
+	<message label="3101" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />As a precaution, I must first confirm
+your wish to update the dream of
+<tag a="110" b="9" />.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Are you certain?</message>
+	<message label="3101_a" attrib="00 00 00 00">Yes. Let's update!</message>
+	<message label="3101_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="3102" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Splendid! <delay8 />I shall now connect to the
+<colour id="1" />internet<colour id="65535" /> and the library of dreams.</message>
+	<message label="3103" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Close your eyes<tag a="110" b="0" /><delay8 /> Picture what you
+love most about <tag a="110" b="9" /><tag a="110" b="0" /><delay20 />
+<tag a="100" b="10" />Relax. <delay20 />Reeela<delay8 />a<delay8 />a<delay8 />x<tag a="110" b="0" /><endTag a="100" b="10" /></message>
+	<message label="3104" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />There! <delay8 />The dream update is now
+complete. <delay8 />Each byte feels renewed
+and refreshed.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Well done!</message>
+	<message label="3105" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Your dream of <tag a="110" b="9" /> is
+still filed under the <colour id="1" />Dream Address<colour id="65535" />
+<tag a="140" b="17" arg="0xcd00" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />May the dream of <tag a="110" b="9" />
+host many happy visitors.</message>
+	<message label="3131" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My apologies, <delay8 />but I was unable to
+connect to the <colour id="1" />internet<colour id="65535" /> just now.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Shall I try again?</message>
+	<message label="3131_a" attrib="00 00 00 00">Please do!</message>
+	<message label="3131_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="3132" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Unfortunately, I can only upload a
+dream <colour id="1" />once per day<colour id="65535" />.<delay20 /> <anim id="Explain" target="actor" targetSpec="" />I will be more
+than happy to help you tomorrow.</message>
+	<message label="3133" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Unfortunately, I am unable to compile
+your dream of <tag a="110" b="9" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You will need to return on another
+day. <delay20 />I will be happy to try again then.</message>
+	<message label="3301" attrib="02 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh my! <delay8 />Really? <delay8 />You wish to delete
+your dream from the library?<delay20 /> <anim id="Worried" target="actor" targetSpec="" />But it
+is such a beautiful dream<tag a="110" b="0" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />Naturally, <delay8 />once it has been deleted,
+no one will be able to visit your
+dream of <tag a="110" b="9" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I can upload a new dream, <delay8 />but the
+oddities of digitized dreamscapes
+mean you must <colour id="1" />wait until tomorrow<colour id="65535" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />So, with all of that in mind,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />are you
+absolutely certain you want to delete
+your dream of <tag a="110" b="9" />?</message>
+	<message label="3301_a" attrib="00 00 00 00">Yes. Delete it!</message>
+	<message label="3301_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="3304" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Dreams are fleeting. <delay8 />Digital dreams
+doubly so. <delay20 />I will delete your dream of
+<tag a="110" b="9" /> from the library.</message>
+	<message label="3305" attrib="00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />Thank you for waiting. <delay8 />Your dream of
+<tag a="110" b="9" /> is no more.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Again, if you would like to create and
+upload a new dream, <delay8 />I will be happy
+to assist you beginning tomorrow.</message>
+	<message label="3306" attrib="00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" /><delay20 />I am relieved you changed your mind.<delay8 />
+There may be someone enjoying your
+dream at this very moment!</message>
+	<message label="3331" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My apologies, <delay8 />but I was unable to
+connect to the <colour id="1" />internet<colour id="65535" /> just now.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Shall I try again?</message>
+	<message label="3331_a" attrib="00 00 00 00">Please do!</message>
+	<message label="3331_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="3341" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My apologies, but you must first turn
+on <delay8 />"Communicating with Others"<delay8 /> in
+Parental Controls to delete a dream.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Please come and see me again when
+you are ready.</message>
+	<message label="3401" attrib="01 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Your <colour id="1" />Dream Address<colour id="65535" /> is set to public,
+meaning others can see it on your
+<colour id="1" />Passport<colour id="65535" /> and on your island's <colour id="1" />map<colour id="65535" />.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Would you like to change the setting
+for your <colour id="1" />Dream Address<colour id="65535" /> to private so
+that others will no longer see it?</message>
+	<message label="3401_a" attrib="00 00 00 00">No. Leave it as is.</message>
+	<message label="3401_b" attrib="00 00 00 00">Yes. Make it private.</message>
+	<message label="3402" attrib="01 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Your <colour id="1" />Dream Address<colour id="65535" /> is currently
+set to private, meaning that it is
+not displayed to others.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Shall I set your <colour id="1" />Dream Address<colour id="65535" /> to
+public and allow it to appear on your
+<colour id="1" />Passport<colour id="65535" /> and your island's <colour id="1" />map<colour id="65535" />?</message>
+	<message label="3402_a" attrib="00 00 00 00">No. Leave it as is.</message>
+	<message label="3402_b" attrib="00 00 00 00">Yes. Make it public.</message>
+	<message label="3403" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Understood. <delay8 />Your <colour id="1" />Dream Address
+<colour id="65535" />settings shall remain untouched.</message>
+	<message label="3404" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Happily! <delay20 />Your <colour id="1" />Dream Address<colour id="65535" /> is now
+private and will no longer appear on
+your <colour id="1" />Passport <colour id="65535" />or your island's <colour id="1" />map<colour id="65535" />.</message>
+	<message label="3405" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />There! <delay20 />Your <colour id="1" />Dream Address<colour id="65535" /> is public.
+Others will now be able to see it on
+your <colour id="1" />Passport <colour id="65535" />and your island's <colour id="1" />map<colour id="65535" />.</message>
+	<message label="4000" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />This is the world between,<delay8 /> where
+electronic dreams and dreamers
+meet. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />I am a guide here.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I can help you dream another's
+dream or share your dream with
+others. <delay20 />May we all dream sweetly<tag a="110" b="0" /></message>
+	<message label="4001" attrib="04 00 00 00">If you wish to learn more<tag a="110" b="0" /><anim id="Hello" target="actor" targetSpec="" />please
+feel free to ask.</message>
+	<message label="4001_a" attrib="00 00 00 00">Dreaming of other islands.</message>
+	<message label="4001_b" attrib="00 00 00 00">Sharing dreams of my island.</message>
+	<message label="4001_c" attrib="00 00 00 00">Never mind.</message>
+	<message label="4001_01" attrib="04 00 00 00">If you wish to learn more<tag a="110" b="0" /><anim id="Hello" target="actor" targetSpec="" />please
+feel free to ask.</message>
+	<message label="4001_01_a" attrib="00 00 00 00">Dreaming of other islands.</message>
+	<message label="4001_01_b" attrib="00 00 00 00">Sharing dreams of my island.</message>
+	<message label="4001_01_c" attrib="00 00 00 00">Never mind.</message>
+	<message label="4002" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Of course!<delay20 /> <anim id="AbsentMindedness" target="actor" targetSpec="" />To <colour id="1" />dream of other islands
+<colour id="65535" />is to travel without traveling.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />A dream is a memory of a place such
+as an island. <delay8 />After being uploaded,
+these dream islands can be visited.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Once upon another's dream island, it
+will seem as though you have set
+foot on the real thing.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />However, dream islands are static.<delay20 />
+Nothing you do can affect the real
+island, so you may do as you will.</message>
+	<message label="4002_00" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />One caveat<tag a="110" b="0" /><delay8 /> To enter a dream, you
+must always go empty-handed.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Do not worry.<delay8 /> I will happily hold on
+to your belongings and return them
+after you wake.</message>
+	<message label="4002_01" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Lastly, this process requires <colour id="1" />internet
+access<colour id="65535" /> and the <colour id="1" />Dream Address<colour id="65535" /> of
+the dream you wish to visit.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And that is all there is to it!</message>
+	<message label="4003" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Ah!<delay20 /> <colour id="1" />Sharing a dream of your island
+<colour id="65535" />will allow others to visit that memory.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />First, <delay8 />I will form your memory of
+<tag a="110" b="9" /> into a dream.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />I will then connect to the internet to
+upload your dream so that others will
+be able to visit this dream island.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />And because this is but a dream,<delay8 />
+nothing a visitor does will have any
+effect on the real <tag a="110" b="9" />.</message>
+	<message label="4003_01" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />And as I mentioned, the process
+does require <colour id="1" />internet access<colour id="65535" />, <delay8 />so
+please have that ready.</message>
+	<message label="4003_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Lastly, <delay8 />visitors to your dream may
+bring back any designs on display
+in your <colour id="1" />Custom Designs Portal<colour id="65535" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Check your <colour id="1" />Custom Designs Portal
+<colour id="65535" />before uploading your dream to see
+which designs will be made available.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />You may think of those designs as
+<tag a="110" b="9" /> souvenirs.</message>
+	<message label="4003_03" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />And with that, you are up-to-date!</message>
+</msbt>

@@ -39,4 +39,10 @@ will begin from your home.)<colour id="65535" /></message>
 	<message label="021" attrib="02 00 21" />
 	<message label="021_a" attrib="00 00 19" />
 	<message label="021_b" attrib="00 00 19" />
+	<message label="025" attrib="02 00 21">Do you want to report this dream?</message>
+	<message label="025_a" attrib="00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Report.</message>
+	<message label="025_b" attrib="00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
+	<message label="026" attrib="00 00 21">The dream you were experiencing
+has been reported. <delay frames="40" />You will now
+be returned to your own bed.</message>
 </msbt>

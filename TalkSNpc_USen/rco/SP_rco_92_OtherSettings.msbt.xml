@@ -24,11 +24,17 @@ help you?</message>
 	<message label="012_c" attrib="00 00 00 00">I'm done talking.</message>
 	<message label="020" attrib="04 00 00 00">Now, what settings would you like to
 talk about today?</message>
-	<message label="020_a" attrib="00 00 00 00">Save data settings.</message>
-	<message label="020_b" attrib="00 00 00 00">NookLink settings.</message>
+	<message label="020_a" attrib="00 00 00 00">Save data.</message>
+	<message label="020_b" attrib="00 00 00 00">NookLink.</message>
 	<message label="020_c" attrib="00 00 00 00">Nothing right now.</message>
 	<message label="021" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Save data settings, hm?<delay20 />
 Of course! Of course!</message>
+	<message label="022" attrib="06 00 00 00">Now, what settings would you like to
+talk about today?</message>
+	<message label="022_a" attrib="00 00 00 00">Save data.</message>
+	<message label="022_b" attrib="00 00 00 00">NookLink.</message>
+	<message label="022_c" attrib="00 00 00 00"> Island backup.</message>
+	<message label="022_d" attrib="00 00 00 00">I'm done talking.</message>
 	<message label="051" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes, I understand!<10_4 /> In that case,
 let's return you to the title screen.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" /><delay8 />I hope you continue to enjoy life on
 <tag a="110" b="9" />!</message>
@@ -67,6 +73,15 @@ my and other residents' memories.</message>
 	<message label="062_03" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="110" b="0" />So, <delay20 />I strongly suggest that you
 only proceed with this drastic step
 when it's absolutely necessary.</message>
+	<message label="062_04" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Additionally, if you enabled island
+backup,<delay frames="30" /> <anim id="Serious" target="actor" targetSpec="" />that setting will also be
+erased.</message>
+	<message label="062_05" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Additionally, if <tag a="115" b="0" arg="0xcd00" />
+enabled island backup,<delay frames="30" /><anim id="Serious" target="actor" targetSpec="" /> that
+setting will also be erased.</message>
+	<message label="062_06" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Additionally, if that resident enabled
+island backup,<delay frames="30" /> <anim id="Serious" target="actor" targetSpec="" />that setting will also
+be erased.</message>
 	<message label="063_01" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I should give you some information
 about deleting resident
 registrations<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />If deleted, all memory and property
@@ -196,6 +211,15 @@ of deleting?</message>
 	<message label="112_b" attrib="00 00 00 00">Delete another's data.</message>
 	<message label="112_c" attrib="00 00 00 00">Delete Resident Rep.?</message>
 	<message label="112_d" attrib="00 00 00 00">I don't want to do that.</message>
+	<message label="113" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="110" b="0" />So, <delay8 />if <tag a="115" b="0" arg="0xcd00" />'s resident
+registration is deleted, <delay8 /><anim id="Negative" target="actor" targetSpec="" />you'll never
+be able to do that in the future.</message>
+	<message label="114" attrib="01 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I strongly suggest doing this process
+only when absolutely necessary.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Do you still wish to delete
+<tag a="115" b="0" arg="0xcd00" />'s resident
+registration?</message>
+	<message label="114_a" attrib="00 00 00 00">I don't want to do that.</message>
+	<message label="114_b" attrib="00 00 00 00"><colour id="6" />Delete resident registration.<colour id="65535" /></message>
 	<message label="201" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You want to delete a resident?<delay40 />
 Yes, yes, <delay20 />I can help with that.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />However, <delay20 /><tag a="110" b="1" />, you are
 the Resident Representative, and

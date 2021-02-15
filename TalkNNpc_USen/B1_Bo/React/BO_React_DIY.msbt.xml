@@ -24,8 +24,7 @@ what it even is!</message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Sorry. I got a lot goin' on. I dunno
 how much of this is even legal.
 Safety-wise, I mean.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Let's play later!</message>
-	<message label="008" attrib="00 00 01 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />What?!<delay frames="40" />
-You already know how to make<anim id="EmotEnd" target="actor" targetSpec="" />
+	<message label="008" attrib="00 00 01 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />What?!<pageBreak />You already know how to make<anim id="EmotEnd" target="actor" targetSpec="" />
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?!</message>
 	<message label="008_a" attrib="00 00 00 00 00 00 00 00">Sure do!</message>
 	<message label="008_b" attrib="00 00 00 00 00 00 00 00">Doesn't everyone?</message>
@@ -48,7 +47,8 @@ hand them this note?<pageBreak /><anim id="Blushing" target="actor" targetSpec="
 grease I smudged on the middle part.</message>
 	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It'd be great if a buncha folks made
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
-	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Heeeeere is the secret recipe for
-the <tag a="125" b="0" arg="0x0" />!
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay8 />You're back for my top-secret
+recipe, huh?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Heeere you go! <delay8 />A DIY recipe for
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<delay20 />
 <anim id="Hello" target="actor" targetSpec="" />Don't lose it!</message>
 </msbt>

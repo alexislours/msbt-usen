@@ -1,0 +1,20 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, are you back for those <colour id="1" />sparklers
+<colour id="65535" />I promised before?</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />No time to listen to an answer—just
+take it! <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Let's really get fired up for
+the show, <tag a="110" b="5" />!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Wait. <delay frames="40" /><anim id="TakenAback" target="actor" targetSpec="" />You STILL don't have room.<delay20 />
+Is this some kind of new workout
+where you annoy me into fitness?
+<anim id="Thinking" target="actor" targetSpec="" />If so<tag a="110" b="0" /><delay frames="60" /><anim id="Nodding" target="actor" targetSpec="" />cool.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />So<tag a="110" b="0" />I've got a little something that
+might make the fireworks show
+tonight a bit more fun<tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />It's a <colour id="1" />sparkler<colour id="65535" />! <delay20 />Here, take one.<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />Hope to see you there!</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00">Need something?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Hold on, let me
+spring into action!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, hey!<delay20 /> Hold on a second,
+<tag a="110" b="3" />. <delay20 />I want to talk to
+you, <tag a="110" b="5" />!</message>
+</msbt>

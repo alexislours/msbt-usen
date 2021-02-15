@@ -5,6 +5,9 @@
 <delay20 />Strong. <delay20 />I can already tell we're gonna
 be pals.<delay frames="40" /> <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />No, not pals<tag a="110" b="0" />family!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" /><tag a="110" b="0" /> <anim id="BigSmile" target="actor" targetSpec="" />It's a pleasure
 to meet ya, <tag a="110" b="1" />!</message>
+	<message label="001_01" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Hey, I know you! <delay8 />You visited me at
+one of my little side businesses.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It's me, <colour id="3" />Redd<colour id="65535" />! <delay8 />And your name is<tag a="110" b="0" />
+<tag a="50" b="3" /><tag a="110" b="1" />!<delay20 /> <anim id="Hello" target="actor" targetSpec="" />How ya been?</message>
 	<message label="002_01" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Ah, just feels like fate, don't it?<delay20 />
 Us meetin' here like this.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Well, seein' as we're practically
 family, <delay20 />I'm not gonna let it be the
@@ -154,12 +157,18 @@ been inside yet. <delay20 />Too many customers.
 be pals.<delay frames="40" /> <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />No, not pals<tag a="110" b="0" />family!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" /><tag a="110" b="0" /> <anim id="BigSmile" target="actor" targetSpec="" />It's a pleasure
 to meet ya, <tag a="110" b="1" />!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Hey, would you mind if I ran
 an idea by you?</message>
+	<message label="101_01" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Hey, I know you! <delay8 />You visited me at
+one of my little side businesses.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It's me, <colour id="3" />Redd<colour id="65535" />! <delay8 />And your name is<tag a="110" b="0" />
+<tag a="50" b="3" /><tag a="110" b="1" />!<delay20 /> <anim id="Hello" target="actor" targetSpec="" />How ya been?<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I was just thinkin' about how much
+I've been enjoying this place. <delay8 />Seeing
+you just makes it all the better!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I mean, you've got quite a setup
+goin' here. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />And a LOT<delay20 /> of art fans<tag a="110" b="0" /></message>
 	<message label="102_01" attrib="00 00 00 00">I'd know that shining face anywhere.<delay20 />
 <anim id="Hello" target="actor" targetSpec="" />How ya been, <tag a="110" b="1" />?<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />You made the right choice buyin' that
 art from me earlier. <delay20 />I've had a lot of
 folks asking about it.</message>
 	<message label="102_02" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Well, if it isn't <tag a="110" b="1" />!<delay frames="40" />
-<anim id="Laughing" target="actor" targetSpec="" />Long time no see!</message>
+<anim id="Laughing" target="actor" targetSpec="" />How ya been?</message>
 	<message label="103" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Ah<tag a="110" b="0" />you know, I really gotta
 be honest.<delay20 /> I think I'm fallin'
 for <tag a="110" b="8" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I mean, you've got quite a setup

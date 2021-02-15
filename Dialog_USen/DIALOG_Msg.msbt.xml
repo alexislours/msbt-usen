@@ -57,8 +57,6 @@ can register!</message>
 	<message label="0301_a" attrib="01 06">Close</message>
 	<message label="0303_a" attrib="01 06">Close</message>
 	<message label="0304_a" attrib="01 06">Close</message>
-	<message label="0307" attrib="04 00">Receiving new mail.</message>
-	<message label="0308" attrib="02 00">Verifying data.</message>
 	<message label="0310" attrib="02 00">Hold on just a sec, OK?</message>
 	<message label="0321" attrib="01 09">You can't favorite a message if you
 haven't even read it yet!</message>
@@ -159,6 +157,32 @@ to the internet again?</message>
 process fails repeatedly, please retake
 your profile photo and try again.</message>
 	<message label="0820_a" attrib="01 06">Close</message>
+	<message label="0830" attrib="12 09"><colour id="6" />Important Info on Sharing Dreams<colour id="65535" />
+When you share a dream of your
+island, other players—including ones
+you don't know—will be able to visit
+a version of your island.<pageBreak /><colour id="1" />That means that player-generated
+data about your island and its
+residents—captured at the time the
+dream is shared—will be made public.<pageBreak /><colour id="65535" /><colour id="6" />This data includes your name, your
+passport info, the look of your entire
+island, rooms in homes, your custom
+designs, any bulletin-board posts,
+and more.<colour id="65535" /></message>
+	<message label="0830_a" attrib="01 00">I Understand</message>
+	<message label="0831" attrib="12 09"><colour id="6" />Important Info on Sharing Dreams<colour id="65535" />
+When you share a dream of your
+island, other players—including ones
+you don't know—will be able to visit
+a version of your island.<pageBreak /><colour id="1" />That means that data about your
+island and its residents—captured
+at the time the dream is shared—will
+be made public.<pageBreak /><colour id="65535" /><colour id="6" />This data includes your name, your
+passport info for all residents, the
+look of your entire island, rooms in
+homes, your custom designs, any
+bulletin-board posts, and more.<colour id="65535" /></message>
+	<message label="0831_a" attrib="01 00">I Understand</message>
 	<message label="0921" attrib="06 06">You can make up to two posts during
 one trip.</message>
 	<message label="0921_a" attrib="01 06">OK</message>
@@ -244,6 +268,8 @@ airport gate is open.</message>
 Please close the connection at the
 airport counter.</message>
 	<message label="1124_a" attrib="01 00">Close</message>
+	<message label="1125" attrib="01 09">You can't place orders at this time.</message>
+	<message label="1125_a" attrib="01 00">Close</message>
 	<message label="1201" attrib="08 00">Are you sure you want to delete
 <colour id="1" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" />?</message>
 	<message label="1201_a" attrib="01 00">Actually, no.</message>
@@ -874,7 +900,7 @@ Would you like to share this info
 on social media?</message>
 	<message label="2422_a" attrib="01 00">No</message>
 	<message label="2422_b" attrib="01 00">Share It</message>
-	<message label="2423" attrib="08 00">Your creation could not be posted.
+	<message label="2423" attrib="08 09">Your creation could not be posted.
 Would you like to try again?</message>
 	<message label="2423_a" attrib="01 00">No.</message>
 	<message label="2423_b" attrib="01 00">Try again.</message>
@@ -895,11 +921,9 @@ creation?</message>
 	<message label="2428" attrib="01 09">You've reached the limit for the
 number of custom designs you can
 post. Please select one to delete.</message>
-	<message label="2428_a" attrib="01 00">Got it!</message>
 	<message label="2429" attrib="01 09">You don't seem to have any custom
 designs of your own. Please try again
 after you've made a custom design.</message>
-	<message label="2429_a" attrib="01 00">Got it!</message>
 	<message label="2430" attrib="06 09">It seems this design has already
 been posted.
 <colour id="0" />You can repost it if you edit it.<colour id="65535" /></message>
@@ -910,17 +934,20 @@ Do you want to view your own
 designs, <colour id="2" /><tag a="110" b="1" /><colour id="65535" />?</message>
 	<message label="2432_a" attrib="01 00">Back</message>
 	<message label="2432_b" attrib="01 00">View Mine</message>
-	<message label="2433" attrib="08 00">There is no design listed with the ID
+	<message label="2433" attrib="08 09">There is no design listed with the ID
 of <colour id="1" /><tag a="140" b="15" arg="0xcd00" /><colour id="65535" />.
 Would you like to enter the ID again?</message>
 	<message label="2433_a" attrib="01 00">Back to Menu</message>
 	<message label="2433_b" attrib="01 00">Redo</message>
-	<message label="2434" attrib="08 00">There are no designs for creator
+	<message label="2434" attrib="08 09">There are no designs for creator
 ID <colour id="1" /><tag a="140" b="17" arg="0xcd00" /><colour id="65535" />.
 Would you like to enter the ID again?</message>
 	<message label="2434_a" attrib="01 00">Back to Menu</message>
 	<message label="2434_b" attrib="01 00">Redo</message>
-	<message label="2435" attrib="01 09">The custom design has been deleted.</message>
+	<message label="2434_01" attrib="05 09">There are no designs for creator
+ID <colour id="1" /><tag a="140" b="17" arg="0xcd00" /><colour id="65535" />.</message>
+	<message label="2434_01_a" attrib="01 00">Back</message>
+	<message label="2435" attrib="01 00">The custom design has been deleted.</message>
 	<message label="2436" attrib="01 00">Please select a design to post.</message>
 	<message label="2437" attrib="08 00"><colour id="1" /><tag a="50" b="3" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" />...
 Are you sure you want to
@@ -938,6 +965,49 @@ want to view your designs?</message>
 	<message label="2440_b" attrib="01 00">View Mine</message>
 	<message label="2441" attrib="01 00">An error has prevented the design
 from being shared on social media.</message>
+	<message label="2442" attrib="08 00">Remove <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" /> from
+your favorites?</message>
+	<message label="2442_a" attrib="01 00">No</message>
+	<message label="2442_b" attrib="01 00">Yes</message>
+	<message label="2444" attrib="01 00"><tag a="50" b="3" /><colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" /> has been
+removed from your favorites.</message>
+	<message label="2445" attrib="01 09">Your list of favorite creators is full.
+You cannot add any more favorites
+at this time.</message>
+	<message label="2446" attrib="08 09">Your search criteria did not match
+any designs. Do you want to redo
+your criteria and search again?</message>
+	<message label="2447" attrib="01 00"><colour id="0" />New Custom-Design Search Options<colour id="65535" />
+You can now search for custom
+designs from your favorite creators
+or by using a criteria search.<pageBreak /><colour id="1" />Criteria Search<colour id="65535" />
+Use this option to search for designs
+by name or type.<pageBreak /><colour id="1" />Favorites Search<colour id="65535" />
+Use this option to search for designs
+by creators who you have added
+to your list of favorites.<pageBreak />You can add a creator to your list of
+favorites while you're viewing one
+of their designs. We hope you enjoy
+these new search features!</message>
+	<message label="2448" attrib="0e 00"><colour id="0" />Custom-Design Types<colour id="65535" />
+You can now assign a type to all
+custom designs (excluding Pro
+designs) to facilitate searching.
+Just press <colour id="1" /><colour id="65535" /> to assign a type to
+your design. Previously posted
+designs can also be assigned a type.<pageBreak /><colour id="0" />Setting a type does not limit how a
+custom design can be used. Also,
+it is possible to change a design's
+type even after it has been posted.<colour id="65535" /></message>
+	<message label="2449" attrib="01 00">Design type changed.</message>
+	<message label="2450" attrib="08 09">No designs found associated with
+creator ID <colour id="1" /><tag a="140" b="17" arg="0xcd00" /><colour id="65535" />.
+Do you want to make a different
+selection?</message>
+	<message label="2450_a" attrib="01 00">Back to Menu</message>
+	<message label="2450_b" attrib="01 00">Select Again</message>
+	<message label="2446_a" attrib="01 00">Back to Menu</message>
+	<message label="2446_b" attrib="01 00">Redo</message>
 	<message label="2501" attrib="01 09">Each player can send up to 2
 messages per day online through
 Nook Shopping.</message>
@@ -1028,6 +1098,11 @@ filters and effects.<pageBreak /><colour id="0" />The pictures will be saved to 
 Album on the HOME Menu, and other
 users who use the same system will
 be able to see them.<colour id="65535" /></message>
+	<message label="5002" attrib="01 00"><colour id="1" />Displaying Control Guide<colour id="65535" />
+<colour id="1" />Press  <colour id="65535" />to toggle the control
+guide on or off.<pageBreak /><colour id="0" />You cannot turn the guide off when
+using the solo horizontal grip on a
+Joy-Con controller.<colour id="65535" /></message>
 	<message label="5011" attrib="01 00"><colour id="1" />Nook Miles<colour id="65535" />
 You're enrolled in the
 Nook Mileage Program!<pageBreak />Earn <colour id="1" />Nook Miles <colour id="65535" />for completing
@@ -1338,6 +1413,12 @@ that you are currently wearing.
 To show off the changes to a
 custom design, select the updated
 design and choose <colour id="1" />Wear<colour id="65535" />.</message>
+	<message label="5302_01" attrib="0e 09">You saved over a custom design
+that you're currently wearing.
+
+If you want to wear the new design,
+please select it and choose <colour id="1" />Wear
+<colour id="65535" />after you leave the dream.</message>
 	<message label="5303" attrib="01 09">You have registered a custom design
 to a transformation outfit. The design
 on the outfit will not disappear even if
@@ -1469,4 +1550,17 @@ this process.</message>
 	<message label="8020_a" attrib="01 00">No</message>
 	<message label="8020_b" attrib="01 00">Close</message>
 	<message label="8019" attrib="01 00">Starting game again.</message>
+	<message label="9001" attrib="08 00">Do you want to begin island backup
+restoration?</message>
+	<message label="9001_a" attrib="01 00">Cancel</message>
+	<message label="9001_b" attrib="01 00">Begin</message>
+	<message label="9015" attrib="05 00">The game will now start.</message>
+	<message label="9015_a" attrib="01 00">Close</message>
+	<message label="9012" attrib="05 00">Now checking island backup data...</message>
+	<message label="9012_a" attrib="01 00">Close</message>
+	<message label="9013" attrib="05 00">The island backup data check is
+complete. Gameplay will now resume.</message>
+	<message label="9013_a" attrib="01 00">Close</message>
+	<message label="9016" attrib="02 00">Saving.
+<colour id="0" />Do not touch .<colour id="65535" /></message>
 </msbt>

@@ -21,7 +21,7 @@ to sell it to me cheap!</message>
 	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />How much?
 <anim id="EmotEnd" target="player" targetSpec="" />Make an offer.</message>
 	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Sorry, but no.
-<anim id="Apologize" target="player" targetSpec="" />Sorry.</message>
+Sorry.</message>
 	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Ugh, I can't do it anymore.<delay20 />
 I can't keep searching for
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!
@@ -31,7 +31,7 @@ one, <tag a="110" b="5" />?<pageBreak /><anim id="Restless" target="actor" targe
 	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />How much?
 <anim id="EmotEnd" target="player" targetSpec="" />Make an offer.</message>
 	<message label="004_b" attrib="00 00 00 00 00 00 00 00">Sorry, not for sale.
-<anim id="Apologize" target="player" targetSpec="" />Sorry.</message>
+Sorry.</message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No, no<tag a="110" b="0" />it's OK. <delay20 />It's not like I
 NEED it. <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Now, if you'll excuse me,<anim id="Crying" target="actor" targetSpec="" />
 I need to go home and cry.</message>
@@ -43,14 +43,14 @@ that thing to me?</message>
 	<message label="100_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />How much?
 <anim id="EmotEnd" target="player" targetSpec="" />How much you got?</message>
 	<message label="100_b" attrib="00 00 00 00 00 00 00 00">Sorry, no.
-<anim id="Apologize" target="player" targetSpec="" />Sorry, pal.</message>
+Sorry, pal.</message>
 	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Alright, let me just do some
 quick math.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />How does <tag a="90" b="21" arg="0x3" />
 sound to you?</message>
 	<message label="101_a" attrib="00 00 00 00 00 00 00 00">That works.
 OK.</message>
 	<message label="101_b" attrib="00 00 00 00 00 00 00 00">Not good enough.
-<anim id="Apologize" target="player" targetSpec="" />Sorry, I need more.</message>
+Sorry, I need more.</message>
 	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Really? You'll sell it?<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Hot diggity!<delay8 />
 We've got a deal!</message>
 	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh well.<delay20 /> It seems my quest for the
@@ -109,13 +109,13 @@ your <tag a="125" b="0" arg="0x0" />?</message>
 	<message label="200_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />How much?
 <anim id="EmotEnd" target="player" targetSpec="" />What'll you give me?</message>
 	<message label="200_b" attrib="00 00 00 00 00 00 00 00">Nope.
-<anim id="Apologize" target="player" targetSpec="" />Sorry...</message>
+Sorry...</message>
 	<message label="201" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Well, can I tempt you with
 <tag a="90" b="21" arg="0x1" />?</message>
 	<message label="201_a" attrib="00 00 00 00 00 00 00 00">That's fine.
 Sure.</message>
 	<message label="201_b" attrib="00 00 00 00 00 00 00 00">Nope.
-<anim id="Apologize" target="player" targetSpec="" />Sorry...</message>
+Sorry...</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Eh, I didn't want it anyway.<10_4 />
 <tag a="110" b="0" /><anim id="Worried" target="actor" targetSpec="" />OK, I'm lying, but whatever.</message>
 	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />What, <delay8 />really?<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />OK, let's do this!</message>
@@ -143,7 +143,7 @@ your <tag a="125" b="0" arg="0x0" />!</message>
 	<message label="304_a" attrib="00 00 00 00 00 00 00 00">You got it!
 Sold!</message>
 	<message label="304_b" attrib="00 00 00 00 00 00 00 00">I changed my mind.
-<anim id="Apologize" target="player" targetSpec="" />Sorry.</message>
+Sorry.</message>
 	<message label="305" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Yessss.<delay20 /> Finally, I can add my
 name to the distinguished list of
 <tag a="125" b="0" arg="0x0" /> owners.</message>

@@ -136,12 +136,41 @@ importantly, <delay8 />is it cool if I crash it?<delay20 />
 	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't know what it is, <delay8 />but I just got
 a major craving for a fruit smoothie,
 <tag a="110" b="5" />.<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />Isn't that weird?</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="7" arg="0xfd10 0xfe00 0xcd00" /></message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />You look like a total swashbuckler!<delay8 />
+Those scalawags aren't gonna stand
+a chance, <tag a="110" b="6" />!</message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You look like you swam right out of
+a fairy tale.<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />That mermaid outfit's got
+some major sparkle, <tag a="110" b="6" />!</message>
+	<message label="208" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's some sweet swimwear you got
+on. <delay20 />I gotta be honest, I'm actually
+kinda jealous, <tag a="110" b="5" />.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Someday I wanna get a wet suit,<delay8 />
+but have you ever tried sizing one
+for <tag a="50" b="2" /><tag a="110" b="15" />?<delay frames="40" /> <anim id="SadSpiral" target="actor" targetSpec="" />It's the worst.</message>
+	<message label="209" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Whoa!<delay8 /> The detailing on your outfit
+is seriously rad. <delay8 />Was that all done
+by hand, <tag a="110" b="5" />?<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />Too cool!</message>
+	<message label="210" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Yeah, I'm really digging that outfit.<delay8 />
+There's a majorly cool flow to that
+dress, <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I can't believe I'm saying this, but
+you've got me rethinking my look.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Might pass on the footwear though.</message>
+	<message label="211" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Wow! <delay8 />Your outfit's totally got that
+"elegant simplicity" thing going on.<delay20 />
+It's a really cool look, <tag a="110" b="5" />!</message>
 	<message label="251" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Hey, if you're trying to get on my
 good side with that cat outfit<tag a="110" b="0" /><delay20 /><anim id="Smiling" target="actor" targetSpec="" />it's
 working, <tag a="110" b="5" />.<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha!</message>
 	<message label="252" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />So that outfit<tag a="110" b="0" /> Look, cats are cool,
 but you know what's even cooler,
 right?<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="110" b="15" />. <delay8 />Just sayin'!</message>
+	<message label="253" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" /><delay8 />You clearly rock the frog look better
+than I do.<delay frames="40" /> In fact<tag a="110" b="0" /><delay8 /><anim id="Grin" target="actor" targetSpec="" />you look just like
+one of my best friends back home.</message>
+	<message label="254" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I almost thought you were someone
+else. <delay20 />That frog outfit seriously threw
+me off, <tag a="110" b="5" />.</message>
 	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />So I'm not trying to be rude, but<tag a="110" b="0" /><delay8 />
 your clothes are lookin' kinda rough.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Or maybe that's what's in style now?<delay frames="40" />
 <anim id="OhGeez" target="actor" targetSpec="" />I can never keep up, <tag a="110" b="5" />.</message>
@@ -153,6 +182,21 @@ souvenir, <tag a="110" b="5" />. <delay20 />Hint, <delay8 />hint.</message>
 The color, <delay8 />the embroidery, <delay8 />everything
 about it is just<tag a="110" b="0" /> <anim id="BigSmile" target="actor" targetSpec="" />Wow!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Now I know who to go to if I need
 some style tips, <tag a="110" b="5" />!</message>
+	<message label="304" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />You're looking super comfy in
+your <tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Wait! <delay8 />Are you working out right now?<delay20 />
+<anim id="Explain" target="actor" targetSpec="" />Don't let me keep you. <delay8 />I don't want
+you to lose your pace, <tag a="110" b="5" />!</message>
+	<message label="305" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What's up with that outfit? <delay8 />You have
+some kind of home project starting
+up or something, <tag a="110" b="5" />?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Whatever it is, I can't wait to see it.<delay8 />
+Just be careful, OK?<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />You got this!</message>
+	<message label="306" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Whoa! That outfit rocks super hard!<delay20 />
+You look just like the lead guitarist
+for Pompous Teapot!<pageBreak /><anim id="Love" target="actor" targetSpec="" />Their live shows were so cool. <delay8 />They
+brought out giant, steam-spewing
+machines like something from anime.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I was so mad when they broke up.<delay8 />
+Steampunk <tag a="135" b="4" arg="0xcd00" /> just hasn't
+been the same since, <tag a="110" b="5" />.</message>
 	<message label="401" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="401_01" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You really like that look, huh? <delay20 />It's
 almost iconic on you at this point.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I get you though. <delay20 />If you can find

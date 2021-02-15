@@ -1,0 +1,50 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00">Now,<delay20 /> open your eyes<tag a="110" b="0" /></message>
+	<message label="001_01" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />You are now in a deep slumber<tag a="110" b="0" /><delay8 />
+<anim id="Nodding" target="actor" targetSpec="" />dreaming peacefully of an island
+named <tag a="110" b="8" />.</message>
+	<message label="002" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />When you wish to awaken from this
+dream, you need only lie down in this
+bed.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I will take care of the rest.</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Also, should you have any questions
+or need advice about dreams, <delay8 />please
+do not hesitate to ask.</message>
+	<message label="004" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />And with that,<delay8 /> <anim id="Hello" target="actor" targetSpec="" />may your dream of
+<tag a="110" b="8" /> be a sweet one.</message>
+	<message label="1001" attrib="02 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Is it time to wake,<delay8 /> <anim id="QuestionMark" target="actor" targetSpec="" />or shall I press
+the snooze bar and let you stay?</message>
+	<message label="1001_a" attrib="00 00 00 00">I want to wake up!</message>
+	<message label="1001_b" attrib="00 00 00 00">I'd like to stay.</message>
+	<message label="1002" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Splendid!<delay20 /> <anim id="AbsentMindedness" target="actor" targetSpec="" />Please close your eyes<tag a="110" b="0" />
+and relax<tag a="110" b="0" /><delay8 /> Now, <delay8 />imagine the shrill
+tones of an old alarm clock<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><10_8 arg="75" /></message>
+	<message label="1003" attrib="00 00 00 00">When you open your eyes, you will
+be in your bed, and I will be gone.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Until next time, <tag a="110" b="1" /><tag a="110" b="0" /><10_8 arg="75" /></message>
+	<message label="1004" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />A few more minutes?<delay20 /> <anim id="Hello" target="actor" targetSpec="" />As you wish.</message>
+	<message label="2001" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Do you require guidance?</message>
+	<message label="2001_a" attrib="00 00 00 00">How do I wake up?</message>
+	<message label="2001_b" attrib="00 00 00 00">What differs from reality?</message>
+	<message label="2001_c" attrib="00 00 00 00">How do I report dreams?</message>
+	<message label="2001_d" attrib="00 00 00 00">Never mind.</message>
+	<message label="2002" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Is there any other information
+you require?</message>
+	<message label="2002_a" attrib="00 00 00 00">How do I wake up?</message>
+	<message label="2002_b" attrib="00 00 00 00">What differs from reality?</message>
+	<message label="2002_c" attrib="00 00 00 00">How do I report dreams?</message>
+	<message label="2002_d" attrib="00 00 00 00">Never mind.</message>
+	<message label="2011" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />To leave the dream, simply lie down
+in this <colour id="1" />bed<colour id="65535" />. <delay20 />Also, when you wake, I
+shall return your belongings to you.</message>
+	<message label="2021" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Dream islands are unchanging.<delay20 />
+Nothing you do can affect the real
+island, so you may do as you wish.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You must also enter each dream
+empty-handed, but fret not.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I will
+return your things when you wake.</message>
+	<message label="2031" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />It is possible that you may come
+across inappropriate content while
+in a dream.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Should this occur, <delay8 />please press the
+<colour id="1" /> Button<colour id="65535" /> to report that dream.<pageBreak /><anim id="Silent" target="actor" targetSpec="" />Once your report is filed, <delay8 />I shall
+immediately arrange to wake you.</message>
+	<message label="2041" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Understood.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Have a pleasant dream.</message>
+</msbt>

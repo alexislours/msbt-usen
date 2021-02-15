@@ -36,6 +36,12 @@ on <tag a="110" b="33" />, right?
 <anim id="Nodding" target="player" targetSpec="" /><delay frames="30" />Nice to hear from ya.<endTag a="100" b="5" /></message>
 	<message label="021_03" attrib="00 00 13"><tag a="100" b="5" />Hang on<tag a="110" b="0" /><delay20 /> Oh, <tag a="110" b="1" />.<delay20 />
 You in hot water AGAIN?<anim id="Nodding" target="player" targetSpec="" /><endTag a="100" b="5" /></message>
+	<message label="021_04" attrib="00 00 13"><tag a="100" b="5" />Here we go! <delay20 />This is
+<tag a="110" b="1" /> from
+<tag a="110" b="34" />, right?<endTag a="100" b="5" /></message>
+	<message label="021_05" attrib="00 00 13"><tag a="100" b="5" />Let's see<tag a="110" b="0" /> Ah!<delay20 /> <tag a="50" b="3" /><tag a="110" b="1" />
+on <tag a="110" b="34" />, right?
+<anim id="Nodding" target="player" targetSpec="" /><delay frames="30" />Nice to hear from ya.<endTag a="100" b="5" /></message>
 	<message label="022" attrib="00 00 13" />
 	<message label="023_01" attrib="02 00 13"><tag a="100" b="5" />Pretty basic system here—rescues
 go for <colour id="1" />100 <colour id="65535" />miles.<delay20 /> You in?<endTag a="100" b="5" /></message>
@@ -138,6 +144,19 @@ drop ya <colour id="1" />where the planes land<colour id="65535" /><tag a="110" 
 you're on one of them <colour id="1" />May Day Tours
 <colour id="65535" /><colour id="3" />Tom Nook <colour id="65535" />set up.<pageBreak />Regs say I gotta reset and drop ya
 <colour id="1" />where the planes land<colour id="65535" />.<delay20 /> So buckle up!<endTag a="100" b="5" /></message>
+	<message label="049_02" attrib="02 00 13"><tag a="100" b="5" />This is weird. <delay20 />'Scuse me, champ.<delay20 />
+You're a bit off the grid, ain't ya?<delay frames="40" />
+Hard to pinpoint your location<tag a="110" b="0" />
+Huh. <delay20 />Looks like I'll have to drop ya
+at the <colour id="1" />nearest plaza <colour id="65535" />to be safe.<delay20 />
+You OK with that?<endTag a="100" b="5" /></message>
+	<message label="049_02_a" attrib="00 00 13">Yes, please!</message>
+	<message label="049_02_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="049_03" attrib="00 00 13"><tag a="100" b="5" />Thanks for the confirmation. <delay20 />I'll go
+ahead and drop ya off at the plaza
+on the <tag a="110" b="32" /> you're on.<pageBreak />And since regs are dictating your
+destination, there's no charge.<delay20 />
+Save those miles for a rainy day!<endTag a="100" b="5" /></message>
 	<message label="050_01" attrib="00 00 13"><tag a="100" b="5" />Your tent? <delay20 />Sure thing.<endTag a="100" b="5" /></message>
 	<message label="050_02" attrib="00 00 13"><tag a="100" b="5" />Home sweet home? <delay20 />You got it, boss.<endTag a="100" b="5" /></message>
 	<message label="050_03" attrib="00 00 13"><tag a="100" b="5" />The plaza? <delay20 />No prob.<endTag a="100" b="5" /></message>
@@ -191,6 +210,11 @@ yoga 'n stuff.<delay frames="40" /> Tryin' to get centered.<endTag a="100" b="5"
 	<message label="064_03" attrib="00 00 13"><tag a="100" b="5" />You're using the <colour id="1" />Nook Stop<colour id="65535" /> in
 Resident Services every day to earn
 miles, right?<delay frames="40" /> That's, like, the basics.<endTag a="100" b="5" /></message>
+	<message label="065" attrib="00 00 13"><tag a="60" b="20" /></message>
+	<message label="065_01" attrib="00 00 13"><tag a="100" b="5" />Usin' the Rescue Service for free
+left and right<tag a="110" b="0" /> Who d'ya think
+you are, pal?!<pageBreak />Bah.<delay20 /> It's a free lunch, but ya get
+what ya pay for!<endTag a="100" b="5" /></message>
 	<message label="2001" attrib="00 00 13"><tag a="100" b="5" />Heh. Somethin' seem different?<delay frames="30" />
 I figured you'd notice.<pageBreak />Yeah, <delay20 />you're one sharp
 cookie, <tag a="110" b="1" />.<pageBreak />Here's the skinny. <colour id="3" />Rese<colour id="65535" /><tag a="110" b="0" />the, uh,

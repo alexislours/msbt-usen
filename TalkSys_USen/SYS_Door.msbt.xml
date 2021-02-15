@@ -80,10 +80,10 @@ I don't want any visitors!
                           –<tag a="115" b="1" arg="0xcd00" /></message>
 	<message label="Move_AN" attrib="00 00 25">I've moved out.
                           –<tag a="115" b="1" arg="0xcd00" /></message>
-	<message label="VisitN" attrib="00 00 18">I think someone is visiting the
+	<message label="VisitN" attrib="00 00 18">I think someone promised to visit the
 resident who lives here. I probably
 shouldn't barge in<tag a="110" b="0" /></message>
-	<message label="VisitP" attrib="00 00 18">I think someone is visiting the
+	<message label="VisitP" attrib="00 00 18">I think someone promised to visit the
 resident who lives here. I probably
 shouldn't barge in<tag a="110" b="0" /></message>
 	<message label="Sleep_Tent" attrib="00 00 18">Must be sleepy time.</message>
@@ -98,13 +98,27 @@ Shop hours: 8 AM - 10 PM</message>
 	<message label="111_01" attrib="00 00 25">Due to circumstances, our operating
 hours for today have changed.
                                    –<colour id="1" />Nook's Cranny<colour id="65535" /></message>
+	<message label="111_02" attrib="00 00 25">Due to unusual circumstances, we
+will be closed today.
+                                   –<colour id="1" />Nook's Cranny<colour id="65535" /></message>
 	<message label="112" attrib="00 00 25"><colour id="1" />Able Sisters
 <colour id="65535" />Shop hours: 9 AM - 9 PM</message>
 	<message label="112_01" attrib="00 00 25">We've changed our shop hours
 for today.
                                –The Able Sisters</message>
+	<message label="112_02" attrib="00 00 25">Due to unusual circumstances, we
+will be closed today.
+                                –<colour id="1" />The Able Sisters<colour id="65535" /></message>
 	<message label="113" attrib="00 00 18">This ship's kinda sketchy looking.
 I shouldn't board without asking<tag a="110" b="0" /></message>
+	<message label="114" attrib="00 00 25">Be advised: <tag a="50" b="3" /><tag a="110" b="8" />
+Resident Services is not available.
+                             –<colour id="1" />Resident Services<colour id="65535" /></message>
+	<message label="115" attrib="00 00 18">It doesn't seem like anyone's
+in there...</message>
+	<message label="116" attrib="00 00 18">Be advised: <tag a="50" b="3" /><tag a="110" b="8" />
+Resident Services is not available.
+                             –<colour id="1" />Resident Services<colour id="65535" /></message>
 	<message label="902" attrib="00 00 18"><colour id="3" />Tom Nook <colour id="65535" />still needs to tell me a few
 things, so I'll check this out later.</message>
 	<message label="903" attrib="00 00 18">I should probably chat with
