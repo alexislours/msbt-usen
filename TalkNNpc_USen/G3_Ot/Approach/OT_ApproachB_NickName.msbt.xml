@@ -74,6 +74,10 @@ feeling all too well!<delay frames="40" /> It's alright, dear,<delay20 />
 <anim id="FaintSmile" target="actor" targetSpec="" />take your time and think it through.
 Now, <delay8 /><anim id="Hello" target="actor" targetSpec="" />how about we give it another
 try,<delay8 /> shall we, <tag a="110" b="6" />?</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Aha!<delay8 /> You prefer your original name
+after all.<delay40 /> <anim id="Nodding" target="actor" targetSpec="" />Well, that's wonderful.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I'll always think fondly of that
+nickname.<delay40 /> <anim id="Hello" target="actor" targetSpec="" />But from now on,<delay8 /> I'll call
+you <tag a="110" b="1" />.</message>
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Wonderful, <tag a="110" b="5" />!<delay frames="13" /> Perfect!<delay frames="40" />
 <anim id="HappyDance" target="actor" targetSpec="" />Now then, you have a lovely
 day<tag a="110" b="0" /><delay frames="13" /><tag a="110" b="3" />!</message>

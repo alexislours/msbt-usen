@@ -51,4 +51,33 @@ share it around.</message>
 Those aren't part of the recipe.</message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Here, I'll give you the recipe.<delay frames="40" />
 <anim id="Hello" target="actor" targetSpec="" />Don't lose it, alright?</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Just so you know, you're gonna need
+pumpkins aplenty for that. <delay20 /><anim id="Grin" target="actor" targetSpec="" />So I'd get
+to work growing some if I were you!</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Oh, just a little pro tip.<delay20 /> If you have
+different-colored pumpkins, you
+can customize the recipe!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Once you beef up your pumpkin
+production, you're bound to start
+getting some cool varieties.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Good luck turning yourself into
+a pumpkin pro, <tag a="110" b="5" />!</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, remember how I was gonna
+give you something before?</message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Wait, you already know that one?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />
+Wow, you're WAY ahead of me.<delay20 />
+<anim id="Oops" target="actor" targetSpec="" />Gotta up my game!</message>
+	<message label="034" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />But you know, I hate to see you walk
+away empty-handed from this.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Why don't you let me load you up
+with a few <colour id="1" />pumpkins<colour id="65535" />?<delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" /> You'll get a
+workout just carrying them home!</message>
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You can use these for crafting,
+you can plant 'em<tag a="110" b="0" /><delay20 /><anim id="HappyFlower" target="actor" targetSpec="" /> Whatever
+makes you happy, <tag a="110" b="5" />!</message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Ahh, now I feel like you didn't GAIN
+anything from this<tag a="110" b="0" /><delay20 /> <anim id="Thinking" target="actor" targetSpec="" />Wait, Halloween
+is almost here, right?<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />I've got a great idea.<delay20 /> How about a
+piece of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />? <delay20 /><anim id="WrySmile" target="actor" targetSpec="" />Now at least I'm
+pumping up your candy stash.</message>
+	<message label="037" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You'll need plenty of it for the big
+event,<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />but hopefully this helps you
+max out, <tag a="110" b="5" />.</message>
 </msbt>

@@ -95,11 +95,9 @@ stuff tastes terrible.</message>
 	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Ohhh<tag a="110" b="0" /><delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />That stuff works fast!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Thanks, <tag a="110" b="3" />. <delay20 />You're
 a lifesaver.<delay frames="40" /> <anim id="Blushing" target="actor" targetSpec="" />Here, take
 my <tag a="125" b="4" arg="0x0" />.</message>
-	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Wow! <delay20 />Feels better already.<delay frames="40" />
-<anim id="FaintSmile" target="actor" targetSpec="" />I don't know what I'd do
-without you.<delay20 /> Thanks!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Here, let me give you <tag a="50" b="1" />
-<tag a="125" b="4" arg="0x0" />.
-<delay20 />Thanks again.</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Wow! <delay20 />I feel better already.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I totally
+don't know what I'd do without you.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />One sec, <delay8 />let me thank you.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Here, take
+my <tag a="125" b="4" arg="0x0" />!</message>
 	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Whoa! <delay20 />I didn't expect that stuff
 to kick in so fast! <delay20 />I owe you big
 time, <tag a="110" b="3" />!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Here, why don't you take <tag a="50" b="1" />

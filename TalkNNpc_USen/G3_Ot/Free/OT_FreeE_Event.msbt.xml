@@ -74,4 +74,18 @@ Tomorrow is May Day?!<pageBreak /><anim id="Confused" target="actor" targetSpec=
 <anim id="Serious" target="actor" targetSpec="" />You have to get yours too, darling!<delay frames="30" />
 <anim id="OhGeez" target="actor" targetSpec="" />You can't get to the event without
 one, <tag a="110" b="6" />.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Do you recall the significance of
+October 31st?<delay20 /> I dearly hope you do,
+darling.<pageBreak /><anim id="Dance" target="actor" targetSpec="" />That's Halloween!<delay20 /> Everyone who's
+anyone will be out that night, looking
+for <tag a="50" b="0" arg="0x400 0xcd03" />candy<tag a="110" b="0" />from you.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />So,<delay8 /> stock up on those sweets.<delay20 />
+Because if you don't<tag a="110" b="0" /> Let's just
+say it'll get very interesting!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Halloween is almost here.<delay20 /> I'll have
+you know, I agonized over the
+choice of my costume.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />So,<delay8 /> I hope you've found all the
+<tag a="50" b="0" arg="0x400 0xcd03" />candy you can for tomorrow.<delay20 />
+Or at least enough for me.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />I'll do my part to make sure it's a
+marvelous night.<delay20 /> You just bring the
+candy, <tag a="110" b="6" />!</message>
 </msbt>

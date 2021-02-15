@@ -156,7 +156,7 @@ someone famous. <delay40 />That way I'll be
 more interesting!<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />I'm already interesting? <delay frames="40" /><anim id="Love" target="actor" targetSpec="" />Are you
 trying to get on my good side,
 <tag a="110" b="3" />? <10_4 />It's working!</message>
-	<message label="031" attrib="20 00 00 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />OK. <delay20 />So lately,<delay20 /> I've been craving
+	<message label="031" attrib="20 00 00 01 00 00 00 0a"><anim id="Greeting" target="actor" targetSpec="" />OK. <delay20 />So lately,<delay20 /> I've been craving
 <tag a="135" b="3" arg="0xcd00" /> nonstop.</message>
 	<message label="032" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x21 0x22 0x23" /></message>
 	<message label="033" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />It's one of those classic dishes
@@ -184,4 +184,26 @@ thing of gastronomic beauty.
 than a red-carpet look inspired by a
 gorgeous gourmet meal?
 <anim id="EmotEnd" target="actor" targetSpec="" />Nothing!</message>
+	<message label="036" attrib="25 00 00 01 00 00 00 0a">I'm on a mission today.<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />This gal isn't
+stopping until she's taken a CHOICE
+selfie with EVERY NookPhone filter!</message>
+	<message label="037" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x26 0x27 0x28" /></message>
+	<message label="038" attrib="00 00 00 00 00 00 00 00">For example<tag a="110" b="0" />peep the "Soft" filter.<delay20 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />So sweet.<delay8 /> So chic.<delay8 /> So fashionably
+fuzzy and fluffy, don't you fink?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Yep. This filter makes me look très,
+très innocent<tag a="110" b="0" /> <anim id="Grin" target="actor" targetSpec="" />It fools 'em every
+time, heh heh.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />You know what I'm talking about,
+right?<delay20 /> Yeah, you get it.<delay20 /> <anim id="Love" target="actor" targetSpec="" />Filters are
+a trendsetter's best accomplice!</message>
+	<message label="039" attrib="00 00 00 00 00 00 00 00">I'm all about the "Pop" filter lately.<delay20 />
+<anim id="HappyFlower" target="actor" targetSpec="" />It makes any food pic look five times
+yummier!<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />I've done the math.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />It, uh, also makes food stains look
+five times more embarrassing.<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />I have got to stop batch uploading
+my lunch photos without checking
+them first.<delay20 /> Ugggh.</message>
+	<message label="040" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Have you tried the "Dramatic" filter?<delay20 />
+It can make a boring ol' shot look
+like a <anim id="EmotEnd" target="actor" targetSpec="" />SUPER-captivating moment!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I've been testing it out on the local
+scenery first.<delay20 /> I need to make sure it
+won't make me<tag a="110" b="0" /><anim id="Pardon" target="actor" targetSpec="" />TOO powerful.</message>
 </msbt>

@@ -28,19 +28,19 @@ wanted to say that.</message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />So I guess someone named
 <tag a="115" b="1" arg="0xcd00" /> is gonna be
-moving into that new spot<tag a="110" b="0" />
+moving into that open spot<tag a="110" b="0" />
 <anim id="QuestionMark" target="actor" targetSpec="" />What do you think I should make for
 a welcoming gift?<delay20 /> <tag a="50" b="3" /><tag a="135" b="3" arg="0xcd00" />
 or <tag a="135" b="7" arg="0xcd00" />?</message>
 	<message label="005_02" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I heard that someone already
-claimed that new spot here on
+claimed that open spot here on
 <tag a="110" b="8" />, <tag a="110" b="5" />.
 <anim id="QuestionMark" target="actor" targetSpec="" />Do you think they'll be more into
 <tag a="135" b="4" arg="0xcd00" /> or <tag a="135" b="8" arg="0xcd00" />?<delay frames="40" />
 <anim id="SmugFace" target="actor" targetSpec="" />Why not both, right?</message>
-	<message label="005_03" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Remember how there was some
-land for sale, <tag a="110" b="5" />?<delay20 /> <anim id="Grin" target="actor" targetSpec="" />Well,
-I guess someone bought it!
+	<message label="005_03" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Remember how there was an open
+spot, <tag a="110" b="5" />?<delay20 /> <anim id="Grin" target="actor" targetSpec="" />Well, I guess
+someone bought it!
 <anim id="AbsentMindedness" target="actor" targetSpec="" />Yeah, I guess their name is
 <tag a="115" b="1" arg="0xcd00" /> or something.<delay20 />
 <anim id="Nodding" target="actor" targetSpec="" />Can't wait to meet <gender3 m="him" f="her" />!</message>

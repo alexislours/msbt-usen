@@ -135,6 +135,11 @@ care of it, I promise.</message>
 	<message label="414" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Oh, but<tag a="110" b="0" /><delay20 /> Do you think <colour id="3" />Blathers<colour id="65535" />
 is gonna want it instead?<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />I hate to say it, but maybe you
 should show it to him first<tag a="110" b="0" /></message>
+	<message label="415" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<delay frames="40" />
+Super big and plump too!</message>
+	<message label="416" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Thanks for the pumpkin power! <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />You
+can never have too many of these.
+They're good for all sorts of stuff!</message>
 	<message label="501" attrib="00 00 00 00 00 00 00 00">Huh?<delay frames="40" />
 <anim id="Surprised" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?!</message>
 	<message label="502" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Wait! Uh, <tag a="110" b="4" />?<delay frames="40" />

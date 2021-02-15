@@ -52,4 +52,15 @@ excited? <delay20 />'Cause I'm excited!<pageBreak /><anim id="Explain" target="a
 sure to check with him tomorrow!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />The ticket will get you to a special
 May Day island. <delay20 />Cool, huh?<delay frames="40" /> <anim id="HappyFlower" target="actor" targetSpec="" />I'm
 gonna pack some snacks for my trip!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00">Ooh! <delay8 />Didja check your calendar?<delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />
+October 31st is coming up<tag a="110" b="0" /><delay frames="30" /><anim id="BigSmile" target="actor" targetSpec="" />and that
+means it's gonna be Halloween!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Better stock up on <tag a="50" b="0" arg="0x400 0xcd03" />candy,<delay8 /> 'cause
+everyone's gonna want some!<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />Me especially, <tag a="110" b="6" />!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Aaaaah! It's almost heeeere!<delay8 />
+Tomorrow is FINALLY Halloween!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You know what's great? Seeing
+everyone's costumes!<delay20 /> But you know
+what's even better?<delay8 /><anim id="AbsentMindedness" target="actor" targetSpec="" /> C<delay8 />A<delay8 />N<delay8 />D<delay8 />Y<delay8 />.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />A huh huh! I wonder if I can beat
+last year's haul record.<delay20 /><anim id="Serious" target="actor" targetSpec="" /> You're gonna
+help, right, <tag a="110" b="3" />?</message>
 </msbt>

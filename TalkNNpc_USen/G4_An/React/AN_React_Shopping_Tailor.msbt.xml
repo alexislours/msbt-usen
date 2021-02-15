@@ -55,9 +55,8 @@ socks thing, <tag a="110" b="5" />.</message>
 some wall decor.
 <anim id="Worried" target="actor" targetSpec="" />I don't know. <delay20 />I have no idea what
 else I'd do with 'em, <tag a="110" b="5" /><tag a="110" b="0" /></message>
-	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Wow! <delay20 />I used to love these things!<delay frames="40" />
-<anim id="Grin" target="actor" targetSpec="" />I bet I could REALLY spook the
-others with one, <tag a="110" b="5" />!</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Wow! <delay8 />I used to love these!<delay20 /> <anim id="Scheming" target="actor" targetSpec="" />I bet I
+could fool the others good with one.</message>
 	<message label="051" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" />Hey, what's up?<delay20 /> <anim id="Shocked" target="actor" targetSpec="" />Whoa! <delay8 />Are those
 your designs?<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />Looks awesome!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />You've got some serious talent. <delay8 />I'm
 kinda jealous, <tag a="110" b="5" />.</message>

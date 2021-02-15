@@ -1,5 +1,6 @@
 <msbt attribsize="8">
-	<message label="999" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><anim id="Eh" target="actor" targetSpec="" />Ooh, look! <delay20 /><20_2 arg="9" /><tag a="50" b="3" /><tag a="50" b="2" />
+	<message label="999" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="999_01" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><anim id="Eh" target="actor" targetSpec="" />Ooh, look! <delay20 /><20_2 arg="9" /><tag a="50" b="3" /><tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" />!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Nodding" target="actor" targetSpec="" />Having something like this outside
 totally spices up my island stroll!</message>
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" />That <20_2 arg="9" /><tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /><pageBreak /><20_3 arg="3" /><anim id="QuestionMark" target="actor" targetSpec="" />If I get tired during my walk, or my
@@ -93,9 +94,9 @@ fancy <tag a="110" b="15" />, you know?</message>
 makes an easy-to-remember
 landmark, right?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Explain" target="actor" targetSpec="" />So, <delay8 />when I tell everyone,<delay8 /> "Meet me at
 the <tag a="125" b="0" arg="0x0" /> for a
-top-secret concert<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" /> starring moi<tag a="110" b="0" />"
+top secret concert<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" /> starring moi<tag a="110" b="0" />"
 <anim id="HappyDance" target="actor" targetSpec="" />Everyone will know exactly where the
-top-secret concert is, <tag a="110" b="6" />!</message>
+top secret concert is, <tag a="110" b="6" />!</message>
 	<message label="025" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Serious" target="actor" targetSpec="" />THAT'S très weird. <delay8 />What's up with
 the <tag a="125" b="0" arg="0x0" />?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />It looks<tag a="110" b="0" />different. Did it get a
 makeover or something?<pageBreak /><20_3 arg="6" /><20_3 arg="3" />I got a makeover once.<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />But, UGH,<delay8 /> it
@@ -120,4 +121,28 @@ you know?
 <anim id="Smiling" target="actor" targetSpec="" />But who cares!<delay8 /> It's from the OCEAN!<delay20 />
 And I <anim id="Love" target="actor" targetSpec="" />LOVE seeing it up close like
 this, weirdness and all!</message>
+	<message label="028" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Aha" target="actor" targetSpec="" />Oh.<delay8 /> My.<delay8 /> Gosh.<delay20 /> Look at that photo!<delay20 />
+Who is this SUPERSTAR?<delay20 /><pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="BigSmile" target="actor" targetSpec="" />Kidding!<delay8 /> I know it's me.<delay20 /> Confidence
+is important, so I have to be my own
+biggest fan<tag a="110" b="0" /><delay20 /> <anim id="SadSpiral" target="actor" targetSpec="" />It's exhausting.<pageBreak /><20_2 arg="10" />Whoever put this photo here?<delay20 />
+<anim id="Love" target="actor" targetSpec="" />TOTES hired as my publicist.</message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="BigSmile" target="actor" targetSpec="" />Aw!<delay20 /> I feel like a kid again when I look
+at <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" />Can you feel it, <tag a="110" b="3" />?<delay20 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />It's a blend of BIG daydreams,
+MAX energy, and ZERO shame.<pageBreak />Hang on<tag a="110" b="0" /> <anim id="Aha" target="actor" targetSpec="" />That's just me NOW!</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" />I always thought this spot needed
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Grin" target="actor" targetSpec="" />Now it's a perfect backdrop for
+mega-trendy photo shoots.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />Ready
+for my close-up, <tag a="110" b="5" />!</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00">It's super, totes amazing how comfy
+and cozy this spot is—<20_2 arg="10" /><20_2 arg="9" />all thanks to
+<tag a="50" b="1" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="AbsentMindedness" target="actor" targetSpec="" />S<delay8 />o<delay8 />o<delay8 />o<delay8 />o<delay8 />o<delay8 />o relaxing.<delay20 /> Makes me feel
+like I'm home<tag a="110" b="0" /><anim id="BigSmile" target="actor" targetSpec="" />which is great,
+because I live here, <tag a="110" b="5" />!<delay20 /></message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Eh" target="actor" targetSpec="" />Uh-oh!<delay20 /> The mean outdoors doesn't
+seem like a very safe place to put
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Oh! Duh!<delay20 /> Must be weatherproof.<delay20 />
+<20_3 arg="6" /><20_3 arg="3" />That is LEGIT inspiring.<pageBreak />I'll learn how to perform in harsh
+conditions too!<delay20 /> <20_2 arg="10" /><anim id="SmugFace" target="actor" targetSpec="" />You and I are rivals
+now, <tag a="125" b="0" arg="0x0" />!</message>
 </msbt>

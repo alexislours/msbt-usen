@@ -148,7 +148,7 @@ see—<delay20 />everybody, duh?<delay20 />—<anim id="HappyDance" target="acto
 stay up and watch!<pageBreak />I always oversleep the next day,
 but it's OK. <anim id="Sleepy" target="actor" targetSpec="" /><delay20 />I don't actually
 have any responsibilities!</message>
-	<message label="104" attrib="69 00 00 01 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />What are your thoughts on those
+	<message label="104" attrib="69 00 00 01 00 00 00 09"><anim id="Hesitate" target="actor" targetSpec="" />What are your thoughts on those
 little toys<delay8 /> that come inside snack
 and candy packages?
 <anim id="Silent" target="actor" targetSpec="" />Yeah,<delay20 /> I think they're, like,<delay20 /> whatever.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Except that's a lie. <delay40 /><anim id="Frantic" target="actor" targetSpec="" />They're
@@ -177,4 +177,31 @@ Underwater <capitaliseNextWord /><tag a="135" b="8" arg="0xcd00" />
 Love Triangle.
 I<anim id="FaintSmile" target="actor" targetSpec="" />'ll probably never watch the show,<delay8 />
 <anim id="Love" target="actor" targetSpec="" />but the key chain is totes adorbs.</message>
+	<message label="109" attrib="6e 00 00 01 00 00 00 09">My wallet just took a critical hit<tag a="110" b="0" />
+<anim id="HappyFlower" target="actor" targetSpec="" />but I'm SO happy!<delay20 /> Guess what I
+bought, <tag a="110" b="3" />!</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x6f 0x70 0x71" /></message>
+	<message label="111" attrib="72 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />My favorite cult-hit musical is on
+tour, and I scored a front-row ticket!<delay20 />
+<anim id="Serious" target="actor" targetSpec="" />I'm totes, mega, SUPES excited.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I've been singing all of the songs for
+months, obvs<tag a="110" b="0" />so I'm MOST excited
+for the audience in-jokes.<pageBreak />I can't wait for the first act break.
+That's when everyone screams <anim id="Laughing" target="actor" targetSpec="" />and
+tosses <tag a="50" b="2" /><tag a="135" b="5" arg="0xcd00" /> onstage!</message>
+	<message label="112" attrib="72 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />My favorite romance manga and my
+favorite snack brand teamed up for
+the fabbest cross promotion ever!<delay20 /><pageBreak />They printed all of the characters on
+different chips and<tag a="110" b="0" /> Wait.<delay20 /> <anim id="Shocked" target="actor" targetSpec="" />OH NO!<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />Ohhh, I can't snack on my favorite
+chips when they look like my favorite ships!<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />At least the bag looks fab.</message>
+	<message label="113" attrib="72 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />I just treated myself to a new game!<delay20 />
+It was featured in the latest gaming
+column of Ms. Nintendique.<pageBreak />It has all my favorite game things!<delay20 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Custom mechs.<delay8 /> Flirty dialogue trees.<delay8 />
+Rhythm-based <tag a="135" b="6" arg="0xcd00" /> battles.<pageBreak />It even has a cute fishing minigame!<delay20 />
+<anim id="Negative" target="actor" targetSpec="" />I don't know why fishing is so much
+fun in video games.<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />It just is!</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />There's nothing as satisfying as
+spending your money on things you
+love, love, LOVE, <tag a="110" b="5" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Although<tag a="110" b="0" />I do love a who<delay8 />o<delay8 />o<delay8 />ole lot
+of things.<delay20 /> <anim id="SadSpiral" target="actor" targetSpec="" />Sorry, wallet.</message>
 </msbt>

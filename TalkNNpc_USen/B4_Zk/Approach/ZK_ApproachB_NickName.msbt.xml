@@ -93,6 +93,11 @@ day of the rest of your life as
 <tag a="110" b="3" />, my friend!</message>
 	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />What are you doing?<delay frames="40" /> <anim id="Frantic" target="actor" targetSpec="" />You can't just
 leave me hangin'!</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />Wait, let me just get this straight<tag a="110" b="0" /><delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />You want to change your name back
+to what it was before?<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />Bringing back a classic brand—I love
+it! <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Alright, from now on, I'll call you
+<tag a="110" b="1" />, <tag a="110" b="5" />!</message>
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Alright, <tag a="110" b="3" />!<delay frames="40" /> <anim id="Dance" target="actor" targetSpec="" />I'll be
 sure to call you <tag a="110" b="3" />!</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />No? <delay frames="40" /><anim id="Pardon" target="actor" targetSpec="" />Alright, I respect that, even

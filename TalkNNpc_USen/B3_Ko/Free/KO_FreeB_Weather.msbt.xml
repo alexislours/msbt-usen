@@ -32,9 +32,9 @@ tree will sprout from it, right?
 me, and it's what I tell every
 youngster to scare 'em.<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> Gahaha!</message>
 	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x1a 0x1b 0x1c" /></message>
-	<message label="029" attrib="1e 00 00 05 00 09 00 00"><anim id="Hello" target="actor" targetSpec="" />So you're the wakeful sort too?<10_4 />
-<anim id="FaintSmile" target="actor" targetSpec="" />Well, this is some great weather
-for stayin' out late, so lucky us!</message>
+	<message label="029" attrib="1e 00 00 05 00 09 00 00"><anim id="Hello" target="actor" targetSpec="" />You're the wakeful sort too?<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Well, we
+got us some great weather for stayin'
+out, so lucky us, <tag a="110" b="6" />!</message>
 	<message label="030" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="030_01" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Soakin' up sunshine is nice and all,<anim id="FaintSmile" target="actor" targetSpec="" />
 but there's nothin' like moonlight

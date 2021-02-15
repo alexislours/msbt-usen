@@ -62,4 +62,14 @@ situation like this<tag a="110" b="0" /><pageBreak /><anim id="Frantic" target="
 question everyone I meet!<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Or<tag a="110" b="0" /><delay40 />I could go to<colour id="1" /> Resident Services<delay20 /><anim id="Thinking" target="actor" targetSpec="" /><colour id="65535" />
 tomorrow and talk to <colour id="3" />Tom Nook<colour id="65535" />.<delay40 />
 <anim id="EmotEnd" target="actor" targetSpec="" />Yeah,<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> that makes more sense.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Halloween is almost here,
+<tag a="110" b="3" />! We've got to
+stock up on <tag a="50" b="0" arg="0x400 0xcd03" />candy!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Oh, wait<tag a="110" b="0" /> <anim id="Sighing" target="actor" targetSpec="" />What should I dress up
+as?<delay8 /> So many options!<delay20 /><anim id="OhGeez" target="actor" targetSpec="" /> And so little
+time left to decide, <tag a="110" b="6" />.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00">Halloween is here tomorrow. <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />Did
+you pick out your costume yet?
+<anim id="SmugFace" target="actor" targetSpec="" />I finally chose mine!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />My only worry is whether I have
+enough <tag a="50" b="0" arg="0x400 0xcd03" />candy. <delay20 />Hmm<tag a="110" b="0" /> <anim id="Frantic" target="actor" targetSpec="" />I think I need
+more, <tag a="110" b="6" />!</message>
 </msbt>

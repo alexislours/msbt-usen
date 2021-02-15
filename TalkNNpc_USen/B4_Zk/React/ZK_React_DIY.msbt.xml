@@ -50,4 +50,31 @@ phenomenon, <tag a="110" b="5" />!</message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Here's that recipe for making <tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" />. <delay frames="40" /><anim id="Explain" target="actor" targetSpec="" />Should
 be easy enough to follow.</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Now, you're gonna need pumpkins
+for that recipe. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />But the good news
+is that you can just grow them!</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />By the way, if you want something
+more unique—dare I say designer—
+use a different-colored pumpkin!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />The final color of the item you craft
+will match the color of the pumpkin
+you used.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I wish I could tell you how to grow
+the exact color of pumpkin you want,
+but you just have to grow a bunch.</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I'm so glad you came back for
+this. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Here you go, <tag a="110" b="5" />!</message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I'd tell you more about the recipe,
+but you already know this one,
+don't you, <tag a="110" b="5" />!</message>
+	<message label="034" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, I can't let you leave without
+SOME kind of swag. <delay20 />Here, take a
+few of the ingredients!</message>
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I grew those <colour id="1" />pumpkins <colour id="65535" />with organic
+<tag a="110" b="8" /> sunlight and free-
+range <tag a="110" b="10" /> smiles.</message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Well, it's not exactly a recipe, but it
+is pretty sweet of me<tag a="110" b="0" /><delay20 /><anim id="SmugFace" target="actor" targetSpec="" />if I do say
+so myself. <delay20 />Here's some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Halloween is coming up, right?</message>
+	<message label="037" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />I'd say hold on to that <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy <colour id="65535" />until
+the big Halloween party starts.<delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" />
+You'll see why when it gets here!</message>
 </msbt>

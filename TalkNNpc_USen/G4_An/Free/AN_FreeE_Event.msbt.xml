@@ -1,9 +1,7 @@
 <msbt attribsize="8">
-	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Someone was talking up a big event
-thing happening soon, <delay20 />but I didn't
-catch what it was, <tag a="110" b="5" />!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Gah! <delay20 />I hate mysteries!<delay20 /> <anim id="Frantic" target="actor" targetSpec="" />Do I need to
-get anything ready? <delay20 />Should I bring
-snacks? <delay20 />I'm goin' nuts here!</message>
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Some kind of big event thing's gonna
+happen soon,<delay20 /> but I didn't catch what
+it was.<delay20 /> <anim id="Frantic" target="actor" targetSpec="" />Gah! <delay8 />I hate mysteries!</message>
 	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />All set for the big shindig tomorrow?<delay frames="40" />
 <anim id="Nodding" target="actor" targetSpec="" />I'm so ready! <delay20 /><tag a="50" b="3" /><tag a="110" b="8" />'s
 never seen anything like it!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I love watching everyone get so
@@ -61,4 +59,11 @@ needing a <colour id="1" />May Day Ticket<colour id="65535" /> to go, <delay8 />
 that's it.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />He can really keep a secret!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Oh well. <delay20 />Tomorrow's May Day, and
 <colour id="3" />Tom Nook<colour id="65535" /> told me he'd fill us in then.<delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />
 I guess we're waitin', <tag a="110" b="5" />.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It's almost Halloween! <delay20 />October 31st
+is right around the corner.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Better get your <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" /> and costume in
+gear,<delay20 /> <anim id="HappyDance" target="actor" targetSpec="" />'cause this Halloween is gonna
+rock super hard, <tag a="110" b="5" />!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Tomorrow! <delay8 />Halloween! <delay8 />Tricks! <delay8 />Treats!
+<delay8 />You ready? <delay8 />You got a costume picked
+out?<delay8 /> <anim id="BigSmile" target="actor" targetSpec="" />I'm so hyped, <tag a="110" b="5" />!</message>
 </msbt>

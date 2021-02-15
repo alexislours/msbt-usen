@@ -1,5 +1,6 @@
 <msbt attribsize="8">
-	<message label="999" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />I feel like folks can tell way too
+	<message label="999" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="999_01" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />I feel like folks can tell way too
 much about me just by looking at
 my place.
 <anim id="Angry" target="actor" targetSpec="" />Stop giving away my secrets,
@@ -124,4 +125,24 @@ museum. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />But with ex
 like this on display, it's educational.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Just don't go digging around in my
 closet, or you might learn TOO much.<delay frames="40" />
 <anim id="Worried" target="actor" targetSpec="" />Ha<tag a="110" b="0" />HA<tag a="110" b="0" /></message>
+	<message label="028" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Blushing" target="actor" targetSpec="" />Oh, this is embarrassing. <delay20 />I don't
+usually put my headshots on display
+like this<tag a="110" b="0" /><pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="SmugFace" target="actor" targetSpec="" />I usually put 'em on billboards in
+bright lights! <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Ha HA!</message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Eh" target="actor" targetSpec="" />Hmm? <delay20 />You checking out my old
+<tag a="125" b="0" arg="0x0" />?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="AbsentMindedness" target="actor" targetSpec="" />Sure brings back a lot of memories.<delay20 />
+Of course, I don't play with things
+like that anymore. <delay20 /><anim id="Blushing" target="actor" targetSpec="" />Nope. <delay8 />Not at all.</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="WrySmile" target="actor" targetSpec="" />Ah, checking out my sophisticated
+<tag a="125" b="0" arg="0x0" />, hm?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="SmugFace" target="actor" targetSpec="" />I think you'll find my place is FILLED
+with things that make me seem
+mature and smart.<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />I mean<tag a="110" b="0" />I AM mature and smart.</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="WrySmile" target="actor" targetSpec="" />Oh? <delay20 />Didn't expect moi to have
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="SmugFace" target="actor" targetSpec="" />Well, I'll tell you<tag a="110" b="0" /><delay20 />I am just FULL of
+surprises. <delay20 /><anim id="Thinking" target="actor" targetSpec="" />Like, uh<tag a="110" b="0" /><10_4 /> <anim id="OhGeez" target="actor" targetSpec="" />Well, I guess
+that's the only one, <tag a="110" b="5" />.</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Grin" target="actor" targetSpec="" />Ha HA! <delay20 />Caught you looking at my
+<tag a="125" b="0" arg="0x0" />!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="SmugFace" target="actor" targetSpec="" />Yeah, I've got a lot of fancy stuff.<delay20 />
+But it's all functional!<delay20 /> <anim id="Worried" target="actor" targetSpec="" />I use it all
+every day, <tag a="110" b="5" />!</message>
 </msbt>

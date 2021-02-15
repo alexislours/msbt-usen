@@ -54,4 +54,14 @@ needing a <colour id="1" />May Day Ticket<colour id="65535" /> to go,<delay8 />
 but so far that's all I know.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I'm so pumped. <delay20 /><colour id="3" />Tom Nook <colour id="65535" />says he's
 not gonna give us the play-by-play
 till tomorrow,<delay8 /> <anim id="Smiling" target="actor" targetSpec="" />but I wanna know now!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You know what October 31st is,
+right?<delay20 /> Other than leg day?<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />It's Halloween, <tag a="110" b="3" />!<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />It's the one day when I measure my
+gains in <tag a="50" b="0" arg="0x400 0xcd03" />candy rather than fitness, so
+I hope you're stocking up now!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It's finally gonna be Halloween
+tomorrow, <tag a="110" b="5" />!<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />I can't wait to show off my costume.<delay20 />
+It really highlights a certain muscle
+group that I'm proud of.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Aw, who am I kidding.<delay20 /> I'm proud
+of all of 'em!</message>
 </msbt>

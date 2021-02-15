@@ -1,16 +1,12 @@
 <msbt attribsize="4">
 	<message label="001" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Well, hello there, <tag a="110" b="1" />!</message>
-	<message label="003" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />As always, I must offer my hearty
-congratulations. <delay20 />You've paid off
-your loan in full!
-<anim id="Smiling" target="actor" targetSpec="" />I expected nothing less, of course,
-but occasions like these are cause
-for celebration, hm?
-<anim id="Thinking" target="actor" targetSpec="" />I suppose they're also a good time to
+	<message label="003" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I must offer a hearty congratulations.
+<delay20 />You've paid off your loan in full!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'd expect nothing less, of course,
+but such a milestone is certainly
+cause for celebration, hm?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I suppose they're also a good time to
 take stock and reflect. <delay20 />Yes, yes!<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />I'm sure your home is quite comfy in
 its current configuration. <delay frames="40" /><anim id="Shocked" target="actor" targetSpec="" />But what
-if it could be bigger?
-<anim id="Grin" target="actor" targetSpec="" />Oho!<delay20 /> I assure you that it can,<delay20 />
+if it could be bigger?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Oho!<delay20 /> I assure you that it can,<delay20 />
 indeed, <delay20 />be bigger.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />A bigger home means more space for
 furniture—and more storage too!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />And now that I have introduced some
 possibilities, I will leave it at that.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Do please come see me if you'd
@@ -27,76 +23,68 @@ be considered better<tag a="110" b="0" />
 <anim id="OhGeez" target="actor" targetSpec="" />Oh, don't mind me. <delay20 />I simply can't
 help myself.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />But DO come see me if I've
 piqued your interest<tag a="110" b="0" /></message>
-	<message label="005" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Thank you once again for the diligent
+	<message label="005" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />I must thank you for the diligent
 repayment of your home loan.<delay20 />
 Yes, yes!
-<anim id="QuestionMark" target="actor" targetSpec="" />I must ask<tag a="110" b="0" /><delay20 /> Were your prompt
-payments motivated by a desire
+<anim id="QuestionMark" target="actor" targetSpec="" />I must ask<tag a="110" b="0" /><delay20 /> Were your payments
+by any chance motivated by a desire
 for expansion?
 <anim id="Hesitate" target="actor" targetSpec="" />Because, if so, I have good news.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I
 would be more than happy to extend
-you further credit for construction.
+you credit for further construction.
 <anim id="Nodding" target="actor" targetSpec="" />Do please come see me if you'd like
 to discuss the details more, hm?</message>
-	<message label="006" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Thank you once again for the diligent
+	<message label="006" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />I must thank you for the diligent
 repayment of your home loan.<delay20 />
 Yes, yes!
-<anim id="QuestionMark" target="actor" targetSpec="" />I must ask<tag a="110" b="0" /><delay20 /> Were your prompt
-payments motivated by a desire
+<anim id="QuestionMark" target="actor" targetSpec="" />I must ask<tag a="110" b="0" /><delay20 /> Were your payments
+by any chance motivated by a desire
 for expansion?
 <anim id="Hesitate" target="actor" targetSpec="" />Because, if so, I have good news.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I
 would be more than happy to extend
-you further credit for construction.
+you credit for further construction.
 <anim id="Nodding" target="actor" targetSpec="" />Do please come see me if you'd like
 to discuss the details more, hm?</message>
-	<message label="007" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Thank you once again for the diligent
+	<message label="007" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />I must thank you for the diligent
 repayment of your home loan.<delay20 />
 Yes, yes!
-<anim id="QuestionMark" target="actor" targetSpec="" />I must ask<tag a="110" b="0" /><delay20 /> Were your prompt
-payments motivated by a desire
+<anim id="QuestionMark" target="actor" targetSpec="" />I must ask<tag a="110" b="0" /><delay20 /> Were your payments
+by any chance motivated by a desire
 for expansion?
 <anim id="Hesitate" target="actor" targetSpec="" />Because, if so, I have good news.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I
 would be more than happy to extend
-you further credit for construction.
+you credit for further construction.
 <anim id="Nodding" target="actor" targetSpec="" />Do please come see me if you'd like
 to discuss the details more, hm?</message>
-	<message label="008" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Let me offer you yet another hearty
-congratulations!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />From one entrepreneur to another,
+	<message label="008" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Please allow me to offer my most
+enthusiastic congratulations!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />From one entrepreneur to another,
 you certainly seem to have a knack
-for managing your Bells. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />Yes, yes!
-<anim id="AbsentMindedness" target="actor" targetSpec="" />Indeed<tag a="110" b="0" /> Think of how far you've
-come<tag a="110" b="0" /><delay20 /> From a simple tent to a
-grand two-story home. <delay20 />Remarkable!
-<anim id="Thinking" target="actor" targetSpec="" />Now, surely, you have no need
+for managing your Bells. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />Yes, yes!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Indeed<tag a="110" b="0" /> Think of how far you've
+come to own a two-story home<tag a="110" b="0" /><delay8 />
+Remarkable!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Now, surely, you have no need
 of additional space. <delay20 />And yet<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />where would we be if we never
 shot for the moon? <delay frames="40" /><anim id="Angry" target="actor" targetSpec="" />Certainly not
-living on this island paradise!
-<anim id="Explain" target="actor" targetSpec="" />So, with no agenda of procuring
-further business, I tell you<tag a="110" b="0" /><delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" />that
-I can build you a <colour id="1" />basement<colour id="65535" />.
-<anim id="Grin" target="actor" targetSpec="" />Do with that information what
+living on this island paradise!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So, with no agenda of procuring
+additional business, I tell you<tag a="110" b="0" /><delay frames="40" />
+<anim id="WrySmile" target="actor" targetSpec="" />that I can build you a <colour id="1" />basement<colour id="65535" />.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Do with that information what
 you will, and once again<tag a="110" b="0" /><delay20 />
 <anim id="HappyFlower" target="actor" targetSpec="" />congratulations!</message>
 	<message label="009" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />My goodness, you've done it.<delay20 />
 You've paid off your home-
-renovation loan in full. <delay20 />Again.
-<anim id="SmugFace" target="actor" targetSpec="" />As of this moment, you're debt-free
+renovation loan in full!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Congratulations! <delay20 />You're debt-free
 and set for life in an amazing,
-spacious island home! <delay20 />Yes, yes!
-<anim id="Angry" target="actor" targetSpec="" /><tag a="110" b="0" />I know you're just waiting for
-me to offer you another expansion,
-but we've reached the end of that.
-<anim id="Scheming" target="actor" targetSpec="" />But I have something else to offer
-you. <delay20 />For free, of course.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Nook Inc. guarantees our work for
-life, and as a small token of our
-appreciation<tag a="110" b="0" />
-<anim id="BigSmile" target="actor" targetSpec="" />we are proud to offer you a lifetime
+spacious island home! <delay20 />Yes, yes!<pageBreak /><anim id="Angry" target="actor" targetSpec="" /><tag a="110" b="0" />I know you're just waiting for me
+to offer to expand your home, but
+your house is as grand as it gets.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />I have something else to offer,
+however! <delay20 />For free, of course.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Nook Inc. guarantees its work for
+life, and as a small token of my
+appreciation<tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I am proud to offer you a lifetime
 of free exterior renovations!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Limit one per day, terms and
 conditions apply. <delay20 />Yes, yes<tag a="110" b="0" />
 I'm legally required to say that<tag a="110" b="0" />
-<anim id="HappyFlower" target="actor" targetSpec="" />I hope Nook Inc. can still be of
-service to you for years to come.<delay20 />
-And once again, congratulations!</message>
+<anim id="HappyFlower" target="actor" targetSpec="" />I hope Nook Inc. can be of service to
+you for years to come.<delay20 /> And once
+again, congratulations!</message>
 	<message label="011" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Well, hello there, <tag a="110" b="1" />!</message>
 	<message label="012_01" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are you happy with your home? Is it
 meeting your expectations?<10_4 /><anim id="HappyFlower" target="actor" targetSpec="" /> I bet

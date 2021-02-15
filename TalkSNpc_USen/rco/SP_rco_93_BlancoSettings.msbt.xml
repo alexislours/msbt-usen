@@ -1,5 +1,5 @@
 <msbt attribsize="4">
-	<message label="001" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />NookLink settings?<delay20 /> Of course!
+	<message label="001" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><colour id="1" />NookLink<colour id="65535" /> settings?<delay20 /> Of course!
 Of course!</message>
 	<message label="010" attrib="04 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Then are you ready to connect to
 the internet and get set up with
@@ -8,10 +8,16 @@ the internet and get set up with
 	<message label="010_b" attrib="00 00 00 00">I'd like the details.</message>
 	<message label="010_c" attrib="00 00 00 00">No, thank you.</message>
 	<message label="015" attrib="02 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />, I believe you are
-<anim id="EmotEnd" target="actor" targetSpec="" />already able to access NookLink.<delay frames="30" />
+<anim id="EmotEnd" target="actor" targetSpec="" />already able to access <colour id="1" />NookLink<colour id="65535" />.<delay frames="30" />
 <anim id="QuestionMark" target="actor" targetSpec="" />Did you want to hear an explanation?</message>
 	<message label="015_a" attrib="00 00 00 00">Yes. Details, please!</message>
 	<message label="015_b" attrib="00 00 00 00">No, thank you.</message>
+	<message label="016" attrib="04 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I believe you are already able to
+access <colour id="1" />NookLink<colour id="65535" />, <delay frames="30" /><anim id="QuestionMark" target="actor" targetSpec="" />so how can I
+help you, <tag a="110" b="1" />?</message>
+	<message label="016_a" attrib="00 00 00 00">What is NookLink?</message>
+	<message label="016_b" attrib="00 00 00 00">Upload my play data!</message>
+	<message label="016_c" attrib="00 00 00 00">I don't need anything.</message>
 	<message label="020" attrib="04 00 00 00">That sums up everything.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Are you ready to connect to the
 internet and get set up with
 <colour id="1" />NookLink<anim id="Hello" target="actor" targetSpec="" /><colour id="65535" /> access?</message>
@@ -28,8 +34,8 @@ the <colour id="1" />Nintendo Switch Online app<colour id="65535" />.</message>
 	<message label="120" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><delay8 />I hope you continue to enjoy life on
 <tag a="110" b="9" />.</message>
 	<message label="150" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I'm terribly sorry, but it seems the
-setup process failed. <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />Do you want
-to give it another try?</message>
+process failed. <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />Do you want to give
+it another try?</message>
 	<message label="150_a" attrib="00 00 00 00">Try again.</message>
 	<message label="150_b" attrib="00 00 00 00">Some other time.</message>
 	<message label="151" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />To use this service, you'll need
@@ -37,6 +43,15 @@ someone to turn on<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> 
 with Others<colour id="65535" /><delay8 /> in Parental Controls.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />For now,<delay8 /><anim id="Nodding" target="actor" targetSpec="" /> let's go back to the title
 screen so you can continue having
 fun. Yes, yes!</message>
+	<message label="160" attrib="02 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Yes, yes, <delay20 />I can help you connect to
+the internet to upload the play data
+and profile used in <colour id="1" />NookLink<colour id="65535" />.<pageBreak />Are you<delay8 /> <anim id="Hello" target="actor" targetSpec="" />ready to connect to the
+internet now?</message>
+	<message label="160_a" attrib="00 00 00 00">Yes, please!</message>
+	<message label="160_b" attrib="00 00 00 00">No, thank you.</message>
+	<message label="161" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Your play data has been uploaded!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Don't forget to open up <colour id="1" />NookLink
+<colour id="65535" />with the <colour id="1" />Nintendo Switch Online app<colour id="65535" /><delay8 />
+<anim id="Hello" target="actor" targetSpec="" />when you have a moment.</message>
 	<message label="200" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" /><colour id="1" />NookLink<colour id="65535" /> is a game-specific service
 developed by Nook Inc. for the
 <colour id="1" />Nintendo Switch Online app<colour id="65535" />.<pageBreak />Say you have some custom design

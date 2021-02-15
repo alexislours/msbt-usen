@@ -89,28 +89,64 @@ plenty of water, <tag a="110" b="5" />!</message>
 this time of year?<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Is this part of
 your training or something?!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Ha ha!<delay20 /> Love the intensity, but don't
 catch a cold, <tag a="110" b="5" />!</message>
-	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I can't say I'm the biggest fan of
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="016_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I can't say I'm the biggest fan of
 your <tag a="125" b="5" arg="0xcd00" />.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I just don't think the "cute" look
 shows off my lats the way they
 deserve, <tag a="110" b="5" />.</message>
-	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You go, <tag a="110" b="3" />!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />The only thing cooler than huge
+	<message label="016_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />That outfit you're wearing today
+looks totally ripped, <tag a="110" b="5" />.<delay20 />
+<anim id="Thinking" target="actor" targetSpec="" />No, no<tag a="110" b="0" />that's not right.
+<anim id="BigSmile" target="actor" targetSpec="" />It's shredded! <delay frames="40" /><anim id="Negative" target="actor" targetSpec="" />No<tag a="110" b="0" /><delay frames="40" /> <anim id="IdeaBulb" target="actor" targetSpec="" />Jacked!<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />No<tag a="110" b="0" /><10_4 />
+<anim id="HappyFlower" target="actor" targetSpec="" />CUTE!<delay20 /> It's cute. <delay20 />Sorry, it took me
+a while, but I finally got there.</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="017_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You go, <tag a="110" b="3" />!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />The only thing cooler than huge
 muscles <delay20 />is huge muscles wearing
 <tag a="50" b="2" /><tag a="125" b="5" arg="0xcd00" />!</message>
-	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Keeping it simple with <tag a="50" b="2" />
+	<message label="017_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, I'm not too much for fashion,
+but I wanna say I really like your
+<tag a="125" b="5" arg="0xcd00" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You look effortlessly cool.<delay20 />
+Meanwhile, I gotta flex HARD
+to look cool. <delay20 /><anim id="Pardon" target="actor" targetSpec="" />HRRRRRGH!</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="018_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Keeping it simple with <tag a="50" b="2" />
 <tag a="125" b="5" arg="0xcd00" />, eh?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I get it, <tag a="110" b="5" />.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />You don't
 wanna take any attention away
 from those sublime triceps!</message>
-	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Flexing some stylish muscles in your
+	<message label="018_02" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I get what you're doing with that
+outfit. <delay20 />You don't wanna overshadow
+your natural beauty.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Good for you! <delay20 />I do the same thing
+when I'm feeling fit. Wear basic
+clothes and let the muscles speak!</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="019_01" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Flexing some stylish muscles in your
 <tag a="125" b="5" arg="0xcd00" />, huh?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You're practically glowing<tag a="110" b="0" /><delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />and not
 from workout sweat, <tag a="110" b="5" />!</message>
-	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Whoa! <delay20 />Now we're talking!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />I LOVE
+	<message label="019_02" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wow. <delay20 />You look absolutely stunning
+today, <tag a="110" b="5" />.<pageBreak /><anim id="Love" target="actor" targetSpec="" />From the clothes to the confidence,
+you are rocketing up the leaderboard
+of island style!</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="020_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Whoa! <delay20 />Now we're talking!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />I LOVE
 your <tag a="125" b="5" arg="0xcd00" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Half the fun of having giant muscles
 is showing 'em off!<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />You can't beat
 activewear for that, <tag a="110" b="5" />!</message>
-	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Look at you,<delay20 /> dressed up in
+	<message label="020_02" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, did you take up a new sport?<delay20 />
+<tag a="50" b="3" /><tag a="135" b="6" arg="0xcd00" />, or maybe something
+like <tag a="135" b="6" arg="0xcd01" />?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I ask because you're wearing
+<tag a="50" b="2" /><tag a="125" b="5" arg="0xcd00" />.<pageBreak />It looks like you're ready to
+move, <tag a="110" b="5" />!</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="021_01" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Look at you,<delay20 /> dressed up in
 your <tag a="125" b="5" arg="0xcd00" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Those kinds of clothes can be tough
 on the posture,<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />so be sure to do
 some stretches, <tag a="110" b="5" />!</message>
+	<message label="021_02" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa, you're dressed up!<delay20 /><anim id="Thinking" target="actor" targetSpec="" /> Probably
+gotta be careful not to mess up your
+<tag a="125" b="5" arg="0xcd00" />, huh?<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I can't wear stuff that fancy.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> I need
+to be able to complete a triathlon at
+a moment's notice.</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="101_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You really like that look, don't you?<delay20 />
 That's good! It suits you!</message>
@@ -189,6 +225,48 @@ one were to do a triathlon in it<tag a="110" b="0" />
 <anim id="OhGeez" target="actor" targetSpec="" />Ah, you got me. <delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />I was just looking
 for an excuse to talk about this
 triathlon I'm training for<tag a="110" b="0" /></message>
+	<message label="212" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="7" arg="0xff06 0x0 0xcd01" /></message>
+	<message label="255" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Yo, you are looking sharp today,
+<tag a="110" b="3" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />You can tell we've really been flexing
+our friendship muscle, because we're
+actually starting to look alike.</message>
+	<message label="256" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Something seems different about
+you today, <tag a="110" b="5" /><tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />You look like you could hippity-hop
+your way to the front of a road race.<delay20 />
+<anim id="SmugFace" target="actor" targetSpec="" />I better up my mileage to keep up!</message>
+	<message label="213" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="32" arg="0x2e 0x62 0x65 0x61 0x3e 0x32 0x35 0x37 0x2c 0x63 0x62 0x72 0x3e 0x32 0x35 0x37 0x2c 0x65 0x74 0x63 0x3e 0x32 0x35 0x38" /></message>
+	<message label="257" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa, you're looking strong today,
+<tag a="110" b="5" />.<delay20 /><anim id="Grin" target="actor" targetSpec="" /> I'd almost say you're
+downright grizzly!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I don't wanna get into any kind of
+pose-off or anything, but I'm
+impressed enough to train harder.</message>
+	<message label="258" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />They say you should dress for the
+job you want, so<tag a="110" b="0" /><delay20 /> <anim id="WrySmile" target="actor" targetSpec="" />Have you filed
+your bear application yet?<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Honestly?<delay20 /> I can see it. <delay20 />You're strong,
+you have a good sense of smell,<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> and
+you have razor-sharp 8-inch claws<tag a="110" b="0" /></message>
+	<message label="214" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="7" arg="0x302 0x401 0xcd01" /></message>
+	<message label="259" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Whoa. <delay20 />So you're finally joining
+Team Sheep, huh. <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />Welcome aboard!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />We're fast, strong, and wooly to the
+core. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />I like to think of us as the
+decathletes of the animal kingdom.</message>
+	<message label="260" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />You're dressed a little warmly there,
+aren't you?<delay frames="40" /><anim id="Negative" target="actor" targetSpec="" /> I can't imagine running
+a 10K in that outfit.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Unless<tag a="110" b="0" /> What's the world record for
+a 10K in a sheep outfit?<delay frames="40" /> <anim id="IdeaBulb" target="actor" targetSpec="" />This could
+be my chance!</message>
+	<message label="215" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />There's something about that outfit
+you're wearing that makes me feel
+all warm and fuzzy, <tag a="110" b="5" />.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />It's just so wholesome and pure. It
+feels almost<tag a="110" b="0" />homemade. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Thanks for
+the good vibes—I'm ready to lift now!</message>
+	<message label="216" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, I didn't know you were such a
+frequent flier! <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />What are you doing
+when you visit other islands?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Do you have some kind of secret
+training dojo? <delay frames="40" /><anim id="Frantic" target="actor" targetSpec="" />Are you entering
+fighting tournaments without me?!</message>
+	<message label="217" attrib="00 00 00 00 00 00 00 00"><10_14 arg="20" /><anim id="Cheering" target="actor" targetSpec="" /><tag a="10" b="12" /><size value="150" />TRICK OR TREAT?<size value="100" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_9 /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I'm sorry—I can't NOT say it when
+I see someone dressed like that.</message>
 	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Oh, wow. <delay20 />You look SO COOL in that!<delay20 />
 <anim id="BigSmile" target="actor" targetSpec="" />You're like a martial-arts master in
 your <tag a="125" b="0" arg="0x0" />!<pageBreak /><tag a="10" b="12" /><anim id="Cheering" target="actor" targetSpec="" /><delay20 /><10_10 /><size value="150" />YAAAAHHH!<size value="100" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_9 /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Sorry, I was caught up in the spirit,
@@ -221,6 +299,20 @@ me, aren't you.</message>
 can catch my fastball, you've got
 major-league potential.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Oh, not because it's fast.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />I just can't
 control where I throw it!</message>
+	<message label="307" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, where'd you wrangle up that
+kind of outfit, <tag a="110" b="5" />?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />What's that hat<tag a="110" b="0" />10, 11 gallons?<delay frames="40" />
+<anim id="SmugFace" target="actor" targetSpec="" />Makes for a darn good neck workout
+if you fill it with <tag a="135" b="1" arg="0xcd00" />!</message>
+	<message label="308" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa, did you finally take my
+advice and become a professional
+wrestler, <tag a="110" b="5" />?<pageBreak /><anim id="Cheering" target="actor" targetSpec="" />I'm so AMPED for you!<delay frames="40" /> <anim id="Hesitate" target="actor" targetSpec="" />Do<tag a="110" b="0" />do you
+wanna wrestle right now?<10_4 /> <anim id="Sighing" target="actor" targetSpec="" />N-no?<delay20 />
+Well, that's OK<tag a="110" b="0" />another time<tag a="110" b="0" /></message>
+	<message label="309" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, I didn't know you were into
+hockey! <delay frames="40" /><anim id="IdeaBulb" target="actor" targetSpec="" />We could have been training
+this whole time, <tag a="110" b="5" />!<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Go ahead, body-check me as hard
+as you can! <delay20 />Into the boards!<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />I'm
+tough, but I could still toughen up!</message>
 	<message label="401" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="401_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, I've seen that outfit before.<delay20 /><anim id="Nodding" target="actor" targetSpec="" />
 It still rocks just as hard as the first
@@ -234,4 +326,20 @@ And if it ain't heavy, don't lift it.<delay20 />
 before, weren't you?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Hey, it looks great!<delay20 /> I wouldn't change
 a thing either. <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />Keep on rocking that
 <tag a="110" b="3" /> style!</message>
+	<message label="501" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="501_01" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />There's something different about
+you today<tag a="110" b="0" /><delay frames="40" /> <anim id="Aha" target="actor" targetSpec="" />You been doing more
+lunges or what, <tag a="110" b="5" />?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well, no matter how ripped you get
+or how you disguise yourself,<delay20 /><anim id="Grin" target="actor" targetSpec="" /> I'll
+always know it's you.</message>
+	<message label="501_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, you're all fancy looking today.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />You got a flex-off scheduled, or<tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />You know what?<delay20 /> You don't need a
+reason to look your best. <delay20 /><anim id="HappyDance" target="actor" targetSpec="" />You just
+inspired me, <tag a="110" b="3" />!</message>
+	<message label="501_03" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Hey, what is going on with your
+face today? <delay20 />I barely recognized
+you, <tag a="110" b="3" />!<pageBreak /><anim id="Apologize" target="actor" targetSpec="" />Sorry, I don't mean that in a bad
+way. <delay20 />You look great!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I've tried changing my look with face
+exercising before—it didn't work.<delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" /> But
+I can tow a semi with my teeth now!</message>
 </msbt>

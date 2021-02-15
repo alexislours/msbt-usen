@@ -133,6 +133,33 @@ would like to visit?</message>
 on <delay8 />"Communicating with Others"<delay8 /> in
 Parental Controls in order to dream.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Please come and see me again when
 you are ready.</message>
+	<message label="1051" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Connection established.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />If I may stop
+us for a moment, <delay8 />there is something
+I believe you will be pleased to hear.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />From here on, <delay8 />if you find a uniquely
+pleasant or exciting dream, revisiting
+it will be as simple as asking.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Dreams you have visited recently
+can now be selected from a list,<delay8 />
+to be enjoyed again and again.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />To revisit a dream from your list,<delay8 />
+merely tell me you would like to<delay8 />
+<anim id="Hello" target="actor" targetSpec="" />"<colour id="1" />Revisit a dream.<colour id="65535" />"<delay20 /> Now<tag a="110" b="0" /></message>
+	<message label="1052" attrib="04 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How shall I prepare your dream?</message>
+	<message label="1052_a" attrib="00 00 00 00">Search by Dream Address.</message>
+	<message label="1052_b" attrib="00 00 00 00">Revisit a dream.</message>
+	<message label="1052_c" attrib="00 00 00 00">Never mind.</message>
+	<message label="1055" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Very well.<delay8 /> <anim id="Nodding" target="actor" targetSpec="" />Please select the dream
+you wish to revisit.</message>
+	<message label="1056" attrib="02 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />You wish to revisit the island named
+<tag a="115" b="2" arg="0xcd00" />?<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Is that correct?</message>
+	<message label="1056_a" attrib="00 00 00 00">Yes, it is!</message>
+	<message label="1056_b" attrib="00 00 00 00">Nope.</message>
+	<message label="1057" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Sadly, <delay8 />there is no longer a dream
+filed to that <colour id="1" />Dream Address<colour id="65535" />. <delay8 />Is there
+another dream you wish to visit?</message>
+	<message label="1057_a" attrib="00 00 00 00">Yes, there is!</message>
+	<message label="1057_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="1058" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> There do not appear to be
+any dreams which you can revisit.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />If you wish to dream, <delay8 />I may need you
+to provide a <colour id="1" />Dream Address<colour id="65535" />.</message>
 	<message label="2001" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Of course. <delay20 /><anim id="Serious" target="actor" targetSpec="" />But before we continue,
 there is some <colour id="1" />important information
 <colour id="65535" />you will need to read first.</message>
@@ -233,6 +260,11 @@ with your uploaded dream?</message>
 	<message label="3001_01_b" attrib="00 00 00 00">Adjust Dream Address privacy.</message>
 	<message label="3001_01_c" attrib="00 00 00 00">Delete the dream.</message>
 	<message label="3001_01_d" attrib="00 00 00 00">Never mind.</message>
+	<message label="3002_02_a" attrib="00 00 00 00">Update the dream.</message>
+	<message label="3002_02_b" attrib="00 00 00 00">Adjust Dream Address privacy.</message>
+	<message label="3002_02_c" attrib="00 00 00 00">Adjust Dream Address privacy.</message>
+	<message label="3002_02_d" attrib="00 00 00 00">Delete the dream.</message>
+	<message label="3002_02_e" attrib="00 00 00 00">Never mind.</message>
 	<message label="3101" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />As a precaution, I must first confirm
 your wish to update the dream of
 <tag a="110" b="9" />.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Are you certain?</message>

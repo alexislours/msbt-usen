@@ -161,4 +161,27 @@ in a local entrepreneur.
 <anim id="Blushing" target="actor" targetSpec="" />Don't worry—no matter who ends up
 on our shores,<delay20 /> you'll always hold a
 special place in my heart.</message>
+	<message label="041" attrib="00 00 00 01 00 00 00 0a"><tag a="60" b="13" arg="0x2a 0x2b 0x2c 0x2d" /></message>
+	<message label="042" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I always get kinda bored at this time
+of year and start thinking of ways to
+rebrand myself.
+<anim id="EmotEnd" target="actor" targetSpec="" />Like<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" />I could be a professional
+<tag a="135" b="6" arg="0xcd00" /> star! <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />It won't be easy,
+but I'll grind my way to the top.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />On second thought<tag a="110" b="0" />that sounds like
+work.<delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" /> I'll just THINK about doing it
+while I sip <tag a="135" b="1" arg="0xcd00" />. <delay20 />Ha HA!</message>
+	<message label="043" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Summer is all about getting out there
+and playing in the nice weather. <delay20 />Am I
+right, <tag a="110" b="5" />?<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />And by "playing," I mean <tag a="135" b="4" arg="0xcd00" />
+at full volume with choreographed
+dance moves. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Ha HA!</message>
+	<message label="044" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I just love the breezes at this time
+of year, <tag a="110" b="5" />.<pageBreak /><anim id="Hot" target="actor" targetSpec="" />I'd rather be too hot and get cooled
+off by a breeze than never get too
+hot at all.<delay frames="40" /> <anim id="HappyFlower" target="actor" targetSpec="" />Ahhh!</message>
+	<message label="045" attrib="00 00 00 00 00 00 00 00"><anim id="ColdChill" target="actor" targetSpec="" />Yeah, the snow is pretty, but it's
+so COLD! <delay frames="40" /><anim id="Angry" target="actor" targetSpec="" />Why can't they make hot
+snow, <tag a="110" b="5" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Ugh, to be able to wrap myself in
+a fuzzy snow blanket and take a
+hot winter's nap<tag a="110" b="0" /></message>
 </msbt>

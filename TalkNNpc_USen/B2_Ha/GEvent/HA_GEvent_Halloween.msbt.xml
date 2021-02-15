@@ -1,0 +1,201 @@
+<msbt attribsize="8">
+	<message label="000" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Isn't Halloween the best?<10_4 />
+<anim id="Worried" target="actor" targetSpec="" />Ooh, except when you get
+tricked<tag a="110" b="0" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I guess you should probably watch
+out for anyone wandering around
+in costume today.<pageBreak /><anim id="Aha" target="actor" targetSpec="" />Unless you have a treat!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> I mean,
+DO you have a treat?<delay20 /> Asking for
+me, because<tag a="110" b="0" /></message>
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><tag a="10" b="12" /><anim id="Cheering" target="actor" targetSpec="" /><size value="100" /><delay20 /><10_10 /><size value="100" /><size value="150" />Trick or treat!<size value="100" /><delay40 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_9 /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Better give me some candy<tag a="110" b="0" />unless
+you wanna be tricked, <tag a="110" b="5" />!</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00">Here, take this!</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">No way.</message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><tag a="10" b="12" /><anim id="Cheering" target="actor" targetSpec="" /><size value="100" /><delay20 /><10_10 /><size value="100" /><size value="150" />Trick or treat!<size value="100" /><delay40 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_9 /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Better give me some candy<tag a="110" b="0" />unless
+you wanna be tricked, <tag a="110" b="5" />!</message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, you were ready for that. <delay20 />And I
+wanted to surprise you with a really
+powerful trick! <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />Oh well<tag a="110" b="0" /></message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Ha! <delay20 />I wasn't really expecting you to
+be ready for that. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />But I'm definitely
+ready for that candy you gave me!</message>
+	<message label="003_01" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Aw, I should probably give you
+something in return, huh. <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />How about
+<tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Perfect for Halloween, right?</message>
+	<message label="003_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Since you're so generous, I'm comin'
+right back atcha. <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />Flex those fingers
+and get ready to grab a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />lollipop<colour id="65535" />!</message>
+	<message label="003_03" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Well, I guess YOU'RE getting a treat.<delay frames="40" />
+<anim id="HappyDance" target="actor" targetSpec="" />It's a <colour id="1" />recipe<colour id="65535" /> for making your own
+<colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Craft something like that, and your
+Halloween is gonna flex hard!</message>
+	<message label="003_04" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Well, I hope you're warmed up,
+because now you get to carry home
+<tag a="90" b="1" arg="0x0" /><colour id="1" /> <tag a="125" b="0" arg="0x200" /><colour id="65535" />!</message>
+	<message label="004_01" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Isn't Halloween the greatest?<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, I love it!</message>
+	<message label="004_02" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />That was more fun than fifty reps!<delay20 />
+Yay, Halloween!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ah, you've already maxed out what
+you can carry. <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />Take a load off and
+come back, OK?</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, it looks like you might topple
+over if I hand you anything else.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I really wanna give this to you today,
+so can you lighten the load a bit and
+come back?</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, are you back to collect your
+<colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Well, don't be shy, then.<delay20 />
+Here you go!</message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, are you back to collect your
+<colour id="1" /><tag a="125" b="0" arg="0x0" /> recipe<colour id="65535" />?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Well, don't be shy, then.<delay20 />
+Here you go!</message>
+	<message label="007_pl" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, are you back to collect your
+<colour id="1" /><tag a="125" b="0" arg="0x200" /><colour id="65535" />?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Well, don't be shy, then.<delay20 />
+Here you go!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />No candy, huh?<10_4 /> <anim id="OhGeez" target="actor" targetSpec="" />That's like showing
+up at the gym without your biceps!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Why don't you come talk to me
+again when you've got your bicep—<10_4 />
+<anim id="Blushing" target="actor" targetSpec="" />I mean, candy.</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wait, you don't even HAVE any
+candy, <tag a="110" b="5" />.<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />Well, I'll let
+it slide this time.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />See if you can't pump up those
+candy supplies before you come
+see me again, OK?</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />You're not gonna hand over the
+candy? <delay20 />On Halloween? <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />Well, then
+I guess I'll have to do<tag a="110" b="0" /><delay20 /><anim id="Cheering" target="actor" targetSpec="" /><delay20 /><10_10 />THIS!<10_7 arg="60" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />You're not gonna share that candy
+with me?<delay8 /> On Halloween?!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Well, in
+that case<tag a="110" b="0" /><delay frames="40" /><10_10 /><anim id="Cheering" target="actor" targetSpec="" />TRICK INCOMING!<10_7 arg="60" /></message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Yes! <delay20 />That was awesome. <delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" />Look at
+you now, <tag a="110" b="3" />!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Don't worry—it's not forever.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />You can change back just like
+you'd change your appearance.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />So have fun with it, <tag a="110" b="5" />!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Oh, if you don't already have a way
+to change your look, try this.<delay20 /> It's
+<tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />As for the <colour id="1" />face paint<colour id="65535" />?<delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" /> You can just
+sweat it off by running a marathon,
+of course.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Kidding!<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />Just open up the clothing
+section of your pockets if you want
+to take it off.</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />So,<delay8 /> how does it feel to be
+transformed?<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> I love my new
+powers. <delay20 />Haha!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />You know what? <delay20 />I feel like you gave
+110 percent just now, so I need to
+give 111 percent in return.<pageBreak /><anim id="Cheering" target="actor" targetSpec="" />I'm gonna teach you a cool
+new <colour id="1" />Reaction<colour id="65535" />, <tag a="110" b="5" />!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Get ready<tag a="110" b="0" /><delay frames="40" /><anim id="62" target="actor" targetSpec="" /> YOUR MUSCLES ARE
+GETTING SMALLER!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Haha, they're not really, I just
+blurted out the scariest thing
+I could think of.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />That's because I just taught you
+the <colour id="1" />Scare<colour id="65535" /> Reaction.<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> Hope you
+get some good use out of it!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Oh, if you're a Reaction newbie,
+just press <colour id="1" /> <colour id="65535" />to pick one out and
+give it a try.</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00">Wait a second<tag a="110" b="0" /><anim id="Shocked" target="actor" targetSpec="" />you don't have any
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy <colour id="65535" />at all, do you?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Oh, <tag a="110" b="5" /><tag a="110" b="0" /> I just feel bad for
+you now.<delay frames="40" /> <anim id="IdeaBulb" target="actor" targetSpec="" />But you know what?<delay20 />
+I'm gonna help you out.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's like when you knock someone
+down in the middle of some intense
+<tag a="135" b="6" arg="0xcd00" />. <delay20 /><anim id="Assent" target="actor" targetSpec="" />You help 'em up!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />So here's some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />, on me.<delay20 />
+Don't mention it!</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Now you're ready to take on
+Halloween like it's an obstacle
+course, <tag a="110" b="5" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Don't expect another handout from
+me though. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Stay on your toes and
+have fun!</message>
+	<message label="050" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />So how's Halloween treating you
+so far?<10_4 /><anim id="Shocked" target="actor" targetSpec="" /> Oh!<delay20 /> I didn't even do that
+on purpose!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well, I hope you have a lot of fun and
+you don't get too scared to sleep.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />You gotta sleep to get stronger!</message>
+	<message label="051" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, Halloween can be a little bit
+scary, but it's all in good fun.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />It's fun to feel your heart racing
+every so often, right?<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />That's also
+why I run <tag a="90" b="1" arg="0x100" /> miles every day.</message>
+	<message label="052" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems like everyone around here
+is really getting into Halloween,
+don't you think, <tag a="110" b="5" />?<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />I'm just glad I found a costume that
+still shows off my muscle striation.</message>
+	<message label="053" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Doesn't it just FEEL like Halloween
+with this creepy atmosphere?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It really pumps up my spirit for the
+event<tag a="110" b="0" />like when they turn on fog
+machines at a wrestling match.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Happy Halloween! <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />Can you tell
+I've been hyped for this day for
+a super-long time?</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, you're back! <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Well, you know
+I'm always game for another rep.
+Right, <tag a="110" b="5" />?</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />So you must be here for some
+candy, huh? <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />But you're not even
+wearing a costume!<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Well, it's gonna take more than
+NO COSTUME for me to loosen my
+iron grip on this candy.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Why don't you put on something
+<colour id="1" />scary <colour id="65535" />and try again? <delay20 />Until then,
+the candy stays with me.<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> Bwahaha!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You must be back for more candy,
+right? <delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" />Well, I love the enthusiasm,
+but it's too soon!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />You gotta rest between reps,
+<tag a="110" b="3" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Give it a little while. Go run some
+laps, do some jumping jacks, and
+come back later. <delay20 /><anim id="Greeting" target="actor" targetSpec="" />I'll have more then!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Well, I've been hogging <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy <colour id="65535" />like I
+hog the squat rack at the gym JUST
+for this occasion.<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> Hope you like it!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Let's cut the warm-up routine—
+you're here for <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />, and I've got
+some for you! <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Enjoy, <tag a="110" b="5" />!</message>
+	<message label="106_01" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Whew! <delay20 />My heart is pumping and I
+didn't even lift.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Gonna have to foam roll my candy-
+related muscle groups tomorrow too.</message>
+	<message label="106_02" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, I am so ready to give
+110 percent for Halloween tonight.
+<delay20 /><anim id="Assent" target="actor" targetSpec="" />I hope you're pumped too!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa, you're already loaded down
+with stuff.<delay20 /> <anim id="Negative" target="actor" targetSpec="" />You might pull a muscle if
+I hand you anything now!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Why don't you lighten the load and
+come back later? <delay20 />Don't worry—<anim id="Nodding" target="actor" targetSpec="" />I'll
+have it ready for you then!</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Then again, it IS Halloween, and
+leaving you without ANY <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />
+just wouldn't be right.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm gonna be a team player and give
+you some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy <colour id="65535" />anyway.</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />This is like a bonus free throw,
+alright? <delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" />Next time I see you, I
+wanna be <colour id="1" />scared <colour id="65535" />by your costume!
+<anim id="Negative" target="actor" targetSpec="" />You won't get any more <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />
+outta me without one. <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />Got it?</message>
+	<message label="150" attrib="00 00 00 00 00 00 00 00"><anim id="Hot" target="actor" targetSpec="" />Oh, <tag a="110" b="5" />, I'm sweating.<delay frames="40" />
+<anim id="Shocked" target="actor" targetSpec="" />I'm not scared! <delay20 />I was just, uh<tag a="110" b="0" />
+<tag a="135" b="6" arg="0xcd00" /><tag a="110" b="0" />in my mind. <delay frames="40" /><anim id="Sighing" target="actor" targetSpec="" />Whew.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />OK, OK<tag a="110" b="0" />I was also thinking
+about <tag a="50" b="0" arg="0x400 0xcd03" />candy<tag a="110" b="0" /></message>
+	<message label="151" attrib="00 00 00 00 00 00 06 00"><tag a="10" b="12" /><10_14 arg="20" /><anim id="Cheering" target="actor" targetSpec="" /><size value="150" />Lift<size value="100" /><delay8 /> <size value="150" />and<size value="100" /><delay8 /> <size value="150" />repeat!<size value="100" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_9 /><pageBreak /><tag a="110" b="0" /><delay8 /><anim id="OhGeez" target="actor" targetSpec="" />Uh, sorry. <delay20 />Force of habit. <delay20 />I meant
+to say "trick or treat, <tag a="110" b="5" />."</message>
+	<message label="152" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Isn't Halloween great?<10_4 /> <anim id="Shocked" target="actor" targetSpec="" />Oh no<tag a="110" b="0" />
+I just had a weird thought<tag a="110" b="0" /><pageBreak /><anim id="ColdChill" target="actor" targetSpec="" />Since everyone is dressed up like
+monsters right now, how would we
+know if REAL monsters showed up?!</message>
+	<message label="153" attrib="00 00 00 00 00 00 00 00"><anim id="Dance" target="actor" targetSpec="" />So how do I look?<delay20 /> Pretty different,
+right?<delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" /> I should see if I can lift more
+when I'm all dressed up like this.</message>
+	<message label="200" attrib="00 00 00 00 00 00 06 00"><tag a="10" b="12" /><anim id="Surprised" target="actor" targetSpec="" /><size value="150" />Yikes!<delay frames="30" />
+It's <colour id="3" />Jack<colour id="65535" />!<size value="100" /><pageBreak /><10_9 /><anim id="Shaking" target="actor" targetSpec="" /><colour id="3" />Jack<colour id="65535" />, buddy<tag a="110" b="0" />I've got some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />
+for you<tag a="110" b="0" /><delay20 /> <anim id="Frantic" target="actor" targetSpec="" />Don't trick me, please!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Whew. <delay20 />I'm safe<tag a="110" b="0" />for now.<10_4 />
+<anim id="Thinking" target="actor" targetSpec="" />Wait just a minute<tag a="110" b="0" /><delay frames="40" /><anim id="TakenAback" target="actor" targetSpec="" />it's YOU,
+<tag a="110" b="3" />!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />You really got me with that getup.<delay20 />
+And you got my candy, <tag a="110" b="5" />!</message>
+	<message label="201_01" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Whew. <delay20 />I'm safe<tag a="110" b="0" />for now.<10_4 />
+<anim id="Thinking" target="actor" targetSpec="" />Wait just a minute<tag a="110" b="0" /><delay frames="40" /><anim id="TakenAback" target="actor" targetSpec="" />you're not
+<colour id="3" />Jack<colour id="65535" /><tag a="110" b="0" />so who ARE you?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />So your name is <tag a="110" b="3" />,
+eh? <delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />Good to meet you!<delay8 /> I go by
+<tag a="110" b="10" />, <tag a="110" b="5" />.<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />You really fooled me there.<delay20 /> Got my
+heart rate all the way up in the
+anaerobic zone. <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />Nice one!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh no<tag a="110" b="0" /><delay20 /> <anim id="Shaking" target="actor" targetSpec="" />Um, sir? <delay20 />Y-you don't have
+any room for this candy. <delay20 /><anim id="Crying" target="actor" targetSpec="" />IT ISN'T
+MY FAULT!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Please, don't trick me! <delay20 />I'd give it
+to you if I could!</message>
+</msbt>

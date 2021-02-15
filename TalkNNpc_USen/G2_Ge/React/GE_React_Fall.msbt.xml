@@ -1,7 +1,7 @@
 <msbt attribsize="8">
-	<message label="001" attrib="00 00 00 00 00 00 06 00"><anim id="Shocked" target="actor" targetSpec="" /><size value="100" />EEEEEK!!!<10_4 /> <anim id="Worried" target="actor" targetSpec="" /><delay20 />Um, excuse me?!<delay20 />
-What IS this?!<size value="100" /></message>
-	<message label="002" attrib="00 00 00 00 00 00 06 00"><anim id="Shocked" target="actor" targetSpec="" /><delay20 /><size value="100" />OHMIGOSH!<size value="100" /><delay20 /> What is even happening
-to me right now?!</message>
-	<message label="003" attrib="00 00 00 00 00 00 06 00"><anim id="Worried" target="actor" targetSpec="" />Um.<10_4 /> I hate this?<10_4 /> <anim id="Shocked" target="actor" targetSpec="" />SOMEONE HELP ME!</message>
+	<message label="001" attrib="00 00 00 00 00 00 06 00"><tag a="10" b="12" /><size value="200" />EEEEEEEEEEK!!!<delay20 /><size value="100" /><size value="100" />
+Um, excuse me?!<delay8 /> What IS this?!<size value="100" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 06 00"><size value="200" /><tag a="10" b="12" />OHMIGOOOOSH!<delay20 /><size value="100" />
+What is even happening right now?!</message>
+	<message label="003" attrib="00 00 00 00 00 00 06 00">Um.<delay20 /> I hate this?<delay20 /> SOMEONE HELP ME!</message>
 </msbt>

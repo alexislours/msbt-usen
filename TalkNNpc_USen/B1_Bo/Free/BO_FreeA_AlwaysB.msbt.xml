@@ -135,4 +135,26 @@ A huh huh huh<tag a="110" b="0" /></message>
 <tag a="110" b="10" />!<size value="100" /><delay frames="50" /><pageBreak /><anim id="Oops" target="actor" targetSpec="" />Oh, was that too loud?<delay20 /> Also, I'm
 not going to bed yet. <delay20 /><anim id="Grin" target="actor" targetSpec="" />Just warming
 up for the grand finale, a huh huh<tag a="110" b="0" /></message>
+	<message label="031" attrib="20 00 00 01 00 00 00 09"><anim id="Explain" target="actor" targetSpec="" />Y'know what? <delay20 />I've been thinking
+I might wanna get serious about
+picking up <tag a="135" b="6" arg="0xcd00" />.</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="032_01" attrib="21 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />The first thing I gotta do is look for
+a good place to do it. <delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" />But<tag a="110" b="0" /> I dunno
+what makes a place good for that.<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />So the FIRST first thing I gotta do
+is figure that out, <tag a="110" b="6" />.</message>
+	<message label="032_02" attrib="21 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />But I need equipment, right? <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />Only
+thing is, I don't know if I need gloves
+or pads or sticks or what.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />So I guess I got some readin' up to
+do first. <delay20 /><anim id="Sighing" target="actor" targetSpec="" />But I dunno where to find
+books about it.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Boy, sports are complicated, huh?</message>
+	<message label="032_03" attrib="21 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />First things first! I gotta get at least
+one other player, right?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Or do I? How many players do you
+need for a game? <delay frames="40" /><anim id="Worried" target="actor" targetSpec="" />Is it even called
+a game? Is it a match? Who knows<tag a="110" b="0" /></message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00">Actually, y'know what? <delay20 /><anim id="Worried" target="actor" targetSpec="" />I don't think
+I ever learned the rules.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />How come you gotta know so much
+to play a sport? <anim id="WrySmile" target="actor" targetSpec="" />Maybe I'll just run
+around <tag a="110" b="8" /> instead.</message>
 </msbt>

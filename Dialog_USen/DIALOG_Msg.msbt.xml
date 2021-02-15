@@ -183,6 +183,12 @@ look of your entire island, rooms in
 homes, your custom designs, any
 bulletin-board posts, and more.<colour id="65535" /></message>
 	<message label="0831_a" attrib="01 00">I Understand</message>
+	<message label="0841" attrib="08 00">Do you want to remove the dream of
+<colour id="0" /><tag a="115" b="2" arg="0xcd00" /><colour id="65535" /> from the list?</message>
+	<message label="0841_a" attrib="01 00">No.</message>
+	<message label="0841_b" attrib="01 00">Remove it.</message>
+	<message label="0842" attrib="01 09">Your favorite dreams cannot be
+removed from the list.</message>
 	<message label="0921" attrib="06 06">You can make up to two posts during
 one trip.</message>
 	<message label="0921_a" attrib="01 06">OK</message>
@@ -746,6 +752,11 @@ since the network connection was
 disrupted. Please turn it on and try
 again.</message>
 	<message label="1456_a" attrib="01 00">Back</message>
+	<message label="1457" attrib="08 00">You'll need to connect to the internet
+before using the Best Friends List
+app here. Connect now?</message>
+	<message label="1457_a" attrib="01 00">Never mind.</message>
+	<message label="1457_b" attrib="01 00">Connect.</message>
 	<message label="1501" attrib="08 00">Are you sure you want to discard
 your changes?</message>
 	<message label="1501_a" attrib="01 00">Keep editing!</message>
@@ -1092,6 +1103,14 @@ then designing your home interior!
 Nook Inc. Allows the user to swim
 and dive freely in the ocean.
 <colour id="0" />Item will be delivered by mail.<colour id="65535" /></message>
+	<message label="3022" attrib="01 00">Change up your look at a <colour id="1" />mirror <colour id="65535" />or a<colour id="1" />
+vanity <colour id="65535" />with fun body-paint varieties!
+<colour id="0" />Book will be printed immediately
+upon redemption.<colour id="65535" /></message>
+	<message label="3023" attrib="01 00">Change up your look at a <colour id="1" />mirror <colour id="65535" />or a<colour id="1" />
+vanity <colour id="65535" />with new eye-color choices!
+<colour id="0" />Book will be printed immediately
+upon redemption.<colour id="65535" /></message>
 	<message label="5001" attrib="01 00"><colour id="1" />Camera<colour id="65535" />
 Take pictures using various
 filters and effects.<pageBreak /><colour id="0" />The pictures will be saved to the
@@ -1508,21 +1527,21 @@ the game from the HOME Menu.</message>
 	<message label="8014" attrib="08 00">The Nintendo Account linked to this
 user is different than it was before.<pageBreak />Any features that use the internet,
 like the Best Friends List, will be
-reinitialized if you play again.<pageBreak />Do you want to start playing again
+reset if you play again.<pageBreak />Do you want to start playing again
 as <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
 	<message label="8014_a" attrib="01 00">I'm not sure.</message>
 	<message label="8014_b" attrib="01 00">Yes.</message>
 	<message label="8015" attrib="08 00">This user does not have a Nintendo
 Account linked.<pageBreak />Any features that use the internet,
 like the Best Friends List, will be
-reinitialized if you play again.<pageBreak />Do you want to start playing again
+reset if you play again.<pageBreak />Do you want to start playing again
 as <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
 	<message label="8015_a" attrib="01 00">I'm not sure.</message>
 	<message label="8015_b" attrib="01 00">Yes.</message>
 	<message label="8016" attrib="08 00">The Nintendo Account linked to this
 user is different than it was before.<pageBreak />Any features that use the internet,
 like the Best Friends List, will be
-reinitialized if you start playing again.
+reset if you start playing again.
 Do you want to start playing again?</message>
 	<message label="8016_a" attrib="01 00">No</message>
 	<message label="8016_b" attrib="01 00">Yes</message>
@@ -1531,9 +1550,8 @@ and a valid Nintendo Account needs
 to be verified via the internet.<pageBreak />If you begin playing before verifying,
 all features that use the internet—
 including the Best Friends List—will
-be reinitialized.<pageBreak />Do you want to reinitialize all
-features that use the internet
-and begin playing?</message>
+be reset.<pageBreak />Do you want to reset all features that
+use the internet and begin playing?</message>
 	<message label="8017_a" attrib="01 00">No</message>
 	<message label="8017_b" attrib="01 00">Yes</message>
 	<message label="8018" attrib="01 00">The link between this user account

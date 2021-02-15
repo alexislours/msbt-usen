@@ -58,4 +58,32 @@ is going to want <tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" />!</message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />This is the recipe for the fabulous
 <tag a="125" b="0" arg="0x0" /> I made.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I do hope you'll put it to good use.</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />Oh,<delay8 /> and a tip that pertains here<tag a="110" b="0" /><delay40 />
+<anim id="Explain" target="actor" targetSpec="" />You'll need pumpkins for that.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And one more:<delay8 /> If you grow them
+yourself,<delay8 /> <anim id="Love" target="actor" targetSpec="" />you'll take even more
+pride in your DIY, <tag a="110" b="6" />.</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Here's a complication, though:<delay8 />
+To customize that,<delay8 /> you may need
+materials that are hard to come by.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Pumpkins can appear in a variety of
+colors.<delay8 /> So if you need a specific one,<delay8 />
+grow more pumpkins, <tag a="110" b="6" />.</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Here you go!<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />This is what I wasn't
+able to give you earlier.</message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh my!<delay8 /> Can this be?<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />It seems that
+you already know the recipe for
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.</message>
+	<message label="034" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Then you don't need this recipe
+after all<tag a="110" b="0" /><delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Well then,<delay8 /> I'll share some
+of my materials with you instead.</message>
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />They're <colour id="1" />pumpkins<colour id="65535" />!<delay40 /> <anim id="ShyBoy" target="actor" targetSpec="" />I actually have a
+few too many,<delay8 /> so do me the favor
+of taking some, <tag a="110" b="6" />.<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I should have realized that you'd
+already know it.<delay40 /> <anim id="OhGeez" target="actor" targetSpec="" />Here I hoped to
+bring a little more DIY into your life.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />It'd be awful to send you home
+empty-handed, given the Halloween
+spirit these days<tag a="110" b="0" /><delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />Oh, <delay20 /><anim id="Nodding" target="actor" targetSpec="" />that's it!</message>
+	<message label="037" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Here's some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />!<delay40 /> <anim id="Explain" target="actor" targetSpec="" />You'll want to
+stock up on lots of that by the end
+of the month, <tag a="110" b="6" />.</message>
 </msbt>

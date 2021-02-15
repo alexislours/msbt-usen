@@ -63,6 +63,11 @@ ya <anim id="BigSmile" target="actor" targetSpec="" /><tag a="110" b="3" />, the
 	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, OK!<delay20 /> Then from now on,
 <delay8 />I'll call ya<anim id="BigSmile" target="actor" targetSpec="" /> <tag a="110" b="3" />!</message>
 	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?!<delay frames="40" /> <anim id="Confused" target="actor" targetSpec="" />C'mon, don't tease! <delay20 />Tell me!</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />"<tag a="110" b="1" />"?! <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />So, um, you
+want your new nickname to
+be just your name?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />OK,<delay8 /> then that's what I'll call you!<delay20 />
+Let me take a practice run at it<tag a="110" b="0" /><delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />Hi, <delay20 /><tag a="110" b="1" />! Yay, I got it!</message>
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That's real cool!<delay8 /><delay8 /> I was hoping ya'd
 say that.<delay20 /><anim id="SmugFace" target="actor" targetSpec="" /> Now I feel like we're
 the cool kids, <tag a="110" b="3" />!</message>

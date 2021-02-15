@@ -70,6 +70,9 @@ signing bonus for that.</message>
 	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Pre-game jitters?<delay20 /> Don't worry, you've
 got this.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Just take a deep breath and
 try again, <tag a="110" b="5" />.</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Wait, so you wanna go back to
+the original?<delay20 /> <tag a="50" b="3" /><tag a="110" b="1" />?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />I've always liked that name.<delay20 /> You got
+it, <tag a="110" b="1" />!</message>
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Yes!<delay20 /> Score one for
 me, <tag a="110" b="3" />!</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Ooooh, <delay20 />flag on the play and

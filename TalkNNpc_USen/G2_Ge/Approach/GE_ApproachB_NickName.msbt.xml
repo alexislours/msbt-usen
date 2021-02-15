@@ -63,7 +63,7 @@ just the same thing? Is that OK?</message>
 	<message label="106_b" attrib="00 00 00 00 00 00 00 00">Hold on a second!</message>
 	<message label="107" attrib="00 00 00 00 00 00 00 00">So<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />what kind of nickname do you
 crave? <delay20 /><anim id="Grin" target="actor" targetSpec="" />I want it to be so on trend
-you'd put it on a t-shirt!</message>
+you'd put it on a T-shirt!</message>
 	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />No prob!<delay20 /> I'm just going to keep
 calling you "<tag a="110" b="3" />!"</message>
 	<message label="109" attrib="00 00 00 00 00 00 00 00">OK! <anim id="HappyDance" target="actor" targetSpec="" /><delay20 />Well then, starting right this
@@ -72,6 +72,11 @@ very nanosecond, I'm calling you
 	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I feel you.<delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" /> It's a hard call!<delay frames="40" />
 <anim id="FaintSmile" target="actor" targetSpec="" />Take your time and<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> get
 back to me, 'K?</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Huh?<delay8 /> Back to your regular name?<delay20 />
+<anim id="Aha" target="actor" targetSpec="" />Oh! I get it!<delay8 /> You must be doing a
+soft reboot! That's so fab!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Reboots are totes hot right now.<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />Be sure to tell me your NEW origin
+story soon, <tag a="110" b="1" /> 2.0!</message>
 	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />For real? <delay20 /><anim id="Greeting" target="actor" targetSpec="" /><delay20 />Thanks!<delay40 /> <anim id="HappyDance" target="actor" targetSpec="" />Then it's a
 done deal. I'm totes calling you
 "<tag a="110" b="3" />" from now on!</message>

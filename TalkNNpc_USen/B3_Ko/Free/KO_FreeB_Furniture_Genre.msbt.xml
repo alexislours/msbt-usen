@@ -1,5 +1,6 @@
 <msbt attribsize="8">
-	<message label="999" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<delay20 />
+	<message label="999" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="999_01" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<delay20 />
 <anim id="EmotEnd" target="actor" targetSpec="" />Hmmm<delay8 /><tag a="110" b="0" /><pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" />Whatever<delay8 /><tag a="110" b="0" /> Reckon we <anim id="OhGeez" target="actor" targetSpec="" />just have a
 new landmark<delay20 /> for when we're givin'
 directions anywhere on the island!</message>
@@ -101,4 +102,28 @@ just a bonus, <tag a="110" b="6" />.<delay20 /> <anim id="Laughing" target="acto
 <tag a="125" b="0" arg="0x0" /> there?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Nodding" target="actor" targetSpec="" />I'm only asking 'cause I can't seem
 to stop starin' every time I walk by.<delay20 />
 <anim id="Grin" target="actor" targetSpec="" />Gorgeous little fella, <tag a="110" b="6" />.</message>
+	<message label="028" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="WrySmile" target="actor" targetSpec="" />Now that there is one handsome
+<tag a="110" b="15" />, <tag a="110" b="6" />!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Smiling" target="actor" targetSpec="" />Warms the heart knowin' someone
+around here's got taste!</message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Serious" target="actor" targetSpec="" />There's no such thing as too old
+when it comes to playin' with <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="OhGeez" target="actor" targetSpec="" />Too sore? Maybe.<delay8 /> Too stubborn?
+Sure.<delay8 /> Too <tag a="110" b="10" />? Yep!<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />But never too old, <tag a="110" b="6" />!</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Explain" target="actor" targetSpec="" />Y'know, I had a friend who used to
+spend all his time playin' with his
+<tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="OhGeez" target="actor" targetSpec="" />Honestly, I never could understand
+the appeal. <delay8 />Always just seemed too
+complicated for me, <tag a="110" b="6" />.</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Serious" target="actor" targetSpec="" />It kinda bothers me, seein' <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> here.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />I understand that it's none of my
+business judgin' where folks wanna
+put their things, <tag a="110" b="6" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="OhGeez" target="actor" targetSpec="" />But that doesn't mean I gotta like
+havin' to walk around it!</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Thinking" target="actor" targetSpec="" />Who would up and leave <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> here?<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh! <delay8 />Maybe that's meant to be some
+kinda highfalutin artistic statement
+about the technology in our lives.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Or<tag a="110" b="0" /> Maybe someone just forgot to
+bring their stuff home.<delay8 /> <20_3 arg="6" /><20_3 arg="3" /><anim id="Negative" target="actor" targetSpec="" />Yeah, I reckon
+that's probably it, <tag a="110" b="6" />.</message>
 </msbt>

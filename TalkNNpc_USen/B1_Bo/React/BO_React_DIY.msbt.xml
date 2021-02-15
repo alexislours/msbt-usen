@@ -51,4 +51,29 @@ grease I smudged on the middle part.</message>
 recipe, huh?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Heeere you go! <delay8 />A DIY recipe for
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<delay20 />
 <anim id="Hello" target="actor" targetSpec="" />Don't lose it!</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Um, you're gonna need pumpkins for
+that.<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> But they're real easy to grow!
+Give it a try, <tag a="110" b="6" />!</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If you wanna customize that, <delay20 />the
+normal kits won't work. <delay20 />You gotta
+use a colored pumpkin instead.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />If you don't have any different-
+colored pumpkins, grow a whole
+bunch!<delay8 /><anim id="Greeting" target="actor" targetSpec="" /> You're bound to get a few!</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />You're back for that thing I promised,
+huh?<delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" /> OK!<delay8 /> Here ya go, <tag a="110" b="6" />!</message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><tag a="110" b="0" /><anim id="Eh" target="actor" targetSpec="" />No foolin'?<delay frames="40" /> You already know how
+to make that one?<delay frames="30" /></message>
+	<message label="034" attrib="00 00 00 00 00 00 00 00">Dang! <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Is there anything you DON'T
+know?<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> Well, what if I gave you some
+<colour id="1" />pumpkins<colour id="65535" /> to make it with instead?</message>
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Make something cool with those
+<colour id="1" />pumpkins<colour id="65535" />!<delay frames="40" /> It's the right season for
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.</message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Aw. I was all excited to give you the
+recipe too. <delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> What can I give
+you that's just as good?<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh, duh! <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />How about <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />?<delay frames="40" />
+Halloween is coming up, after all!</message>
+	<message label="037" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Wouldn't wanna get caught on
+Halloween without <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />, right?<delay frames="40" /><anim id="Blushing" target="actor" targetSpec="" />
+I always keep my pockets stuffed!</message>
 </msbt>

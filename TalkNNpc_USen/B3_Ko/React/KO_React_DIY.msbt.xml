@@ -32,9 +32,9 @@ already?</message>
 	<message label="008_b" attrib="00 00 00 00 00 00 00 00">Sure, it's not hard.</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Is that so?<delay40 /> I had no idea you were
 so handy,<delay20 /> <tag a="110" b="3" />!</message>
-	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I'd give it to you now,<delay20 /> but it looks
-like your pockets are full.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Tell me
-when you got room,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Well!<delay20 /> It seems your pockets are full.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Why don't you go clear some room,
+and we'll get this exchange goin'.</message>
 	<message label="011" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />OK then!<delay frames="30" /> <anim id="FaintSmile" target="actor" targetSpec="" />I wrote some instructions
 down here.<delay frames="30" /> Follow 'em to the letter,<delay20 />
@@ -52,4 +52,30 @@ you to thank,<delay20 /> <tag a="110" b="5" />!</message>
 recipe, 'cause if not,<delay8 /> then I wasted
 some perfectly good paper.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />OK,<delay8 /> here's what's to know for makin'
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />Have fun, kiddo!</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh! <delay8 />You're gonna need to get a few
+pumpkins if you wanna slap that
+together, by the by.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Maybe you oughta try growing some!<delay20 />
+Assumin' you haven't already, that is.</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh! <delay8 />To customize that, you can't use
+just any ol' pumpkin.<delay20 /> <anim id="Explain" target="actor" targetSpec="" />You'll need one
+that matches the color you're after.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />If you grow enough pumpkins, you're
+bound to get a color variation or two.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />You can use those for customizin'!</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You're back! <delay8 />I've still got something
+here for you.</message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Of course, <delay8 />you're an old pro who
+already seems to know your way
+around this recipe, so<tag a="110" b="0" /></message>
+	<message label="034" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />I know! <delay8 />Instead of the recipe, how's
+about I share some of my <colour id="1" />pumpkins
+<colour id="65535" />with ya instead?</message>
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />With all this Halloween stuff goin' on,<delay8 />
+I'm sure you'll make better use of a
+few <colour id="1" />pumpkins<colour id="65535" /> than I would anyway.</message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />I got it! <delay8 />I have a little extra <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />
+here. <delay8 />Since you don't need the
+recipe, why don't you take some?</message>
+	<message label="037" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />'Cause what's Halloween without
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />candy<colour id="65535" />, right?<delay20 /> Nothin', that's what!<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />Enjoy it, kiddo!</message>
 </msbt>

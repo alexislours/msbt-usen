@@ -122,7 +122,7 @@ that I sink like a brick when I'm in
 the water, <tag a="110" b="5" />.<delay frames="40" /> <anim id="Fuming" target="actor" targetSpec="" /><delay20 />Not<delay20 /> cool!<pageBreak /><delay20 /><anim id="Negative" target="actor" targetSpec="" />I sink because I'm weighed down by
 too much muscle,<delay20 /> NOT because I
 can't swim!<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />It's a good problem!</message>
-	<message label="030" attrib="1f 00 00 01 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I just got called "tedious" by
+	<message label="030" attrib="1f 00 00 01 00 00 00 0a"><anim id="Negative" target="actor" targetSpec="" />I just got called "tedious" by
 <tag a="110" b="11" arg="0xcd00" />. <delay20 /><gender3 m="He" f="She" /> said I only
 ever think about muscles.</message>
 	<message label="031" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x20 0x21 0x22" /></message>
@@ -135,4 +135,67 @@ me show off my abs, <tag a="110" b="5" /><tag a="110" b="0" /></message>
 	<message label="034" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />But that's not tedious, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I mean, just look at how many muscle
 groups you can work on, <delay20 />or all the
 routines you can create and perfect!</message>
+	<message label="035" attrib="24 00 00 01 00 00 00 0a"><anim id="QuestionMark" target="actor" targetSpec="" />Do you think I'm too focused on
+fitness?<delay frames="40" /><anim id="Angry" target="actor" targetSpec="" /> Because <tag a="110" b="11" arg="0xcd00" />
+said I need a new hobby!</message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="036_01" attrib="25 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I guess I could think about pumping
+up another hobby or two<tag a="110" b="0" /><delay20 /> <anim id="IdeaBulb" target="actor" targetSpec="" />Maybe
+something like DIY!</message>
+	<message label="036_02" attrib="26 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I suppose I could put these muscles
+to use<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" /> Maybe I should take up
+fishing, <tag a="110" b="5" />!</message>
+	<message label="036_03" attrib="27 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I guess I have always wanted to see
+how fast I am compared to all other
+creatures.<delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" /> I could catch bugs!</message>
+	<message label="036_04" attrib="28 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I've been so focused on growing my
+muscles<tag a="110" b="0" /><delay20 /> <anim id="IdeaBulb" target="actor" targetSpec="" />Maybe I should spend
+some time growing a garden!</message>
+	<message label="036_05" attrib="29 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I guess <tag a="110" b="8" /> could use
+a hero type. <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />And I would look
+great in a cape!</message>
+	<message label="037" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="037_01" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Yeah<tag a="110" b="0" />DIY involves a lot of hammer
+work, right? <delay20 />I'd be great at that.<delay20 />
+<anim id="HappyFlower" target="actor" targetSpec="" />I can sculpt cool items AND my arms!</message>
+	<message label="037_02" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I can see it now<tag a="110" b="0" /> Crafting item after
+item with perfect form<tag a="110" b="0" />the hammer
+swinging in slow motion<tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Wait, DIY has slow-motion video
+replay and commentators, right?</message>
+	<message label="038" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="038_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />After all, reeling in a big catch must
+be an incredible core workout, no?<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />And then sprinting around with all
+those fish in your pocket? <delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />Talk about
+resistance training, <tag a="110" b="5" />!</message>
+	<message label="038_02" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Even if the fish aren't biting, I can
+study their movements.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I've been meaning to learn a new
+stroke besides the <tag a="110" b="15" />-paddle
+one of these days<tag a="110" b="0" /></message>
+	<message label="039" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="039_01" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Although<tag a="110" b="0" />some bugs are slow,
+aren't they? <delay20 /><anim id="Serious" target="actor" targetSpec="" />Maybe this will teach
+me patience and humility.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Or maybe I'll absolutely SHRED my
+quads from crouching in anticipation.<delay20 />
+<anim id="Laughing" target="actor" targetSpec="" />Either way, it's win-win!</message>
+	<message label="039_02" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />After all, a bug can be a worthy
+adversary. <delay20 /><anim id="Shocked" target="actor" targetSpec="" />Some of them can lift
+fifty times their own body weight!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I can barely do half of that<tag a="110" b="0" /></message>
+	<message label="040" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="040_01" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Plus, I mean<tag a="110" b="0" /> Things like watering
+and landscaping really work your
+arms and legs, so<tag a="110" b="0" /><pageBreak /><anim id="Angry" target="actor" targetSpec="" />What?! <delay20 />Can you blame me for still
+trying to get a whole-body workout
+in, <tag a="110" b="5" />?</message>
+	<message label="040_02" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Besides<tag a="110" b="0" />I've stomped my fair share
+of flowers accidentally while running
+wind sprints. <delay frames="40" /><anim id="Serious" target="actor" targetSpec="" />It's time I gave back.</message>
+	<message label="041" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="041_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />What kind of hero would I be, you
+ask? <delay20 /><anim id="Worried" target="actor" targetSpec="" />Well, uh<tag a="110" b="0" />I could focus on,
+uh<tag a="110" b="0" />litter enforcement?<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Ooh! <delay20 />And I could inspire the next
+generation of fitness heroes through
+aspirational posing. <delay20 /><anim id="Pardon" target="actor" targetSpec="" />Hrrrgh! <delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />Gyaaah!</message>
+	<message label="041_02" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Whaddaya say?<delay20 /> Are we ordering
+capes and teaming up to promote
+muscle awareness? <delay20 /><anim id="Cheering" target="actor" targetSpec="" />Let's do it!</message>
 </msbt>

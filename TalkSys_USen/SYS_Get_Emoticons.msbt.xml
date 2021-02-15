@@ -1,7 +1,14 @@
 <msbt attribsize="3">
-	<message label="HappyFlower" attrib="00 00 18">I can use <colour id="1" />Reactions<colour id="65535" /> now!<delay frames="30" />
+	<message label="HappyFlower" attrib="00 00 18">I learned a <colour id="1" />Reaction<colour id="65535" />!<delay frames="30" />
 <anim id="HappyFlower" target="actor" targetSpec="" />These gestures will help me
 express my feelings!</message>
+	<message label="HappyFlower_1" attrib="00 00 18">I learned four <colour id="1" />Reactions<colour id="65535" />!<delay frames="30" />
+<anim id="HappyFlower" target="actor" targetSpec="" />These gestures can help me
+express my feelings!</message>
+	<message label="AddPrank" attrib="00 00 18">I learned the <colour id="1" />Scare Reaction<colour id="65535" />!
+<anim id="62" target="actor" targetSpec="" />RAWR!</message>
+	<message label="AddScaring" attrib="00 00 18">I learned the <colour id="1" />Haunt Reaction<colour id="65535" />!
+<anim id="63" target="actor" targetSpec="" />Time to trick-or-treat!</message>
 	<message label="Hello" attrib="00 00 18">I learned the <colour id="1" />Pleased<colour id="65535" /> <colour id="1" />Reaction<colour id="65535" />!
 <anim id="Hello" target="actor" targetSpec="" />I'm feeling very pleased with myself
 right now.</message>

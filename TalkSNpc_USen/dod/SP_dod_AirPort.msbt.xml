@@ -277,21 +277,19 @@ right now?</message>
 	<message label="120" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Alright, here we go!<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Openin' the
 gate now.</message>
 	<message label="120_01" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Looks like you're busy doing
-<colour id="1" />Island Designer <colour id="65535" />stuff.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Sorry, but the regs say we can't let
+<colour id="1" />Island Designer <colour id="65535" />stuff.<10_7 arg="90" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Sorry, but the regs say we can't let
 you use the <colour id="1" />Island Designer <colour id="65535" />app
-during flights or network play.
-<anim id="ShyBoy" target="actor" targetSpec="" />So I gotta shut that down for you.<delay20 />
-Thanks for understanding.</message>
+during flights or network play.<10_7 arg="90" /><pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />So I gotta shut that down for you.<delay20 />
+Thanks for understanding.<10_7 arg="90" /></message>
 	<message label="120_02" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey, thanks for humoring us!<delay20 /><anim id="Blushing" target="actor" targetSpec="" /> The
 dodos at the other airports tease us
-when we make a mess.<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+when we make a mess.<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><10_7 arg="60" /></message>
 	<message label="121_01" attrib="00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Oh, dang it!<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />Looks like I forgot
 to check if you were using your
-<colour id="1" />Island Designer <colour id="65535" />app.
-<anim id="Worried" target="actor" targetSpec="" />You can't use that app during flights
+<colour id="1" />Island Designer <colour id="65535" />app.<10_7 arg="60" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />You can't use that app during flights
 or network play, so<delay20 /> I'll go ahead and
-shut it down for ya<tag a="110" b="0" /></message>
-	<message label="121_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Appreciate your patience, pal.<delay20 /></message>
+shut it down for ya<tag a="110" b="0" /><10_7 arg="60" /></message>
+	<message label="121_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Appreciate your patience, pal.<delay20 /><10_7 arg="60" /></message>
 	<message label="122" attrib="00 00 00 00"><snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />Openin' the gate now!</message>
 	<message label="125" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Just so you know, the gate's open,
 so visitors might show up anytime.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />There might even be folks you don't

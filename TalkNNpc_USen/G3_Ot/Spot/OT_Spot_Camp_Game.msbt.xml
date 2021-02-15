@@ -17,14 +17,14 @@ feel like playing, do let me know.</message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Wonderful!<delay frames="13" /> Let's get started!<delay frames="40" />
 <anim id="NpcShuffle" target="actor" targetSpec="" />First,<delay20 /> shuffle the cards<delay8 /> really well<tag a="110" b="0" /></message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Next, let's check your answer.</message>
-	<message label="006_01" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Well, well! <delay frames="13" />It seems you're quite
-good at this.<delay20 /> And, as promised, my
-<tag a="125" b="0" arg="0x0" /> is yours.
+	<message label="006_01" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Well, well! <delay frames="13" />It seems you're quite good
+at this.<delay20 /> And, as promised, <delay8 />you've won
+my <tag a="125" b="0" arg="0x0" />.
 <anim id="BigSmile" target="actor" targetSpec="" />Here you go, <tag a="110" b="6" /><anim id="FaintSmile" target="actor" targetSpec="" />.</message>
 	<message label="006_02" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" />I had no idea you were so
-good at this, <tag a="110" b="6" />.<pageBreak />Well,<anim id="Smiling" target="actor" targetSpec="" /> since you won, here is my<delay8 />
-<tag a="125" b="0" arg="0x0" />,<delay frames="13" />
-just as I promised.</message>
+good at this, <tag a="110" b="6" />.<pageBreak />Well,<anim id="Smiling" target="actor" targetSpec="" /> since you won, I'll give you my<delay8 />
+<tag a="125" b="0" arg="0x0" />,<delay frames="13" /> just as
+I promised.</message>
 	<message label="006_03" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />My goodness! I win this round!<delay frames="40" />
 I'm sorry,<delay frames="13" /><anim id="Negative" target="actor" targetSpec="" /> but that means no
 present for you, <tag a="110" b="6" />.</message>
@@ -49,8 +49,8 @@ for a different suit on it<tag a="110" b="0" /><colour id="6" />♥heart<colour 
 Well,<delay frames="13" /><anim id="Nodding" target="actor" targetSpec="" /> I am going to pick one card.<delay frames="40" />
 <anim id="Greeting" target="actor" targetSpec="" />Then it is up to you to guess
 which type of card it is.
-<anim id="EmotEnd" target="actor" targetSpec="" />If you guess correctly,<delay frames="13" /><anim id="Greeting" target="actor" targetSpec="" /> then my
-<tag a="125" b="0" arg="0x0" /> is yours.<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />If you guess correctly,<delay frames="13" /><anim id="Greeting" target="actor" targetSpec="" /> then you get
+my <tag a="125" b="0" arg="0x0" />.<delay frames="40" />
 <anim id="Smiling" target="actor" targetSpec="" />Simple enough, yes?
 <anim id="NpcShuffle" target="actor" targetSpec="" />You look like you're ready for some
 fun, <delay frames="13" />so let's give this a go!</message>

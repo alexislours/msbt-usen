@@ -88,4 +88,16 @@ to pick up a <colour id="1" />May Day Ticket<colour id="65535" />,
 hit up <colour id="3" />Tom Nook <colour id="65535" />tomorrow.
 <anim id="Aha" target="actor" targetSpec="" />This is not the type of event you
 want to miss, <tag a="110" b="3" />.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />So you been getting ready for
+Halloween, or what, <tag a="110" b="5" />?<pageBreak /><anim id="Hello" target="actor" targetSpec="" />You know that some of the
+<tag a="110" b="8" /> locals are gonna
+hit you up for candy, right?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I hope you'll have the right kind of
+TREATS for everyone, <delay20 /><anim id="WrySmile" target="actor" targetSpec="" />unless you
+wanna get TRICKED<tag a="110" b="0" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You know what tomorrow is, right?<delay20 />
+Other than October 31st?<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />It's Halloween, <tag a="110" b="5" />!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />There will be costumes and candy
+and maybe even a trick or two<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />It's a pretty standard day for me,
+really, but for <tag a="110" b="8" /> it's
+kind of a special event.</message>
 </msbt>

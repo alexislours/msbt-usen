@@ -191,4 +191,19 @@ book fell to the floor with a thump!
 panic set in, <tag a="110" b="5" />.<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />I had lost my place<delay20 /> and would have
 to start reading the whole thing
 again from the very beginning!</message>
+	<message label="035" attrib="24 00 00 01 00 00 00 09"><anim id="Hello" target="actor" targetSpec="" />I've been thinking about <delay8 />how<delay8 /> you
+say something changes the way
+you feel.<delay8 /> Like this, for example.</message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="036_01" attrib="00 00 00 00 00 00 00 00"><tag a="10" b="12" /><size value="150" /><anim id="Cheering" target="actor" targetSpec="" />I FEEL GREAT!<size value="100" /><delay frames="60" /><anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak />I have to admit that I do feel pretty
+great after that.<pageBreak />Even if<tag a="110" b="0" />agh<tag a="110" b="0" />I have<tag a="110" b="0" />ouch<tag a="110" b="0" />
+<anim id="Silent" target="actor" targetSpec="" />a sore throat now, <tag a="110" b="6" />.</message>
+	<message label="036_02" attrib="00 00 00 00 00 00 00 00"><anim id="Cheering" target="actor" targetSpec="" />You're fun!<delay8 /> I like talking to you,
+<tag a="110" b="3" />!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" />But wait<tag a="110" b="0" /> That's how I always feel,
+talking to you. That just turned the
+volume way up, <tag a="110" b="6" />.</message>
+	<message label="036_03" attrib="00 00 00 00 00 00 00 00"><anim id="Cheering" target="actor" targetSpec="" />Let's do our very best today!<delay20 />
+Until!<delay8 /> Today!<delay8 /> Is!<delay8 /> Over!<anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />That's<tag a="110" b="0" />a lot of noise.<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />But if I'm
+ever going to cheer, it'll be for our
+friendship, <tag a="110" b="6" />.</message>
 </msbt>

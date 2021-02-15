@@ -20,20 +20,18 @@ because a certain soon-to-be
 celeb lives on <tag a="110" b="8" />!
 <anim id="SmugFace" target="actor" targetSpec="" />It's me, B-T-dubs.</message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
-	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />That property finally sold! I heard
-the name of the buyer is
-<tag a="115" b="1" arg="0xcd00" />.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" /><delay20 />I can't wait to meet <gender3 m="him" f="her" />!<delay20 />
-Maybe <gender3 m="he's" f="she's" /> a talent agent!</message>
+	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Have you heard?<delay8 /> A plot of land sold!<delay8 />
+And get this.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />The buyer's name is
+<tag a="115" b="1" arg="0xcd00" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" /><delay20 />I can't wait to meet <gender3 m="him" f="her" />!<delay20 /> Maybe <gender3 m="he's" f="she's" />
+a talent agent, <tag a="110" b="6" />!</message>
 	<message label="005_02" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Did you hear?<delay20 /> Somebody bought
-that property!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I guess their name's
-<tag a="115" b="1" arg="0xcd00" />,
-which is pretty cool.<pageBreak />You know, first impressions are
+that property!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" /><gender3 m="His" f="Her" /> name is <tag a="115" b="1" arg="0xcd00" />,
+I guess, which is pretty cool.<pageBreak />You know, first impressions are
 important. <anim id="HappyDance" target="actor" targetSpec="" /><delay20 />What do you think
 about a welcome concert?<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />What do you mean, "Who would
 perform?"<10_4 /> <anim id="Worried" target="actor" targetSpec="" /><delay20 />Y-you know it'd be
-me<tag a="110" b="0" />right?!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />You're joking?<delay frames="40" /> OK,
-<tag a="110" b="3" />,
-that was pretty funny!</message>
+me<tag a="110" b="0" />right?!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />You're joking?<delay frames="40" /> OK, that was pretty
+funny, <tag a="110" b="3" />!</message>
 	<message label="005_03" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey! Somebody named
 <tag a="115" b="1" arg="0xcd00" /> bought the
 land that was for sale!<pageBreak />I hope <gender3 m="he" f="she" /> gets here soon. <anim id="HappyDance" target="actor" targetSpec="" />I need to

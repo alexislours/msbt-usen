@@ -116,7 +116,7 @@ Name Faster, <tag a="110" b="3" />!</message>
 	<message label="026" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Bet you couldn't beat me in a game
 of Who Can Imagine Being a
 Celebrity, <tag a="110" b="3" />!</message>
-	<message label="027" attrib="1c 00 00 01 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Ever heard of "dance crafting"?<delay40 />
+	<message label="027" attrib="1c 00 00 01 00 00 00 09"><anim id="QuestionMark" target="actor" targetSpec="" />Ever heard of "dance crafting"?<delay40 />
 <anim id="SmugFace" target="actor" targetSpec="" />It's the latest trend and my new
 favorite thing.
 <anim id="Explain" target="actor" targetSpec="" />Basically,<delay20 /> you come up with a theme<delay8 />
@@ -147,4 +147,33 @@ I am <tag a="50" b="2" /><tag a="135" b="5" arg="0xcd00" />.<delay40 />
 <anim id="Shocked" target="actor" targetSpec="" />That was incredible! <delay20 />I barely
 recognized myself for a minute there.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Those online acting classes are
 really paying off!</message>
+	<message label="032" attrib="21 00 00 01 00 00 00 09"><anim id="Hello" target="actor" targetSpec="" />Listen to this!<delay20 /> I've GOT to tell you
+what happened the last time I hung
+out with <tag a="110" b="11" arg="0xcd00" />.</message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x22 0x23 0x24" /></message>
+	<message label="034" attrib="25 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We were playing a game where we
+both closed our eyes and tried to
+draw foods without looking.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Trust me—it's harder than it sounds!<delay20 />
+<anim id="Thinking" target="actor" targetSpec="" />I was sure I had a decent-looking
+<tag a="135" b="7" arg="0xcd00" /> in progress<tag a="110" b="0" /><pageBreak />But when we opened our eyes, <anim id="Laughing" target="actor" targetSpec="" />we
+had both flubbed it SO hard!<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />It did
+make us pretty hungry though.</message>
+	<message label="035" attrib="25 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We were playing a game where
+we flipped open a random page
+in a <tag a="135" b="6" arg="0xcd00" /> magazine<tag a="110" b="0" />
+<anim id="Laughing" target="actor" targetSpec="" />Then we had to copy a pose from a
+photo on that page!<delay20 /> It was fun, <anim id="Oops" target="actor" targetSpec="" />but
+I definitely sprained something.
+I'm totes up for playing that again<tag a="110" b="0" />
+<anim id="Sighing" target="actor" targetSpec="" />as long as we can shift to a sitting-
+based magazine.<delay20 /> Oof.</message>
+	<message label="036" attrib="25 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We were vegging out, watching some
+TV, and trying to guess when each
+commercial break would end.<pageBreak />Not to brag, but I watch a LOT of TV,
+<anim id="SmugFace" target="actor" targetSpec="" />so I won pretty much every round.<pageBreak />I just need to come up with a less
+complicated victory dance.<delay20 /> <anim id="BrokenHeart" target="actor" targetSpec="" />I ended
+up missing half of the actual show!</message>
+	<message label="037" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ooh! We should try that together
+too! You and me!<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />That would be
+MEGA fun, <tag a="110" b="3" />.</message>
 </msbt>
