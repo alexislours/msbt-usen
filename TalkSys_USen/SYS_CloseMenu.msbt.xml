@@ -1,26 +1,34 @@
 <msbt attribsize="3">
-	<message label="001" attrib="02 00 20">What would you like to do?</message>
+	<message label="001" attrib="04 00 20">What would you like to do?</message>
 	<message label="001_a" attrib="00 08 18"><anim id="EmotEnd" target="player" targetSpec="" />End session.</message>
-	<message label="001_b" attrib="00 00 18"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
-	<message label="002" attrib="04 00 20">What would you like to do?</message>
+	<message label="001_b" attrib="00 00 18">View another's passport.</message>
+	<message label="001_c" attrib="00 00 18"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
+	<message label="002" attrib="06 00 20">What would you like to do?</message>
 	<message label="002_a" attrib="00 08 19"><anim id="EmotEnd" target="player" targetSpec="" />End session.</message>
-	<message label="002_b" attrib="00 00 19"><anim id="EmotEnd" target="player" targetSpec="" />Report.</message>
-	<message label="002_c" attrib="00 00 19"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
-	<message label="004" attrib="02 00 20">Ready to return to your own island?</message>
+	<message label="002_b" attrib="00 00 18">View another's passport.</message>
+	<message label="002_c" attrib="00 00 19"><anim id="EmotEnd" target="player" targetSpec="" />Report.</message>
+	<message label="002_d" attrib="00 00 19"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
+	<message label="004" attrib="04 00 20">What would you like to do?</message>
 	<message label="004_a" attrib="00 08 20"><anim id="EmotEnd" target="player" targetSpec="" />Return to my island.</message>
-	<message label="004_b" attrib="00 00 20"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
-	<message label="005" attrib="04 00 20">Ready to return to your own island?</message>
+	<message label="004_b" attrib="00 00 20">View another's passport.</message>
+	<message label="004_c" attrib="00 00 20"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
+	<message label="005" attrib="06 00 20">What would you like to do?</message>
 	<message label="005_a" attrib="00 08 20"><anim id="EmotEnd" target="player" targetSpec="" />Return to my island.</message>
-	<message label="005_b" attrib="00 00 20"><anim id="EmotEnd" target="player" targetSpec="" />Report.</message>
-	<message label="005_c" attrib="00 00 20"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
-	<message label="006" attrib="02 00 00">Would you like to end this session?</message>
+	<message label="005_b" attrib="00 00 20">View another's passport.</message>
+	<message label="005_c" attrib="00 00 20"><anim id="EmotEnd" target="player" targetSpec="" />Report.</message>
+	<message label="005_d" attrib="00 00 20"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
+	<message label="006" attrib="06 00 20">Would you like to end this session?</message>
 	<message label="006_a" attrib="00 08 18"><anim id="EmotEnd" target="player" targetSpec="" />End session.</message>
-	<message label="006_b" attrib="00 00 18"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
+	<message label="006_b" attrib="00 00 18">View another's passport.</message>
+	<message label="006_c" attrib="00 00 18"><anim id="EmotEnd" target="player" targetSpec="" />Report.</message>
+	<message label="006_d" attrib="00 00 18"><anim id="EmotEnd" target="player" targetSpec="" />Never mind.</message>
+	<message label="007" attrib="00 00 20">I should wait until the performance
+is over.</message>
 	<message label="011" attrib="02 00 20">Ready to wrap things up for now?</message>
 	<message label="011_a" attrib="00 07 18"><anim id="EmotEnd" target="player" targetSpec="" />Save and end.</message>
 	<message label="011_b" attrib="00 00 18"><anim id="EmotEnd" target="player" targetSpec="" />Keep playing.</message>
 	<message label="012" attrib="00 00 20">Save complete.<delay20 />
-Come back and play anytime!</message>
+See you later!</message>
 	<message label="013" attrib="00 00 19">You can't save right now.</message>
 	<message label="019" attrib="00 00 19">You can't save right now.</message>
 	<message label="020" attrib="02 00 20">Ready to wrap things up for now?

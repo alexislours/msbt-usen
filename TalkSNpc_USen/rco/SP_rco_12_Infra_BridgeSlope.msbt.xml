@@ -88,8 +88,8 @@ standing near the <colour id="1" />base of the cliff<colour id="65535" />.
 <anim id="Smiling" target="actor" targetSpec="" />When you're ready, you'll be able to
 imagine what your new incline will
 look like.</message>
-	<message label="206" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Excellent! <delay20 />Or<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />maybe not?<delay20 />
-<anim id="WrySmile" target="actor" targetSpec="" />Your pockets are quite full at
+	<message label="206" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Excellent! <delay20 />Or<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />maybe not?<delay20 />
+Your pockets are quite full at
 the moment, <tag a="110" b="1" />.
 <anim id="EmotEnd" target="actor" targetSpec="" />I need to give you a special
 <colour id="1" /><tag a="50" b="0" arg="0x200 0xcd03" />incline marker kit<anim id="Smiling" target="actor" targetSpec="" /><colour id="65535" /> so you can set
@@ -100,8 +100,8 @@ back to talk about this with me again.</message>
 	<message label="207" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />My, my! Changed your mind?<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />It is a
 rather large project, after all.<delay8 /> <anim id="Smiling" target="actor" targetSpec="" />It's a
 good idea to think it through.</message>
-	<message label="208" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Oh my<tag a="110" b="0" /> It seems we already have
-<colour id="1" />8 inclines<colour id="65535" /> on this island.<delay20 /> That's about<delay8 />
+	<message label="208" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Oh my<tag a="110" b="0" /><delay20 /> It seems we already have
+<colour id="1" />8 inclines<colour id="65535" /> on this island.<delay frames="60" /> That's about<delay8 />
 <anim id="Worried" target="actor" targetSpec="" />as many as our little isle can handle.
 <anim id="EmotEnd" target="actor" targetSpec="" />If you really want a new one,<delay20 /> we'll
 <anim id="Smiling" target="actor" targetSpec="" />need to <colour id="1" />demolish<colour id="65535" /> one of the existing
@@ -113,12 +113,12 @@ space we have on our lovely island.
 <anim id="EmotEnd" target="actor" targetSpec="" />Of course, removing a bridge or
 incline does come with a small
 demolition fee of <anim id="Smiling" target="actor" targetSpec="" /><tag a="90" b="22" arg="0x0" />.</message>
-	<message label="302" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Our island doesn't have any bridges
+	<message label="302" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Our island doesn't have any bridges
 or inclines at the moment, <delay20 /><anim id="Smiling" target="actor" targetSpec="" />so there's
 nothing I can help demolish.
 <anim id="Silent" target="actor" targetSpec="" />But for future reference, demolished
 bridges and inclines can't be
-restored.<anim id="Smiling" target="actor" targetSpec="" /> So think carefully!</message>
+restored.<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /> So think carefully!</message>
 	<message label="303" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Demolished bridges and inclines
 can't be restored!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> So I implore you,
 make such decisions very carefully.

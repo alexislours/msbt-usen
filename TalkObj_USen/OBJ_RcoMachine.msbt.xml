@@ -11,12 +11,12 @@ following services:</message>
 	<message label="002_a" attrib="00 00 20">Redeem Nook Miles</message>
 	<message label="002_b" attrib="00 00 20">Nook Shopping</message>
 	<message label="002_c" attrib="00 00 20">ABD</message>
-	<message label="002_d" attrib="00 00 20">Exit</message>
+	<message label="002_d" attrib="00 00 20">Sign off</message>
 	<message label="002_01" attrib="04 00 20">Please select from the
 following services:</message>
 	<message label="002_01_a" attrib="00 00 20">Nook Shopping</message>
 	<message label="002_01_b" attrib="00 00 20">ABD</message>
-	<message label="002_01_c" attrib="00 00 20">Exit</message>
+	<message label="002_01_c" attrib="00 00 20">Sign off</message>
 	<message label="003" attrib="00 00 20">Thank you for your patronage.</message>
 	<message label="005" attrib="08 00 20">Please select from the
 following services:</message>
@@ -24,29 +24,29 @@ following services:</message>
 	<message label="005_b" attrib="00 00 20">Nook Shopping</message>
 	<message label="005_c" attrib="00 00 20">ABD</message>
 	<message label="005_d" attrib="00 00 20">Invite  Camper</message>
-	<message label="005_e" attrib="00 00 20">Exit</message>
+	<message label="005_e" attrib="00 00 20">Sign off</message>
 	<message label="007" attrib="08 00 20">Please select from the
 following services:</message>
 	<message label="007_a" attrib="00 00 20">Redeem Nook Miles</message>
 	<message label="007_b" attrib="00 00 20">Nook Shopping</message>
 	<message label="007_c" attrib="00 00 20">ABD</message>
 	<message label="007_d" attrib="00 00 20">Invite  Camper</message>
-	<message label="007_e" attrib="00 00 20">Exit</message>
+	<message label="007_e" attrib="00 00 20">Sign off</message>
 	<message label="008" attrib="06 00 20">Please select from the
 following services:</message>
 	<message label="008_a" attrib="00 00 20">Nook Shopping</message>
 	<message label="008_b" attrib="00 00 20">ABD</message>
 	<message label="008_c" attrib="00 00 20">Invite  Camper</message>
-	<message label="008_d" attrib="00 00 20">Exit</message>
+	<message label="008_d" attrib="00 00 20">Sign off</message>
 	<message label="012" attrib="02 00 20">Redeem <colour id="1" /><tag a="90" b="40" arg="0xcd00" /><delay8 /><colour id="65535" /> for
 <tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />?</message>
 	<message label="012_a" attrib="00 00 20">Redeem</message>
 	<message label="012_b" attrib="00 00 20">No</message>
 	<message label="013" attrib="02 00 20">This <colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" /><delay8 /> is
 an add-on construction permit
-for the <colour id="1" />Island Designer<colour id="65535" /> app.<pageBreak />The value is <tag a="90" b="40" arg="0xcd00" />.<delay8 />
-Would you like to redeem miles
-for this permit?</message>
+for the <colour id="1" />Island Designer<colour id="65535" /> app.<pageBreak />The price is <tag a="90" b="40" arg="0xcd00" />.<delay8 />
+Would you like to redeem
+miles for this permit?</message>
 	<message label="013_a" attrib="00 00 20">Redeem</message>
 	<message label="013_b" attrib="00 00 20">No</message>
 	<message label="014" attrib="00 00 20">Your redemption request has been
@@ -152,14 +152,14 @@ Nook Stop and the Nook Mileage Program in the new year.<colour id="65535" /></me
 	<message label="501" attrib="00 00 20">With this option, you can invite
 animals to the campsite using an
 <colour id="1" />Animal Crossing character's amiibo<colour id="65535" />.</message>
-	<message label="512" attrib="02 00 20">Do you want to use amiibo to invite
-an animal to the campsite?</message>
+	<message label="512" attrib="02 00 20">Do you want to use an amiibo to
+invite an animal to the campsite?</message>
 	<message label="512_a" attrib="00 00 20">Yes, I do!</message>
 	<message label="512_b" attrib="00 00 20">No</message>
 	<message label="514" attrib="00 00 20">There is a guest currently visiting
 the campsite.<pageBreak />If you invite a camper with amiibo,
 the current guest will leave.</message>
-	<message label="515" attrib="00 00 20">We hope you try this again sometime!</message>
+	<message label="515" attrib="00 00 20">We hope to see you again soon!</message>
 	<message label="516" attrib="00 00 20">Thank you for your patronage.</message>
 	<message label="521" attrib="00 00 20">Please prepare the amiibo for
 the animal you want to invite to
@@ -187,6 +187,13 @@ But <gender3 m="he's" f="she's" /> already at the campsite.</message>
 wish to stop using this service?</message>
 	<message label="529_a" attrib="00 00 20">Stop.</message>
 	<message label="529_b" attrib="00 00 20">Read again.</message>
+	<message label="530" attrib="02 00 20">That's <tag a="115" b="1" arg="0xcd00" />'s amiibo!<delay frames="40" />
+Would you like to invite <gender3 m="him" f="her" />
+to the campsite?</message>
+	<message label="530_a" attrib="00 00 20">Yes!</message>
+	<message label="530_b" attrib="00 00 20">Never mind.</message>
+	<message label="531" attrib="00 00 20"><tag a="110" b="0" />It seems you can't chat with
+<tag a="115" b="1" arg="0xcd00" /> right now.</message>
 	<message label="541" attrib="00 00 20">You can only invite one camper to
 the campsite per day. Please come
 back again tomorrow.</message>
@@ -196,8 +203,8 @@ done using networked play.</message>
 	<message label="543" attrib="00 00 20">You can't use amiibo when the gate
 in the airport is open for visitors.<pageBreak />Please try again when the gate in
 the airport is closed.</message>
-	<message label="543_01" attrib="00 00 20">You cannot read amiibo while
-network communications are active.<pageBreak />Please shut down communications
+	<message label="543_01" attrib="00 00 20">You can't read amiibo while network
+communications are active.<pageBreak />Please shut down communications
 from the airport counter, and then
 try again.</message>
 	<message label="544" attrib="00 00 20">You can't use amiibo when Airplane

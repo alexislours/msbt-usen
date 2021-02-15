@@ -1,9 +1,9 @@
 <msbt attribsize="4">
 	<message label="000_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah, <tag a="110" b="1" />. Good to
 see you!</message>
-	<message label="000_02" attrib="00 00 00 00">Hello, you've reached Nook Inc.<delay40 />
+	<message label="000_02" attrib="00 00 00 13">Hello, you've reached Nook Inc.<delay40 />
 <anim id="Shocked" target="actor" targetSpec="" />Oh! You saw our ad<tag a="110" b="0" /><delay40 /><anim id="Smiling" target="actor" targetSpec="" /> I see<tag a="110" b="0" /> Hm<tag a="110" b="0" /></message>
-	<message label="001" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, of course!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Don't worry about a thing.<delay40 /> We can
+	<message label="001" attrib="00 00 00 13"><anim id="Smiling" target="actor" targetSpec="" />Yes, of course!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Don't worry about a thing.<delay40 /> We can
 set up your getaway package to
 include a lovely furnished <colour id="1" />home<colour id="65535" />.
 <size value="75" />Mmm-hmm<tag a="110" b="0" /><size value="100" /><delay frames="40" /> <anim id="Shocked" target="actor" targetSpec="" />Oh, not at all!<delay frames="40" /><anim id="Frantic" target="actor" targetSpec="" /> We'll set up
@@ -79,7 +79,7 @@ and<tag a="110" b="0" /><anim id="Smiling" target="actor" targetSpec="" />well<t
 Now, placing bridges can be tricky
 business, so do come see me if you
 have trouble or need advice.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Good luck, <tag a="110" b="1" />!</message>
-	<message label="015_02" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />With your <tag a="50" b="0" arg="0x100 0xcd03" />bridge construction kit on
+	<message label="015_02" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />With your <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />bridge construction kit<colour id="65535" /> on
 hand, go to the spot where you'll set
 the bridge, and then<tag a="110" b="0" /><delay frames="40" />set the bridge!<pageBreak />Since you're here, would you<anim id="QuestionMark" target="actor" targetSpec="" /> like
 some advice on setting up bridges?</message>
@@ -184,8 +184,8 @@ mode!</message>
 	<message label="105_01" attrib="00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />I vow to get this done quickly and
 get it done right!</message>
 	<message label="105_02" attrib="00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />I vow to get this done quickly and
-to get it done right!<pageBreak />Why, <anim id="WrySmile" target="actor" targetSpec="" />if all goes well, we could start
-seeing someone in the new home
+to get it done right!<pageBreak />Why, <anim id="WrySmile" target="actor" targetSpec="" />if all goes well, we could
+have someone in a new home
 as soon as tomorrow!</message>
 	<message label="106" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />By the way, I plan on letting the
 island know about folks moving in

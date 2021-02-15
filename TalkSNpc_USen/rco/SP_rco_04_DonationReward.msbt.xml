@@ -56,10 +56,10 @@ I'd love your cooperation, hm?</message>
 	<message label="011_01_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is in no way tied to your
 generous donation just now, but
 I have a useful app to show you.</message>
-	<message label="011_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I sent you the <colour id="1" />Critterpedia<colour id="65535" /> app. It's a
+	<message label="011_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I sent you the <colour id="1" />Critterpedia<colour id="65535" /> app. It's a
 terrific resource for an aspiring
 island researcher such as yourself.
-<anim id="Cheering" target="actor" targetSpec="" />With this one app, you'll get all the
+<anim id="FaintSmile" target="actor" targetSpec="" />With this one app, you'll get all the
 important details about the bugs and
 fish you catch. Yes, yes!</message>
 	<message label="011_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I do hope you'll continue to fill it
@@ -120,7 +120,7 @@ you before<tag a="110" b="0" /></message>
 	<message label="014_03" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The flowers that grow will be very
 strong. They'll spring up even if you
 just plant them and forget them.
-<anim id="Nodding" target="actor" targetSpec="" />Ah, but if you <colour id="1" />water <colour id="65535" />every day<tag a="110" b="0" />
+<anim id="Nodding" target="actor" targetSpec="" />Ah, but if you <colour id="1" />water<colour id="65535" /> them each day<tag a="110" b="0" />
 that's where the magic happens!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Watering opens up the possibility
 of propagating and crossbreeding
 your flowers to develop rare colors.</message>
@@ -133,10 +133,10 @@ free<tag a="110" b="0" />
 <anim id="FaintSmile" target="actor" targetSpec="" />But you've collected creatures for
 me, <tag a="110" b="1" />,<delay frames="30" /><anim id="Laughing" target="actor" targetSpec="" /> so this is
 just part of island give-and-take!</message>
-	<message label="015_01" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hold the phone—someone's calling!<10_7 arg="90" /></message>
-	<message label="015_02" attrib="00 00 00 00"><colour id="3" /><anim id="QuestionMark" target="actor" targetSpec="" />Blathers<colour id="65535" />, is that you?<10_4 /> <anim id="Cheering" target="actor" targetSpec="" />
-Oho, what splendid timing!</message>
-	<message label="015_03" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yes, yes<tag a="110" b="0" /> Do you remember
+	<message label="015_01" attrib="00 00 00 00">Hold the phone—someone's calling!<10_7 arg="90" /></message>
+	<message label="015_02" attrib="00 00 00 13"><colour id="3" /><anim id="QuestionMark" target="actor" targetSpec="" />Blathers<colour id="65535" />, is that you?<10_4 /><anim id="Smiling" target="actor" targetSpec="" /> Oho,
+what splendid timing!</message>
+	<message label="015_03" attrib="00 00 00 13"><anim id="Nodding" target="actor" targetSpec="" />Yes, yes<tag a="110" b="0" /> Do you remember
 the venture we discussed?<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />
 Well, it's come to fruition!
 <anim id="Explain" target="actor" targetSpec="" />I am currently stationed on an
@@ -145,7 +145,7 @@ call <tag a="110" b="8" />!
 <anim id="HappyFlower" target="actor" targetSpec="" />Yes, yes<tag a="110" b="0" /> The local fauna are as
 abundant as expected. <delay20 />Just as I
 told you!</message>
-	<message label="015_04" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" /><size value="75" />Mm-hmm<tag a="110" b="0" /><10_7 arg="60" /><size value="100" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />How many precisely, you ask?<delay frames="40" />
+	<message label="015_04" attrib="00 00 00 13"><anim id="AbsentMindedness" target="actor" targetSpec="" /><size value="75" />Mm-hmm<tag a="110" b="0" /><10_7 arg="60" /><size value="100" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />How many precisely, you ask?<delay frames="40" />
 <anim id="Negative" target="actor" targetSpec="" />Well, there's no way of knowing
 just yet.
 <anim id="Thinking" target="actor" targetSpec="" />But I have received<tag a="110" b="0" />let's see<tag a="110" b="0" />

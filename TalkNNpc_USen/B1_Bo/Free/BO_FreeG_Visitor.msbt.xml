@@ -4,7 +4,7 @@ that grow on this island yet?</message>
 	<message label="001_a" attrib="04 00 00 00 00 00 00 00">Swallowed one whole!</message>
 	<message label="001_b" attrib="05 00 00 00 00 00 00 00">Nope!</message>
 	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
-	<message label="003" attrib="09 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x10 0x11 0xffff 0xffff" /></message>
+	<message label="003" attrib="09 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x1 0x10 0x11 0x12" /></message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />A huh huh huh,<delay20 /> super yummy, huh?<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />I love 'em too!<delay20 /> Eat as many as ya
 want, <tag a="110" b="5" />!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Wait<tag a="110" b="0" /><delay20 /> What?<delay frames="40" /> Why not?
@@ -27,10 +27,11 @@ really hard to open a <colour id="1" />museum<colour id="65535" />
 on <tag a="110" b="8" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />They need stuff to put on display, so
 it'd be cool if you could donate a
 thing, <anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="4" />.</message>
-	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x15 0x16 0x17 0x19" /></message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x15 0x16 0x17 0x18 0x19" /></message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
 	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
+	<message label="024" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1f03 0x1900 0xcd00" /></message>
 	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />There's an awesome <colour id="1" />museum<colour id="65535" />
 on <tag a="110" b="8" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />You should go!<delay20 /> No worries on
 scheduling a visit either. It's open
@@ -50,46 +51,38 @@ and she said, "<tag a="50" b="3" /><tag a="110" b="6" />!"
 <tag a="50" b="2" /><tag a="135" b="13" arg="0x2" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I kept staring at it the other day.<delay40 />
 I was looking<delay40 /> at this ancient thing<tag a="110" b="0" />
 It felt like looking <delay20 /><anim id="Pardon" target="actor" targetSpec="" />through time.</message>
-	<message label="101" attrib="00 00 10 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, <tag a="110" b="4" />.<delay frames="40" />
-What do you do to kick back and
-<anim id="Hello" target="actor" targetSpec="" /><delay20 />have fun on your new island?</message>
-	<message label="101_a" attrib="66 00 00 00 00 00 00 00">Go fishing. For fish.</message>
-	<message label="101_b" attrib="67 00 00 00 00 00 00 00">Catch freaky bugs.</message>
-	<message label="101_c" attrib="68 00 00 00 00 00 00 00">Pro-level hide &amp; seek.</message>
-	<message label="101_d" attrib="69 00 00 00 00 00 00 00">Dig up "treasures."</message>
-	<message label="101_e" attrib="6a 00 00 00 00 00 00 00">Hang out with friends.</message>
-	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Yeah, fishing!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />I still fish a lot too!<10_4 />
-<anim id="AbsentMindedness" target="actor" targetSpec="" />Mmmm, tasty fishies<tag a="110" b="0" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I wonder if fish from this island
-taste the same as the fish from
-your island?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Maybe I oughta think about moving
-to <tag a="110" b="9" />, huh? </message>
-	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Bug catching? Yeah. That's cool.<delay frames="40" />
+	<message label="201" attrib="00 00 10 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />.<delay20 /> What've you
+been doing to chill out and<anim id="Hello" target="actor" targetSpec="" /> <delay20 />have
+fun back on <tag a="110" b="9" />?</message>
+	<message label="201_a" attrib="ca 00 00 00 00 00 00 00">Going fishing. For fish.</message>
+	<message label="201_b" attrib="cb 00 00 00 00 00 00 00">Catching freaky bugs.</message>
+	<message label="201_c" attrib="cc 00 00 00 00 00 00 00">Pro hide-and-seek.</message>
+	<message label="201_d" attrib="cd 00 00 00 00 00 00 00">Digging up "treasures."</message>
+	<message label="201_e" attrib="ce 00 00 00 00 00 00 00">Hanging out with friends.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Yeah, fishing!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />I still fish a lot too!<10_4 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Mmmm, fishies<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />It's so cool how the fish around
+here smell exactly like the fish
+from <tag a="110" b="9" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Brings back a lot of good
+memories, <tag a="110" b="5" />.</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Bug catching? Yeah. That's cool.<delay frames="40" />
 <anim id="EmotEnd" target="actor" targetSpec="" />I play tag with my bug friends too.
-"Here, buggy buggy<tag a="110" b="0" /> TAG!"<pageBreak /><delay20 /><anim id="Laughing" target="actor" targetSpec="" />A huh huh huh, I still lose all the
+"Here, buggy buggy<tag a="110" b="0" /> TAG!"<pageBreak /><anim id="Laughing" target="actor" targetSpec="" /><delay20 />A huh huh huh, I still lose all the
 time, though!<10_4 /> <anim id="Serious" target="actor" targetSpec="" />Bugs are fast, and
-they tag back.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />If you're tag-slapping bugs, maybe
-I oughta think about moving to
-<tag a="110" b="9" />, huh? </message>
-	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Oh yeah, hide-and-seek.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />That sounds
-so fun.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I was playing hide-and-seek once,
+they tag back, <tag a="110" b="5" />.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Oh yeah, hide-and-seek.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />That sounds
+so fun, <tag a="110" b="5" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I was playing hide-and-seek once,
 and I got stuck in a tree. <delay20 />I didn't call
-for help since I didn't wanna lose.<pageBreak />I was real cold and hungry by the
-time I finally lost that game<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />If you're into being sneaky, maybe
-I oughta think about moving to
-<tag a="110" b="9" />, huh? </message>
-	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You go treasure hunting?<delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" /> I wanna
-hunt for treasure!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It's been a real long time since
+for help since I didn't wanna lose.<pageBreak /><anim id="ColdChill" target="actor" targetSpec="" />I was real cold and hungry by the
+time I finally lost that game<tag a="110" b="0" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You go treasure hunting?<delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" /> I wanna
+hunt for treasure, <tag a="110" b="5" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It's been a real long time since
 I walked around digging holes,
 looking for treasure<tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Or even just digging holes. Ever do
-that? <delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />Ya gotta try it! Real relaxing.
-Gets you in touch with <delay8 />nature!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Well, if you're digging treasure holes,
-maybe I oughta think about moving
-to <tag a="110" b="9" />, huh?</message>
-	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Just hanging out sounds so nice.<delay frames="40" />
+that? <delay20 />Ya gotta try it! Real relaxing.
+Gets you in touch with <delay8 />nature!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Just hanging out sounds so nice.<delay frames="40" />
 <anim id="EmotEnd" target="actor" targetSpec="" />A huh huh, <delay20 /><anim id="Grin" target="actor" targetSpec="" />this island might be
 more, uh, noisy than yours.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />We've got <tag a="110" b="11" arg="0xcd00" /> and<delay20 />
 <tag a="110" b="11" arg="0xcd01" />, and those
-two are<tag a="110" b="0" />whew. Settle down.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />If you're just hanging out all the
-time, maybe I oughta think about
-moving to <tag a="110" b="9" />, huh? </message>
+two are<tag a="110" b="0" />whew. <delay20 />Settle down.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />It's a lotta fun, <tag a="110" b="5" />.</message>
 </msbt>

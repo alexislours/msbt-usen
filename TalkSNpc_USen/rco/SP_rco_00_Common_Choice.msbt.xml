@@ -2,7 +2,7 @@
 	<message label="000_01" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What would you like to talk to me
 about?<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> I'm all ears!</message>
 	<message label="000_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is the <colour id="1" />construction consultation
-counter<colour id="65535" />!<10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
+counter<colour id="65535" />!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
 	<message label="000_03" attrib="00 00 00 00">Is there<tag a="110" b="0" /><delay20 />anything else<anim id="QuestionMark" target="actor" targetSpec="" /> I can
 help you with, hm?</message>
 	<message label="101" attrib="06 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What would you like to talk to me
@@ -110,20 +110,20 @@ about?<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> I'm all ears
 	<message label="208_e" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="208_f" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="501" attrib="08 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is the <colour id="1" />construction consultation
-counter<colour id="65535" />!<10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
+counter<colour id="65535" />!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
 	<message label="501_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
 	<message label="501_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About that workshop...</message>
 	<message label="501_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="501_d" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's talk infrastructure.</message>
 	<message label="501_e" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="502" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is the <colour id="1" />construction consultation
-counter<colour id="65535" />!<10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
+counter<colour id="65535" />!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
 	<message label="502_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
 	<message label="502_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="502_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's talk infrastructure.</message>
 	<message label="502_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="503" attrib="0a 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is the <colour id="1" />construction consultation
-counter<colour id="65535" />!<10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
+counter<colour id="65535" />!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
 	<message label="503_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
 	<message label="503_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About that workshop...</message>
 	<message label="503_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's hold a ceremony!</message>
@@ -131,32 +131,32 @@ counter<colour id="65535" />!<10_4 /><anim id="QuestionMark" target="actor" targ
 	<message label="503_e" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's talk infrastructure.</message>
 	<message label="503_f" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="504" attrib="08 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is the <colour id="1" />construction consultation
-counter<colour id="65535" />!<10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
+counter<colour id="65535" />!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
 	<message label="504_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
 	<message label="504_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's hold a ceremony!</message>
 	<message label="504_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="504_d" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's talk infrastructure.</message>
 	<message label="504_e" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="511" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is the <colour id="1" />construction consultation
-counter<colour id="65535" />!<10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
+counter<colour id="65535" />!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
 	<message label="511_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
 	<message label="511_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About that workshop...</message>
 	<message label="511_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="511_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="512" attrib="04 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is the <colour id="1" />construction consultation
-counter<colour id="65535" />!<10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
+counter<colour id="65535" />!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
 	<message label="512_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
 	<message label="512_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="512_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="513" attrib="08 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is the <colour id="1" />construction consultation
-counter<colour id="65535" />!<10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
+counter<colour id="65535" />!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
 	<message label="513_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
 	<message label="513_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About that workshop...</message>
 	<message label="513_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's hold a ceremony!</message>
 	<message label="513_d" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="513_e" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="514" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is the <colour id="1" />construction consultation
-counter<colour id="65535" />!<10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
+counter<colour id="65535" />!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I help you, hm?</message>
 	<message label="514_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
 	<message label="514_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's hold a ceremony!</message>
 	<message label="514_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
@@ -174,6 +174,12 @@ help you with, hm?</message>
 	<message label="601_01_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About that workshop...</message>
 	<message label="601_01_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="601_01_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
+	<message label="601_02" attrib="06 00 00 00">Is there<tag a="110" b="0" /><delay20 />anything else<anim id="QuestionMark" target="actor" targetSpec="" /> I can
+help you with, hm?</message>
+	<message label="601_02_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
+	<message label="601_02_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About that workshop...</message>
+	<message label="601_02_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my moving fees...</message>
+	<message label="601_02_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="602" attrib="06 00 00 00">Is there<tag a="110" b="0" /><delay20 />anything else<anim id="QuestionMark" target="actor" targetSpec="" /> I can
 help you with, hm?</message>
 	<message label="602_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
@@ -185,6 +191,11 @@ help you with, hm?</message>
 	<message label="602_01_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
 	<message label="602_01_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="602_01_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
+	<message label="602_02" attrib="04 00 00 00">Is there<tag a="110" b="0" /><delay20 />anything else<anim id="QuestionMark" target="actor" targetSpec="" /> I can
+help you with, hm?</message>
+	<message label="602_02_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
+	<message label="602_02_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my moving fees...</message>
+	<message label="602_02_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="603" attrib="0a 00 00 00">Is there<tag a="110" b="0" /><delay20 />anything else<anim id="QuestionMark" target="actor" targetSpec="" /> I can
 help you with, hm?</message>
 	<message label="603_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
@@ -200,6 +211,13 @@ help you with, hm?</message>
 	<message label="603_01_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's hold a ceremony!</message>
 	<message label="603_01_d" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="603_01_e" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
+	<message label="603_02" attrib="08 00 00 00">Is there<tag a="110" b="0" /><delay20 />anything else<anim id="QuestionMark" target="actor" targetSpec="" /> I can
+help you with, hm?</message>
+	<message label="603_02_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
+	<message label="603_02_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About that workshop...</message>
+	<message label="603_02_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's hold a ceremony!</message>
+	<message label="603_02_d" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my moving fees...</message>
+	<message label="603_02_e" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 	<message label="604" attrib="08 00 00 00">Is there<tag a="110" b="0" /><delay20 />anything else<anim id="QuestionMark" target="actor" targetSpec="" /> I can
 help you with, hm?</message>
 	<message label="604_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
@@ -213,4 +231,10 @@ help you with, hm?</message>
 	<message label="604_01_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's hold a ceremony!</message>
 	<message label="604_01_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my home...</message>
 	<message label="604_01_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
+	<message label="604_02" attrib="06 00 00 00">Is there<tag a="110" b="0" /><delay20 />anything else<anim id="QuestionMark" target="actor" targetSpec="" /> I can
+help you with, hm?</message>
+	<message label="604_02_a" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />What should I do?</message>
+	<message label="604_02_b" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Let's hold a ceremony!</message>
+	<message label="604_02_c" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />About my moving fees...</message>
+	<message label="604_02_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
 </msbt>

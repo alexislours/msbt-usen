@@ -1,16 +1,16 @@
 <msbt attribsize="8">
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />You found it!<delay20 /> Nice work,
-<tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Hand it over so I can bend the lock
+<tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Hand it over so I can bend it
 open for you, <tag a="110" b="5" />.</message>
 	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />That was quick!<delay20 /> I knew it'd be easy
-for you, <tag a="110" b="3" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I can muscle open that lock for you.<delay frames="40" />
+for you, <tag a="110" b="3" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I can muscle it open for you.<delay frames="40" />
 <anim id="Smiling" target="actor" targetSpec="" />Hand it here, <tag a="110" b="5" />.</message>
 	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />You found it?!<delay frames="40" /> Guess I have
-some competition!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I can bend that lock open for you.<delay frames="40" />
-<anim id="EmotEnd" target="actor" targetSpec="" />Give it to me, <tag a="110" b="5" />.</message>
-	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I wonder what's inside<tag a="110" b="0" /></message>
+some competition!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I can bend it open for you if you
+want.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Give it to me, <tag a="110" b="5" />.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Ready to see what's inside?</message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Let's see what you found.</message>
-	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's find out what's in here.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Open, says me.</message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<pageBreak />Congrats, <tag a="110" b="3" />!</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<pageBreak />Congratulations, <tag a="110" b="3" />!</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!

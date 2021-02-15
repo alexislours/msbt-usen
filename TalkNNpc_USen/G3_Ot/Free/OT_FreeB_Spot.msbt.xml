@@ -59,12 +59,12 @@ haven't you, <tag a="110" b="6" />?<pageBreak /><anim id="Greeting" target="acto
 comfortably, <delay20 /><anim id="Grin" target="actor" targetSpec="" />but not so big that
 cleaning it is a burden.</message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" />Ooooh,<delay20 /> I see you've got TWO rooms
-in your house now! <delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />How luxurious!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" />I have to ask<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" /> What do you use
-the second room for? <delay8 />A bedroom?<delay8 />
-A kitchen?<delay8 /> A bathroom?
-<anim id="IdeaBulb" target="actor" targetSpec="" />I know! <delay8 />It's the room you keep all of
+in your house! <delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />How luxurious!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" />I have to ask<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" /> What do you use
+the second room for? <delay frames="45" /><anim id="Thinking" target="actor" targetSpec="" />A bedroom?<delay20 />
+A kitchen?<delay20 /> A bathroom?
+<anim id="IdeaBulb" target="actor" targetSpec="" />I know! <delay8 />It's the room you keep all
 your designer shoes in!<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Well, <delay8 />that's
-what I'd use it for, <tag a="110" b="6" />.</message>
+what I would use it for, <tag a="110" b="6" />.</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Eh" target="actor" targetSpec="" />Oh my!<delay frames="13" /> Will you look at that!<delay20 />
 <anim id="Smiling" target="actor" targetSpec="" />Your home has three rooms.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I like how it gives the exterior that,
 um<tag a="110" b="0" /><delay frames="13" />asymmetric look.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />A bold
@@ -120,28 +120,31 @@ know, <tag a="110" b="6" />.
 <anim id="IdeaBulb" target="actor" targetSpec="" />I know! <delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />Let's drop by for a visit so
 we can see what <tag a="115" b="0" arg="0xcd00" />
 has done with the place!</message>
-	<message label="016" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Eh" target="actor" targetSpec="" />My goodness, <delay8 /><tag a="115" b="0" arg="0xcd00" />'s
-house has grown quite large. <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />How
-much bigger will it get, I wonder?
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Eh" target="actor" targetSpec="" />My goodness, <delay20 /><tag a="115" b="0" arg="0xcd00" />'s
+house is quite large. <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />How much
+bigger will it get, I wonder?
 <20_3 arg="6" /><20_3 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" />If it continues expanding at this
 pace,<delay8 /> <anim id="Grin" target="actor" targetSpec="" />someone might get lost in
 there one day, <tag a="110" b="6" />.</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_3 arg="3" /><anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" />'s house has four
-rooms now.<delay8 /> FOUR!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" />Part of me is green with envy<tag a="110" b="0" /><anim id="Grin" target="actor" targetSpec="" />but 
-the other part does NOT envy all the
-cleaning <tag a="115" b="0" arg="0xcd00" /> must do!</message>
+rooms.<delay20 /> FOUR!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> I hate to admit it, <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />but
+part of me is green with envy.
+<20_3 arg="6" /><20_3 arg="3" />Of course,<delay8 /><anim id="Grin" target="actor" targetSpec="" /> the other part of me
+does NOT envy all the cleaning
+<tag a="115" b="0" arg="0xcd00" /> has to do!</message>
 	<message label="018" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" />'s house has
-a second story now, <delay8 />you know.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Greeting" target="actor" targetSpec="" />I do love my cozy little home.<delay8 /> But
+a second story, <delay8 />you know.<pageBreak /><20_3 arg="6" /><20_3 arg="3" />I do love my cozy little home.<delay8 /> But
 I confess,<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> I wouldn't mind expanding
-my horizons, <tag a="110" b="6" />!<delay frames="13" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
-	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Did you hear, <tag a="110" b="5" />?<delay20 />
+my horizons, <tag a="110" b="6" />!<delay frames="45" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Did you hear, <tag a="110" b="5" />?<delay frames="40" />
 <anim id="Angry" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" />'s house now
-has a basement!<pageBreak /><20_2 arg="10" /><20_2 arg="9" /><anim id="OhGeez" target="actor" targetSpec="" />There were plenty of rooms to begin
+has a basement!
+<20_2 arg="10" /><20_2 arg="9" /><anim id="OhGeez" target="actor" targetSpec="" />There were plenty of rooms to begin
 with,<delay8 /> but now there's one you
 can't even see from the outside!
-<20_3 arg="6" /><20_3 arg="3" /><anim id="Eh" target="actor" targetSpec="" />What on EARTH is it used for?<delay frames="0" /> <anim id="Outraged" target="actor" targetSpec="" />I just
+<20_3 arg="6" /><20_3 arg="3" /><anim id="Eh" target="actor" targetSpec="" />What on EARTH is it used for?<delay frames="40" /> <anim id="Outraged" target="actor" targetSpec="" />I just
 KNOW <tag a="115" b="0" arg="0xcd00" /> is hosting
-a book club down there without me!<delay8 /><anim id="Worried" target="actor" targetSpec="" /></message>
+a book club down there without me!<delay frames="40" /><anim id="Worried" target="actor" targetSpec="" /></message>
 	<message label="020" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><colour id="3" /><20_2 arg="9" /><colour id="65535" /><anim id="QuestionMark" target="actor" targetSpec="" />Did you know <colour id="3" />Timmy<colour id="65535" /> has a shop in
 <colour id="3" /><delay8 />Tom Nook<colour id="65535" />'s tent?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Explain" target="actor" targetSpec="" />It may not stock the widest selection,
 <delay8 />but everything he sells is useful for

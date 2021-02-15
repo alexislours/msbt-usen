@@ -45,8 +45,8 @@ nice, once you get to know her<delay8 /><tag a="110" b="0" />
 	<message label="015" attrib="00 00 00 00 00 00 00 00">I just met that <colour id="3" />C.J.<colour id="65535" /> character<delay8 /><tag a="110" b="0" />
 <anim id="Nodding" target="actor" targetSpec="" />Seems like a friendly enough kiddo.<delay40 />
 <anim id="FaintSmile" target="actor" targetSpec="" />Gonna try to catch him some fish?</message>
-	<message label="016" attrib="00 00 00 00 00 00 00 00"><colour id="3" />Flick<colour id="65535" />'s come back around again.<delay40 />
-<anim id="Restless" target="actor" targetSpec="" />If he's here for bugs and other
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Seems <colour id="3" />Flick<colour id="65535" />'s come by for a visit.<delay40 />
+If he's here for bugs and other
 crawlies,<delay20 /> <anim id="Serious" target="actor" targetSpec="" />he's welcome to 'em.</message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Heard that <colour id="3" />Kicks<colour id="65535" /> character is here<delay20 />
 sellin' stuff in our plaza today.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />He's usually got some top-notch
@@ -54,6 +54,18 @@ shoes and bags,<delay20 /> <tag a="110" b="5" />.</message>
 	<message label="018" attrib="00 00 00 00 00 00 00 00">So I guess <colour id="3" />Celeste <colour id="65535" />is here,<delay20 /> if you're
 lookin' for someone <anim id="OhGeez" target="actor" targetSpec="" />to explain the
 stars in the sky to you,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Question for ya, kiddo<tag a="110" b="0" /><delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Is it just me,
+or are folks seemin' a mite on edge
+lately, <tag a="110" b="5" />?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Like so-and-so sayin' they heard
+noises or saw something or being
+afraid of pickin' <tag a="110" b="7" arg="0xcd01" /> after dark.
+<anim id="Negative" target="actor" targetSpec="" />Everyone's all worked up about some
+kinda something they think's gonna
+come hoppin' up any second now.<pageBreak /><anim id="Outraged" target="actor" targetSpec="" />Well, I ain't seen or heard nothin'!<delay20 />
+It's all a lot of hooey if you ask me!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Today's just another mighty fine
+<tag a="110" b="8" /> day exactly like<delay8 /><anim id="Eh" target="actor" targetSpec="" /><delay20 /><tag a="110" b="0" /><delay frames="40" />
+<anim id="Pardon" target="actor" targetSpec="" /><delay20 />D-did you hear that?!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I'm sure that was just the wind
+playin' tricks.<delay20 /> Gotta be.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Just saw someone I didn't recognize.<delay40 />
 Can't say<delay20 /> <anim id="Negative" target="actor" targetSpec="" />that happens to me much.</message>
 </msbt>

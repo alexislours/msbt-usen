@@ -1,0 +1,28 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 26 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />How is everything out there? <delay20 />Are you
+finding lots of eggs, <tag a="110" b="5" />?</message>
+	<message label="002" attrib="00 00 00 26 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Have you spoken to <colour id="3" />Zipper<colour id="65535" />? <delay20 />He's
+always dancing in the plaza, and
+I've never seen him take a break.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I worry about him<tag a="110" b="0" /></message>
+	<message label="003" attrib="00 00 00 26 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I've heard the Bunny Day candy eggs
+are really good, <delay20 />but their colors and
+patterns are so cute<tag a="110" b="0" /><delay20 /><anim id="Negative" target="actor" targetSpec="" /> I just can't.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I hear the strangest thing has been
+happening.<pageBreak />I hear that sometimes when you
+hit rocks<tag a="110" b="0" /><anim id="Eh" target="actor" targetSpec="" />an egg comes out!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Oh, and I hear it happens even
+MORE often on those islands you
+get to with a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket<colour id="65535" />.
+<anim id="Worried" target="actor" targetSpec="" />I mean, <delay8 />I know those tour islands
+are supposed to be untouched
+wildernesses<tag a="110" b="0" />
+<anim id="Laughing" target="actor" targetSpec="" />But this really puts the WILD in
+wilderness, doesn't it, <tag a="110" b="5" />?<delay frames="45" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Bunny Day is almost here!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />When I was little, I used to go hit
+trees around this time of year to
+make pretty eggs fall out!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I never asked how they got there.<delay20 /> Or
+why coconut trees always had more
+than others. <delay20 />But now I wonder<tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Bunny Day is on <colour id="1" /><tag a="90" b="35" arg="0xcd00" /> <tag a="90" b="36" arg="0xcd00" /><colour id="65535" />
+this year.<delay frames="40" /> <anim id="Love" target="actor" targetSpec="" />I can't wait to see all
+the pretty eggs, <tag a="110" b="5" />!</message>
+</msbt>

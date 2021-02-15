@@ -222,9 +222,9 @@ stop by again <delay20 /><anim id="Serious" target="actor" targetSpec="" />with 
 	<message label="081" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So you're back, <tag a="110" b="3" />!<10_4 />
 <anim id="WrySmile" target="actor" targetSpec="" />You must've heard that I don't mess
 around when it comes to gifts.
-<anim id="Nodding" target="actor" targetSpec="" />This year I decided to give out
-<tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />
-as party favors.<delay20 /> Classic, right?
+<anim id="Nodding" target="actor" targetSpec="" />This year everyone gets <tag a="50" b="2" />
+<tag a="125" b="4" arg="0x200" /> as a
+party favor. <delay20 />Classic!
 <anim id="BigSmile" target="actor" targetSpec="" />Thanks again for partying
 it up in my honor!</message>
 	<message label="100" attrib="00 00 02 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Normally I'm not a fan of sharing

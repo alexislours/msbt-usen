@@ -60,13 +60,10 @@ that box there.</message>
 introduction to that box too.</message>
 	<message label="012" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />That is a<colour id="1" /> recycle box<colour id="65535" /> for all the
 island residents to use.<anim id="Smiling" target="actor" targetSpec="" /></message>
-	<message label="013_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Folks can put things they don't need
-in there, and we'll also use it for
-items removed during construction.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
-	<message label="013_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Folks can put things they don't need
-in there, and we'll also use it for
-items removed during construction.
-<anim id="EmotEnd" target="actor" targetSpec="" />And<anim id="Explain" target="actor" targetSpec="" /> if you use the app to call
+	<message label="013_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />We'll be using it for items removed
+during construction and such.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="013_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />We'll be using it for items removed
+during construction and such.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />And<anim id="Explain" target="actor" targetSpec="" /> if you use the app to call
 another resident,<delay frames="30" /><anim id="FaintSmile" target="actor" targetSpec="" /> anything they dig
 up or catch will go there as well.</message>
 	<message label="014" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes! If you see anything you
@@ -89,4 +86,15 @@ campsite!</message>
 	<message label="024" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You can access the service via the
 <colour id="1" />Nook Stop<colour id="65535" />.<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> It works with an <colour id="1" />Animal
 Crossing character's amiibo<colour id="65535" />.</message>
+	<message label="031" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Ah—yes, yes!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> I have something to
+tell you, <tag a="110" b="1" />.</message>
+	<message label="032" attrib="00 00 00 00">I've started offering <anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />fencing recipes<colour id="65535" /><delay20 />
+as a miles-redemption option at the
+<colour id="1" />Nook Stop<colour id="65535" />!
+<anim id="AbsentMindedness" target="actor" targetSpec="" />You could use fencing to surround
+your home,<delay20 /> parcel off a bit of land to
+create a park,<delay8 /> and more.
+<anim id="Smiling" target="actor" targetSpec="" />I hope you redeem some miles for
+fencing recipes. It'll be fun to see
+what you do with them!</message>
 </msbt>

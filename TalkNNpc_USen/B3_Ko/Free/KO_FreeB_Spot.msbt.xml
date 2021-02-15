@@ -41,8 +41,8 @@ somethin' like this,<delay20 /> <tag a="110" b="5" />!</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><anim id="Aha" target="actor" targetSpec="" />Well,<delay20 /> look who's livin' large!<pageBreak /><20_3 arg="6" /><anim id="Nodding" target="actor" targetSpec="" />Guess you earned this.<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Can't
 build a house this big without
 lots of hard work,<delay20 /> <tag a="110" b="5" />.</message>
-	<message label="009" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><anim id="Shocked" target="actor" targetSpec="" />Your place is so roomy!<delay40 /> <anim id="Thinking" target="actor" targetSpec="" />I guess
-anyone could use extra space<delay8 /><tag a="110" b="0" /><pageBreak /><20_3 arg="6" /><anim id="Grin" target="actor" targetSpec="" />Even without the second story,<delay20 />
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><anim id="Shocked" target="actor" targetSpec="" />Your place is so roomy!<delay40 /> <anim id="Thinking" target="actor" targetSpec="" />What do
+you even do with all that space<delay8 />?<pageBreak /><20_3 arg="6" /><anim id="Grin" target="actor" targetSpec="" />Even without a second story,<delay20 />
 you've got yourself a straight-up
 castle here,<delay20 /> <tag a="110" b="3" />!</message>
 	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey, I got a question for you,
@@ -99,12 +99,17 @@ but <anim id="Serious" target="actor" targetSpec="" /><colour id="3" />Timmy<col
 <anim id="Explain" target="actor" targetSpec="" />When you're in a pinch and just need
 somethin' small,<delay20 /> or when you've got
 stuff to sell,<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />the place is a big help!</message>
-	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Lookin' like a real store now!<delay frames="30" />
-<anim id="Serious" target="actor" targetSpec="" />Felt bad for the kiddo,<delay20 /> havin' to
-operate out of a tent before.<delay8 /><pageBreak />He <anim id="Negative" target="actor" targetSpec="" />never complained at all,<delay20 /> though.</message>
-	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Look how big <colour id="1" />Nook's Cranny<colour id="65535" /> is now! <anim id="Worried" target="actor" targetSpec="" />This must be like how a parent
-feels, watchin' their kiddos grow up.<delay8 />
-Aw<tag a="110" b="0" /> <anim id="Oops" target="actor" targetSpec="" />Gettin' sappy in my old age!</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />If you ask me, <colour id="1" />Nook's Cranny<colour id="65535" />'s what
+a REAL store is like. <delay20 />It's got good
+hours, it's well stocked<tag a="110" b="0" />
+<anim id="OhGeez" target="actor" targetSpec="" />And <colour id="3" />Timmy<colour id="65535" /> never complains no
+matter how many times I ask him
+what something costs.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I just can't believe how roomy
+<colour id="1" />Nook's Cranny<colour id="65535" /> is. Ain't it
+somethin', <tag a="110" b="5" />!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Plus, <delay20 />seein' such a mighty store
+being run by those two kiddos all
+by themselves?<delay frames="40" /> <anim id="HappyFlower" target="actor" targetSpec="" />Warms the heart.</message>
 	<message label="024" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="QuestionMark" target="actor" targetSpec="" />Hey,<delay20 /> didja hear we're finally gettin'
 ourselves a <colour id="1" />museum<colour id="65535" />?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Thinking" target="actor" targetSpec="" />The thing about new museums,
 though<delay8 /><tag a="110" b="0" /><anim id="Negative" target="actor" targetSpec="" />is that you gotta fill 'em
@@ -129,8 +134,8 @@ lines either.<delay20 />
 	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />This plaza sure sees a lot of use.<delay8 />
 <anim id="Thinking" target="actor" targetSpec="" />Only makes sense, I guess. <delay8 />It is
 right smack in the heart of things.</message>
-	<message label="032" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />These pavin' stones really classed
-up our plaza, <tag a="110" b="5" />. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Nice!</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />These pavin' stones sure class up
+the plaza, <tag a="110" b="5" />. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Nice!</message>
 	<message label="033" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" />Not big on shoppin' for clothes,<delay20 /> <20_2 arg="9" />but
 <anim id="FaintSmile" target="actor" targetSpec="" />I do like comin' here to the <colour id="1" />tailors<colour id="65535" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Worried" target="actor" targetSpec="" /><colour id="3" />Mabel<colour id="65535" /> and <colour id="3" />Sable<colour id="65535" /> always manage to
 sweet-talk me into buyin' myself
@@ -141,8 +146,9 @@ huh, <tag a="110" b="3" />?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id
 	<message label="111" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7700 0x7400 0xcd00" /></message>
 	<message label="112" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7801 0x7400 0xcd00" /></message>
 	<message label="113" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7902 0x7400 0xcd00" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7a03 0x7400 0xcd00" /></message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Maybe this'd surprise you,<delay20 /> but I've
-always been a big fan of museums,<delay20 />
+always been a big fan of <colour id="1" />museums<colour id="65535" />,<delay20 />
 <anim id="Nodding" target="actor" targetSpec="" />especially the natural-history kind.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Used to beg my folks to take me<delay20 /> so
 I could gawk at all them dusty ol'
 dinosaur bones,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>

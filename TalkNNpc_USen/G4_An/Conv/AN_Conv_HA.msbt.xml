@@ -47,19 +47,19 @@ iron for? <delay20 />WHYYYYY?!<anim id="EmotEnd" target="actor" targetSpec="" />
 	<message label="014_b" attrib="00 00 00 00 00 00 00 00">To impress us.</message>
 	<message label="014_c" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Hey, don't look at me...</message>
 	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Huh? <delay20 />These huge arms are for me?<delay frames="40" />
-<delay20 />I mean, <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />of course they're for me!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />These muscles make cleaning a LOT
+<delay20 />I mean, <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />of course they're for me!<pageBreak /><20_2 arg="7" /><anim id="Explain" target="actor" targetSpec="" />These muscles make cleaning a LOT
 easier!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />You know how awesome it is
 to lift a whole couch one-handed?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh, wow! <delay20 />I never thought about that!<delay frames="40" />
 Alright, I'm sold.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />I wanna get swole
 too, <tag a="110" b="5" />!<anim id="SmugFace" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
 	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Yeah. <delay20 />Yeah!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />That's right!<delay20 /> These arms
-are all about the show!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Just wait.<delay frames="40" /> I'm gonna get mega swole,<delay20 />
+are all about the show!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><20_2 arg="7" />Just wait.<delay frames="40" /> I'm gonna get mega swole,<delay20 />
 then I'm gonna lift <colour id="1" />Resident Services
 <colour id="65535" />one-handed.<delay frames="40" /> <anim id="AbsentMindedness" target="actor" targetSpec="" />It'll be SOOO epic!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />That's like the fourth-dumbest thing
 I've ever heard<tag a="110" b="0" /><10_4 /> <anim id="Laughing" target="actor" targetSpec="" />I can't wait!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
-	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" /><colour id="4" />Don't panic, <delay8 />don't panic, <delay8 />don't panic.<colour id="65535" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Um, I'm getting swole because<tag a="110" b="0" /><delay frames="40" /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" /><colour id="4" />Don't panic, <delay8 />don't panic, <delay8 />don't panic.<colour id="65535" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Um, I'm getting swole because<tag a="110" b="0" /><delay frames="40" /><20_2 arg="7" /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />
 I got it, <tag a="110" b="5" />!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />I love helping out! <delay20 />I can move heavy
 stuff for others and, uh<tag a="110" b="0" /><delay20 />I yell out
 tips for getting healthy!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Yeah!<anim id="EmotEnd" target="actor" targetSpec="" /></message>

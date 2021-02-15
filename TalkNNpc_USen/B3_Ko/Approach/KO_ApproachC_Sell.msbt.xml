@@ -5,15 +5,15 @@ my <tag a="125" b="0" arg="0x0" />?</message>
 	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />How much?</message>
 	<message label="001_b" attrib="00 00 00 00 00 00 00 00">No, thanks.</message>
 	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, it's your lucky day. <delay8 />I'm sellin'
-my <tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Maybe you could find a use
-for it, eh?</message>
+my <tag a="125" b="0" arg="0x0" />!<delay frames="40" />
+<anim id="ShyBoy" target="actor" targetSpec="" />Interested?</message>
 	<message label="002_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />How much?</message>
 	<message label="002_b" attrib="00 00 00 00 00 00 00 00">No, thanks.</message>
 	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ah,<delay20 /> glad I found you,<delay20 />
 <tag a="110" b="3" />!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Y'see,<delay20 /> I've got a bit of a<delay8 /><tag a="110" b="0" />cash flow
 situation goin' on here<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Long story short,<delay20 /> I'm sellin' a few
 things.<delay20 /> Four things, to be precise.<delay frames="30" />
-<anim id="Scheming" target="actor" targetSpec="" />Anyway<delay8 /><tag a="110" b="0" />wanna take a look?</message>
+<anim id="Scheming" target="actor" targetSpec="" />Anyway<delay8 /><tag a="110" b="0" /> Whaddaya think?</message>
 	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Sure, let's see.</message>
 	<message label="003_b" attrib="00 00 00 00 00 00 00 00">No, thanks.</message>
 	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />.<delay8 />
@@ -22,24 +22,21 @@ I've got a situation here<tag a="110" b="0" />
 <anim id="Thinking" target="actor" targetSpec="" />Y'see, my brain goes <anim id="Frantic" target="actor" targetSpec="" />"BUY, BUY,
 BUY!" whenever I come across
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.
-<anim id="OhGeez" target="actor" targetSpec="" />So now I'm carryin' around five of
-these things, and I really oughta
-unload a few.
-<anim id="SmugFace" target="actor" targetSpec="" />This is where you come in, kiddo.<delay8 />
-You wanna take one off my hands?</message>
+<anim id="OhGeez" target="actor" targetSpec="" />So now I own around five more of
+the things than I wanna.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />This is
+where you come in, kiddo.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Any chance you're on the market for
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
 	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />How much?</message>
 	<message label="004_b" attrib="00 00 00 00 00 00 00 00">I'll pass.</message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />No problem<tag a="110" b="0" />I understand.<delay20 />
 <anim id="Grin" target="actor" targetSpec="" />Maybe next time!</message>
-	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Okey doke. <delay8 />Guess I'll go see if
-anyone else needs one of these.<delay20 />
-<anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Okeydoke. <delay8 />Guess I'll go see if
+anyone else is in need.<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Suit yourself.<delay20 /> Guess I'll go
 see if anyone else wants a
 great deal,<delay20 /> <tag a="110" b="5" />!</message>
-	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hmm<tag a="110" b="0" />am I not sellin' it?<delay8 /> There's
-nothin' wrong with it, you know!<delay20 />
-<anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hmm<tag a="110" b="0" />am I not sellin' you?<delay8 /> Well,
+your loss, I suppose.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Pleasure doin' business with—
 <anim id="TakenAback" target="actor" targetSpec="" />Wait,<delay20 /> you don't got enough Bells?<pageBreak /><anim id="Oops" target="actor" targetSpec="" />Gaaah!<delay20 /> Look, don't bankrupt yerself
 on my account.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />My little favor can

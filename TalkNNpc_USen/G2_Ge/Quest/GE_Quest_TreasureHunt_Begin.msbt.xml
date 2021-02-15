@@ -58,14 +58,16 @@ so no help from any of your friends!
 	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />'K, then!<delay40 /> <anim id="Greeting" target="actor" targetSpec="" />Let's go!<10_7 arg="90" /></message>
 	<message label="014_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK then!<delay40 /> <anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Right! <delay20 />And you can't
 get help from anyone else. This is all
-you, <tag a="110" b="3" />.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Got it?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />'K, let's go, <tag a="110" b="6" />!<10_7 arg="90" /></message>
+you, <tag a="110" b="3" />.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Got it?<10_7 arg="120" />
+<anim id="Greeting" target="actor" targetSpec="" />'K, let's go, <tag a="110" b="6" />!<10_7 arg="90" /></message>
 	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />OK!<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />There's less time this time,
 so move fast! Alright<tag a="110" b="0" /><delay20 /><anim id="Cheering" target="actor" targetSpec="" />
 THE! HUNT! IS! ON!<10_7 arg="90" /></message>
 	<message label="015_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />'K!<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />There's less time this time,<delay20 /> so no
-goofing around. You have to hurry!<delay40 /><pageBreak /><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Right! <delay20 />And you can't get help
+goofing around. You have to hurry!<10_7 arg="120" /><pageBreak /><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Right! <delay20 />And you can't get help
 from anyone else, 'K? This is all
-on you!<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Got it? Good!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Alright, here we go, <tag a="110" b="6" />!<10_7 arg="90" /></message>
+on you!<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Got it? Good!<10_7 arg="120" />
+<anim id="Greeting" target="actor" targetSpec="" />Alright, here we go, <tag a="110" b="6" />!<10_7 arg="90" /></message>
 	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, <delay8 />are you, like, free right now?<delay40 /><anim id="EmotEnd" target="actor" targetSpec="" />
 You want to do some treasure
 hunting?</message>

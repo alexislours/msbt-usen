@@ -1,0 +1,63 @@
+<msbt attribsize="8">
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are you as excited as I am? <delay frames="40" />After all,<anim id="HappyDance" target="actor" targetSpec="" />
+today is the day a new resident
+joins us here on the island!
+<anim id="FaintSmile" target="actor" targetSpec="" />The more the merrier, I always say.<delay20 />
+<anim id="Grin" target="actor" targetSpec="" />Especially if they enjoy sharing
+fashion tips like I do, <tag a="110" b="6" />.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00">So <tag a="110" b="3" />,<delay frames="13" /> <anim id="FaintSmile" target="actor" targetSpec="" />have you met
+our newest resident yet?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'd love to make my hellos sooner
+rather than later, <delay frames="13" /><anim id="ShyBoy" target="actor" targetSpec="" />but I'd hate to
+interrupt their unpacking.</message>
+	<message label="007_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />If I'm not mistaken, <delay8 />today is the day
+a new resident is joining us.<delay20 /> <anim id="HappyDance" target="actor" targetSpec="" />I really
+must go say hello, <tag a="110" b="6" />!</message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Goodness, have you met the
+new neighbor yet, <tag a="110" b="6" />?<delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />I have not!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />First impressions are very important!<delay20 />
+<anim id="Confused" target="actor" targetSpec="" />I really must find something fabulous
+to wear before introducing myself.</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="011_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />So, <delay frames="13" />tomorrow is <tag a="115" b="1" arg="0xcd00" />'s
+birthday<tag a="110" b="0" /><delay20 /><anim id="Smiling" target="actor" targetSpec="" />and you know what that
+means.
+<anim id="HappyDance" target="actor" targetSpec="" />It means we should put on our most
+fabulous outfits and celebrate this
+special day in style, <tag a="110" b="6" />!</message>
+	<message label="011_02" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Have you picked out a present for
+<tag a="115" b="1" arg="0xcd00" />'s birthday yet?<delay20 />
+<anim id="Serious" target="actor" targetSpec="" />It is tomorrow, after all.
+<anim id="Worried" target="actor" targetSpec="" />I put A LOT of thought into what gift
+I should give, and yet<tag a="110" b="0" /><delay frames="13" /><anim id="Frantic" target="actor" targetSpec="" />now I can't
+help but think I got the wrong thing!
+<anim id="Sighing" target="actor" targetSpec="" />Goodness, I do hope I kept the
+receipt, <tag a="110" b="6" />.</message>
+	<message label="011_03" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Tomorrow is <tag a="115" b="1" arg="0xcd00" />'s
+birthday, if you can believe it.<pageBreak />You know, <delay frames="13" /><anim id="Negative" target="actor" targetSpec="" />celebrating my own
+birthday doesn't excite me like
+it used to<tag a="110" b="0" />
+<anim id="Greeting" target="actor" targetSpec="" />But celebrating someone else's
+birthday<tag a="110" b="0" /><delay20 /><anim id="Love" target="actor" targetSpec="" />I absolutely LOVE IT,
+<tag a="110" b="6" />!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="013_01" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Tomorrow morning we say goodbye
+to <tag a="115" b="1" arg="0xcd00" />.<pageBreak /><anim id="Confused" target="actor" targetSpec="" />As <gender3 m="he" f="she" /> sets off on <gender3 m="his" f="her" /> new
+adventure, I really must be
+sure not to cry.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I wouldn't want to bring <gender3 m="him" f="her" /> down,
+<tag a="110" b="5" /><tag a="110" b="0" /><delay20 /><anim id="Blushing" target="actor" targetSpec="" />or smudge my
+makeup.</message>
+	<message label="013_02" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> departs the
+island tomorrow morning.<pageBreak />If you have anything to say to
+<gender3 m="him" f="her" />,<delay frames="13" /><anim id="Serious" target="actor" targetSpec="" /> now is the time to say it,
+<tag a="110" b="6" />.
+Believe you me,<delay frames="13" /> <anim id="Negative" target="actor" targetSpec="" />it's best not to
+keep these things bottled up inside.</message>
+	<message label="013_03" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> is packing up
+<gender3 m="his" f="her" /> belongings, you know<tag a="110" b="0" /><pageBreak />Honestly, <delay8 /><anim id="Sighing" target="actor" targetSpec="" />I still can't believe <gender3 m="he" f="she" />'s
+leaving the island tomorrow morning.<delay frames="40" />
+<anim id="OhGeez" target="actor" targetSpec="" />Just like that!
+Well, <tag a="110" b="5" />, <delay frames="13" /><anim id="Hesitate" target="actor" targetSpec="" />I suppose it's
+better to miss <tag a="115" b="1" arg="0xcd00" /><delay8 />
+than not to have known <gender3 m="him" f="her" /> at all.</message>
+</msbt>

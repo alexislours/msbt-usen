@@ -62,24 +62,33 @@ you!<delay20 /> That sounds like SUCH a noble
 and island-specific venture.
 <anim id="Worried" target="actor" targetSpec="" /><colour id="4" /><tag a="110" b="0" />Is it possible to sprain one's
 eyeballs by rolling them too hard?<colour id="65535" /></message>
-	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I think it's really cool that you've
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Know what, <tag a="110" b="31" arg="0xcd01" />?<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I think it's really cool that you've
 overcome your jealousy of my
-lifestyle, <tag a="110" b="31" arg="0xcd01" />.</message>
-	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="110" b="0" /><anim id="Pardon" target="actor" targetSpec="" />Come again?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I'm sorry, I thought for a moment
-that you said "my jealousy of your
-lifestyle." <delay20 /><anim id="Confused" target="actor" targetSpec="" />But that can't be right.</message>
-	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />No? <delay20 />Maybe I misread you.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />It's just<tag a="110" b="0" />the other day I was doing a
-little <tag a="135" b="6" arg="0xcd00" /> with some hot
-tunes blasting out of my phone.
-<anim id="Negative" target="actor" targetSpec="" />And you gave me this look, like
-you wished you could be doing
-the same thing.</message>
-	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Darling, that was a look of pity.<delay20 />
-<anim id="Negative" target="actor" targetSpec="" />And now I'm going to give it to
-you again.</message>
-	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Really?<delay20 /> Like, you wouldn't want
-to do some <tag a="135" b="6" arg="0xcd00" /> to the
-rhythms of <tag a="135" b="4" arg="0xcd00" />?</message>
-	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />That almost perfectly describes
-my nightmare, <tag a="110" b="31" arg="0xcd00" />.</message>
+lifestyle, <tag a="110" b="5" />.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Normally, I wouldn't even bother
+responding to such nonsense,<delay40 />
+but I'm curious<tag a="110" b="0" />
+<anim id="QuestionMark" target="actor" targetSpec="" />What was that excellent word you
+just said? <delay40 />"<tag a="50" b="3" /><tag a="110" b="5" />," was it?</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="5" />"?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Oh yeah.<delay frames="40" />
+That's my official catchphrase.
+It's kinda like my calling card.
+<anim id="Explain" target="actor" targetSpec="" />You'll notice how it just rolls off
+the tongue, <tag a="110" b="5" />.<delay40 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Kinda like that!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Indeed! <delay20 />And it fits you just
+perfectly, <tag a="110" b="31" arg="0xcd00" />.<delay40 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Understated, <delay20 />humble<tag a="110" b="0" /><delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />even classic.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />"Classic"?<delay40 /> Did you say "classic"?<delay40 />
+<anim id="Frantic" target="actor" targetSpec="" />Don't tell me that's how everyone
+sees me, <tag a="110" b="31" arg="0xcd01" />.
+<anim id="Worried" target="actor" targetSpec="" />No, no, no. <delay40 />I'm the next big thing!<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Well, <delay40 />that decides it. <delay40 /><anim id="Thinking" target="actor" targetSpec="" />I need a
+brand-new catchphrase that
+captures my true essence.
+<anim id="SmugFace" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="5" />" <delay40 />is dead to me.</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />That's such a shame<tag a="110" b="0" /><delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Of course,
+that means "<tag a="110" b="5" />" is now
+free for me to use.<delay40 /> How about that?
+<anim id="Blushing" target="actor" targetSpec="" />It really does roll off the
+tongue, <tag a="110" b="5" />.</message>
 </msbt>

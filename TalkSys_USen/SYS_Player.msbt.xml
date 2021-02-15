@@ -263,6 +263,12 @@ another <tag a="50" b="0" arg="0x100 0xcd03" />boot, right?<delay20 /><anim id="
 for a DIY recipe!</message>
 	<message label="514" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />I sure have fished up a lot of trash<tag a="110" b="0" /><delay20 />
 <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />I've got an idea for a DIY recipe!</message>
+	<message label="515" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />If I made good use of the egg's
+patterning<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 /> Oh!<delay8 /> I've got some
+DIY recipe ideas!</message>
+	<message label="518" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />If I combine the ideas behind the
+eggshell recipes I've learned so far<tag a="110" b="0" /><delay20 />
+<anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />I've got an idea for a DIY recipe!</message>
 	<message label="700" attrib="00 00 17">Happy birthday to <delay8 />me!<delay40 /> It's always
 nice getting to celebrate with
 good cake and good friends.</message>
@@ -345,7 +351,7 @@ I need more room.</message>
 I need more room.</message>
 	<message label="914_01" attrib="00 09 21">Everyone gathers in this plaza, so
 you should choose a different place.</message>
-	<message label="915" attrib="00 09 21">If I place buildings too close to each
+	<message label="915" attrib="00 09 21">If I place structures too close to each
 other, it'll block the flow of traffic.
 Better choose another place!</message>
 	<message label="916" attrib="00 09 21">If it's too close to a bridge like this,
@@ -361,13 +367,16 @@ Better choose another place!</message>
 mailbox, so this isn't a good spot.
 Better choose another place!</message>
 	<message label="919_01" attrib="00 09 21">I'll need to move the <colour id="1" />mailbox<colour id="65535" /> first.</message>
+	<message label="920" attrib="00 00 21">It'll block the flow of traffic if it's too
+close to the pier like this. Better
+choose another place!</message>
 	<message label="921" attrib="00 09 21">There's no river near here that I can
 place a bridge over!</message>
 	<message label="926" attrib="00 09 21">To place a bridge, you need the river
 to be just the right width. And the
 land on either side should be even.</message>
-	<message label="926_01" attrib="00 09 21">It'd be hard to use a bridge
-here with the water so close.</message>
+	<message label="926_01" attrib="00 09 21">It'd be hard to use a bridge here with
+the other river so close.</message>
 	<message label="926_02" attrib="00 09 21">It'd be hard to use a bridge
 here with the cliff so close.</message>
 	<message label="926_03" attrib="00 09 21">I don't think it'd be a good idea to

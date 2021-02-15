@@ -62,8 +62,8 @@ with my sister<tag a="110" b="0" /></message>
 <delay frames="40" />We can't wait to see you here again!</message>
 	<message label="212" attrib="00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><delay8 /><anim id="Smiling" target="4" targetSpec="N2" />Oh, <tag a="110" b="1" />!<delay frames="40" />
 <anim id="Smiling" target="mainNpc" targetSpec="" />Sorry to keep you waiting!<delay20 /><anim id="Nodding" target="4" targetSpec="N2" /><tag a="100" b="4" /> <size value="75" />...waiting!<size value="100" /><endTag a="100" b="4" /></message>
-	<message label="212_01" attrib="00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />Oh, <tag a="110" b="1" />!<delay frames="40" />
-Sorry to keep you waiting!<10_4 /><anim id="Smiling" target="mainNpc" targetSpec="" /> Please,
+	<message label="212_01" attrib="00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />Oh, <tag a="110" b="1" />!<delay20 />
+Sorry to keep you waiting!<delay frames="40" /><anim id="Smiling" target="mainNpc" targetSpec="" /> Please,
 have a look around.<size value="75" /><delay20 /><anim id="Smiling" target="4" targetSpec="N2" /><tag a="100" b="4" /> ...look around!<endTag a="100" b="4" /><size value="100" /></message>
 	<message label="213" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="4" targetSpec="N2" />Thanks to your help, we've opened
 this amazing new shop.<delay20 /><tag a="100" b="4" /> <size value="75" />...new shop!<size value="100" /><endTag a="100" b="4" /></message>

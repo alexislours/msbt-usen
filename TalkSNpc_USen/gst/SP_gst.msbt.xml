@@ -41,7 +41,7 @@ you, but<tag a="110" b="0" /><pageBreak /><anim id="Serious" target="actor" targ
 of my <colour id="1" />spirit <colour id="65535" />that flew away?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Otherwise I'll be like this forever.<delay frames="40" />
 <anim id="Negative" target="actor" targetSpec="" />And I can NOT deal with that!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Please help<tag a="110" b="0" /> I promise there'll be
 something good in it for you.</message>
-	<message label="007" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Now let's see here<tag a="110" b="0" /> There are<tag a="110" b="0" />
+	<message label="007" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Now let's see here<tag a="110" b="0" /><delay frames="40" /> There are<tag a="110" b="0" /><delay20 />
 <anim id="Hello" target="actor" targetSpec="" /><colour id="1" />five pieces<colour id="65535" /> of my <colour id="1" />spirit <colour id="65535" />in all.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You should be able to find them
 floating around the island.<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> You'll
 need a <colour id="1" />net<colour id="65535" /> to catch them.</message>
@@ -83,13 +83,13 @@ to me<tag a="110" b="0" /><delay frames="30" /><anim id="Pardon" target="actor" 
 	<message label="031" attrib="00 00 00 00"><tag a="10" b="12" />                       TA-<delay8 />DA!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />Ahh, back to normal.<pageBreak />Whew!<delay20 /> Thank goodness.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />And thank YOU!<delay frames="30" /><anim id="HappyDance" target="actor" targetSpec="" /> I feel wonderful!</message>
 	<message label="032" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! Right!<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />I need to give you the
 reward I promised.</message>
-	<message label="033_01" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What's it going to be<tag a="110" b="0" />?<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Well, who
+	<message label="033_01" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What's it going to be?<10_4 /><anim id="FaintSmile" target="actor" targetSpec="" /> Well, who
 doesn't love furniture?</message>
-	<message label="033_02" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What's it going to be<tag a="110" b="0" />?<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I know!
+	<message label="033_02" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What's it going to be?<10_4 /> <anim id="FaintSmile" target="actor" targetSpec="" />I know!<delay20 />
 I'll give you some wallpaper!</message>
-	<message label="033_03" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What's it going to be<tag a="110" b="0" />?<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Oh! I know!
+	<message label="033_03" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What's it going to be?<10_4 /><anim id="FaintSmile" target="actor" targetSpec="" /> Oh! I know!<delay20 />
 Flooring! Everyone loves flooring.</message>
-	<message label="033_04" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What's it going to be?<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I'm thinking
+	<message label="033_04" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What's it going to be?<10_4 /> <anim id="FaintSmile" target="actor" targetSpec="" />I'm thinking
 some type of clothing<tag a="110" b="0" /></message>
 	<message label="035" attrib="02 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I can get you something you don't
 have yet, or I can get you something

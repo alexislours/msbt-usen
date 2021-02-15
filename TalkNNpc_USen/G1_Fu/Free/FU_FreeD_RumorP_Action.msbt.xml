@@ -53,6 +53,14 @@ were being super expressive.
 <anim id="Hesitate" target="actor" targetSpec="" />I like when you show your feelings.<delay40 />
 It gets across that <anim id="FaintSmile" target="actor" targetSpec="" />you care about
 what you have to say,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00">Is it true <anim id="QuestionMark" target="actor" targetSpec="" />you were on some of those
+flights I saw<delay20 /> leaving and arriving at
+the airport yesterday,<delay20 /> <tag a="110" b="5" />?
+<anim id="Grin" target="actor" targetSpec="" />You're making me envious<delay20 /> with all
+your traveling lately,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Our airport sure saw a lot of traffic
+yesterday!<delay40 /> <anim id="Nodding" target="actor" targetSpec="" />You're really driving up
+tourism around here,<delay20 /> <tag a="110" b="5" />!</message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I heard you worked on DIY projects
 all day yesterday.<delay frames="40" /> I'm impressed that
 you had enough supplies for that.
@@ -204,11 +212,17 @@ every last weed on the island
 yesterday,<delay20 /> <tag a="110" b="3" />?
 <anim id="Grin" target="actor" targetSpec="" />It's too bad they pop back up
 again so fast,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
-	<message label="149" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />I heard you switched up your style
-yesterday, <tag a="110" b="3" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Wish I could be as bold
+	<message label="149" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />I heard you switched up the
+look of your hair yesterday,
+<tag a="110" b="3" /><tag a="110" b="0" />
+<anim id="Hesitate" target="actor" targetSpec="" />Wish I could be as bold
 as you are,<delay20 /> <tag a="110" b="5" />.</message>
-	<message label="150" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Whoa!<delay frames="30" /> You've got a whole new look!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I guess I don't always deal well
-with change,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="150" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Aha! <delay20 />I heard yesterday that you'd
+changed up your look!<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />And here you
+are looking just great.
+<anim id="HappyFlower" target="actor" targetSpec="" />Of course, <delay8 />I think you'd look
+wonderful no matter what,
+<tag a="110" b="6" />.</message>
 	<message label="151" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I hear you were a real shutterbug
 yesterday,<delay20 /> <tag a="110" b="3" />!<delay frames="40" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Did your pictures come out right?<delay40 />
 <anim id="Hesitate" target="actor" targetSpec="" />I wouldn't mind seeing them<delay20 /> if you

@@ -162,9 +162,9 @@ about <colour id="3" />Timmy<colour id="65535" />'s shop.
 <anim id="Thinking" target="actor" targetSpec="" />Or rather<tag a="110" b="0" />I've been meaning to
 point you in <colour id="3" />Timmy<colour id="65535" />'s direction.<delay20 />
 <anim id="Nodding" target="actor" targetSpec="" />He should have the details for you!</message>
-	<message label="140" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well then, I should thank you for
-helping gather those materials for
-the shop. <delay20 />You're quite resourceful!</message>
+	<message label="140" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I must thank you for offering to
+help gather materials for the new
+shop.<delay20 /> That's very generous!</message>
 	<message label="140_01" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Ah, but you're looking for practical
 advice, hm?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Well, it seems you could be in the
 market for a new axe, and we're
@@ -183,9 +183,9 @@ you can make something of it!</message>
 	<message label="140_03" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Why don't you see if you can do
 something with them, hm? <delay20 /><anim id="Nodding" target="actor" targetSpec="" />That
 <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />flimsy axe <colour id="65535" />is not far out of reach!</message>
-	<message label="150" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, first off, I should thank you for
-gathering all of those materials for
-the shop. <delay20 />You're quite resourceful!
+	<message label="150" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I should thank you for gathering all
+of those materials for the shop.<delay20 />
+You're quite resourceful!
 <anim id="Laughing" target="actor" targetSpec="" />Maybe I should be asking YOU for
 advice on how to build up this island!</message>
 	<message label="160" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Your home is built, so right now<tag a="110" b="0" /><delay frames="30" />
@@ -198,12 +198,14 @@ to spend your time as you please!</message>
 pressing business to attend to
 right now, <tag a="110" b="1" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'd recommend treating yourself to
 <anim id="Smiling" target="actor" targetSpec="" />a little shopping spree!</message>
-	<message label="162" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />I'm in contact with some folks who
-are interested in moving to this
-island, so<delay frames="30" /> I'm busy with prep work.
-<anim id="Nodding" target="actor" targetSpec="" />Yes, you're going to have some new
-neighbors.<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> I trust you'll treat them
-kindly<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> when they arrive, hm?</message>
+	<message label="162" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I'm in contact with some folks who
+are very interested in moving to this
+island, so<delay frames="30" /> I'm busy with prep work.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />In fact,<delay20 /> there's so much interest that
+I asked our Resident Representative,
+<tag a="110" b="39" />, to help out.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Perhaps you should speak to
+<tag a="110" b="39" /> and see how
+things are going.<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Yes, yes! <delay20 />You're going to have new
+neighbors very soon!</message>
 	<message label="163" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ah! Here's something.<delay frames="30" /><anim id="EmotEnd" target="actor" targetSpec="" /> Did you know
 you can now redeem miles at the
 <colour id="1" />Nook Stop<anim id="QuestionMark" target="actor" targetSpec="" /><colour id="65535" /> for <colour id="1" />fencing recipes?<colour id="65535" />
@@ -400,7 +402,7 @@ for you. <delay20 />Free of charge, naturally!</message>
 	<message label="922_01" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I'll just need to send them to your
 <colour id="1" />NookPhone<colour id="65535" />. <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />Would you mind
 opening it up?</message>
-	<message label="923" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Splendid, thank you. <delay20 />The DIY app
+	<message label="923" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Splendid, thank you. <delay20 />The <colour id="1" />DIY<colour id="65535" /> app
 is now installed on your phone
 and ready for you to use anytime.</message>
 	<message label="923_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />And the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />flimsy fishing rod <colour id="65535" />you just

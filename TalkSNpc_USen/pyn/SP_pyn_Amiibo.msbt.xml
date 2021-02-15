@@ -1,0 +1,13 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 13">Hello, hello, and how do you do?
+You've reached the one and only
+lucky bunny, <colour id="3" />Zipper<colour id="65535" />. It's true!
+<anim id="QuestionMark" target="actor" targetSpec="" />Hippity hoppity how can I help you?</message>
+	<message label="002" attrib="00 00 00 13"><anim id="Eh" target="actor" targetSpec="" />What's that?<delay8 /> You want me to hop-
+hop-hop on over to your <colour id="1" />campsite<colour id="65535" />?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Well hippity skippity, that sounds like
+fun!<delay frames="40" /><anim id="Negative" target="actor" targetSpec="" /> But I'm so busy right now,
+I really can't.<delay8 /> Very sorry, very sorry!
+<anim id="Worried" target="actor" targetSpec="" />You understand right?<delay frames="40" />
+<anim id="Serious" target="actor" targetSpec="" /><size value="75" />A guy like me has a lot going on<tag a="110" b="0" /><size value="100" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Hippity hoppity ho! Thanks for the
+invite though!</message>
+</msbt>

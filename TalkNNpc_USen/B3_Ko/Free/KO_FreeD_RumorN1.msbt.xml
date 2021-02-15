@@ -1,0 +1,42 @@
+<msbt attribsize="8">
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Got a chance to chat up our newest
+resident yet,<delay20 /> <tag a="110" b="3" />?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Nice to see our population's growin'
+a bit!<delay40 /> <anim id="Worried" target="actor" targetSpec="" />As long as it doesn't grow too
+much or too fast,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />As of today,<delay20 /> we got ourselves a new
+resident of <tag a="110" b="8" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />All I wanna know is<delay20 /> <anim id="Grin" target="actor" targetSpec="" />who's hostin'
+the welcome party, <anim id="Smiling" target="actor" targetSpec="" />'cause I want
+an invite,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="007_02" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Have you had a chance to meet our
+new neighbor,<delay20 /> <tag a="110" b="3" />?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />They're probably still busy unpackin',<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />but once they're all settled,<delay20 /> I reckon
+I'll go say howdy,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />So I hear tell there's a brand-new
+face around here,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Just for the sake of island security,<delay20 />
+I'd better go give 'em a once-over.<delay40 />
+<anim id="Negative" target="actor" targetSpec="" />Can never be too careful.</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="011_01" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Aw, no!<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />Ain't it <tag a="115" b="1" arg="0xcd00" />'s
+birthday tomorrow?<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />How do I always manage to forget
+these things?<delay40 /> <anim id="Angry" target="actor" targetSpec="" />I'm the worst at last-
+minute gift shoppin',<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="011_02" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hey,<delay20 /> I think tomorrow <anim id="Oops" target="actor" targetSpec="" />might just be
+<tag a="115" b="1" arg="0xcd00" />'s birthday!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Lucky that I thought to pick <gender3 m="him" f="her" /> up a
+present a while ago,<delay20 /> <tag a="110" b="5" />!<delay40 />
+<anim id="Worried" target="actor" targetSpec="" /><colour id="4" />Is what I wish I'd done<delay8 /><tag a="110" b="0" /><colour id="65535" /></message>
+	<message label="011_03" attrib="00 00 00 00 00 00 00 00">So,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />did you happen to get anythin'
+for <tag a="115" b="1" arg="0xcd00" />'s birthday?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Because I can't seem to come up
+with any gift ideas,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="013_01" attrib="00 00 00 00 00 00 00 00">So,<anim id="Sighing" target="actor" targetSpec="" /><delay20 /> this is the last day<delay8 /><tag a="110" b="0" /> <anim id="Worried" target="actor" targetSpec="" />I'm gonna
+be sad to see <tag a="115" b="1" arg="0xcd00" /> go.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Still,<delay20 /> least we can do is send <gender3 m="him" f="her" /> off
+with a smile tomorrow,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="013_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Today is <tag a="115" b="1" arg="0xcd00" />'s last
+day on the island.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Better get your goodbyes in while
+the gettin's good,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="013_03" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Just realized this is the last day that
+<tag a="115" b="1" arg="0xcd00" /> will be with us<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />Reckon you never know when you'll
+cross paths with someone again, but
+it's still a little sad,<delay20 /> <tag a="110" b="5" />.</message>
+</msbt>

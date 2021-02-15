@@ -4,7 +4,7 @@ local fruit is<delay20 /> on <tag a="110" b="8" />?</message>
 	<message label="001_a" attrib="04 00 00 00 00 00 00 00">Sure, I know.</message>
 	<message label="001_b" attrib="05 00 00 00 00 00 00 00">Can't say that I do.</message>
 	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
-	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x10 0x11 0xffff 0xffff" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x1 0x10 0x11 0x12" /></message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />I'm impressed!<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Friends always ask<delay20 />
 if I can bring them <tag a="50" b="2" /><tag a="110" b="7" arg="0xcd01" />
 from <tag a="110" b="8" /><delay8 /><tag a="110" b="0" />
@@ -25,10 +25,11 @@ that I don't need,<delay20 /> but still want<delay8 /><tag a="110" b="0" />
 a <colour id="1" />museum<colour id="65535" /> now!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />OK,<delay20 /> it's still in a tent,<delay20 /> but<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Someday,<delay20 /> it'll have real halls
 with lots of exhibits on display.<delay20 />
 <anim id="Nodding" target="actor" targetSpec="" />I can't wait to tour that place.</message>
-	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x15 0x16 0x17 0x19" /></message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x15 0x16 0x17 0x18 0x19" /></message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
 	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
+	<message label="024" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1f03 0x1900 0xcd00" /></message>
 	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Have you toured our <colour id="1" />museum<colour id="65535" />?<10_4 />
 <anim id="Nodding" target="actor" targetSpec="" />It's a place with lots to offer.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />I try to make a day of it when I go,<delay20 />
 <anim id="FaintSmile" target="actor" targetSpec="" />so I can take my time just wandering
@@ -47,35 +48,35 @@ display now?
 <anim id="Smiling" target="actor" targetSpec="" />I really love fossils,<delay20 /> and I think it's
 fair to say that makes the collection
 here<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />one to be proud of!</message>
-	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0x66 0x69" /></message>
-	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />We live on different islands now,<delay20 />
-but<delay8 /><tag a="110" b="0" /> <anim id="Hesitate" target="actor" targetSpec="" />Do you ever think about the
-fun we had,<delay20 /> <tag a="110" b="3" />?</message>
-	<message label="102_a" attrib="67 00 00 00 00 00 00 00">Of course!</message>
-	<message label="102_b" attrib="68 00 00 00 00 00 00 00">Oh, uh... Yeeeah...</message>
-	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Oh,<delay20 /> I'm so glad it's not just me!<delay40 />
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xca 0xcd" /></message>
+	<message label="202" attrib="00 00 02 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I know we live on different islands
+now, <delay20 />but<tag a="110" b="0" /><anim id="Hesitate" target="actor" targetSpec="" />do you ever think about
+the fun we had,<delay20 /> <tag a="110" b="3" />?</message>
+	<message label="202_a" attrib="cb 00 00 00 00 00 00 00">Of course!</message>
+	<message label="202_b" attrib="cc 00 00 00 00 00 00 00">Oh, uh... Yeeeah...</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Oh,<delay20 /> I'm so glad it's not just me!<delay40 />
 <anim id="Hesitate" target="actor" targetSpec="" />I guess I was worried<delay20 /> I might not
 have been as memorable to you.
 <anim id="Blushing" target="actor" targetSpec="" />I've actually written some poems
 about those times<delay8 /><tag a="110" b="0" /> <anim id="Worried" target="actor" targetSpec="" />Is that weird?</message>
-	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Oh!<delay frames="30" /> <anim id="Worried" target="actor" targetSpec="" />Sorry if I made this awkward.<10_4 />
-<anim id="FaintSmile" target="actor" targetSpec="" />But maybe that just goes to show
-how fulfilling your current life is.
-<anim id="Explain" target="actor" targetSpec="" />I've read lots of articles warning not
-to dwell on your past.<delay40 /> So here's to
-making new memories,<delay20 /> <tag a="110" b="5" />!</message>
-	<message label="105" attrib="00 00 02 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Not to put you on the spot,<delay20 /> but<delay8 /><tag a="110" b="0" />
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Oh! <delay20 />Sorry if I made this awkward.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I guess the important thing is that
+our new lives are fulfilling.
+<anim id="Explain" target="actor" targetSpec="" />I've read lots of articles that say we
+shouldn't dwell on the past.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />So here's to making new memories,
+<tag a="110" b="6" />!</message>
+	<message label="205" attrib="00 00 02 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Not to put you on the spot,<delay20 /> but<delay8 /><tag a="110" b="0" />
 <anim id="Pardon" target="actor" targetSpec="" />Do you think I've changed at all<delay20 />
 from how you remember me?</message>
-	<message label="105_a" attrib="6a 00 00 00 00 00 00 00">Yeah, maybe a bit...</message>
-	<message label="105_b" attrib="6b 00 00 00 00 00 00 00">You're still the same.</message>
-	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />You really noticed?<10_4 />
-<anim id="Clapping" target="actor" targetSpec="" />Oh,<delay20 /> that's so great!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I've been trying to improve my
-posture,<delay20 /> to seem more confident.
+	<message label="205_a" attrib="ce 00 00 00 00 00 00 00">Yeah, maybe a bit...</message>
+	<message label="205_b" attrib="cf 00 00 00 00 00 00 00">You're still the same.</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />You really noticed?<10_4 /> <anim id="Clapping" target="actor" targetSpec="" />Oh,<delay20 /> that's
+so great!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I've been trying to improve my
+posture and to seem more confident.
 <anim id="Nodding" target="actor" targetSpec="" />It's based on an article I read<delay8 /><tag a="110" b="0" />
 <anim id="FaintSmile" target="actor" targetSpec="" />You know me well,<delay20 /> so it's <anim id="HappyFlower" target="actor" targetSpec="" />exciting
 that you noticed a change already!</message>
-	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm glad to hear you say that!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I read this article about posture<delay20 />
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm glad to hear you say that!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I read this article about posture<delay20 />
 that made me worried <anim id="Worried" target="actor" targetSpec="" />that I was
 slouching too much,<delay20 /> <tag a="110" b="5" />.
 <anim id="Hesitate" target="actor" targetSpec="" />I don't want to seem unconfident<delay8 /><tag a="110" b="0" /></message>

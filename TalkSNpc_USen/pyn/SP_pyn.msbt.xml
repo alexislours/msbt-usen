@@ -1,0 +1,482 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Excuse me,<delay8 /> but could you please
+stop staring at my back?<delay20 /> It's rude.<10_4 />
+<size value="75" />Won't find anything back there,<delay8 /> anyway<tag a="110" b="0" /><size value="100" /></message>
+	<message label="002" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hey!<delay20 /> I know what you're doing.<delay20 />
+You can't fool me twice.<delay20 /> If you want
+to talk,<delay8 /> my face is in the front.</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Fuming" target="actor" targetSpec="" />Seriously,<delay8 /> cut that out!<delay20 /> Last warning.<delay20 />
+<size value="75" />Instead of looking,<delay8 /> why don't you try listening
+for once?<size value="100" /></message>
+	<message label="004" attrib="00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />Did you not get the memo?!<delay20 />
+Stop looking back there!<delay frames="30" />
+<size value="75" /><anim id="Serious" target="actor" targetSpec="" /><tag a="110" b="0" />Glad you think this is funny, kid.<size value="100" /></message>
+	<message label="010" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Why, hippity skippity, <delay20 />hoppity ho!<delay frames="30" />
+Now that you found me<tag a="110" b="0" /><pageBreak /><tag a="10" b="6" />I'll say a warm<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />
+<delay20 /><size value="150" />hello!<size value="100" /><endTag a="10" b="6" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I'm a lucky ol' bunny, <delay20 />yeppity yipper.<delay frames="30" />
+And here's a little tip<tag a="110" b="0" /><delay20 /><anim id="Dance" target="actor" targetSpec="" /> You can call
+me <colour id="3" />Zipper<colour id="65535" />!
+<anim id="Clapping" target="actor" targetSpec="" />Yaaaay!<delay frames="40" />
+<size value="75" />You can clap now.<delay frames="40" />
+No really, go on.<size value="100" /><delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" />
+<anim id="BigSmile" target="actor" targetSpec="" />Well well, <delay20 />isn't this swell! <delay frames="30" /><anim id="Explain" target="actor" targetSpec="" />Here you
+are<tag a="110" b="0" />and here I am to tell you all
+about my favorite holiday!</message>
+	<message label="011" attrib="00 00 00 00"><size value="75" /><anim id="Silent" target="actor" targetSpec="" />I know what you're thinking.<delay20 /> No. <delay8 /><anim id="Negative" target="actor" targetSpec="" />This is NOT a
+costume.<delay frames="30" /> <anim id="Serious" target="actor" targetSpec="" />And don't you go snoopin',<delay8 /> got it?<size value="100" /></message>
+	<message label="012" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Zippity zap,<delay8 /> enough of that.<pageBreak /><anim id="Clapping" target="actor" targetSpec="" />It's almost <colour id="1" />Bunny Day<colour id="65535" />! <delay20 />Hop-hop-
+hooray! <delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />That's my favorite time to
+come out and play!
+<anim id="Sighing" target="actor" targetSpec="" /><size value="75" />Ugh.<delay8 /> I've got so much prep work to do.<delay20 />
+I hope you can keep yourself busy.<size value="100" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />And guess what! <delay frames="40" /><anim id="HappyDance" target="actor" targetSpec="" />This funny bunny
+has a <colour id="1" />Bunny Day <colour id="65535" />secret just for you.</message>
+	<message label="013" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Ready?<10_4 /> <anim id="EmotEnd" target="actor" targetSpec="" />Yippity skippity, <delay8 />here it is<tag a="110" b="0" /></message>
+	<message label="014" attrib="00 00 00 00">The time has come!<delay frames="35" />
+Let's look for eggs!<delay frames="35" />
+That's my bunny plan!<10_8 arg="120" />
+They're here!<delay8 /> They're there!<delay frames="35" />
+They're everywhere!<delay frames="35" />
+Find them if you can!<10_7 arg="180" /></message>
+	<message label="015" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Did I make myself clear?<delay frames="40" />
+<anim id="Thinking" target="actor" targetSpec="" />Yes? <delay20 />No? <delay20 />Maybe so?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Hmm.<delay8 /> How about this<tag a="110" b="0" />
+<anim id="Explain" target="actor" targetSpec="" />There are <colour id="1" />six types of eggs <colour id="65535" />hidden
+around the island, you see.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So wonderful ol' you<delay8 /> should go look
+for them<tag a="110" b="0" /><delay20 />and then bring 'em back<delay20 /><anim id="Dance" target="actor" targetSpec="" />
+to wonderful ol' me!
+<anim id="Negative" target="actor" targetSpec="" />These eggs aren't hidden inside
+buildings, no sirree. <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />My eggs can
+only be found in the great outdoors!
+<anim id="HappyDance" target="actor" targetSpec="" />Check the trees,<delay20 /> check the rocks,<delay20 />
+check the water too.<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Search the sky, <delay20 />search the ground,<delay20 />
+that's what you should do!</message>
+	<message label="016" attrib="00 00 00 00">And here's a little something
+I made for you too!</message>
+	<message label="017" attrib="00 00 00 00">That's a recipe for a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day bed<colour id="65535" />.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />You can craft it with the eggs you
+find.
+<tag a="10" b="6" />And now,<delay20 /> <anim id="Dance" target="actor" targetSpec="" />a big announcement!<delay frames="65" />
+<anim id="Worried" target="actor" targetSpec="" /><size value="75" />I sure hope you like this<tag a="110" b="0" /><size value="100" /><endTag a="10" b="6" /><pageBreak /><anim id="Clapping" target="actor" targetSpec="" />I've hidden Bunny Day-themed
+<colour id="1" />DIY recipes <colour id="65535" />all around the island!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />The closer we get to Bunny Day<tag a="110" b="0" /><anim id="BigSmile" target="actor" targetSpec="" />the
+more recipes I'll hide!<pageBreak />If you find and craft <colour id="1" />ALL the DIY
+recipes<colour id="65535" /> I've hidden<tag a="110" b="0" />why,<delay20 /> <anim id="Dance" target="actor" targetSpec="" />you'll get
+a super-di-doopery present from ME!
+<anim id="HappyDance" target="actor" targetSpec="" />Zippity skippity <delay20 />hoppity hey!<delay20 />
+It's gonna be the wonderfully<delay8 />
+wonderfullest Bunny Day!<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="018" attrib="00 00 00 00">Also, I have something for ya.<delay frames="40" />
+<anim id="Eh" target="actor" targetSpec="" />Wait a minute!<delay20 /> Your pockets are full.<pageBreak />Come talk to me when you have less
+stuff in there.<delay20 /> <anim id="Serious" target="actor" targetSpec="" />But make sure it's
+before the end of today!</message>
+	<message label="019" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey!<delay20 /> Look at you! <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />Ya freed up those
+pockets of yours.<delay20 /> Here you go then!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="020" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Well?<delay20 /> Didja make room in your
+pockets or what?<pageBreak /><anim id="Angry" target="actor" targetSpec="" /><size value="75" />Look, kid,<delay20 /> I can't give you your present if you
+don't make some room.<size value="100" /></message>
+	<message label="021" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Hippity ho, <delay20 />whaddaya know!<delay20 />
+Bunny Day is <colour id="1" /><delay8 /><tag a="90" b="35" arg="0xcd00" /> <tag a="90" b="36" arg="0xcd00" /><colour id="65535" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />I promise to bounce right on back to
+this island on that wonderful,<delay8 />
+FUNderful day!<pageBreak /><anim id="Silent" target="actor" targetSpec="" />In the meantime, skipper, <delay8 />don't tell
+anyone ya ran into ol' Zipper.<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />It'll be a funny-bunny surprise!<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="022" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />You won't find eggs<tag a="110" b="0" /><delay frames="30" />
+inside any buildings.<delay frames="30" />
+I haven't hidden them there.
+<anim id="Explain" target="actor" targetSpec="" />Outside's the place!<delay frames="30" />
+Go there to search<tag a="110" b="0" /><delay frames="30" />
+for all my eggy fare!
+<anim id="HappyDance" target="actor" targetSpec="" />Check trees <delay8 />and rocks!<delay20 />
+Check the water too!<delay20 />
+And look up in the air!</message>
+	<message label="023" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Don't forget to look for the
+<colour id="1" />Bunny Day DIY recipes<colour id="65535" /> I've
+hidden around the island.
+<anim id="FaintSmile" target="actor" targetSpec="" />I LOVE hiding stuff, <delay8 />and I'll hide
+more recipes every day until it's<tag a="110" b="0" /><delay20 />
+<anim id="Cheering" target="actor" targetSpec="" />BUNNY DAY!<delay frames="65" /><anim id="EmotEnd" target="actor" targetSpec="" />
+If you find and <colour id="1" />craft every Bunny
+Day DIY recipe<colour id="65535" />,<delay8 /> <anim id="Clapping" target="actor" targetSpec="" />I'll give ya a supery-
+dupery present, <delay8 />OK!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="024_01" attrib="00 00 00 00">The time has come!<delay frames="30" />
+Let's look for eggs!<delay frames="30" />
+That's my bunny plan!<10_8 arg="120" />
+They're here!<delay8 /> They're there!<delay frames="30" />
+They're everywhere!<delay frames="30" />
+Find them if you can!<10_7 arg="180" /></message>
+	<message label="024_02" attrib="00 00 00 00"><tag a="110" b="0" /><delay20 /><anim id="Eh" target="actor" targetSpec="" />Hey!<delay frames="50" /> <anim id="Serious" target="actor" targetSpec="" />Aren't you gonna go
+find 'em?</message>
+	<message label="025" attrib="00 00 00 00"><tag a="10" b="6" /><anim id="Laughing" target="actor" targetSpec="" />Boingity boing!<delay20 />
+<size value="150" />Hello there!<size value="100" /><endTag a="10" b="6" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />It's time for fun,<delay20 /> hippity flipper!<delay20 />
+I'm the lucky yellow bunny<delay20 />
+everyone calls<tag a="110" b="0" /><delay20 /><colour id="3" /><anim id="Dance" target="actor" targetSpec="" />Zipper<colour id="65535" />!<pageBreak /><anim id="Clapping" target="actor" targetSpec="" />Yaaaay! <delay frames="50" /><size value="75" />You should clap now.<delay frames="50" /><size value="100" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="026" attrib="00 00 00 00"><size value="75" /><anim id="Silent" target="actor" targetSpec="" />Hey. <delay20 />What are you lookin' at?<delay20 /><anim id="Negative" target="actor" targetSpec="" /> This is NOT
+a costume.<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />I'm a bunny,<delay8 /> see?<size value="100" /></message>
+	<message label="027" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Snippity snap, forget all that!<pageBreak /><colour id="1" />Bunny Day<colour id="65535" /> is almost here.<delay20 /> <anim id="Explain" target="actor" targetSpec="" />And
+hippity ho, <delay8 />whaddaya know,<delay20 /> I've
+got a funny-bunny secret for you.</message>
+	<message label="028" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Long story short, kid<tag a="110" b="0" /><anim id="Explain" target="actor" targetSpec="" />find a bunch
+of eggs and something good might
+happen on the very best day of all<tag a="110" b="0" />
+<anim id="Dance" target="actor" targetSpec="" />BUNNY DAY!<delay frames="70" />
+<anim id="Laughing" target="actor" targetSpec="" />Alrighty then,<delay8 /> goooood luck!</message>
+	<message label="030" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Hippity hey, whaddaya say!<delay20 />
+Bunny Day is <colour id="1" /><delay8 /><tag a="90" b="35" arg="0xcd00" /> <tag a="90" b="36" arg="0xcd00" /><colour id="65535" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />I promise to bing-bong-bounce
+back to this island on that wonderful
+FUNderful day!
+<anim id="Silent" target="actor" targetSpec="" />In the meantime, skipper, don't tell
+anyone ya ran into ol' <colour id="3" />Zipper<colour id="65535" />.<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />It'll be a funny-bunny surprise!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="031" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You're a visitor from another
+island,<delay8 /> aren't ya?<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Well, <delay20 />this is awkward.<delay20 /> You see,<delay8 /><anim id="Greeting" target="actor" targetSpec="" />
+I brought some Bunny Day
+<colour id="1" />DIY recipes<colour id="65535" /> with me today<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />But I only brought enough for the
+folks living here. <delay frames="50" /><anim id="Worried" target="actor" targetSpec="" />Real sorry about
+that, kid.</message>
+	<message label="100" attrib="00 00 00 00"><tag a="10" b="6" /><anim id="HappyDance" target="actor" targetSpec="" />Boingity boing!<delay20 /> Hey there, skipper!<delay20 />
+<size value="150" />It's me<tag a="110" b="0" /><colour id="3" /><delay20 /><anim id="Dance" target="actor" targetSpec="" />Zipper<colour id="65535" />!<size value="100" /><endTag a="10" b="6" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I'm the lucky yellow bunny,<delay20 />
+and I'm here to say<tag a="110" b="0" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />there's something super special<delay20 />
+hippity happening today!<pageBreak /><anim id="Clapping" target="actor" targetSpec="" />Yaaaay!<delay frames="40" />
+<size value="75" />Let's all clap!<delay frames="50" />
+Anytime now.<size value="100" /><delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Do I remember you?<delay20 /> Well, of course I
+do!<delay20 /> I never forget a friendly face<tag a="110" b="0" /><size value="75" />
+<size value="100" />Especially one I meet in a new place.
+<anim id="Silent" target="actor" targetSpec="" /><size value="75" />Looks like you kept my visit a secret.<delay20 />
+I'm surprised you actually listened<tag a="110" b="0" /><size value="100" /></message>
+	<message label="102" attrib="00 00 00 00">Anyway,<delay20 /> <anim id="Love" target="actor" targetSpec="" />my favorite day is finally
+here!<delay20 /> Time to fill this island with
+lots of bunny cheer!
+<anim id="Cheering" target="actor" targetSpec="" />Hip-hop-hooray!<delay20 /> Are you ready to
+celebrate Bunny Day?<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="103" attrib="00 00 00 00">Great!<delay8 /><anim id="Greeting" target="actor" targetSpec="" /> Say it with me now<tag a="110" b="0" /></message>
+	<message label="104" attrib="00 00 00 00">The time has come!<delay frames="35" />
+Let's look for eggs!<delay frames="35" />
+That's my bunny plan!<10_8 arg="120" />
+They're here!<delay8 /> They're there!<delay frames="35" />
+They're everywhere!<delay frames="35" />
+Find them if you can!<10_7 arg="180" /></message>
+	<message label="105" attrib="00 00 00 00"><tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />Do you understand what I'm
+trying to say?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />You can still hunt for eggs on this
+special day!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Use your time wisely,<delay8 /> and try to find
+the <colour id="1" />six types of eggs<colour id="65535" /> hidden around
+the island.</message>
+	<message label="106" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />If you find all six types,<delay8 /> I'll give you
+a funny-bunny reward!</message>
+	<message label="107" attrib="00 00 00 00">Ya know what,<delay8 /> <anim id="WrySmile" target="actor" targetSpec="" />I also have a surprise
+for someBUNNY very special<tag a="110" b="0" /></message>
+	<message label="108" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />And that someBUNNY<delay8 /> is you!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Here's a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day arch <colour id="65535" />recipe<delay20 />
+<anim id="Dance" target="actor" targetSpec="" />to say thanks for all you do.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Well then!<delay20 /> You better hop to it if
+you're going to find each and every
+Bunny Day <colour id="1" />DIY recipe<colour id="65535" /> I've hidden.
+<anim id="Cheering" target="actor" targetSpec="" />I have a super-EGGStra-special
+reward for anyone who crafts<colour id="1" />
+all my Bunny Day recipes<colour id="65535" />!
+<anim id="Frantic" target="actor" targetSpec="" />Now, no time to waste.<delay20 /> Make haste!</message>
+	<message label="109" attrib="00 00 00 00">This is for you!<delay20 /> <tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />Oh?<delay20 />
+It seems your pockets are full.<delay20 />
+How unexpected!
+<anim id="Nodding" target="actor" targetSpec="" />Go make some room,<delay8 /> and then I'll
+give you the gift I've selected.</message>
+	<message label="111" attrib="00 00 00 00"><size value="75" /><anim id="Silent" target="actor" targetSpec="" />I know what you're thinking.<delay20 /> No. <delay8 /><anim id="Negative" target="actor" targetSpec="" />This is NOT a
+costume.<delay frames="30" /> <anim id="Serious" target="actor" targetSpec="" />And don't you go snoopin',<delay8 /> got it?<size value="100" /></message>
+	<message label="112" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Zippity zap,<delay8 /> that's enough of that.<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Let's talk about why I'm here<tag a="110" b="0" /><delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />To spread lots of <colour id="1" />Bunny Day <colour id="65535" />cheer!
+<anim id="HappyDance" target="actor" targetSpec="" />Today is a very special day,<delay20 />
+which is why I want everyone
+to go outside and play!
+<anim id="HappyDance" target="actor" targetSpec="" />I have a wonderful Bunny Day game.<delay20 />
+Listen close and I'll explain<tag a="110" b="0" /></message>
+	<message label="113" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day arch <colour id="65535" />recipe!<delay frames="40" />
+Go ahead and craft it with the eggs
+you find.<pageBreak /><tag a="10" b="6" />And now,<delay20 /> <anim id="Dance" target="actor" targetSpec="" />a grand announcement!<delay frames="50" />
+<anim id="Serious" target="actor" targetSpec="" /><size value="75" />Are you listening, kid?<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Whatever.<delay20 /> Here it is.<size value="100" /><endTag a="10" b="6" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Bunny Day-themed <colour id="1" />DIY recipes <colour id="65535" />are
+hidden all around this very island!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />A special prize awaits that lucky
+someBUNNY who finds and crafts
+<colour id="1" />all my Bunny Day recipes<colour id="65535" />.
+<anim id="Hello" target="actor" targetSpec="" />Now,<delay8 /> shake that cottontail, <delay8 />and
+hippity hop to it!<delay20 /><anim id="Silent" target="actor" targetSpec="" /> I'll be waiting.</message>
+	<message label="121" attrib="00 00 00 00"><tag a="10" b="6" /><anim id="HappyDance" target="actor" targetSpec="" />Bingity boingity!<delay20 /> Hey there, skipper!<delay20 />
+<size value="150" />It's me<tag a="110" b="0" /><colour id="3" /><delay20 /><anim id="Dance" target="actor" targetSpec="" />Zipper<colour id="65535" />!<size value="100" /><endTag a="10" b="6" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I'm your Bunny Day pal,<delay20 /> and I'm
+here to boost morale!<delay frames="40" /> <anim id="Clapping" target="actor" targetSpec="" />Yay!<delay20 /> Hip-
+hop-hooray!<delay frames="45" /> <anim id="EmotEnd" target="actor" targetSpec="" /><size value="75" />That was your cue to clap.<size value="100" /></message>
+	<message label="122" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Alrighty then!<delay20 /> Good luck out there!</message>
+	<message label="130" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh yeah,<delay8 /> I forgot to mention
+something kinda important earlier.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Here's the deal<tag a="110" b="0" /><delay20 /> If you're ever
+short by one egg of a certain type,<delay20 /><anim id="BigSmile" target="actor" targetSpec="" />
+I can help ya out!
+<anim id="Explain" target="actor" targetSpec="" />I'll give you one egg of your choice,
+and all you have to do is give me
+<tag a="90" b="1" arg="0x0" /> of a different type of egg.
+<anim id="BigSmile" target="actor" targetSpec="" />Bippity bop, <delay8 />not a bad deal, eh?<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" />All you need to say is, "<colour id="1" />Let's trade!<colour id="65535" />"
+and I'll know what you mean.</message>
+	<message label="131" attrib="00 00 00 00">Hippity hey,<delay8 /> <anim id="TakenAback" target="actor" targetSpec="" />you came up with a new
+DIY recipe when you found an egg?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I can't believe you made your very
+own recipe!<delay20 /> That's EGGScellent!<delay20 />
+<anim id="Silent" target="actor" targetSpec="" /><size value="75" />Next you'll be dressing up like a bunny.<size value="100" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Hmm, <delay20 />you know how I said I'd give
+you something neat if you crafted
+aaall the DIY recipes I've hidden?<pageBreak />Well, <delay8 /><anim id="Negative" target="actor" targetSpec="" />you don't have to craft the
+recipes you come up with on your
+own to get that special present.
+<anim id="Smiling" target="actor" targetSpec="" />No need to get your fur in a fluff
+about those.<delay frames="50" /> <anim id="Silent" target="actor" targetSpec="" /><size value="75" />It's not like they're made
+by a professional or anything.<size value="100" /></message>
+	<message label="132" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Hippity boing,<delay8 /> hoppity bing!<delay20 />
+How's the Bunny Day egg crafting?<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Let's see<tag a="110" b="0" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Hmm,<delay20 /> looks like you haven't done
+much crafting so far, have you?<delay20 />
+<anim id="Silent" target="actor" targetSpec="" /><size value="75" />Sheesh.<delay8 /> Thought I'd made myself clear.<size value="100" />
+<anim id="Explain" target="actor" targetSpec="" />Now remember,<delay8 /> if you craft ALL the
+Bunny Day DIY recipes I've hidden<tag a="110" b="0" /><pageBreak /><anim id="Clapping" target="actor" targetSpec="" />I'll give ya a prize! <delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" />A wonderful,
+FUNderful prize!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I can't tell ya where these recipes
+are hidden,<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />but I CAN give you a
+funny-bunny hint.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> It goes like this<tag a="110" b="0" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Take a walk <delay20 />down on the beach.<delay frames="30" />
+Look way up in the sky.<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />The thing you seek<delay20 /> sits on the sand.<delay frames="30" />
+Or perhaps it's floating by?<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Go on, kid,<delay20 /> it's easy to do.<delay frames="30" />
+<anim id="Dance" target="actor" targetSpec="" />Just give it an eggy try!<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="133" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Boingity hey!<delay20 /> How goes the Bunny
+Day DIY crafting?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> Let ol' <colour id="3" />Zipper<colour id="65535" /> take
+a look<tag a="110" b="0" />
+<anim id="Clapping" target="actor" targetSpec="" />Wonderful! <delay20 />Looks like you're
+bouncing right along!<delay frames="40" /> <anim id="Silent" target="actor" targetSpec="" />Though
+there's plenty more to find.
+<anim id="Greeting" target="actor" targetSpec="" />Here, I'll tell ya where I hid
+the remaining recipes<tag a="110" b="0" /><pageBreak /><10_10 /><anim id="Laughing" target="actor" targetSpec="" /><size value="150" />Somewhere secret!<size value="100" /><pageBreak /><10_9 /><anim id="EmotEnd" target="actor" targetSpec="" />Ah fine,<delay20 /> here's a hint for you<tag a="110" b="0" /><delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />It never hurts to look UP.<delay frames="50" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="134" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Ya-ho ya-hey! <delay8 />Ya-hippity-dey!<delay20 />
+Looks like you've been doing
+some serious DIY crafting!
+<anim id="Serious" target="actor" targetSpec="" />But have you crafted all the recipes
+I've hidden? <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />Lemme take a look<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />Well well!<delay20 /> How about that!<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />Looks like you have only <tag a="90" b="0" arg="0x0" /> left.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Not bad. <delay8 />Not bad at all.<delay20 />
+Keep it up, kid.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="135" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hippity hoppity howdy!<delay20 /> Enjoying the
+Bunny Day festivities?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />More importantly,<delay20 /> <anim id="Serious" target="actor" targetSpec="" />how's the
+Bunny Day crafting coming along?<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />
+Let your pal <colour id="3" />Zipper<colour id="65535" /> take a look<tag a="110" b="0" />
+<anim id="HappyDance" target="actor" targetSpec="" />Nice work, kid.<delay20 /> Keep up the good<tag a="110" b="0" />
+<anim id="Shocked" target="actor" targetSpec="" />Huh?!<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />You wanna know where the rest of
+the recipes are?<delay frames="50" /> <anim id="Negative" target="actor" targetSpec="" />I can't tell you that!<delay20 />
+<size value="75" />Sheesh. <delay8 />You kiddin' me here?<size value="100" />
+<anim id="Thinking" target="actor" targetSpec="" />Well<tag a="110" b="0" /><delay20 />I suppose if you're having
+trouble, I CAN tell you this<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Maaaybe someone else on this
+island got to them before you?<delay20 />
+And maaaybe you should ask around.<delay frames="40" />
+<anim id="Serious" target="actor" targetSpec="" />But that's all this bunny is sayin'.<delay20 />
+<anim id="SmugFace" target="actor" targetSpec="" />These lips are zippered!</message>
+	<message label="136_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Boingity hey!<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Don't forget to let
+me know if you make <tag a="50" b="2" />
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />wobbling Zipper toy<colour id="65535" />!
+I'm telling ya, kid, <delay8 /><anim id="Laughing" target="actor" targetSpec="" />you won't find a
+funnier bunny-er toy anywhere!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="136_02" attrib="00 00 00 00">Let's craft with eggs!<delay20 />
+Let's craft with eggs!<delay20 />
+That's the bunny plan!<10_8 arg="120" /></message>
+	<message label="137" attrib="00 00 00 00">Let's hunt for eggs!<delay20 />
+Let's craft with eggs!<delay20 />
+That's the bunny plan!<10_8 arg="120" /></message>
+	<message label="150" attrib="04 00 00 00">So, <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />didja need something?</message>
+	<message label="150_a" attrib="00 00 00 00">I have eggs.</message>
+	<message label="150_b" attrib="00 00 00 00">Let's trade!</message>
+	<message label="150_c" attrib="00 00 00 00">Never mind.</message>
+	<message label="151" attrib="04 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Huh?<delay frames="30" /> What's up?</message>
+	<message label="151_a" attrib="00 00 00 00">I have eggs.</message>
+	<message label="151_b" attrib="00 00 00 00">Let's trade!</message>
+	<message label="151_c" attrib="00 00 00 00">Never mind.</message>
+	<message label="152" attrib="04 00 00 00">Look, kid, <anim id="QuestionMark" target="actor" targetSpec="" />whaddaya want?</message>
+	<message label="152_a" attrib="00 00 00 00">I have eggs.</message>
+	<message label="152_b" attrib="00 00 00 00">Let's trade!</message>
+	<message label="152_c" attrib="00 00 00 00">Never mind.</message>
+	<message label="153" attrib="00 00 00 00">Whatever you say, kid.</message>
+	<message label="160" attrib="08 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You want to trade eggs, eh.<delay frames="30" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Which egg do you want?</message>
+	<message label="160_a" attrib="00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />Water egg.</message>
+	<message label="160_b" attrib="00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />Sky egg.</message>
+	<message label="160_c" attrib="00 00 00 00"><tag a="50" b="0" arg="0x200 0xcd03" />Earth egg.</message>
+	<message label="160_d" attrib="00 00 00 00">Any other eggs?</message>
+	<message label="160_e" attrib="00 00 00 00">Never mind.</message>
+	<message label="161" attrib="08 00 00 00">Here's three more.<delay frames="30" /> <anim id="QuestionMark" target="actor" targetSpec="" />Which one do
+ya want?</message>
+	<message label="161_a" attrib="00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />Stone egg.</message>
+	<message label="161_b" attrib="00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />Leaf egg.</message>
+	<message label="161_c" attrib="00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />Wood egg.</message>
+	<message label="161_d" attrib="00 00 00 00">Let me see the others.</message>
+	<message label="161_e" attrib="00 00 00 00">Never mind.</message>
+	<message label="162" attrib="08 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Back to the first three, eh.<delay frames="30" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Which one will it be?</message>
+	<message label="162_a" attrib="00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />Water egg.</message>
+	<message label="162_b" attrib="00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />Sky egg.</message>
+	<message label="162_c" attrib="00 00 00 00"><tag a="50" b="0" arg="0x200 0xcd03" />Earth egg.</message>
+	<message label="162_d" attrib="00 00 00 00">Let me see the others.</message>
+	<message label="162_e" attrib="00 00 00 00">Never mind.</message>
+	<message label="163" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />So, you want <colour id="1" /><tag a="50" b="2" /><tag a="140" b="18" arg="0x100" /><colour id="65535" />.<pageBreak />You've got to give me <tag a="90" b="1" arg="0x0" /> eggs
+of the same kind in exchange.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Which kind is it going to be?</message>
+	<message label="164" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, the <colour id="1" /><tag a="140" b="18" arg="0x1" /><colour id="65535" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'm gonna trade you 1 <colour id="1" /><tag a="140" b="18" arg="0x100" />
+<colour id="65535" />for <tag a="90" b="1" arg="0x0" /> <colour id="1" /><tag a="140" b="18" arg="0x201" /><colour id="65535" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />We have a deal?</message>
+	<message label="164_a" attrib="00 00 00 00">Yep!</message>
+	<message label="164_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Never mind.</message>
+	<message label="166" attrib="00 00 00 01"><tag a="10" b="6" /><tag a="10" b="12" /><anim id="BigSmile" target="actor" targetSpec="" /><size value="150" />Boingity boing!<delay20 />
+Let's trade eggs!<size value="100" /><delay frames="40" /><endTag a="10" b="6" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="168" attrib="00 00 00 00">Let's hunt for eggs!<delay20 />
+Let's craft with eggs!<delay20 />
+That's the bunny plan!<10_8 arg="120" /></message>
+	<message label="169" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Let's do this again sometime!</message>
+	<message label="170" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hold on one hippity-hot minute.<delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />You don't have enough eggs.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Listen up.<delay frames="50" /> <anim id="Explain" target="actor" targetSpec="" />You've gotta bring me
+<tag a="90" b="1" arg="0x0" /> eggs of the same kind<tag a="110" b="0" /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Then, and only then, I'll trade you
+one egg of any kind you want.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />You follow?</message>
+	<message label="171" attrib="00 00 00 00">Whatever you say, kid.</message>
+	<message label="172" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh? <delay8 />Hold on a minute!<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Trading
+doesn't work that way.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />See,<delay8 /> you bring me <tag a="90" b="1" arg="0x0" /> of the same
+kind of egg, <delay20 />and I'll give you one
+of a different kind of egg.<delay20 /><anim id="Silent" target="actor" targetSpec="" /> Got it?</message>
+	<message label="173" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Not up for an egg trade, eh?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Maybe another time, kid.</message>
+	<message label="174" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Changed your mind, didja?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Guess I'll give these back, then.</message>
+	<message label="176" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Boingity yay,<delay8 /> let's trade<tag a="110" b="0" /><delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Boingity
+boo, <delay8 />your pockets are full.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Can't give you the egg until you've
+got the space. Come talk to me when
+you do.</message>
+	<message label="180_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ah!<delay8 /> Let's see<tag a="110" b="0" /></message>
+	<message label="180_02" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You brought more eggs!<delay frames="30" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Let's take a look<tag a="110" b="0" /></message>
+	<message label="181_01" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />One, <delay20 />twooo, <delay20 />threeee, <delay frames="40" /><anim id="Dance" target="actor" targetSpec="" />four, five, six!<pageBreak /><anim id="Clapping" target="actor" targetSpec="" />Wonderfully wonderful!<delay20 />
+You have all six types of eggs!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Yippity skippity yay!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Alright,<delay8 /> I'm gonna take <tag a="90" b="1" arg="0x0" /> of
+each egg type.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Is that OK?</message>
+	<message label="181_01_a" attrib="00 00 00 00">Go for it!</message>
+	<message label="181_01_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No.</message>
+	<message label="181_02" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />One, <delay20 />twooo, <delay20 />threee, <delay frames="40" /><anim id="Dance" target="actor" targetSpec="" />four, five, six!<pageBreak /><anim id="Clapping" target="actor" targetSpec="" />That's all six types of eggs once
+again!<delay20 /> Hippity skippity, look at you!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />That means a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day basket<colour id="65535" /> is
+yours<tag a="110" b="0" /><delay20 /><anim id="Grin" target="actor" targetSpec="" />if I can take <tag a="90" b="1" arg="0x0" /> of each
+type of egg, that is.</message>
+	<message label="181_02_a" attrib="00 00 00 00">Go for it!</message>
+	<message label="181_02_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No.</message>
+	<message label="182" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Alright, here you are.</message>
+	<message label="183" attrib="00 00 00 00">It's<delay8 /> <anim id="BigSmile" target="actor" targetSpec="" />a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day basket<colour id="65535" />!</message>
+	<message label="184" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It's time to celebrate!
+Here we go<tag a="110" b="0" /></message>
+	<message label="185" attrib="00 00 00 00">Boingity yay!<delay20 /> Hip-hop-hooray!<delay frames="30" />
+What a wonderful <delay20 />FUNderful
+egg-filled day!<10_7 arg="180" /></message>
+	<message label="186" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Alright, kid,<delay20 /> enjoy the rest of your
+Bunny Day!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="187" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hold on!<delay20 /> By my big bunny ears,<anim id="Serious" target="actor" targetSpec="" />
+you don't have any eggs!<delay frames="40" />
+<anim id="Worried" target="actor" targetSpec="" /><size value="75" />Sheesh. Got my hopes up and everything<tag a="110" b="0" /><size value="100" /></message>
+	<message label="188_01" attrib="00 00 00 00">You gotta collect all six types of
+eggs,<delay20 /> <anim id="Hello" target="actor" targetSpec="" />and then I'll give you a
+fun bunny present!</message>
+	<message label="188_02" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />You know the drill.<delay20 /> Collect ALL six
+types of eggs,<delay20 /> and I'll give you<colour id="1" /><anim id="Hello" target="actor" targetSpec="" /><delay8 />
+<colour id="65535" /><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="2" /><colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day basket<colour id="65535" />!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="189" attrib="00 00 00 00">The time has come!<delay frames="30" />
+Let's look for eggs!<delay frames="30" />
+That's my bunny plan!<10_8 arg="120" />
+They're here!<delay8 /> They're there!<delay frames="30" />
+They're everywhere!<delay frames="30" />
+Find them if you can!<10_7 arg="180" /></message>
+	<message label="190" attrib="00 00 00 00"><anim id="Dance" target="actor" targetSpec="" />Ta-da!<delay frames="70" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="191" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What's this?<delay frames="45" /> <anim id="Negative" target="actor" targetSpec="" />You don't have all the
+different egg types.<pageBreak />There are six different kinds of eggs.<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />Find 'em all and bring them to me.</message>
+	<message label="192" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Outside's the place!<delay frames="30" />
+Go there to search<tag a="110" b="0" /><delay frames="30" />
+for all my eggy fare!
+<anim id="HappyDance" target="actor" targetSpec="" />Check trees and rocks!<delay frames="30" />
+Check the water too.<delay frames="30" />
+And look up in the air!</message>
+	<message label="193" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Will ya look at that!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />You've collected
+each and every kind of egg, but<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Your pockets are so full I can't give
+you anything.<anim id="Serious" target="actor" targetSpec="" /> Come talk to me when
+you've lightened your load.</message>
+	<message label="194" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />What?<delay8 /> You just wanted to show them
+to me?<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Suit yourself.</message>
+	<message label="200" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What now?<delay20 /> Did I HARE you
+correctly?<delay20 /> You crafted all the
+recipes I hid around the island?!
+<anim id="TakenAback" target="actor" targetSpec="" />My oh my!<delay20 /> I knew you'd try!<delay20 />
+<anim id="ShyBoy" target="actor" targetSpec="" />But you really finished the task,<delay20 />
+which leaves me nothing left to ask<tag a="110" b="0" /></message>
+	<message label="201" attrib="00 00 00 00"><tag a="10" b="12" /><tag a="10" b="6" /><anim id="Laughing" target="actor" targetSpec="" /><size value="150" />EXCEPT THIS ONE
+OTHER THING!<delay frames="45" /><size value="100" /><endTag a="10" b="6" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" /><size value="75" />Did you really think it'd be that easy?<delay20 /><anim id="Negative" target="actor" targetSpec="" />
+Ugh,<delay8 /> kids today have it so good.<pageBreak /><anim id="Explain" target="actor" targetSpec="" /><size value="100" />That's right,<delay8 /> I need you to do ONE
+more thing before I give you your
+reward!
+<anim id="Greeting" target="actor" targetSpec="" />Take this recipe,<delay8 /> and I'll explain<tag a="110" b="0" /></message>
+	<message label="202" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />This final challenge<delay20 /> fills me with glee.<delay20 />
+You gotta craft a toy that looks<tag a="110" b="0" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />
+like ME!
+<anim id="BigSmile" target="actor" targetSpec="" />Yessirree! It's a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />wobbling Zipper toy<colour id="65535" />!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Craft this recipe and a super-di-
+duper prize is yours!<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> Bunny's honor!</message>
+	<message label="203" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Looks like your pockets are full,<delay8 />
+my friend.<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> Make some room,<delay8 />
+and we can try again.</message>
+	<message label="204" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />That look on your face says it all<tag a="110" b="0" /><delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Did you really complete my tasks,<delay8 />
+both big and small?!
+<anim id="Aha" target="actor" targetSpec="" />You crafted the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />wobbling Zipper toy <colour id="65535" />too?<delay frames="40" /><anim id="Clapping" target="actor" targetSpec="" /> Yippee-yahoo!<delay20 /> I knew I could
+count on you!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />And I promise I didn't forget my
+promise. <delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />Congrats! Here's your
+super-spectacular prize<tag a="110" b="0" /></message>
+	<message label="205" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It's a wonderfully wonderful recipe
+for a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day wand<colour id="65535" />!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /><size value="75" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />What do you mean, "Just another recipe?"<delay20 />
+Sheesh. Lookin' for a little gratitude here.<pageBreak /><size value="100" /><anim id="EmotEnd" target="actor" targetSpec="" />After all this EGGScellent crafting,<delay20 />
+<anim id="Clapping" target="actor" targetSpec="" />I think one more Bunny Day cheer
+is in order!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /> Are you ready?!</message>
+	<message label="206" attrib="00 00 00 00">You're the winner! <delay20 />Yes you are!<delay frames="30" />
+Congratulations! <delay20 />You're a star!<delay frames="30" /><anim id="Dance" target="actor" targetSpec="" /><delay frames="60" /><10_7 arg="130" /></message>
+	<message label="207" attrib="00 00 00 00">Hippity hop!<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />The fun doesn't have
+to stop!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />The Bunny Day festivities will
+continue all day today,<delay20 /> so go
+have a hoppin' good time!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />And thanks for jumping in on my fun
+Bunny Day festivities. <delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />You've made
+me the hippity-happiest bunny of all.</message>
+	<message label="208" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Uh-oh.<delay20 /> I'm afraid your pockets are
+full to the brim<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /> Come back after
+you've found some items to trim!</message>
+	<message label="220" attrib="00 00 00 00"><tag a="110" b="0" />
+<anim id="Confused" target="actor" targetSpec="" />Maybe you didn't HARE me the first
+time,<delay8 /> but your pockets are full.
+Go make some room,<delay8 /> and then
+come back and see me again.</message>
+	<message label="221" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />EGGScuse me?<10_4 /> <anim id="Aha" target="actor" targetSpec="" />Oh!<delay20 /> Right!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> You're
+back for the thing I promised.<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />Alright,<delay8 /> here you go!</message>
+	<message label="222" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day arch<colour id="65535" /> recipe I told
+ya about.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Now, I'm HOPPY to see you jumping
+into the Bunny Day fun,<delay20 /> but there's
+lots more that needs to be done.
+<anim id="QuestionMark" target="actor" targetSpec="" />Can you find each and every Bunny
+Day <colour id="1" />DIY recipe<colour id="65535" /> I've hidden around
+the island?
+<anim id="Cheering" target="actor" targetSpec="" />I have an EGGStra special reward
+for anyone who can <colour id="1" />craft all my
+Bunny Day recipes<colour id="65535" />!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />
+<anim id="Frantic" target="actor" targetSpec="" />Get goin', kid,<delay8 /> there's no time to
+waste.<delay20 /> Search all over the island,<delay8 />
+and make haste!</message>
+	<message label="223" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day arch <colour id="65535" />recipe!<delay frames="40" />
+Sorry, I couldn't give it to you earlier.<delay20 />
+Craft one with the eggs you find.
+<tag a="10" b="6" /><anim id="Dance" target="actor" targetSpec="" />And now,<delay20 /> listen up!<tag a="10" b="6" /><delay20 /><endTag a="10" b="6" /> You need to
+HARE this grand announcement!<delay frames="50" />
+<anim id="EmotEnd" target="actor" targetSpec="" /><size value="75" />Are you even listening?<delay20 /> Whatever.<delay20 /> Here it is.<size value="100" /><endTag a="10" b="6" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Bunny Day-themed <colour id="1" />DIY recipes <colour id="65535" />are
+hidden all around this very island!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />A special prize awaits that lucky
+someBUNNY who finds and <colour id="1" />crafts
+all my Bunny Day recipes<colour id="65535" />!
+<anim id="Hello" target="actor" targetSpec="" />Now,<delay8 /> shake that cottontail,<delay8 />
+and hop to it!<delay20 /> I'll be waiting.</message>
+	<message label="224" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's the recipe for the wonderful
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />wobbling Zipper toy<colour id="65535" /> I couldn't give
+you earlier.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />
+<anim id="Explain" target="actor" targetSpec="" />Like I said, kid, <delay8 />a fantastic reward
+awaits if you craft it.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I swear on my
+bunny ears!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

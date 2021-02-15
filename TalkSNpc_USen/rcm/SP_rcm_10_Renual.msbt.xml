@@ -1,6 +1,7 @@
 <msbt attribsize="4">
 	<message label="002_02" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />We hope you'll continue shopping
-with us here at <colour id="1" />Nook's Cranny<colour id="65535" />!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+with us here at <colour id="1" />Nook's Cranny<colour id="65535" />!<delay frames="40" /><anim id="Hello" target="subNpc" targetSpec="" />
+<tag a="100" b="4" /><delay8 /><size value="75" />...<colour id="1" />Cranny<colour id="65535" />!<size value="100" /><endTag a="100" b="4" /></message>
 	<message label="002_03" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oops. Never mind that<tag a="110" b="0" /> <anim id="FaintSmile" target="actor" targetSpec="" />You were
 looking at this item.</message>
 	<message label="051" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Welcome!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> We did it!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Thanks to your
@@ -55,9 +56,10 @@ find it in front of the shop.<anim id="FaintSmile" target="subNpc" targetSpec=""
 closed. You can just drop off any
 items you want to sell.<delay frames="40" /><anim id="Smiling" target="subNpc" targetSpec="" /> Easy, right?
 <anim id="Explain" target="mainNpc" targetSpec="" />We'll pay you later by sending the
-funds directly to your bank account.<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="ShyBoy" target="subNpc" targetSpec="" />Two notes, though:<delay8 /> We do charge a
-handling fee. And please don't put
-"hot" items or turnips in the box.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+funds directly to your bank account.
+And I should mention a few things<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="ShyBoy" target="subNpc" targetSpec="" />There is a handling fee, and we don't
+accept turnips. And "hot" items will
+sell for just their regular price.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
 	<message label="061_05" attrib="00 00 00 00"><tag a="110" b="0" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />And I think that wraps it up!</message>
 	<message label="101" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Guess what, <tag a="110" b="1" /><tag a="110" b="0" /><delay frames="40" />
 <anim id="Aha" target="actor" targetSpec="" />I have some big news to share!</message>
@@ -74,13 +76,13 @@ can begin construction right away.
 <anim id="ShyBoy" target="actor" targetSpec="" />I know, I know<tag a="110" b="0" /> A whole day with no
 shop<tag a="110" b="0" /><anim id="Nodding" target="actor" targetSpec="" /> But we'll see you again in two
 days, right?<delay20 /><anim id="Smiling" target="actor" targetSpec="" /></message>
-	<message label="151" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Welcome to our newly renovated and
-expanded shop!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm so glad you stopped by to visit us
-<anim id="Hello" target="actor" targetSpec="" />on our very first day in action!</message>
-	<message label="151_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />! Welcome!<delay frames="40" />
+	<message label="151" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Welcome to our<anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="HappyDance" target="actor" targetSpec="" /> newly renovated and
+expanded shop!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />I'm so glad you stopped by to visit us
+<anim id="Hello" target="actor" targetSpec="" />on<anim id="FaintSmile" target="subNpc" targetSpec="" /> our very first day in action!</message>
+	<message label="151_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />!<anim id="FaintSmile" target="subNpc" targetSpec="" /> Welcome!<delay frames="40" />
 <anim id="Nodding" target="actor" targetSpec="" />This is your first visit since
-we renovated, right?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />As you can see, <delay8 /><anim id="Hello" target="actor" targetSpec="" />we're operating out
-of this new space now.</message>
+we renovated, right?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />As you can see, <delay8 /><anim id="Hello" target="actor" targetSpec="" />we're operating out
+of<anim id="FaintSmile" target="subNpc" targetSpec="" /> this new space now.</message>
 	<message label="152" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />We hope you'll continue shopping
 with us here at <colour id="1" />Nook's Cranny<colour id="65535" />!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="152_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oops. Never mind that<tag a="110" b="0" /> <anim id="FaintSmile" target="actor" targetSpec="" />You were

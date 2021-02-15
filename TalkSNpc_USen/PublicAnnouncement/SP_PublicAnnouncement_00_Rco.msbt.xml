@@ -1,7 +1,7 @@
 <msbt attribsize="4">
-	<message label="000_01" attrib="00 00 00 00"><tag a="100" b="8" /><anim id="Smiling" target="actor" targetSpec="" />Hello, <tag a="110" b="8" />!<delay40 />
+	<message label="000_01" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Smiling" target="actor" targetSpec="" />Hello, <tag a="110" b="8" />!<delay40 />
 The time is now <tag a="90" b="30" />:<tag a="90" b="31" /> <tag a="110" b="19" />.<endTag a="100" b="8" /></message>
-	<message label="000_02" attrib="00 00 00 00"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />I trust you've all found excellent
+	<message label="000_02" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />I trust you've all found excellent
 <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />ways to spend your day?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You'll wear yourself out if you try to
 pack too much activity in all at once.
 <delay20 /><anim id="Smiling" target="actor" targetSpec="" />So be sure you take breaks!<endTag a="100" b="8" /></message>
@@ -60,16 +60,24 @@ birthday! Yes, indeed!<endTag a="100" b="8" /></message>
 	<message label="021" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Serious" target="actor" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Now for today's news<tag a="110" b="0" /><endTag a="100" b="8" /></message>
 	<message label="022" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Serious" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Now for today's other news<tag a="110" b="0" /><endTag a="100" b="8" /></message>
 	<message label="031" attrib="00 00 00 12"><tag a="100" b="8" />Also<tag a="110" b="0" /><endTag a="100" b="8" /></message>
+	<message label="041_01" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="IdeaBulb" target="actor" targetSpec="" />Oho!<delay20 /> <colour id="1" />Bunny Day <colour id="65535" />is nearly upon us!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Seems like this event often coincides
+with a change in the weather.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />But I feel like it kind of snuck up on
+me this year.<endTag a="100" b="8" /></message>
+	<message label="041_02" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="BigSmile" target="actor" targetSpec="" />Today is <colour id="1" />Bunny Day<colour id="65535" />!<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /> What's more,<delay20 /> we
+have a special guest<delay8 /> who's come a
+long way to celebrate with us.
+I hope everyone stops by the plaza
+<anim id="Greeting" target="actor" targetSpec="" />to meet him.<endTag a="100" b="8" /></message>
 	<message label="101" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Clapping" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="8" /> gained a new
 neighbor today. <tag a="115" b="1" arg="0xcd00" />!<endTag a="100" b="8" /></message>
 	<message label="102" attrib="00 00 00 12"><tag a="60" b="20" /></message>
-	<message label="102_01" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Nodding" target="actor" targetSpec="" />I hope you give <tag a="50" b="17" arg="0xe 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x8 0x74 0x68 0x65 0x6d" /> lots of great
+	<message label="102_01" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Nodding" target="actor" targetSpec="" />I hope you give <tag a="50" b="17" arg="0xf 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x8 0x74 0x68 0x65 0x6d" /> lots of great
 advice about living here!<anim id="Smiling" target="actor" targetSpec="" /><endTag a="100" b="8" /></message>
-	<message label="102_02" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Nodding" target="actor" targetSpec="" />If you happen to see <tag a="50" b="17" arg="0xe 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x8 0x74 0x68 0x65 0x6d" />,<delay20 /> please
-give <tag a="50" b="17" arg="0xe 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x8 0x74 0x68 0x65 0x6d" /> a warm welcome!<anim id="Smiling" target="actor" targetSpec="" /><endTag a="100" b="8" /></message>
-	<message label="102_03" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Nodding" target="actor" targetSpec="" />I'm sure <tag a="50" b="17" arg="0xe 0xcd00 0x4 0x68 0x65 0x6 0x73 0x68 0x65 0x8 0x74 0x68 0x65 0x79" /> will be very busy
+	<message label="102_02" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Nodding" target="actor" targetSpec="" />If you happen to see <tag a="50" b="17" arg="0xf 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x8 0x74 0x68 0x65 0x6d" />,<delay20 /> please
+give <tag a="50" b="17" arg="0xf 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x8 0x74 0x68 0x65 0x6d" /> a warm welcome!<anim id="Smiling" target="actor" targetSpec="" /><endTag a="100" b="8" /></message>
+	<message label="102_03" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Nodding" target="actor" targetSpec="" />I'm sure <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x68 0x65 0x6 0x73 0x68 0x65 0x8 0x74 0x68 0x65 0x79" /> will be very busy
 unpacking today, so consider
-checking in on <tag a="50" b="17" arg="0xe 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x8 0x74 0x68 0x65 0x6d" />!<anim id="Smiling" target="actor" targetSpec="" /><endTag a="100" b="8" /></message>
+checking in on <tag a="50" b="17" arg="0xf 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x8 0x74 0x68 0x65 0x6d" />!<anim id="Smiling" target="actor" targetSpec="" /><endTag a="100" b="8" /></message>
 	<message label="200" attrib="00 00 00 12"><tag a="100" b="8" />Now<tag a="110" b="0" /> On to the next topic!<endTag a="100" b="8" /></message>
 	<message label="201" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Worried" target="actor" targetSpec="" />Our dear <tag a="115" b="1" arg="0xcd00" /><delay20 /> will be
 saying goodbye to this island
@@ -121,7 +129,7 @@ shells into summer memorabilia.<endTag a="100" b="8" /></message>
 	<message label="612_01" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Smiling" target="actor" targetSpec="" />Earlier on my daily constitutional, I
 was overcome with fall feelings when
 I saw what had dropped off a tree.
-<tag a="100" b="8" /><anim id="Explain" target="actor" targetSpec="" /><endTag a="100" b="8" />You might be able to shake loose an
+<anim id="Explain" target="actor" targetSpec="" />You might be able to shake loose an
 <colour id="1" />acorn <colour id="65535" />or a <colour id="1" />pine cone<colour id="65535" /> if you try. <delay20 />Give
 yourself that fall experience too!<anim id="Smiling" target="actor" targetSpec="" /><endTag a="100" b="8" /></message>
 	<message label="612_01_01" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Smiling" target="actor" targetSpec="" />Earlier, on my daily constitutional, <delay20 />I
@@ -200,7 +208,7 @@ these blossoms while they're here.<anim id="Smiling" target="actor" targetSpec="
 <colour id="65535" />app. You'll now find the recipe for a
 delightful <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />outdoor picnic set<colour id="65535" />.<anim id="Smiling" target="actor" targetSpec="" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Admire the cherry blossoms while
 enjoying some homemade lunch, hm?<endTag a="100" b="8" /></message>
-	<message label="617_03" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Smiling" target="actor" targetSpec="" />Scoop up <colour id="1" /><tag a="100" b="8" /><tag a="50" b="0" arg="0x400 0xcd03" />cherry-blossom petals<endTag a="100" b="8" /> <colour id="65535" />with a <colour id="1" />net<colour id="65535" />, and then<tag a="110" b="0" />maybe you can
+	<message label="617_03" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Smiling" target="actor" targetSpec="" />Scoop up <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />cherry-blossom petals <colour id="65535" />with a <colour id="1" />net<colour id="65535" />, and then<tag a="110" b="0" />maybe you can
 use them in a DIY project, hm?<anim id="FaintSmile" target="actor" targetSpec="" /><endTag a="100" b="8" /></message>
 	<message label="618_01" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="AbsentMindedness" target="actor" targetSpec="" />This morning, while I was enjoying
 my daily constitutional, some
@@ -246,8 +254,8 @@ time to time, you know.<anim id="Smiling" target="actor" targetSpec="" /><endTag
 on highly prized items you can get
 via the <colour id="1" />miles redemption service<colour id="65535" />.<endTag a="100" b="8" /></message>
 	<message label="704" attrib="00 00 00 12"><tag a="60" b="20" /></message>
-	<message label="704_01" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />Today I'd like to talk to you about<tag a="110" b="0" /><delay40 />
-<anim id="Clapping" target="actor" targetSpec="" />the <colour id="1" />Custom Design Pro Editor<colour id="65535" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />This is an upgrade for the <colour id="1" />Custom
+	<message label="704_01" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />Today's top tip is about<tag a="110" b="0" /><delay20 /><anim id="Clapping" target="actor" targetSpec="" />the
+<colour id="1" />Custom Design Pro Editor<colour id="65535" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />This is an upgrade for the <colour id="1" />Custom
 Designs<colour id="65535" /> app.<anim id="Smiling" target="actor" targetSpec="" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />It has a more professional color
 customization feature as well as
 design creation functionality!<anim id="Smiling" target="actor" targetSpec="" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Without <colour id="1" />Custom Design Pro Editor<colour id="65535" />,<delay8 />
@@ -256,36 +264,36 @@ Pro Custom Designs, but<tag a="110" b="0" />
 <anim id="Smiling" target="actor" targetSpec="" />If you want to make your own Pro
 Custom Designs, by all means, do
 consider getting this upgrade.<endTag a="100" b="8" /></message>
-	<message label="704_02" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />Today I'd like to speak to you about<delay40 />
+	<message label="704_02" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />Today's top tip is about<tag a="110" b="0" /><delay20 />
 <anim id="Clapping" target="actor" targetSpec="" /><colour id="1" />Pretty Good Tools Recipes<colour id="65535" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />As the title suggests, these are
 recipes for pretty good tools that
 won't break all that easily.<anim id="Smiling" target="actor" targetSpec="" />
 <anim id="Nodding" target="actor" targetSpec="" />If you have a mind to upgrade from a
 flimsy tool,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> you might think about
 redeeming some miles for this item.<endTag a="100" b="8" /></message>
-	<message label="704_03" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />Today I'm going to talk a bit about<tag a="110" b="0" /><delay40 />
+	<message label="704_03" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />Today's top tip is about<tag a="110" b="0" /><delay20 />
 <anim id="Clapping" target="actor" targetSpec="" /><colour id="1" />Tool Ring: It's Essential!<colour id="65535" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Have any of you gotten used to
 deserted-island life<delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /> and started
 carrying around a lot of tools?
 <anim id="Sighing" target="actor" targetSpec="" />Maybe swapping between them all
 is starting to wear you out.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />The <colour id="1" />Tool Ring<colour id="65535" /> lets you favorite up to
-8 tools in your pocket<delay20 /> so you can
+eight tools in your pocket<delay20 /> so you can
 easily switch between them!<anim id="Smiling" target="actor" targetSpec="" />
 <anim id="Grin" target="actor" targetSpec="" /><delay8 />I can't recommend this item highly
 enough for those who want quick
 access to a variety of tools.<endTag a="100" b="8" /></message>
-	<message label="704_04" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />Today our topic is going to be<tag a="110" b="0" /><delay40 />
-<anim id="Clapping" target="actor" targetSpec="" />the <colour id="1" />Pocket Organization Guide<colour id="65535" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />The longer you live in one place, the
+	<message label="704_04" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />Today's top tip is about<tag a="110" b="0" /><delay20 /><anim id="Clapping" target="actor" targetSpec="" />the
+<colour id="1" />Pocket Organization Guide<colour id="65535" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />The longer you live in one place, the
 more things you tend to accumulate.
 The same is true on this island<tag a="110" b="0" />
 Anyone out there<anim id="QuestionMark" target="actor" targetSpec="" /> feeling a little
 overloaded?<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> If so, you're in luck!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Once you master the techniques in
 this guide, you'll be able to stuff
-even more<tag a="110" b="0" /><tag a="100" b="8" /><anim id="Smiling" target="actor" targetSpec="" /><endTag a="100" b="8" />stuff in your pockets.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" /><delay8 />Better living through organization!<10_4 />
+even more<tag a="110" b="0" /><anim id="Smiling" target="actor" targetSpec="" />stuff in your pockets.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" /><delay8 />Better living through organization!<10_4 />
 <anim id="Nodding" target="actor" targetSpec="" />I hope all of you pick up this item to
 live the tidiest life possible.<anim id="Smiling" target="actor" targetSpec="" /><endTag a="100" b="8" /></message>
-	<message label="704_05" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />You know, sometimes you just need
-to talk about<tag a="110" b="0" /><delay40 /><anim id="Clapping" target="actor" targetSpec="" /><colour id="1" />hair styles<colour id="65535" /> and <colour id="1" />colors<colour id="65535" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Did you know that some guides, like
+	<message label="704_05" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />Some days you just need to talk
+about<tag a="110" b="0" /><delay20 /><anim id="Clapping" target="actor" targetSpec="" /><colour id="1" />hairstyles<colour id="65535" /> and <colour id="1" />colors<colour id="65535" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Did you know that some guides, like
 <colour id="1" />Top 8 Pop Hairstyles<colour id="65535" />, offer ideas for
 changing up the look of your hair?<anim id="Smiling" target="actor" targetSpec="" />
 <anim id="Nodding" target="actor" targetSpec="" />You can give yourself a fresh new
@@ -293,11 +301,11 @@ look if you have a <colour id="1" />vanity<colour id="65535" />, a <colour id="1
 an item of that nature, hm?<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Any stylish folks out there who want
 to stay ahead of the trends should
 pick up this guide!<endTag a="100" b="8" /></message>
-	<message label="705" attrib="00 00 00 00"><tag a="100" b="8" /><anim id="BigSmile" target="actor" targetSpec="" />I'd like to share a little info that
+	<message label="705" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="BigSmile" target="actor" targetSpec="" />I'd like to share a little info that
 might just improve your quality of
 life here on the island.<endTag a="100" b="8" /></message>
-	<message label="706" attrib="00 00 00 00"><tag a="60" b="20" /></message>
-	<message label="706_01" attrib="00 00 00 00"><tag a="100" b="8" /><anim id="Nodding" target="actor" targetSpec="" />When you got your tent, you also
+	<message label="706" attrib="00 00 00 12"><tag a="60" b="20" /></message>
+	<message label="706_01" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Nodding" target="actor" targetSpec="" />When you got your tent, you also
 received a <tag a="50" b="0" arg="0x100 0xcd03" />portable radio. It's great
 for enjoying all kinds of music.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />However, there are other audio
 players out there, like <colour id="1" />record players<colour id="65535" />,
@@ -306,7 +314,7 @@ that you can use as well!
 favorite songs whenever you want<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />You can purchase <colour id="1" />music<colour id="65535" /> to use with
 those audio players from <colour id="1" />Nook
 Shopping<colour id="65535" />.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Keep a sharp eye out!<endTag a="100" b="8" /></message>
-	<message label="706_02" attrib="00 00 00 00"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />You've made a big decision to start a
+	<message label="706_02" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="EmotEnd" target="actor" targetSpec="" />You've made a big decision to start a
 new life here on <tag a="110" b="8" />.<pageBreak />Do you want to make<anim id="QuestionMark" target="actor" targetSpec="" /> big, bold
 changes to your personal style too?<delay20 />
 If so,<anim id="Smiling" target="actor" targetSpec="" /> I have good news for you!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" /><colour id="1" />Vanities<colour id="65535" />, <colour id="1" />mirrors<colour id="65535" />, and other items
@@ -314,14 +322,14 @@ used for checking your looks<anim id="BigSmile" target="actor" targetSpec="" /> 
 used to CHANGE your looks too!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />From <colour id="1" />hairstyles<colour id="65535" /> and <colour id="1" />colors<colour id="65535" /><delay8 /> to your
 very <colour id="1" />face<colour id="65535" />,<delay8 /> you can enjoy being the
 you you want to be every day!<anim id="Smiling" target="actor" targetSpec="" /><endTag a="100" b="8" /></message>
-	<message label="706_03" attrib="00 00 00 00"><tag a="100" b="8" /><anim id="AbsentMindedness" target="actor" targetSpec="" />Folks with that I'm-gonna-be-stylish-
+	<message label="706_03" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="AbsentMindedness" target="actor" targetSpec="" />Folks with that I'm-gonna-be-stylish-
 even-on-a-deserted-island mindset
 <anim id="Smiling" target="actor" targetSpec="" />will want a <colour id="1" />closet<colour id="65535" /> or <colour id="1" />wardrobe<colour id="65535" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />As long as you have one set up in
 your home, you can use it to change
 your entire outfit easily.<anim id="Smiling" target="actor" targetSpec="" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Enjoy a little fashion show of your
 own at home to develop your style,<delay20 />
 then share it with the world!<endTag a="100" b="8" /></message>
-	<message label="706_04" attrib="00 00 00 00"><tag a="100" b="8" /><anim id="AbsentMindedness" target="actor" targetSpec="" />On those long <tag a="110" b="8" />
+	<message label="706_04" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="AbsentMindedness" target="actor" targetSpec="" />On those long <tag a="110" b="8" />
 nights<tag a="110" b="0" /><delay40 /><anim id="Smiling" target="actor" targetSpec="" />enjoy the lovely illumination
 of <colour id="1" />candles<colour id="65535" /> or <colour id="1" />lamps<colour id="65535" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Using different lighting sources or
 changing their locations can

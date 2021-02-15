@@ -1,4 +1,16 @@
 <msbt attribsize="4">
+	<message label="010" attrib="00 00 00 00">Oh, hey, <tag a="110" b="1" />!
+Didja know that you can now send
+letters to friends you've played with?</message>
+	<message label="020" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Before you can use the service,<delay20 />
+though, <delay20 />the legal eagles say I
+gotta show you the fine print.
+<anim id="Hello" target="actor" targetSpec="" />Would you read through this for
+me so I don't get in trouble?</message>
+	<message label="040" attrib="02 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />OK! <delay20 />Now that we got that over with,<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />you wanna send a letter?</message>
+	<message label="040_a" attrib="00 00 00 00">Send one!</message>
+	<message label="040_b" attrib="00 00 00 00">Cancel.</message>
 	<message label="050" attrib="02 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, didja want to send a letter?<pageBreak /><tag a="110" b="0" /><anim id="Blushing" target="actor" targetSpec="" />Uh, I mean, sure thing, but<tag a="110" b="0" /><delay frames="40" />
 I'm not great at multitasking.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />You mind if I close the gate for
 now while we do this?</message>
@@ -8,6 +20,18 @@ now while we do this?</message>
 Alright, here we go—closing
 the gate!</message>
 	<message label="052" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />And we're ready!</message>
+	<message label="053" attrib="02 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, didja want to send a letter?<pageBreak /><tag a="110" b="0" /><anim id="Blushing" target="actor" targetSpec="" />Uh, I mean, sure thing, but<tag a="110" b="0" /><delay frames="40" />
+I'm not great at multitasking.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />You mind if I close down the
+connection for now while we
+do this?</message>
+	<message label="053_a" attrib="00 00 00 00">Sure thing!</message>
+	<message label="053_b" attrib="00 00 00 00">No, wait!</message>
+	<message label="054" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Appreciate you understanding.<delay20 />
+Alright, here we go—connection
+is<tag a="110" b="0" /><delay20 />closed.</message>
+	<message label="055" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You're the boss! <anim id="Explain" target="actor" targetSpec="" />I'll keep things like
+they are, <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />but let me know if you
+decide to use the postal service.</message>
 	<message label="070" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Ready to send a letter?</message>
 	<message label="070_a" attrib="00 00 00 00">Send one!</message>
 	<message label="070_b" attrib="00 00 00 00">Some other time.</message>
@@ -16,6 +40,12 @@ send it?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="080_a" attrib="00 00 00 00">A resident here.</message>
 	<message label="080_b" attrib="00 00 00 00">My future self.</message>
 	<message label="080_c" attrib="00 00 00 00">Never mind.</message>
+	<message label="081" attrib="0c 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Alright—where do you wanna
+send it?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="081_a" attrib="00 00 00 00">A resident here.</message>
+	<message label="081_b" attrib="00 00 00 00">My future self.</message>
+	<message label="081_c" attrib="00 00 00 00">A friend.</message>
+	<message label="081_e" attrib="00 00 00 00">Never mind.</message>
 	<message label="200" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Gotcha. Someone on this island.
 <anim id="QuestionMark" target="actor" targetSpec="" />Who, exactly?</message>
 	<message label="210_01" attrib="00 00 00 00">Sending to <tag a="115" b="0" arg="0xcd00" />?
@@ -31,9 +61,44 @@ I haven't been able to send yet, <delay20 />so I
 can't take any more right now.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I don't wanna be a pain, <delay20 />but could
 you come back in a while and let
 me sort this mess out?</message>
+	<message label="301" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Sure thing! Which friend do you
+want to write to?</message>
+	<message label="311" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Hm.<delay20 /> You can't send letters to friends
+until "Communicating with Others" is
+enabled in Parental Controls.</message>
+	<message label="312" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Oh, looks like you don't have any
+friends' addresses yet. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Visit a friend
+online to send them letters later!</message>
 	<message label="320" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh!<delay20 /> Looks like you already sent two
 letters today to <tag a="115" b="0" arg="0xcd00" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You can send more tomorrow,<delay20 />
 <anim id="FaintSmile" target="actor" targetSpec="" />so how about we just wait?</message>
+	<message label="321" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Alright, let's get you set up to send
+letters to friends!</message>
+	<message label="350" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, first time sending a note to
+Nintendo? Now, they're pretty busy,
+<anim id="Negative" target="actor" targetSpec="" />so you won't get an answer, but<tag a="110" b="0" />
+<anim id="Explain" target="actor" targetSpec="" />they MIGHT use your letter on their
+official website or social media, so
+don't give any of your personal info.
+<anim id="FaintSmile" target="actor" targetSpec="" />OK, I think that's all the legal
+mumbo jumbo. Get to writing!</message>
+	<message label="351" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh, you're gonna send a letter to
+Nintendo?<delay frames="40" /> Okeydoke! <delay20 /><anim id="Assent" target="actor" targetSpec="" />Go ahead
+and get started.</message>
+	<message label="352" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, looks like you already sent two
+letters to Nintendo today, <delay frames="40" /><anim id="Serious" target="actor" targetSpec="" />and that's
+the limit.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />You can mail 'em again when it's
+tomorrow. <delay20 />Can you wait a bit longer?</message>
+	<message label="353" attrib="00 00 00 00">Alright, lemme just fire up the ol'
+machinery for contactin' Nintendo<tag a="110" b="0" /></message>
+	<message label="380" attrib="02 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh.<delay frames="40" /> Looks like it didn't take.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />You wanna try again right away,<delay20 />
+or just do it later?</message>
+	<message label="380_a" attrib="00 00 00 00">Let's try again now.</message>
+	<message label="380_b" attrib="00 00 00 00">Eh, I'll do it later.</message>
+	<message label="381" attrib="00 00 00 00">Alright,<delay20 /><anim id="Hello" target="actor" targetSpec="" /> I'll refund your Bells, then.</message>
+	<message label="382" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh, and let me give you back the
+present you were gonna send too!</message>
 	<message label="400" attrib="00 00 00 00" />
 	<message label="401" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So, how far into the future should I
 be sending this thing?</message>
@@ -42,7 +107,7 @@ be sending this thing?</message>
 	<message label="402_a" attrib="00 00 00 00">That's right.</message>
 	<message label="402_b" attrib="00 00 00 00">Let's change the date.</message>
 	<message label="410" attrib="00 00 00 00">Did I goof? Sorry. Couldja try again?</message>
-	<message label="415" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Okeydoke! Oh,<delay8 /> wait a minute! Looks
+	<message label="415" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Okeydoke!<delay20 /><anim id="Shocked" target="actor" targetSpec="" /> Oh,<delay8 /> wait a minute! Looks
 like you've already got a letter in the
 hopper for future <tag a="110" b="1" />.
 <anim id="Explain" target="actor" targetSpec="" />If you wanna send another future
@@ -85,7 +150,7 @@ the letter in case you wanna come
 back to it.</message>
 	<message label="521" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wrapping it up for now, eh?<delay40 /><anim id="FaintSmile" target="actor" targetSpec="" /> Well,
 lemme just save your work for later.</message>
-	<message label="522" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You're all done? <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Gotcha.<delay20 /><10_4 /><anim id="Smiling" target="actor" targetSpec="" /> Lemme
+	<message label="522" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You're all done? <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />Gotcha.<delay20 /> Lemme
 know if I can help again sometime.</message>
 	<message label="523" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Quittin' time?<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />No problem.<delay20 /> Lemme
 know if you ever need my help again.</message>
@@ -117,8 +182,19 @@ else?<delay20 /> Or just throw it away?</message>
 	<message label="620" attrib="01 00 00 00">Who do you wanna send it to?</message>
 	<message label="620_a" attrib="00 00 00 00">A resident here.</message>
 	<message label="620_b" attrib="00 00 00 00">My future self.</message>
+	<message label="621" attrib="0b 00 00 00">Who do you wanna send it to?</message>
+	<message label="621_a" attrib="00 00 00 00">A resident here.</message>
+	<message label="621_b" attrib="00 00 00 00">My future self.</message>
+	<message label="621_c" attrib="00 00 00 00">A friend.</message>
+	<message label="621_d" attrib="00 00 00 00">Nintendo.</message>
+	<message label="625" attrib="00 00 00 00">Oh, looks like you already paid for
+this delivery. Lemme refund you so
+you can change who it's for.</message>
 	<message label="630" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Alright, I'll go ahead and throw away
 this letter for you.</message>
+	<message label="631" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Alright, that letter's headed to the
+recycle bin. <10_4 />And I'll just refund the
+200 Bells you already paid<tag a="110" b="0" /></message>
 	<message label="800" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Thanks for your business!</message>
 	<message label="801" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Gotcha. <delay20 />Just gimme a holler next
 time you need to send somethin'.</message>

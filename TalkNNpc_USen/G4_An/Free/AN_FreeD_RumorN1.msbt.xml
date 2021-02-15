@@ -1,0 +1,53 @@
+<msbt attribsize="8">
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />By the by, <tag a="110" b="3" />!<delay20 /> You
+said hi to our new neighbor
+yet, <tag a="110" b="5" />?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I can't wait till this place starts to fill
+up.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />There are SO MANY cool folks
+out there, and I wanna meet 'em all!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Honestly, I get kinda nervous about
+meeting newcomers.<delay20 /> No reason<tag a="110" b="0" /><delay20 />I'm
+just uneasy around new folks.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />They're probably gonna be unpacking
+anyway, <delay20 />so maybe I put off meeting
+'em a little longer, <tag a="110" b="5" />.</message>
+	<message label="007_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Our new neighbor moved in today!<delay20 />
+You gonna go visit 'em?<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />I'm going by
+later, <tag a="110" b="5" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Moving to a new place is always
+kinda scary,<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />so let's get the
+welcome wagon in gear!</message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />By the by,<delay20 /> you talked to
+the newcomer yet?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Huh? <delay20 />You look confused. Wait up<tag a="110" b="0" /><delay20 />
+You DO know about the new
+<tag a="110" b="8" />-er, right?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />C'mon!<delay20 /> Get yourself over there and
+show off your welcome face!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="011_01" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, do you remember when
+<tag a="115" b="1" arg="0xcd00" />'s birthday is?<pageBreak /><anim id="Surprised" target="actor" targetSpec="" />Wait, what?<delay frames="40" /> It's TOMORROW?!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Well<tag a="110" b="0" /><delay20 />slugs.<delay20 /> Guess planning a big,
+huge party for <gender3 m="him" f="her" /> is out<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I suppose I can get <gender3 m="him" f="her" /> a gift, at
+least.<delay20 /> What do you think <gender3 m="he'd" f="she'd" /> like?</message>
+	<message label="011_02" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" />'s birthday is
+tomorrow, right?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I got <gender3 m="him" f="her" /> a present, but I'm really not
+sure if <gender3 m="he" f="she" />'ll like it.<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />Commence the
+intense suspense, <tag a="110" b="5" />!</message>
+	<message label="011_03" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />You do know <tag a="115" b="1" arg="0xcd00" />'s
+birthday's tomorrow, right?<delay frames="40" /> RIGHT?!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Ha!<delay20 /> I won't tell anyone if you forgot.<delay20 />
+Bring a present for <gender3 m="him" f="her" /> and I'll hype
+it up for you.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I got your back.</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="013_01" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I guess <tag a="115" b="1" arg="0xcd00" /> is all set
+for <gender3 m="his" f="her" /> big move tomorrow.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />I gotta be honest—<delay20 /><anim id="Negative" target="actor" targetSpec="" />I was kinda
+hoping <gender3 m="he" f="she" />'d change <gender3 m="his" f="her" /> mind
+at the last minute. <delay20 />Guess not.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Not much to do now other than smile
+and say our goodbyes, right?<delay frames="40" /> <anim id="Sighing" target="actor" targetSpec="" />Ugh,<delay20 />
+this is hard, <tag a="110" b="5" /><tag a="110" b="0" /></message>
+	<message label="013_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />So, here we are.<delay20 /> <tag a="115" b="1" arg="0xcd00" />'s
+last day on <tag a="110" b="8" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'm trying not to get all sad and
+mopey.<delay20 /> I'm sure that's the last
+thing <gender3 m="he" f="she" /> needs right now.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Alright, let's put on some smiles and
+send <gender3 m="him" f="her" /> off right, <tag a="110" b="5" />!</message>
+	<message label="013_03" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Today's <tag a="115" b="1" arg="0xcd00" />'s last day
+before <gender3 m="he" f="she" /> heads off. <delay20 />Hard to
+believe it, <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'm sure we'll meet again someday,
+but yeah,<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />it's gonna be tough not
+having <gender3 m="him" f="her" /> around.</message>
+</msbt>

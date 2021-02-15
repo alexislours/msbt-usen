@@ -1,16 +1,20 @@
 <msbt attribsize="2">
-	<message label="0001" attrib="08 00">Are you sure you're OK with
-<colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="0001" attrib="08 00">Are you OK with <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?
+<size value="75" /><colour id="6" />The world of Animal Crossing is
+welcoming to all, so don't include
+personal info or offensive words.<colour id="65535" /><size value="100" /></message>
 	<message label="0001_a" attrib="01 00">Rethink It</message>
 	<message label="0001_b" attrib="01 00">OK</message>
-	<message label="0003" attrib="08 00">Do you want to suggest the name
-<colour id="0" /><tag a="115" b="2" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="0003" attrib="08 00">Are you OK with <colour id="0" /><tag a="115" b="2" arg="0xcd00" /><colour id="65535" />?
+<size value="75" /><colour id="6" />The world of Animal Crossing is
+welcoming to all, so don't include
+personal info or offensive words.<colour id="65535" /><size value="100" /></message>
 	<message label="0003_a" attrib="01 00">Rethink It</message>
 	<message label="0003_b" attrib="01 00">OK</message>
-	<message label="0004" attrib="01 00">You've included a word or phrase
+	<message label="0004" attrib="01 09">You've included a word or phrase
 that can't be used.</message>
 	<message label="0004_a" attrib="01 00">Back</message>
-	<message label="0005" attrib="01 00">You can only use up to 5 numbers.</message>
+	<message label="0005" attrib="01 09">You can only use up to 5 numbers.</message>
 	<message label="0005_a" attrib="01 00">Back</message>
 	<message label="0011" attrib="20 09">Are you sure you want to delete your
 save data, <tag a="110" b="1" />?
@@ -51,6 +55,10 @@ can register!</message>
 	<message label="0202_a" attrib="01 06">Close</message>
 	<message label="0301" attrib="06 09">Your pockets are too full to hold this.</message>
 	<message label="0301_a" attrib="01 06">Close</message>
+	<message label="0303_a" attrib="01 06">Close</message>
+	<message label="0304_a" attrib="01 06">Close</message>
+	<message label="0307" attrib="04 00">Receiving new mail.</message>
+	<message label="0308" attrib="02 00">Verifying data.</message>
 	<message label="0310" attrib="02 00">Hold on just a sec, OK?</message>
 	<message label="0321" attrib="01 09">You can't favorite a message if you
 haven't even read it yet!</message>
@@ -60,12 +68,25 @@ messages!</message>
 	<message label="0332" attrib="01 09">You can favorite up to <tag a="90" b="2" arg="0x0" /> messages.</message>
 	<message label="0333" attrib="01 09">You can't throw away message cards
 that have presents attached!</message>
+	<message label="0334" attrib="01 00">You've received a message card from
+a friend! You can create and send
+message cards at the airport.</message>
+	<message label="0335" attrib="0e 00">Once a message card is received, it
+is saved on the Nintendo Switch
+system and can't be received again.
+Unreceived message cards are
+stored on the server for 90 days.
+After 90 days, they are deleted.<pageBreak />You can have up to 300 message
+cards saved on the server. Once you
+exceed that amount, message cards
+will be deleted in order from oldest to
+newest, and the deleted cards can't
+be received.</message>
 	<message label="0402" attrib="01 09">Enter a future day, OK?</message>
 	<message label="0501" attrib="01 09">You don't have anywhere to put
 the clothes you're removing.</message>
 	<message label="0502" attrib="01 09">Select something to register!</message>
-	<message label="0503" attrib="01 09">You don't have anything you
-can remove.</message>
+	<message label="0503" attrib="01 09">Nothing to remove right now.</message>
 	<message label="0504" attrib="01 00"><colour id="0" />You can now use your closet to edit
 wand outfits!<colour id="65535" /><pageBreak />If you use the <colour id="1" />Edit Wand Outfits
 <colour id="65535" />option to create outfits, you can later
@@ -93,10 +114,48 @@ homes<colour id="65535" />, <colour id="1" />custom designs<colour id="65535" />
 content. Please be mindful of the
 content you share with others as you
 enjoy communicating with them.</message>
-	<message label="0802_a" attrib="01 00">I understand.</message>
+	<message label="0802_a" attrib="01 00">I Understand</message>
 	<message label="0803" attrib="06 09">Sorry, that island can't accommodate
 any more visitors right now.</message>
 	<message label="0803_a" attrib="01 04">Back</message>
+	<message label="0804" attrib="12 00"><colour id="1" />Be considerate<colour id="65535" />! Please do not share
+illegal content, personal information,
+content that infringes on the rights
+of others, or content that irritates
+others.<pageBreak />Please don't cheat or behave in a
+way that would irritate other players.
+The Nintendo Code of Conduct
+applies to in-game behavior and any
+shared content.<pageBreak />If your content or behavior is
+deemed to violate the Nintendo Code
+of Conduct, action can be taken,
+including deleting content from the
+server or restricting access to online
+play.<pageBreak />You can press <colour id="1" /><colour id="65535" /> to report
+inappropriate content and behavior.
+
+Please be mindful of the Nintendo
+Code of Conduct, and be
+considerate of other players.</message>
+	<message label="0804_a" attrib="01 06">I Understand</message>
+	<message label="0805" attrib="12 09">The session was forcibly ended
+because a visitor or host didn't end
+a conversation or close a window
+within a set amount of time.
+Your save data will be reverted to
+the last time it was updated.</message>
+	<message label="0805_a" attrib="01 06">I Understand</message>
+	<message label="0806" attrib="06 00">Destination info cannot be shown
+due to a communications error.</message>
+	<message label="0806_a" attrib="01 00">Back</message>
+	<message label="0810" attrib="07 00">Do you want to try to connect
+to the internet again?</message>
+	<message label="0810_a" attrib="01 00">Give Up</message>
+	<message label="0810_b" attrib="01 00">Try Again</message>
+	<message label="0820" attrib="06 09">Your profile could not be sent. If this
+process fails repeatedly, please retake
+your profile photo and try again.</message>
+	<message label="0820_a" attrib="01 06">Close</message>
 	<message label="0921" attrib="06 06">You can make up to two posts during
 one trip.</message>
 	<message label="0921_a" attrib="01 06">OK</message>
@@ -120,9 +179,9 @@ entered this time will be removed.<colour id="65535" /></message>
 	<message label="1001_b" attrib="01 05">OK</message>
 	<message label="1101" attrib="02 00">Searching for products...</message>
 	<message label="1102" attrib="06 09">No products found.</message>
-	<message label="1102_a" attrib="01 00">Close</message>
+	<message label="1102_a" attrib="01 06">Close</message>
 	<message label="1103" attrib="06 09">Not enough Bells.</message>
-	<message label="1103_a" attrib="01 00">Close</message>
+	<message label="1103_a" attrib="01 06">Close</message>
 	<message label="1104" attrib="08 00">Order <tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />
 for <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="65535" />?</message>
 	<message label="1104_a" attrib="01 00">Cancel</message>
@@ -136,9 +195,6 @@ for <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="1" />?<colour id
 order will be delivered shortly to
 your home through the mail.</message>
 	<message label="1108_a" attrib="01 06">OK</message>
-	<message label="1109" attrib="06 06">Your order for <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />
-has been received!</message>
-	<message label="1109_a" attrib="01 06">OK</message>
 	<message label="1111" attrib="06 09">Catalog orders are limited to a
 maximum of 5 items per customer
 per day.</message>
@@ -152,27 +208,71 @@ and cancel your order for
 <colour id="1" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />?</message>
 	<message label="1113_a" attrib="01 00">Keep writing.</message>
 	<message label="1113_b" attrib="01 00">Stop writing.</message>
-	<message label="1114" attrib="06 00">This item is not for sale and can't be
+	<message label="1114" attrib="06 09">This item is not for sale and can't be
 ordered right now.</message>
 	<message label="1114_a" attrib="01 00">Close</message>
+	<message label="1115" attrib="0c 00">Who is this going to?</message>
+	<message label="1115_a" attrib="01 00">A resident.</message>
+	<message label="1115_b" attrib="01 00">A friend.</message>
+	<message label="1115_c" attrib="01 00">Go back.</message>
+	<message label="1116" attrib="08 00">The item could not be sent.
+Do you want to try again?</message>
+	<message label="1116_b" attrib="01 00">Try again.</message>
+	<message label="1116_a" attrib="01 00">Cancel.</message>
+	<message label="1117" attrib="02 00">Connecting to the internet...</message>
+	<message label="1118" attrib="02 00">Sending item...
+<colour id="0" />Do not touch  while saving.<colour id="65535" /></message>
+	<message label="1119" attrib="06 00">The item's cost of <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="65535" />
+will be returned.</message>
+	<message label="1119_a" attrib="01 00">OK</message>
+	<message label="1120" attrib="06 00">The item was sent off to
+<colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />.</message>
+	<message label="1120_a" attrib="01 00">OK</message>
+	<message label="1121" attrib="06 00">You can't place orders while
+company is around.</message>
+	<message label="1121_a" attrib="01 00">Close</message>
+	<message label="1122" attrib="06 00">You can't place orders while you're
+visiting another player's island.</message>
+	<message label="1122_a" attrib="01 00">Close</message>
+	<message label="1123" attrib="06 00">You can't place orders while the
+airport gate is open.</message>
+	<message label="1123_a" attrib="01 00">Close</message>
+	<message label="1124" attrib="06 00">You can't place orders at this time.
+Please close the connection at the
+airport counter.</message>
+	<message label="1124_a" attrib="01 00">Close</message>
 	<message label="1201" attrib="08 00">Are you sure you want to delete
-"<tag a="115" b="3" arg="0xcd00" />"?</message>
+<colour id="1" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" />?</message>
 	<message label="1201_a" attrib="01 00">Actually, no.</message>
 	<message label="1201_b" attrib="01 00">Delete it.</message>
 	<message label="1202" attrib="08 00">Are you sure you want to delete
-"<tag a="115" b="3" arg="0xcd00" />,"
-designed by <tag a="115" b="0" arg="0xcd00" />?</message>
+<colour id="1" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" />,
+designed by <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
 	<message label="1202_a" attrib="01 00">Actually, no.</message>
 	<message label="1202_b" attrib="01 00">Delete it.</message>
 	<message label="1203" attrib="01 00">Select a custom design that can
 be deleted.</message>
 	<message label="1203_a" attrib="01 00">OK</message>
 	<message label="1204" attrib="08 00">Are you sure you want to delete
-"<tag a="115" b="3" arg="0xcd00" />,"
-saved by <tag a="115" b="0" arg="0xcd00" />?</message>
+<colour id="1" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" />,
+saved by <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
 	<message label="1204_a" attrib="01 00">Actually, no.</message>
 	<message label="1204_b" attrib="01 00">Delete it.</message>
-	<message label="1300" attrib="02 00">Your save data will be deleted.
+	<message label="1221" attrib="08 00">Are you sure you want to overwrite
+<colour id="1" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="1221_a" attrib="01 00">Actually, no.</message>
+	<message label="1221_b" attrib="01 00">Overwrite it.</message>
+	<message label="1222" attrib="08 00">Are you sure you want to overwrite
+<colour id="1" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" />,
+designed by <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="1222_a" attrib="01 00">Actually, no.</message>
+	<message label="1222_b" attrib="01 00">Overwrite it.</message>
+	<message label="1224" attrib="08 00">Are you sure you want to overwrite
+<colour id="1" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" />,
+saved by <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="1224_a" attrib="01 00">Actually, no.</message>
+	<message label="1224_b" attrib="01 00">Overwrite it.</message>
+	<message label="1300" attrib="02 00">Deleting save data.
 <colour id="0" />Do not touch the  POWER Button.<colour id="65535" /></message>
 	<message label="1308" attrib="1c 00">The system is set to a date outside
 the supported range.<pageBreak />Please close the game from the
@@ -200,7 +300,7 @@ Do you still want to start playing?</message>
 via the System Settings in the
 HOME Menu and restart the game.</message>
 	<message label="1328" attrib="14 00">キャラクターの<ruby a="4" b="6">なまえ</ruby>名前や
-ゲーム<ruby a="2" b="4">ない</ruby>内の<ruby a="4" b="8">ひょうじ</ruby>表示が<ruby a="2" b="2">か</ruby>変わってしまいますが、
+ゲーム<ruby a="2" b="4">ない</ruby>内の<ruby a="4" b="8">ひょうじ</ruby>表示が<ruby a="2" b="2">か</ruby>変わってしまいますが
 このまま<ruby a="2" b="4">はじ</ruby>始めますか？
 
 Character names and UI elements
@@ -299,7 +399,7 @@ Do you still want to start playing?</message>
 	<message label="1338_a" attrib="0e 00">Нет / No</message>
 	<message label="1338_b" attrib="0e 00">Да / Yes</message>
 	<message label="1339" attrib="14 00">캐릭터의 이름과
-게임 내 표시가 달라집니다
+게임 내 표시가 달라집니다.
 이대로 시작하시겠습니까?
 
 Character names and UI elements
@@ -315,7 +415,7 @@ vary from language to language.
 Do you still want to start playing?</message>
 	<message label="1340_a" attrib="0e 00">否 / No</message>
 	<message label="1340_b" attrib="0e 00">是 / Yes</message>
-	<message label="1341" attrib="14 00">角色名稱或遊戲內的顯示將會改變，
+	<message label="1341" attrib="14 00">角色名稱和遊戲內的顯示將會改變
 要直接開始遊戲嗎？
 
 Character names and UI elements
@@ -325,7 +425,7 @@ Do you still want to start playing?</message>
 	<message label="1341_b" attrib="0e 00">是 / Yes</message>
 	<message label="1342" attrib="10 00"><ruby a="8" b="6">ホーム</ruby>HOMEメニューの　<ruby a="4" b="8">せってい</ruby>設定で
 <ruby a="2" b="4">もと</ruby>元の<ruby a="4" b="6">げんご</ruby>言語に　<ruby a="2" b="4">もど</ruby>戻してから
-ゲームを<ruby a="6" b="10">さいきどう</ruby>再起動してください。
+ゲームを<ruby a="4" b="8">さいかい</ruby>再開してください
 
 Please revert your language settings
 via the System Settings in the
@@ -413,14 +513,15 @@ HOME Menu and restart the game.</message>
 Please revert your language settings
 via the System Settings in the
 HOME Menu and restart the game.</message>
-	<message label="1355" attrib="10 00">請於HOME選單恢復語言設定後，
-再重新啟動遊戲。
+	<message label="1355" attrib="10 00">請於HOME選單的設定中
+回復原本的語言後
+再重新開啟遊戲
 
 Please revert your language settings
 via the System Settings in the
 HOME Menu and restart the game.</message>
 	<message label="1356" attrib="12 03"><ruby a="4" b="8">ぜんかい</ruby>前回プレイ<ruby a="2" b="2">じ</ruby>時と
-<ruby a="8" b="14">げんごせってい</ruby>言語設定が<ruby a="2" b="4">こと</ruby>異なるようです。
+<ruby a="8" b="14">げんごせってい</ruby>言語設定が<ruby a="2" b="4">こと</ruby>異なるようです
 
 It looks like your language settings
 have changed since the last time
@@ -505,7 +606,7 @@ have changed since the last time
 you played.</message>
 	<message label="1366_a" attrib="0e 03">Далее / Next</message>
 	<message label="1367" attrib="12 03">지난번 플레이 때와
-언어 설정이 다릅니다
+언어 설정이 다릅니다.
 
 It looks like your language settings
 have changed since the last time
@@ -517,12 +618,105 @@ It looks like your language settings
 have changed since the last time
 you played.</message>
 	<message label="1368_a" attrib="0e 03">下一页 / Next</message>
-	<message label="1370" attrib="12 03">語言設定似乎與上次遊玩時不同。
+	<message label="1370" attrib="12 03">語言設定似乎與上次遊玩時不同
 
 It looks like your language settings
 have changed since the last time
 you played.</message>
 	<message label="1370_a" attrib="0e 03">下一頁 / Next</message>
+	<message label="1372" attrib="06 00">The save data will now be updated
+due to the new release version.</message>
+	<message label="1372_a" attrib="01 00">OK</message>
+	<message label="1373" attrib="02 00">Updating save data<tag a="110" b="0" />
+<colour id="0" />Do not touch .<colour id="65535" /></message>
+	<message label="1374" attrib="06 00">The save data has been updated
+and the game will now start.</message>
+	<message label="1374_a" attrib="01 00">OK</message>
+	<message label="1401" attrib="01 00">Sent a Best Friend request to
+<colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />.</message>
+	<message label="1402" attrib="01 00">You're now Best Friends with
+<colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />.</message>
+	<message label="1403" attrib="01 00">You've withdrawn your request to
+<colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />.</message>
+	<message label="1404" attrib="01 00">You've rejected the request from
+<colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />.</message>
+	<message label="1405" attrib="01 00">The Best Friend designation between
+you and <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" /> has been
+removed.</message>
+	<message label="1405_a" attrib="01 00">OK</message>
+	<message label="1406" attrib="06 09">You cannot send a request because
+you've reached the Best Friends limit.</message>
+	<message label="1406_a" attrib="01 06">OK</message>
+	<message label="1407" attrib="06 09">You cannot send a request because
+you've reached your request limit.</message>
+	<message label="1407_a" attrib="01 04">Back</message>
+	<message label="1408" attrib="06 09">You can't send a request because
+the person you want to send it to has
+reached their request limit.</message>
+	<message label="1408_a" attrib="01 04">Back</message>
+	<message label="1409" attrib="06 09">You can't become Best Friends
+because you've reached the Best
+Friends limit.</message>
+	<message label="1409_a" attrib="01 04">Back</message>
+	<message label="1410" attrib="06 09">You can't become Best Friends
+because you've reached your
+limit for requests.</message>
+	<message label="1410_a" attrib="01 04">Back</message>
+	<message label="1411" attrib="06 09">This request has already been
+withdrawn.</message>
+	<message label="1411_a" attrib="01 04">Back</message>
+	<message label="1412" attrib="06 00">You can't remove someone from
+your Best Friends List while you are
+playing with them.</message>
+	<message label="1412_a" attrib="01 04">Back</message>
+	<message label="1413" attrib="06 00">The other person has performed an
+action, so the list will now update.</message>
+	<message label="1413_a" attrib="01 00">OK</message>
+	<message label="1414" attrib="08 00">Are you sure you want to stop being
+Best Friends?</message>
+	<message label="1414_a" attrib="01 00">Back</message>
+	<message label="1414_b" attrib="01 00">Stop</message>
+	<message label="1430" attrib="06 09">You can't use this when a local
+wireless connection is active.</message>
+	<message label="1430_a" attrib="01 04">Back</message>
+	<message label="1431" attrib="06 09">You can't use this when playing with
+other residents via Party Play.</message>
+	<message label="1431_a" attrib="01 04">Back</message>
+	<message label="1432" attrib="05 09">At least one Best Friend is required
+before you can toggle this option.</message>
+	<message label="1432_a" attrib="01 04">Back</message>
+	<message label="1433" attrib="08 00">The list must be updated before
+your request can be processed.
+Would you like to update the list now?</message>
+	<message label="1433_a" attrib="01 00">Back</message>
+	<message label="1433_b" attrib="01 00">Update</message>
+	<message label="1450" attrib="08 00">An internet connection is required to
+use this feature. Do you want to
+connect to the internet?</message>
+	<message label="1450_a" attrib="01 00">Never mind.</message>
+	<message label="1450_b" attrib="01 00">Connect.</message>
+	<message label="1451" attrib="08 00">Enable this communication feature?</message>
+	<message label="1451_a" attrib="01 00">Never mind.</message>
+	<message label="1451_b" attrib="01 00">Enable it.</message>
+	<message label="1452" attrib="08 00">Disable this communication feature?</message>
+	<message label="1452_a" attrib="01 00">Never mind.</message>
+	<message label="1452_b" attrib="01 00">Disable it.</message>
+	<message label="1453" attrib="05 06">Please press <colour id="1" /><colour id="65535" /> to enable the
+communication feature and the
+ability to send messages.</message>
+	<message label="1453_a" attrib="01 06">OK</message>
+	<message label="1454" attrib="06 09"><colour id="2" /><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" /> is offline, so you
+can't send messages to them
+right now.</message>
+	<message label="1454_a" attrib="01 06">Back</message>
+	<message label="1455" attrib="01 00">You can't send messages when no
+other players are online.</message>
+	<message label="1455_a" attrib="01 00">Back</message>
+	<message label="1456" attrib="01 00">Communication has been turned off
+since the network connection was
+disrupted. Please turn it on and try
+again.</message>
+	<message label="1456_a" attrib="01 00">Back</message>
 	<message label="1501" attrib="08 00">Are you sure you want to discard
 your changes?</message>
 	<message label="1501_a" attrib="01 00">Keep editing!</message>
@@ -542,7 +736,7 @@ to the system via wired communication.<colour id="65535" /></message>
 in Photopia.</message>
 	<message label="1606" attrib="01 09"><colour id="3" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> <colour id="65535" />can't be invited
 to Photopia.</message>
-	<message label="1607" attrib="01 00">Up to 10 characters can be invited
+	<message label="1607" attrib="01 09">Up to 10 characters can be invited
 at once.</message>
 	<message label="1608" attrib="01 09">There's no free space available to
 invite this character.</message>
@@ -561,9 +755,42 @@ can turn off Airplane Mode.</message>
 	<message label="1701" attrib="06 09">This isn't any different from your
 current home!</message>
 	<message label="1701_a" attrib="01 04">Back</message>
-	<message label="1801" attrib="06 09"><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> doesn't have a
+	<message label="1801" attrib="06 09"><colour id="2" /><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" /> doesn't have a
 home yet and can't receive mail.</message>
 	<message label="1801_a" attrib="01 04">Back</message>
+	<message label="1900" attrib="15 00">Report <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="1900_a" attrib="0e 02">Cancel.</message>
+	<message label="1900_b" attrib="0e 01">Send report.</message>
+	<message label="1920" attrib="12 01">Report process complete.</message>
+	<message label="1920_a" attrib="0e 01">OK.</message>
+	<message label="1921" attrib="07 09">The report could not be sent.</message>
+	<message label="1921_a" attrib="01 00">Never mind.</message>
+	<message label="1921_b" attrib="01 00">Try again!</message>
+	<message label="1930" attrib="06 09">You can't send reports when using
+local wireless communication.</message>
+	<message label="1930_a" attrib="01 04">Back</message>
+	<message label="1931" attrib="06 09">You have not connected to the
+internet yet, so you can't send a
+report.</message>
+	<message label="1931_a" attrib="01 04">Back</message>
+	<message label="1932" attrib="06 09">You cannot report this post.</message>
+	<message label="1932_a" attrib="01 00">Back</message>
+	<message label="1933" attrib="06 09">You cannot report this card.</message>
+	<message label="1933_a" attrib="01 00">Back</message>
+	<message label="1936" attrib="06 09">You can't report this displayed
+design.</message>
+	<message label="1936_a" attrib="01 00">Back</message>
+	<message label="1938" attrib="06 09">You can't submit a report on your
+own account.</message>
+	<message label="1938_a" attrib="01 00">Close</message>
+	<message label="1940" attrib="01 09">This post was not made by an online
+player. A report can be sent instead
+for <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />, who has not
+deleted the post.</message>
+	<message label="1941" attrib="0e 09">This custom-design display was not
+made by an online player. A report
+can be sent for <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />,
+who has not deleted the design.</message>
 	<message label="2001" attrib="06 09">You don't have enough Bells.</message>
 	<message label="2001_a" attrib="01 06">Close</message>
 	<message label="2002" attrib="06 09">You don't have room in your pockets
@@ -579,6 +806,39 @@ purchase in your pockets or storage.</message>
 picked out?</message>
 	<message label="2005_a" attrib="01 00">No, thanks.</message>
 	<message label="2005_b" attrib="01 05">Yeah!</message>
+	<message label="2101" attrib="08 00">Do you want to connect to the
+internet and download a custom
+design made for Nintendo 3DS
+games?</message>
+	<message label="2101_a" attrib="01 00">Back</message>
+	<message label="2101_b" attrib="01 00">Download</message>
+	<message label="2102" attrib="08 00">A custom design named
+<colour id="1" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" /> was
+found. Please select a save slot.</message>
+	<message label="2102_a" attrib="01 00">Back</message>
+	<message label="2102_b" attrib="01 00">OK!</message>
+	<message label="2103" attrib="08 00">A Pro custom design named
+<colour id="1" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" /> was
+found. Please select a save slot.</message>
+	<message label="2103_a" attrib="01 00">Back</message>
+	<message label="2103_b" attrib="01 00">OK!</message>
+	<message label="2110" attrib="0e 09">We couldn't find any downloadable
+custom designs made for
+Nintendo 3DS games.
+
+Please access <colour id="1" />NookLink<colour id="65535" /> from the
+Nintendo Switch Online app to scan
+a QR Code.</message>
+	<message label="2120" attrib="01 00">You've unlocked the Pro design tab.</message>
+	<message label="2140" attrib="01 09"><colour id="1" />Pro Designs<colour id="65535" />
+Pro designs offer players greater
+control over the finer details of their
+designs.<pageBreak />You'll need to upgrade your Custom
+Designs app to edit or create Pro
+designs. <colour id="0" />Even if you don't upgrade,
+you can still wear Pro designs.<colour id="65535" /><pageBreak />You can upgrade the Custom Designs
+app by redeeming Nook Miles at the
+<colour id="1" />Nook Stop<colour id="65535" /> in <colour id="1" />Resident Services<colour id="65535" />.</message>
 	<message label="2201" attrib="01 09">You don't currently have any savings.</message>
 	<message label="2202" attrib="01 09">You can't add more to your savings.</message>
 	<message label="2203" attrib="01 09">You have no room for a withdrawal!</message>
@@ -587,6 +847,97 @@ any Bells that don't fit in your bank
 account will be lost. Is that OK?</message>
 	<message label="2301_a" attrib="01 00">Nope.</message>
 	<message label="2301_b" attrib="01 00">Sell anyway!</message>
+	<message label="2401" attrib="12 09">Content you've set in your profile
+is in violation of the Nintendo
+Code of Conduct. Please review your
+passport photo and/or profile
+comment and adjust them so they
+won't cause discomfort to other
+players who may view them.</message>
+	<message label="2401_a" attrib="01 00">I Understand</message>
+	<message label="2421" attrib="12 09"><colour id="0" />Please Read Before Posting Designs<colour id="65535" />
+The custom designs you post can
+be viewed by other players around
+the world.<pageBreak />Please do not post designs that
+contain illegal content or would make
+other players uncomfortable.<pageBreak />Posted designs can be deleted from
+the server if they are deemed to be
+inappropriate and in violation of the
+Nintendo Code of Conduct.</message>
+	<message label="2421_a" attrib="01 00">I Understand</message>
+	<message label="2422" attrib="08 00">Your creation is posted! The design
+ID is <colour id="1" /><tag a="140" b="15" arg="0xcd00" /><colour id="65535" />.
+Would you like to share this info
+on social media?</message>
+	<message label="2422_a" attrib="01 00">No</message>
+	<message label="2422_b" attrib="01 00">Share It</message>
+	<message label="2423" attrib="08 00">Your creation could not be posted.
+Would you like to try again?</message>
+	<message label="2423_a" attrib="01 00">No.</message>
+	<message label="2423_b" attrib="01 00">Try again.</message>
+	<message label="2424" attrib="08 00">Are you done using the kiosk?</message>
+	<message label="2424_a" attrib="01 00">Keep using it.</message>
+	<message label="2424_b" attrib="01 00">All done!</message>
+	<message label="2425" attrib="12 09">Thank you for your interest in
+posting designs!<pageBreak />You are now registered as a creator.
+Your ID is <colour id="1" /><tag a="140" b="17" arg="0xcd00" /><colour id="65535" />.
+You can check your creator ID at
+any time from the Passport app on
+your NookPhone.</message>
+	<message label="2425_a" attrib="01 00">Got it!</message>
+	<message label="2427" attrib="08 00">Would you like to post another
+creation?</message>
+	<message label="2427_a" attrib="01 00">Back to Menu</message>
+	<message label="2427_b" attrib="01 00">Post Design</message>
+	<message label="2428" attrib="01 09">You've reached the limit for the
+number of custom designs you can
+post. Please select one to delete.</message>
+	<message label="2428_a" attrib="01 00">Got it!</message>
+	<message label="2429" attrib="01 09">You don't seem to have any custom
+designs of your own. Please try again
+after you've made a custom design.</message>
+	<message label="2429_a" attrib="01 00">Got it!</message>
+	<message label="2430" attrib="06 00">It seems this design has already
+been posted.
+<colour id="0" />You can repost it if you edit it.<colour id="65535" /></message>
+	<message label="2430_a" attrib="01 00">Back</message>
+	<message label="2431" attrib="02 00">Searching custom designs...</message>
+	<message label="2432" attrib="08 00">You entered your own creator ID.
+Do you want to view your own
+designs, <colour id="2" /><tag a="110" b="1" /><colour id="65535" />?</message>
+	<message label="2432_a" attrib="01 00">Back</message>
+	<message label="2432_b" attrib="01 00">View Mine</message>
+	<message label="2433" attrib="08 00">There is no design listed with the ID
+of <colour id="1" /><tag a="140" b="15" arg="0xcd00" /><colour id="65535" />.
+Would you like to enter the ID again?</message>
+	<message label="2433_a" attrib="01 00">Back to Menu</message>
+	<message label="2433_b" attrib="01 00">Redo</message>
+	<message label="2434" attrib="08 00">There are no designs for creator
+ID <colour id="1" /><tag a="140" b="17" arg="0xcd00" /><colour id="65535" />.
+Would you like to enter the ID again?</message>
+	<message label="2434_a" attrib="01 00">Back to Menu</message>
+	<message label="2434_b" attrib="01 00">Redo</message>
+	<message label="2435" attrib="01 09">The custom design has been deleted.</message>
+	<message label="2436" attrib="01 00">Please select a design to post.</message>
+	<message label="2437" attrib="08 00"><colour id="1" /><tag a="50" b="3" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" />...
+Are you sure you want to
+delete this custom design?</message>
+	<message label="2437_a" attrib="01 00">Cancel</message>
+	<message label="2437_b" attrib="01 00">Delete</message>
+	<message label="2438" attrib="05 09">You don't have any posted designs.</message>
+	<message label="2438_a" attrib="01 00">Back</message>
+	<message label="2439" attrib="01 00">The Custom Designs app will now
+open. Please select a save slot.</message>
+	<message label="2440" attrib="08 00">You have entered the design ID of
+one of your own designs. Do you
+want to view your designs?</message>
+	<message label="2440_a" attrib="01 00">Back</message>
+	<message label="2440_b" attrib="01 00">View Mine</message>
+	<message label="2441" attrib="01 00">An error has prevented the design
+from being shared on social media.</message>
+	<message label="2501" attrib="01 09">Each player can send up to 2
+messages per day online through
+Nook Shopping.</message>
 	<message label="3001" attrib="01 00">A voucher you can <colour id="1" />sell <colour id="65535" />in the shop
 for <colour id="1" />3,000 Bells<colour id="65535" />.
 <colour id="0" />This voucher is issued immediately.<colour id="65535" /></message>
@@ -696,8 +1047,8 @@ good use of it while you DIY!</message>
 	<message label="5041" attrib="01 00"><colour id="1" />Call Resident<colour id="65535" />
 Use this app to invite up to three
 other residents (players) living on the
-island to play together in <colour id="1" />Party Play<colour id="65535" />!<pageBreak />You will need controllers for each
-player before you begin.</message>
+island to play together in <colour id="1" />Party Play<colour id="65535" />!<pageBreak />Before you begin, you'll need enough
+controllers for the number of players.</message>
 	<message label="5051" attrib="01 00"><colour id="1" />Custom Designs<colour id="65535" />
 With this app, you can create custom
 designs to wear on clothing or
@@ -719,8 +1070,8 @@ edition of <colour id="1" />Custom Designs<colour id="65535" />.<pageBreak />The
 custom designs with the Pro
 editing features!</message>
 	<message label="5053" attrib="01 00"><colour id="0" />Custom Designs Marked With <colour id="65535" />
-Custom designs you did not make are
-marked with <colour id="0" /><colour id="65535" />.<pageBreak />You cannot edit custom designs with
+Custom designs you did not make
+are marked with <colour id="0" /><colour id="65535" />.<pageBreak />You cannot edit custom designs with
 <colour id="0" /><colour id="65535" />. If you want to use that design slot,
 you'll have to delete that design first.</message>
 	<message label="5061" attrib="01 00"><colour id="1" />Map<colour id="65535" />
@@ -743,6 +1094,25 @@ path is blocked and you're stuck!<pageBreak />You'll be sent to a place such as
 your home or Resident Services.
 <colour id="0" />Nook Miles are generally required
 to use this service.<colour id="65535" /></message>
+	<message label="5101" attrib="01 00"><colour id="1" />Best Friends List<colour id="65535" />
+You can use this app to check which
+friends and Best Friends you've
+played with.<pageBreak />When you are Best Friends with
+another player, you can tell when
+they are playing online.<pageBreak />If both of you are online, you can use
+the internet to send direct messages
+to each other.<pageBreak /><colour id="0" />If you do not want others to know if
+you are online, or if you do not want
+to exchange messages, press  to
+enable or disable this feature.<colour id="65535" /></message>
+	<message label="5102" attrib="01 00">You can now download custom
+designs uploaded via NookLink by
+reading QR Codes made in
+Nintendo 3DS games.
+<colour id="0" />Please access NookLink under
+Game-Specific Services in the
+Nintendo Switch Online app for info
+on reading custom design QR Codes.<colour id="65535" /></message>
 	<message label="5111" attrib="01 00"><colour id="1" />Island Designer<colour id="65535" />
 This app helps you develop and
 shape the island through
@@ -767,6 +1137,16 @@ anytime, anywhere, thanks to this
 handy-dandy app!
 Shop at your own pace in a way that
 matches your own style!</message>
+	<message label="5122" attrib="01 00"><colour id="1" />Chat Log<colour id="65535" />
+You can use this app to review the
+conversations you've had with other
+players anywhere, anytime!
+Maybe you didn't get a chance to
+read something someone said while
+you were playing together.<pageBreak />Or maybe you want to reread a
+message sent from a Best Friend
+who lives far away. Sounds like a
+pretty convenient app, right?</message>
 	<message label="5201_00_01" attrib="0e 00"><colour id="0" />Party Play<colour id="65535" />
 Island residents can play together in
 Party Play, where one player is the
@@ -784,22 +1164,21 @@ Followers can't chat, use the
 NookPhone, or access their pockets.
 They can use tools, move furniture,
 and assist the Leader. Items they get
-using tools will be sent to the
-<colour id="1" />Resident Services recycle box<colour id="65535" />.</message>
+will be sent to the <colour id="1" />recycle box<colour id="65535" /> in
+<colour id="1" />Resident Services<colour id="65535" />.</message>
 	<message label="5201_00_02" attrib="0e 00"><colour id="0" />Horizontal Joy-Con Controls<colour id="65535" />
 <colour id="1" />Leader<colour id="65535" />
 <colour id="1" /><colour id="65535" /> Open NookPhone
 <colour id="1" /><colour id="65535" /> Control camera / Swap tools
-
 <colour id="1" />Followers
 <colour id="65535" /> Equip / Swap tools</message>
 	<message label="5201_00_03" attrib="0e 00"><colour id="1" />Leader Horizontal Joy-Con Controls<colour id="65535" />
-<colour id="1" /><colour id="65535" /> Open NookPhone / <colour id="1" /> <colour id="65535" />Reactions
-<colour id="1" /><colour id="65535" /> Control camera / Swap tools
+<colour id="1" /> <colour id="65535" />Open NookPhone / <colour id="1" /> <colour id="65535" />Reactions
+<colour id="1" /> <colour id="65535" />Control camera / Swap tools
 
 <colour id="1" />Follower Horizontal Joy-Con Controls
-<colour id="65535" /> Equip / Swap tools
-<colour id="1" /> <colour id="65535" />Reactions / <colour id="1" /><colour id="65535" /> Repeat Reaction</message>
+ <colour id="65535" />Equip or Swap tools / <colour id="1" /> <colour id="65535" />Reactions
+<colour id="1" /> <colour id="65535" />Pick up / <colour id="1" /><colour id="65535" /> Repeat Reaction (if known)</message>
 	<message label="5201_00_04" attrib="0e 00"><colour id="0" />Controls
 <colour id="65535" /><colour id="1" />Leader<colour id="65535" />
 Same controls as in normal play.
@@ -810,9 +1189,9 @@ Same controls as in normal play.
 Same controls as normal play.
 
 <colour id="1" />Follower Controls
- <colour id="65535" />Equip / Swap tools
-<colour id="1" /> <colour id="65535" />Reactions
-<colour id="1" /> <colour id="65535" />Repeat Reaction</message>
+ <colour id="65535" />Equip or Swap tools
+<colour id="1" /> <colour id="65535" />Pick up / <colour id="1" /> <colour id="65535" />Reactions
+<colour id="1" /> <colour id="65535" />Repeat Reaction (if known)</message>
 	<message label="5201_01" attrib="0e 00"><colour id="0" />Party Play<colour id="65535" />
 Island residents can play together in
 Party Play, where one player is the
@@ -830,13 +1209,12 @@ Followers can't chat, use the
 NookPhone, or access their pockets.
 They can use tools, move furniture,
 and assist the Leader. Items they get
-using tools will be sent to the
-<colour id="1" />Resident Services recycle box<colour id="65535" />.
+will be sent to the <colour id="1" />recycle box<colour id="65535" /> in
+<colour id="1" />Resident Services<colour id="65535" />.
 <colour id="0" />Horizontal Joy-Con Controls<colour id="65535" />
 <colour id="1" />Leader<colour id="65535" />
 <colour id="1" /><colour id="65535" /> Open NookPhone
 <colour id="1" /><colour id="65535" /> Control camera / Swap tools
-
 <colour id="1" />Followers
 <colour id="65535" /> Equip / Swap tools</message>
 	<message label="5201_02" attrib="0e 00"><colour id="0" />Party Play<colour id="65535" />
@@ -856,15 +1234,15 @@ Followers can't chat, use the
 NookPhone, or access their pockets.
 They can use tools, move furniture,
 and assist the Leader. Items they get
-using tools will be sent to the
-<colour id="1" />Resident Services recycle box<colour id="65535" />.
+will be sent to the <colour id="1" />recycle box<colour id="65535" /> in
+<colour id="1" />Resident Services<colour id="65535" />.
 <colour id="1" />Leader Horizontal Joy-Con Controls<colour id="65535" />
-<colour id="1" /><colour id="65535" /> Open NookPhone / <colour id="1" /> <colour id="65535" />Reactions
-<colour id="1" /><colour id="65535" /> Control camera / Swap tools
+<colour id="1" /> <colour id="65535" />Open NookPhone / <colour id="1" /> <colour id="65535" />Reactions
+<colour id="1" /> <colour id="65535" />Control camera / Swap tools
 
 <colour id="1" />Follower Horizontal Joy-Con Controls
-<colour id="65535" /> Equip / Swap tools
-<colour id="1" /> <colour id="65535" />Reactions / <colour id="1" /><colour id="65535" /> Repeat Reaction</message>
+ <colour id="65535" />Equip or Swap tools / <colour id="1" /> <colour id="65535" />Reactions
+<colour id="1" /> <colour id="65535" />Pick up / <colour id="1" /><colour id="65535" /> Repeat Reaction (if known)</message>
 	<message label="5201_03" attrib="0e 00"><colour id="0" />Party Play<colour id="65535" />
 Island residents can play together in
 Party Play, where one player is the
@@ -882,8 +1260,8 @@ Followers can't chat, use the
 NookPhone, or access their pockets.
 They can use tools, move furniture,
 and assist the Leader. Items they get
-using tools will be sent to the
-<colour id="1" />Resident Services recycle box<colour id="65535" />.
+will be sent to the <colour id="1" />recycle box<colour id="65535" /> in
+<colour id="1" />Resident Services<colour id="65535" />.
 <colour id="0" />Controls
 <colour id="65535" /><colour id="1" />Leader<colour id="65535" />
 Same controls as in normal play.
@@ -907,15 +1285,15 @@ Followers can't chat, use the
 NookPhone, or access their pockets.
 They can use tools, move furniture,
 and assist the Leader. Items they get
-using tools will be sent to the
-<colour id="1" />Resident Services recycle box<colour id="65535" />.
+will be sent to the <colour id="1" />recycle box<colour id="65535" /> in
+<colour id="1" />Resident Services<colour id="65535" />.
 <colour id="1" />Leader Controls<colour id="65535" />
 Same controls as normal play.
 
 <colour id="1" />Follower Controls
- <colour id="65535" />Equip / Swap tools
-<colour id="1" /> <colour id="65535" />Reactions
-<colour id="1" /> <colour id="65535" />Repeat Reaction</message>
+ <colour id="65535" />Equip or Swap tools
+<colour id="1" /> <colour id="65535" />Pick up / <colour id="1" /> <colour id="65535" />Reactions
+<colour id="1" /> <colour id="65535" />Repeat Reaction (if known)</message>
 	<message label="5202" attrib="01 00">Congratulations on the construction
 of your new home! Here are a few
 tips for comfortable living:<pageBreak /><colour id="1" /> Turn lights on or off
@@ -929,6 +1307,39 @@ Access your home's storage to
 stash or retrieve items.<pageBreak />When in your home, you can open
 your pockets to select furniture or
 other items and put them in storage.</message>
+	<message label="5203" attrib="01 00"><colour id="1" />Chat<colour id="65535" /> with other players!<pageBreak />Press <colour id="1" /> <colour id="65535" />to send messages to
+everyone you are playing with.<pageBreak />You can also use the <colour id="1" />Chat Log<colour id="65535" /> app on
+your NookPhone to see past messages.</message>
+	<message label="5301" attrib="0e 09">During <colour id="1" />Party Play<colour id="65535" />, changes made to
+custom designs you're wearing will
+not be shown automatically.
+
+To show off the changes to a
+custom design, select the updated
+design and choose <colour id="1" />Wear<colour id="65535" />.</message>
+	<message label="5302" attrib="0e 09">You have saved over a custom design
+that you are currently wearing.
+
+To show off the changes to a
+custom design, select the updated
+design and choose <colour id="1" />Wear<colour id="65535" />.</message>
+	<message label="5303" attrib="01 09">You have registered a custom design
+to a transformation outfit. The design
+on the outfit will not disappear even if
+that design is changed with the editor.<pageBreak />However, if the custom design is
+changed and you alter the outfit later
+or try to store it, please be aware that
+part of the outfit will be lost.</message>
+	<message label="5304" attrib="07 00">This outfit includes a custom design.
+The custom design will not be stored.
+Do you still want to store this outfit?</message>
+	<message label="5304_a" attrib="01 00">No</message>
+	<message label="5304_b" attrib="01 00">Yes</message>
+	<message label="5305" attrib="01 00"><colour id="0" />Customizable Phone Case Kits<colour id="65535" />
+These kits can be used to change
+the appearance of your NookPhone.<pageBreak />If you use a custom design, your
+NookPhone will keep its appearance
+even if that design is changed later.</message>
 	<message label="8001" attrib="07 00"><colour id="6" />Currently, there is existing resident
 data for <tag a="110" b="8" /> on this
 Nintendo Switch system that is not
@@ -994,8 +1405,22 @@ different resident, please start the
 game using the user account for that
 resident.
 Then you can press  on the title
-screen to access the save data
-settings and delete that resident.</message>
+screen to access the settings
+and delete that resident.</message>
 	<message label="8013" attrib="03 00">To close this screen, please close
 the game from the HOME Menu.</message>
+	<message label="8014" attrib="07 00">The Nintendo Account linked to this
+user is different than it was before.<pageBreak />Any features that use the internet,
+like the Best Friends List, will be
+reinitialized if you play again.<pageBreak />Do you want to start playing again
+as <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="8014_a" attrib="01 00">I'm not sure.</message>
+	<message label="8014_b" attrib="01 00">Yes.</message>
+	<message label="8015" attrib="07 00">This user does not have a Nintendo
+Account linked.<pageBreak />Any features that use the internet,
+like the Best Friends List, will be
+reinitialized if you play again.<pageBreak />Do you want to start playing again
+as <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="8015_a" attrib="01 00">I'm not sure.</message>
+	<message label="8015_b" attrib="01 00">Yes.</message>
 </msbt>

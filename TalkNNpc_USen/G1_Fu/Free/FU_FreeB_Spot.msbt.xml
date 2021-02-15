@@ -98,11 +98,11 @@ to earn such a huge house,<delay20 /> but <anim id="Worried" target="actor" targ
 <colour id="65535" /><delay20 />are living in the <colour id="1" />Resident Services
 <colour id="65535" />tent for now,<delay20 /> with <colour id="3" />Tom Nook<colour id="65535" />?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Thinking" target="actor" targetSpec="" />Since it's where they're living,<delay20 /> that's
 probably why it feels so cozy inside.</message>
-	<message label="021" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><colour id="1" />Nook's Cranny<colour id="65535" /> is still small enough<delay20 />
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><colour id="1" />Nook's Cranny<colour id="65535" /> is small enough<delay20 />
 that it's easy <anim id="Nodding" target="actor" targetSpec="" />to find whatever I'm
 looking for,<delay20 /> <tag a="110" b="5" />.
 <20_3 arg="6" /><20_3 arg="3" /><anim id="Worried" target="actor" targetSpec="" />I'm worried I'll get overwhelmed
-if the store keeps expanding.</message>
+if the store expands too much.</message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" />I'm always at <colour id="1" />Nook's Cranny<colour id="65535" />,<delay20 /> even
 though I don't generally <anim id="OhGeez" target="actor" targetSpec="" />like to go
 shopping all that much.
@@ -115,11 +115,11 @@ local creatures and fossils in his tent.<delay frames="40" />
 <colour id="1" />museum<colour id="65535" /> getting built,<delay20 /> <anim id="Frantic" target="actor" targetSpec="" />I can't wait to
 tour the exhibits,<delay20 /> <tag a="110" b="5" />!</message>
 	<message label="025" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6f 0x70 0x71 0x74" /></message>
-	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Explain" target="actor" targetSpec="" />Our Resident Services works hard
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Explain" target="actor" targetSpec="" />Our <colour id="1" />Resident Services<colour id="65535" /> works hard
 in the background to keep our island
 running smoothly,<delay20 /> <tag a="110" b="5" />.
 <20_3 arg="6" /><20_3 arg="3" /><anim id="FaintSmile" target="actor" targetSpec="" />I think I might go drop off <tag a="50" b="2" />
-<tag a="135" b="7" arg="0xcd00" />,<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />to thank them
+<tag a="135" b="7" arg="0xcd00" /> <anim id="Nodding" target="actor" targetSpec="" />to thank them
 for all they do for us.</message>
 	<message label="030" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" />I love watching airplanes take off
 over water.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="HappyFlower" target="actor" targetSpec="" />It's a marvel that we can ride in an
@@ -144,6 +144,7 @@ I kind of like being fussed over.</message>
 	<message label="111" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7700 0x7400 0xcd00" /></message>
 	<message label="112" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7801 0x7400 0xcd00" /></message>
 	<message label="113" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7902 0x7400 0xcd00" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x7a03 0x7400 0xcd00" /></message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Explain" target="actor" targetSpec="" />I like that each exhibit here
 has its own unique vibe.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Love" target="actor" targetSpec="" />I appreciate all the effort that goes
 into curating and displaying these

@@ -29,12 +29,12 @@ words, <tag a="110" b="6" />!</message>
 you down. There'll be other chances
 for you to win!</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Gahaha! Good answer!<anim id="FaintSmile" target="actor" targetSpec="" /> Let's get right
-down to business.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Silent" target="actor" targetSpec="" />Well, now<tag a="110" b="0" /> Wait a sec.<10_4 /> <anim id="OhGeez" target="actor" targetSpec="" />Your pockets
+down to business.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Silent" target="actor" targetSpec="" />Well now<tag a="110" b="0" /> Wait a sec.<10_4 /> <anim id="OhGeez" target="actor" targetSpec="" />Your pockets
 are full! Were you not planning on
 winning our game?
 <anim id="Silent" target="actor" targetSpec="" />Go make some room if you wanna
-win my <tag a="125" b="0" arg="0x0" />.<delay40 />
-<anim id="Grin" target="actor" targetSpec="" />Then we can play, <tag a="110" b="6" />.</message>
+win yourself somethin'.<delay40 /> <anim id="Grin" target="actor" targetSpec="" />Then we
+can play, <tag a="110" b="6" />.</message>
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />OK. I got four cards, and each has
 a different symbol: <colour id="6" />♥heart<colour id="65535" />,
 <colour id="6" />♦diamond<colour id="65535" />, <colour id="7" />♠spade<colour id="65535" />, or <colour id="7" />♣club<colour id="65535" /><tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'll draw a card. Then you guess
@@ -66,12 +66,13 @@ only have two options: <colour id="7" />black<colour id="65535" /> or <colour id
 do you think it is?<delay20 /> <colour id="6" />Red<colour id="65535" /> or <colour id="7" />black<colour id="65535" />?</message>
 	<message label="201_a" attrib="00 00 00 00 00 00 00 00"><colour id="6" />Red<colour id="65535" /></message>
 	<message label="201_b" attrib="00 00 00 00 00 00 00 00"><colour id="7" />Black<colour id="65535" /></message>
-	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Holy moly, <delay20 /><tag a="140" b="14" arg="0xcd00" /> is right!<delay frames="40" />
-<anim id="Clapping" target="actor" targetSpec="" />You're the winner!</message>
-	<message label="202_02" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Sorry, kiddo. Answer's <tag a="140" b="14" arg="0xcd00" />.<delay frames="40" />
-<anim id="WrySmile" target="actor" targetSpec="" />You didn't guess right.</message>
-	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Holy moly, <delay20 /><tag a="140" b="14" arg="0xcd00" /> is right!<delay frames="40" />
-<anim id="Clapping" target="actor" targetSpec="" />You're the winner!</message>
-	<message label="202_04" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Sorry, kiddo. Answer's <tag a="140" b="14" arg="0xcd00" />.<delay frames="40" />
-<anim id="WrySmile" target="actor" targetSpec="" />You didn't guess right.</message>
+	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Holy moly,<delay20 /> a <tag a="140" b="14" arg="0xcd00" />!<delay frames="40" /><anim id="Clapping" target="actor" targetSpec="" /> <colour id="6" />Red<colour id="65535" /> is right!
+<delay20 />You're the winner!</message>
+	<message label="202_02" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Sorry, kiddo. <delay20 />It's a <tag a="140" b="14" arg="0xcd00" /> so
+the answer's <colour id="7" />black<colour id="65535" />.<delay frames="40" /> <anim id="WrySmile" target="actor" targetSpec="" />You didn't
+guess right.</message>
+	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Holy moly,<delay20 /> a <tag a="140" b="14" arg="0xcd00" />!<delay frames="40" /><anim id="Clapping" target="actor" targetSpec="" /> <colour id="7" />Black <colour id="65535" />is
+right! <delay20 />You're the winner!</message>
+	<message label="202_04" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Sorry, kiddo. <delay20 />It's a <tag a="140" b="14" arg="0xcd00" /> so the
+answer's <colour id="6" />red<colour id="65535" />.<delay frames="40" /> <anim id="WrySmile" target="actor" targetSpec="" />You didn't guess right.</message>
 </msbt>

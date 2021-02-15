@@ -2,6 +2,11 @@
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Buongiorno!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />The name's <tag a="110" b="10" />.<delay frames="40" />
 <anim id="SmugFace" target="actor" targetSpec="" />Glad to see I'm the first one
 using this <colour id="1" />campsite<colour id="65535" />.</message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />And you live on this island,<delay20 /> don't
+you?<10_4 /><anim id="Nodding" target="actor" targetSpec="" /> I figured. <delay20 />Yeah, I'm pretty
+good at reading people.
+<anim id="Blushing" target="actor" targetSpec="" />I can even tell that you're really
+gonna enjoy having me here.</message>
 	<message label="002_01" attrib="00 00 01 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, this <tag a="110" b="32" /> is
 so great<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />What makes it so great?<delay frames="40" /><anim id="Grin" target="actor" targetSpec="" /> Well, I'm
 glad I asked myself.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's the fun and the sun, the weather
@@ -116,4 +121,11 @@ that before?</message>
 to <tag a="110" b="8" />!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Normally I'd produce a hype video
 or a press release, but I'm kinda
 roughing it right now.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Wow!<delay20 /> <tag a="50" b="3" /><tag a="110" b="8" /> is one
+hoppin' island, <tag a="110" b="1" />.<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />Not that I mind.<delay40 /><anim id="Nodding" target="actor" targetSpec="" /> I love any and all
+opportunities I get to hand out my
+business card.<delay40 /><anim id="Blushing" target="actor" targetSpec="" /> It's embossed.
+That said,<delay20 /><anim id="Hesitate" target="actor" targetSpec="" /> I hope we get a little one-
+on-one time after your company goes
+home.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> You know,<delay20 /> just you and me.</message>
 </msbt>

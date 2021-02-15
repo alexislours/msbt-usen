@@ -40,7 +40,7 @@ that card is! <anim id="Smiling" target="actor" targetSpec="" /><delay20 />Legit
 my <tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />That's a one-in-four chance to win.
 Think about how many numbers there are<tag a="110" b="0" /> Picking one out of four is easy!<pageBreak />Alright! I'm going to start the ol'
 hyper shuffle as of<tag a="110" b="0" /><delay40 /><anim id="NpcShuffle" target="actor" targetSpec="" /><delay20 />RIGHT NOW!</message>
-	<message label="101" attrib="00 00 05 00 00 00 00 00"><anim id="NpcHoldout" target="actor" targetSpec="" />Alright, I've got a card, <tag a="110" b="5" />.<delay40 />
+	<message label="101" attrib="00 00 05 00 00 00 00 00">Alright, I've got a card, <tag a="110" b="5" />.<delay40 />
 <anim id="FaintSmile" target="actor" targetSpec="" />If this was a TV show, the music
 would get really dramatic right now.<pageBreak />And the camera would push in really
 close on my face. And I'd look at you
@@ -65,7 +65,7 @@ the suit is!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If yo
 fab <tag a="125" b="0" arg="0x0" />!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Sound good?<delay20 /> Of course it does!
 <anim id="NpcShuffle" target="actor" targetSpec="" />Let me shuffle these cards till
 they're dizzy and<tag a="110" b="0" /></message>
-	<message label="201" attrib="00 00 01 00 00 00 00 00"><anim id="NpcHoldout" target="actor" targetSpec="" />Ohmigosh! I've drawn one!<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />Now.<delay20 />
+	<message label="201" attrib="00 00 01 00 00 00 00 00">Ohmigosh! I've drawn one!<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />Now.<delay20 />
 What color is this card?
 <anim id="Pardon" target="actor" targetSpec="" /><delay20 /><colour id="6" />Red<colour id="65535" /> or <colour id="7" />black<colour id="65535" />?!</message>
 	<message label="201_a" attrib="00 00 00 00 00 00 00 00"><colour id="6" />Red<colour id="65535" /></message>

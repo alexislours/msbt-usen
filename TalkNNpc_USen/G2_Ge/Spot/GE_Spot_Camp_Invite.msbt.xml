@@ -4,6 +4,13 @@
 is for sure to be fun!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" /><delay20 />I'll go ask <colour id="1" />Resident Services <colour id="65535" />if
 there's somewhere for me
 to live, <tag a="110" b="6" />!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmmmm<tag a="110" b="0" />that IS a super-tempting
+offer. <delay20 />You know what<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I said no before, <delay8 /><anim id="Clapping" target="actor" targetSpec="" />but this time I'm
+going to say YES! <delay20 />I will SO totally
+move here. <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />I mean,<delay8 /> my fans need me!
+<anim id="FaintSmile" target="actor" targetSpec="" />Now I just have to go show my fab
+face over at <colour id="1" />Resident Services<colour id="65535" /> and
+make sure they give this plan a like.</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="101_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Huh?!<delay20 /> Ohmigosh! To this island?!<delay40 />
 <anim id="FaintSmile" target="actor" targetSpec="" />That could be pretty cool<tag a="110" b="0" /><pageBreak /><anim id="Restless" target="actor" targetSpec="" />But<tag a="110" b="0" />I'm sorry, I just can't.<delay20 /> I've got
@@ -76,27 +83,33 @@ Especially you,<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />on
 	<message label="206" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="206_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ohmigosh, you win!<delay40 /><anim id="Clapping" target="actor" targetSpec="" /> That means
 I'm moving to <tag a="110" b="8" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" /><delay20 />I'm TOTES excited to define the
-celebrity scene here! Oh! <anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />How are
-you folks set for fashionistas?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You know what? It can wait. I need
-to get home and pack! <anim id="HappyDance" target="actor" targetSpec="" /><delay20 />This is going
-to be so much fun.</message>
+celebrity scene here!<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Oh! <delay8 />Hold up!<delay8 /> I almost forgot!<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />I gotta
+go ask <colour id="1" />Resident Services <colour id="65535" />if I can
+even, like, live here first.</message>
 	<message label="206_02" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />OHMIGOSH!<delay20 /> You win!<delay40 /> I'm moving!
 <anim id="Blushing" target="actor" targetSpec="" />I lost the game, but won an island!
 OK, I didn't "win" an island, but<tag a="110" b="0" /><pageBreak />How married are you to the name
 <tag a="110" b="8" />? How's
-<anim id="QuestionMark" target="actor" targetSpec="" /><tag a="110" b="10" /><colour id="0" />ville<colour id="65535" /> sound?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="110" b="10" /><colour id="0" />town<colour id="65535" />?<delay20 />
-<tag a="110" b="10" /><colour id="0" />port<colour id="65535" />?<delay20 />
-<colour id="0" />Isla de la <colour id="65535" /><tag a="110" b="10" />?<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Know what? We can talk about it
-later! <delay20 /><anim id="HappyDance" target="actor" targetSpec="" />Right now, I have to get home
-and start packing, <tag a="110" b="6" />!</message>
+<anim id="QuestionMark" target="actor" targetSpec="" /><colour id="0" /><tag a="110" b="10" />ville<colour id="65535" /> sound?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="0" /><tag a="110" b="10" />town<colour id="65535" />?<delay20 />
+<colour id="0" /><tag a="110" b="10" />port<colour id="65535" />?<delay20 />
+<colour id="0" />Isla de la <tag a="110" b="10" /><colour id="65535" />?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Oh! <delay20 />Hmm<tag a="110" b="0" /><delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />Give that a good think
+while I go ask <colour id="1" />Resident Services <colour id="65535" />if
+I have permission to live here.
+<anim id="Laughing" target="actor" targetSpec="" />I was sooo excited about my big
+move I nearly forgot a few important
+deets! <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Be right back!</message>
 	<message label="206_03" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />I lost?<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> Yes! I lost!<delay20 /> My plan worked!
 I'm moving to <tag a="110" b="8" />!<pageBreak />My plan? <anim id="Explain" target="actor" targetSpec="" />Well<tag a="110" b="0" />I had to get you to
 ask me to move so we could play a
-game that I'd trick you into winning<tag a="110" b="0" /><pageBreak />Then I'd have a funny story about
-how I moved here. Celebrities need
+game that I'd trick you into winning<tag a="110" b="0" /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Then I'd have a funny story about
+how I moved here. <delay20 />Celebrities need
 funny stories to tell on talk shows<tag a="110" b="0" /><pageBreak /><anim id="Love" target="actor" targetSpec="" />Now THIS is my funny talk-show
-story! THANK YOU! <10_4 /><anim id="HappyDance" target="actor" targetSpec="" />Well, I'm headed
-home to pack.<delay20 /> See you soon!</message>
+story! THANK YOU!<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Oh! <delay8 />Oh right!<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />I totes gotta ask
+<colour id="1" />Resident Services<colour id="65535" /> if I can even
+live here!
+<anim id="Smiling" target="actor" targetSpec="" />Hold tight while my story takes
+a little unexpected turn,
+<tag a="110" b="6" />.</message>
 	<message label="302" attrib="00 00 01 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />It's the worst news. <delay frames="40" />The LEGIT worst!<10_4 />
 <anim id="Crying" target="actor" targetSpec="" />Totes legit THE WORST NEWS!<10_4 />
 <anim id="Sighing" target="actor" targetSpec="" />I talked to <colour id="1" />Resident Services<colour id="65535" /><tag a="110" b="0" /><pageBreak />And they said even if I move here,<delay20 />
@@ -134,8 +147,11 @@ other time, <tag a="110" b="6" />.</message>
 told me to<tag a="110" b="0" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" />and <gender3 m="he" f="she" /> agreed!<pageBreak /><anim id="Explain" target="actor" targetSpec="" /><gender3 m="He" f="She" /> said this island totes needs a
 famous musician, <anim id="Pardon" target="actor" targetSpec="" /><delay20 />but <gender3 m="he's" f="she's" /> too
 busy to do it <gender3 m="himself" f="herself" /><tag a="110" b="0" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" /><gender3 m="He" f="She" />'s moving away, and I'll be
-moving here super SUPER soon!
-This'll be great, <tag a="110" b="6" />!</message>
+moving here super SUPER soon!<pageBreak />Anyhoo, I guess this means it's time
+for my favorite part<tag a="110" b="0" /><anim id="Clapping" target="actor" targetSpec="" />introductions!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm <tag a="110" b="10" />!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />And you're
+<tag a="110" b="3" />, right?<pageBreak />Well, I have a sense for these things,
+and my senses are saying<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> this is
+going to be sensational!</message>
 	<message label="310" attrib="00 00 01 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />You don't have anyone in mind
 after all, <tag a="110" b="6" />?</message>
 	<message label="310_a" attrib="00 00 00 00 00 00 00 00">There is!</message>
@@ -143,28 +159,23 @@ after all, <tag a="110" b="6" />?</message>
 	<message label="311" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />OK!<delay20 /><anim id="Hello" target="actor" targetSpec="" /> Tell me who I should go ask!</message>
 	<message label="312" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Aww.<delay20 /> I was all excited about this<tag a="110" b="0" /><delay40 />
 <anim id="WrySmile" target="actor" targetSpec="" />Well, maybe some other time!</message>
-	<message label="402" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />This is weird. <delay20 />And not good weird.<delay20 />
-This is WEIRD weird. <delay frames="40" />I talked
-to <colour id="1" />Resident Services<colour id="65535" /><tag a="110" b="0" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />Apparently someone who looks
-just like me already lives here?<delay20 />
-<anim id="SadSpiral" target="actor" targetSpec="" />So they say I can't move here<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />What kind of freaky rule is that?!
-Somebody takes my style and now I
-can't live where I want?<delay20 /> <anim id="Fuming" target="actor" targetSpec="" />BOOOOO!<pageBreak />Well, <tag a="110" b="3" />, it was fun.
-<anim id="FaintSmile" target="actor" targetSpec="" />Maybe we can make it happen some
-other time, <tag a="110" b="6" />!</message>
-	<message label="403" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I asked <colour id="1" />Resident Services<colour id="65535" />, and listen
-to this juicy gossip they just
-dropped on me<tag a="110" b="0" /><pageBreak /><anim id="Pardon" target="actor" targetSpec="" />I can't move here because someone
-who LOOKS like me is GOING to
-move here. <delay20 /><anim id="Outraged" target="actor" targetSpec="" /><delay20 />WHAT?! How does that—<pageBreak /><anim id="Angry" target="actor" targetSpec="" />For ONE thing?! <delay20 />I'm here NOW. They
-aren't. <delay20 /><anim id="Fuming" target="actor" targetSpec="" />For ANOTHER thing, that's a
-totes lame way to pick residents!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />What happens if two of you wear the
-same shirt one day? Do they shove
-one of you on a plane, and le bye?!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'm taking acting classes back home,
-and we haven't got to the lesson on
-seething yet, but<tag a="110" b="0" /><anim id="Angry" target="actor" targetSpec="" /><delay20 />SEEEEEEEEETHE.<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />Eh, it's not your fault you're the only
-fab one here. <delay20 />Maybe we'll find a
-place to be neighbors someday.</message>
+	<message label="313" attrib="00 00 01 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Yay! <delay20 />Of course you do!<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Is it<tag a="110" b="0" /><tag a="115" b="1" arg="0xcd00" />?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />I bet it's <tag a="115" b="1" arg="0xcd00" />.
+<anim id="ShyBoy" target="actor" targetSpec="" />I mean, <colour id="1" />Resident Services<colour id="65535" /> might
+have mentioned <gender3 m="his" f="her" /> name to me
+while I was over there.
+<anim id="Hesitate" target="actor" targetSpec="" />So,<delay8 /> like, <delay8 />would it be OK if I talked
+to <tag a="115" b="1" arg="0xcd00" /> about
+moving out?</message>
+	<message label="313_a" attrib="00 00 00 00 00 00 00 00">Totally!</message>
+	<message label="313_b" attrib="00 00 00 00 00 00 00 00">Please don't.</message>
+	<message label="314" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh,<delay8 /> uh<tag a="110" b="0" />OK. That's a big NOPE
+from you, I guess.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I'm a little blue, but whatevs.<delay40 /> <anim id="Explain" target="actor" targetSpec="" />It's like
+they say<tag a="110" b="0" /> When one stage door
+closes, another stage door opens.
+Somewhere, somehow,<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" /> I'm going to
+make my big entrance, <tag a="110" b="6" />!</message>
 	<message label="404" attrib="00 00 00 00 00 00 00 00">Well, I chatted with the folks
 at<anim id="SadSpiral" target="actor" targetSpec="" /> <colour id="1" />Resident Services<colour id="65535" />, and I've
 got bad news<tag a="110" b="0" /><pageBreak /><tag a="50" b="3" /><tag a="110" b="8" /> is full. There's no
@@ -172,20 +183,15 @@ room for me, even though I explained
 that I'm pretty small. And adorable.<pageBreak /><anim id="Oops" target="actor" targetSpec="" />Ugh<tag a="110" b="0" /><delay20 /> This is the worst!<delay frames="60" /> <anim id="SadSpiral" target="actor" targetSpec="" />Maybe we'll
 find another way to be neighbors
 someday, <tag a="110" b="6" />.</message>
-	<message label="405" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Ugh, <colour id="1" />Resident Services <colour id="65535" />says there's
-no more room to build new houses
-on the island.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I pitched the idea of me building a
-tree house, or digging tunnels,
-or buying a boat to live on.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I'd name it Totes a Boat: My House
-that Floats<tag a="110" b="0" /><delay20 /><anim id="BrokenHeart" target="actor" targetSpec="" />but they said folks
-can't live on boats around here.<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />Ah well. Maybe someday they'll
-relax maritime laws near your
-island, <tag a="110" b="6" />.</message>
 	<message label="406" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Thanks for waiting!<delay frames="60" /> <anim id="Restless" target="actor" targetSpec="" />I asked the
 <colour id="1" />Resident Services <colour id="65535" />here<tag a="110" b="0" /><delay40 /><anim id="BigSmile" target="actor" targetSpec="" />and
 they said I'm welcome!
 <anim id="HappyDance" target="actor" targetSpec="" />Guess that means I need to start
-packing pronto, <tag a="110" b="6" />!</message>
+packing pronto.<delay frames="40" /><anim id="Eh" target="actor" targetSpec="" /> Oh! <delay8 />I guess that
+also means it's introduction time!
+<anim id="Thinking" target="actor" targetSpec="" />So,<delay8 /> you're <tag a="110" b="3" />,<delay8 /> right?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Well, I'm <tag a="110" b="10" />, <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />your
+new favorite neighbor, <tag a="110" b="6" />!</message>
 	<message label="410" attrib="00 00 01 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" /><delay20 />Oh, but<tag a="110" b="0" /><delay20 />should I maybe go ask
 <colour id="1" />Resident Services <colour id="65535" />one more
 time? Just in case?<pageBreak /><anim id="Frantic" target="actor" targetSpec="" /><delay20 />I want to live here SO MUCH,
@@ -197,16 +203,6 @@ and I need to accept that. <delay20 />Like an
 adult.<delay20 /> <anim id="Frantic" target="actor" targetSpec="" />Who isn't going to cry<tag a="110" b="0" />
 <anim id="Crying" target="actor" targetSpec="" /><delay20 />Aw, it's OK to cry when you need to.
 And I need to, <tag a="110" b="6" />!</message>
-	<message label="421" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I can't believe there's already a totes
-adorbs diva on your island.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />I mean, I'm way adorbsier<tag a="110" b="0" /> Anyhoo,
-thanks for the invite. Too bad it
-didn't work out, <tag a="110" b="6" />!</message>
-	<message label="422" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Boo, there's another adorbs diva
-moving here already!<delay20 /> <anim id="Scheming" target="actor" targetSpec="" /><delay20 />I kind of want
-to do a song battle with her<tag a="110" b="0" /><pageBreak /><anim id="Scheming" target="actor" targetSpec="" /><delay20 />I'd sing her into the sea,
-<tag a="110" b="3" />!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />Ohhhh well. Shame we couldn't
-make it work, <anim id="FaintSmile" target="actor" targetSpec="" />but thanks for the
-invite, <tag a="110" b="6" />!</message>
 	<message label="423" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Your island is POPPING if they have
 so many residents they can't accept
 any more.
@@ -215,10 +211,6 @@ but I'll def come here on tour once
 I'm a pop star!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />With so many folks living here,
 it'll for sure have a huge crowd!<delay40 />
 <anim id="EmotEnd" target="actor" targetSpec="" />Buy your tickets now, <tag a="110" b="6" />!</message>
-	<message label="424" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />This island is suuuuper popular
-if they're running out of space!<delay40 /><pageBreak /><tag a="50" b="3" /><tag a="110" b="3" />, thanks for the
-fun. <delay20 />I hope this is "see you later"
-and not "goodbye," <tag a="110" b="6" />.</message>
 	<message label="504" attrib="00 00 01 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Totally great things keep happening
 when I'm camping on this island!<delay40 />
 <anim id="Smiling" target="actor" targetSpec="" />I'm, like, sooo happy right now!

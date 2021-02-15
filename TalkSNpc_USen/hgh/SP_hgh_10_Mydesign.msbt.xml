@@ -33,6 +33,13 @@ designed by <tag a="115" b="0" arg="0xcd00" />.<delay frames="40" />
 	<message label="003_a" attrib="00 00 00 00">I want this design.</message>
 	<message label="003_b" attrib="00 00 00 00">Display my work here.</message>
 	<message label="003_c" attrib="00 00 00 00">Just browsing.</message>
+	<message label="003_01" attrib="06 00 00 00">That's <anim id="Smiling" target="actor" targetSpec="" /><tag a="115" b="3" arg="0xcd00" />,
+designed by <tag a="115" b="0" arg="0xcd00" />.<delay frames="40" />
+<tag a="110" b="0" />So, <anim id="QuestionMark" target="actor" targetSpec="" />what did you want to do?</message>
+	<message label="003_01_a" attrib="00 00 00 00">I want this design.</message>
+	<message label="003_01_b" attrib="00 00 00 00">Display my work here.</message>
+	<message label="003_01_c" attrib="00 00 00 00">Report.</message>
+	<message label="003_01_d" attrib="00 00 00 00">Just browsing.</message>
 	<message label="004" attrib="04 00 00 00">That's <anim id="Smiling" target="actor" targetSpec="" /><tag a="115" b="3" arg="0xcd00" />.
 <tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> from
 <tag a="115" b="5" arg="0xcd00" /> designed it.
@@ -40,6 +47,14 @@ designed by <tag a="115" b="0" arg="0xcd00" />.<delay frames="40" />
 	<message label="004_a" attrib="00 00 00 00">I want this design.</message>
 	<message label="004_b" attrib="00 00 00 00">Display my work here.</message>
 	<message label="004_c" attrib="00 00 00 00">Just browsing.</message>
+	<message label="004_01" attrib="06 00 00 00">That's <anim id="Smiling" target="actor" targetSpec="" /><tag a="115" b="3" arg="0xcd00" />.
+<tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> from
+<tag a="115" b="5" arg="0xcd00" /> designed it.
+<tag a="110" b="0" />So, <anim id="QuestionMark" target="actor" targetSpec="" />what did you want to do?</message>
+	<message label="004_01_a" attrib="00 00 00 00">I want this design.</message>
+	<message label="004_01_b" attrib="00 00 00 00">Display my work here.</message>
+	<message label="004_01_c" attrib="00 00 00 00">Report.</message>
+	<message label="004_01_d" attrib="00 00 00 00">Just browsing.</message>
 	<message label="005" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Of course!<delay20 /> Take your time.</message>
 	<message label="006" attrib="02 00 00 00">You'll need to delete one of the
 custom designs you have now to
@@ -92,14 +107,22 @@ Even hats! <10_4 /><anim id="Pardon" target="actor" targetSpec="" />HATS, I tell
 <anim id="Smiling" target="actor" targetSpec="" />With so many options, you can
 create the kind of pattern that
 really says "<tag a="110" b="1" />."</message>
-	<message label="031" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />It looks you haven't upgraded your
-Custom Designs app yet.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />That's not a problem for using the
-pro design you just took—wear it
+	<message label="031" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />It looks like you haven't upgraded
+your Custom Designs app yet.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />That's not a problem for using the
+Pro design you just took—wear it
 all you like! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />But<tag a="110" b="0" />
-<anim id="Explain" target="actor" targetSpec="" />If you want to create pro custom
+<anim id="Explain" target="actor" targetSpec="" />If you want to create Pro custom
 designs of your own, <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />you're gonna
 need the upgrade.
 <anim id="Nodding" target="actor" targetSpec="" />You can get it by redeeming miles at
 the <colour id="1" />Nook Stop<colour id="65535" /><delay8 /> in <colour id="1" />Resident Services<colour id="65535" />.<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />
 Check it out!</message>
+	<message label="040" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Okeydoke,<delay8 /> I'll go ahead and remove
+this custom design.</message>
+	<message label="051" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Oh! It looks like you saved over the
+design you're wearing now.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Don't worry. <delay20 />The design you have
+on now will stay right where it is
+until you want to change it.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />When you're ready to put on your
+new design,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />all you have to do is
+select it and choose <colour id="1" />Wear<colour id="65535" />.</message>
 </msbt>

@@ -6,7 +6,7 @@ of folks, so I always ask.
 now to help out with the family
 business, so here I am!
 <anim id="Shocked" target="actor" targetSpec="" />Oh! <delay20 />I forgot to tell you what
-the family business is.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />It's sellin' turnips!<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Have you heard
+the family business is.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />It's sellin' turnips!<delay20 /> Have you heard
 of <colour id="1" />Sow Joan's Stalk Market<colour id="65535" />?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Well, I'll be here every Sunday
 mornin' with a fresh crop of
 turnips, so come say hi anytime!</message>
@@ -94,8 +94,8 @@ thinkin' about buyin' some?</message>
 	<message label="014_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy some.</message>
 	<message label="014_b" attrib="00 00 00 00">What's this all about?</message>
 	<message label="014_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't need any.</message>
-	<message label="015" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Great! <10_4 /><anim id="Thinking" target="actor" targetSpec="" />How many should I put you
-down for? <delay20 /><anim id="Explain" target="actor" targetSpec="" />They're <tag a="90" b="26" arg="0x0" />
+	<message label="015" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Great! <delay20 />How many should I put you
+down for? <delay frames="40" /><anim id="Explain" target="actor" targetSpec="" />They're <tag a="90" b="26" arg="0x0" />
 each, but we sell in bundles of 10.</message>
 	<message label="016" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Aw, shucks. <delay20 />It doesn't look like you
 have the space to carry any turnips

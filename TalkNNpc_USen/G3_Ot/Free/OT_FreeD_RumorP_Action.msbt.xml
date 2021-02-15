@@ -89,6 +89,22 @@ mention show them outwardly.
 <anim id="EmotEnd" target="actor" targetSpec="" />I tell you, <delay frames="13" /><anim id="HappyFlower" target="actor" targetSpec="" />the more expressive you
 are, the happier our neighbors
 will be, <tag a="110" b="6" />.</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are the rumors true? Have you
+been off catching flights and
+visiting other islands?
+<anim id="Shocked" target="actor" targetSpec="" />It IS true!<delay frames="13" /> I knew it! <delay frames="40" /><anim id="Explain" target="actor" targetSpec="" />You've been
+off gallivanting about like an
+honest-to-goodness jet-setter!
+<anim id="OhGeez" target="actor" targetSpec="" />Well,<delay frames="13" /> it goes without saying<tag a="110" b="0" /><delay frames="13" />I'm
+terribly jealous.<delay frames="40" /><anim id="Hello" target="actor" targetSpec="" /> Of course, <delay frames="13" />I'm also
+happy for you.<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> But mostly jealous!<delay frames="50" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Well, well! <delay20 /><anim id="Explain" target="actor" targetSpec="" />I heard you were QUITE
+the host yesterday!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'm a lot like you, <tag a="110" b="6" />.<delay20 />
+<anim id="Love" target="actor" targetSpec="" />I just love it when we have
+visitors on the island.
+<anim id="Hello" target="actor" targetSpec="" />Feel free to have company over
+whenever you want.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />The more
+the merrier, I always say!</message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I hear you were bit by the DIY bug
 yesterday.<delay20 /> <anim id="Love" target="actor" targetSpec="" />I would LOVE to see what
 you made, <tag a="110" b="6" />.
@@ -174,8 +190,8 @@ how is your FACE doing?
 <anim id="Serious" target="actor" targetSpec="" />A bad case of waspface is no
 laughing matter, <tag a="110" b="6" />.</message>
 	<message label="126_02" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />You had everyone worried sick
-yesterday, <tag a="110" b="6" />!<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />The way your face looked after all
-those wasp stings<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I don't mean to be rude,<delay frames="13" /> <anim id="OhGeez" target="actor" targetSpec="" />but I've
+yesterday, <tag a="110" b="6" />!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />All those wasp stings are just awful
+for the complexion<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I don't mean to be rude,<delay frames="13" /> <anim id="OhGeez" target="actor" targetSpec="" />but I've
 seen Halloween masks that looked
 less terrifying.
 <anim id="Hello" target="actor" targetSpec="" />If you're going to infuriate wasps on

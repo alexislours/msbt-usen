@@ -1,7 +1,7 @@
 <msbt attribsize="8">
 	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Did I hear you were in the market for
-<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Then good news! <delay20 />I found one
-for you, <tag a="110" b="5" />!</message>
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Then good news! <delay20 />I've got you
+covered, <tag a="110" b="5" />!</message>
 	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Awesome! Thanks!</message>
 	<message label="001_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Uh...what?</message>
 	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Well, well.<delay20 /> Just who I was looking
@@ -13,7 +13,7 @@ hole in your life<tag a="110" b="0" /><delay20 /><anim id="Grin" target="actor" 
 	<message label="002_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />You're outta luck.</message>
 	<message label="003" attrib="00 00 02 00 00 00 00 00">Yo, <tag a="110" b="3" />,<delay20 /> I'm in a jam.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I finally got the lead out and started
 cleaning out my pad<tag a="110" b="0" /><delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" />and there's SO
-much stuff I don't need.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Right now,<delay20 /> I've got four things on me
+much stuff I don't need.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Right now,<delay20 /> I've got four things
 I never use, <delay20 /><anim id="Sighing" target="actor" targetSpec="" />but feel weird about
 throwing out, <tag a="110" b="5" />.</message>
 	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Things like what?</message>
@@ -30,15 +30,13 @@ I dunno though.</message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Huh? <delay20 />Wait, you're sayin' that wasn't
 you? <delay frames="40" /><anim id="ShyBoy" target="actor" targetSpec="" />Sheesh, there I go again.<delay20 />
 Never mind, <tag a="110" b="6" />!</message>
-	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />No way!<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />OK, sure, it's used,
-but I keep my stuff in mint
-condition, <tag a="110" b="5" />!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay20 />No way!<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />But I keep my stuff in mint
+condition, <tag a="110" b="5" /><tag a="110" b="0" /></message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />You're telling me!<delay20 /> This whole thing's
 been a pain. <delay frames="40" /><anim id="Outraged" target="actor" targetSpec="" />I'm gonna cram it all
 back in my closet and lock the door!</message>
-	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Y'know what,<delay20 /> forget it, <tag a="110" b="5" />.
-<delay frames="40" /><anim id="Sighing" target="actor" targetSpec="" />I don't think my heart could
-take letting it go.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Y'know what,<delay20 /> forget it.<delay frames="40" /> <anim id="Sighing" target="actor" targetSpec="" />I couldn't deal
+with the heartbreak, <tag a="110" b="5" />.</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Sweet! <delay frames="40" />Uh, actually<tag a="110" b="0" /><delay20 /><anim id="Negative" target="actor" targetSpec="" />NOT sweet.
 <delay20 />Sour? <delay20 />Let's go with that. <delay frames="40" />ANYWAY,<delay20 />
 you don't have enough Bells.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />So<tag a="110" b="0" />maybe next time, <tag a="110" b="5" />!</message>

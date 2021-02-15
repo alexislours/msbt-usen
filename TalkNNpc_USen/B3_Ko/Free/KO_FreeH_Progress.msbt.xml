@@ -1,4 +1,9 @@
 <msbt attribsize="8">
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hey, I heard <colour id="3" />Tom Nook<colour id="65535" /> finally built
+you a house! <delay20 />How's it feel to have
+solid walls?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I tell ya, tents are nice and all, <delay20 />but
+putting roots down?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />That's some
+fine livin', <tag a="110" b="5" />!</message>
 	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Your place is bigger'n ever!<delay40 />
 <anim id="Pardon" target="actor" targetSpec="" />Unbelievably big,<delay20 /> <tag a="110" b="5" />.<delay20 /><pageBreak />What's it like,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />havin' so much space
 to stretch out in?<10_4 /> <anim id="Serious" target="actor" targetSpec="" />Ah,<delay20 /> I'd probably
@@ -6,7 +11,7 @@ waste the extra space if I had it.</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Have you been to the remodeled
 <colour id="1" />Nook's Cranny<colour id="65535" /> yet,<delay20 /> <tag a="110" b="5" />?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />They've really spruced the place up.<delay40 />
 <anim id="Pardon" target="actor" targetSpec="" />I almost like<delay20 /> goin' shoppin' now!</message>
-	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Our <colour id="1" />museum<colour id="65535" /> turned out pretty spiffy!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Never thought of myself as much of
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Our <colour id="1" />museum<colour id="65535" /> turned out pretty spiffy!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Never thought of myself as much of
 a museumgoer,<delay20 /> but <anim id="Nodding" target="actor" targetSpec="" />I'm impressed
 with the place so far,<delay20 /> <tag a="110" b="5" />.</message>
 	<message label="011" attrib="00 00 00 00 00 00 00 00">Since the <colour id="1" />tailors <colour id="65535" />set up shop here,<delay20 />

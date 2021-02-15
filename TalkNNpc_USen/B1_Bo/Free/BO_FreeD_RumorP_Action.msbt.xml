@@ -23,11 +23,11 @@ gross ocean, <tag a="110" b="6" />.<10_4 />
 More than usual, I mean.</message>
 	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I heard you were digging holes
 at the beach all day yesterday.<delay20 />
-<anim id="Pardon" target="actor" targetSpec="" />Didja get a buncha clams?<pageBreak /><delay frames="40" />I call clams <colour id="3" />Squirtfaces<colour id="65535" /> because they
+<anim id="Pardon" target="actor" targetSpec="" />Didja get a buncha clams?<pageBreak /><delay frames="40" />I call clams Squirtfaces because they
 squirt outta their faces. <delay20 />I think that's
-how all stuff should be named.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Like you'd be <colour id="3" />Holedig<colour id="65535" /> yesterday, and
-a <tag a="110" b="10" /><colour id="3" />talkto<colour id="65535" /> right now!<10_4 />
-<anim id="Greeting" target="actor" targetSpec="" />I'm such a <colour id="3" />Smartthink<colour id="65535" />, <tag a="110" b="6" />.</message>
+how all stuff should be named.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Like you'd be Holedig yesterday, and
+<tag a="50" b="2" /><tag a="50" b="3" /><tag a="110" b="15" />talkto right now!<10_4 />
+<anim id="Greeting" target="actor" targetSpec="" />I'm such a Smartthink, <tag a="110" b="6" />.</message>
 	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Everyone's talking about how you
 were out of control yesterday!<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />No balloon was safe! Pop to the left!
 <anim id="BigSmile" target="actor" targetSpec="" />Pop to the right! <anim id="Clapping" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />
@@ -63,6 +63,14 @@ faces yesterday?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />
 <anim id="SmugFace" target="actor" targetSpec="" /><delay20 />Making faces all the time is the kinda
 thing cool folks do!<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" /><delay20 />Like this!<10_4 /> <anim id="Love" target="actor" targetSpec="" /><delay20 />Or this!<delay20 />
 <anim id="EmotEnd" target="actor" targetSpec="" />And sometimes this!</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You were traveling a lot yesterday,
+huh? Did somebody invite you
+to someplace?<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />I'm kinda jealous!<delay frames="40" /> I wanna be invited
+someplace. A lotta someplaces have
+got snacks we don't have here.</message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I heard the <colour id="1" />airport <colour id="65535" />was real busy
+yesterday 'cause a lotta folks were
+visiting! <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />We're a tourist destination!</message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Sounds like you were in the DIY zone
 yesterday.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Folks say you looked real
 serious doing the crafting thing.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I bet you made something neat,
@@ -115,9 +123,10 @@ made a face at me<tag a="110" b="0" /><delay20 />and my feet itch.</message>
 	<message label="126_01" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Ya got stung by wasps yesterday?
 <anim id="Explain" target="actor" targetSpec="" />Like, a lot. <10_4 />Like<tag a="110" b="0" />a lot, a lot. <10_4 />Like<tag a="110" b="0" />
 A LOT, a lot. <10_4 />Like<tag a="110" b="0" /><delay20 /><anim id="Shocked" target="actor" targetSpec="" />ouch!</message>
-	<message label="126_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I heard you got stung by a wasp
-yesterday, <tag a="110" b="3" />!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Man, wasp stings hurt, but not as
-much as crocodile bites. <anim id="Nodding" target="actor" targetSpec="" />Life's all
+	<message label="126_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Everyone's been talking about
+how you got stung by a wasp
+yesterday, <tag a="110" b="3" />!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Man, wasp stings hurt, <delay20 />but not as
+much as crocodile bites.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Life's all
 about perspective, <tag a="110" b="6" />.</message>
 	<message label="127" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I heard you dug up some
 fossils yesterday, <tag a="110" b="3" />.
@@ -225,12 +234,12 @@ yesterday!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" 
 pulling lotsa weeds!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />What do you do with the weeds you
 collect? <anim id="Smiling" target="actor" targetSpec="" />I shove 'em in my walls for
 the bugs to play with, <tag a="110" b="6" />.</message>
-	<message label="149" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I heard you changed your hairstyle
+	<message label="149" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I heard you changed up your hair
 yesterday, but I don't remember if
 I've seen it before right now.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I don't remember lotsa stuff!</message>
 	<message label="150" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />!<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" /><delay8 />Everyone's been
 talking since yesterday about how
-you look kinda different<tag a="110" b="0" />?
+you look kinda different<tag a="110" b="0" />
 <anim id="EmotEnd" target="actor" targetSpec="" />Don't worry!<delay20 /> <anim id="Love" target="actor" targetSpec="" />You still smell like
 you, and that's all I care about.</message>
 	<message label="151" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Some folks said you were taking lots

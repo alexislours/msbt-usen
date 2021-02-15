@@ -83,6 +83,16 @@ reactions to things?
 <anim id="OhGeez" target="actor" targetSpec="" />Alright, alright. <delay frames="40" /><anim id="Scheming" target="actor" targetSpec="" />If you do hear of
 any choice parts for an expressive
 <tag a="110" b="15" />, I trust you'll let me know.</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, what's with the exotic travel
+lately, <tag a="110" b="3" />?<pageBreak /><anim id="Aha" target="actor" targetSpec="" />Did you bring anything back?<delay frames="40" />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />A fancy imported <tag a="135" b="5" arg="0xcd00" /> or
+anything? <delay20 />Spill the deets!</message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, it was cool to see you
+showing off <tag a="110" b="8" /> for
+your guests the other day.
+<anim id="SmugFace" target="actor" targetSpec="" />And if you need to add my home to
+your celebrity map, I'm happy to
+provide the address.</message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />You've been putting in a lot of
 DIY lately, haven't you?<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, I wish I could make
 things like you do.<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />I mean OTHER
@@ -298,12 +308,12 @@ with your weeding!
 <anim id="Hesitate" target="actor" targetSpec="" />Any chance you want to spend
 some of that energy organizing
 my closet?</message>
-	<message label="149" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Love the new haircut, <tag a="110" b="5" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I wonder how it would look on me<tag a="110" b="0" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />Nah, I'm gonna go ahead and respect
+	<message label="149" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Love your new hairstyle.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I wonder how it would look on me<tag a="110" b="0" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />Nah, I'm gonna go ahead and respect
 your boundaries by not copying your
-haircut.<delay frames="60" /> <anim id="Grin" target="actor" targetSpec="" />For two weeks.</message>
-	<message label="150" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa!<10_4 />
-<anim id="QuestionMark" target="actor" targetSpec="" />Is<tag a="110" b="0" />is that you, <tag a="110" b="3" />?<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />I hardly recognize you! <delay20 />You're really
-reinventing yourself.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, I wish I had that kind
+new look.<delay frames="60" /> <anim id="Grin" target="actor" targetSpec="" />For two weeks.</message>
+	<message label="150" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Wait<10_4 /><tag a="110" b="0" />am I imagining things or<tag a="110" b="0" /><delay40 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Is that you, <tag a="110" b="3" />?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />There's something different about
+you<delay20 /> and I gotta say<tag a="110" b="0" /><delay40 /><anim id="BigSmile" target="actor" targetSpec="" /> I like it!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, I wish I had that kind
 of facial range.<delay20 /> I'd definitely get
 cast more often<tag a="110" b="0" /></message>
 	<message label="151" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You still got that camera ready,

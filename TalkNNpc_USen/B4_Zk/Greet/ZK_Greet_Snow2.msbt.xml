@@ -11,12 +11,7 @@ kinds of feelings, <tag a="110" b="3" />.<10_4 />
 	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><tag a="110" b="14" />Hey, <tag a="110" b="3" /><endTag a="110" b="14" />!<delay frames="40" />
 <anim id="EmotEnd" target="actor" targetSpec="" />Are you loving the snow as much
 as I am, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="005" attrib="06 00 00 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Snowy days are the best to get
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Snowy days are the best to get
 a new set of headshots taken.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Can't get better natural light
 or reflection anywhere!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="006" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="15" arg="0x804 0x700 0xcd00" /></message>
-	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Anyway, bundle up!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="008" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="12" arg="0x9 0xa" /></message>
-	<message label="009" attrib="00 00 0c 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Anyway<tag a="110" b="0" />stay warm out here, OK?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Anyway<tag a="110" b="0" />stay warm out here, OK?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 </msbt>

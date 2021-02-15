@@ -5,7 +5,7 @@ from <tag a="110" b="33" /> yet?</message>
 	<message label="001_a" attrib="04 00 00 00 00 00 00 00">Yeah, I have.</message>
 	<message label="001_b" attrib="05 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />What?</message>
 	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
-	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x10 0x11 0xffff 0xffff" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x1 0x10 0x11 0x12" /></message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Good! I was worried you'd miss out!<delay20 />
 <anim id="Nodding" target="actor" targetSpec="" />It's hard to forget the sweet, <anim id="Love" target="actor" targetSpec="" />yummy
 taste of our <tag a="110" b="7" arg="0xcd01" />!</message>
@@ -37,10 +37,11 @@ Bells here!</message>
 <delay20 />It's still a tent right now, though.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />You should go say hi to <colour id="3" />Blathers<colour id="65535" />,
 <tag a="110" b="3" />. He's in the
 tent, researching!</message>
-	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x15 0x16 0x17 0x19" /></message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x15 0x16 0x17 0x18 0x19" /></message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
 	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
+	<message label="024" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1f03 0x1900 0xcd00" /></message>
 	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The <colour id="1" />museum <colour id="65535" />here works really hard
 to make sure the displays look
 top-notch.
@@ -65,35 +66,40 @@ My favorite one is the
 <tag a="135" b="13" arg="0x2" />!
 <anim id="Smiling" target="actor" targetSpec="" />You have GOT to see it!</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0x66 0x69" /></message>
-	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> You're here
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xca 0xcd" /></message>
+	<message label="202" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> You're here
 to visit because you missed
 me<anim id="Scheming" target="actor" targetSpec="" /><tag a="110" b="0" />riiiiiight?</message>
-	<message label="102_a" attrib="67 00 00 00 00 00 00 00">Yup!</message>
-	<message label="102_b" attrib="68 00 00 00 00 00 00 00">What? N-no?</message>
-	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Aww, thanks! I was just thinking
-about how I miss your face too,
-<tag a="110" b="3" />!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I was legit torn up when you moved
-away, <delay20 /><anim id="Smiling" target="actor" targetSpec="" />but I KNEW you'd come back
-to visit!<pageBreak />We're besties for life, after all!<delay20 />
-Come visit again, 'K?</message>
-	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />HA! Nice try! You miiiissed meee!
-<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />I can see right through you!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />To be honest, I was so way down in
-the pits when you left that I had to
+	<message label="202_a" attrib="cb 00 00 00 00 00 00 00">Yup!</message>
+	<message label="202_b" attrib="cc 00 00 00 00 00 00 00">What? N-no?</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You're the best!<delay40 /> <anim id="ShyBoy" target="actor" targetSpec="" />Funny thing is, <delay8 />I'd
+JUST been thinking how awesome it
+would be to see you again!
+<anim id="Restless" target="actor" targetSpec="" />Life on this island is fun, y'know?<delay40 />
+But when I'm doing my dance<tag a="110" b="0" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Well, it's just WAY more fun when
+you're there clapping along.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />So if you ever miss me again,<delay20 /> don't
+hesitate or anything.<delay8 /> Just come see
+me anytime, OK, <tag a="110" b="6" />?</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Liar, liar, pants on fire! <delay20 />You miiiissed
+meee! <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />I can see right through you!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />To be honest, I was so way down in
+the pits after I moved that I had to
 pick up a hobby to feel better.<pageBreak />I started <tag a="135" b="8" arg="0xcd00" /> and it's
 <anim id="EmotEnd" target="actor" targetSpec="" />TOTES the best thing! <delay20 />I'll have to
 <anim id="Smiling" target="actor" targetSpec="" />show you sometime.</message>
-	<message label="105" attrib="00 00 01 00 00 00 00 00">Hey, <tag a="110" b="3" />, you live on
-<tag a="110" b="34" />, right?
-What's it like?</message>
-	<message label="105_a" attrib="6a 00 00 00 00 00 00 00">It's a fun place!</message>
-	<message label="105_b" attrib="6b 00 00 00 00 00 00 00">It's a beautiful place!</message>
-	<message label="106" attrib="00 00 00 00 00 00 00 00">It's fun, huh? I <delay20 />LOVE FUN!<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />When I become a pop star and I
-go on tour, I'll totes swing by
-<tag a="110" b="34" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />That way I'll get to visit
-<tag a="110" b="34" /> AND see you!<delay20 />
-<anim id="Love" target="actor" targetSpec="" />BEST WORLD TOUR EVER!</message>
-	<message label="107" attrib="00 00 00 00 00 00 00 00">Ooh, beautiful, huh? <anim id="FaintSmile" target="actor" targetSpec="" />The prettier the
-island, the more fun everyone has!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I bet having you around doesn't
-hurt either. <anim id="Love" target="actor" targetSpec="" />I'm so jelly of
-<tag a="110" b="34" />!</message>
+	<message label="205" attrib="00 00 01 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Hey, <delay20 />how's <tag a="110" b="9" />
+been since I moved away?</message>
+	<message label="205_a" attrib="ce 00 00 00 00 00 00 00">Super fun!</message>
+	<message label="205_b" attrib="cf 00 00 00 00 00 00 00">Pretty chill.</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00">It's fun, huh?<delay20 /> <anim id="Pardon" target="actor" targetSpec="" /><delay20 />I LOVE FUN!<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />When I become a pop star and I go
+on tour, I'm totes gonna swing by
+<tag a="110" b="9" />, <tag a="110" b="5" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />That way I'll be able to visit
+<tag a="110" b="9" /> AND see you!<delay frames="40" />
+<anim id="Love" target="actor" targetSpec="" />BEST <delay8 />WORLD <delay8 />TOUR <delay8 />EVER!</message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00">Chill, huh?<delay20 /> <anim id="Scheming" target="actor" targetSpec="" />That just means a little
+excitement should be just what you
+and the others need, right?<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />RIGHT?!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />So I'm totes gonna do an <delay8 />"I'm back"<delay8 />
+concert on <tag a="110" b="9" />.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />It'll
+be mondo huge, <tag a="110" b="6" />!<pageBreak /><anim id="Love" target="actor" targetSpec="" />I can't wait! <delay20 />I just have to call up
+my manager and make it happen<tag a="110" b="0" /><delay20 /><anim id="Restless" target="actor" targetSpec="" /><delay20 />
+<size value="75" />once I get a manager.<size value="100" /></message>
 </msbt>

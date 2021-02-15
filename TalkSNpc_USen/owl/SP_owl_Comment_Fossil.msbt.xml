@@ -1,5 +1,5 @@
 <msbt attribsize="4">
-	<message label="Fossil_00169" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oho!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> <colour id="1" />Ankylosaurus<colour id="65535" /> was the herbivore
+	<message label="Fossil_00169" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oho! <anim id="EmotEnd" target="actor" targetSpec="" /><colour id="1" />Ankylosaurus<colour id="65535" /> was the herbivore
 hero,<delay20 /><anim id="Clapping" target="actor" targetSpec="" /> the grazing gladiator,<delay20 /> <anim id="Cheering" target="actor" targetSpec="" />the
 vegetarian barbarian of antiquity!
 <anim id="Nodding" target="actor" targetSpec="" />Between its club-like tail, heavy
@@ -11,7 +11,7 @@ ATTACKED predators.
 <anim id="Shocked" target="actor" targetSpec="" />Can you imagine such behavior in
 an herbivore?<anim id="TakenAback" target="actor" targetSpec="" /> It simply beggars the
 imagination!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
-	<message label="Fossil_00170" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oho!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> <colour id="1" />Ankylosaurus<colour id="65535" /> was the herbivore
+	<message label="Fossil_00170" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oho! <anim id="EmotEnd" target="actor" targetSpec="" /><colour id="1" />Ankylosaurus<colour id="65535" /> was the herbivore
 hero,<delay20 /><anim id="Clapping" target="actor" targetSpec="" /> the grazing gladiator,<delay20 /> <anim id="Cheering" target="actor" targetSpec="" />the
 vegetarian barbarian of antiquity!
 <anim id="Nodding" target="actor" targetSpec="" />Between its club-like tail, heavy
@@ -23,7 +23,7 @@ ATTACKED predators.
 <anim id="Shocked" target="actor" targetSpec="" />Can you imagine such behavior in
 an herbivore?<anim id="TakenAback" target="actor" targetSpec="" /> It simply beggars the
 imagination!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
-	<message label="Fossil_00171" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oho!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> <colour id="1" />Ankylosaurus<colour id="65535" /> was the herbivore
+	<message label="Fossil_00171" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oho! <anim id="EmotEnd" target="actor" targetSpec="" /><colour id="1" />Ankylosaurus<colour id="65535" /> was the herbivore
 hero,<delay20 /><anim id="Clapping" target="actor" targetSpec="" /> the grazing gladiator,<delay20 /> <anim id="Cheering" target="actor" targetSpec="" />the
 vegetarian barbarian of antiquity!
 <anim id="Nodding" target="actor" targetSpec="" />Between its club-like tail, heavy
@@ -136,7 +136,7 @@ other large herbivores.
 attacks of predators <anim id="Shocked" target="actor" targetSpec="" />and fight back
 with its thumb claws!
 <anim id="Dance" target="actor" targetSpec="" />It could even walk on two legs when
-it wanted to! <anim id="Serious" target="actor" targetSpec="" />Er<tag a="110" b="0" />truly it was the
+it wanted to!<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Er<tag a="110" b="0" />truly it was the
 most elegant and lithe of dinosaurs.</message>
 	<message label="Fossil_00189" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Ah, that graceful ballerina of the
 Cretaceous, the <colour id="1" />Iguanodon<colour id="65535" />!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />When I say it was graceful, I mean
@@ -146,7 +146,7 @@ other large herbivores.
 attacks of predators <anim id="Shocked" target="actor" targetSpec="" />and fight back
 with its thumb claws!
 <anim id="Dance" target="actor" targetSpec="" />It could even walk on two legs when
-it wanted to! <anim id="Serious" target="actor" targetSpec="" />Er<tag a="110" b="0" />truly it was the
+it wanted to!<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Er<tag a="110" b="0" />truly it was the
 most elegant and lithe of dinosaurs.</message>
 	<message label="Fossil_00190" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Ah, that graceful ballerina of the
 Cretaceous, the <colour id="1" />Iguanodon<colour id="65535" />!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />When I say it was graceful, I mean
@@ -156,7 +156,7 @@ other large herbivores.
 attacks of predators <anim id="Shocked" target="actor" targetSpec="" />and fight back
 with its thumb claws!
 <anim id="Dance" target="actor" targetSpec="" />It could even walk on two legs when
-it wanted to! <anim id="Serious" target="actor" targetSpec="" />Er<tag a="110" b="0" />truly it was the
+it wanted to!<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Er<tag a="110" b="0" />truly it was the
 most elegant and lithe of dinosaurs.</message>
 	<message label="Fossil_00192" attrib="00 00 00 00"><anim id="Love" target="actor" targetSpec="" />The adorable <colour id="1" />Ophthalmosaurus<colour id="65535" />—
 cutest of all the Ichthyosaurs!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />What makes a large, sea-dwelling
@@ -206,7 +206,7 @@ rules, and some species were
 <anim id="HappyFlower" target="actor" targetSpec="" />Scientists have pondered for years:
 were mammoths the COOLEST of
 all extinct species? Perhaps so!</message>
-	<message label="Fossil_00198" attrib="00 00 00 00"><colour id="1" /><anim id="Sighing" target="actor" targetSpec="" />Pachycephalosaurus<colour id="65535" /> was, to be
+	<message label="Fossil_00198" attrib="00 00 00 00"><colour id="1" />Pachycephalosaurus<colour id="65535" /> was, to be
 blunt, <anim id="Sighing" target="actor" targetSpec="" />not the brightest star in
 the dinosaur firmament.
 <anim id="Hot" target="actor" targetSpec="" />What I mean is, with its incredibly
@@ -215,7 +215,7 @@ spots—it didn't have much room for...
 <anim id="SadSpiral" target="actor" targetSpec="" />well, for brains. Its brain was likely
 quite small, but at least it was
 extremely <delay20 />safe<tag a="110" b="0" />in its<tag a="110" b="0" /><delay20 />bony<tag a="110" b="0" /><delay40 />prison.</message>
-	<message label="Fossil_00199" attrib="00 00 00 00"><colour id="1" /><anim id="Sighing" target="actor" targetSpec="" />Pachycephalosaurus<colour id="65535" /> was, to be
+	<message label="Fossil_00199" attrib="00 00 00 00"><colour id="1" />Pachycephalosaurus<colour id="65535" /> was, to be
 blunt, <anim id="Sighing" target="actor" targetSpec="" />not the brightest star in
 the dinosaur firmament.
 <anim id="Hot" target="actor" targetSpec="" />What I mean is, with its incredibly
@@ -224,7 +224,7 @@ spots—it didn't have much room for...
 <anim id="SadSpiral" target="actor" targetSpec="" />well, for brains. Its brain was likely
 quite small, but at least it was
 extremely <delay20 />safe<tag a="110" b="0" />in its<tag a="110" b="0" /><delay20 />bony<tag a="110" b="0" /><delay40 />prison.</message>
-	<message label="Fossil_00200" attrib="00 00 00 00"><colour id="1" /><anim id="Sighing" target="actor" targetSpec="" />Pachycephalosaurus<colour id="65535" /> was, to be
+	<message label="Fossil_00200" attrib="00 00 00 00"><colour id="1" />Pachycephalosaurus<colour id="65535" /> was, to be
 blunt, <anim id="Sighing" target="actor" targetSpec="" />not the brightest star in
 the dinosaur firmament.
 <anim id="Hot" target="actor" targetSpec="" />What I mean is, with its incredibly
@@ -236,7 +236,7 @@ extremely <delay20 />safe<tag a="110" b="0" />in its<tag a="110" b="0" /><delay2
 	<message label="Fossil_00202" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hootie-hoo, <colour id="1" />Parasaurolophus<colour id="65535" />!<delay20 /> <anim id="Love" target="actor" targetSpec="" />I like
 to think of it as the beast with the
 golden tones.
-<anim id="Clapping" target="actor" targetSpec="" />You see, the three-foot structure of
+<anim id="Explain" target="actor" targetSpec="" />You see, the three-foot structure of
 hollow bone atop its head MAY have
 been an elaborate noisemaker!
 <anim id="HappyDance" target="actor" targetSpec="" />As a dyed-in-the-feathers optimist
@@ -245,7 +245,7 @@ serenaded the late Cretaceous!</message>
 	<message label="Fossil_00203" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hootie-hoo, <colour id="1" />Parasaurolophus<colour id="65535" />!<delay20 /> <anim id="Love" target="actor" targetSpec="" />I like
 to think of it as the beast with the
 golden tones.
-<anim id="Clapping" target="actor" targetSpec="" />You see, the three-foot structure of
+<anim id="Explain" target="actor" targetSpec="" />You see, the three-foot structure of
 hollow bone atop its head MAY have
 been an elaborate noisemaker!
 <anim id="HappyDance" target="actor" targetSpec="" />As a dyed-in-the-feathers optimist
@@ -254,7 +254,7 @@ serenaded the late Cretaceous!</message>
 	<message label="Fossil_00204" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hootie-hoo, <colour id="1" />Parasaurolophus<colour id="65535" />!<delay20 /> <anim id="Love" target="actor" targetSpec="" />I like
 to think of it as the beast with the
 golden tones.
-<anim id="Clapping" target="actor" targetSpec="" />You see, the three-foot structure of
+<anim id="Explain" target="actor" targetSpec="" />You see, the three-foot structure of
 hollow bone atop its head MAY have
 been an elaborate noisemaker!
 <anim id="HappyDance" target="actor" targetSpec="" />As a dyed-in-the-feathers optimist
@@ -496,8 +496,8 @@ two feet tall and similarly wide.
 <anim id="QuestionMark" target="actor" targetSpec="" />It's not clear exactly how the plates
 were arranged or what they were for.<delay40 />
 <anim id="Clapping" target="actor" targetSpec="" />Yet more mysteries of the ancients!</message>
-	<message label="Fossil_00234" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Woo HOO! <delay20 />The <colour id="1" />Plesiosaurus<colour id="65535" /> is a
-classic of the ancient-reptile world!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />That long, graceful neck, the wee
+	<message label="Fossil_00234" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ah yes! <delay20 />The <colour id="1" />Plesiosaurus<colour id="65535" /> is a classic
+of the ancient-reptile world!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />That long, graceful neck, the wee
 little head, and the plump, turtle-like
 body make for a striking silhouette.
 <anim id="Serious" target="actor" targetSpec="" />Incidentally, despite the "saurus"
@@ -506,8 +506,8 @@ Common error, eh wot.
 <anim id="Love" target="actor" targetSpec="" />But they were surely a majestic sight,
 swimming in those ancient seas<tag a="110" b="0" /><anim id="AbsentMindedness" target="actor" targetSpec="" />
 <size value="75" />like a long-necked rubber ducky...<size value="100" /></message>
-	<message label="Fossil_00235" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Woo HOO! <delay20 />The <colour id="1" />Plesiosaurus<colour id="65535" /> is a
-classic of the ancient-reptile world!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />That long, graceful neck, the wee
+	<message label="Fossil_00235" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ah yes! <delay20 />The <colour id="1" />Plesiosaurus<colour id="65535" /> is a classic
+of the ancient-reptile world!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />That long, graceful neck, the wee
 little head, and the plump, turtle-like
 body make for a striking silhouette.
 <anim id="Serious" target="actor" targetSpec="" />Incidentally, despite the "saurus"
@@ -516,8 +516,8 @@ Common error, eh wot.
 <anim id="Love" target="actor" targetSpec="" />But they were surely a majestic sight,
 swimming in those ancient seas<tag a="110" b="0" /><anim id="AbsentMindedness" target="actor" targetSpec="" />
 <size value="75" />like a long-necked rubber ducky...<size value="100" /></message>
-	<message label="Fossil_00236" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Woo HOO! <delay20 />The <colour id="1" />Plesiosaurus<colour id="65535" /> is a
-classic of the ancient-reptile world!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />That long, graceful neck, the wee
+	<message label="Fossil_00236" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ah yes! <delay20 />The <colour id="1" />Plesiosaurus<colour id="65535" /> is a classic
+of the ancient-reptile world!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />That long, graceful neck, the wee
 little head, and the plump, turtle-like
 body make for a striking silhouette.
 <anim id="Serious" target="actor" targetSpec="" />Incidentally, despite the "saurus"
@@ -620,17 +620,21 @@ sometimes used as "index fossils."<pageBreak /><anim id="BigSmile" target="actor
 as markers in time, helping to
 identify the age of other formations!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Who knows what other secrets lie
 hidden in those spiral shells?</message>
-	<message label="Fossil_00296" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Coprolites<colour id="65535" /><delay frames="40" /><anim id="Blushing" target="actor" targetSpec="" />, or fossilized<tag a="110" b="0" /><delay40 />feces,
-<anim id="Clapping" target="actor" targetSpec="" />are astonishing treasure troves
-of fascinating information!
-<anim id="Thinking" target="actor" targetSpec="" />For example,<delay20 /> certain herbivorous
-dinosaurs'<delay8 /> <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />coprolites<colour id="65535" /> contained
-small pebbles<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />This indicated that they ate plants
-and pebbles whole <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />and ground them
-up<delay8 /> in their stomachs!<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />
-<anim id="HappyDance" target="actor" targetSpec="" />So while these animals' eating habits
-may have been unrefined, the rocks
-helped <delay8 />"refine"<delay8 /> their food anyway!</message>
+	<message label="Fossil_00296" attrib="00 00 00 00"><colour id="1" /><anim id="Blushing" target="actor" targetSpec="" /><tag a="50" b="0" arg="0x100 0xcd03" />Coprolites<colour id="65535" /> are, in fact<tag a="110" b="0" />ehm<tag a="110" b="0" />bits
+of fossilized<tag a="110" b="0" /><delay40 />feces.<delay40 /><anim id="Eh" target="actor" targetSpec="" /> Hoo! Eww!
+It's true!
+<anim id="Serious" target="actor" targetSpec="" />It must be said they are also
+astonishing treasure troves of
+ancient information, eh wot!
+<anim id="Thinking" target="actor" targetSpec="" />For example,<delay20 /> the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />coprolite<colour id="65535" /> from
+certain plant-eating dinosaurs has
+been found to contain small pebbles.
+This tells us that these dinosaurs,<delay20 /><anim id="SmugFace" target="actor" targetSpec="" />
+like many modern birds,<delay20 /> ate rocks to
+help grind the greens in their bellies.
+<anim id="HappyDance" target="actor" targetSpec="" />Indeed!<delay20 /> Fossilized feces reveal not
+only what food the dinos ate, but
+how they digested it too. <delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />Hoo knew?!<delay frames="60" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
 	<message label="Fossil_00298" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><colour id="1" /><tag a="50" b="0" arg="0x200 0xcd03" />Archaeopteryx<colour id="65535" />'s feathers<anim id="Nodding" target="actor" targetSpec="" /> led many
 people to believe it was the
 progenitor of the birds, eh wot<tag a="110" b="0" />
@@ -786,53 +790,49 @@ the dinosaurs went extinct.
 among those behemoths. They were
 nocturnal before it was cool!</message>
 	<message label="Fossil_04688" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><colour id="1" />Brachiosaurus<colour id="65535" />, whose name means
-"arm lizard"<delay40 /><anim id="Negative" target="actor" targetSpec="" /><size value="75" />—no idea—<size value="100" /><delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />was one of the
+"arm lizard"<delay40 /><anim id="Negative" target="actor" targetSpec="" /><size value="75" />—eh, wot—<size value="100" /><delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />was one of the
 largest herbivorous dinosaurs.
-<anim id="Cheering" target="actor" targetSpec="" />Due to its long front legs, it was
-very good at eating plants high up,
-even for a long-necked herbivore!
-<anim id="Oops" target="actor" targetSpec="" />Unfortunately, in order to support
-its large size, it likely needed to eat
-more or less every waking hour.
-<anim id="HappyFlower" target="actor" targetSpec="" />Research marches ever onward!<delay40 />
-<anim id="QuestionMark" target="actor" targetSpec="" />Perhaps one day we'll even find
-out why it's named "arm lizard"!</message>
+<anim id="Cheering" target="actor" targetSpec="" />Due to its long front legs and
+elongated neck, it seems to have
+specialized in eating plants up high.
+<anim id="Oops" target="actor" targetSpec="" />Alas, in order to support its large
+size, it likely needed to eat more or
+less every waking hour.
+<anim id="HappyFlower" target="actor" targetSpec="" />What a ferocious forager it must
+have been indeed!</message>
 	<message label="Fossil_04689" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><colour id="1" />Brachiosaurus<colour id="65535" />, whose name means
-"arm lizard"<delay40 /><anim id="Negative" target="actor" targetSpec="" /><size value="75" />—no idea—<size value="100" /><delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />was one of the
+"arm lizard"<delay40 /><anim id="Negative" target="actor" targetSpec="" /><size value="75" />—eh, wot—<size value="100" /><delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />was one of the
 largest herbivorous dinosaurs.
-<anim id="Cheering" target="actor" targetSpec="" />Due to its long front legs, it was
-very good at eating plants high up,
-even for a long-necked herbivore!
-<anim id="Oops" target="actor" targetSpec="" />Unfortunately, in order to support
-its large size, it likely needed to eat
-more or less every waking hour.
-<anim id="HappyFlower" target="actor" targetSpec="" />Research marches ever onward!<delay40 />
-<anim id="QuestionMark" target="actor" targetSpec="" />Perhaps one day we'll even find
-out why it's named "arm lizard"!</message>
+<anim id="Cheering" target="actor" targetSpec="" />Due to its long front legs and
+elongated neck, it seems to have
+specialized in eating plants up high.
+<anim id="Oops" target="actor" targetSpec="" />Alas, in order to support its large
+size, it likely needed to eat more or
+less every waking hour.
+<anim id="HappyFlower" target="actor" targetSpec="" />What a ferocious forager it must
+have been indeed!</message>
 	<message label="Fossil_04690" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><colour id="1" />Brachiosaurus<colour id="65535" />, whose name means
-"arm lizard"<delay40 /><anim id="Negative" target="actor" targetSpec="" /><size value="75" />—no idea—<size value="100" /><delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />was one of the
+"arm lizard"<delay40 /><anim id="Negative" target="actor" targetSpec="" /><size value="75" />—eh, wot—<size value="100" /><delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />was one of the
 largest herbivorous dinosaurs.
-<anim id="Cheering" target="actor" targetSpec="" />Due to its long front legs, it was
-very good at eating plants high up,
-even for a long-necked herbivore!
-<anim id="Oops" target="actor" targetSpec="" />Unfortunately, in order to support
-its large size, it likely needed to eat
-more or less every waking hour.
-<anim id="HappyFlower" target="actor" targetSpec="" />Research marches ever onward!<delay40 />
-<anim id="QuestionMark" target="actor" targetSpec="" />Perhaps one day we'll even find
-out why it's named "arm lizard"!</message>
+<anim id="Cheering" target="actor" targetSpec="" />Due to its long front legs and
+elongated neck, it seems to have
+specialized in eating plants up high.
+<anim id="Oops" target="actor" targetSpec="" />Alas, in order to support its large
+size, it likely needed to eat more or
+less every waking hour.
+<anim id="HappyFlower" target="actor" targetSpec="" />What a ferocious forager it must
+have been indeed!</message>
 	<message label="Fossil_04691" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><colour id="1" />Brachiosaurus<colour id="65535" />, whose name means
-"arm lizard"<delay40 /><anim id="Negative" target="actor" targetSpec="" /><size value="75" />—no idea—<size value="100" /><delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />was one of the
+"arm lizard"<delay40 /><anim id="Negative" target="actor" targetSpec="" /><size value="75" />—eh, wot—<size value="100" /><delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />was one of the
 largest herbivorous dinosaurs.
-<anim id="Cheering" target="actor" targetSpec="" />Due to its long front legs, it was
-very good at eating plants high up,
-even for a long-necked herbivore!
-<anim id="Oops" target="actor" targetSpec="" />Unfortunately, in order to support
-its large size, it likely needed to eat
-more or less every waking hour.
-<anim id="HappyFlower" target="actor" targetSpec="" />Research marches ever onward!<delay40 />
-<anim id="QuestionMark" target="actor" targetSpec="" />Perhaps one day we'll even find
-out why it's named "arm lizard"!</message>
+<anim id="Cheering" target="actor" targetSpec="" />Due to its long front legs and
+elongated neck, it seems to have
+specialized in eating plants up high.
+<anim id="Oops" target="actor" targetSpec="" />Alas, in order to support its large
+size, it likely needed to eat more or
+less every waking hour.
+<anim id="HappyFlower" target="actor" targetSpec="" />What a ferocious forager it must
+have been indeed!</message>
 	<message label="Fossil_04697" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />The <colour id="1" />Quetzalcoatlus<colour id="65535" />! <delay40 /><anim id="Clapping" target="actor" targetSpec="" />The undisputed
 ruler of the skies<tag a="110" b="0" />at least during
 the late Cretaceous period.

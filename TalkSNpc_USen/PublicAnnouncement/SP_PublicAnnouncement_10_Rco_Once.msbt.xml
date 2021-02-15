@@ -123,7 +123,7 @@ take advantage of the <colour id="1" />drop-off box<colour id="65535" />.
 <anim id="Smiling" target="actor" targetSpec="" />Drop off anything you don't need,
 and our shop stewards will send
 payment to your account later!<endTag a="100" b="8" /></message>
-	<message label="124" attrib="00 00 00 12"><anim id="Eh" target="actor" targetSpec="" />Ah! One more thing<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />To celebrate the opening of the shop,<delay20 />
+	<message label="124" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Eh" target="actor" targetSpec="" />Ah! One more thing<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />To celebrate the opening of the shop,<delay20 />
 we've added a new <colour id="1" />catalog<colour id="65535" /> service to<anim id="FaintSmile" target="actor" targetSpec="" />
 <colour id="1" />Nook Shopping<colour id="65535" />.
 <anim id="EmotEnd" target="actor" targetSpec="" />The <colour id="1" />catalog<colour id="65535" /> lets customers see a
@@ -132,7 +132,7 @@ or purchased.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Any 
 ordered directly through the catalog,<delay20 />
 <anim id="Smiling" target="actor" targetSpec="" />so make good use of it!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Now then, with all that said<tag a="110" b="0" /><delay40 /><anim id="HappyDance" target="actor" targetSpec="" />I hope
 everyone takes advantage of the new
-<colour id="1" />Nook's Cranny<colour id="65535" />!</message>
+<colour id="1" />Nook's Cranny<colour id="65535" />!<endTag a="100" b="8" /></message>
 	<message label="126" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Smiling" target="actor" targetSpec="" />Business at <colour id="1" />Nook's Cranny<colour id="65535" /> has been
 booming, thanks to you all.<pageBreak />It's only right that we remodel the
 shop and give our <anim id="Nodding" target="actor" targetSpec="" />shop clerks a new,
@@ -257,7 +257,7 @@ ceremony afterward!<pageBreak /><anim id="HappyDance" target="actor" targetSpec=
 to take part, so stop by <colour id="1" />Resident Services<colour id="65535" /> if you're interested.<endTag a="100" b="8" /></message>
 	<message label="192_02" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Smiling" target="actor" targetSpec="" />By the way, we will be holding a
 special commemorative ceremony
-right after this, as usual.<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Stop by <colour id="1" />Resident Services<colour id="65535" /> if you'd
+soon, as usual.<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Stop by <colour id="1" />Resident Services<colour id="65535" /> if you'd
 like to participate!<endTag a="100" b="8" /></message>
 	<message label="201" attrib="00 00 00 12"><tag a="100" b="8" /><anim id="Eh" target="actor" targetSpec="" />Oh dear.<delay20 /> Never fails.<delay8 /> Of course this
 would happen right in the middle of

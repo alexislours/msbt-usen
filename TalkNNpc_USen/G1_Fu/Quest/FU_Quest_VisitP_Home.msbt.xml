@@ -6,17 +6,17 @@
 I've come by for a visit!<10_7 arg="120" /></message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00">Hello? <tag a="50" b="3" /><tag a="110" b="3" />?<delay20 />
 It's me, <tag a="110" b="10" />.<10_7 arg="120" /></message>
-	<message label="006" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />?
-It's <tag a="110" b="10" />.<10_7 arg="120" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />? It's me,
+<tag a="110" b="10" />, <tag a="110" b="5" />.<10_7 arg="120" /></message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />?
 Can you hear me?<delay20 /><pageBreak />If you're home, can you
 come to the door, please?<10_7 arg="120" /></message>
-	<message label="008" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />?
-Are you in there?<10_7 arg="120" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />? Are you in
+there, <tag a="110" b="5" />?<10_7 arg="120" /></message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00">Could it be <delay frames="40" />that no one's home?<10_7 arg="120" /></message>
-	<message label="010" attrib="00 00 00 00 00 00 00 00">Hello? <tag a="50" b="3" /><tag a="110" b="3" />?
-Doesn't seem like you're home,
-so I guess I'll try back later.<10_7 arg="120" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00">Hello? <tag a="50" b="3" /><tag a="110" b="3" />? Doesn't
+seem like you're home, so I'll
+try back later, <tag a="110" b="5" />.<10_7 arg="120" /></message>
 	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Morning, <tag a="110" b="3" />!
 <anim id="Smiling" target="actor" targetSpec="" />I couldn't wait another minute,
 so I came by for an early visit!</message>

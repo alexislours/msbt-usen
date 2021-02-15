@@ -1,0 +1,44 @@
+<msbt attribsize="8">
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Somebody's moving to the island!<delay20 />
+Yay, <tag a="110" b="8" />! <anim id="Nodding" target="actor" targetSpec="" /><delay20 />We need to
+make this newbie feel at home.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Somebody new moved in today!
+Have you already said hi?<delay20 /> I want
+to meet them too!</message>
+	<message label="007_02" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh yeah, we've got a new island
+resident starting today! <delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" /><delay20 />I wonder
+what kind of music they like?<delay20 /></message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Have you already met the new
+neighbor that moved in today?<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />It's so fab meeting new people!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="011_01" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Tomorrow's <tag a="115" b="1" arg="0xcd00" />'s
+birthday at last!<delay40 /><pageBreak />I'm going to work my sparkles off <anim id="Assent" target="actor" targetSpec="" />to
+make tomorrow suuuuuper le special
+for <gender3 m="him" f="her" />!</message>
+	<message label="011_02" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" />'s birthday is
+tomorrow and I still haven't
+wrapped my prezzie yet.</message>
+	<message label="011_03" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Remember what day tomorrow
+is, <tag a="110" b="3" />?<pageBreak />It's <tag a="115" b="1" arg="0xcd00" />'s birthday!<delay frames="40" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="013_01" attrib="00 00 00 00 00 00 00 00"><anim id="Crying" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> is moving
+tomorrow morning! <delay20 />I can't even
+wrap my head around it!
+<anim id="Negative" target="actor" targetSpec="" />I gotta get a grip, <delay8 />you know? <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />Time to
+support <gender3 m="his" f="her" /> decision with my very
+best<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" /> GO TEAM attitude!</message>
+	<message label="013_02" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Ugh. Tomorrow morning
+<tag a="115" b="1" arg="0xcd00" /> is moving
+away. <delay8 />I'm so way sad.
+<anim id="SadSpiral" target="actor" targetSpec="" />If you haven't said bye yet,
+you should go do it while
+there's still time.</message>
+	<message label="013_03" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Can you believe it? Tomorrow
+morning <tag a="115" b="1" arg="0xcd00" /> moves
+away.
+<anim id="Thinking" target="actor" targetSpec="" />Now that I think about it<tag a="110" b="0" />I could
+write a really sad song about it<tag a="110" b="0" /><pageBreak /><anim id="Sighing" target="actor" targetSpec="" />But I'm way too sad to sing it.<delay frames="40" />
+<anim id="OhGeez" target="actor" targetSpec="" /><size value="75" />And I don't do sad songs anyway, <tag a="110" b="6" /><tag a="110" b="0" /><size value="100" /></message>
+</msbt>

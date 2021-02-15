@@ -32,7 +32,7 @@ the stick, <delay20 />but I'm likin' this!</message>
 	<message label="007" attrib="00 00 00">Awesome! <delay20 />From now on, this won't
 be just anywhere on the island.<delay20 />
 It's gonna be my home sweet home!</message>
-	<message label="008_01" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You couldn't have picked a better
+	<message label="008_01" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I can't believe I got such an awesome
 spot. <delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />You rock, <tag a="110" b="5" />!</message>
 	<message label="008_02" attrib="00 00 00"><delay8 /><anim id="Shocked" target="actor" targetSpec="" /><delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />Hold up. <delay20 />Does this mean<delay8 /> you helped
 <tag a="115" b="1" arg="0xcd00" /> with his tent too?<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />Whoa!<delay20 /> You're a seriously
@@ -49,9 +49,8 @@ guy is doin'.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />He m
 as I was.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Maybe you should go see
 if he needs help too!</message>
 	<message label="009" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, good call. <delay20 />Gotta put my best
-foot forward and all that.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I'll wander around and keep looking
-before I make a decision I can't
-take back.</message>
+foot forward and all that junk.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I'll
+keep thinkin' on it.</message>
 	<message label="010" attrib="00 00 00">Oh!<delay20 /> Well, that's no good.<pageBreak />This island ain't big, so I better pick
 a place that's solid for all my pals.<delay20 />
 I'll think on it some more.</message>

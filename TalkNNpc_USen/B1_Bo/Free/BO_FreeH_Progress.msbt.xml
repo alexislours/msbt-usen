@@ -1,6 +1,9 @@
 <msbt attribsize="8">
 	<message label="001" attrib="00 00 00 00 00 00 00 00" />
-	<message label="002" attrib="00 00 00 00 00 00 00 00" />
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />A little bug told me you have
+a house now!<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Yay!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Your tent was real neat, but now
+you've got lots of room for snacks.<delay frames="40" />
+<anim id="HappyFlower" target="actor" targetSpec="" />I'm so happy for you, <tag a="110" b="5" />!</message>
 	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><delay20 />Your house is real big now!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />It's so
 big that I can use it as a landmark.
 And I can nap in its shade.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" /><delay20 />All the bugs think it's neat too. <delay20 />One

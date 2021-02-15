@@ -181,7 +181,7 @@ since I moved to your island from
 you finally did<delay8 /><tag a="110" b="0" /> <anim id="Sneezing" target="actor" targetSpec="" />AAAAH-<delay20 />CHOO!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Sorry<delay8 /><tag a="110" b="0" /> We should try to do this
 again<delay20 /> when I'm feeling better.</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hi,<delay20 /> I just moved here today.<delay40 />
-<anim id="FaintSmile" target="actor" targetSpec="" />My name's <tag a="110" b="10" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />You look like a<delay8 /><tag a="110" b="0" /><anim id="BigSmile" target="actor" targetSpec="" /><tag a="110" b="3" />!<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />My name's <tag a="110" b="10" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />You look like a<tag a="110" b="0" /><delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" /><tag a="110" b="3" />!<delay40 />
 <anim id="FaintSmile" target="actor" targetSpec="" />Hope that's OK with you.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I was invited to move here
 by <tag a="115" b="0" arg="0xcd00" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm busy unpacking now,<delay20 /> but
 <anim id="Hello" target="actor" targetSpec="" />I hope to see you around.</message>
@@ -247,8 +247,9 @@ about you,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="EmotEnd" targ
 should get together soon, OK?</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I haven't introduced myself yet.<delay40 />
-<anim id="FaintSmile" target="actor" targetSpec="" />I'm <tag a="110" b="10" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I just moved here to the island
-from <tag a="115" b="2" arg="0xcd00" />.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />You're <tag a="110" b="3" />,<delay20 /> right?<10_4 />
+<anim id="FaintSmile" target="actor" targetSpec="" />I'm <tag a="110" b="10" />.<delay20 /> I just moved
+here to the island.
+<anim id="Hello" target="actor" targetSpec="" />You're <tag a="110" b="3" />,<delay20 /> right?
 <anim id="Love" target="actor" targetSpec="" />What a nice name.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I was talked into moving here
 by <tag a="115" b="0" arg="0xcd00" /><delay20 /> when I visited
 the <colour id="1" />campsite<colour id="65535" />.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I can't wait for us to get to know
@@ -283,13 +284,13 @@ a chance to introduce yourself.<delay40 />
 so I really appreciate you taking the
 time to listen to me,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I hope that we can get to be friends.<anim id="FaintSmile" target="actor" targetSpec="" /></message>
 	<message label="212" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I haven't had a chance to introduce
-myself to you<delay20 /> since I moved here<delay8 /><tag a="110" b="0" />
+myself to you since I moved here<tag a="110" b="0" /><delay frames="40" />
 <anim id="Smiling" target="actor" targetSpec="" />My name's <tag a="110" b="10" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I had a friend who talked me into
 relocating when I camped here,<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />but
 they moved away before I could.
-<anim id="EmotEnd" target="actor" targetSpec="" />Funny how things work out,<delay20 /> <anim id="Sighing" target="actor" targetSpec="" />I guess.<delay40 />
-<anim id="FaintSmile" target="actor" targetSpec="" />You're <tag a="110" b="3" />,<delay20 /> right?<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Glad we got to meet,<delay20 /> <tag a="110" b="5" />.
-<anim id="BigSmile" target="actor" targetSpec="" />I can always use new friends!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+<anim id="EmotEnd" target="actor" targetSpec="" />Funny how things work out,<delay20 /> <anim id="Sighing" target="actor" targetSpec="" />I guess.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />You're <tag a="110" b="3" />,<delay20 /> right?<delay20 />
+<anim id="Hesitate" target="actor" targetSpec="" />Glad we got to meet, <tag a="110" b="5" />.<delay20 />
+I can always use new friends.</message>
 	<message label="214" attrib="00 00 00 00 00 00 00 00"><anim id="Sneezing" target="actor" targetSpec="" />ACHOO!<delay frames="60" /> <anim id="Hesitate" target="actor" targetSpec="" />Sorry<delay20 /><tag a="110" b="0" />cold.<delay40 />
 I'm <tag a="110" b="10" />.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />You're <tag a="110" b="3" />, right?<delay40 />
 <anim id="FaintSmile" target="actor" targetSpec="" />Nice meeting you,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Someone from here convinced me

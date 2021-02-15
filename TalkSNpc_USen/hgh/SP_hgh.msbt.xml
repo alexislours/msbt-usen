@@ -36,7 +36,7 @@ Which brings us to the back wall<tag a="110" b="0" />
 <colour id="65535" />brought in by our customers.
 <anim id="Love" target="actor" targetSpec="" />We'd LOVE to display your designs,
 of course.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />And if you want any of
-these designs<tag a="110" b="0" /><anim id="HappyFlower" target="actor" targetSpec="" />their yours for free!
+these designs, <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />they're yours for free!
 <anim id="EmotEnd" target="actor" targetSpec="" />Now, the last thing I want to tell you
 about is the <colour id="1" />fitting room<colour id="65535" />.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />It's on the
 right side of the shop in the back.
@@ -47,8 +47,60 @@ day,<anim id="Smiling" target="actor" targetSpec="" /> including all the color v
 <colour id="1" />fitting room<colour id="65535" /> is also the place to
 check out items we couldn't put out.
 <anim id="FaintSmile" target="actor" targetSpec="" />Yeah, the <colour id="1" />fitting room <colour id="65535" />is really great.<delay frames="40" />
-<anim id="Nodding" target="actor" targetSpec="" />And it's a great way to see how
+<anim id="Nodding" target="actor" targetSpec="" />And it's a terrific way to see how
 an outfit is coming together.</message>
+	<message label="006_01_02" attrib="00 00 00 00">Here, <anim id="Greeting" target="actor" targetSpec="" />let me give you a quick
+tour of our shop<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />OK, so<tag a="110" b="0" />when you first walk in,<delay8 />
+you'll find our <colour id="1" />recommended items<colour id="65535" />
+right there, front and center.
+We change these up every single day.<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />You know, <delay8 />to keep things fresh!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Then, over on the left, you'll find our
+<colour id="1" />mannequins<colour id="65535" />. <delay20 />They're dressed up in
+whatever seasonal outfits we're into.
+<anim id="Nodding" target="actor" targetSpec="" />We change 'em up from time to time
+<delay8 />rather than daily. <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />Still, we hope
+you'll be inspired!
+<anim id="HappyDance" target="actor" targetSpec="" />And of course,<delay8 /> if you see something
+on the mannequins you love, you're
+more than welcome to buy it.
+<anim id="EmotEnd" target="actor" targetSpec="" />Which brings us to the back wall<tag a="110" b="0" />
+<anim id="Greeting" target="actor" targetSpec="" />Here you'll find <colour id="1" />custom designs
+<colour id="65535" />brought in by our customers.
+<anim id="Love" target="actor" targetSpec="" />We'd <delay8 />LOVE<delay8 /> to display your designs,
+of course.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />And if you want any of
+these designs, <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />they're yours for free!
+<anim id="Explain" target="actor" targetSpec="" />Speaking of custom designs,<delay8 /> next
+to the wall displays you'll find our
+<colour id="1" />Custom Designs Portal<colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" />
+You can use that kiosk to order
+designs from creators all over the
+world,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />and even share your own!
+<anim id="EmotEnd" target="actor" targetSpec="" />And the last thing I want to tell you
+about is the <colour id="1" />fitting room<colour id="65535" />.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />It's on the
+right side of the shop in the back.
+<anim id="Explain" target="actor" targetSpec="" />This is where you can go to try on
+anything that's available for sale that
+day,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> including all the color variations.
+<anim id="Nodding" target="actor" targetSpec="" />Our display space is limited,<delay8 /> so the
+<colour id="1" />fitting room<colour id="65535" /> is also the place to
+check out items we couldn't put out.
+<anim id="FaintSmile" target="actor" targetSpec="" />Yeah, the <colour id="1" />fitting room <colour id="65535" />is really great.<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />And it's a terrific way to see how
+an outfit is coming together.
+<anim id="EmotEnd" target="actor" targetSpec="" />I think that's everything!<delay20 /> <anim id="Blushing" target="actor" targetSpec="" />Wow.
+<delay8 />I guess I get kind of chatty when
+I'm talking about the shop.</message>
+	<message label="006_01_03" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, <tag a="110" b="1" />!<delay20 /> Hi!<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />There's
+something new in the shop
+I think you'll be interested in.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />We installed a new kiosk next to the
+custom-design display area. <delay20 />See it?<delay frames="40" />
+<anim id="HappyDance" target="actor" targetSpec="" />It's a <colour id="1" />Custom Designs Portal<colour id="65535" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You can use it to order custom
+designs from creators all over the
+world,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />or even share your own!
+<anim id="EmotEnd" target="actor" targetSpec="" />Customers with internet access and
+a paid <colour id="1" />Nintendo Switch Online<colour id="65535" />
+membership can use it.
+<anim id="BigSmile" target="actor" targetSpec="" />If you're curious,<delay8 /> check it out!<delay frames="45" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
 	<message label="006_02" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />We're open every day from 9 AM to
 9 PM.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />I hope I'll be seeing you
 in here lots.</message>
@@ -59,30 +111,19 @@ here: <delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />yo
 back when you've fixed that.</message>
 	<message label="010" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oooooh! <delay20 />Um,<delay20 /> looks like you're a little
 short of Bells<tag a="110" b="0" /></message>
-	<message label="011" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Great!<10_4 /> That'll be <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="65535" />.</message>
+	<message label="011" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Great!<delay frames="40" /> That'll be <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="65535" />.</message>
 	<message label="012" attrib="00 00 00 00">All done? <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Nothing caught your eye?</message>
 	<message label="013" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hello there!</message>
 	<message label="014" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks so much!<delay20 /> I'll just take that
 <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tailors ticket<colour id="65535" /> off your hands<tag a="110" b="0" /><pageBreak />I hope you enjoy your new
 <tag a="125" b="0" arg="0x0" />!</message>
-	<message label="021_01" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa!<delay20 /> <anim id="Blushing" target="actor" targetSpec="" />Sometimes, when I start
-talking about the shop, I just go
-on and on.
-<anim id="Smiling" target="actor" targetSpec="" />Anyway, were you interested in
-something from the custom-design
-space?</message>
-	<message label="021_02" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa!<delay20 /> <anim id="Blushing" target="actor" targetSpec="" />I guess I get kind of chatty
-when I talk about the shop.<pageBreak />Anyway, <anim id="FaintSmile" target="actor" targetSpec="" />it looked like you were
-interested in what's behind the
-curtain<tag a="110" b="0" /></message>
-	<message label="021_03" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> <anim id="Blushing" target="actor" targetSpec="" />I guess I get kind of chatty
-when I talk about the shop.<pageBreak />Sorry, <anim id="QuestionMark" target="actor" targetSpec="" />were you interested in
-something that mannequin is
-wearing?</message>
-	<message label="021_04" attrib="00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Eh<tag a="110" b="0" /><delay8 />I guess I get kind of chatty
-when I talk about the shop.<delay frames="40" />
-<anim id="Smiling" target="actor" targetSpec="" />Were you interested in this item?</message>
-	<message label="032" attrib="02 00 00 00">Oh, <tag a="125" b="0" arg="0x0" />?
+	<message label="021_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Were you interested in something
+from the custom-design space?</message>
+	<message label="021_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It looked like you were interested
+in what's behind the curtain<tag a="110" b="0" /></message>
+	<message label="021_03" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Were you interested in that display?</message>
+	<message label="021_04" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Were you interested in this item?</message>
+	<message label="032" attrib="02 00 00 00"><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?
 That's <tag a="90" b="26" arg="0x0" />.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />
 Interested?</message>
 	<message label="032_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy!</message>
@@ -98,9 +139,9 @@ was designed by my sister,
 	<message label="055" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, looks like you've got a
 <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tailors ticket<colour id="65535" />!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> You can use that
 for anything up to <tag a="90" b="21" arg="0x1" />.</message>
-	<message label="056" attrib="04 00 00 00">That <tag a="125" b="0" arg="0x0" /> is
-<tag a="90" b="21" arg="0x0" />, <delay8 />so you can use a
-ticket for it.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Do you want it?</message>
+	<message label="056" attrib="04 00 00 00">It's <tag a="90" b="21" arg="0x0" />—or a tailors ticket—
+for <tag a="125" b="0" arg="0x0" />.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Interested?</message>
 	<message label="056_a" attrib="00 00 00 00">Use a ticket.</message>
 	<message label="056_b" attrib="00 00 00 00">Pay with Bells.</message>
 	<message label="056_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I changed my mind.</message>

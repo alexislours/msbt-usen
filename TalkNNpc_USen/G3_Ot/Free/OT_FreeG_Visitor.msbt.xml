@@ -5,7 +5,7 @@ our <tag a="110" b="8" /> fruit!</message>
 	<message label="001_a" attrib="04 00 00 00 00 00 00 00">I already have.</message>
 	<message label="001_b" attrib="05 00 00 00 00 00 00 00">What do you mean?</message>
 	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
-	<message label="003" attrib="09 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x10 0x11 0xffff 0xffff" /></message>
+	<message label="003" attrib="09 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x1 0x10 0x11 0x12" /></message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I love how adventurous you are,<delay8 />
 <tag a="110" b="3" />!<delay40 /> <anim id="Smiling" target="actor" targetSpec="" />It's just like you
 to jump in and try our local <tag a="110" b="7" arg="0xcd01" />.<pageBreak /><anim id="Love" target="actor" targetSpec="" />I tell you, <delay8 />I'm positively in love with
@@ -38,10 +38,11 @@ in the midst of building one here.
 <anim id="EmotEnd" target="actor" targetSpec="" />Although <colour id="3" /><delay8 />Blathers<colour id="65535" />'s "research
 room" is still a tent,<delay8 /> <anim id="WrySmile" target="actor" targetSpec="" />so I'm not
 getting my hopes up.</message>
-	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x15 0x16 0x17 0x19" /></message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x15 0x16 0x17 0x18 0x19" /></message>
 	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
 	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
 	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
+	<message label="024" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1f03 0x1900 0xcd00" /></message>
 	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />There's a <colour id="1" />museum <colour id="65535" />on our island,
 you know.<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />Each room has a unique
 theme,<delay8 /> so you never get bored.
@@ -60,61 +61,60 @@ our island's <colour id="1" />museum <colour id="65535" />is<anim id="Love" targ
 fascinating!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I tell you,<delay8 /> fossils have such a
 mysterious allure. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />They're really
 something to behold.</message>
-	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0x66 0x6a" /></message>
-	<message label="102" attrib="00 00 03 00 00 00 00 00">Say, <delay8 /><tag a="110" b="3" />,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />have you
-grown accustomed to life on your
-new island?</message>
-	<message label="102_a" attrib="67 00 00 00 00 00 00 00">Yep, I'm doing great!</message>
-	<message label="102_b" attrib="68 00 00 00 00 00 00 00">I'm getting there.</message>
-	<message label="102_c" attrib="69 00 00 00 00 00 00 00">Eh...</message>
-	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh,<delay8 /> that's wonderful!<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />I confess,<delay8 />
-I was worried about how you'd
-fare after moving away.
-<anim id="EmotEnd" target="actor" targetSpec="" />Although<delay8 /> hearing that you're so
-happy without us<tag a="110" b="0" /><anim id="Hesitate" target="actor" targetSpec="" />it makes me a
-wee bit sad. <delay20 />Silly,<delay8 /> I know.
-<anim id="EmotEnd" target="actor" targetSpec="" />Anyhoo, <delay8 /><anim id="Greeting" target="actor" targetSpec="" />please visit anytime.<delay20 />
-Everyone would be thrilled to see
-you.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Me included, <delay8 />of course!</message>
-	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh,<delay8 /> is that so?<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />Well,<delay8 /> these things do
-take time. <delay8 />But you are resilient and
-will be accustomed to it soon!
-<anim id="Nodding" target="actor" targetSpec="" />Yes, change is hard.<delay20 /> I tell you,<delay8 />
-so much has happened on this
-island,<delay8 /> <anim id="OhGeez" target="actor" targetSpec="" />I know exactly how you feel.</message>
-	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh dear!<delay8 /> Are you alright,
-<tag a="110" b="3" />?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />When I saw you off, <delay8 />I felt like a
-mother bird watching over her
-chick as it left the nest<tag a="110" b="0" />
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xca 0xce" /></message>
+	<message label="202" attrib="00 00 03 00 00 00 00 00">So, <tag a="110" b="3" />, tell me,<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />
+have you gotten used to not having
+me on the island anymore?</message>
+	<message label="202_a" attrib="cb 00 00 00 00 00 00 00">Yep. I have!</message>
+	<message label="202_b" attrib="cc 00 00 00 00 00 00 00">No. Not yet.</message>
+	<message label="202_c" attrib="cd 00 00 00 00 00 00 00">Eh...</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Oh,<delay8 /> well,<delay8 /> I suppose that's<tag a="110" b="0" />good<tag a="110" b="0" />
+to hear, <tag a="110" b="6" />.<pageBreak />I mean,<delay8 /> ever since I moved here, <delay8 /><anim id="OhGeez" target="actor" targetSpec="" />I've
+been concerned about how you were
+dealing with my departure<tag a="110" b="0" />
+<anim id="Greeting" target="actor" targetSpec="" />I want you to be happy, of course.<delay20 />
+But to hear you say it so frankly<tag a="110" b="0" /><delay8 /><anim id="Sighing" target="actor" targetSpec="" />
+it stings a bit.
+<anim id="FaintSmile" target="actor" targetSpec="" />Anyhoo, enough of that. <delay20 />Please come
+visit again anytime!<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />It's wonderful to
+see old friends now and then.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh my,<delay8 /> is that so, <tag a="110" b="6" />?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Well,<delay8 /> these things do take time.
+<delay20 /><anim id="Nodding" target="actor" targetSpec="" />But you are resilient and will be
+accustomed to it soon, I'm sure.
+<anim id="Aha" target="actor" targetSpec="" />I know!<delay frames="40" /> Let's spend LOTS of time
+talking today <delay8 /><anim id="SmugFace" target="actor" targetSpec="" />so you get a full and
+fabulous dose of moi, darling.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh dear!<delay8 /> Are you alright,
+<tag a="110" b="6" />?<pageBreak /><anim id="Confused" target="actor" targetSpec="" />I<tag a="110" b="0" /><delay20 />I thought for sure you'd be fine
+when I departed the island. <delay20 /><anim id="Worried" target="actor" targetSpec="" />Ah,
+but change can be very hard.
 <anim id="Crying" target="actor" targetSpec="" />You poor dear!<delay20 /> If you're unhappy,<delay8 />
-it's OK to cry in front of me!<anim id="Worried" target="actor" targetSpec="" /></message>
-	<message label="106" attrib="00 00 03 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" /> darling, <delay8 />now that
-you've left the island and seen the
-world,<delay8 /> I have a question for you<tag a="110" b="0" />
-<anim id="Explain" target="actor" targetSpec="" />From your point of view<delay8 />—and be
-completely honest—<delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />what do you
+it's OK to cry in front of me!<delay frames="40" /><anim id="Worried" target="actor" targetSpec="" /></message>
+	<message label="206" attrib="00 00 03 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" /> darling, <delay8 />I have
+an itsy-bitsy question for you<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />From your point of view<delay8 />—and be
+completely honest—<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what do you
 think of this island?</message>
-	<message label="106_a" attrib="6b 00 00 00 00 00 00 00">It's great!</message>
-	<message label="106_b" attrib="6c 00 00 00 00 00 00 00">It's got potential.</message>
-	<message label="106_c" attrib="6d 00 00 00 00 00 00 00">Eh...</message>
-	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />So, <delay8 />you think <tag a="110" b="8" /> is
-just as respectable as the other
-islands, then!
-<anim id="HappyDance" target="actor" targetSpec="" />Well,<delay8 /> <tag a="110" b="3" />, <delay20 />that is
-good to hear. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />I'm quite proud
-of this little island, you know.</message>
-	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />So,<delay8 /> what you're saying is that there's
-room for improvement?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Well,<delay8 /> that's
-just fine because we have potential!
-<anim id="EmotEnd" target="actor" targetSpec="" />With the help of <tag a="110" b="16" />,
-<anim id="SmugFace" target="actor" targetSpec="" />we will all simply have to work
-harder to make our island better!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, <delay8 />you must come
-again to see how <tag a="110" b="8" />
-fares. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />We might surprise you!</message>
-	<message label="109" attrib="00 00 00 00 00 00 00 00"><tag a="110" b="0" /><anim id="Confused" target="actor" targetSpec="" />It—<delay8 />it isn't your cup of tea,<delay8 /> eh?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I do realize this isn't the same
-<tag a="110" b="8" /> it was when you
-were here.
-<anim id="Explain" target="actor" targetSpec="" />But day by day and hour by hour,
-time moves on. <delay frames="40" /><anim id="Negative" target="actor" targetSpec="" />There's simply no
-turning back the clock, <tag a="110" b="6" />.</message>
+	<message label="206_a" attrib="cf 00 00 00 00 00 00 00">It's great!</message>
+	<message label="206_b" attrib="d0 00 00 00 00 00 00 00">It has potential.</message>
+	<message label="206_c" attrib="d1 00 00 00 00 00 00 00">Eh...</message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />So you agree that <tag a="110" b="8" />
+is just as lovely as my
+old island, then!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak /><anim id="Clapping" target="actor" targetSpec="" />Well,<delay8 /> that is wonderful to hear!<delay frames="40" />
+<anim id="HappyDance" target="actor" targetSpec="" />Now I can be sure it was the right
+decision to move here, <tag a="110" b="6" />.</message>
+	<message label="208" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />So,<delay8 /> what you're saying is<tag a="110" b="0" />there's
+room for improvement?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Well,<delay8 /> that's just fine, because we
+have potential and that's what
+really matters, <tag a="110" b="6" />.
+I'll simply have to work with
+<tag a="110" b="16" /> <anim id="SmugFace" target="actor" targetSpec="" />to make this
+island the best island it can be!</message>
+	<message label="209" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />It—<delay8 />it isn't your cup of tea,<delay8 /> I take it?<delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />It's fine. You don't have to say
+anything. I can see it on your face.<pageBreak />Ah well, there's no need for us to
+agree on everything. <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />We do live on
+separate islands now.
+<anim id="Hesitate" target="actor" targetSpec="" />I suppose we'll just have to agree to
+have different opinions in this
+matter, <tag a="110" b="6" />.</message>
 </msbt>

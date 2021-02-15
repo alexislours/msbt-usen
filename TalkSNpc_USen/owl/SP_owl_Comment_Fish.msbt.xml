@@ -75,22 +75,24 @@ unknowingly bought one!<delay20 /><anim id="Laughing" target="actor" targetSpec=
 might well pop out just as far!</message>
 	<message label="Fish_02222" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Ah, the magnificent <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />killifish<colour id="65535" />! Did you
 know there are over 1,000 different
-species of <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />killifish<colour id="65535" />?<pageBreak /><anim id="Eh" target="actor" targetSpec="" /><delay20 />My goodness, what a family tree
+species?
+<anim id="Eh" target="actor" targetSpec="" /><delay20 />My goodness, what a family tree
 to keep track of!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />My own favorite <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />killifish <colour id="65535" />species are
-the <colour id="1" />mangrove<colour id="65535" />, which can live on land
-for weeks, breathing air! And<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />the <colour id="1" />mummichog<colour id="65535" />, the first fish ever
-brought to space.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I wonder if the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />killifish <colour id="65535" />you've
+the mangrove, which can live on land
+for weeks, breathing air! And<tag a="110" b="0" />
+<anim id="Aha" target="actor" targetSpec="" />the mummichog, the first fish ever
+brought to space.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I wonder if the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />killifish <colour id="65535" />you've
 brought me is related to either
-of those intrepid explorers?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I shall have to interview it once it
-has settled into its new home!</message>
+of those intrepid explorers?</message>
 	<message label="Fish_02223" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Ohoo! So you have found a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />crawfish<colour id="65535" />.<delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />
 Neither crab nor lobster, <delay frames="30" /><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="0" arg="0x100 0xcd03" />crawfish
 evolved in an interesting manner.
-<anim id="AbsentMindedness" target="actor" targetSpec="" />Beware their fearsome pinchy
-pinchers! Behold their many legs!<delay frames="40" />
-I say—it is a bit bug-like, eh wot<tag a="110" b="0" /><pageBreak /><anim id="Silent" target="actor" targetSpec="" /><size value="75" />The more I look at it,<delay frames="40" /> <anim id="Confused" target="actor" targetSpec="" />the more unsettled I feel<tag a="110" b="0" /><size value="100" />
-Let's tuck it away and never speak
-of it again, shall we?</message>
+<anim id="Serious" target="actor" targetSpec="" />Beware their fearsome pinchy
+pinchers!<delay20 /> Behold their many legs!<delay20 />
+<anim id="Shocked" target="actor" targetSpec="" />I say! It is a bit bug-like, eh wot<tag a="110" b="0" />
+<size value="75" /><anim id="Confused" target="actor" targetSpec="" />The more I look at it,<delay20 /> the more unsettled I feel<tag a="110" b="0" /><delay20 /><size value="100" />
+<anim id="Silent" target="actor" targetSpec="" />Let's be done with this and never
+speak of it again, shall we?</message>
 	<message label="Fish_02224" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />The <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />soft-shelled turtle<colour id="65535" /><delay frames="30" /><anim id="Nodding" target="actor" targetSpec="" /> is not one to
 shy away from biting when provoked.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />In addition to its powerful bite,<delay20 /> this
 little critter has the ability to breathe both above and below water!<delay frames="40" />
@@ -205,15 +207,15 @@ make sense of the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />cherry
 fickle fashion sense.</message>
 	<message label="Fish_02239" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />The <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />char <colour id="65535" />is one of the bigger fish
 around, and, <delay20 />in the world of fish,<delay20 />
-<anim id="SmugFace" target="actor" targetSpec="" />that's a bit of an accomplishment!
+<anim id="SmugFace" target="actor" targetSpec="" />that's quite an accomplishment!
 <anim id="Nodding" target="actor" targetSpec="" />They are territorial predators, and
 therefore must constantly defend
 their "turf" from others.
 <anim id="Assent" target="actor" targetSpec="" />So when you see a large <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />char <colour id="65535" />like
 this one, it is likely a skilled fighter
-and veteran of many battles!
-<anim id="Worried" target="actor" targetSpec="" /><size value="75" />I don't suppose you could transfer it to the
-museum tank for me, could you?<size value="100" /></message>
+and veteran of many battles.
+<anim id="Confused" target="actor" targetSpec="" /><size value="75" />My feathers! I hope it never has cause to go
+to battle with me!<size value="100" /></message>
 	<message label="Fish_02241" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />The <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />stringfish<colour id="65535" /><delay frames="30" /> grows slowly, but also
 lives quite a long time for a fish,<delay20 />
 with up to 15 years being typical.
@@ -290,14 +292,19 @@ about our peaceful waters,
 just waiting to strike.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Well, never fear—<delay20 />I shall keep THIS
 one under the strictest lock and key,
 with<anim id="Negative" target="actor" targetSpec="" /> nary a bathroom break allowed!</message>
-	<message label="Fish_02250" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It would seem your angling expertise
+	<message label="Fish_02250" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />It would seem your angling expertise
 knows no bounds!<pageBreak />This beauteous <colour id="1" /><tag a="50" b="0" arg="0x200 0xcd03" />arowana<colour id="65535" /><delay frames="30" /><anim id="Nodding" target="actor" targetSpec="" /> fetches a
-pretty Bell, though I'd venture to say that its true price is beyond measure.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />The <colour id="1" /><tag a="50" b="0" arg="0x200 0xcd03" />arowana<colour id="65535" /> has been on the
+pretty Bell, though I'd venture to say
+that its true price is beyond measure.
+<anim id="Explain" target="actor" targetSpec="" />The <colour id="1" /><tag a="50" b="0" arg="0x200 0xcd03" />arowana<colour id="65535" /> is an excellent jumper.<delay frames="40" />
+Some have been seen<delay8 /><anim id="Shocked" target="actor" targetSpec="" /> leaping six
+feet out of the water, eh wot!
+<anim id="Thinking" target="actor" targetSpec="" />Alas, it has also been on the
 endangered-species list for
-some time.<pageBreak />It's up to us to remain educated and
-do all we can to help preserve such
-magnificent creatures.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Not to worry, old bean. This lovely
-fishy friend is in good wings here!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />On behalf of the museum,<delay frames="30" /> <anim id="Silent" target="actor" targetSpec="" />I thank you warmly for your unending generosity!</message>
+some time.
+<anim id="FaintSmile" target="actor" targetSpec="" />It's up to us to do all we can to help
+preserve such magnificent creatures
+for the years to come.</message>
 	<message label="Fish_02251" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Woo-hoo! So shiny! This massive
 fish's name, <anim id="FaintSmile" target="actor" targetSpec="" /><colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />dorado<colour id="65535" />, means "golden"
 in Spanish—a fitting title.<delay20 />
@@ -578,7 +585,7 @@ venomous.
 	<message label="Fish_02278" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />The <colour id="1" /><tag a="50" b="0" arg="0x200 0xcd03" />ocean sunfish<colour id="65535" /> is a large relative
 of the <tag a="50" b="0" arg="0x100 0xcd03" />blowfish with an unusual
 shape,<delay20 /> like a fish head with a tail.
-<anim id="Sleep" target="actor" targetSpec="" />They are a fairly relaxed species,<delay20 />
+<anim id="Sleepy" target="actor" targetSpec="" />They are a fairly relaxed species,<delay20 />
 often content to ride where the
 currents take them.
 <anim id="EmotEnd" target="actor" targetSpec="" />This is fortunate as, <anim id="Laughing" target="actor" targetSpec="" />otherwise,

@@ -3,14 +3,14 @@
 things, <tag a="110" b="6" />?<anim id="Eh" target="subNpc" targetSpec="" /></message>
 	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Things are<tag a="110" b="0" />good?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> I have no
 complaints, at least.</message>
-	<message label="003" attrib="00 00 00 00 00 00 00 00">Talk to me. <delay20 />You being trendo-licious?<delay20 />
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" />Talk to me. <delay20 />You being trendo-licious?<delay20 />
 You staying fash-tastic?<delay20 /> <anim id="Nodding" target="actor" targetSpec="" /><delay20 />It can be
-tricky this time of year, huh?<20_2 arg="4" /></message>
-	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Sorry, <tag a="110" b="31" arg="0xcd00" />.<delay40 /> I didn't
+tricky this time of year, huh?</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Negative" target="actor" targetSpec="" />Sorry, <tag a="110" b="31" arg="0xcd00" />.<delay40 /> I didn't
 understand at least <anim id="Worried" target="actor" targetSpec="" />half of
 what you just said<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
-	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I was just trying to make small talk!<20_2 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" /><20_2 arg="4" /></message>
-	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oh!<delay frames="60" /> I've heard of that!<delay40 /> OK,
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="OhGeez" target="actor" targetSpec="" />I was just trying to make small talk!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="IdeaBulb" target="actor" targetSpec="" />Oh!<delay frames="60" /> I've heard of that!<delay40 /> OK,
 small talk<tag a="110" b="0" /> Um, I know!
 <anim id="Pardon" target="actor" targetSpec="" />Cockroaches!<anim id="TakenAback" target="mainNpc" targetSpec="" />
 <anim id="EmotEnd" target="mainNpc" targetSpec="" /><20_2 arg="8" /><anim id="Explain" target="actor" targetSpec="" />Nobody likes cockroaches.<20_3 arg="4" /><delay20 />
@@ -28,7 +28,7 @@ deserve our respect!
 <anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Restless" target="actor" targetSpec="" />But at the end of the day, I can't help
 but dislike what I dislike<tag a="110" b="0" /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" /><anim id="Worried" target="mainNpc" targetSpec="" />What do you think?<delay frames="60" /> Did I do the
 small-talk thing?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
-	<message label="007" attrib="00 00 00 00 00 00 00 00">Oh!<delay20 /> I've heard of small talk!<delay40 /> OK<tag a="110" b="0" />what to small talk about?<delay20 /> Um<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" />
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" />Oh!<delay20 /> I've heard of small talk!<delay40 /> OK<tag a="110" b="0" />what to small talk about?<delay20 /> Um<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" />
 I know!<20_2 arg="8" /><20_3 arg="4" /> Time travel!<pageBreak /><20_2 arg="6" /><delay20 /><anim id="Nodding" target="player" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" />Can you imagine<delay8 /><20_2 arg="7" /><anim id="Smiling" target="actor" targetSpec="" /><20_2 arg="5" /> meeting dinosaurs,
 or <20_3 arg="8" />even the future you?<pageBreak />But then I wonder<tag a="110" b="0" /><anim id="Eh" target="player" targetSpec="" /><anim id="Thinking" target="actor" targetSpec="" />does a time
 outside of "now" <delay8 />truly exist?<delay40 />
@@ -37,7 +37,7 @@ the more the mystery deepens!<20_3 arg="7" /><delay20 />
 <anim id="Pardon" target="actor" targetSpec="" />And yet<anim id="TakenAback" target="mainNpc" targetSpec="" /> I continue to dream!
 <anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Blushing" target="actor" targetSpec="" />Anyway<tag a="110" b="0" /><20_2 arg="3" /><delay frames="60" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><delay frames="60" />
 Did I do the small-talk thing?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
-	<message label="008" attrib="00 00 00 00 00 00 00 00">Small talk? <delay20 />Hmmm. Well<tag a="110" b="0" /><anim id="IdeaBulb" target="subNpc" targetSpec="" />I've been
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" />Small talk? <delay20 />Hmmm. Well<tag a="110" b="0" /><anim id="IdeaBulb" target="subNpc" targetSpec="" />I've been
 <20_2 arg="8" />thinking <anim id="EmotEnd" target="actor" targetSpec="" />a lot about <anim id="Greeting" target="actor" targetSpec="" />mermaids!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Most folks say mermaids are only
 manatees mistaken for<delay8 /> <anim id="Grin" target="actor" targetSpec="" /><20_2 arg="3" /><20_2 arg="6" /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="Nodding" target="player" targetSpec="" />fantastic
 creatures, <delay20 /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="player" targetSpec="" /><20_2 arg="4" /><20_2 arg="5" /><delay8 />but I believe they exist!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I'd really like to meet one someday.

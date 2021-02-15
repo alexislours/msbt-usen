@@ -56,7 +56,7 @@ returned,<delay20 /> <tag a="110" b="5" />.</message>
 	<message label="104" attrib="00 00 02 00 00 00 00 00">How did <anim id="QuestionMark" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> react?</message>
 	<message label="104_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Well, I, uh...</message>
 	<message label="104_b" attrib="00 00 00 00 00 00 00 00">Um...I don't remember.</message>
-	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm sure they must have been
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm sure <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x68 0x65 0x6 0x73 0x68 0x65 0x0" /> must have been
 relieved.<delay frames="30" /> <anim id="Nodding" target="actor" targetSpec="" />I know I'm glad<delay20 /> when
 I get back something I'd lost.</message>
 	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh no<delay8 /><tag a="110" b="0" /> You really returned it

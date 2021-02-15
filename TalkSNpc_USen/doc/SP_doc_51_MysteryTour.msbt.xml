@@ -34,9 +34,12 @@ require assistance?<anim id="EmotEnd" target="actor" targetSpec="" /> <delay20 /
 	<message label="002_a" attrib="00 00 00 00">I'm ready to go home.</message>
 	<message label="002_b" attrib="00 00 00 00">I need tools.</message>
 	<message label="002_c" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />Never mind.</message>
-	<message label="003" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You're ready to punt pontoons and
-fly Lady <capitaliseNextWord /><tag a="135" b="2" arg="0xcd00" /> here back
-to <tag a="110" b="34" />?</message>
+	<message label="003" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You ready to punt pontoons and fly
+Soaring <capitaliseNextWord /><tag a="135" b="2" arg="0xcd00" /> here back to
+<tag a="110" b="34" />?<delay20 /> You positive?
+<anim id="Angry" target="actor" targetSpec="" />Be VERY positive, 'cause I wouldn't
+want you leaving anything behind.<delay20 />
+So, again<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" /> You ready?</message>
 	<message label="003_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Yep!</message>
 	<message label="003_b" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />No, wait<tag a="110" b="0" /></message>
 	<message label="004" attrib="00 00 00 00"><snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />Roger!<delay frames="40" /> Lifting off November Oscar

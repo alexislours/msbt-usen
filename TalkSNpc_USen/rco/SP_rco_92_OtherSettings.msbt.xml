@@ -4,6 +4,11 @@ This is where I take on important
 requests related to save data.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />The requests I accept here are very
 serious ones, so children should get
 help from a parent or guardian.<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00">Hello, <tag a="110" b="1" />.<10_4 />
+This is where I take on important
+requests related to settings.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />The requests I accept here are very
+serious ones, so<delay20 /> children should get
+help from a parent or guardian.<anim id="FaintSmile" target="actor" targetSpec="" /></message>
 	<message label="010_01" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Now, <delay20 />with that said<tag a="110" b="0" /></message>
 	<message label="010_02" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />And that should cover everything.<10_4 />
 Yes, yes, as I said before<tag a="110" b="0" /></message>
@@ -17,6 +22,13 @@ help you?</message>
 	<message label="012_a" attrib="00 00 00 00">Delete resident registration.</message>
 	<message label="012_b" attrib="00 00 00 00">Listen to explanation.</message>
 	<message label="012_c" attrib="00 00 00 00">I'm done talking.</message>
+	<message label="020" attrib="04 00 00 00">Now, what settings would you like to
+talk about today?</message>
+	<message label="020_a" attrib="00 00 00 00">Save data settings.</message>
+	<message label="020_b" attrib="00 00 00 00">NookLink settings.</message>
+	<message label="020_c" attrib="00 00 00 00">Nothing right now.</message>
+	<message label="021" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Save data settings, hm?<delay20 />
+Of course! Of course!</message>
 	<message label="051" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes, I understand!<10_4 /> In that case,
 let's return you to the title screen.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" /><delay8 />I hope you continue to enjoy life on
 <tag a="110" b="9" />!</message>
@@ -40,7 +52,7 @@ any decisions.</message>
 about deleting their resident
 registration.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />In other words, <delay20 />I'm talking about
 <colour id="1" />deleting your player save data<colour id="65535" />
-for <colour id="1" />Animal Crossing: New Horizons<colour id="65535" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You can't delete just the save data
+for <colour id="2" />Animal Crossing: New Horizons<colour id="65535" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You can't delete just the save data
 for a player from System Settings on
 the Nintendo Switch HOME Menu.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So, <delay20 />if you want to delete information
 about you living on this island,<delay20 />
@@ -70,9 +82,9 @@ registration<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" 
 	<message label="064_01" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Usually, residents like you can chat
 with me here about deleting
 resident registrations.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />In other words, <delay20 />I'm talking about
-<colour id="1" />deleting player save data <colour id="65535" />for <colour id="1" />Animal
-Crossing: New Horizons<colour id="65535" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You can't delete just the player save
-data from System Settings on
+<colour id="1" />deleting player save data <colour id="65535" />for
+<colour id="2" />Animal Crossing: New Horizons<colour id="65535" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You can't delete only one player's
+save data from System Settings on
 the Nintendo Switch HOME Menu.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So, <delay20 />if you want to delete information
 about a player living on this island,<delay20 />
 please talk to me here instead.</message>
@@ -97,7 +109,7 @@ Resident Representative<tag a="110" b="0" /><pageBreak /><anim id="Serious" targ
 data for the game!<pageBreak />To do this, go to the Nintendo Switch
 HOME Menu and select <colour id="1" />System
 Settings<colour id="65535" />.<pageBreak />Once there, select <colour id="1" />Data Management<colour id="65535" />,
-then look for <colour id="1" />Delete Save Data<colour id="65535" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Select <colour id="1" />Animal Crossing: New
+then look for <colour id="1" />Delete Save Data<colour id="65535" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Select <colour id="2" />Animal Crossing: New
 Horizons<colour id="65535" />. After that, choose <colour id="1" />Delete
 All Save Data for This Software<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You should know, though, that this
 method can't be used to just delete a
@@ -109,7 +121,7 @@ Resident Representative's data<tag a="110" b="0" /><pageBreak /><anim id="Seriou
 data for the game!<pageBreak />To do this, go to the Nintendo Switch
 HOME Menu and select <colour id="1" />System
 Settings<colour id="65535" />.<pageBreak />Once there, select <colour id="1" />Data Management<colour id="65535" />,
-then look for <colour id="1" />Delete Save Data<colour id="65535" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Select <colour id="1" />Animal Crossing: New
+then look for <colour id="1" />Delete Save Data<colour id="65535" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Select <colour id="2" />Animal Crossing: New
 Horizons<colour id="65535" />. After that, choose <colour id="1" />Delete
 All Save Data for This Software<colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You should know, though, that this
 method can't be used to just delete a

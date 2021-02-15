@@ -83,8 +83,8 @@ What do you think?<20_2 arg="6" /></message>
 song that gets stuck in your head
 forever when you hear it once.</message>
 	<message label="123" attrib="00 00 03 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Uh<tag a="110" b="0" />you know.<delay20 /><delay40 /><anim id="Blushing" target="actor" targetSpec="" /> In a good way.<10_4 />
-<20_2 arg="8" /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, what do you
-think, hmm?<20_2 arg="6" /></message>
+<20_2 arg="8" /><20_2 arg="6" /><tag a="50" b="3" /><tag a="110" b="3" />, what do you
+think, hmm?<anim id="QuestionMark" target="actor" targetSpec="" /></message>
 	<message label="123_a" attrib="00 00 00 00 00 00 00 00">A sad breakup song!</message>
 	<message label="123_b" attrib="00 00 00 00 00 00 00 00">A love song, maybe?</message>
 	<message label="123_c" attrib="00 00 00 00 00 00 00 00">What he said.</message>

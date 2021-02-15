@@ -412,10 +412,12 @@ moved here months ago, so<tag a="110" b="0" />
 haven't seen them since.<pageBreak />Hey, <delay20 /><anim id="Shaking" target="actor" targetSpec="" />I'll tell you more about it when
 I'm feeling less<tag a="110" b="0" /><delay20 />icky. <delay20 />OK?</message>
 	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, it's <tag a="110" b="3" />.<delay20 /><anim id="Hesitate" target="actor" targetSpec="" /> Right?<delay20 />
-<anim id="FaintSmile" target="actor" targetSpec="" />I'm sure you remember me⁠<tag a="110" b="0" /><delay20 /><pageBreak /><tag a="110" b="10" />. <delay20 /><anim id="WrySmile" target="actor" targetSpec="" />I mean, you went
-to all that trouble at the <colour id="1" />campsite
-<colour id="65535" />to convince me to move here.
-Well,<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> here I am.<delay20 /> I moved in today!<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />They call me <tag a="110" b="10" />.<delay20 /><pageBreak /><anim id="Grin" target="actor" targetSpec="" />"They" being <tag a="115" b="0" arg="0xcd00" />.<delay20 />
+<anim id="Explain" target="actor" targetSpec="" />We met at the <colour id="1" />campsite<colour id="65535" /><delay20 /> a while ago
+and before I knew it I was moving.
+<anim id="EmotEnd" target="actor" targetSpec="" />So as of today I'm a resident of
+<tag a="110" b="9" />!<delay40 /> <anim id="Thinking" target="actor" targetSpec="" />Huh, <delay20 />I was
+expecting a bigger reaction.
 <anim id="Blushing" target="actor" targetSpec="" />It's OK. <delay20 />You probably need a minute
 to soak in all the excitement.</message>
 	<message label="302" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
@@ -454,13 +456,11 @@ personality, <tag a="110" b="5" />!
 <anim id="WrySmile" target="actor" targetSpec="" />Let's hope they were right!<delay20 /><anim id="Hello" target="actor" targetSpec="" /> Glad to
 have met you, <tag a="110" b="3" />.</message>
 	<message label="304" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Wait! <delay20 />Don't tell me<tag a="110" b="0" /><delay20 />
-<anim id="Thinking" target="actor" targetSpec="" />It's <tag a="110" b="3" />, right?<10_4 />
-<anim id="WrySmile" target="actor" targetSpec="" />You looked like a <tag a="110" b="3" />.
-<anim id="Shaking" target="actor" targetSpec="" />You can call me <tag a="110" b="10" />.<delay20 />
+<anim id="Thinking" target="actor" targetSpec="" />It's <tag a="110" b="3" />, right?<pageBreak /><anim id="Shaking" target="actor" targetSpec="" />You can call me <tag a="110" b="10" />.<delay20 />
 I met <tag a="115" b="0" arg="0xcd00" /> when I was
 here visiting the <colour id="1" />campsite<colour id="65535" />.
 <anim id="AbsentMindedness" target="actor" targetSpec="" />They mentioned this island could use
-a <tag a="110" b="15" /> with style, wit, <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />and
+<tag a="50" b="2" /><tag a="110" b="15" /> with style, wit, <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />and
 precise business acumen.
 I'm pretty sure I'm the only one of
 tho—<anim id="Frantic" target="actor" targetSpec="" /> <delay20 />Thohhh—<delay20 /> Thahh—<delay20 /><pageBreak /><10_10 /><anim id="Sneezing" target="actor" targetSpec="" /><size value="150" />THAAA...CHOO!<size value="100" /><10_9 /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />As you may have noticed, I've

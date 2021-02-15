@@ -65,9 +65,9 @@ sourpuss,<delay20 /> <tag a="110" b="31" arg="0xcd00" />?</message>
 	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Sorry if I upset you.<delay40 /> <anim id="Hesitate" target="actor" targetSpec="" />I know you're
 sweet<delay20 /> when you <anim id="FaintSmile" target="actor" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />set your mind to it,<delay20 />
 <tag a="110" b="31" arg="0xcd01" />.</message>
-	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Maybe I should talk more like you<delay8 /><tag a="110" b="0" />
-When I'm jawin' with someone,<delay20 /> <anim id="Grin" target="actor" targetSpec="" />try
-to throw in a <tag a="110" b="5" /><anim id="Aha" target="mainNpc" targetSpec="" /> or two?
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Maybe I should talk more like you<tag a="110" b="0" /><delay20 />
+When I'm jawin' with someone,<delay20 /> just
+say <tag a="110" b="5" /> now and then?<anim id="Aha" target="mainNpc" targetSpec="" />
 <anim id="FaintSmile" target="actor" targetSpec="" />How's that sound,<anim id="Smiling" target="mainNpc" targetSpec="" /><delay20 /> <tag a="110" b="5" />?</message>
 	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />That really does change the way you
 sound!<delay40 /> <anim id="FaintSmile" target="subNpc" targetSpec="" />It's so funny to hear you say

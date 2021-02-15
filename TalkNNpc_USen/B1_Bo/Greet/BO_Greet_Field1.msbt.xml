@@ -4,7 +4,7 @@
 	<message label="003" attrib="00 00 0c 01 00 04 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey there, walking buddy!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="004" attrib="00 00 0c 01 00 09 00 00"><anim id="Greeting" target="actor" targetSpec="" />It's real dark out!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="011" attrib="00 00 0c 01 00 00 00 07"><anim id="Greeting" target="actor" targetSpec="" /><delay20 />Hi!<delay20 /> It's me! <delay20 /><tag a="110" b="10" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
-	<message label="012" attrib="00 00 0c 01 00 00 00 07"><anim id="Smiling" target="actor" targetSpec="" />Yaaay! <delay20 />Are you out for a walk too?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 01 00 00 00 07"><anim id="Smiling" target="actor" targetSpec="" />Yaaay! <delay20 />Are you out for a walk?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="013" attrib="00 00 0c 01 00 00 00 07"><anim id="Smiling" target="actor" targetSpec="" />Hi! How you doing?<delay frames="40" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="021" attrib="00 00 0c 01 00 00 00 08">Hey! <anim id="Smiling" target="actor" targetSpec="" /><delay20 />It's <tag a="110" b="3" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
 	<message label="022" attrib="00 00 0c 01 00 00 00 08">Hey, <tag a="110" b="3" />!<delay frames="40" />

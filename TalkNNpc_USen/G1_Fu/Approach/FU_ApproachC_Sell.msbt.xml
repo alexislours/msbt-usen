@@ -1,22 +1,22 @@
 <msbt attribsize="8">
 	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Sorry to just spring this on you,<delay20 />
 <anim id="Hesitate" target="actor" targetSpec="" />but could I convince you<delay20 /> to buy
-<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
+my <tag a="125" b="0" arg="0x0" />?</message>
 	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Sure.</message>
 	<message label="001_b" attrib="00 00 00 00 00 00 00 00">Don't need any, sorry.</message>
 	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Is it possible you'd be willing to buy<delay20 />
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
 	<message label="002_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I guess.</message>
-	<message label="002_b" attrib="00 00 00 00 00 00 00 00">I...don't need any.</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">I'm...not interested.</message>
 	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh,<delay20 /> <tag a="110" b="3" />!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Here's the thing.<delay40 /> A new volume of
 my favorite series just came out,<delay20 />
 <anim id="Grin" target="actor" targetSpec="" />but I can't afford to buy it now<delay8 /><tag a="110" b="0" />
 <anim id="Thinking" target="actor" targetSpec="" />I thought I could sell a few things
-I don't need to earn the money,<delay20 />
-and <anim id="Nodding" target="actor" targetSpec="" />these four are what I have.
-<anim id="Hesitate" target="actor" targetSpec="" />Would you consider buying
-four things from me?<delay40 /> <anim id="Frantic" target="actor" targetSpec="" />I really
-want to read that book!</message>
+I don't need to earn some money,<delay20 />
+and <anim id="Nodding" target="actor" targetSpec="" />there are four I can part with.
+<anim id="Hesitate" target="actor" targetSpec="" />Would you consider buying my
+things?<delay40 /> <anim id="Frantic" target="actor" targetSpec="" />I really want to read that
+book, <tag a="110" b="5" />!</message>
 	<message label="003_a" attrib="00 00 00 00 00 00 00 00">Sure!</message>
 	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Sorry, can't help you.</message>
 	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh, <tag a="110" b="3" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You won't believe <anim id="Oops" target="actor" targetSpec="" />what I just
@@ -32,7 +32,7 @@ extra <tag a="125" b="0" arg="0x0" />?</message>
 just ask around,<delay20 /> <tag a="110" b="5" />.</message>
 	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />That's alright<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /> I'm sure I can find
 <anim id="FaintSmile" target="actor" targetSpec="" />somebody around here<delay20 /> who will
-want this,<delay20 /> <tag a="110" b="5" />.</message>
+be interested,<delay20 /> <tag a="110" b="5" />.</message>
 	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I understand.<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Still,<delay20 /> it was nice
 of you to spare me few moments
 of your time,<delay20 /> <tag a="110" b="5" />.</message>

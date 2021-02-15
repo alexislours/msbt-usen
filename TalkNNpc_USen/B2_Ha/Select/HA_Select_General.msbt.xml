@@ -13,9 +13,9 @@ Huh!</message>
 	<message label="002_03" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This looks like a
 nice <tag a="125" b="0" arg="0x0" />.</message>
 	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
-	<message label="003_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?<delay20 /> What's this, <tag a="110" b="5" />?</message>
+	<message label="003_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?<delay20 /> Whaddaya got, <tag a="110" b="5" />?</message>
 	<message label="003_02" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Wha?<delay20 /> For me, <tag a="110" b="5" />?</message>
-	<message label="003_03" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Huh?<delay20 /> Is that for me?</message>
+	<message label="003_03" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Really?<delay20 /> What is it?</message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="004_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I gotta open it now!<delay20 /> I can't wait!</message>
 	<message label="004_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ha ha! <delay20 />I wonder what could it be<tag a="110" b="0" /></message>
@@ -51,4 +51,20 @@ time to spend them, <tag a="110" b="6" />!</message>
 gift you could bring home and work
 out with<tag a="110" b="0" /><delay20 /><anim id="Eh" target="actor" targetSpec="" />but your pockets are full!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'll just mail it to you.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Then you can
 deadlift your mailbox, <tag a="110" b="5" />!</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Ha! <delay20 />That <tag a="125" b="0" arg="0x0" />
+is just like what I'm wearing!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />It's a lot less sweaty<tag a="110" b="0" />and having
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /> in
+reserve isn't a bad idea<tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Thanks! <delay20 />Now I can push myself
+even harder before I need to
+do laundry, <tag a="110" b="5" />!</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh? <delay20 />But I'm already wearing
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /></message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" /><colour id="4" />Actually, I'm always ruining or losing
+this kind of stuff. Having a spare on
+the bench could come in handy.<colour id="65535" /></message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Thanks a lot, <tag a="110" b="3" />!<delay20 /> I'm
+gonna take super-good care of
+my new <tag a="125" b="0" arg="0x0" />!</message>
 </msbt>

@@ -13,27 +13,26 @@ buy my <tag a="125" b="0" arg="0x0" /><delay8 />?</message>
 	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> Listen.<delay20 />
 I need some Bells. <delay20 />I mean, right now.<delay40 />
 Soooo, <delay20 />I'm selling some stuff!<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I'll show you four things and, if you
-see anything you want, <anim id="FaintSmile" target="actor" targetSpec="" />it'd be
-awesome if you'd buy it from me!</message>
+see anything you want,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />don't be shy!</message>
 	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Show me!</message>
 	<message label="003_b" attrib="00 00 00 00 00 00 00 00">No, thanks.</message>
 	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay20 /> I just got
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />,
-and now there's a problem!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />I've already got more than I need.<delay20 /> I
-know, right?<delay40 /><anim id="Thinking" target="actor" targetSpec="" /> It'd be a waste to throw
-it away, so want to buy this from me?</message>
+and there's a problem!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />I've already got more than I need.<delay20 />
+I know, right?<delay40 /><anim id="Thinking" target="actor" targetSpec="" /> Feel like buyin' stuff
+from me, like, now?</message>
 	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />How much?</message>
 	<message label="004_b" attrib="00 00 00 00 00 00 00 00">Nope, sorry.</message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Oh, uh<tag a="110" b="0" /><delay40 /> <anim id="Confused" target="actor" targetSpec="" />Well, I'll just go
 ask somebody else!</message>
 	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Yeah, I figured<tag a="110" b="0" /><delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />No worries, though!
 I'll ask someone else.</message>
-	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No prob! <delay20 />It's a super sudden thing
-to ask. <delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />I'm going to look around.
-<delay20 />Somebody'll want it! <delay20 />'K, byeee!</message>
-	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Really?<delay20 /> Ugh! Where am I going to put
-this?<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Well, OK. I'll go see if anyone
-else is interested. Bye!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No prob! <delay20 />It's a super-sudden thing
+to ask. <delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />I'll look around. <delay20 />Somebody's
+gotta be interested! <delay20 />'K, byeee!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Really?<delay20 /> Ugh! My place is already
+packed.<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Well, OK. I'll go see if
+anyone else is interested. Bye!</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Thanks!<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Hold up!<delay20 /> You don't have enough
 Bells!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> Let's try this some other
 time<tag a="110" b="0" /><delay20 /><anim id="Grin" target="actor" targetSpec="" />when your wallet's way fatter!</message>

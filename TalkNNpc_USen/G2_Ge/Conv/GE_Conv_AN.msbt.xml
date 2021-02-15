@@ -25,21 +25,21 @@ polite to say out loud.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="mainNpc" targetSpec="" /><anim id="Laughing" target="subNpc" targetSpec="" /><20_2 arg="3" />Right?! It's totally crazy how some
 things become trendy.<anim id="Laughing" target="subNpc" targetSpec="" /></message>
 	<message label="010" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I saw one tip that said to agree with
-everyone. Constantly. Even if you
-actually don't.<anim id="Eh" target="subNpc" targetSpec="" /><anim id="Shocked" target="actor" targetSpec="" /> Like, what?!<pageBreak /><20_2 arg="3" /><20_2 arg="8" /><delay8 />What do you think,
+everyone.<delay8 /> Constantly<delay8 />. Even if you
+actually don't.<delay20 /><anim id="Eh" target="subNpc" targetSpec="" /><anim id="Shocked" target="actor" targetSpec="" /> Like, what?!<pageBreak /><20_2 arg="6" /><20_2 arg="8" /><delay20 />What do you think,
 <tag a="110" b="3" />?</message>
-	<message label="010_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />What do you think?</message>
+	<message label="010_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />What do YOU think?</message>
 	<message label="010_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Forget that noise.</message>
 	<message label="011" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" />I've got opinions. <anim id="Serious" target="actor" targetSpec="" /><delay20 />And if some punk's
 spouting off? Forget being popular!<anim id="Clapping" target="mainNpc" targetSpec="" />
 I'm going to say what I think!<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
-	<message label="012" attrib="00 00 00 00 00 00 00 00">Heck yeah, <tag a="110" b="31" arg="0xcd01" />!<delay20 />
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" />Heck yeah, <tag a="110" b="31" arg="0xcd01" />!<delay20 />
 <anim id="SmugFace" target="mainNpc" targetSpec="" />I'm not saying I believe something
 I don't just to be popular.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm popular enough already!</message>
-	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Yeah! If you and someone who's got<anim id="Nodding" target="mainNpc" targetSpec="" />
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Pardon" target="actor" targetSpec="" />Yeah! If you and someone who's got<anim id="Nodding" target="mainNpc" targetSpec="" />
 a different opinion don't get along,
 lying about how you feel won't help.</message>
-	<message label="014" attrib="00 00 00 00 00 00 00 00">Right! <anim id="Serious" target="actor" targetSpec="" />Looks like the only unpopular
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" />Right!<delay20 /> <anim id="Serious" target="actor" targetSpec="" />Looks like the only unpopular
 one around here is the goof that
 wrote the article.<pageBreak /><anim id="Laughing" target="subNpc" targetSpec="" />That's my opinion and<anim id="EmotEnd" target="actor" targetSpec="" /> I'm sticking
 to it!</message>
@@ -56,13 +56,13 @@ wafting off <tag a="110" b="31" arg="0xcd01" />!</message>
 	<message label="103_c" attrib="00 00 00 00 00 00 00 00">Maybe like sweets?</message>
 	<message label="104" attrib="00 00 00 00 00 00 00 00">Huh? Flowers?<delay frames="60" /> <anim id="Negative" target="actor" targetSpec="" />Dunno what you're
 talking about<tag a="110" b="0" /></message>
-	<message label="105" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Smiling" target="actor" targetSpec="" />Ohmigosh!<20_2 arg="5" /> <20_2 arg="4" />It is WAY adorbs <anim id="Eh" target="subNpc" targetSpec="" />that
-you love <20_2 arg="4" /><anim id="Love" target="actor" targetSpec="" /><anim id="TakenAback" target="subNpc" targetSpec="" />flowers so much you
-want to smell like them!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Smiling" target="actor" targetSpec="" />Ohmigosh!<20_2 arg="5" /> It is WAY adorbs <anim id="Eh" target="subNpc" targetSpec="" />that
+you love <anim id="Love" target="actor" targetSpec="" /><anim id="TakenAback" target="subNpc" targetSpec="" />flowers so much you
+want to smell like them!<20_2 arg="4" /></message>
 	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="player" targetSpec="" /><anim id="Outraged" target="subNpc" targetSpec="" />Every dang perfume smells like
 flowers! <anim id="Laughing" target="actor" targetSpec="" /><20_2 arg="7" />You can't NOT smell
 like flowers, <tag a="110" b="31" arg="0xcd00" />!</message>
-	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Nah, you don't have to get flowery
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Grin" target="actor" targetSpec="" />Nah, you don't have to get flowery
 stuff. <delay20 />That's why I usually smell
 like glitter glue!<anim id="EmotEnd" target="player" targetSpec="" /></message>
 	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Ohh!<20_2 arg="2" /><delay20 /> Yeah, I JUST <delay frames="60" /><anim id="Explain" target="actor" targetSpec="" />took a bath,
@@ -95,15 +95,15 @@ You musta drank a buncha coffee
 to be so wired after so little sleep.
 <anim id="Greeting" target="actor" targetSpec="" />That "<tag a="110" b="5" />" you just said
 must be driven by caffeine too!</message>
-	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />I got the island high score on a game
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="HappyDance" target="actor" targetSpec="" />I got the island high score on a game
 that nobody else is skilled enough to
 play! So, yeah. I am EXCITED.
 <anim id="HappyFlower" target="actor" targetSpec="" />But those seven cups of coffee I
 drank MIIIIIIIGHT be helping my
 catchphrase to be TOTES on point?<delay40 />
 <anim id="HappyDance" target="actor" targetSpec="" />You want to use<anim id="Eh" target="subNpc" targetSpec="" /><20_2 arg="4" /> it too,
-<tag a="110" b="31" arg="0xcd01" />?
-Juuuuust SING IT!</message>
+<tag a="110" b="31" arg="0xcd01" />? Juuuuust
+SING IT!</message>
 	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's a great idea!<delay40 /> I'm gonna use
 that rock-star <anim id="Assent" target="actor" targetSpec="" /><anim id="Nodding" target="mainNpc" targetSpec="" />phrase of yours,
 <tag a="110" b="6" />!</message>

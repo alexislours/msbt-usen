@@ -185,12 +185,12 @@ from you since you're visiting
 from a different island and all.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Hey, I wanna give you a thing, but
 your pockets are all full of stuff.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Can you make space and come back
 to see me before you go home?
-<delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />Man, don't forget!</message>
+<delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />Don't forget, <tag a="110" b="5" />!</message>
 	<message label="081" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ya want my thank-you gift, yeah?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Here ya go!<delay20 /> Your very own personal
 <tag a="125" b="4" arg="0x0" />!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />I hope
 ya like it!</message>
-	<message label="100" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Did ya know my birthday's the same
-day as <tag a="115" b="1" arg="0xcd00" />?<delay frames="40" />
+	<message label="100" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Did ya know my birthday's the
+same day as <tag a="115" b="1" arg="0xcd00" />'s?<delay frames="40" />
 <anim id="Laughing" target="actor" targetSpec="" />Nutty, huh?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Anyway, that's why we're having a
 double birthday party! <delay40 />Also, there
 was a two-for-one cake sale.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I wonder if the presents are double

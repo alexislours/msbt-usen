@@ -197,7 +197,7 @@ good.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Let me
 you're<tag a="110" b="0" /><delay20 /><tag a="110" b="3" />.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />It's rad
 to meet you, <tag a="110" b="3" />!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />I've been around here since, like, <delay20 />the
 beginning, so if you have questions,
-I'm kind of a <tag a="110" b="8" /> pro.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />But for now, I'll just let you get back
+I'm a pro <tag a="110" b="8" />-er.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />But for now, I'll just let you get back
 to whatever.<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />See you around!</message>
 	<message label="424" attrib="00 00 00 00 00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />Oh great<tag a="110" b="0" />now I'm seein' faces. <delay frames="40" />Well,
 a face. <delay frames="40" />And a kinda-friendly lookin'
@@ -405,4 +405,25 @@ to be found. <delay20 />Mayb— <10_14 arg="16" /><anim id="Sneezing" target="ac
 get angr— <10_14 arg="16" /><anim id="Sneezing" target="actor" targetSpec="" />BWAAACHOOO!<delay20 /> Stop it<tag a="110" b="0" /><pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" /><delay20 />Hey, <delay20 />why don't you come back when
 all this sneez— <10_14 arg="16" /><anim id="Sneezing" target="actor" targetSpec="" />BWAAACHOOO!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />When all this sneezing stops<tag a="110" b="0" /><delay frames="60" /> <anim id="QuestionMark" target="actor" targetSpec="" />No?
 <delay frames="40" />That's it?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Well, <delay20 />it's about t—<10_7 arg="10" /><pageBreak /><10_10 /><tag a="10" b="12" /><10_14 arg="16" /><anim id="Sneezing" target="actor" targetSpec="" /><size value="200" />BWAAAACHOOOO!<size value="100" /></message>
+	<message label="316" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x13d 0x13e 0x13f" /></message>
+	<message label="317" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Hey, how's it going? <delay frames="40" />You here on the
+Deserted Getaway Island Excursion
+Trip Escape, <anim id="Restless" target="actor" targetSpec="" />uh<tag a="110" b="0" /><delay20 />Thingie?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />It's awesome to meet you. <delay20 />I'm
+<tag a="110" b="10" />. <delay20 />How about you?<10_4 /><anim id="Grin" target="actor" targetSpec="" />
+<tag a="50" b="3" /><tag a="110" b="1" />, huh? <delay20 />Cool!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Well, I hope you're ready to rock,<delay20 /><anim id="BigSmile" target="actor" targetSpec="" />
+'cause <tag a="110" b="8" />'s about to
+be party central, <tag a="110" b="5" />!</message>
+	<message label="318" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You're lookin' kinda lost. <delay20 />New here?<delay frames="40" />
+<anim id="ShyBoy" target="actor" targetSpec="" />Hey, don't worry, <delay20 />we're all kinda lost
+on <tag a="110" b="8" />, <tag a="110" b="5" />.<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Guess we oughta do the intro
+thing.<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />My name's <tag a="110" b="10" />.<delay20 />
+You?<10_4 /> <tag a="50" b="3" /><tag a="110" b="1" />, huh? <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />Rock!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Well, it's rad to meet you! <delay20 />Take care
+of yourself, <tag a="110" b="1" />!</message>
+	<message label="319" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey there! <delay20 />You doing the getaway
+package?<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Well, whaddaya know!<delay20 />
+Me too, <tag a="110" b="5" />!<pageBreak /><anim id="Hello" target="actor" targetSpec="" />Call me <tag a="110" b="10" />. <delay20 />And you
+are<tag a="110" b="0" /><10_4 /> <anim id="Grin" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />! <delay20 />Got it.
+<delay20 />Sweet to meet you!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Yep! Life on <tag a="110" b="8" /> is
+gonna rock super hard. <delay20 />I can
+already tell.</message>
 </msbt>

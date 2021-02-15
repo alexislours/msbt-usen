@@ -57,4 +57,28 @@ Except, <delay frames="13" />oh dear, <delay20 /><anim id="Shocked" target="acto
 a single thing more, can you?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Not to worry.<delay frames="13" /> I'll send it over to your
 house instead.<delay20 /> <anim id="Grin" target="actor" targetSpec="" />You'll just have to
 wait a teensy bit longer.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />Why,<delay8 /> that's just like what
+I'm wearing right now!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">I gather you gave me the same
+thing <delay8 /><anim id="SmugFace" target="actor" targetSpec="" />because you see just
+how well I pull it off?
+<anim id="FaintSmile" target="actor" targetSpec="" />Well, well, <delay8 />aren't you a clever
+fashionista!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I'll let you in on a little secret,
+<tag a="110" b="3" /><tag a="110" b="0" /><pageBreak /><anim id="Grin" target="actor" targetSpec="" />I always try to keep duplicates of my
+favorite clothing items on hand!<pageBreak />That way I can wear them as often
+as I like <delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />and I won't wear them out
+too quickly, <tag a="110" b="6" />.</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<delay40 />
+<anim id="Thinking" target="actor" targetSpec="" />Why, that's<tag a="110" b="0" />what I'm wearing
+this very moment, is it not?</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00">Ah well, you must have given me the
+same thing I have on<delay20 /><anim id="Grin" target="actor" targetSpec="" /> because you
+know how well I wear the look.
+<anim id="SmugFace" target="actor" targetSpec="" />I mean,<delay8 /> just look at me, darling!</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I will be sure to cherish your gift just
+as much as I cherish the original,
+<tag a="110" b="6" /><tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And I shall think of you fondly every
+time I put it on, <tag a="110" b="3" />.</message>
 </msbt>

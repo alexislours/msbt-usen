@@ -59,7 +59,7 @@ impact to native flora or fauna!
 proper shop. And we will of course
 offer compensation for your efforts.</message>
 	<message label="012_02_a" attrib="00 00 00 00"><anim id="Assent" target="player" targetSpec="" />OK.</message>
-	<message label="012_02_b" attrib="00 00 00 00">OK, I'll help.</message>
+	<message label="012_02_b" attrib="00 00 00 00">Sure, I'll help.</message>
 	<message label="012_03" attrib="00 00 00 00"><delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />Thank you so much!</message>
 	<message label="012_04" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Now, I know this is a lot, but I put
 together a list of the items I'd like
@@ -71,7 +71,7 @@ materials come from. <delay20 />They could
 come from this island or any other!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />And you can gather these materials
 at your own pace.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Once you have
 a set of something, come see me!</message>
-	<message label="013" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Welcome, <tag a="110" b="1" />!<10_4 />
+	<message label="013" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Welcome, <tag a="110" b="1" />!<delay frames="40" />
 <anim id="EmotEnd" target="actor" targetSpec="" />How can I help you today?</message>
 	<message label="013_a" attrib="00 00 00 00"><colour id="1" />About building a shop.<colour id="65535" /></message>
 	<message label="013_b" attrib="00 00 00 00">I want to sell!</message>
@@ -94,7 +94,7 @@ please put up the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />shop c
 	<message label="024" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />You put up the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />shop construction kit<colour id="65535" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />We've got our work cut out for us if
 we're going to open by tomorrow,
 but I can't wait!</message>
-	<message label="051" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Oh, you'll make a donation?<10_4 /> <anim id="Smiling" target="actor" targetSpec="" />Thank
+	<message label="051" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Oh, you'll make a donation?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Thank
 you so much for helping us!</message>
 	<message label="052_01" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />We already received some donations,
 so<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> right now we need <colour id="1" />30<colour id="65535" /> pieces of

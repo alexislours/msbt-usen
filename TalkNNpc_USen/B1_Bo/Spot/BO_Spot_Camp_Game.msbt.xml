@@ -41,7 +41,7 @@ cards with four different patterns:
 gotta guess the pattern <anim id="Nodding" target="actor" targetSpec="" />on that card.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If ya get it right, you win
 my <anim id="Greeting" target="actor" targetSpec="" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />But if ya get <anim id="QuestionMark" target="actor" targetSpec="" />it wrong<tag a="110" b="0" /> Umm<tag a="110" b="0" /><delay20 />then<tag a="110" b="0" /><delay20 />
 <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />I dunno! <delay frames="40" /><anim id="NpcShuffle" target="actor" targetSpec="" />So let's start!</message>
-	<message label="101" attrib="00 00 05 00 00 00 00 00"><anim id="NpcHoldout" target="actor" targetSpec="" />Alright!<delay frames="50" /> <anim id="EmotEnd" target="actor" targetSpec="" />Which of these patterns—
+	<message label="101" attrib="00 00 05 00 00 00 00 00">Alright!<delay frames="50" /> <anim id="EmotEnd" target="actor" targetSpec="" />Which of these patterns—
 <anim id="Pardon" target="actor" targetSpec="" /><colour id="6" />♥heart<colour id="65535" />, <colour id="6" />♦diamond<colour id="65535" />,<colour id="6" /> <colour id="65535" /><colour id="7" />♠spade<colour id="65535" />,<colour id="7" />
 <colour id="65535" />or <colour id="7" />♣club<colour id="65535" />—is on this card?</message>
 	<message label="101_a" attrib="00 00 00 00 00 00 00 00"><colour id="6" />♥Heart<colour id="65535" /></message>
@@ -59,7 +59,7 @@ gotta guess what color <anim id="Nodding" target="actor" targetSpec="" />the pat
 on that card is.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If ya get it right, you win
 my <anim id="Greeting" target="actor" targetSpec="" /><tag a="125" b="0" arg="0x0" />!
 <anim id="NpcShuffle" target="actor" targetSpec="" />OK, let's staaaaaaart!</message>
-	<message label="201" attrib="00 00 01 00 00 00 00 00"><anim id="NpcHoldout" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" />is the pattern on this card I just
+	<message label="201" attrib="00 00 01 00 00 00 00 00">So<tag a="110" b="0" /><delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" />is the pattern on this card I just
 drew <anim id="Pardon" target="actor" targetSpec="" /><delay20 />"<colour id="6" />red<colour id="65535" />" <delay20 />or "<colour id="7" />black<colour id="65535" />"?!</message>
 	<message label="201_a" attrib="00 00 00 00 00 00 00 00"><colour id="6" />Red<colour id="65535" /></message>
 	<message label="201_b" attrib="00 00 00 00 00 00 00 00"><colour id="7" />Black<colour id="65535" /></message>

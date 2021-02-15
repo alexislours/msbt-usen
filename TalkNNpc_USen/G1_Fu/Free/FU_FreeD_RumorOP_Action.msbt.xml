@@ -93,6 +93,13 @@ emotive,<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />reacting t
 everything that anyone did<delay8 /><tag a="110" b="0" />
 <anim id="Smiling" target="actor" targetSpec="" />I guess they must have a dramatic
 streak,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />They apparently kept leaving
+the island and coming back,<delay20 />
+over and over again.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Just imagine being as well travelled
+as that,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Did you hear <tag a="115" b="0" arg="0xcd00" /> had
+company from off-island?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />That might explain all of our recent
+airport traffic,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00">They must've felt the crafting urge,<delay20 />
 <anim id="Pardon" target="actor" targetSpec="" />because I heard they worked on
 a zillion DIY projects,<delay20 /> <tag a="110" b="5" />!<pageBreak />I was inspired to craft something
@@ -230,11 +237,13 @@ realized it was <tag a="115" b="0" arg="0xcd00" />.<pageBreak /><anim id="Pardon
 	<message label="148" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />I heard they pulled up tons of weeds!<delay40 />
 Almost like they were going for some
 kind of island record,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
-	<message label="149" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Have you seen their new 'do?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I hear they look very different now,<anim id="Nodding" target="actor" targetSpec="" /><delay20 />
-but in a good way,<delay20 /> <tag a="110" b="5" />!</message>
-	<message label="150" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />They supposedly changed up their
-look a LOT,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you ask me,<delay20 /> <tag a="115" b="0" arg="0xcd00" /> will
-still be <tag a="115" b="0" arg="0xcd00" />.</message>
+	<message label="149" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Have you seen their new 'do,
+<tag a="110" b="5" />?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I hear they look a bit different now,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />
+but in a really good way, you know?</message>
+	<message label="150" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />They supposedly changed up their
+look, <tag a="110" b="6" />.<delay20 /><pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />If you ask me,<delay8 /> <tag a="115" b="0" arg="0xcd00" /> will
+still be <tag a="115" b="0" arg="0xcd00" /> no matter
+what they look like.</message>
 	<message label="151" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />They must've taken up photography,<delay20 />
 because <anim id="Nodding" target="actor" targetSpec="" />I hear they're snapping tons
 of photos,<delay20 /> <tag a="110" b="5" />!

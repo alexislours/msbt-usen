@@ -23,7 +23,7 @@ Thanks anyway, <tag a="110" b="3" />.</message>
 really wonderin' about your manners.<pageBreak />Why you gotta go rippin' into
 everything you find, huh?<delay40 /> Were
 you raised by a pack of piranhas?</message>
-	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />What?<delay frames="30" /> YOU OPENED IT?!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />It don't matter if they noticed!<delay frames="30" />
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />What?<delay frames="30" /> YOU OPENED IT?!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />It don't matter if <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x68 0x65 0x6 0x73 0x68 0x65 0x0" /> noticed!<delay frames="30" />
 <anim id="Angry" target="actor" targetSpec="" />It's just—<delay20 />well, dang it,<delay20 /> it's just
 downright rude,<delay20 /> <tag a="110" b="5" />!</message>
 	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> didn't mind?<delay20 />
@@ -83,13 +83,13 @@ better care not to forget our things!</message>
 tootin' at a spaghetti dinner party!</message>
 	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />What?<delay20 /> Why would you OPEN it?!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />All that effort,<delay20 /> wrappin' it up<delay8 /><tag a="110" b="0" />
 <anim id="Fuming" target="actor" targetSpec="" />Why'd I even bother,<delay20 /> <tag a="110" b="5" />?</message>
-	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />What?<delay frames="40" /> They went and bought
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />What?<delay frames="40" /> <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x48 0x65 0x6 0x53 0x68 0x65 0x0" /> went and bought
 the same dang one?!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Aw, shucks.<delay20 /> Guess I messed this up
 even more than usual.<delay frames="30" /> <anim id="OhGeez" target="actor" targetSpec="" />Oh well<delay8 /><tag a="110" b="0" /></message>
-	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />They didn't realize they left it
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="17" arg="0xf 0xcd00 0x4 0x48 0x65 0x6 0x53 0x68 0x65 0x0" /> didn't realize <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x68 0x65 0x6 0x73 0x68 0x65 0x0" /> left it
 over at my place?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Heh, what a fuss over nothin'!<delay frames="30" />
 <anim id="Nodding" target="actor" targetSpec="" />Well,<delay20 /> at least you were able
-to help 'em out.</message>
+to help <tag a="50" b="17" arg="0xf 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x0" /> out.</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Thanks for haulin' that over
 to <tag a="115" b="1" arg="0xcd00" />!</message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks for sortin' out
@@ -116,7 +116,7 @@ I opened it<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Silent" target=
 was meant for YOU?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Ain't that funny!<delay20 /> The person it was
 meant for came and delivered it!<delay frames="30" />
 It's like a sitcom!<delay40 /> <anim id="Serious" target="actor" targetSpec="" />A real dumb one.</message>
-	<message label="209" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I see, I see.<delay frames="30" /> Well,<delay20 /> long as they're 
+	<message label="209" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I see, I see.<delay frames="30" /> Well,<delay20 /> long as <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x68 0x65 0x6 0x73 0x68 0x65 0x0" />'s
 happy,<delay20 /> I'm happy.<delay frames="30" /> You happy?
 <anim id="Grin" target="actor" targetSpec="" />Everybody oughta be happy.</message>
 	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay frames="30" /> Well,<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />thanks for deliverin'<anim id="FaintSmile" target="actor" targetSpec="" /> the
@@ -140,16 +140,15 @@ reckon you ain't got no manners!</message>
 meant for <tag a="115" b="1" arg="0xcd00" />!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Openin' up a gift's the best part of
 gettin' one!<delay frames="30" /> <anim id="Silent" target="actor" targetSpec="" />Maybe try to keep that
 in mind next time,<delay20 /> <tag a="110" b="5" />.</message>
-	<message label="307" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You don't say?<delay frames="30" />
-They're wearin' it?!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />It sure was worth all the trouble
-I went through gettin' it to 'em!<delay frames="30" />
+	<message label="307" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You don't say?<delay frames="30" /> <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x48 0x65 0x6 0x53 0x68 0x65 0x0" />'s wearin' it?!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />It sure was worth all the trouble
+I went through gettin' it to <tag a="50" b="17" arg="0xf 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x0" />!<delay frames="30" />
 <anim id="Nodding" target="actor" targetSpec="" />I'm darn proud of myself.</message>
-	<message label="308" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Is that so?<delay frames="40" /> Well, <anim id="Smiling" target="actor" targetSpec="" />I'm glad if they liked it,<delay20 /> <tag a="110" b="5" />.</message>
-	<message label="309" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hm?<delay20 /> They still aren't wearing it?<delay frames="30" />
+	<message label="308" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Is that so?<delay frames="40" /> Well, <anim id="Smiling" target="actor" targetSpec="" />I'm glad if <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x68 0x65 0x6 0x73 0x68 0x65 0x0" /> liked
+it,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="309" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hm?<delay20 /> <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x48 0x65 0x6 0x53 0x68 0x65 0x0" />'s still not wearing it?<delay frames="30" />
 <anim id="Thinking" target="actor" targetSpec="" />I figured I'd done a pretty good job
-of figurin' them out<delay8 /><tag a="110" b="0" /> <anim id="Shocked" target="actor" targetSpec="" />Go figure!</message>
-	<message label="310" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />What?<delay frames="30" />
-Is that so?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Well, shucks.<delay frames="30" /> I reckon if they weren't
+of figurin' <tag a="50" b="17" arg="0xf 0xcd00 0x6 0x68 0x69 0x6d 0x6 0x68 0x65 0x72 0x0" /> out<delay8 /><tag a="110" b="0" /> <anim id="Shocked" target="actor" targetSpec="" />Go figure!</message>
+	<message label="310" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />What?<delay frames="30" /> Is that so?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Well, shucks.<delay frames="30" /> I reckon if <tag a="50" b="17" arg="0xf 0xcd00 0x4 0x68 0x65 0x6 0x73 0x68 0x65 0x0" /> wasn't
 cozy in them duds,<delay20 /> there ain't much
 I can do about it, is there?</message>
 	<message label="312" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Wow,<delay20 /> so <tag a="115" b="1" arg="0xcd00" /> likes

@@ -1,0 +1,21 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Guess you're back for this
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day crown<colour id="65535" /> recipe.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Here for this <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day bag<colour id="65535" /> recipe?</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Alright, <delay20 />wanna have a race to see
+who can make one the fastest?<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Kidding, <tag a="110" b="5" />!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Aaaaaand your pockets are still full.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Look, <delay20 />I can't give you the recipe
+if there's no room in your pockets
+for it, so<tag a="110" b="0" /><delay20 />fix that, <tag a="110" b="5" />.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />I got somethin' for you.<delay20 /> Check it.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I found an extra DIY recipe for a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day crown<colour id="65535" /> while I was lookin'
+for my <tag a="135" b="5" arg="0xcd00" />.<delay20 /> You want it?</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />You never know what you're gonna
+find cleanin'<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Here, do you want a DIY recipe for a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Bunny Day bag<colour id="65535" />?<delay20 /> I already have one.<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />Yours for the low price of nothin'.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey there, stranger. <delay20 />Just a sec<tag a="110" b="0" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! <delay20 />Perfect timing.<delay20 />
+Hang on.</message>
+</msbt>

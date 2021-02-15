@@ -12,14 +12,14 @@ asking everybody<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="act
 	<message label="002_b" attrib="00 00 00 00 00 00 00 00">Thanks, but no.</message>
 	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, hey!<delay20 /><anim id="Explain" target="actor" targetSpec="" /> When I cleaned my place
 the other day, I found a bunch of
-things I don't need<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I have about four of these.<delay20 /><anim id="Hello" target="actor" targetSpec="" /> Would
-you wanna buy one from me?</message>
+things I don't need<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Four, actually!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="Hello" target="actor" targetSpec="" /> You wanna
+buy my stuff?</message>
 	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Whaddaya got?</message>
 	<message label="003_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Nope.</message>
 	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />So, <delay20 /><tag a="110" b="3" />,<delay frames="40" /> I bought
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /><pageBreak /><anim id="Sighing" target="actor" targetSpec="" />But<tag a="110" b="0" />I didn't quite get what I
-bargained for.<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> I can sell it to you if
-the offer's good, <tag a="110" b="5" />.</message>
+bargained for.<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> Any chance you're
+in the market, <tag a="110" b="5" />?</message>
 	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />What kind of offer?</message>
 	<message label="004_b" attrib="00 00 00 00 00 00 00 00">I'm sorry.</message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I see<tag a="110" b="0" /><delay20 /> Oh well<tag a="110" b="0" /><delay20 /> <anim id="Thinking" target="actor" targetSpec="" /><colour id="4" />Maybe I'll see if
@@ -27,12 +27,12 @@ the offer's good, <tag a="110" b="5" />.</message>
 	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, OK!<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />I guess I'll go see
 <tag a="110" b="11" arg="0xcd00" /> next.<delay20 /> If I ask
 around, someone will buy it<tag a="110" b="0" /></message>
-	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Huh. Well, come to think of it, maybe
-I can use it to do some weight lifting.<delay20 />
-I guess I'll just hang onto it.</message>
-	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Well, come to think of it, it might
-come in handy for resistance
-training<tag a="110" b="0" /><delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I'll see if I can use it.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Huh. Well, come to think of it, having
+more stuff just means there's more
+for me to lift<tag a="110" b="0" /><delay frames="60" /> <anim id="Hello" target="actor" targetSpec="" />OK, then!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Well, come to think of it, keeping
+some extra stuff around is probably
+a good idea<tag a="110" b="0" /><delay frames="60" /> All good!</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Sounds great, but<tag a="110" b="0" />you don't seem
 to have enough Bells. <delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" />You been
 skipping wallet day, <tag a="110" b="5" />?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Well, <delay8 />maybe next time!</message>

@@ -106,7 +106,7 @@ hm? You can freely change up the
 <colour id="1" />flooring <colour id="65535" />and <colour id="1" />wallpaper<colour id="65535" /><tag a="110" b="0" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />And you've got some built-in <colour id="1" />storage
 <colour id="65535" />so you can put away any furniture
 you aren't using.</message>
-	<message label="012_02" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oh, yes!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> There's more<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />All homeowners are automatically
+	<message label="012_02" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh yes!<delay20 /> There's more<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />All homeowners are automatically
 registered with the
 <colour id="1" />Happy Home Academy<colour id="65535" />.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />The <colour id="1" />HHA<colour id="65535" />, as we call it, will evaluate
 your home on a regular basis and
@@ -200,9 +200,15 @@ interior design!</message>
 	<message label="061_04" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />One other thing I should mention<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />As part of the home-customization
 services available to you, you can
 now order <colour id="1" />replacement siding<colour id="65535" />!
-<anim id="HappyDance" target="actor" targetSpec="" />Roof, siding, door, and mailbox<tag a="110" b="0" /><delay20 />
+<anim id="WrySmile" target="actor" targetSpec="" />Roof, siding, door, and mailbox<tag a="110" b="0" /><delay20 />
 changing these can make you feel
-like your home is brand-new!</message>
+like your home is brand-new!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Speaking of your <colour id="1" />mailbox<colour id="65535" />, <delay20 />not only
+can you change its design, but now
+you can <colour id="1" />change its location<colour id="65535" /> too!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Just pick up your mailbox with <colour id="1" /><colour id="65535" /> and
+place it where you'd like. <delay20 />I'll make
+sure your mail knows where to go.<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Please give your new customization
+options a try. <delay20 />I look forward to
+seeing what you come up with!</message>
 	<message label="071_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Your home has a proper basement
 now, does it not?<pageBreak />You won't find many folks with a
 home as impressive as yours!</message>

@@ -23,9 +23,10 @@ It's not scientific, <delay20 /><anim id="Pardon" target="actor" targetSpec="" /
 you make your wish before the star
 disappears, it will be granted!</message>
 	<message label="010_02" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Did you know that shooting stars
-often occur one right after another?<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />It's true-hoo! <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />So if you see one
-shooting star, you might want to
-keep looking up for the next one!</message>
+often occur one right after another?<delay frames="60" />
+<anim id="HappyFlower" target="actor" targetSpec="" />It's true-hoo!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />So if you see one shooting star, you
+might want to keep looking up for
+the next one!</message>
 	<message label="010_03" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Did you know that each of the
 constellations has its own story?<delay20 /><anim id="Clapping" target="actor" targetSpec="" />
 Indeed, sometimes many stories!
@@ -283,17 +284,16 @@ to tell you what I know of them!</message>
 	<message label="101" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hootie-toot and a very good
 evening to you!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Are you a
 resident of this island?</message>
-	<message label="102" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ah!<delay20 /> The famous <tag a="110" b="1" />!<delay20 />
-<anim id="HappyFlower" target="actor" targetSpec="" />Lovely to meet you—I'm <colour id="3" />Celeste<colour id="65535" />!<delay20 />
-My brother often speaks of you.
-<anim id="Smiling" target="actor" targetSpec="" />In fact, <colour id="3" />Blathers <colour id="65535" />can't stop gushing
-about how you helped him open his
-<colour id="1" />museum<colour id="65535" />. <delay20 /><anim id="Scheming" target="actor" targetSpec="" />Oh, he just goes on and on!
-<anim id="Nodding" target="actor" targetSpec="" />In any case, thanks awfully for
-everything you've done for Blathie—<anim id="Blushing" target="actor" targetSpec="" /><delay20 />
-Er,<delay20 /> my brother!<delay frames="100" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ah ha! <delay20 />You must be the
+famous <tag a="110" b="1" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />It's lovely to meet you—I'm <colour id="3" />Celeste<colour id="65535" />!<delay frames="60" />
+<anim id="Nodding" target="actor" targetSpec="" />Perhaps you've met my brother,
+<colour id="3" />Blathers<colour id="65535" />? <delay20 />He's a <colour id="1" />museum<colour id="65535" /> curator.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You'd know if you had.<delay20 /> <colour id="3" />Blathie<colour id="65535" /><anim id="Eh" target="actor" targetSpec="" /><tag a="110" b="0" /><delay20 />er,
+I mean my brother<delay20 /> likes to go on and
+on and on about<tag a="110" b="0" />everything.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />It's quite endearing, assuming
+you're not in a rush.<delay frames="40" /> <anim id="Blushing" target="actor" targetSpec="" />Oh, but
+there I go getting distracted!</message>
 	<message label="103" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I came here to examine the night sky
-at Blathers's suggestion, but<tag a="110" b="0" /></message>
+at <colour id="3" />Blathers<colour id="65535" />'s suggestion, but<tag a="110" b="0" /></message>
 	<message label="104" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />It's so much better than I had dared
 hope! <delay20 />Each star is as clear and
 distinct as if it had been hand-drawn!

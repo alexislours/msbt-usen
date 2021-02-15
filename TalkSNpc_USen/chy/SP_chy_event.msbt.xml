@@ -156,7 +156,7 @@ a round.</message>
 	<message label="029_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not right now.</message>
 	<message label="030" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />So,<delay20 /> do you want to join in the
 <colour id="1" />Bug-Off <colour id="65535" />festivities?<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />Your first
-round is free,<delay20 /> if that helps.</message>
+round today is free,<delay20 /> if that helps.</message>
 	<message label="030_a" attrib="00 00 00 00">Play a round.</message>
 	<message label="030_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not right now.</message>
 	<message label="031" attrib="00 00 00 00"><anim id="Cheering" target="actor" targetSpec="" />The <colour id="1" />Bug-Off <colour id="65535" />is on right now until
@@ -197,7 +197,8 @@ but I heard the buzz of the divine
 in this one!
 <anim id="Greeting" target="actor" targetSpec="" />Anyway, you should play a round!<delay20 />
 <anim id="Cheering" target="actor" targetSpec="" />The <colour id="1" />Bug-Off<colour id="65535" /> brings even us lowly
-mortals closer to the Heavenly Hive!</message>
+mortals closer to the Heavenly Hive!
+You can play anytime before <colour id="1" /><tag a="90" b="37" arg="0xcd01" /> <tag a="110" b="22" arg="0xcd01" /><colour id="65535" />.</message>
 	<message label="037" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />The <colour id="1" />Bug-Off<colour id="65535" /> is finally here!<delay20 /> The time
 when the mosquito netting between
 the worlds is at its thinnest!
@@ -256,7 +257,7 @@ even a bit after the event is over.<delay20 />
 give them a good home I promise!<size value="100" /></message>
 	<message label="049_a" attrib="00 00 00 00">Can I sell you bugs?</message>
 	<message label="049_b" attrib="00 00 00 00">Redeem points.</message>
-	<message label="049_c" attrib="00 00 00 00">Something else.</message>
+	<message label="049_c" attrib="00 00 00 00">So about the Bug-Off...</message>
 	<message label="049_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Never mind.</message>
 	<message label="050" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Y-yeah, <delay20 />of course! <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />Which of your bug
 patrons are you willing to part with?</message>
@@ -279,9 +280,9 @@ I've never beheld its equal<tag a="110" b="0" /><delay frames="40" />
 	<message label="053" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Always glad to buy bugs!<delay frames="40" />
 <anim id="Serious" target="actor" targetSpec="" />Always.</message>
 	<message label="054" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Really?!<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> Th-thank you!</message>
-	<message label="056" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />R-really?! <delay20 />That's great!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> What have
+	<message label="056" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />R-really?! <delay20 />That's great!<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> What have
 you got for me?!<pageBreak /><anim id="Restless" target="actor" targetSpec="" />Wait—you don't have the energy,<delay20 />
-the aura, <anim id="Pardon" target="actor" targetSpec="" /><delay20 />the <10_5 />MAJESTY <endTag a="10" b="5" />of someone
+the aura, <anim id="Pardon" target="actor" targetSpec="" /><delay20 />the <delay20 /><10_5 />MAJESTY <endTag a="10" b="5" /><delay20 />of someone
 with bugs in their pockets!
 <anim id="Negative" target="actor" targetSpec="" />Sorry, but I can only buy bugs that,<delay20 />
 you know, <delay20 />exist. <delay frames="40" /><anim id="ShyBoy" target="actor" targetSpec="" />But, um, come back
@@ -300,9 +301,18 @@ a net. <delay20 /><anim id="Serious" target="actor" targetSpec="" />That's a pro
 radiant glory with a net to shield us.<delay20 />
 <anim id="Pardon" target="actor" targetSpec="" />Without one you would surely perish!</message>
 	<message label="061" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh!<delay20 /> Um, apologies, but you don't
-have enough Bells.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />The entry fee after your first round
-is <colour id="1" /><tag a="90" b="21" arg="0x2" /><colour id="65535" />.<delay20 /> Sorry!</message>
-	<message label="062" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, cool. <delay20 />So that's <colour id="1" /><tag a="90" b="21" arg="0x2" /><colour id="65535" />.</message>
+have enough Bells.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Come back once you have
+<colour id="1" /><tag a="90" b="21" arg="0x2" /><colour id="65535" />.<delay20 /> Sorry!</message>
+	<message label="062" attrib="02 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Nice! <delay20 />Each firefly brightens the sky
+that much more! <delay frames="40" /><anim id="Hesitate" target="actor" targetSpec="" />Er, metaphorically.<delay frames="40" />
+We don't just catch fireflies.
+<anim id="ShyBoy" target="actor" targetSpec="" />Um, the entry fee after your first
+round is <colour id="1" /><tag a="90" b="21" arg="0x2" /><colour id="65535" />. <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />Is that
+gonna be OK?</message>
+	<message label="062_a" attrib="00 00 00 00">Sure thing!</message>
+	<message label="062_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="062_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Great<tag a="110" b="0" /><delay20 /><anim id="Silent" target="actor" targetSpec="" /> I'll just collect those
+<colour id="1" /><tag a="90" b="21" arg="0x2" /><colour id="65535" />, then<tag a="110" b="0" /></message>
 	<message label="063" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK<tag a="110" b="0" /> I'm gonna start the timer for
 <colour id="1" /><tag a="90" b="0" arg="0xe" /> minutes<colour id="65535" />.<delay20 /> You're gonna catch bugs.
 <delay20 />Any kind—just catch a lot.
@@ -461,7 +471,7 @@ to libera—<anim id="Eh" target="actor" targetSpec="" />BUY them all from you.<
 	<message label="120_c" attrib="00 00 00 00">I'll go check.</message>
 	<message label="123" attrib="02 00 00 00"><anim id="Eh" target="actor" targetSpec="" />What—really?! <delay20 />You don't need
 them as spiritual guides? <delay20 /><10_5 />I mean—<endTag a="10" b="5" />
-<anim id="Hesitate" target="actor" targetSpec="" />let me just add it up for you.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Let's see, how many bugs? <delay20 /><tag a="110" b="0" /><colour id="1" /><tag a="90" b="1" arg="0x6" /><colour id="65535" /><tag a="110" b="0" />
+<anim id="Hesitate" target="actor" targetSpec="" />let me just add it up for you.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Let's see, how many bugs? <delay20 /><colour id="1" /><tag a="90" b="1" arg="0x6" /><colour id="65535" /><tag a="110" b="0" />
 Given species and metaphysics<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />
 How's <tag a="90" b="26" arg="0x5" />?</message>
 	<message label="123_a" attrib="00 00 00 00">Sell! Sell!</message>
@@ -563,6 +573,39 @@ also <colour id="1" />at least <tag a="90" b="1" arg="0x4" /><colour id="65535" 
 challenge bonus too!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />And since you caught <colour id="1" /><tag a="90" b="1" arg="0x8" /> <colour id="65535" />bugs,<delay20 />
 add all the bonuses together, and<tag a="110" b="0" /><10_4 />
 <anim id="Shocked" target="actor" targetSpec="" />Whoa!<delay frames="30" /><anim id="BigSmile" target="actor" targetSpec="" /> That's <colour id="1" /><tag a="90" b="2" arg="0x7" /> points<colour id="65535" />!</message>
+	<message label="151" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Already you have encircled some
+<colour id="1" /><tag a="90" b="1" arg="0x8" /> <colour id="65535" />bugs in your +5 Net of Begirding.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />You are exquisitely fast at this!
+<anim id="Explain" target="actor" targetSpec="" />It's not safe to confine more than
+20 bugs in a small space, <delay20 /><anim id="Surprised" target="actor" targetSpec="" />lest their
+combined might rend reality itself!
+<anim id="Hesitate" target="actor" targetSpec="" />I therefore took the liberty of
+removing some extras from the
+<colour id="1" />bug cage<colour id="65535" />.
+<anim id="Nodding" target="actor" targetSpec="" />This is all for the bugs, and therefore
+for the world,<delay20 /><anim id="ShyBoy" target="actor" targetSpec="" /> so I hope you will
+consider these bugs a donation.
+<anim id="Eh" target="actor" targetSpec="" />Fret not,<delay20 /> you will still score points!<delay frames="40" />
+<anim id="Thinking" target="actor" targetSpec="" />The standard <colour id="1" /><tag a="90" b="1" arg="0x8" /> points<colour id="65535" />,<delay20 /> plus a bonus
+for catching <colour id="1" /><tag a="90" b="1" arg="0x4" /> or more<colour id="65535" /><tag a="110" b="0" />
+<anim id="Silent" target="actor" targetSpec="" />That's <colour id="1" /><tag a="90" b="2" arg="0x7" /> points <colour id="65535" />total!</message>
+	<message label="152" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Already you have encircled some
+<colour id="1" /><tag a="90" b="1" arg="0x8" /> <colour id="65535" />bugs in your +5 Net of Begirding.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />You are exquisitely fast at this!
+<anim id="Explain" target="actor" targetSpec="" />It's not safe to confine more than
+20 bugs in a small space, <delay20 /><anim id="Surprised" target="actor" targetSpec="" />lest their
+combined might rend reality itself!
+<anim id="Hesitate" target="actor" targetSpec="" />I therefore took the liberty of
+removing some extras from the
+<colour id="1" />bug cage<colour id="65535" />.
+<anim id="Nodding" target="actor" targetSpec="" />This is all for the bugs, and therefore
+for the world,<delay20 /><anim id="ShyBoy" target="actor" targetSpec="" /> so I hope you will
+consider these bugs a donation.
+<anim id="Eh" target="actor" targetSpec="" />Fret not,<delay20 /> you will still score points!<delay frames="40" />
+<anim id="Thinking" target="actor" targetSpec="" />Let's see,<delay20 /> the participants this time
+have caught <colour id="1" /><tag a="90" b="2" arg="0x9" /> <colour id="65535" />bugs total<tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />That's <colour id="1" /><tag a="90" b="1" arg="0xa" /> or more<colour id="65535" /><anim id="Serious" target="actor" targetSpec="" />,<delay20 /> so you get a
+team bonus. <delay frames="40" />Bringing you to<tag a="110" b="0" /><colour id="1" /><delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" /><tag a="90" b="2" arg="0x7" /> points <colour id="65535" />total!</message>
 	<message label="160" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The <colour id="1" />bug cage<colour id="65535" /> with all the bugs you
 caught is by the tent—<anim id="AbsentMindedness" target="actor" targetSpec="" />just follow the
 scent of nectar and ambrosia.
@@ -637,7 +680,7 @@ from the larvae. <delay20 /><anim id="Cheering" target="actor" targetSpec="" />T
 <anim id="FaintSmile" target="actor" targetSpec="" />We'll get started at <colour id="1" /><tag a="90" b="37" arg="0xcd00" /> <tag a="110" b="21" arg="0xcd00" /><colour id="65535" />.<delay20 /> Until
 then, just enjoy the anticipation
 crawling all over your body!</message>
-	<message label="170" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />How did you enjoy today's <colour id="1" />Bug-Off<colour id="65535" />,
+	<message label="170" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />How did you enjoy this <colour id="1" />Bug-Off<colour id="65535" />,
 our regular celebration of bugs?<delay20 />
 Were you spiritually enriched?</message>
 	<message label="171" attrib="06 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey there!<delay20 /> Do you wanna play a
@@ -675,7 +718,7 @@ automatically added to your total.</message>
 redeem them for mighty bug-related
 relics!<delay20 /><anim id="Silent" target="actor" targetSpec="" /> Ask me about it later.</message>
 	<message label="210" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Points can be redeemed at any
-Bug-Off. <delay20 /><anim id="Silent" target="actor" targetSpec="" />May the fireflies light
+<colour id="1" />Bug-Off<colour id="65535" />. <delay20 /><anim id="Silent" target="actor" targetSpec="" />May the fireflies light
 your way.</message>
 	<message label="300" attrib="00 00 00 00">Redeem for a relic.</message>
 	<message label="301" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>

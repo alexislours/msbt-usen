@@ -12,11 +12,11 @@ my island! Thanks for coming<tag a="110" b="0" /><delay frames="40" />um<tag a="
 <size value="100" /><anim id="Smiling" target="actor" targetSpec="" />It sure is good to see you again,
 <tag a="110" b="1" />.<delay20 /> Yes, sirree<tag a="110" b="0" /><delay frames="40" />
 Good ol' <tag a="110" b="1" /><tag a="110" b="0" /></message>
-	<message label="001_02" attrib="00 00 00 00"><anim id="Dance" target="actor" targetSpec="" />Anyway, welcome to <colour id="1" />Harv's Island<colour id="65535" />!<delay20 />
+	<message label="001_02" attrib="00 00 00 00"><anim id="Dance" target="actor" targetSpec="" />Anyway, welcome to <colour id="1" />Harv's Island<colour id="65535" />!<delay frames="40" /><10_4 />
 <anim id="FaintSmile" target="actor" targetSpec="" />Don't remember if I mentioned it
 before, but I run a <colour id="1" />photo studio<colour id="65535" /> here.
 <anim id="HappyFlower" target="actor" targetSpec="" />It's called <colour id="1" />Photopia<colour id="65535" />, 'cause it's, <delay20 />like,<delay20 />
-paradise for picture-taking, <delay20 />and it's
+paradise for picture taking, <delay20 />and it's
 free to all, <delay20 />so come use it anytime!</message>
 	<message label="001_03_01" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Oh, hey, it's<tag a="110" b="0" /><delay20 />ah<tag a="110" b="0" /><delay20 />you! <delay20 />That person
 I met just today! Whose name
@@ -131,7 +131,7 @@ you can borrow stuff in other colors!
 <anim id="Nodding" target="actor" targetSpec="" />Grapevine says all good things
 about that workshop,<delay20 /> by the way.<delay frames="40" />
 <anim id="FaintSmile" target="actor" targetSpec="" />You might wanna check it out.</message>
-	<message label="113" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /> <delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />Yep! <delay20 />That's everything I know
+	<message label="113" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /> <delay frames="80" /><anim id="BigSmile" target="actor" targetSpec="" />Yep! <delay20 />That's everything I know
 about <colour id="1" />sets<colour id="65535" />.</message>
 	<message label="121" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Now, nothin' wrong with being your
 own model if you're feelin' selfie-ish,<delay20 /><anim id="Aha" target="actor" targetSpec="" />
@@ -160,7 +160,7 @@ model the pose for your model!
 <anim id="FaintSmile" target="actor" targetSpec="" />You can ask 'em to do any pose you
 can do as a <colour id="1" />Reaction<colour id="65535" />. <delay frames="40" /><anim id="Hello" target="actor" targetSpec="" />So choose a
 model and do a pose from <colour id="1" /><colour id="65535" /> <colour id="3" /><colour id="65535" />.</message>
-	<message label="123" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /> <delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />Yep! <delay20 />That's everything I know
+	<message label="123" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /> <delay frames="80" /><anim id="BigSmile" target="actor" targetSpec="" />Yep! <delay20 />That's everything I know
 about <colour id="1" />models<colour id="65535" />.</message>
 	<message label="131" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You'll want your models wearing
 costumes that match the set, right?<delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />
@@ -177,7 +177,7 @@ won't wear certain things.
 <anim id="Explain" target="actor" targetSpec="" />Anyway, when you're changing sets
 with <colour id="1" /><colour id="65535" />,<delay20 /> just select a character and
 press <colour id="1" /><colour id="65535" /> to switch up their outfit.</message>
-	<message label="132" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /> <delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />Yep! <delay20 />That's everything I know
+	<message label="132" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /> <delay frames="80" /><anim id="BigSmile" target="actor" targetSpec="" />Yep! <delay20 />That's everything I know
 about <colour id="1" />wardrobe<colour id="65535" />.</message>
 	<message label="141" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />You can take pictures with <colour id="1" /><colour id="65535" /> on your
 <colour id="1" />controller<colour id="65535" /> or with your NookPhone's
@@ -196,6 +196,6 @@ app, <delay20 />you can press <colour id="1" /> <colour id="65535" /> to s
 your models that it's time to <colour id="1" />pose<colour id="65535" />.
 <anim id="BigSmile" target="actor" targetSpec="" />If you don't know how to request a
 certain pose, <delay20 />ask me about <colour id="1" />models<colour id="65535" />!</message>
-	<message label="143" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /> <delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />Yep! <delay20 />That's everything I know
+	<message label="143" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /> <delay frames="80" /><anim id="BigSmile" target="actor" targetSpec="" />Yep! <delay20 />That's everything I know
 about <colour id="1" />taking pictures<colour id="65535" />.</message>
 </msbt>

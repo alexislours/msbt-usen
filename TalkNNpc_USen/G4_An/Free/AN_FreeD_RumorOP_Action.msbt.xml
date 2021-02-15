@@ -57,7 +57,7 @@ getting tourists now, <tag a="110" b="5" />!</message>
 you. <delay20 />OK<tag a="110" b="0" /><delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What's wearin' shoes like?<delay20 />
 I've worn socks, but never shoes.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I asked <tag a="115" b="0" arg="0xcd00" />, <delay20 />that
 tourist from <tag a="115" b="2" arg="0xcd00" />, <delay20 />but
-I want your take too!</message>
+I want your take too!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Oh, and no rush. <delay20 />Think on it.</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yeah, I missed it too.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />But I DID see
 'em runnin' around for just about the
 whole day, <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />It looked like <tag a="115" b="0" arg="0xcd00" /> was
@@ -107,6 +107,13 @@ gotta hang out with 'em more often!</message>
 	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I saw 'em doing all kinds of goofy
 expressions.<delay20 /> It was like their face
 was made of rubber, <tag a="110" b="5" />!</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />There was no stopping 'em! <delay20 />It was
+just one trip after another for them.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Gotta say, <delay20 />from what little I saw of
+<tag a="115" b="0" arg="0xcd00" />, <delay20 />it looked like a
+lot of fun, <tag a="110" b="5" />!</message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />I saw 'em hanging out with all kinds
+of folks. <delay20 />It looked like a totally
+rockin' party, <tag a="110" b="5" />!</message>
 	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I spied 'em toilin' away at a
 workbench, <delay20 />smashing out all
 kinds of DIY stuff, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />It looked like a ton of work,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />but
@@ -230,10 +237,9 @@ down flowers, <tag a="110" b="5" />!</message>
 hairstyle, <tag a="110" b="5" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I mean, If I were them, I would've
 gone for something a bit more street
 punk,<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />but they really do look good!</message>
-	<message label="150" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />'Cause I didn't. <delay20 />Someone did say
-something about a<tag a="110" b="0" /><delay20 />new face?<delay20 />
-Sounds kinda wild, <tag a="110" b="5" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Well, I'm keeping an eye out for
-anyone I don't know, <delay20 />just in case.</message>
+	<message label="150" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />'Cause I almost didn't. <delay20 />They changed
+up their face, which<tag a="110" b="0" /><delay20 />whoa.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />I had no
+idea that was possible, <tag a="110" b="5" />.</message>
 	<message label="151" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I saw 'em taking a lot of photos. <delay20 />And
 I mean a <delay8 />LOT<delay8 /> of photos. <delay20 />Take two
 steps, <delay8 />snap. <delay20 />Two more steps, <delay8 />snap.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I guess maybe they're SUPER into

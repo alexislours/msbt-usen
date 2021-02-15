@@ -9,8 +9,8 @@
 	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Yowza! <delay20 />You just handed me
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
-	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Yo!<delay20 /> This is a real 
-<tag a="125" b="0" arg="0x0" />, huh!</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Yo!<delay20 /> <tag a="50" b="3" /><tag a="125" b="0" arg="0x0" />,
+huh?<delay40 /> You know me so well.</message>
 	<message label="002_03" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />How about that?<delay20 /> You got me
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
 	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
@@ -64,4 +64,25 @@ me something so nice for free.<delay20 />
 walk away empty-handed.<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />But maybe I'll have to,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> since your
 pockets are about to burst.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Why don't I just send my thank-you
 gift by mail, <tag a="110" b="5" />?</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Ha HA! <delay40 />What are the chances?<delay40 />
+<anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<10_4 />
+<anim id="Nodding" target="actor" targetSpec="" />You know my style, that's for sure.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Actually,<delay20 /> when it comes to wardrobe,<delay20 />
+it's always a good idea to keep a
+backup of your favorite items.
+<anim id="Frantic" target="actor" targetSpec="" />You never know when a dry cleaner
+will go rogue.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />I owe you one, <tag a="110" b="3" />.<delay40 />
+<anim id="Nodding" target="actor" targetSpec="" />It would've taken me forever to find
+another designer piece like that.</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />No way! <delay40 /><anim id="HappyFlower" target="actor" targetSpec="" />You brought me
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />I'm sure you can tell just by looking
+at me that I'm a fan.</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Believe it or not,<delay20 /> I'm actually in the
+process of duplicating my entire
+accessory collection.
+<anim id="BigSmile" target="actor" targetSpec="" />Your timing couldn't be more perfect.</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thank you, <tag a="110" b="3" />!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Now I just have to decide which I'll
+wear<delay20 /> and which will be auctioned off
+for charity when I'm famous.</message>
 </msbt>

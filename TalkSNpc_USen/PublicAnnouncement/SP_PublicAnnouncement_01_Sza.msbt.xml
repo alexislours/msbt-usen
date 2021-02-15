@@ -69,22 +69,22 @@ at the tent in the plaza!</message>
 the first <colour id="1" />Bug-Off <colour id="65535" />of the season today
 from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
 	<message label="006_01_02" attrib="00 00 00 00">The first <colour id="1" />Bug-Off<colour id="65535" /> of the season runs
-until <colour id="1" />6 PM<colour id="65535" /> today!</message>
+until <delay20 /><colour id="1" />6 PM<colour id="65535" /> today!</message>
 	<message label="006_02_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
 the second <colour id="1" />Bug-Off <colour id="65535" />of the season
 today from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
 	<message label="006_02_02" attrib="00 00 00 00">The second <colour id="1" />Bug-Off<colour id="65535" /> of the season
-runs until <colour id="1" />6 PM<colour id="65535" /> today!</message>
+runs until <delay20 /><colour id="1" />6 PM<colour id="65535" /> today!</message>
 	<message label="006_03_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
 the third <colour id="1" />Bug-Off <colour id="65535" />of the season today
 from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
 	<message label="006_03_02" attrib="00 00 00 00">The third <colour id="1" />Bug-Off<colour id="65535" /> of the season runs
-until <colour id="1" />6 PM<colour id="65535" /> today!</message>
+until<delay20 /> <colour id="1" />6 PM<colour id="65535" /> today!</message>
 	<message label="006_04_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
 the final <colour id="1" />Bug-Off <colour id="65535" />of the season today
 from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
 	<message label="006_04_02" attrib="00 00 00 00">The final <colour id="1" />Bug-Off<colour id="65535" /> of the season runs
-until <colour id="1" />6 PM<colour id="65535" /> today!</message>
+until<delay20 /> <colour id="1" />6 PM<colour id="65535" /> today!</message>
 	<message label="007_01" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Can you believe it?<delay20 />
 Today is the last day of <tag a="90" b="27" />!<delay20 />
 <anim id="Crying" target="actor" targetSpec="" />This year has meant so much to me<tag a="110" b="0" />
@@ -103,6 +103,18 @@ right now!<10_7 arg="210" /><pageBreak /><anim id="Nodding" target="actor" targe
 away, so head down to the plaza
 as quickly as you can.
 <anim id="Greeting" target="actor" targetSpec="" />See you there!<10_7 arg="210" /></message>
+	<message label="008_01_01" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />And don't forget! <delay40 /><anim id="HappyFlower" target="actor" targetSpec="" />Bunny Day<delay8 />
+is just a few hops away!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I guess that means we can expect
+a change in the weather.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Why is it that as soon as we get used
+to one season, <delay20 />the next one is
+already upon us?</message>
+	<message label="008_01_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I hope you're excited<tag a="110" b="0" /><delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />because today
+is <colour id="1" />Bunny Day<colour id="65535" />! <delay frames="40" />The plaza is all a
+bustle with activity.
+<anim id="QuestionMark" target="actor" targetSpec="" />Perhaps we have a special visitor?<delay40 />
+<anim id="Scheming" target="actor" targetSpec="" />Hint, hint.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Either way, <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />I'm sure there's a lot of
+fun in store for us today! <delay40 /><anim id="Nodding" target="actor" targetSpec="" />So stop by
+the plaza if you have a chance.</message>
 	<message label="010" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />Hello, everyone.<delay40 />
 I'm sorry to interrupt your day, but I
 thought you might want to know<tag a="110" b="0" />
@@ -144,7 +156,7 @@ island life here!</message>
 friend on the island!</message>
 	<message label="200" attrib="00 00 00 00">On a slightly different note<tag a="110" b="0" /></message>
 	<message label="201" attrib="00 00 00 00">Tomorrow, <tag a="110" b="8" /> bids a
-fond a farewell to our dear
+fond farewell to our dear
 friend <tag a="115" b="1" arg="0xcd00" />.
 It's hard to say goodbye,
 but we wish <gender3 m="him" f="her" /> luck on
@@ -310,7 +322,7 @@ something SUPER special!</message>
 	<message label="618_01" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Earlier today a clump of bamboo
 caught my eye<delay8 /> and reminded me of
 a piece of horticultural trivia.
-<anim id="QuestionMark" target="actor" targetSpec="" />Did you know you that this time of
+<anim id="QuestionMark" target="actor" targetSpec="" />Did you know that this time of
 year is perfect for harvesting fresh
 bamboo or<delay8 /> "<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />young spring bamboo<colour id="65535" />"?</message>
 	<message label="618_02_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Which also reminds me<tag a="110" b="0" /></message>

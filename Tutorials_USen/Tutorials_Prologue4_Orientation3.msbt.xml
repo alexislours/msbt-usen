@@ -209,13 +209,13 @@ our island, and we've selected our
 Resident Representative.
 <anim id="EmotEnd" target="actor" targetSpec="" />It's been a big day, but it's gotten
 rather late,<anim id="BigSmile" target="actor" targetSpec="" /> so let's have a toast!</message>
-	<message label="045_04_02" attrib="00 00 00">Everyone have a <anim id="QuestionMark" target="actor" targetSpec="" />beverage in hand?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />It's fresh juice made from <tag a="110" b="7" arg="0xcd01" /><delay20 />
+	<message label="045_04_02" attrib="00 00 00">Everyone have a <anim id="QuestionMark" target="actor" targetSpec="" />beverage in hand?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />It's fresh juice made from <colour id="1" /><tag a="110" b="7" arg="0xcd01" /><colour id="65535" /><delay20 />
 our new Resident Representative
 harvested on this very island!</message>
 	<message label="045_04_03" attrib="00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Then, without further ado<tag a="110" b="0" /><delay frames="40" />
 <anim id="Cheering" target="actor" targetSpec="" />a toast! <delay20 />To <tag a="110" b="9" /> and
 the happiness of its residents!</message>
-	<message label="045_05" attrib="00 00 06"><tag a="10" b="12" /><anim id="BigSmile" target="actor" targetSpec="" />                    <anim id="BigSmile" target="actor" targetSpec="" /><size value="150" />Cheers!<size value="100" /><10_8 arg="20" /></message>
+	<message label="045_05" attrib="00 00 06"><tag a="10" b="12" /><anim id="BigSmile" target="actor" targetSpec="" />                    <anim id="BigSmile" target="actor" targetSpec="" /><size value="150" />Cheers!<size value="100" /><10_8 arg="60" /></message>
 	<message label="047" attrib="01 00 00">Out of curiosity, <tag a="110" b="1" />,<delay20 />
 is it <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="110" b="9" />-seom<delay8 /> or
 <tag a="110" b="9" />-do?</message>

@@ -64,18 +64,17 @@ find some <tag a="135" b="7" arg="0xcd00" />?</message>
 to the big show. <delay20 />Been waiting for
 my shot for a while now<tag a="110" b="0" /></message>
 	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
-	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You're probably wondering who
-I am and why I'm here.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Well, the name's <tag a="110" b="10" />,
-and I'm a guest of the fabulous
+	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You're probably wondering why
+I'm here, right?<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Well, if you must know,
+I'm a guest of the fabulous
 <tag a="115" b="0" arg="0xcd00" />, <tag a="110" b="5" />.</message>
 	<message label="202_02" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Wondering why I'm here, eh?<delay20 />
 A certain <tag a="115" b="0" arg="0xcd00" />, who
 shall remain nameless, invited me.
 <anim id="Thinking" target="actor" targetSpec="" /><tag a="110" b="0" />Wait, I think I did that wrong.</message>
 	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />What's down, buddy?<delay20 /> Get it?<10_4 />
-<anim id="SmugFace" target="actor" targetSpec="" />I do things a little differently.<delay20 />
-The name's <tag a="110" b="10" />!
-<anim id="OhGeez" target="actor" targetSpec="" />If you want to blame someone
+<anim id="SmugFace" target="actor" targetSpec="" />That's right. I do things differently
+than the average <tag a="110" b="15" />.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />If you want to blame someone
 for my arrival, go talk to
 <tag a="115" b="0" arg="0xcd00" />, <tag a="110" b="5" />.</message>
 	<message label="301" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
@@ -229,13 +228,13 @@ commercial again.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" /
 getting a callback at any time.<delay frames="40" />
 <anim id="Frantic" target="actor" targetSpec="" />I should actually get home!</message>
 	<message label="601_01" attrib="00 00 01 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />I'm not saying I can be bribed with
-fancy gifts, but<tag a="110" b="0" /><pageBreak /><anim id="Grin" target="actor" targetSpec="" />Someone on <tag a="110" b="9" /> gave
-me something pretty cool, and
-now I want to move here.</message>
+fancy gifts, but<tag a="110" b="0" /><pageBreak /><anim id="Grin" target="actor" targetSpec="" />I received something pretty cool
+here on <tag a="110" b="9" />, and now
+I want to move to this island.</message>
 	<message label="601_01_a" attrib="00 00 00 00 00 00 00 00">You should live here!</message>
-	<message label="601_01_b" attrib="00 00 00 00 00 00 00 00">It's just furniture.</message>
-	<message label="601_02" attrib="00 00 01 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Did you know that someone gave me
-a really nice souvenir as soon as
+	<message label="601_01_b" attrib="00 00 00 00 00 00 00 00">It's just a souvenir.</message>
+	<message label="601_02" attrib="00 00 01 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Did you know that I received a
+really nice souvenir as soon as
 I arrived here?
 <anim id="Hesitate" target="actor" targetSpec="" />I don't know if that's standard for
 <tag a="110" b="9" /> or not, but, uh<tag a="110" b="0" /><delay20 />

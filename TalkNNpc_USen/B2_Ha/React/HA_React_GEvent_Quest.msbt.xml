@@ -1,12 +1,13 @@
 <msbt attribsize="8">
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />This ain't the time for small talk!<delay40 /> <anim id="Frantic" target="actor" targetSpec="" />If
 you get the buzzer, don't blame me!</message>
-	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Shh!<delay20 /> You're scaring the bugs.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Shh!<delay20 /> Don't scare the
+bugs, <tag a="110" b="5" />.</message>
 	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Don't slack now or you're gonna run
 out of time, <tag a="110" b="5" />!</message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />If you wanna run out the clock
 talking to me, that's your call<tag a="110" b="0" /></message>
-	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Quit bugging me!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Quit bugging me, <tag a="110" b="5" />!</message>
 	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You trying to call a timeout?<delay20 /> Not
 gonna happen, <tag a="110" b="5" />!</message>
 </msbt>
