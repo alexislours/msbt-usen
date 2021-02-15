@@ -1,0 +1,72 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Awesome job,<delay20 /> <tag a="110" b="3" />!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /><10_4 />
+Now give me that treasure!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Faaaab, <tag a="110" b="3" />!<delay20 />
+Hand over the treasure and
+I'll pry it open for you!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" /><delay8 /><tag a="50" b="3" /><tag a="110" b="3" />, you found it!<delay20 />
+Le cool! <anim id="Greeting" target="actor" targetSpec="" />Let's open it up!</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />'K! Here weeee go!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Fab!<delay40 /> <anim id="Greeting" target="actor" targetSpec="" />I'm going to open it now, 'K?</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />'K!<delay40 /> Here we go!<delay40 /><anim id="Greeting" target="actor" targetSpec="" /> Whaaaat's innnn
+the box?!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Inside was <tag a="50" b="2" />
+<tag a="125" b="4" arg="0x0" />!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Here you go, <tag a="110" b="3" />!
+That was fun, <tag a="110" b="6" />!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ta-DAAAAAAAA!<delay40 /> Inside there is<tag a="110" b="0" />
+<tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />There you go, <tag a="110" b="3" />!<delay40 />
+<anim id="Greeting" target="actor" targetSpec="" />That was totes the most fun this
+island's seen in weeks, <tag a="110" b="6" />!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Check! It! Out!<delay40 /> It's<anim id="EmotEnd" target="actor" targetSpec="" />
+<tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />And now it's yours.<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />What a deal,
+<tag a="110" b="6" />!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Hey, whatevs, you know? <delay20 />If you don't
+hand it over, I can't open it, and you
+don't get a prize.
+<anim id="OhGeez" target="actor" targetSpec="" />Also.<delay20 /> I kind of don't have anything
+else to do right now.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />What are you—<delay20 /><anim id="Restless" target="actor" targetSpec="" /> No!<delay20 /> We have to do
+the handoff out here in the open.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" /><delay20 />I'm pretending to be a secret spy.
+Play along, <tag a="110" b="6" />!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />You're dying to know what the
+treasure is, right?!<delay frames="40" /> <anim id="HappyDance" target="actor" targetSpec="" />Let's open it!<delay frames="40" />
+Hand it over, <tag a="110" b="6" />!</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />That was SOOOOO FUN!
+<tag a="50" b="3" /><tag a="110" b="3" />, it's a blast to
+play with you!<delay40 /> <anim id="BigSmile" target="actor" targetSpec="" />Thanks a bunch!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Thanks for playing treasure hunt
+with me today, <tag a="110" b="3" />!<delay40 />
+<anim id="Hello" target="actor" targetSpec="" />We have to do it again sometime!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="2" />, I had SOOOO
+much fun!<delay40 /> <anim id="Hello" target="actor" targetSpec="" />Let's do it
+again someday!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You couldn't find it in time?<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Too bad,
+so sad. I win!<10_4 /> <anim id="QuestionMark" target="actor" targetSpec="" />Did I forget to
+mention I could win?</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Time's up! <delay20 />I'm the winner! <anim id="Smiling" target="actor" targetSpec="" /><delay20 />Awesome!<10_4 />
+Nobody finds anything I hide there!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You didn't find the treasure in time,<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />so I totally win!<10_4 /> <anim id="Hello" target="actor" targetSpec="" />Let's play again
+some other time!</message>
+	<message label="300" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I waited for you for, like, <delay20 />FOR<delay20 />EV<delay20 />ER,
+<tag a="110" b="4" />!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />But you never came back, so I totes
+ended the treasure hunt.<anim id="EmotEnd" target="actor" targetSpec="" /><10_4 /> <anim id="FaintSmile" target="actor" targetSpec="" />Let's try
+again some other time.</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay40 /> You never
+came back and <anim id="Worried" target="actor" targetSpec="" />I got SO
+WORRIED about you!
+<anim id="EmotEnd" target="actor" targetSpec="" />Like my grandma always said,<delay40 /><anim id="Outraged" target="actor" targetSpec="" />
+"You might've been in a pitfall
+somewhere!"<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />For now? Treasure hunt's over.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />But let's try and play again
+some other time!</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Where'd you go, <tag a="110" b="3" />?<delay20 />
+I waited around!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" /><delay20 />Well, whatevs! <delay20 />Let's have a redo
+on that treasure hunt sometime,
+'K, <tag a="110" b="6" />?</message>
+	<message label="401" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Huh?!<delay frames="30" /> You found it? But the timer's
+already run out<tag a="110" b="0" /><delay frames="40" /><delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" /> Sorry, <anim id="FaintSmile" target="actor" targetSpec="" />but I'll be
+taking that!</message>
+	<message label="402" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You were so close today.<delay frames="60" /> <anim id="Greeting" target="actor" targetSpec="" />Let's play
+again sometime, <tag a="110" b="6" />!</message>
+</msbt>

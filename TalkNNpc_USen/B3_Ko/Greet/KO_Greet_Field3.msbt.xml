@@ -1,0 +1,8 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Aha" target="mainNpc" targetSpec="" />Sure am seeing a lot of you today!<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />It's like you're everywhere! <delay8 />Gahaha!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Seems like yours is the only face
+I'm seein' today, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" />Wha? You again? <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Well then,
+<tag a="110" b="5" /><tag a="110" b="0" />again.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

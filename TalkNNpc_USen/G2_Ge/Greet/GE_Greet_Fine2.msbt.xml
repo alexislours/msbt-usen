@@ -1,0 +1,13 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hi!<delay40 /> Good to see you again,
+<tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Wow, <tag a="110" b="3" />!<delay20 />
+We're seeing a lot of
+one another today!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Thanks for stopping by to say hi!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" /><delay20 />I have an idea<tag a="110" b="0" /><delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />Let's see how many
+more times we can talk to each
+other today, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I so had a feeling I'd run into you
+again today!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

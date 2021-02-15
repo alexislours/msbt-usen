@@ -1,0 +1,25 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Stuff tastes better when it snows.<delay20 />
+Ya gotta try <tag a="135" b="7" arg="0xcd00" />
+topped with snow!<pageBreak />Snow topped with snow is pretty
+tasty too.<10_4 /><anim id="Negative" target="actor" targetSpec="" /> Just don't eat the purple
+snow. <delay20 />It tastes like burnt licorice.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Mmmmmm, cotton candy<tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> Hey!<delay20 /> I was just checking
+out the snow!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" /><delay20 />I can barely contain myself whenever
+I see snow!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />That's why I always use the
+bathroom before I go outside.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00">There's lotsa games to play in the
+snow. <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Maybe I'll play Snowsquatch!
+I'll stomp around and bite everybody!<pageBreak />RWARRRR! <anim id="Laughing" target="actor" targetSpec="" /><delay20 />A huh huh huh! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />YOU'RE
+MY SNACK, <anim id="Laughing" target="actor" targetSpec="" /><delay20 />a huh huh huh<anim id="EmotEnd" target="actor" targetSpec="" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hi there, <delay8 /><tag a="110" b="2" />!<delay20 />
+Having fun?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm having so much fun, I can barely
+feel my toes!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="006" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I wish it would snow all the time,
+don't you, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I'm glad I went out for a walk. <delay20 />I got
+to see you again, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="008" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><delay20 />Hey! <delay20 />It's chilly out today, so don't
+catch a cold!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

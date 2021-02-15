@@ -1,0 +1,11 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 05 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, ya.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Nice day for a walk, huh?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00">Oh<tag a="110" b="0" />we meet again, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey again.<delay frames="40" /><delay20 /> <anim id="Greeting" target="actor" targetSpec="" />You keep checking up on
+me today, huh?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh<tag a="110" b="0" /> <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Kinda weird how we keep
+bumping into each other today.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey<tag a="110" b="0" /> I feel like I've seen you a lot
+today.<delay20 /> Am I seeing you a lot?<delay20 /> Or do I
+just feel that way?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

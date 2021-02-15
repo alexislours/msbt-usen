@@ -1,0 +1,12 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I heard <tag a="115" b="1" arg="0xcd00" /> is sick!<pageBreak />Ya know, <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />it always makes me happy
+when you come to visit<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Maybe you oughta go visit
+<tag a="115" b="1" arg="0xcd00" />, <tag a="110" b="5" />.</message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00">I just heard that <tag a="115" b="1" arg="0xcd00" />
+is feeling real gross!<pageBreak /><anim id="Worried" target="actor" targetSpec="" /><delay20 />Man, I hope <gender3 m="he's" f="she's" /> OK.<delay frames="60" /> <anim id="EmotEnd" target="actor" targetSpec="" /><delay20 /><anim id="Hello" target="actor" targetSpec="" />Could you go
+check, <tag a="110" b="5" />?</message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><delay20 />I guess <tag a="115" b="1" arg="0xcd00" />
+<anim id="Worried" target="actor" targetSpec="" /><delay20 />can't leave the house
+because <gender3 m="he's" f="she's" /> sick!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I bet <tag a="115" b="1" arg="0xcd00" /> will cheer<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />up if you go to visit, <tag a="110" b="5" />.</message>
+</msbt>

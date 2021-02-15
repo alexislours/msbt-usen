@@ -1,0 +1,19 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Sneezing" target="actor" targetSpec="" />BWACHOOEY! <delay frames="40" /><anim id="Shaking" target="actor" targetSpec="" />Ugh.<delay20 /> I'm s-so c-cold<tag a="110" b="0" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />But it's OK, <tag a="110" b="5" />!<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I got a
+fire inside that keeps me burning
+through it all!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />When it's chilly out, <delay20 />my brain goes
+into overdrive with new ideas to
+make up for it, <tag a="110" b="5" />.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Whaddaya say to <tag a="135" b="3" arg="0xcd00" />
+over shaved ice? <delay20 /><anim id="Grin" target="actor" targetSpec="" />I bet folks'd pay
+cold, hard, ringy Bells for that!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Snow's really coming down, ain't it?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />You know what'd rule right now?<delay frames="40" />
+<anim id="Love" target="actor" targetSpec="" />Sitting in a heated house eating a
+big bowl of ice cream, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />It can get cold on these streets when
+neither side backs down an inch<tag a="110" b="0" /><delay20 />
+<anim id="Eh" target="actor" targetSpec="" />in a snowball fight, I mean.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />If you think it's too cold, <delay20 />then you
+just need more inner fire to stay
+warm.<delay frames="40" /> <size value="75" /><anim id="Shaking" target="actor" targetSpec="" />Cooling it is OK sometimes though.<size value="100" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

@@ -1,0 +1,26 @@
+<msbt attribsize="8">
+	<message label="101" attrib="00 00 0c 01 00 00 00 00">A huh. Sorry, <anim id="Greeting" target="actor" targetSpec="" />I got a little dizzy
+standing up and forgot what we
+were talking about.<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="102" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So what's going on, <tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="103" attrib="00 00 0c 01 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Alrighty, everything's good. <delay20 />So, what
+ya wanna talk about, <tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="201_01" attrib="00 00 00 00 00 00 00 00">Hey, <delay8 /><tag a="110" b="3" />!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />
+Lemme stand up, <tag a="110" b="6" />.</message>
+	<message label="201_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Whoa,<delay20 /> it's <tag a="110" b="3" />!<delay frames="40" />
+How you doing, <tag a="110" b="5" />?<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />Gimme a sec<tag a="110" b="0" /></message>
+	<message label="201_03" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><delay20 />Heya,<delay8 /> <tag a="110" b="3" />!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> It's hard
+to think when I'm on the ground, so
+I'm gonna stand up, <tag a="110" b="6" />.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="202_01" attrib="00 00 00 00 00 00 00 00">Heya,<delay8 /> <tag a="110" b="3" />!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> I'm real
+happy you wanna chat.<delay frames="40" /> Lemme get
+up. Juuust a sec, <tag a="110" b="6" /><tag a="110" b="0" /></message>
+	<message label="202_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Heeeey!<delay20 /> It's <tag a="110" b="3" />!<delay frames="40" />
+You came to chat?<delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" /> Man, I am so
+ready to chat. Let's do it!</message>
+	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><delay20 />Heya,<delay8 /> <tag a="110" b="3" />!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> It's hard
+to think when I'm on furniture, so I'm gonna stand up, <tag a="110" b="6" />.</message>
+</msbt>

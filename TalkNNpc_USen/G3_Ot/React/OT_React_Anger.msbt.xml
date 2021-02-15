@@ -1,0 +1,61 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />I need a moment.<delay40 /> <anim id="Silent" target="actor" targetSpec="" />I really must figure
+out where I can go to blow off all this
+steam, <tag a="110" b="6" />.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Outraged" target="actor" targetSpec="" />GRRRR! I'm SO angry!<delay40 /> <anim id="Angry" target="actor" targetSpec="" />Please, <delay frames="13" />just
+give me some space. I need to be
+alone right now.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Outraged" target="actor" targetSpec="" />Ooooh, I'm DONE with this mess!<delay40 />
+<anim id="Angry" target="actor" targetSpec="" />I'm sorry, but I really can't talk now.<delay20 />
+I am NOT in the mood!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> is so irritating!<delay frames="40" />
+It's always, <delay8 />"I know everything. I'm
+so smart." <delay20 />Well, think again, my dear!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Sighing" target="actor" targetSpec="" />That's it! I've had it!<10_4 /><anim id="Restless" target="actor" targetSpec="" /> I just want to
+be me, darling,<delay20 /> but they're always
+pushing their opinions on me.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="OhGeez" target="actor" targetSpec="" />Oooh, that <tag a="115" b="1" arg="0xcd00" />!<delay20 />
+Get a life! Have your own interests!
+<anim id="Thinking" target="actor" targetSpec="" />Is that really so hard to do?!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00">I love shopping, as you know,<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> so
+when there's something I want, <delay8 />yes,<delay8 />
+I do look around for a good deal.<pageBreak /><anim id="Angry" target="actor" targetSpec="" />But then <tag a="115" b="1" arg="0xcd00" /> tells me,
+<delay20 />"You're an adult. <delay8 /><anim id="OhGeez" target="actor" targetSpec="" />Buy what you want
+and don't worry about the Bells."
+<anim id="Serious" target="actor" targetSpec="" />Of all the NERVE!<delay frames="40" /> It's not about the
+Bells!<delay40 /><anim id="Silent" target="actor" targetSpec="" /> Bargain hunting is an art form,
+and I relish the hunt!<10_4 /><anim id="Outraged" target="actor" targetSpec="" /> RELISH IT!</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">Makes sense to me.</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Hmmmm...</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Thank you! It helps to hear that.<anim id="FaintSmile" target="actor" targetSpec="" /> I
+figured you'd understand how I feel.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Heeeeey, wouldn't it be funny to buy
+the same stuff as <tag a="115" b="1" arg="0xcd00" />,<delay20 />
+<anim id="Laughing" target="actor" targetSpec="" />but get a much better deal? Hee hee!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Explain" target="actor" targetSpec="" />You could just buy what you want,
+<anim id="FaintSmile" target="actor" targetSpec="" />but setting rules for yourself<anim id="Nodding" target="actor" targetSpec="" /> makes
+you a better shopper.
+<anim id="Love" target="actor" targetSpec="" />Getting new things is nice, of course,
+<anim id="EmotEnd" target="actor" targetSpec="" />but getting them for a good price<anim id="Smiling" target="actor" targetSpec="" /> is
+twice as fun!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />I'm sorry, <tag a="110" b="4" />,<delay20 /> but I
+don't feel much like talking to
+anyone right now!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Outraged" target="actor" targetSpec="" />I don't want to see anyone right now.<delay frames="40" />
+<anim id="Angry" target="actor" targetSpec="" />Until I can get my emotions in order,
+I need you to leave me alone!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />Ooooh, I am SO MAD right now!<delay40 />
+Just let me be mad, alright?!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="203" attrib="00 00 02 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />What is it now, <tag a="110" b="3" />?<delay20 />
+What do you want?<delay20 /><anim id="Angry" target="actor" targetSpec="" /> Remember,
+I'm still mad at you!</message>
+	<message label="203_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Uh...I'm sorry?</message>
+	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yeeeeaaahhh...</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" /><tag a="110" b="0" /><delay40 /><anim id="Sighing" target="actor" targetSpec="" /><delay8 />Alright, fine. Never mind.<anim id="Worried" target="actor" targetSpec="" /> I can tell
+you've thought about what you did.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I guess you've learned your lesson.<delay20 />
+<anim id="Restless" target="actor" targetSpec="" />I'll forget about it this time, but be
+more careful in the future!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" /><tag a="110" b="0" /><delay40 /><anim id="Sighing" target="actor" targetSpec="" />Ohhhh, it's no use. I just can't stay
+mad at that face.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I want to make up and move on,<delay20 /><anim id="OhGeez" target="actor" targetSpec="" />
+so let's agree to put the whole
+ugly mess behind us.</message>
+</msbt>

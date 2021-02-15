@@ -1,0 +1,12 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Wh<tag a="110" b="0" />what are you doing?!<delay20 />
+That hurt, <tag a="110" b="3" />!<delay20 />
+<anim id="Worried" target="actor" targetSpec="" />Knock it off!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Owww<tag a="110" b="0" /> <delay20 />Why'd you do that?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Yikes!<delay frames="40" /> <anim id="Angry" target="actor" targetSpec="" />Don't be so mean!<delay20 />
+I don't dig bullies.<anim id="Outraged" target="actor" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Y<tag a="110" b="0" />you<tag a="110" b="0" />you hit me?!<delay frames="40" /><anim id="Crying" target="actor" targetSpec="" /> Oooowwww<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Aaaah!<delay20 /> Why would you do that?!<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />Do you hate me, <tag a="110" b="3" />?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Knock it off!<delay40 /> That's just real bad to
+do.<anim id="OhGeez" target="actor" targetSpec="" /><delay20 /> So don't do it to folks!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

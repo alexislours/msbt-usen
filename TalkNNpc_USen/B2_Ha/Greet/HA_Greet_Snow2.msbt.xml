@@ -1,0 +1,12 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />Brr<tag a="110" b="0" /><delay20 /> I feel the cold in my
+bones, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Cold days like this are perfect for
+training indoors where it's warm!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><tag a="10" b="12" /><anim id="Cheering" target="actor" targetSpec="" /><delay frames="30" /><size value="150" />BRING IT ON!<size value="100" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />When it's cold, just yell real loud.<delay20 />
+It helps, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yo, <tag a="110" b="5" />!<delay20 /> Doing some
+snow training?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Heya, <tag a="110" b="5" />! Keepin' warm?<delay20 />
+<anim id="Shaking" target="actor" targetSpec="" /><colour id="4" />I'm not cold<tag a="110" b="0" /> I'm not cold<tag a="110" b="0" /><colour id="65535" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

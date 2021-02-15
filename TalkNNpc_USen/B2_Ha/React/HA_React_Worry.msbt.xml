@@ -1,0 +1,23 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />If you add biceps to triceps, you
+should get fiveceps<tag a="110" b="0" /><delay20 />right?<delay frames="40" /><20_2 arg="6" /><anim id="Shocked" target="actor" targetSpec="" /> Oh!
+You startled me!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I'm kind of in the middle of some 
+deep thinking. Maybe go exercise
+a bit while I'm musing, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />So if I add that to that<tag a="110" b="0" /><delay frames="70" /><anim id="Nodding" target="actor" targetSpec="" /> Yes!<10_4 />
+<20_2 arg="6" /><anim id="Shocked" target="actor" targetSpec="" />Oh, it's you, <tag a="110" b="5" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm adding up the calories I burned.<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Except I keep losing my count!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x4 0x5 0x6" /></message>
+	<message label="004" attrib="07 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Calories from speedwalking<tag a="110" b="0" /><delay20 />
+Calories from watering flowers<tag a="110" b="0" /><delay20 />
+Calories from fishing<tag a="110" b="0" /><delay20 /> Yeah, fishing.</message>
+	<message label="005" attrib="07 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Calories from walking<tag a="110" b="0" /><delay20 /> Calories from
+digging holes<tag a="110" b="0" /><delay20 /> Calories from
+catching bugs<tag a="110" b="0" /><delay20 /> Yeah, those count.</message>
+	<message label="006" attrib="07 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Calories from warming up<tag a="110" b="0" /><delay20 /> Calories
+from visualization<tag a="110" b="0" /><delay20 /> Calories from
+stretching<tag a="110" b="0" /><delay20 /> I guess that's about it.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="Surprised" target="actor" targetSpec="" />Whoa!<delay40 /> <anim id="Worried" target="actor" targetSpec="" />Sorry, I'm counting calories
+burned, and you kinda caught me
+off guard, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

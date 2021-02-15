@@ -1,0 +1,81 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 01 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<pageBreak />I've been getting a crash course in
+gardening,<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />taught by our resident
+expert,<delay20 /> <20_3 arg="4" /><tag a="110" b="31" arg="0xcd01" />.
+<anim id="QuestionMark" target="actor" targetSpec="" />Did you know she had such a green
+thumb,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />I guess I did, yeah.</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh... Really?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I just lookit how stuff fits together:<delay20 />
+<anim id="Explain" target="actor" targetSpec="" />that flower with that grass,<delay20 /> that gear
+with that camshaft,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><20_2 arg="5" />It helps<delay20 /> if you don't mind <anim id="Nodding" target="mainNpc" targetSpec="" />getting
+a little dirt<delay20 /> or grease on yourself.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00">Pay attention to the plants<delay20 /> that're
+<anim id="Nodding" target="actor" targetSpec="" />already growing well on the island.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><20_2 arg="0" />Seems obvious now,<delay20 /> but <anim id="Hesitate" target="actor" targetSpec="" />she had
+to point it out for me to notice.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Sure.<delay40 /> Whyzat so surprising?<delay frames="40" /><20_2 arg="5" /> <anim id="Explain" target="actor" targetSpec="" />Anyway,<delay20 />
+flowers'll let ya know when you're
+treating 'em well.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Like that purr when an engine's
+running smooth<delay8 /><tag a="110" b="0" /> <anim id="Nodding" target="mainNpc" targetSpec="" />If they're green
+and blooming,<delay20 /> you're doing it right.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><20_2 arg="0" /><anim id="BigSmile" target="actor" targetSpec="" />See?<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />While I'm busy researching
+horticulture at the library,<delay20 /> she's
+just out there experiencing it!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="OhGeez" target="actor" targetSpec="" />Just look at what's already working
+for Ma Nature.<delay20 /> <anim id="Nodding" target="mainNpc" targetSpec="" /><delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />That's all I do.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">My favorite books <anim id="AbsentMindedness" target="actor" targetSpec="" />leave me feeling
+like I've lived another life for a while,<delay20 />
+maybe even learned something<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And I've been on a lucky streak
+lately,<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />picking one great book after
+another to read,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Eh" target="actor" targetSpec="" />Oh yeah?<delay40 /> What kind of books
+are we talking about here?<pageBreak /><colour id="4" />Ugh, probably some goofy junk with
+a helpless damsel in distress<delay8 /><tag a="110" b="0" /><colour id="65535" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I just read "Raccoon of Action,"<delay20 /> so
+I got to imagine making big deals<delay20 />
+and growing a vast retail empire<delay8 /><tag a="110" b="0" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Eh" target="actor" targetSpec="" />Huh?<delay frames="40" /> <anim id="Restless" target="actor" targetSpec="" />But you'd hate that stressed-
+out lifestyle,<delay20 /> <tag a="110" b="31" arg="0xcd00" />!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00">I didn't say <anim id="Laughing" target="actor" targetSpec="" />I wanted to run a big
+business myself<delay20 /> or anything<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />I just <anim id="OhGeez" target="actor" targetSpec="" />like reading about things I'll
+never do,<delay20 /> lives I'll never lead.<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00">If I'm gonna read a story like that,<delay20 />
+I want it to end <anim id="Grin" target="actor" targetSpec="" />with your bigshot
+deciding to give it all away.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Maybe this former retail titan<delay20 /> could
+just go around planting new forests<anim id="FaintSmile" target="mainNpc" targetSpec="" />
+instead,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Eh" target="actor" targetSpec="" />So what kind of book are we talking
+about,<delay20 /> <tag a="110" b="5" />?<pageBreak /><colour id="4" />Probably some sappy romance with
+a fluffy-haired prince riding in on
+his white horse to win the girl<delay8 /><tag a="110" b="0" /><colour id="65535" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I just picked up "A Lazybones Life."<delay40 />
+The main character decides one day<delay20 />
+<anim id="Pardon" target="actor" targetSpec="" />to walk away from all his chores<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />He decides to dedicate himself to
+<anim id="Smiling" target="actor" targetSpec="" />becoming<delay20 /> a world-champion napper!</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wow,<delay20 /> <tag a="110" b="31" arg="0xcd00" />!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Can't picture you ever downshifting
+into that low a gear,<delay20 /> <tag a="110" b="5" />.<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Maybe that's why I got swept up
+in the story<delay8 /><tag a="110" b="0" /> <anim id="AbsentMindedness" target="actor" targetSpec="" />I was amazed that
+anyone could be so laid-back!<anim id="EmotEnd" target="actor" targetSpec="" />
+<anim id="IdeaBulb" target="actor" targetSpec="" />Do you want me to lend the book to
+you<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />when I'm done reading it?</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah,<delay20 /> that's OK.<delay frames="40" /> I got better things
+to do than read about <anim id="Grin" target="actor" targetSpec="" />some sleepy
+goof,<anim id="Laughing" target="mainNpc" targetSpec="" /><delay20 /> idling away their day in bed.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I was looking up cosmos blossoms<delay20 />
+and read that the flower's name
+<anim id="FaintSmile" target="actor" targetSpec="" />comes from a word for harmony.
+I liked that idea.<delay20 /> <anim id="HappyFlower" target="actor" targetSpec="" />Everything in its
+right place,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, their petals are all spaced out
+evenly,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />just like spokes on a wheel<delay8 /><tag a="110" b="0" /><pageBreak /><20_2 arg="4" />Can I ask you<delay8 /><tag a="110" b="0" />is it fun,<delay20 /> saying that
+thing you say all the time?<delay40 /> <anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="WrySmile" target="actor" targetSpec="" />'Cause it
+makes me smile every time!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="Blushing" target="actor" targetSpec="" />Awww,<delay20 /> that's sweet!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />You're free to
+try it out,<delay20 /> you know<delay8 /><tag a="110" b="0" /> <anim id="Smiling" target="subNpc" targetSpec="" />It's not like
+I own "<tag a="110" b="5" />" or anything.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />OK,<delay20 /> you're on.<anim id="FaintSmile" target="actor" targetSpec="" /><delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />!<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Hey,<delay8 /> that is fun!<delay20 /> <anim id="Smiling" target="actor" targetSpec="" /><anim id="Smiling" target="mainNpc" targetSpec="" />Now we can be
+<tag a="110" b="5" /> buddies.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" /><20_2 arg="3" />I'd like that,<delay20 /> <tag a="110" b="31" arg="0xcd01" />.</message>
+</msbt>

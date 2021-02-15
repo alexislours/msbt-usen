@@ -1,0 +1,134 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Oh, <delay8 />did you come to check up
+on me?</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I brought <tag a="50" b="0" arg="0x400 0xcd03" />medicine!
+<anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="0" arg="0x400 0xcd03" />Medicine delivery!
+<anim id="EmotEnd" target="actor" targetSpec="" />Here, this will help!</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Take care of yourself.
+<anim id="EmotEnd" target="actor" targetSpec="" />Feel better soon.
+<anim id="EmotEnd" target="actor" targetSpec="" />Get some rest.</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> You came all
+this way! <anim id="Restless" target="actor" targetSpec="" />You must have been
+worried about me.</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I brought <tag a="50" b="0" arg="0x400 0xcd03" />medicine!
+<anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="0" arg="0x400 0xcd03" />Medicine delivery!
+<anim id="EmotEnd" target="actor" targetSpec="" />Here, this will help!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Take care of yourself.
+<anim id="EmotEnd" target="actor" targetSpec="" />Feel better soon.
+<anim id="EmotEnd" target="actor" targetSpec="" />Get lots of rest.</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Ah,<delay8 /> <tag a="110" b="3" />.<delay20 /> Someone
+must've told you I was ill.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />It was
+so kind of you to check up on me.</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I brought <tag a="50" b="0" arg="0x400 0xcd03" />medicine!
+<anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="0" arg="0x400 0xcd03" />Medicine delivery!
+<anim id="EmotEnd" target="actor" targetSpec="" />Take this. It'll help!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Take care of yourself.
+<anim id="EmotEnd" target="actor" targetSpec="" />Feel better soon.
+<anim id="EmotEnd" target="actor" targetSpec="" />Get some rest.</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Oh dear<tag a="110" b="0" /><delay20 />ouch<tag a="110" b="0" /><delay20 />ouch<tag a="110" b="0" /><delay20 />
+<anim id="Negative" target="actor" targetSpec="" />This headache is just awful.</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I brought <tag a="50" b="0" arg="0x400 0xcd03" />medicine!
+<anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="0" arg="0x400 0xcd03" />Medicine delivery!
+<anim id="EmotEnd" target="actor" targetSpec="" />Here, this will help!</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Take care of yourself.
+<anim id="EmotEnd" target="actor" targetSpec="" />Feel better soon.
+<anim id="EmotEnd" target="actor" targetSpec="" />Get some rest.</message>
+	<message label="005" attrib="00 00 02 00 00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />Ugh<tag a="110" b="0" /> Oof<tag a="110" b="0" /> I feel horrid.<delay20 /> <anim id="Frantic" target="actor" targetSpec="" />Oh no,<delay8 />
+is the room dimming?<delay20 /> Is this the
+end?<delay20 /> <anim id="SadSpiral" target="actor" targetSpec="" />Goodbye, <delay8 />cruel world!</message>
+	<message label="005_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I brought <tag a="50" b="0" arg="0x400 0xcd03" />medicine!
+<anim id="EmotEnd" target="player" targetSpec="" />Try this <tag a="50" b="0" arg="0x400 0xcd03" />medicine.
+<anim id="EmotEnd" target="player" targetSpec="" />Here, this will help!</message>
+	<message label="005_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Take care of yourself.
+<anim id="EmotEnd" target="actor" targetSpec="" />Feel better soon.
+<anim id="EmotEnd" target="actor" targetSpec="" />Get some rest.</message>
+	<message label="006" attrib="00 00 02 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Oh<tag a="110" b="0" />oh my<tag a="110" b="0" /> I feel dizzy<tag a="110" b="0" /><delay8 /> <anim id="Worried" target="actor" targetSpec="" />I feel as if
+I might faint at any moment.</message>
+	<message label="006_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I brought <tag a="50" b="0" arg="0x400 0xcd03" />medicine!
+<anim id="EmotEnd" target="player" targetSpec="" />Try this <tag a="50" b="0" arg="0x400 0xcd03" />medicine.
+<anim id="EmotEnd" target="player" targetSpec="" />Here, this will help!</message>
+	<message label="006_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Take care of yourself.
+<anim id="EmotEnd" target="actor" targetSpec="" />Feel better soon.
+<anim id="EmotEnd" target="actor" targetSpec="" />Get some rest.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh <tag a="110" b="3" />,<delay8 /> did you come
+to check up on me?<delay40 /> <anim id="Confused" target="actor" targetSpec="" />I'm so sorry to
+worry you, <delay8 />my dear.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Why, <delay8 /><tag a="110" b="3" /><tag a="110" b="0" /> Did you
+come to see how I'm feeling?<delay40 /><anim id="Hello" target="actor" targetSpec="" />
+You're too kind, <delay8 />my dear.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />, <delay8 /><anim id="Greeting" target="actor" targetSpec="" />it's kind of you
+to check on me.<delay20 /> It warms my heart<tag a="110" b="0" />
+<anim id="Hot" target="actor" targetSpec="" />or perhaps that's just the fever?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />Ugh. <delay8 />I'm terribly under the weather.<delay20 />
+I feel like a stiletto with a broken
+heel, darling.
+<anim id="Sighing" target="actor" targetSpec="" />If only I had some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />medicine<colour id="65535" /> to cure
+what ails me<tag a="110" b="0" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Hot" target="actor" targetSpec="" />Ooooh,<delay8 /> I'm burning up<tag a="110" b="0" /><delay8 />and yet I'm
+also somehow<tag a="110" b="0" /><delay8 /><anim id="Shaking" target="actor" targetSpec="" />freezing!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />I haven't been this sick in ages, <delay8 />so
+I don't have any <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />medicine<colour id="65535" /> on hand.</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />I feel so run down and not at all like
+myself. <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />There's no denying it—<delay8 /><anim id="Sighing" target="actor" targetSpec="" />I've
+come down with a cold.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />And of COURSE I'm all out
+of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />medicine<colour id="65535" />.</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Thank you<tag a="110" b="0" /><delay8 /> <anim id="Greeting" target="actor" targetSpec="" />Your kind words
+are comforting.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Oh, thank you<tag a="110" b="0" /><delay40 /> <anim id="Greeting" target="actor" targetSpec="" />I think I'll just lie
+low and take it easy for today.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Thank you, my dear.<delay40 /> <anim id="Worried" target="actor" targetSpec="" />All I can do
+today is relax and hope for the best.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Oh my, <delay20 />you went to the trouble of
+bringing <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />medicine<colour id="65535" /> to me?<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Aren't
+you a dear! <delay20 />Thank you so much.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />Medicine<colour id="65535" /> is precisely what I needed.
+<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />You're my savior,<delay8 /> darling.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh, thank you! <delay20 />How can I ever
+repay you?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Ahhh<tag a="110" b="0" />what a relief.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Now I must sit
+back, relax, and let the medicine do
+its work.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Phew<tag a="110" b="0" />what a relief.<delay20 /> I'm sure
+with a little rest<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /> I'll be feeling—<delay8 />
+and looking—<delay8 />better in no time.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Ahhh,<delay8 /> I'm sure I'll be back to myself
+in no time.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />In the meantime, <delay8 />I'll be
+sure to rest up.</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Eh<tag a="110" b="0" /><delay8 />didn't you say you
+had <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />medicine<colour id="65535" />?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh. <delay8 />I see.<delay20 /> I suppose you didn't
+have it after all<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh my.<delay8 /> Oh dear.<delay frames="40" /> If only I had
+some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />medicine<colour id="65535" /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Well,<delay8 /> I'm so glad you checked up on
+me, <delay8 /><tag a="110" b="3" />. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />I don't know
+what I'd have done if you hadn't.
+<anim id="Blushing" target="actor" targetSpec="" />Please, darling, <delay8 />accept <tag a="50" b="2" />
+<tag a="125" b="4" arg="0x0" /><delay40 /> as a
+token of my gratitude.</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />You know, darling, <delay8 />everyone should
+have a friend like you.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Please,<delay8 /> allow
+me to give you this thank-you gift.<delay40 />
+<anim id="Hello" target="actor" targetSpec="" />I do hope you like it. <delay20 />It's <tag a="50" b="2" />
+<tag a="125" b="4" arg="0x0" />.</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />You know,<delay8 /> I think I'm feeling better
+already. <anim id="FaintSmile" target="actor" targetSpec="" />And it's all because of you!<delay frames="40" />
+Please, <delay8 /><anim id="Greeting" target="actor" targetSpec="" />let me give you a little gift.
+<anim id="Blushing" target="actor" targetSpec="" />It's nothing fancy, my dear, <delay8 />just
+<tag a="50" b="2" /><tag a="125" b="4" arg="0x0" /><tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />But hopefully you can make use of it.</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Next time you feel horrid and can't
+get out of bed,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I'll be sure to come
+take care of you!</message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Now,<delay8 /> take good care of yourself so
+you don't fall sick.<delay40 /> <anim id="Negative" target="actor" targetSpec="" />I wouldn't want
+you to feel like I did.</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Now <tag a="110" b="3" />,<delay8 /> <anim id="Greeting" target="actor" targetSpec="" />if you need
+anything AT ALL, <delay8 />just drop me a line.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />As your friend,<delay8 /> I'll do whatever I can!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Now, you really must let me give you
+a little thank-you gift for bringing
+that wonderful <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />medicine<colour id="65535" />.
+<anim id="Eh" target="actor" targetSpec="" />Oh, <delay frames="13" />your pockets are full to bursting!<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />I'll have to mail it, then.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Not to worry,
+it'll be there shortly, <tag a="110" b="6" />.</message>
+</msbt>

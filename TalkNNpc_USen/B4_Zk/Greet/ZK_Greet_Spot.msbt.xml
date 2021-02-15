@@ -1,0 +1,17 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />! <delay20 />Fancy
+meeting you here.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Among the cacophonous catcalls of
+clamoring creatures, your footstep
+called out to me.
+<anim id="Thinking" target="actor" targetSpec="" /><tag a="110" b="0" />That was you, wasn't it?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />A chance encounter at the
+aquarium<tag a="110" b="0" /> <anim id="Laughing" target="actor" targetSpec="" />It feels like something
+dramatic is about to happen!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Ahh, I knew it would be you.<delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />
+You're the only thing in here
+with a heartbeat, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="006" attrib="00 00 0c 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Doing a little shopping, eh?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Whaddaya know? <delay20 />It's my lucky day
+running into you here!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

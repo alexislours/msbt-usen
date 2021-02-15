@@ -1,0 +1,97 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 03 01 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="6" />, have you had a
+snack break today?</message>
+	<message label="001_a" attrib="02 00 00 00 00 00 00 00">Yup.</message>
+	<message label="001_b" attrib="03 00 00 00 00 00 00 00">Not yet.</message>
+	<message label="001_c" attrib="04 00 00 00 00 00 00 00">I was just about to.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00">Aw, no! <delay20 /><anim id="Sighing" target="actor" targetSpec="" />That's super sad.<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />Nobody
+should have a snack break!<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />The
+snacks oughta be nonstop!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />What?! Why not?!<delay20 /> Snack time's<anim id="Laughing" target="actor" targetSpec="" />
+five of the most important meals
+in the day!</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Ooh! I love that bit,<delay8 /> just before ya
+bite your first snack of the day<tag a="110" b="0" />
+<anim id="HappyFlower" target="actor" targetSpec="" />When anything seems possible<tag a="110" b="0" /></message>
+	<message label="005" attrib="00 00 03 01 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" /><tag a="110" b="0" /><delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />when it's snack
+time, which snack do you go for?</message>
+	<message label="005_a" attrib="06 00 00 00 00 00 00 00">Cake.
+Chocolates.
+Marshmallows.</message>
+	<message label="005_b" attrib="07 00 00 00 00 00 00 00">Jellied artichokes.
+Warm pickles.
+Spicy sardines.</message>
+	<message label="005_c" attrib="08 00 00 00 00 00 00 00">I can't decide!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />I was thinking the same thing!<delay40 /> That's
+why we're gonna be snack buddies
+forever and ever!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I hadn't thought about that!<delay8 />
+You've opened up a new world
+of snack ideas<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It's a gross world. <delay20 />And I wanna
+rescue you from it, <delay20 />but as long as
+you're happy, <anim id="Nodding" target="actor" targetSpec="" /><delay20 />I'm happy for ya.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yeah<tag a="110" b="0" />I've been there, <tag a="110" b="6" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />That's why I don't choose!<anim id="Laughing" target="actor" targetSpec="" /><delay20 />
+I just eat it all!</message>
+	<message label="009" attrib="00 00 10 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />. Which one
+of these would you say is your
+favorite snack, <tag a="110" b="6" />?</message>
+	<message label="009_a" attrib="0a 00 00 00 00 00 00 00">Cookies.</message>
+	<message label="009_b" attrib="0b 00 00 00 00 00 00 00">Chocolate.</message>
+	<message label="009_c" attrib="0c 00 00 00 00 00 00 00">Ice cream.</message>
+	<message label="009_d" attrib="0d 00 00 00 00 00 00 00">Cake.</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, me too! <delay8 />I love cookies! <anim id="AbsentMindedness" target="actor" targetSpec="" /><delay20 />I like 'em
+soft and chewy. Oh! And with a glass
+of milk<tag a="110" b="0" /> Sooo yummy.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />You and me oughta be
+cookie buddies!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Chocolate is my favorite too!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Do ya like your chocolate sweet
+or dark? <delay20 />Either way<tag a="110" b="0" />there's no
+such thing as bad chocolate.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />I even like melted chocolate that's
+been in my pocket all day! I call it
+finger goop!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ice cream is so good! <anim id="AbsentMindedness" target="actor" targetSpec="" /><delay frames="40" />It feels great
+in your mouth and it makes your
+tummy chilly!<pageBreak />The best flavor of ice cream is<tag a="110" b="0" />
+<anim id="HappyFlower" target="actor" targetSpec="" />all of them! They're all the best!<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Don't let anybody tell ya different!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's true. Ya can't beat cake.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I love a fluffy sponge cake with blue
+frosting <delay20 />and sprinkles <delay20 />and the words
+"You Are A Cool Guy" written on it.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="6" />, anytime you wanna
+talk about cake, just come find me!</message>
+	<message label="014" attrib="00 00 10 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="6" />, let's play a game.
+<delay20 />Pick a color, <delay frames="16" />and I'll tell ya
+what food you're most like!</message>
+	<message label="014_a" attrib="0f 00 00 00 00 00 00 00">Red.</message>
+	<message label="014_b" attrib="10 00 00 00 00 00 00 00">Orange.</message>
+	<message label="014_c" attrib="11 00 00 00 00 00 00 00">Yellow.</message>
+	<message label="014_d" attrib="12 00 00 00 00 00 00 00">Gold.</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Red! That means you're fiery like a
+ha<delay frames="20" />baba<delay frames="40" />-ben<delay frames="30" />-er<delay frames="25" />ioh pepper! <anim id="Frantic" target="actor" targetSpec="" />One taste
+of you and everybody's jumpin'!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Orange! That means you're like
+an onion<tag a="110" b="0" /><delay20 />or maybe a radish?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I dunno what it means, but I know
+I like ya, buddy!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Yellow! That means you're like<tag a="110" b="0" />
+<delay8 />lemon ice cream!<delay40 /> <anim id="HappyFlower" target="actor" targetSpec="" />That's some
+of the <delay8 />bestest ice cream <delay8 />ever!</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Gold! That means you're like a<tag a="110" b="0" /><delay8 />um,<delay20 />
+what's a real yummy gold food? <delay8 />Something everybody loves?<pageBreak />I know! Since you like gold, <anim id="Love" target="actor" targetSpec="" />you'd be
+a durian!<delay20 /> So yummy!<10_4 /> Smelly too, but
+I LOVE smells!</message>
+	<message label="019" attrib="00 00 03 01 00 00 00 00"><anim id="Sleepy" target="actor" targetSpec="" />Yikes...<delay20 />I can't stop yawning today.<delay frames="80" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Is it true that yawns are catchy?<delay20 />
+Do you feel sleepy?</message>
+	<message label="019_a" attrib="14 00 00 00 00 00 00 00">Yeah, a little bit.</message>
+	<message label="019_b" attrib="15 00 00 00 00 00 00 00">Not at all.</message>
+	<message label="019_c" attrib="16 00 00 00 00 00 00 00">I can't sleep.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00">Yeah, me too. <delay20 /><anim id="Sleepy" target="actor" targetSpec="" />What's going on with
+us today?<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Wait, maybe it isn't just us. <delay20 />Maybe
+everyone on <tag a="110" b="8" /> is
+cursed to nap!</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />No yawns? <delay frames="40" /><anim id="Sleepy" target="actor" targetSpec="" />Not even a little one?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />That's not fair<tag a="110" b="0" /> As soon as I'm
+asleep, I'm going to complain to
+the sandman.</message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Really? <delay frames="50" /><anim id="Sleepy" target="actor" targetSpec="" />I never have trouble falling
+asleep whenever I want.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I can do it <delay8 />anywhere!
+<delay20 /><anim id="Sleepy" target="actor" targetSpec="" />Just<tag a="110" b="0" /><delay20 />watch<tag a="110" b="0" /> <anim id="Sleep" target="actor" targetSpec="" />zzz<tag a="110" b="0" /><delay20 />zzz<tag a="110" b="0" /><delay20 />zzzz<tag a="110" b="0" /><10_4 />
+<anim id="Sleepy" target="actor" targetSpec="" />Pretty cool, huh?</message>
+</msbt>

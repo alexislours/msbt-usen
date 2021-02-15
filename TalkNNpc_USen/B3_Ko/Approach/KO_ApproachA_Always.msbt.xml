@@ -1,0 +1,21 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey there, <tag a="110" b="3" />!<delay8 />
+I, uh<tag a="110" b="0" />I think I had something
+to say just now<tag a="110" b="0" />
+<anim id="IdeaBulb" target="actor" targetSpec="" />Oh yeah!<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" /><tag a="110" b="0" />Nope. There it goes
+again. <delay8 /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00">Hey, <tag a="110" b="3" />!<delay8 />
+Now, listen here a minute<tag a="110" b="0" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> Guess the old noodle is
+a bit soggy today. <delay8 /><anim id="Angry" target="actor" targetSpec="" />I have no idea
+what I was going to say!</message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />What's that now?<delay8 /> Whaddaya need
+from me? <10_4 /><anim id="Frantic" target="actor" targetSpec="" />Wait, did I need something
+from YOU?
+<anim id="Thinking" target="actor" targetSpec="" />But you came and talked to me,
+right?<delay8 /> Or was it the other way
+around? <delay8 /><anim id="OhGeez" target="actor" targetSpec="" />Gah! Forget about it!</message>
+	<message label="004" attrib="00 00 00 01 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Oh boy. <delay8 />I just completely forgot what
+I was gonna ask you.<pageBreak />Well, it probably wasn't important.
+<anim id="Thinking" target="actor" targetSpec="" />And if it was<tag a="110" b="0" /> <delay8 />Well, I can always
+get mad about it later!<delay8 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+</msbt>

@@ -1,0 +1,80 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00">Whoa<anim id="Nodding" target="actor" targetSpec="" /><20_2 arg="5" /><tag a="110" b="0" /> <tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" />,<20_2 arg="7" /><anim id="Greeting" target="actor" targetSpec="" />
+you smell real pretty.<anim id="Eh" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00">Thank you. <anim id="Smiling" target="actor" targetSpec="" />I've been unsure if this
+new fragrance is flattering.<delay20 /> It's called
+Eau de Truite. <delay8 />You've heard of it?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />A huh huh huh! Nope!<delay8 />
+<anim id="BigSmile" target="actor" targetSpec="" />Hey! You should try
+smelling me too!<anim id="Shocked" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00">Are you trying out a cologne as well?<delay frames="40" />
+Let's see<tag a="110" b="0" /><delay8 /><anim id="Nodding" target="actor" targetSpec="" /><size value="75" />sniff<size value="100" /><tag a="110" b="0" /><anim id="Blushing" target="mainNpc" targetSpec="" />I detect notes
+of<tag a="110" b="0" /><size value="75" />sniff<size value="100" /><tag a="110" b="0" /><anim id="Frantic" target="subNpc" targetSpec="" />eeeugh! <delay8 />What <delay8 />is THAT?<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="110" b="0" />Old spaghetti sauce?!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="110" b="0" />Dried nacho cheese?!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="110" b="0" />Moldy mushrooms?!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="110" b="0" />Pickled potato chips?!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="110" b="0" />Durian?!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />A huh huh, <delay frames="40" /><delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />I'm not wearing cologne.<delay20 />
+<20_2 arg="6" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />I just wanted to be smelled!<delay20 />
+<20_2 arg="5" /><anim id="Grin" target="actor" targetSpec="" />Thanks, <tag a="110" b="31" arg="0xcd01" />!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I see.<delay20 /> Well, that scent is very<tag a="110" b="0" /><delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" />you.<20_2 arg="8" /><delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Guess what, <tag a="110" b="31" arg="0xcd01" />!<delay frames="40" />
+The other day?<delay frames="40" /> I was outside?
+Aaaaand<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">I was running? <delay8 />Because a bat was
+maybe chasing me? <delay20 />Maybe?
+<anim id="Sighing" target="actor" targetSpec="" />And I fell and tore my shirt.<anim id="EmotEnd" target="actor" targetSpec="" /> </message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00">I was running and the ground<anim id="Oops" target="actor" targetSpec="" />
+tripped me and hit my face!<delay20 />
+And it tore up my shirt too!<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Grrr! I'm so mad at the ground!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00">I was running and I fell into a hole
+because I guess sometimes there's
+no ground in places?<pageBreak />Anyway, my favorite <anim id="Sighing" target="actor" targetSpec="" />shirt got all
+ripped up. Ugh.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Nodding" target="actor" targetSpec="" />There, there.<delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" /> I am known as the
+"Queen of Couture" after all!<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" />I'll design a new garment and you
+can help!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" />Worry not! <anim id="SmugFace" target="actor" targetSpec="" />They call me the "Queen
+of Couture" for good reason!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'll design you something dashing,
+yet practical! You can help,<delay8 /><anim id="Eh" target="mainNpc" targetSpec="" />
+if you like.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="SmugFace" target="actor" targetSpec="" />Now, now, my clumsy friend.
+Don't forget, they call me the
+"Queen of Couture!"<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'll design you something
+even more stylish than before!
+You can help,<delay8 /><anim id="Eh" target="mainNpc" targetSpec="" /> if you like.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00">Really?!<delay8 /> Yaaay!<delay8 /> <anim id="BigSmile" target="actor" targetSpec="" />I'm real happy
+I told you!<anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak /><anim id="EmotEnd" target="subNpc" targetSpec="" />Hey, hang on. Who calls you
+the "Queen of Cutlery"? I've never
+heard that, <tag a="110" b="31" arg="0xcd01" />!<anim id="TakenAback" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00">I've been thinking this for a while,
+<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="Angry" target="actor" targetSpec="" />but you are simply churlish at times.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />I love churros! You calling me a
+churro is, wow, what an honor<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Hold on now!<delay frames="40" /> I wasn't—<delay8 />
+<anim id="Sighing" target="actor" targetSpec="" /><delay8 />Oh, whatever. As my assistant,
+you've earned the title.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />And that's how I learned
+I couldn't fly, <tag a="110" b="6" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd00" />!<delay20 /> How did you
+ever get on top of the— <delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />Never mind.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Whatever was that you just said?
+"<tag a="50" b="3" /><tag a="110" b="5" />" was it?<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="Eh" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />That's my catchphrase! It just slips
+out sometimes, <tag a="110" b="6" />!
+I can't really control it.<pageBreak /><tag a="50" b="3" /><tag a="110" b="6" />! <delay8 />See?<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />A huh huh huh!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="6" />!
+Oh. Interesting. It seems your
+catchphrase is indeed catchy.<pageBreak /><tag a="50" b="3" /><tag a="110" b="6" /><tag a="110" b="0" />or catch<delay8 />ing, perhaps.<10_4 />
+<anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="6" />!<delay40 /> Oh my.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd00" /><tag a="110" b="0" /> What is
+happening? Why can't I
+stop saying <tag a="110" b="6" />?</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Aw, ya get used to it.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />You'll just be hanging out, snacking,
+and <tag a="110" b="6" />! I don't even
+notice it any more, <tag a="110" b="6" /><anim id="EmotEnd" target="actor" targetSpec="" />!<pageBreak />Grandpa says it's 'cause I stopped
+my bike with my face too much.
+<anim id="Laughing" target="actor" targetSpec="" />A huh huh huh, <tag a="110" b="6" />!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />But why is it happening to ME?!
+<tag a="50" b="3" /><tag a="110" b="6" />! <anim id="Frantic" target="actor" targetSpec="" />HELP! <tag a="50" b="3" /><tag a="110" b="6" />!
+<tag a="50" b="3" /><tag a="110" b="6" />! CALL SOMEONE!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+</msbt>

@@ -1,0 +1,15 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You hear about <tag a="115" b="1" arg="0xcd00" />?<delay20 />
+<gender3 m="He" f="She" />'s in bed, feelin' pretty lousy.<pageBreak />You oughta go say hi! <delay20 /><anim id="Assent" target="actor" targetSpec="" />All <gender3 m="he" f="she" /> needs
+to get better is some company and
+<gender3 m="he" f="she" />'ll be good as new!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Yo<tag a="110" b="0" /><delay20 />word is, <tag a="115" b="1" arg="0xcd00" /> has
+some kinda plague.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Or maybe it was just somethin' <gender3 m="he" f="she" />
+ate. <delay20 />Who knows. <delay20 />Point is, you should
+go visit. <delay20 /><gender3 m="He" f="She" /> could use a friend!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Someone told me <tag a="115" b="1" arg="0xcd00" />
+caught some kinda bug!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> And not the
+cool ones that buzz around.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" /><gender3 m="He" f="She" /> must be lonely, cooped up at
+home with nothin' to do. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />Why don't
+you go help <gender3 m="him" f="her" /> feel better?</message>
+</msbt>

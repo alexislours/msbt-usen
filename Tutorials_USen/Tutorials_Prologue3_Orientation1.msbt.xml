@@ -1,0 +1,108 @@
+<msbt attribsize="3">
+	<message label="001" attrib="00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Alright, is that everyone?<delay20 /> <anim id="Thinking" target="actor" targetSpec="" />Let's see<tag a="110" b="0" /></message>
+	<message label="002" attrib="00 00 00">Is <tag a="115" b="1" arg="0xcd00" /> here?</message>
+	<message label="003" attrib="00 00 00">And how about <tag a="115" b="1" arg="0xcd01" />?</message>
+	<message label="004" attrib="00 00 00">And there's <tag a="110" b="1" />,
+of course!</message>
+	<message label="005" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Great! <delay20 />We're all here.</message>
+	<message label="006" attrib="00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I'll turn it over to you, <colour id="3" />Mr. Nook<colour id="65535" />.<delay20 />
+Our three adventurers are ready
+to get started!</message>
+	<message label="007" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes! Very good!</message>
+	<message label="008_01" attrib="00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Let's see, how shall I begin<tag a="110" b="0" /></message>
+	<message label="008_02" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yes, of course.<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />Welcome, everyone!<delay20 />
+Welcome to your new island.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />My name is <colour id="3" />Tom Nook<colour id="65535" />, and I'm the
+founder and president of Nook Inc.<delay20 />
+Yes, yes!</message>
+	<message label="009" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Today is the first day of your new
+life on this pristine, lovely island.<delay20 />
+So, congratulations!</message>
+	<message label="010" attrib="00 00 00">And <delay8 />this is a package deal,<delay8 /> hm?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />As such, Nook Inc. staff will always
+be here to support you and ensure
+your comfort and safety.</message>
+	<message label="011" attrib="00 00 00">But<tag a="110" b="0" /><anim id="BigSmile" target="actor" targetSpec="" />first things first. <delay20 />Yes, yes!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'd like each of you to choose a spot
+of your own. <delay20 />It's the first step to
+putting down some real roots!
+<anim id="AbsentMindedness" target="actor" targetSpec="" />I'd like you to dream big—I do have
+certain connections in construction
+and real estate, and<tag a="110" b="0" />
+<anim id="OhGeez" target="actor" targetSpec="" />Ah, but I'm getting ahead of myself.<delay20 />
+Let's just get started with a simple
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tent<colour id="65535" />, shall we?
+<anim id="Nodding" target="actor" targetSpec="" />Please collect your <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tent <colour id="65535" />from <colour id="3" />Timmy
+<colour id="65535" />or <colour id="3" />Tommy<colour id="65535" /> and then choose a spot
+to place it.</message>
+	<message label="101" attrib="00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><colour id="3" />President Nook<colour id="65535" />!<delay20 /> I've got
+<tag a="110" b="1" /> here!</message>
+	<message label="102" attrib="00 00 00" />
+	<message label="103" attrib="00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hello, hello! So you're our new
+resident, <tag a="110" b="1" />?<pageBreak /><anim id="Clapping" target="actor" targetSpec="" />Welcome to <tag a="110" b="8" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm <colour id="3" />Tom Nook<colour id="65535" />, manager of this island
+and president and CEO of Nook Inc.</message>
+	<message label="104" attrib="00 00 00"><anim id="Explain" target="actor" targetSpec="" />Originally this was a deserted island,
+so Nook Inc. offered a Deserted
+Island Getaway Package.<anim id="Smiling" target="actor" targetSpec="" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />We're a lot less deserted now, but <anim id="Nodding" target="actor" targetSpec="" />we
+still accept new residents.</message>
+	<message label="105" attrib="00 00 00"><anim id="Restless" target="actor" targetSpec="" />Now, <tag a="110" b="1" />, as to the
+matter of where you'll rest
+your sleepy head at night<tag a="110" b="0" /></message>
+	<message label="106" attrib="00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />There! A little comfort item for you.</message>
+	<message label="107" attrib="00 00 00">And, er<tag a="110" b="0" /><anim id="Frantic" target="actor" targetSpec="" />I'm terribly sorry, but due to
+a slight mix-up, we weren't able to
+prepare a place for you to live yet<tag a="110" b="0" />
+<anim id="Blushing" target="actor" targetSpec="" />If you could, take a look around and
+set up your <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tent <colour id="65535" />wherever you like.<pageBreak />That shouldn't be a problem, right?
+After all, it's in <anim id="Laughing" target="actor" targetSpec="" />keeping with our
+original "deserted island" theme!</message>
+	<message label="108" attrib="00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />There's something else you'll need
+as well<tag a="110" b="0" /></message>
+	<message label="109" attrib="00 00 00">And, finally, the most important item
+of all<tag a="110" b="0" /></message>
+	<message label="110_01" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes, <delay20 />you've<tag a="110" b="0" /><anim id="Serious" target="actor" targetSpec="" /> Huh?<10_7 arg="90" /><pageBreak /><anim id="Frantic" target="actor" targetSpec="" />Hey, <tag a="110" b="1" />!<delay40 /> You don't
+have any money at all!</message>
+	<message label="110_02" attrib="00 00 00"><anim id="Shocked" target="actor" targetSpec="" />What<tag a="110" b="0" /><delay frames="90" /><delay40 /><10_7 arg="120" /></message>
+	<message label="111" attrib="00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh no!<delay20 /> No Bells, <tag a="110" b="1" />?<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />It's crazy, honestly. <delay8 />So many of my
+customers arrive here without two
+Bells to rub together<tag a="110" b="0" /></message>
+	<message label="112_01" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Now, if I could turn your attention to
+the <colour id="1" />Resident Services <colour id="65535" />tent just
+behind me<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />We're there 24 hours a day to
+support you, so stop by any time
+you have something on your mind.<anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="112_02" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Now, if I could turn your attention<delay20 />
+to the <colour id="1" />Resident Services <colour id="65535" />tent
+behind me<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'm there 24 hours a day to support
+you, so stop by any time you have
+something on your mind.<anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="112_03" attrib="00 00 00"><anim id="Restless" target="actor" targetSpec="" />Though<tag a="110" b="0" /><pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Tomorrow we'll be closed for
+construction of a new <colour id="1" />Resident
+Services <colour id="65535" />building.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You should stop by at least once
+today. Enjoy it while you can!<anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="112_04" attrib="00 00 00"><anim id="Restless" target="actor" targetSpec="" />Now, <delay20 />if I could turn your attention to
+the veiled building behind me. This is
+where you'll find <colour id="1" />Resident Services<colour id="65535" />.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />As you might have guessed,<delay20 />
+it's under construction today, so I'm
+afraid it's not open at the moment.<pageBreak /><anim id="Confused" target="actor" targetSpec="" />I'm very sorry we won't be able
+to offer much in the way of
+support today.<delay20 />
+I do hope you understand.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Construction will be finished by
+tomorrow, so stop by then, hm?</message>
+	<message label="112_05" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Now, if I could turn your attention<delay20 /> to
+the <colour id="1" />Resident Services<colour id="65535" /> building
+behind me<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />The delightful <colour id="3" />Isabelle<colour id="65535" /> and I are there
+24 hours a day to support you, <delay20 />so
+stop by to consult with us whenever!<anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="112_06" attrib="00 00 00"><anim id="Restless" target="actor" targetSpec="" />However<tag a="110" b="0" /><pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Tomorrow happens to be New Year's
+Eve, you see, so<delay20 /> it will be closed all
+day for our Countdown event.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Since we're closed tomorrow, <delay20 />I highly
+recommend you stop in at least once
+today. Enjoy it while you can!<anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="112_07" attrib="00 00 00"><anim id="Restless" target="actor" targetSpec="" />If I could turn your attention<delay20 /> to the
+building behind me<tag a="110" b="0" /> That's our
+<colour id="1" />Resident Services<colour id="65535" /> building.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />It happens to be closed today for
+our New Year's Eve Countdown
+event, though.<pageBreak /><anim id="Confused" target="actor" targetSpec="" />I'm very sorry we won't be able to
+offer you much in terms of support
+today, but<delay20 /> I hope you understand.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />We'll be back open tomorrow,
+so<delay20 /> enjoy the final day of the year.
+And come by to see us!</message>
+</msbt>

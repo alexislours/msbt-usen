@@ -1,0 +1,11 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00">All this falling snow makes me so
+happy<delay8 /><tag a="110" b="0" /> <anim id="BigSmile" target="actor" targetSpec="" />I just can't resist walking
+around in it,<delay20 /> <tag a="110" b="5" />!<anim id="FaintSmile" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Isn't a snowy day fun,<delay20 /> <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm going to try and catch myself
+a snowflake,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Enjoying this snow,<delay20 /> <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Snowy <tag a="110" b="8" /> really is
+magical,<delay20 /> <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

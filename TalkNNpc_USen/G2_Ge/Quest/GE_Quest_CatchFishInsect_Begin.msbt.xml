@@ -1,0 +1,188 @@
+<msbt attribsize="8">
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I bet it'd be way cool to live with
+<tag a="50" b="2" /><tag a="125" b="2" arg="0xcd00" />!</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Want me to catch one?</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />I hope you get to!</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Another <tag a="125" b="2" arg="0xcd00" />
+got away from me!<delay40 /> <anim id="SadSpiral" target="actor" targetSpec="" />I'm so not
+having a good bug-catching day!</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I could help you!</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />You'll catch one!</message>
+	<message label="008" attrib="00 00 02 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />It'd be pretty fab to watch
+<tag a="50" b="2" /><tag a="125" b="3" arg="0xcd00" /> swim<delay20 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />around every day.</message>
+	<message label="008_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Want me to catch one?</message>
+	<message label="008_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Try catching one!</message>
+	<message label="009" attrib="00 00 02 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I've been trying to catch <tag a="50" b="2" />
+<tag a="125" b="3" arg="0xcd00" />,<delay20 /> but I'm having
+legit the worst luck!</message>
+	<message label="009_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Want me to help?</message>
+	<message label="009_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />You'll get one!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Yay!<delay40 /> It's so cool of you to do that!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Really?<delay20 /> You're the best!<delay40 /> I can't wait
+to see it!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Really?!<delay40 /> <anim id="HappyDance" target="actor" targetSpec="" />Ohmigosh! I'm so excited!</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Yeah?!<delay40 /> Awesome!<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Happy hunting!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />I'm going to try <delay20 />SO<delay20 /> hard<delay20 /> to find one!
+<delay20 /><anim id="Greeting" target="actor" targetSpec="" />Wish me luck!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Well,<delay20 /> I've already got all I need to
+keep one as a pet.<delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" /> Now I just
+need to catch one!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Thanks for saying that!<delay40 /> <anim id="BigSmile" target="actor" targetSpec="" />You've got
+me all pumped up! <delay20 />I'm going to go
+look some more!</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Nice pep talk!<delay40 /> <anim id="Smiling" target="actor" targetSpec="" />I'm not giving up<delay20 />
+until I catch one!</message>
+	<message label="021" attrib="00 00 02 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />You're pretty good at catching bugs,<delay8 />
+aren't you,<delay8 /> <tag a="110" b="3" />?<pageBreak /><anim id="Oops" target="actor" targetSpec="" />I really want a rhino beetle in my life,
+you know, as a pet-slash-captive
+audience, but I just can't catch one!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" /><delay20 />Can you catch me one?
+<delay20 />Pretty please?</message>
+	<message label="021_a" attrib="00 00 00 00 00 00 00 00">I'll take care of it!
+I'm on it!
+No problem!</message>
+	<message label="021_b" attrib="00 00 00 00 00 00 00 00">Sorry.
+I can't right now.
+Sorry, but I can't.</message>
+	<message label="022" attrib="00 00 02 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are you good at catching bugs,
+<tag a="110" b="3" />?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I want to watch a stag beetle work
+his weird scissor jaws<tag a="110" b="0" />but I can't
+catch one no matter how hard I try!<pageBreak /><anim id="Frantic" target="actor" targetSpec="" /><delay20 />Pleeeaaase can you catch me
+a stag beetle?</message>
+	<message label="022_a" attrib="00 00 00 00 00 00 00 00">I'll take care of it!
+I'm on it!
+No problem!</message>
+	<message label="022_b" attrib="00 00 00 00 00 00 00 00">Sorry.
+I can't right now.
+Sorry, but I can't.</message>
+	<message label="023" attrib="00 00 02 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Have you ever wanted a thing so bad
+it's all you think about when you're
+asleep or awake?
+I reeeaaally want a cicada. I'd write
+songs about it. Maybe sing a duet.<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" /><delay20 />But they always get away,
+<tag a="110" b="6" />. <anim id="Hesitate" target="actor" targetSpec="" /><delay20 />Can you maybe
+catch me a cicada? <delay20 />Pretty please?</message>
+	<message label="023_a" attrib="00 00 00 00 00 00 00 00">I'll take care of it!
+I'm on it!
+No problem!</message>
+	<message label="023_b" attrib="00 00 00 00 00 00 00 00">Sorry.
+I can't right now.
+Sorry, but I can't.</message>
+	<message label="025" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Don't you think butterflies are supes
+adorbs, <tag a="110" b="3" />? <anim id="Love" target="actor" targetSpec="" /><delay20 />I love
+them SO much!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" /><delay20 />But they always flutter off when
+I try to catch one, <tag a="110" b="6" />.<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />Can you help me out and catch me a
+butterfly? Any kind of butterfly you
+find is way cool. <delay frames="40" /><size value="75" />They're all so pretty<tag a="110" b="0" /><size value="100" /></message>
+	<message label="025_a" attrib="00 00 00 00 00 00 00 00">I'll take care of it!
+I'm on it!
+No problem!</message>
+	<message label="025_b" attrib="00 00 00 00 00 00 00 00">Sorry.
+I can't right now.
+Sorry, but I can't.</message>
+	<message label="026" attrib="00 00 02 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Aren't dragonfly wings sooo
+pretty? <delay frames="40" />It'd be way neat to
+see some up close!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />But the little dorks always zip off the
+second I get close!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Hey <tag a="110" b="3" />, do you think
+you can you catch one for me?</message>
+	<message label="026_a" attrib="00 00 00 00 00 00 00 00">I'll take care of it!
+I'm on it!
+No problem!</message>
+	<message label="026_b" attrib="00 00 00 00 00 00 00 00">Sorry.
+I can't right now.
+Sorry, but I can't.</message>
+	<message label="027" attrib="00 00 02 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />, can I ask
+you a favor?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I want to catch a bug off a flower,
+but I just end up facedown in a
+flower bed.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />And that's just, like, mean to the
+flowers.<anim id="QuestionMark" target="actor" targetSpec="" /><delay20 /> Think you can catch me
+a flower bug?</message>
+	<message label="027_a" attrib="00 00 00 00 00 00 00 00">I'll take care of it!
+I'm on it!
+No problem!</message>
+	<message label="027_b" attrib="00 00 00 00 00 00 00 00">Sorry.
+I can't right now.
+Sorry, but I can't.</message>
+	<message label="028" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay frames="40" /> I want to catch
+a bug off a tree stump because I
+signed up for a weird challenge.<pageBreak />But I can't do it! So, I don't know,
+I'm going to<tag a="110" b="0" /><delay20 />forget the challenge
+<anim id="Restless" target="actor" targetSpec="" />and ask someone to do it,<anim id="Scheming" target="actor" targetSpec="" /><delay20 /> I guess?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Unless you'd like to help your fave
+pop star, that is. <delay20 />Can you catch me
+a bug you found on a stump?</message>
+	<message label="028_a" attrib="00 00 00 00 00 00 00 00">I'll take care of it!
+I'm on it!
+No problem!</message>
+	<message label="028_b" attrib="00 00 00 00 00 00 00 00">Sorry.
+I can't right now.
+Sorry, but I can't.</message>
+	<message label="031" attrib="00 00 02 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />River fish are le trendy and that's
+cool for me because I like my fish
+fresh and in style.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Buuuuut <delay8 />I can't catch one! Because
+fishing means I have to sit still<tag a="110" b="0" /><10_4 /><anim id="Pardon" target="actor" targetSpec="" />
+and COME ON!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="3" /><tag a="110" b="0" />can you
+catch me a fish?<delay20 /> Any fish from
+a river!</message>
+	<message label="031_a" attrib="00 00 00 00 00 00 00 00">I'll take care of it!
+I'm on it!
+No problem!</message>
+	<message label="031_b" attrib="00 00 00 00 00 00 00 00">Sorry.
+I can't right now.
+Sorry, but I can't.</message>
+	<message label="032" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />What are your feelings about fish
+from the sea, <tag a="110" b="3" />?<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />They're, like, my new "in" thing.<delay20 />
+You know, the briny depths, the shiny scales and all.<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" /><delay20 />But I can't catch one.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Aren't you super good at fishing,
+<tag a="110" b="3" />?<delay20 /> Could you catch
+me a fish from the sea?!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="032_a" attrib="00 00 00 00 00 00 00 00">I'll take care of it!
+I'm on it!
+No problem!</message>
+	<message label="032_b" attrib="00 00 00 00 00 00 00 00">Sorry.
+I can't right now.
+Sorry, but I can't.</message>
+	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />? Could you
+maybe do a thing for me?<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I'm looking for <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" />,<delay20 /> <anim id="Worried" target="actor" targetSpec="" />but
+I can't find one anywhere<tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Since you're, like, way, waaay better
+at catching bugs than I am<tag a="110" b="0" />
+<anim id="Nodding" target="actor" targetSpec="" />could you catch one for me?</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00">Sure!</message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00">I'm busy right now.</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Ugh!<delay20 /> I <delay20 />can<delay20 />not<delay20 /> catch <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" /><delay20 /> no
+matter how hard I try!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I can't find one! And I've been
+looking for a super long time!</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">I'll catch one for you.</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Keep trying!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Really?! <anim id="HappyDance" target="actor" targetSpec="" /><delay20 />That's so super excellent of
+you, <tag a="110" b="3" />!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh<tag a="110" b="0" /> 'K<tag a="110" b="0" /> <delay40 /><anim id="Greeting" target="actor" targetSpec="" />I'll just keep searching on
+my own!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Really?! <anim id="HappyDance" target="actor" targetSpec="" />You're my favorite
+bug hunter!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00">Well, thanks for listening to my
+complaints, at least! <anim id="Greeting" target="actor" targetSpec="" /><delay20 />I'm going
+to go look some more!</message>
+	<message label="201" attrib="00 00 02 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />I need your help, <tag a="110" b="3" />!
+I keep trying, but I can't catch
+<tag a="50" b="2" /><tag a="125" b="3" arg="0xcd00" />!<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />The stress is really getting to me.
+And there's nothing worse for your
+musical creativity than fish stress.</message>
+	<message label="201_a" attrib="00 00 00 00 00 00 00 00">I'll help you!</message>
+	<message label="201_b" attrib="00 00 00 00 00 00 00 00">Kinda busy right now.</message>
+	<message label="202" attrib="00 00 02 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I tried really hard<tag a="110" b="0" />but I can't
+catch <tag a="50" b="2" /><tag a="125" b="3" arg="0xcd00" />.
+<anim id="Worried" target="actor" targetSpec="" /><delay20 />Like<tag a="110" b="0" />at all.<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />Maybe <delay20 />I'm just bad at fishing?<delay40 />
+<anim id="Crying" target="actor" targetSpec="" />Maybe I'm <delay frames="40" />THE <delay frames="40" />WOOOOOOORST!<10_4 />
+<anim id="Sighing" target="actor" targetSpec="" />Could you catch one for me? Please? </message>
+	<message label="202_a" attrib="00 00 00 00 00 00 00 00">Chill. I got this.</message>
+	<message label="202_b" attrib="00 00 00 00 00 00 00 00">Calm down. Try again!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />YAY! <delay20 />Thank you so much!<delay40 /> You're the
+best, <tag a="110" b="3" />!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I understand<tag a="110" b="0" /> <anim id="Nodding" target="actor" targetSpec="" />I'll go<anim id="FaintSmile" target="actor" targetSpec="" /> look for it
+by myself!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />R-<delay20 />really?!<delay40 /> <anim id="HappyDance" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, you
+are, like, SO totally dependable!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00">'K<tag a="110" b="0" /> <anim id="Nodding" target="actor" targetSpec="" />Yeah<tag a="110" b="0" /> I feel a little better now.<delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />
+I'm going to go look some more!</message>
+</msbt>

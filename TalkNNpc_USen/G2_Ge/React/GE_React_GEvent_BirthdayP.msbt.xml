@@ -1,0 +1,12 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />There's someone who wants to talk
+with you, <tag a="110" b="3" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You should swing by when you
+can, <tag a="110" b="6" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><delay20 />Hey, <tag a="110" b="3" />!
+<anim id="QuestionMark" target="actor" targetSpec="" />Could you pass a message
+to <tag a="115" b="0" arg="0xcd00" /> for me?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />There's someone who wants to talk
+with them. They said to drop by
+whenever. Alone.<pageBreak />SO dubious, right? <anim id="Laughing" target="actor" targetSpec="" /><delay20 />I promise
+it's totes important. <anim id="Greeting" target="actor" targetSpec="" />The most
+important thing today, in fact!</message>
+</msbt>

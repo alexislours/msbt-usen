@@ -1,0 +1,187 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh,<delay8 /> <tag a="110" b="3" />!<delay20 /><20_2 arg="5" /><anim id="Greeting" target="actor" targetSpec="" />
+<tag a="110" b="31" arg="0xcd01" /> here was just
+telling me he's putting on a play.
+<anim id="EmotEnd" target="actor" targetSpec="" /><20_2 arg="6" />And darling,<delay8 /> <anim id="HappyDance" target="actor" targetSpec="" />he wants ME to star
+as the princess! <delay8 />Me! <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Can you
+believe it?</message>
+	<message label="002" attrib="00 00 05 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Exactamundo!<20_2 arg="2" /><delay20 /> <20_2 arg="8" />But don't worry,
+<tag a="110" b="3" />, <delay8 /><anim id="Greeting" target="actor" targetSpec="" />you can be in
+it too.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />You can play,<delay8 /> hmm, <delay8 />lemme see<tag a="110" b="0" /><delay8 />
+<anim id="IdeaBulb" target="actor" targetSpec="" />I know! <delay8 />You can play Villager A.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><20_2 arg="6" /><anim id="Explain" target="actor" targetSpec="" />You'll have to do a lot of standing
+around in the background,<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />
+but you'll be great at it.
+<anim id="EmotEnd" target="actor" targetSpec="" />Of course, <delay8 />the real question is<tag a="110" b="0" />
+<anim id="QuestionMark" target="actor" targetSpec="" />who should I play?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">The prince!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">The princess!</message>
+	<message label="002_c" attrib="00 00 00 00 00 00 00 00">A frog.</message>
+	<message label="002_d" attrib="00 00 00 00 00 00 00 00">Villager B.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ha HA!<delay8 /> <20_2 arg="2" />Of course! <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />I don't want to
+brag or anything,<delay8 /> but it's the role
+I was BORN to play.
+<anim id="Smiling" target="actor" targetSpec="" /><20_2 arg="8" /><tag a="50" b="3" /><tag a="110" b="3" /> totally gets it,<delay8 />
+don't you?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><20_2 arg="7" />Now,<delay8 /> here's the deal<tag a="110" b="0" /> <anim id="Explain" target="actor" targetSpec="" />There's this
+evil witch, <delay8 />and she's cast a powerful
+sleeping spell on the—</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Princess?<20_2 arg="1" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Nope!<20_2 arg="4" /> <delay20 />Psych! <delay20 /><anim id="Eh" target="mainNpc" targetSpec="" />Not this time! <delay frames="40" /><anim id="Explain" target="actor" targetSpec="" />See, <delay8 />in
+a surprise twist,<delay20 /> she casts the spell
+on the PRINCE, yo!<anim id="EmotEnd" target="mainNpc" targetSpec="" />
+<anim id="FaintSmile" target="actor" targetSpec="" />And that puts him in a deep slumber.<delay20 />
+Obviously.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So, the princess—<delay20 />that's you,
+<tag a="110" b="31" arg="0xcd00" />—<delay20 />has to wake the
+prince<delay20 />—that's ME—<delay20 />with a kiss.<anim id="Shocked" target="mainNpc" targetSpec="" />
+<anim id="Smiling" target="actor" targetSpec="" />On the lips.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Serious" target="actor" targetSpec="" />No.<anim id="Eh" target="subNpc" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><delay8 /><20_2 arg="4" /><tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />With a kiss on the cheek?<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Still no.<anim id="Shocked" target="subNpc" targetSpec="" /><20_2 arg="3" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" /><20_3 arg="5" /><tag a="110" b="31" arg="0xcd01" /> darling,<delay8 />
+I'd rethink this story of
+yours if I were you.<anim id="EmotEnd" target="subNpc" targetSpec="" />
+<anim id="Outraged" target="actor" targetSpec="" />Unless you'd like me to show you
+what a real princess does when
+pressured into a kiss?!<anim id="TakenAback" target="subNpc" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><20_2 arg="4" /><anim id="Confused" target="actor" targetSpec="" />N-no!<delay8 /> Not at all! <delay8 /><anim id="Confused" target="actor" targetSpec="" />We can, um,<delay8 />
+workshop that part.</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><anim id="TakenAback" target="mainNpc" targetSpec="" />The prin—cess, eh?!<20_2 arg="2" /><delay8 /> Me?!<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />
+Well, <delay8 />that's an unexpected choice.<anim id="EmotEnd" target="mainNpc" targetSpec="" />
+<delay20 />But you know what?<delay8 /> <anim id="BigSmile" target="actor" targetSpec="" />I'm in!<anim id="Serious" target="mainNpc" targetSpec="" />
+<anim id="Explain" target="actor" targetSpec="" />Challenging roles are what I live for!<delay20 />
+And a princess,<delay8 /> well, <delay8 /><anim id="Smiling" target="actor" targetSpec="" />that's the role
+of a lifetime!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><20_2 arg="5" /><anim id="Angry" target="actor" targetSpec="" />But<20_2 arg="3" /><tag a="110" b="0" />but<tag a="110" b="0" /><20_2 arg="7" />that was supposed to be
+MY role of a lifetime!<anim id="ShyBoy" target="subNpc" targetSpec="" /><delay8 /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Ah well.<delay8 /> Truth be told,<delay8 /><anim id="SmugFace" target="actor" targetSpec="" />
+I'm better suited for the
+role of a queen,<anim id="FaintSmile" target="subNpc" targetSpec="" /> darling.</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="mainNpc" targetSpec="" /><anim id="Thinking" target="actor" targetSpec="" />A frog.<delay frames="13" /><20_2 arg="2" /> I see.<delay8 /> Interesting choice.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />Oh wait,<delay8 /> I get it! <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />I'm a frog—wink,
+wink—<delay8 />who's ACTUALLY a prince.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />The wicked witch put a curse on
+the prince and TURNED him into
+a frog.<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> I dig. <delay8 />I dig.<delay8 />
+<anim id="Greeting" target="actor" targetSpec="" />Of course, <delay8 />the frog can only turn
+into a prince if the princess gives
+him<delay8 /> <anim id="FaintSmile" target="actor" targetSpec="" />a smooch.<anim id="TakenAback" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00">Well,<anim id="EmotEnd" target="actor" targetSpec="" /> <20_2 arg="3" /><delay8 />if that's the case, <delay8 /><anim id="SmugFace" target="actor" targetSpec="" />I can assure
+you the frog will remain a frog<delay8 /> <anim id="Eh" target="subNpc" targetSpec="" />for
+the rest of his life.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><20_2 arg="5" /><anim id="OhGeez" target="actor" targetSpec="" />How about <20_2 arg="4" />a hug? <delay8 />Can a frog get
+a hug around here?<anim id="Angry" target="mainNpc" targetSpec="" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />No?<delay8 /> Well,<delay8 /><anim id="Grin" target="actor" targetSpec="" /> I guess that's toadally
+understandable.<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Get it?<delay20 /> TOADally?<anim id="Negative" target="mainNpc" targetSpec="" />
+<delay20 />Ha HA!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Villager B?!<20_2 arg="2" /><delay8 /> Moi?!<anim id="Grin" target="mainNpc" targetSpec="" /> <delay20 />I mean—c'mon—<delay8 />
+<anim id="OhGeez" target="actor" targetSpec="" />I've taken A LOT of acting classes.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Hold up a minute<tag a="110" b="0" /> <anim id="Greeting" target="actor" targetSpec="" />Maybe you're
+onto something,<delay8 /> <tag a="110" b="3" />.<pageBreak />What if this whole play is told from
+the commoners' point of view?<anim id="Eh" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />That's right!<delay8 /> Forget the royalty! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />
+The villagers are the stars of this
+story.<anim id="TakenAback" target="mainNpc" targetSpec="" /> <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Especially Villager B!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />The villagers?<20_2 arg="3" /><delay20 /> But what about
+the princess?! <anim id="Eh" target="subNpc" targetSpec="" /><delay frames="40" /><anim id="Outraged" target="actor" targetSpec="" />What about MY
+starring role?!<anim id="ShyBoy" target="subNpc" targetSpec="" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Hmph.<delay8 /><anim id="SmugFace" target="actor" targetSpec="" />
+I say, OFF WITH THEIR HEADS!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">My goodness, <delay8 /><tag a="110" b="31" arg="0xcd01" />,<delay20 /><anim id="Negative" target="actor" targetSpec="" />
+I can't believe I actually heard you
+say—<delay20 />and I quote—<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />"Today's postmodern milieu is
+blocking the flow of my chi."<anim id="Eh" target="subNpc" targetSpec="" /><delay8 /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I mean,<delay8 /> really?<delay20 /> Do you even know
+what that means?<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />First of all,<20_2 arg="4" /><delay8 /> it means I have a very
+sensitive chi, <delay8 />yo! <delay20 /><anim id="TakenAback" target="mainNpc" targetSpec="" />And second of all,<delay8 /><anim id="Negative" target="actor" targetSpec="" />
+I didn't say it exactly like THAT.<anim id="EmotEnd" target="mainNpc" targetSpec="" />
+<anim id="OhGeez" target="actor" targetSpec="" />Sheesh. <delay8 />You make me sound like a
+snob or somethin'.</message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />That's precisely<20_2 arg="3" /> what you said!<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />And let's be honest, darling,<delay8 /><anim id="Grin" target="actor" targetSpec="" /> you DO
+sound rather pompous at times.<anim id="Angry" target="subNpc" targetSpec="" />
+<20_2 arg="6" /><anim id="Greeting" target="actor" targetSpec="" />Go on, <delay8 /><tag a="110" b="3" />. <20_2 arg="8" /><delay8 />Tell him!<delay20 />
+It's time he hears the truth.<anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">Sorry, but it's true.</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00">You don't. You're good.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="subNpc" targetSpec="" /><anim id="SmugFace" target="actor" targetSpec="" /><20_2 arg="5" />Well,<delay8 /> <20_2 arg="7" />there you have it,<delay8 /> my dear.<delay20 />
+You're pretentious.<anim id="Angry" target="subNpc" targetSpec="" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />"The postmodern milieu?"<delay20 />
+My goodness, <delay8 />WHO says that?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Oh, c'mon!<20_2 arg="4" /><delay8 /> That's what you two
+think of me? <anim id="EmotEnd" target="mainNpc" targetSpec="" /><delay20 /><anim id="Worried" target="actor" targetSpec="" />You're breakin'
+my heart.
+<anim id="Negative" target="actor" targetSpec="" />Look,<delay8 /> I can't help it if my eloquence
+is too much for you. <anim id="Eh" target="mainNpc" targetSpec="" /><delay20 /><anim id="Smiling" target="actor" targetSpec="" />I'm just tryin'
+to elevate the conversation here.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Oh, good grief. <20_2 arg="3" /><delay8 />You're welcome to
+"elevate the conversation."<anim id="FaintSmile" target="subNpc" targetSpec="" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />Just don't get your chi in a twist
+when your postmodern mileu falls
+flat on its face,<delay8 /> my dear.</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="mainNpc" targetSpec="" /><20_2 arg="7" /><anim id="SmugFace" target="actor" targetSpec="" />Well, well.<20_2 arg="4" /> <delay8 />Did ya hear that? <delay8 /><20_2 arg="5" />I do
+NOT "sound rather pompous."<delay8 /><anim id="Silent" target="mainNpc" targetSpec="" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />So says the unbiased bystander
+you roped into this conversation.<delay20 /><anim id="Smiling" target="actor" targetSpec="" />
+If anything,<delay8 /> I sound sophisticated.
+<anim id="Grin" target="actor" targetSpec="" />Buuut <delay8 />I could see how someone
+like you might envy my advanced
+linguistic techniques.<delay20 /><anim id="Eh" target="mainNpc" targetSpec="" />
+<anim id="Nodding" target="actor" targetSpec="" />It's OK.<delay8 /> I'd be happy to teach you
+how to talk like me. <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Just say the
+word, <tag a="110" b="31" arg="0xcd00" />.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="Negative" target="actor" targetSpec="" />Oh for <20_2 arg="3" />goodness sake,
+<tag a="110" b="3" />,<delay frames="13" /> <20_2 arg="8" />look what
+you've gone and done.<delay8 /><anim id="Smiling" target="subNpc" targetSpec="" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Next time he's being an insufferable
+snoot, <delay8 />I'm sending him to you.</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Wow. <delay8 />You crack me up,<delay8 />
+<tag a="110" b="31" arg="0xcd00" />.<anim id="FaintSmile" target="mainNpc" targetSpec="" /> <delay frames="40" /><anim id="Negative" target="actor" targetSpec="" />I can't believe
+you actually said—<delay8 />and I quote<tag a="110" b="0" /><delay8 />
+<anim id="SmugFace" target="actor" targetSpec="" />"I must say, <delay8 />daaahling,<delay8 /> a fine
+artisanal <tag a="135" b="3" arg="0xcd00" /> is like a
+work of art made for one's mouth."<delay20 /><pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Hahaha! <delay8 /><anim id="Eh" target="mainNpc" targetSpec="" />That's the funniest thing
+I've heard all week!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Whatever do you <20_2 arg="3" />mean?<delay8 /> Of course
+I said it. <delay20 /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Explain" target="actor" targetSpec="" />Goodness, darling,<delay8 />
+it positively melts in your—<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Wait one moment<tag a="110" b="0" />were you
+imitating me?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="111" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Why <20_2 arg="4" />yes, <delay8 /><anim id="TakenAback" target="mainNpc" targetSpec="" />yes I was.<delay frames="40" /> <20_3 arg="8" />How'd I do,<delay8 />
+<tag a="110" b="3" />?<pageBreak /><20_3 arg="6" /><anim id="Serious" target="mainNpc" targetSpec="" /><delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />I sounded just like the Duchess of
+Diction here,<delay8 /> didn't I?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="111_a" attrib="00 00 00 00 00 00 00 00">You sure did!</message>
+	<message label="111_b" attrib="00 00 00 00 00 00 00 00">Not quite.</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Excuse me?!<delay20 /><20_2 arg="1" /> <anim id="EmotEnd" target="subNpc" targetSpec="" />I do NOT sound so<tag a="110" b="0" />
+so<tag a="110" b="0" /><10_5 />haughty!<endTag a="10" b="5" /> <20_2 arg="5" /><delay20 /><anim id="Angry" target="actor" targetSpec="" />You <delay8 /><anim id="Eh" target="subNpc" targetSpec="" />are GROSSLY
+exaggerating!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />There, there.<20_2 arg="4" /><delay8 /> No need to be so
+melodramatic about it.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I don't find your pompous
+pronouncements THAT off-putting.<anim id="TakenAback" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />In fact,<delay8 /> I think it's part of your
+charm,<delay8 /> m'lady!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Oh, <delay8 /><20_2 arg="3" />well THAAAANK YOU.<anim id="FaintSmile" target="subNpc" targetSpec="" /><delay8 />
+You're too kind.<pageBreak /><anim id="Silent" target="actor" targetSpec="" />Duchess of Diction indeed.</message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><20_2 arg="5" /><anim id="Aha" target="actor" targetSpec="" />There! <20_2 arg="1" /><delay8 />You see! <delay frames="40" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Negative" target="actor" targetSpec="" />I do NOT sound
+so<tag a="110" b="0" />so...<delay20 /><10_5 />SNOBBISH!<endTag a="10" b="5" /> <delay frames="40" /><anim id="Angry" target="actor" targetSpec="" />I insist you
+apologize!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />OK!<delay8 /> <20_2 arg="4" />OK!<delay8 /> I was wrong and you are
+right and I'm sorry.<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="HappyDance" target="actor" targetSpec="" />The dulcet tones of your speaking
+voice are music to my ears,<delay8 />
+<tag a="110" b="31" arg="0xcd00" />.<anim id="Eh" target="mainNpc" targetSpec="" /><delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /> For real!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="117" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Oh alright.<delay8 /><20_2 arg="3" /> I suppose I forgive you<delay8 /><anim id="FaintSmile" target="subNpc" targetSpec="" />
+just this once.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />You know,<delay8 /> I've been told that my
+elocution is so exemplary I should
+consider being a voice model.<anim id="Eh" target="subNpc" targetSpec="" />
+<anim id="BigSmile" target="actor" targetSpec="" />A voice model!<delay8 /> Me! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Well anyhoo,<delay8 /><anim id="Nodding" target="actor" targetSpec="" />
+do let me know if you'd like a bit
+of speaking advice,<anim id="Grin" target="subNpc" targetSpec="" /> <delay8 />darling.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" /><tag a="110" b="31" arg="0xcd01" />, tell me, <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />what do
+you think of my ensemble today?<anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak /><anim id="Sighing" target="actor" targetSpec="" />I confess,<delay8 /> I fear I might be stuck in a
+fashion rut.<delay20 /> <anim id="Hesitate" target="actor" targetSpec="" />So,<delay8 /> I've decided to see
+what others think.
+<anim id="EmotEnd" target="actor" targetSpec="" />Now, <delay8 /><anim id="Nodding" target="actor" targetSpec="" />be honest with me,<delay8 />
+<tag a="110" b="6" />.<anim id="Aha" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><tag a="110" b="0" /><20_2 arg="4" /><anim id="Smiling" target="actor" targetSpec="" />I love it!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh!<delay8 /> <20_2 arg="3" />Why, thank you!<delay20 /> <anim id="EmotEnd" target="subNpc" targetSpec="" />I mean,<delay8 /> <anim id="SmugFace" target="actor" targetSpec="" />I do
+think this outfit is rather flattering
+on me, <anim id="Eh" target="subNpc" targetSpec="" /><delay8 />but I had no idea—</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No, no.<20_2 arg="4" /> <delay8 />Not your outfit.<anim id="Eh" target="mainNpc" targetSpec="" /><delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />I love that
+thing you said. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />It's the hippest
+phrase I've heard in at least a week!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />That thing<20_2 arg="3" /> I said?<anim id="EmotEnd" target="subNpc" targetSpec="" /><delay frames="40" /> Oh! <anim id="QuestionMark" target="actor" targetSpec="" />You mean my
+mantra?<delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" /> The one I say like so—
+<tag a="110" b="6" />?</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Yes!<20_2 arg="4" /><delay8 /> That! <tag a="50" b="3" /><tag a="110" b="6" />! <delay frames="40" /><anim id="Explain" target="actor" targetSpec="" />It's both old-school and new-school at the same time. <anim id="Blushing" target="mainNpc" targetSpec="" /><delay8 />It's ALL the schools.
+<anim id="Smiling" target="actor" targetSpec="" />That pretty much makes it the
+PhD of catchy phrases.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Mind if
+I use it?</message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, <20_2 arg="3" /><delay8 />eh, <delay8 />of course. <anim id="EmotEnd" target="subNpc" targetSpec="" /><delay20 /><anim id="SmugFace" target="actor" targetSpec="" />School IS
+very important.<anim id="TakenAback" target="subNpc" targetSpec="" /><pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />Goodness,<delay8 /> I had no idea I was such
+a good<tag a="110" b="0" />teacher, <tag a="110" b="6" />.<anim id="Grin" target="subNpc" targetSpec="" /></message>
+</msbt>

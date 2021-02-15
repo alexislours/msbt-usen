@@ -1,0 +1,51 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I'm sorry,<delay8 /> but I just want to be alone
+right now.<delay40 /><anim id="Sighing" target="actor" targetSpec="" /> I need some space<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I really don't want to talk right now<tag a="110" b="0" /><delay40 />
+<anim id="Confused" target="actor" targetSpec="" />I just want to be alone with my
+thoughts.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Restless" target="actor" targetSpec="" />I don't feel much like talking right
+now<tag a="110" b="0" /><delay40 /><anim id="SadSpiral" target="actor" targetSpec="" /> I'm sure you feel the same
+way sometimes, don't you?<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />The flowers that bloomed nearby
+have all wilted away<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Restless" target="actor" targetSpec="" />They weren't even mine to care for.<delay20 />
+But now that the flowers are gone,<delay20 />
+<anim id="Worried" target="actor" targetSpec="" />I realize how much I enjoyed them.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Thinking" target="actor" targetSpec="" />If only I had noticed sooner and
+watered them.<delay40 /> <anim id="Sighing" target="actor" targetSpec="" />I can't help but feel 
+this is my fault, <delay8 />at least a little bit.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> told me,<delay40 />
+<anim id="EmotEnd" target="actor" targetSpec="" />"Plants will still grow just fine, <anim id="Nodding" target="actor" targetSpec="" />even
+if you don't water them every day."<pageBreak /><anim id="Worried" target="actor" targetSpec="" />So I figured everything was fine.<delay40 />
+<anim id="Confused" target="actor" targetSpec="" />But now they're gone<tag a="110" b="0" /></message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />That's so sad...</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I see.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />It is, isn't it? I tried to water them
+when I realized they were in bad
+shape,<anim id="Negative" target="actor" targetSpec="" /> but it was already too late.
+<anim id="Worried" target="actor" targetSpec="" />Maybe watering every day isn't
+necessary, but it seems like flowers
+do need SOME water<tag a="110" b="0" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Serious" target="actor" targetSpec="" />The last time I watered any flowers
+was<tag a="110" b="0" /><delay20 /> <anim id="Worried" target="actor" targetSpec="" />Oh, I can't quite remember<tag a="110" b="0" /><delay20 />
+I'm sorry, little flowers! I'm sorry!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Sighing" target="actor" targetSpec="" />Please<tag a="110" b="0" /><delay40 />I don't feel like talking
+right now.<delay40 /> <anim id="SadSpiral" target="actor" targetSpec="" />Just leave me be for
+a while.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I don't want to be around anyone.<delay40 />
+<anim id="SadSpiral" target="actor" targetSpec="" />Please, just go away and leave me
+alone for a while.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I can't even talk right now.<delay40 /><anim id="SadSpiral" target="actor" targetSpec="" /> My heart
+is filled to the brim with sadness.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="203" attrib="00 00 02 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />My personal forecast calls for high
+levels of thick, fog-like sadness.</message>
+	<message label="203_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I'm sorry?</message>
+	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Huh.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Well, thank you for apologizing. I will
+forgive you this time<tag a="110" b="0" /><delay40 /><anim id="Serious" target="actor" targetSpec="" /> But please
+don't do it again, OK?</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />If you've reflected on what you did,<delay20 />
+then I'll forgive you, just this once.<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />But that's my limit.</message>
+</msbt>

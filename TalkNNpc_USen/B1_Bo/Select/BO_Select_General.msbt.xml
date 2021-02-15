@@ -1,0 +1,52 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00">WOW! <delay20 />This is <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00">Wait a second! Is this<tag a="110" b="0" /><delay20 />
+<anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?!</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00">Is<tag a="110" b="0" /><delay20 /><anim id="TakenAback" target="actor" targetSpec="" /> Is this REALLY <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />?!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Ooh,<delay20 /> <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />!</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00">Oh!<delay frames="40" /> This is <tag a="50" b="2" /><anim id="BigSmile" target="actor" targetSpec="" /><delay20 />
+<tag a="125" b="0" arg="0x0" />!</message>
+	<message label="002_03" attrib="00 00 00 00 00 00 00 00">Ooh,<delay20 /> neat. It's <tag a="50" b="2" />
+<anim id="Nodding" target="actor" targetSpec="" /><tag a="125" b="0" arg="0x0" />!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="003_01" attrib="00 00 00 00 00 00 00 00">Huh?<delay frames="40" /> What is it?</message>
+	<message label="003_02" attrib="00 00 00 00 00 00 00 00">Huh?<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Do I get something?</message>
+	<message label="003_03" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Ooh!<delay frames="40" /> What are you giving me?</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="004_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />What's inside?<delay frames="40" /> I'm gonna look!</message>
+	<message label="004_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I wonder what's inside?<delay frames="40" /> I'm gonna
+open it!</message>
+	<message label="004_03" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I can't take it! I'm gonna open it!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="005_01" attrib="00 00 00 00 00 00 00 00">Huh? <delay20 />Nothing?<delay frames="40" /> But<tag a="110" b="0" /></message>
+	<message label="005_02" attrib="00 00 00 00 00 00 00 00">Aw man<tag a="110" b="0" /><delay frames="40" /> <anim id="Oops" target="actor" targetSpec="" />That's a shame!</message>
+	<message label="005_03" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, you shouldn't
+tease me.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="006_01" attrib="00 00 00 00 00 00 00 00">Thanks, <tag a="110" b="3" />!<delay20 /> Here!
+<anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!
+Just for you, <tag a="110" b="6" />!</message>
+	<message label="006_02" attrib="00 00 00 00 00 00 00 00">I wanna thank you!<delay frames="40" /> Here, man!
+<anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<delay20 />
+I hope ya like it, <tag a="110" b="6" />!</message>
+	<message label="006_03" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Here, man!<delay20 /> It's <tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<delay20 />
+Enjoy, <tag a="110" b="6" />!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00">Man, it's not exactly a thank-you gift
+<delay20 />really, but I wanna give you these <tag a="90" b="22" arg="0x0" />, <anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="6" />!</message>
+	<message label="007_02" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Man, I feel bad getting this for free.<delay20 />
+Here! Have <tag a="90" b="22" arg="0x0" />!<delay frames="40" /> Go get
+yourself some snacks, <tag a="110" b="6" />!</message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Man, it's kinda weird saying thank
+you with money, but<tag a="110" b="0" /><delay20 />thank you!
+Here's <anim id="FaintSmile" target="actor" targetSpec="" /><tag a="90" b="22" arg="0x0" />, <tag a="110" b="6" />!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I was thinking about what to give you
+as thanks<anim id="Shocked" target="actor" targetSpec="" />, but your pockets are full
+of all kinds of things!<pageBreak />Some of them might be alive things?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Don't sweat it.<delay frames="50" /> <anim id="Greeting" target="actor" targetSpec="" />I'll just send it to your
+house later, <tag a="110" b="6" />!</message>
+</msbt>

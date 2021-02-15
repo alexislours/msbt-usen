@@ -1,0 +1,27 @@
+<msbt attribsize="3">
+	<message label="000" attrib="00 00 00" />
+	<message label="000_01" attrib="00 00 00">Follow the guides! <delay20 />Let's hustle!</message>
+	<message label="000_02" attrib="00 00 00">We gotta get a move on! <delay20 />C'mon!</message>
+	<message label="000_03" attrib="00 00 00">Talk later, jog now! <delay20 />Let's go!</message>
+	<message label="001" attrib="00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I love camping!<delay40 /><anim id="SmugFace" target="actor" targetSpec="" /> I'm pumped to get
+everything ready, <tag a="110" b="5" />!</message>
+	<message label="001_02" attrib="00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />This campfire's gonna be epic.
+I can't wait, <tag a="110" b="5" />!</message>
+	<message label="001_03" attrib="00 00 00"><anim id="Explain" target="actor" targetSpec="" />Gathering can be a tough workout.<delay20 />
+Just pace yourself <delay8 />and get what you
+need.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />You got this, <tag a="110" b="5" />!</message>
+	<message label="002" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Orientation time! <delay20 />You ready to get
+oriented? <delay20 />You LOOK ready.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Go show
+the staff how ready you are!</message>
+	<message label="101" attrib="00 00 00"><tag a="60" b="20" /></message>
+	<message label="101_01" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Having fun? <delay20 />I'm gonna kick off a new
+workout routine tomorrow, <delay8 />so I'm
+taking it easy tonight, <tag a="110" b="5" />.</message>
+	<message label="101_02" attrib="00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Sitting around a campfire with cups
+of <tag a="110" b="7" arg="0xcd00" /> juice<tag a="110" b="0" /><delay20 /> It almost feels like
+we're family.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />You can call me "bro"!</message>
+	<message label="101_03" attrib="00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />I feel like I'm on vacation<tag a="110" b="0" /><delay20 />
+<anim id="Shocked" target="actor" targetSpec="" />but we actually get to LIVE
+here, <tag a="110" b="5" />!</message>
+</msbt>

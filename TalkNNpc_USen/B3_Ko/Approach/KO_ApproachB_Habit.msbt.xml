@@ -1,0 +1,85 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey there,<delay20 /> <tag a="110" b="3" />!<delay frames="40" />
+What's happenin',<delay20 /> <tag a="110" b="5" />?<pageBreak /><anim id="Oops" target="actor" targetSpec="" />Aw, applesauce.<delay frames="40" /> I did it again.<delay40 />
+<anim id="Negative" target="actor" targetSpec="" />I keep sayin' "<tag a="110" b="5" />" like
+it's my day job.
+<anim id="Thinking" target="actor" targetSpec="" />I'm thinkin' it's time for a change.<delay40 />
+What do you think?<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />You got
+a better suggestion?</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I sure do.</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Nah, it's fine.</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />How's it goin',<delay20 /> <tag a="110" b="3" />?<delay20 />
+<tag a="50" b="3" /><tag a="110" b="5" />!<10_4 /> <anim id="Oops" target="actor" targetSpec="" />Whoopsie, there I go
+sayin' "<tag a="110" b="5" />" again<tag a="110" b="0" />
+<anim id="Thinking" target="actor" targetSpec="" />Y'know, <tag a="110" b="11" arg="0xcd00" /> said that
+"<tag a="110" b="5" />" is my go-to saying.<delay20 />
+<anim id="IdeaBulb" target="actor" targetSpec="" />Maybe I should change it up<tag a="110" b="0" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Whaddaya think?<delay20 /> Give it to me
+straight, kiddo.<delay20 /> Are you tired of
+hearing me say <tag a="110" b="5" />?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Change is good...</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Nah, I like it!</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />For some reason,<delay20 /> I keep sayin'
+<tag a="110" b="5" /> over and over.<pageBreak /><anim id="Confused" target="actor" targetSpec="" />I don't know how it happened.<delay20 />
+Can't even remember the first
+time I said it.
+<anim id="Thinking" target="actor" targetSpec="" />Anyhow, all that matters is whether
+or not I should keep on sayin' it.<delay20 />
+What do you think?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Maybe change it?</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">It's fine as is.</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" /><tag a="110" b="0" /> <tag a="50" b="3" /><tag a="110" b="5" /><tag a="110" b="0" /><delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />?!<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />I'm flummoxed!<delay20 /> I'm flabbergasted!<delay20 />
+I'm fed-up!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Tell me, <tag a="110" b="3" />.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Is <tag a="110" b="5" /> right for me, or
+do I need to change it up?</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />It's time to change.</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I think it's fine!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Really?<delay20 /> You sure?<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Whew!<delay20 /> Glad to hear I'm not gratin'
+on you any.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha! <delay20 />I sure do
+enjoy sayin' <tag a="110" b="5" />!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Yeah?<delay20 /> You like it?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Guess I've just been spinnin' the
+wheels in my brain for no reason.<delay20 />
+<tag a="50" b="3" /><tag a="110" b="5" />!<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Seriously?<delay20 /> You sure about that?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well, that's good to hear.<delay20 /> <anim id="Confused" target="actor" targetSpec="" />I suppose
+I kinda got into my own head<delay8 /> on
+that one<tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />!<delay20 /> Ahhh.<delay20 /> It feels good
+to say it without shame.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh.<delay frames="40" /> Well,<delay20 /> I guess all that to-do
+was for nothin'.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Guess I'll stick with the tried<delay8 /> and
+true<delay8 /><tag a="110" b="0" /><tag a="110" b="5" />.<delay frames="30" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />I knew it!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Alright,<delay20 /> let's get right down to
+business.<delay20 /> What should my new
+catchphrase be?</message>
+	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Lemme see if I've got this right.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />You wanna go with "<tag a="110" b="5" />"?</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00">I wanna.</message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00">Wait, maybe not!</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Wait,<delay20 /> "<tag a="110" b="5" />"?<delay frames="40" />
+<anim id="Shocked" target="actor" targetSpec="" />That's the same as before!<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />You sure you wanna keep it?</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">Yup!</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">Actually...</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Change of heart,<delay20 /> huh?<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Alright,<delay20 /> let's
+hear what you've got for a new one.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />What's wrong?<delay20 /> Am I makin' you
+self-conscious or somethin'?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Go on,<delay20 /> try again.</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Let's see here<delay8 /><tag a="110" b="0" /> <tag a="50" b="3" /><tag a="110" b="5" />!<delay20 />
+<tag a="50" b="3" /><tag a="110" b="5" />!<delay20 /> <tag a="50" b="3" /><tag a="110" b="5" />!<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />Yep, I like it!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I see<delay8 /><tag a="110" b="0" /> I see<delay8 /><tag a="110" b="0" /> <anim id="BigSmile" target="actor" targetSpec="" />Well, it definitely
+seems like somethin' I'd say.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />!<delay20 /> Yep, that works
+for me.<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Alright!<delay20 /> I'm gonna start usin'
+this right now!<delay20 /> <tag a="50" b="3" /><tag a="110" b="5" />!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh yeah!<delay frames="40" /> Let's run this into the
+ground!<delay20 /> <tag a="50" b="3" /><tag a="110" b="5" />!</message>
+	<message label="300" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />So be it!<delay20 /> Guess I'll just keep on
+sayin' <tag a="110" b="5" /> like I always
+have.<delay20 /> <anim id="Assent" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />!</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Hey, if it ain't broke, don't fix it.<delay20 />
+Just like my grammar.<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />OK,<delay20 /> <tag a="110" b="5" /> it stays!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Honestly,<delay20 />
+it's kinda growin' on me again.</message>
+</msbt>

@@ -1,0 +1,76 @@
+<msbt attribsize="4">
+	<message label="001_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Alright,<delay20 /> we are two down and
+docked at the target <tag a="110" b="32" />!<delay20 /><anim id="Grin" target="actor" targetSpec="" />
+Delta Oscar Delta Oscar is go.</message>
+	<message label="001_02" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />First time getting your pontoons wet
+on tour?<delay20 /> <anim id="Explain" target="actor" targetSpec="" />Let me brief you on
+mystery-island procedure.
+<anim id="Greeting" target="actor" targetSpec="" />First, we run the "finders keepers"
+protocol here. <delay20 />Lumber, fruit, fish,<delay8 />
+whatever?<delay20 /> Yours if you can carry it.
+<anim id="Explain" target="actor" targetSpec="" />Next up: break a tool? Forget one?
+I can requisition you a replacement.<delay20 />
+Gotta charge you miles, though.
+<anim id="Aha" target="actor" targetSpec="" />Also, there's one redline item you
+need to memorize like your favorite
+latte order<tag a="110" b="0" />
+<anim id="Silent" target="actor" targetSpec="" />Anything you leave behind stays
+here. <delay20 />We don't come back to
+these places.<10_4 /> Ever.
+<anim id="Serious" target="actor" targetSpec="" />I actually burn the flight plans
+afterward.<delay20 /> Security reasons.<delay20 />
+Can't explain more than that.
+<anim id="Nodding" target="actor" targetSpec="" />Think that's everything.<delay20 /> Go explore.<delay20 />
+If you get into trouble, ask yourself,<delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" />
+"What would dodos do?"</message>
+	<message label="001_03" attrib="00 00 00 00"><anim id="Assent" target="actor" targetSpec="" />Meanwhile, I'll be in a holding
+pattern here.<delay20 /> Get in touch when
+you need tools or travel.
+<anim id="BigSmile" target="actor" targetSpec="" />Go catch some bees and chop
+some trees!</message>
+	<message label="002" attrib="04 00 00 00">Bellbottom <tag a="135" b="4" arg="0xcd00" /> this is
+stovetop <tag a="135" b="5" arg="0xcd00" />, <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />do you
+require assistance?<anim id="EmotEnd" target="actor" targetSpec="" /> <delay20 />Over.</message>
+	<message label="002_a" attrib="00 00 00 00">I'm ready to go home.</message>
+	<message label="002_b" attrib="00 00 00 00">I need tools.</message>
+	<message label="002_c" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />Never mind.</message>
+	<message label="003" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You're ready to punt pontoons and
+fly Lady <capitaliseNextWord /><tag a="135" b="2" arg="0xcd00" /> here back
+to <tag a="110" b="34" />?</message>
+	<message label="003_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Yep!</message>
+	<message label="003_b" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />No, wait<tag a="110" b="0" /></message>
+	<message label="004" attrib="00 00 00 00"><snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />Roger!<delay frames="40" /> Lifting off November Oscar
+Whisker.</message>
+	<message label="008" attrib="00 00 00 00"><anim id="Assent" target="actor" targetSpec="" />Roger! <delay20 />Belayed and backing off.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Let me know when you need kit<delay20 />
+OR to kite.</message>
+	<message label="011" attrib="00 00 00 00">Tools? <delay20 /><anim id="Assent" target="actor" targetSpec="" />Roger! <delay20 /><anim id="Thinking" target="actor" targetSpec="" />Lemme just pull up
+the Mileage Menu for you<tag a="110" b="0" /></message>
+	<message label="012" attrib="00 00 00 00">Tools?<delay20 /> <anim id="Serious" target="actor" targetSpec="" />Sorry, civilian<delay20 />—your gear's
+at the limit already. <delay20 />Come back when
+you've got a free hand for a tool.</message>
+	<message label="013" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Oh, you're leveled out and loaded
+up? <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Roger.<delay20 /> Let me know if you
+need something.</message>
+	<message label="014" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /> is 
+<tag a="90" b="40" arg="0xcd00" />, <delay frames="30" /><anim id="Worried" target="actor" targetSpec="" />but it looks like
+you're low on go and dry on mi<tag a="110" b="0" /><delay frames="40" />les.
+<anim id="FaintSmile" target="actor" targetSpec="" />Once you top up the tank, come on
+back to barter for bargains.</message>
+	<message label="015" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /> is<delay8 />
+<tag a="90" b="40" arg="0xcd00" />. <anim id="QuestionMark" target="actor" targetSpec="" />Is that gonna fly?</message>
+	<message label="015_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Sounds good!</message>
+	<message label="015_b" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />Never mind.</message>
+	<message label="016" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Roger! <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Utilize it or futilize it!</message>
+	<message label="017" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Give a squawk if you need
+anything else.</message>
+	<message label="021" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Whew! <delay20 />Had me worried there,
+civilian. <delay20 /><anim id="Grin" target="actor" targetSpec="" />Thought you might have
+fought the barn!
+<size value="75" /><tag a="10" b="12" /><size value="100" /><snpcAnim id="DodWireless" target="actor" targetSpec="" /><size value="75" />Dodo Tower this is Dodo One, <delay20 />cancel red alert.<delay frames="90" />
+Ground-pounder's up and around.
+<100_3 arg="PlaneAnnounceOn" /><delay20 /><colour id="5" />Roger that, Dodo One! <delay20 />Standing down alert.<delay20 /><100_3 arg="PlaneAnnounceOff" /><colour id="65535" /><10_7 arg="30" />
+<anim id="EmotEnd" target="actor" targetSpec="" /><size value="100" />When you're ready, you can head on
+out again. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Just watch out for bogeys
+and keep an eye on your six.</message>
+</msbt>

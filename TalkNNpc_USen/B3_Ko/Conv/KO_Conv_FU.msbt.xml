@@ -1,0 +1,104 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Check this out,<delay20 /> <tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" /> wrote a song
+about <tag a="110" b="7" arg="0xcd01" />.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK,<delay20 /> here goes<delay8 /><tag a="110" b="0" /><20_3 arg="2" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />♪ Since I came to <tag a="110" b="33" />
+I've had so many <tag a="110" b="7" arg="0xcd01" />. ♪<pageBreak />♪ They're so <tag a="110" b="7" arg="0xcd00" />-y good.<delay20 />
+Just give them a try. ♪<pageBreak />♪ <tag a="50" b="3" /><tag a="110" b="7" arg="0xcd01" /> are great<delay20 /> in cakes or
+in pies! ♪<pageBreak />♪ So many <tag a="110" b="7" arg="0xcd01" />,<delay20 /> up in our trees.<delay40 />
+Yummy, sweet <tag a="110" b="7" arg="0xcd01" />,<delay20 /> for you
+and for me! ♪<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 05 00 00 00 00 00"><20_3 arg="6" /><20_2 arg="3" /><anim id="Smiling" target="actor" targetSpec="" />Wasn't that fun?<delay40 /> I really like the part
+where she sings about the <tag a="110" b="7" arg="0xcd01" />!<pageBreak />So?<delay frames="40" /> <20_2 arg="8" />Whaddaya think?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">It really was fun!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">It was alright...</message>
+	<message label="003_c" attrib="00 00 00 00 00 00 00 00">I'm not really sure.</message>
+	<message label="003_d" attrib="00 00 00 00 00 00 00 00">It could be better...</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Thanks so much for the kind words,<delay20 />
+<tag a="110" b="5" />,<delay20 /> both of you!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><20_3 arg="5" /><20_2 arg="5" /><anim id="Smiling" target="actor" targetSpec="" />Look at you go,<delay20 /><20_3 arg="7" /><20_2 arg="7" /> buildin' a fan base!<delay40 />
+Soon you'll be openin' up for <colour id="3" />K.K. <colour id="65535" /><anim id="Aha" target="subNpc" targetSpec="" />
+on his world tour!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hmmm,<delay20 /> so it still needs work.<delay40 />
+<anim id="Thinking" target="actor" targetSpec="" />Maybe less repetition<delay8 /><tag a="110" b="0" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />There you go.<delay40 /> <20_2 arg="5" />Few tweaks here and
+there,<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />and you'll be in business!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'd better keep working on it, then.<delay40 />
+<anim id="Worried" target="actor" targetSpec="" />It's tough to create something that
+will appeal to everyone<delay8 /><tag a="110" b="0" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Restless" target="actor" targetSpec="" />Maybe dial it down a notch.<delay40 />
+<anim id="Angry" target="actor" targetSpec="" />Y'ever hear of somethin'<delay20 /> called
+constructive criticism?
+<20_2 arg="5" />Don't you worry,<20_2 arg="7" /><delay20 /> <tag a="110" b="31" arg="0xcd01" />!<pageBreak /><anim id="FaintSmile" target="subNpc" targetSpec="" />You got a good thing goin' there.<delay frames="40" />
+<anim id="Thinking" target="actor" targetSpec="" />Though you could<delay20 /> maybe drop in
+a few more <tag a="110" b="7" arg="0xcd01" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey there,<delay20 /> <tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />We were just dreamin' about how
+we'd handle<delay20 /> suddenly havin' ten
+billion Bells.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I know <20_2 arg="7" />what I'd do!<delay40 /> I'd go all out,<delay20 />
+<anim id="Pardon" target="actor" targetSpec="" />spendin' like there's no tomorrow!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I'd buy at least eight of everythin',<delay20 />
+start travelin' first class,<delay20 /> and <anim id="Scheming" target="actor" targetSpec="" /><anim id="Aha" target="subNpc" targetSpec="" />rent
+out theme parks for parties!
+<anim id="AbsentMindedness" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />Yeah,<delay20 /> I bet livin' like a boss would
+be mighty swanky<delay8 /><tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd00" />,<delay20 /> you dream big!<20_2 arg="5" /><pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />With that much,<delay20 /> I could buy every
+creature comfort I could ever want,<delay20 />
+and set up my parents for life<anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay8 /><tag a="110" b="0" />
+<anim id="HappyFlower" target="actor" targetSpec="" />And I'd still have billions and billions<delay20 />
+left over to donate to charity!</message>
+	<message label="103" attrib="00 00 07 00 00 00 00 00">So,<delay20 /> <20_2 arg="8" /><anim id="QuestionMark" target="actor" targetSpec="" />what would you do with all them
+Bells,<delay20 /> <tag a="110" b="3" />?</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">Go shopping!</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00">Travel the world!</message>
+	<message label="103_c" attrib="00 00 00 00 00 00 00 00">Remodel my home!</message>
+	<message label="103_d" attrib="00 00 00 00 00 00 00 00">Save it.</message>
+	<message label="103_e" attrib="00 00 00 00 00 00 00 00">Swim in it!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />'Course you would!<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />It all starts with
+buying everythin' on your wish list!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />With all them Bells,<delay20 /> you could say so
+long to a life of scrimpin'<delay20 /> and savin'!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I guess it would be great to shop<delay20 />
+without worrying about price tags.<pageBreak /><20_2 arg="5" /><anim id="Thinking" target="actor" targetSpec="" />Now all we need is<delay20 /> to come up with
+an idea worth ten billion Bells<anim id="Smiling" target="mainNpc" targetSpec="" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You dream big<delay20 /> too!<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />But not big
+enough.<delay40 /> Why settle for one trip,<delay20 />
+when <anim id="Grin" target="actor" targetSpec="" />you could take a hundred?</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Picture yourself on a lavish cruise,<delay20 />
+being waited on the whole time<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Pardon" target="actor" targetSpec="" />Can you imagine being so selfish?<pageBreak /><20_2 arg="5" /><anim id="Worried" target="actor" targetSpec="" />Though I guess having ten billion 
+Bells<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" /><anim id="Laughing" target="mainNpc" targetSpec="" />is overkill to begin with.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You could pull out all the stops<delay20 /> and
+<anim id="Grin" target="actor" targetSpec="" />remake it into a big, fancy castle<delay8 /><tag a="110" b="0" /><pageBreak />I sure wouldn't mind <anim id="SmugFace" target="actor" targetSpec="" />livin' like a king<delay20 />
+in some ridiculously big house!</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Plus you could easily pay back<delay20 />
+anything you owed<20_2 arg="5" /><anim id="Pardon" target="mainNpc" targetSpec="" /> to <colour id="3" />Tom Nook<colour id="65535" />!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />What?<delay frames="40" /> I just <anim id="OhGeez" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" />hate being in debt to
+anyone,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Hey now kiddo,<delay20 /> we're talking' ten
+billion Bells!<delay40 /> <anim id="Serious" target="actor" targetSpec="" />How down-to-earth
+and practical can you be,<delay20 /> anyway?
+<anim id="Explain" target="actor" targetSpec="" />Anyone could go an entire lifetime<delay20 />
+without spendin' all that money!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />You need some practice at dreamin'!</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nothing wrong with being practical.<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />I think saving it is a great idea!<pageBreak />That way,<delay20 /> it'd be there for whenever
+you <anim id="Grin" target="actor" targetSpec="" />found yourself needing a few
+billion Bells to pay for something!</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00">To be honest,<delay20 /> <anim id="Worried" target="actor" targetSpec="" />I'd be happy suddenly
+havin' just ten Bells about now<delay8 /><tag a="110" b="0" /></message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Tarnation!<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />You sure come up with
+some fascinatin' ideas,<delay20 /> kiddo!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Reckon I can just about picture it<delay8 /><tag a="110" b="0" />
+Divin' into that deep pool of Bells,<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />just paddlin' around in all of 'em<delay8 /><tag a="110" b="0" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What would that feel like,<delay20 /> though?<pageBreak /><20_2 arg="5" /><anim id="Restless" target="actor" targetSpec="" />Diving into something solid<delay20 /> seems
+like it'd be <anim id="Oops" target="mainNpc" targetSpec="" />sort of painful<delay8 /><tag a="110" b="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Wow!<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Guess what I found,<delay20 />
+<tag a="110" b="31" arg="0xcd01" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Pardon" target="actor" targetSpec="" />It's a four-leaf clover,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />That was sure lucky!<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />If I were you,<delay20 />
+I'd press that in a book,<delay20 /> and <anim id="HappyFlower" target="actor" targetSpec="" />carry
+it around with me all the time!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00">If it'd make you that happy,<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />maybe
+I should give it to you!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No,<delay20 /> that was your lucky find,<delay20 /> and
+<anim id="Worried" target="actor" targetSpec="" />I'd feel bad taking it away from
+you,<delay20 /> <tag a="110" b="31" arg="0xcd00" />!
+<anim id="Hesitate" target="actor" targetSpec="" />Although<delay20 /> I wouldn't mind borrowing
+your lucky catchphrase<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Maybe if I said "<tag a="110" b="5" />"<delay20 />
+I'd start to get lucky too!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Feel free to say it all you want,<delay20 /> <tag a="110" b="5" />!<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Hope it works out
+great for you!</message>
+</msbt>

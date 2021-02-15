@@ -1,0 +1,29 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I'm not fussy, y'know? <delay20 />No need to
+worry about me, <tag a="110" b="5" />!</message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm just gonna make myself at home.<delay20 />
+Don't mind me, <tag a="110" b="5" />!</message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Whoa! <delay20 />So this is your style<tag a="110" b="0" /><delay20 /> <anim id="Grin" target="actor" targetSpec="" />I like it!</message>
+	<message label="004" attrib="00 00 00 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />This room's got a real
+"<tag a="110" b="3" />" feel.<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Wonder why!</message>
+	<message label="005" attrib="00 00 00 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Visiting someone else's home is
+always kinda tense for me, <delay20 />but yours
+is super chill.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />It's like magic!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I love it when buddies invite me over.<delay frames="40" />
+<anim id="ShyBoy" target="actor" targetSpec="" />Though technically I'm gatecrashing
+right now, <tag a="110" b="5" /><tag a="110" b="0" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ooooh<tag a="110" b="0" /><delay20 /> I've been wondering what
+<tag a="115" b="1" arg="0xcd00" />'s place is like.<delay frames="40" />
+<anim id="Restless" target="actor" targetSpec="" />Such style!<delay20 /> I gotta up my game!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Does <tag a="115" b="1" arg="0xcd00" /> seem like<tag a="110" b="0" /><delay20 />
+super grinny lately?<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />Think <gender3 m="he's" f="she's" />
+plannin' something, <tag a="110" b="5" />?</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="101_01" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Got any ideas for this room?</message>
+	<message label="101_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />This room's like an empty canvas.<delay20 />
+What're you gonna do with it?</message>
+	<message label="101_03" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />This room's so<tag a="110" b="0" /><delay20 />clean!<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You going
+minimalist, <delay20 />or are you still tryin' to
+figure out what you wanna do?</message>
+</msbt>

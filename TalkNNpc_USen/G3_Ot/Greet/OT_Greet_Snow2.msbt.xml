@@ -1,0 +1,20 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Ah, there's something about taking
+a walk in the snow that will always
+feel magical to me, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Now,<delay frames="13" /> I know snowy days are fun,<delay20 />
+<anim id="Worried" target="actor" targetSpec="" />but do be careful not to slip and
+fall, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah, <delay frames="13" />it's you again.<delay40 /> <anim id="QuestionMark" target="actor" targetSpec="" />Taking a brisk
+walk to warm yourself up, are you
+<tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00">It may be a bit chilly,<delay frames="13" /><anim id="HappyDance" target="actor" targetSpec="" /> but I simply
+can't help going out on a gorgeous
+snowy day like this, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You know, <tag a="110" b="5" />,<delay frames="13" /> everyone is
+always accessorizing with umbrellas
+when it rains<tag a="110" b="0" />
+<anim id="Eh" target="actor" targetSpec="" />But what about when it snows?<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />Wouldn't an umbrella go nicely
+with my outfit right now?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

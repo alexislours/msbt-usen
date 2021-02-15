@@ -1,0 +1,59 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't care!<delay40 />
+<anim id="OhGeez" target="actor" targetSpec="" />They're all goofy,<delay20 /> how's that?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I'm just asking for an honest
+opinion.<delay40 /> Is that so hard?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><20_3 arg="6" /><anim id="Greeting" target="actor" targetSpec="" /><20_2 arg="3" />Can you get me out of this,<delay20 />
+<tag a="110" b="3" />?<anim id="FaintSmile" target="subNpc" targetSpec="" /><20_2 arg="8" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" /> is buggin' me to
+choose his "best pose"<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />Can you pick one,<delay20 /> so I don't have to?<delay40 />
+<20_3 arg="5" /><20_2 arg="5" /><anim id="Serious" target="actor" targetSpec="" />Start over again,<anim id="Aha" target="subNpc" targetSpec="" /> I guess<delay8 /><tag a="110" b="0" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="10" b="12" /><size value="150" />TA-DA!<size value="100" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />And the second one?<delay20 /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Dance" target="actor" targetSpec="" /><tag a="10" b="12" /><size value="150" />Like so!<size value="100" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />And the third,<delay20 /> and last, one?<delay20 /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" /><tag a="10" b="12" /><size value="150" />Oh HO!<size value="100" /></message>
+	<message label="009" attrib="00 00 03 00 00 00 00 00">There. <anim id="OhGeez" target="actor" targetSpec="" />Now let's get this over with.<delay40 />
+<20_3 arg="6" /><anim id="QuestionMark" target="actor" targetSpec="" /><20_2 arg="8" />Which pose was the least goofy?</message>
+	<message label="009_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />The first one.</message>
+	<message label="009_b" attrib="00 00 00 00 00 00 00 00"><anim id="Dance" target="actor" targetSpec="" />The second one.</message>
+	<message label="009_c" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />The third one.</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Sure,<delay20 /> why not?</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><20_3 arg="5" /><anim id="Angry" target="actor" targetSpec="" />What was the point <20_2 arg="7" />of all that
+nincompoopery,<delay20 /> anyway?</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Assent" target="actor" targetSpec="" />It's brand recognition,<delay20 /> buddy!<delay40 /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Picture one of these going viral,<delay20 />
+then picture me riding that wave
+of attention<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />as long as it lasts!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I ain't your buddy,<anim id="Eh" target="subNpc" targetSpec="" /><delay20 /> and I got no
+idea what you're blatherin' about.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />There.<delay40 /> <anim id="Smiling" target="subNpc" targetSpec="" />That's that,<delay20 /> I guess.</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Thanks <anim id="Smiling" target="subNpc" targetSpec="" />for ending that nonsense.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />How do you come up with all your
+confoundin' flapdoodle,<delay20 /> anyways?</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I do have a way with words,<delay20 /> huh?<delay40 />
+Well, all my content is <anim id="SmugFace" target="actor" targetSpec="" />pure,<delay20 /> original
+<tag a="110" b="31" arg="0xcd01" />,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />You're misunderstandin' me!<delay40 /> I mean,<delay20 />
+all those highfalutin' horsefeathers
+you sprinkle all over everyone<delay8 /><tag a="110" b="0" />
+<anim id="Restless" target="actor" targetSpec="" />Where do you even come up with
+stuff like,<delay20 /> "Savoring the tangy taste
+of our local <tag a="110" b="7" arg="0xcd01" /><anim id="FaintSmile" target="subNpc" targetSpec="" />"?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00">Don't you agree <anim id="QuestionMark" target="actor" targetSpec="" />the mouthfeel<anim id="Shaking" target="mainNpc" targetSpec="" /><delay20 /> of the
+<tag a="110" b="7" arg="0xcd01" /> on this island is to die for?</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />Eeyuugh!<delay frames="40" /> Mouthfeel?!<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Now you've gone and ruined <tag a="110" b="7" arg="0xcd01" /><delay20 />
+for everyone in earshot!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You and I are like <tag a="50" b="2" /><tag a="110" b="7" arg="0xcd00" /> and
+<tag a="50" b="2" /><tag a="135" b="5" arg="0xcd00" /><delay8 /><tag a="110" b="0" /> Reckon <anim id="OhGeez" target="actor" targetSpec="" />we got
+nothing in common,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />We should do something about that!<delay40 />
+<anim id="IdeaBulb" target="actor" targetSpec="" />What if I started using your cool
+retro lingo?<delay40 /> <anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" /><anim id="Eh" target="mainNpc" targetSpec="" /><delay8 /><tag a="110" b="0" />
+<anim id="Aha" target="actor" targetSpec="" />I sound like you now,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />I ain't retro!<delay40 /> And you just sound
+like you,<delay20 /> sayin' "<tag a="110" b="5" />."</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Speaking in sync is only our first
+step<anim id="Worried" target="mainNpc" targetSpec="" /><delay20 /> down this road together!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Where this journey takes us next
+is your move,<delay20 /> <tag a="110" b="5" /><anim id="EmotEnd" target="mainNpc" targetSpec="" />!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />I ain't on no journey with you,<delay20 /> pal.<anim id="TakenAback" target="subNpc" targetSpec="" /><delay40 />
+So don't bother with syncin' us up!</message>
+</msbt>

@@ -1,0 +1,8 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Oh?<delay40 /> <anim id="Smiling" target="actor" targetSpec="" />Still feel like hanging out?<delay20 />
+<anim id="Aha" target="actor" targetSpec="" /><delay20 />Me too!<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00">You forget something?<pageBreak /><size value="75" /><anim id="TakenAback" target="actor" targetSpec="" />Forget? <delay20 />Or "looking for"? <delay frames="40" />No<tag a="110" b="0" /> <anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />How would
+anyone know about my <colour id="3" />K.K. Slider<colour id="65535" /> costume?
+<anim id="EmotEnd" target="actor" targetSpec="" />Stop being paranoid, <tag a="110" b="10" />!<pageBreak /><anim id="Restless" target="actor" targetSpec="" /><delay20 /><size value="100" />Huh?<delay20 /> Oh, I'm just humming!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How are you, <tag a="110" b="6" />?<delay40 /> <anim id="Smiling" target="actor" targetSpec="" />It's cool having you around so much today!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

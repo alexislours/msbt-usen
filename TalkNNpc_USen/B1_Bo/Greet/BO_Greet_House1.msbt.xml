@@ -1,0 +1,75 @@
+<msbt attribsize="8">
+	<message label="011" attrib="00 00 0c 01 00 00 00 07"><anim id="FaintSmile" target="actor" targetSpec="" />Oh, hey.<delay20 /> I wasn't expecting you.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 01 00 00 00 07"><anim id="FaintSmile" target="actor" targetSpec="" />Hey! Thanks for coming to visit me.<delay20 />
+Why don'tcha hang out for a while?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="013" attrib="00 00 0c 01 00 00 00 07"><anim id="FaintSmile" target="actor" targetSpec="" />Whaddaya think of my place?<delay20 />
+Make yourself comfy!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="014" attrib="00 00 0c 01 00 07 00 07"><anim id="Greeting" target="actor" targetSpec="" /><delay20 />Morning, <tag a="110" b="3" />.
+You're over early<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="015" attrib="00 00 0c 01 00 03 00 07"><anim id="Greeting" target="actor" targetSpec="" />Hiya! <delay20 />Welcome to my place!<delay20 /> Or, as I
+call it<tag a="110" b="0" />my Snack Shack!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="016" attrib="00 00 0c 01 00 04 00 07"><anim id="Greeting" target="actor" targetSpec="" />Welcome to my place! <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />I'm glad you
+showed up<tag a="110" b="0" /> <anim id="Laughing" target="actor" targetSpec="" /><delay20 />I'm too fulla snacks to
+go outside.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="017" attrib="00 00 0c 01 00 06 00 07"><anim id="Greeting" target="actor" targetSpec="" />Howdy.<delay frames="40" /> <anim id="Sighing" target="actor" targetSpec="" />You don't know how to
+sleep either, huh? <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />Good. Now
+you can keep me company!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="018" attrib="00 00 0c 05 00 00 00 07"><anim id="Smiling" target="actor" targetSpec="" />A huh huh huh,<delay8 /> welcome to my
+snack castle!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="019" attrib="00 00 0c 07 00 00 00 07"><anim id="Greeting" target="actor" targetSpec="" />Whoa! <delay20 />You walked through the rain
+to visit me? <delay20 /><anim id="Hello" target="actor" targetSpec="" />Then make yourself
+comfy, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="020" attrib="00 00 0c 09 00 00 00 07"><anim id="FaintSmile" target="actor" targetSpec="" />The snow's pretty thick, huh?<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />I'm glad ya made it over
+without freezing!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="022" attrib="00 00 0c 01 00 00 00 08"><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />.<delay20 /> It's nice of
+you to visit, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="023" attrib="00 00 0c 01 00 00 00 08"><anim id="Smiling" target="actor" targetSpec="" />Thanks for dropping
+by, <tag a="110" b="3" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="024" attrib="00 00 0c 01 00 00 00 08"><anim id="HappyFlower" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />.<delay20 /> Welcome to
+my abode! <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Hang out, chill, snack,
+do whatever ya like.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="025" attrib="00 00 0c 01 00 07 00 08"><anim id="Greeting" target="actor" targetSpec="" />Morning!<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /> Having a friend come say
+"hi" is a real neat start to the day.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="026" attrib="00 00 0c 01 00 03 00 08"><anim id="Greeting" target="actor" targetSpec="" />I didn't know you were coming over
+today, <tag a="110" b="3" />. What a
+nice surprise!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="027" attrib="00 00 0c 01 00 04 00 08"><anim id="Greeting" target="actor" targetSpec="" />Whaddaya think of my place,
+<tag a="110" b="3" />?<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Ya wanna
+hang out?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="028" attrib="00 00 0c 01 00 06 00 08"><anim id="Smiling" target="actor" targetSpec="" />Hey! <delay20 />Late night on the island?
+<delay40 />Come on in! <delay20 />Hang out for
+a little bit, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="029" attrib="00 00 0c 05 00 00 00 08"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />It's great
+to see you, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="030" attrib="00 00 0c 07 00 00 00 08"><anim id="FaintSmile" target="actor" targetSpec="" />It's so drippy outside! <delay40 />You can stay
+here and dry up!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="031" attrib="00 00 0c 09 00 00 00 08">You look real chilly<anim id="Smiling" target="actor" targetSpec="" />. <anim id="Love" target="actor" targetSpec="" /><delay20 />You oughta chill
+here till you're all warmed up.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="033" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, <tag a="110" b="5" />!
+<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />Thanks for coming by.<delay8 />
+Always cool to see ya!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="034" attrib="00 00 0c 01 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />The bugs
+said they heard you walking this
+way! <delay20 /><anim id="Clapping" target="actor" targetSpec="" />And now you're here! Yay!<delay frames="160" /><anim id="EmotEnd" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="035" attrib="00 00 0c 01 00 00 00 09"><anim id="BigSmile" target="actor" targetSpec="" />Howdy! Hang out as long as ya want.
+<delay20 /><anim id="Smiling" target="actor" targetSpec="" />My salsa <delay8 />is your salsa!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="036" attrib="00 00 0c 01 00 07 00 09"><anim id="Greeting" target="actor" targetSpec="" />Oh, wow! It's <tag a="110" b="3" />!<delay frames="40" />
+<anim id="HappyFlower" target="actor" targetSpec="" />Didn't expect to see ya this morning.<delay20 />
+What a neat way to start the day.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="037" attrib="00 00 0c 01 00 03 00 09"><anim id="Greeting" target="actor" targetSpec="" />Whatcha doin', <tag a="110" b="5" />?<anim id="Smiling" target="actor" targetSpec="" />
+I'm just hangin' out,
+talkin' to the bugs.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="038" attrib="00 00 0c 01 00 04 00 09"><anim id="Smiling" target="actor" targetSpec="" />Aww, hi, <tag a="110" b="3" />!
+<delay20 />I was just thinking about you.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="039" attrib="00 00 0c 01 00 06 00 09"><anim id="Greeting" target="actor" targetSpec="" />How's it going, <tag a="110" b="3" />?<delay20 />
+It's pretty late, but it's real cool
+to see you<tag a="110" b="0" /> <anim id="Hesitate" target="actor" targetSpec="" /><delay20 />I was kinda lonely.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="040" attrib="00 00 0c 05 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="6" />!<pageBreak />What's up, <tag a="110" b="3" />?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Great weather today, huh?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="041" attrib="00 00 0c 07 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" />How ya doin', <tag a="110" b="3" />?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Looking for someplace to escape
+the rain?<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Well, you found it!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="042" attrib="00 00 0c 09 00 00 00 09"><anim id="Greeting" target="actor" targetSpec="" />You look as chilly as a snowperson!
+Hang out in here till you're warm!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

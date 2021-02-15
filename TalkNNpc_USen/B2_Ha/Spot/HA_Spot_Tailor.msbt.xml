@@ -1,0 +1,34 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x65 0x66 0x67 0x68" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xc9 0xca" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x12d 0x12e 0x12f" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />My clothes have to do two things:<delay20 />
+they gotta show off my muscles,<delay20 /> and
+they gotta soak up a LOT of sweat.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I get all my clothes a size too small.
+Why be swole if you don't show it
+off?<delay frames="40" /> <anim id="Restless" target="actor" targetSpec="" />Kinda uncomfortable though<tag a="110" b="0" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The only reason I even wear clothes
+is to highlight my muscles!<10_4 /> <anim id="Blushing" target="actor" targetSpec="" />And stay
+warm.<10_4 /> And not get sunburned.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I told them I wanted to look ripped,
+and they just gave me a bunch of
+torn up clothes, <tag a="110" b="5" /><tag a="110" b="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />The <colour id="1" />tailors<colour id="65535" /> here are pretty awesome.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I wanna launch a pro <tag a="135" b="6" arg="0xcd00" />
+career.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />They're gonna make sure
+I'm wearing the right gear!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />There's only one thing that makes
+muscles look better than clothes
+from the <colour id="1" />tailors<colour id="65535" /><tag a="110" b="0" /><delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />MORE muscles!</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />I was sprinting to the new <colour id="1" />tailor shop
+<colour id="65535" />when I ripped my shirt on a branch<tag a="110" b="0" /><delay20 />
+How's that for timing, <tag a="110" b="5" />?</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00">You been by the new <colour id="1" />tailor shop<colour id="65535" />?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />It's awesome, <tag a="110" b="5" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />There's all kinds of low-friction,<delay20 />
+muscle-highlighting, <delay20 />breathable,<delay20 />
+sweat-wicking stuff to try on!</message>
+	<message label="303" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I'm super pumped to finally have
+a <colour id="1" />tailor shop<colour id="65535" /> here.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />I've been pumping so much iron I'm
+worried I'm gonna explode out of my
+shirts, <tag a="110" b="5" />!</message>
+</msbt>

@@ -1,0 +1,82 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />No!<delay8 /> <tag a="50" b="3" /><tag a="110" b="3" />? Is that you?<10_4 />
+<anim id="Angry" target="actor" targetSpec="" />You've been away for <tag a="90" b="1" arg="0x2" /> <50_8 x="0" y="2" a="years" b="year" c="years" />!<delay20 />
+What HAVE you been doing?!
+<anim id="Negative" target="actor" targetSpec="" />I don't mean to blame you<tag a="110" b="0" /><10_4 />
+<anim id="Crying" target="actor" targetSpec="" />You've come back and seem to be
+well, and that's all that matters.
+<anim id="Worried" target="actor" targetSpec="" />I-<delay8 />I'm sorry. <delay8 />I'm just overwhelmed!<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />Oh <tag a="110" b="3" />,<delay8 />
+welcome home, <tag a="110" b="6" />!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Well, well<tag a="110" b="0" />it's <tag a="110" b="3" />!<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Why, <delay8 /><anim id="Thinking" target="actor" targetSpec="" />I haven't seen you in<tag a="110" b="0" /><delay8 /><tag a="90" b="1" arg="0x2" /> <50_8 x="0" y="2" a="years" b="year" c="years" /><delay8 />
+and <tag a="90" b="1" arg="0x1" /> <50_8 x="0" y="1" a="months" b="month" c="months" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />Maybe it's because you haven't
+been around,<delay8 /><anim id="Sighing" target="actor" targetSpec="" /> but the island just
+hasn't been the same lately.
+<anim id="Negative" target="actor" targetSpec="" />It's been so gloomy without you.
+<delay8 />I can hardly stand it. <delay20 /><anim id="Hello" target="actor" targetSpec="" />So,<delay8 /> thank you
+for returning home to us.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="003_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh my, <delay8 /><tag a="110" b="3" />, how ARE
+you?<10_4 /> It feels like forever since we've
+spoken like this.
+<anim id="OhGeez" target="actor" targetSpec="" />Oh dear,<delay8 /> I can't even remember what
+sorts of things we used to talk about.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you'd stayed away any longer,<delay8 /><anim id="Eh" target="actor" targetSpec="" /> I
+might have forgotten you completely!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I kid!<delay8 /> I kid! <delay8 />That was just a little joke,<delay8 />
+darling.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />You came back, <delay8 />so all is well.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Welcome home, <tag a="110" b="3" />.</message>
+	<message label="003_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh, <delay8 />nice to meet you<tag a="110" b="0" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Wait, <delay20 /><anim id="Surprised" target="actor" targetSpec="" /><tag a="110" b="3" />?!<delay20 />
+Is that really you?
+<anim id="Frantic" target="actor" targetSpec="" />My word,<delay8 /> where have you been all
+this time?!<delay20 /> Why would you neglect
+the island like this?!
+<anim id="Crying" target="actor" targetSpec="" />I hate to sound needy, <delay8 />but we've
+been so lonely without you,
+<tag a="110" b="6" />!<delay8 /><anim id="Worried" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="004_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh my<tag a="110" b="0" /><delay20 /><tag a="110" b="3" />?!<10_4 />
+<anim id="QuestionMark" target="actor" targetSpec="" />When was the last time I saw you?<delay frames="50" />
+<anim id="Worried" target="actor" targetSpec="" />It's been FOREVER, <delay8 />darling!
+<anim id="EmotEnd" target="actor" targetSpec="" />Returning home after so long<tag a="110" b="0" /><delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />You must have so many things
+you want to do!
+<anim id="EmotEnd" target="actor" targetSpec="" />Well,<delay8 /> enjoy <tag a="110" b="8" />.<delay20 />
+<anim id="HappyDance" target="actor" targetSpec="" />It's a better place when you're in it.</message>
+	<message label="004_02" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />No! <delay8 /><tag a="50" b="3" /><tag a="110" b="3" />?! <10_4 /><anim id="Frantic" target="actor" targetSpec="" />Ooooh,<delay8 />
+you came back!<delay20 /> But where on earth
+did you go?!
+<anim id="Worried" target="actor" targetSpec="" />When you're not on the island,
+I swear,<delay8 /> nothing is the same!<delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />It's just awful!<delay20 />
+I don't enjoy <tag a="135" b="8" arg="0xcd00" />
+like I used to,<delay20 /> <anim id="Sighing" target="actor" targetSpec="" />and <tag a="135" b="7" arg="0xcd00" />
+doesn't even taste sweet anymore!
+I'm sorry, <delay20 /><anim id="Crying" target="actor" targetSpec="" />but I was so lonely while
+you were away!<delay20 /><anim id="Worried" target="actor" targetSpec="" /></message>
+	<message label="004_03" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh my, <delay8 />now here's a face I haven't
+seen in quite some time!<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What on
+earth kept you away for so long?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Well,<delay8 /> the important thing is that
+you seem well.<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />Knowing you,<delay8 />
+you've been keeping very busy.
+<anim id="EmotEnd" target="actor" targetSpec="" />Do spend some time on the island,
+<delay8 />even if just for today, <tag a="110" b="6" />.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, <delay8 /><tag a="110" b="3" />.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />It seems like
+ages since the last time we talked.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />It must have been about<delay8 /> <tag a="90" b="1" arg="0x1" /> <50_8 x="0" y="1" a="months" b="month" c="months" />
+ago, now. <delay20 /><anim id="Worried" target="actor" targetSpec="" />It's hard not to take that
+personally, my dear.</message>
+	<message label="005_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Well, well.<delay20 /> <anim id="Angry" target="actor" targetSpec="" />Where have you been for
+the last <tag a="90" b="1" arg="0x1" /> <50_8 x="0" y="1" a="months" b="month" c="months" />?<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I've heard about you from the others
+a few times, but<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You and I not speaking—<anim id="Worried" target="actor" targetSpec="" />surely it's
+just a case of bad timing and
+coincidence<tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Right, <tag a="110" b="6" />?</message>
+	<message label="005_03" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, <delay8 /><tag a="110" b="3" />.<10_4 /> <anim id="Worried" target="actor" targetSpec="" />It's been a
+while<delay8 /> since you and I had a chance
+to talk like this.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I believe our last chat was<tag a="110" b="0" /><delay8 />about<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />
+<tag a="90" b="1" arg="0x1" /> <50_8 x="0" y="1" a="months" b="month" c="months" /> ago.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />I have a good
+memory for these things, you know.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />We live on the same island<tag a="110" b="0" /> <anim id="Thinking" target="actor" targetSpec="" />I guess
+I find it quite sad, <tag a="110" b="6" />.</message>
+</msbt>

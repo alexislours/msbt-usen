@@ -1,0 +1,9 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Yo, do you wanna move in or what?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wow, you're really proactive today!<delay20 />
+Disrupting the old-fashioned
+hospitality model. <delay20 /><anim id="Grin" target="actor" targetSpec="" />I like it!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yo, <tag a="110" b="3" />! <delay20 />When I said
+"mi casa es su casa," you really
+took it to heart, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+</msbt>

@@ -1,0 +1,42 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey, it's <tag a="110" b="4" />!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Man, I haven't seen you in<delay8 /> a <delay8 />while.<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />Were you on vacation?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Did you eat a bunch of yummy stuff
+while you were gone? Tell me ALL
+about it!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay40 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Where have you been
+for the last <tag a="90" b="1" arg="0x0" /> <50_8 x="0" y="0" a="weeks" b="week" c="weeks" />?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Everyone's been worried<delay20 /> about
+where you were!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I'm happy to see you again! <anim id="FaintSmile" target="actor" targetSpec="" />You
+should go say hi to everybody,
+then we can hang out, <tag a="110" b="6" />!</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="4" />!<delay frames="40" />
+<anim id="Confused" target="actor" targetSpec="" />Where have you BEEN?<delay20 /><pageBreak />Something <anim id="Surprised" target="actor" targetSpec="" />amazing<delay20 /> happened while
+you were gone!<delay20 /> Guess what it was!<delay20 />
+I'll tell you<tag a="110" b="0" /><pageBreak /><anim id="Pardon" target="actor" targetSpec="" />I bet <tag a="110" b="11" arg="0xcd00" /> that I could<delay20 />
+eat my weight in <tag a="135" b="3" arg="0xcd00" />
+and <gender3 m="he" f="she" /> said I couldn't<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" /><tag a="110" b="11" arg="0xcd00" /> was right. I only
+got, like, 12 pounds in before I
+<anim id="Laughing" target="actor" targetSpec="" />reverse-snacked all over the place.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Anyway, <delay20 />welcome home!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Yaaay!<delay20 /> You finally talked to me!<delay frames="60" />
+<anim id="OhGeez" target="actor" targetSpec="" />I keep meaning to say "hi," but
+you always seem so busy!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />We gotta hang out and get deep
+into snacks sometime, <tag a="110" b="6" />!</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />I know you've been on this island
+somewhere, <tag a="110" b="4" />,<delay20 />
+but I couldn't find you!<pageBreak /><anim id="Aha" target="actor" targetSpec="" />I even stood outside your house for
+a whole day! <anim id="Hesitate" target="actor" targetSpec="" />Except for when I had
+to go to the bathroom<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I didn't think you'd want me doing
+that in front of your house.<pageBreak />My bug friends said I'd find you,
+<anim id="HappyFlower" target="actor" targetSpec="" />and they were right!<delay20 /> Let's hang out
+later, <tag a="110" b="6" />!</message>
+	<message label="002_03" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?<delay frames="40" /> It's been a while since<delay20 /> we've
+talked<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" /> I think.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I've been having a lot of weird
+dreams lately.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Maybe my jar of <tag a="135" b="3" arg="0xcd00" />
+finally went bad?<delay20 /> Dunno why. I keep
+it in a warm, damp place<tag a="110" b="0" /> <anim id="Surprised" target="actor" targetSpec="" />ANYWAY!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />In my dreams, we talked every night.<delay20 />
+Sometimes you had two heads.<delay40 />
+So I'm betting that right now is real.</message>
+</msbt>

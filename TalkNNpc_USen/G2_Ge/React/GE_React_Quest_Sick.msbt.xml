@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I heard <tag a="115" b="1" arg="0xcd00" /><delay20 /> is feeling
+super grody<tag a="110" b="0" /><pageBreak /><anim id="Restless" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> if you've got
+time, maybe go say hi to <gender3 m="him" f="her" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="115" b="1" arg="0xcd00" /> is totes
+feeling le grody and is
+staying home all day.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I wonder if it's OK for <gender3 m="him" f="her" /> to be all
+alone at home<tag a="110" b="0" /><delay40 /> <anim id="Serious" target="actor" targetSpec="" />Hey, could you go
+check on <gender3 m="him" f="her" />?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I saw <tag a="115" b="1" arg="0xcd00" /> looking
+all strange today. <delay40 /><anim id="Restless" target="actor" targetSpec="" />Do you
+think <gender3 m="he's" f="she's" /> sick?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> maybe you
+should go and check on <gender3 m="him" f="her" />?</message>
+</msbt>

@@ -1,0 +1,46 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" /><delay20 />Hey, sorry about today<tag a="110" b="0" /><delay frames="40" /> I know
+ya wanted to hang out, but I just
+felt lousy!<pageBreak /><anim id="Explain" target="actor" targetSpec="" /><delay20 />No worries. <tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" />
+brought me <colour id="1" />medicine<colour id="65535" />.<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" /><delay20 />I'm feeling all better!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><delay20 />Thanks for checking in on me when
+I was sick today. You made the
+whole day less of a downer!<pageBreak /><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> brought me
+<colour id="1" />medicine<colour id="65535" /> and <anim id="Laughing" target="actor" targetSpec="" />I'm all better!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" /><delay20 />Sorry about the other day!<delay frames="40" />
+You came to visit, but I felt like a
+wreck and couldn't play at all!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> brought me
+<colour id="1" />medicine<colour id="65535" /> and I'm all better.<delay20 /> If you
+see <anim id="BigSmile" target="actor" targetSpec="" />them, tell 'em I said thanks!</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks for visiting me when I was
+sick the other day!<pageBreak /><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> brought me some
+<colour id="1" />medicine<colour id="65535" />, <anim id="Greeting" target="actor" targetSpec="" />so now I'm eating snacks,
+talking to bugs, and living life!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />I laid on the floor all day because I
+was sick, and listening to the bugs
+in the floor made me feel better.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Greeting" target="actor" targetSpec="" />But I feel fine now! It was real cool
+of <tag a="115" b="0" arg="0xcd00" /> to get me
+some <colour id="1" />medicine, <colour id="65535" /><delay20 /><anim id="SmugFace" target="actor" targetSpec="" /><tag a="110" b="6" />!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />What a morning! I was all stuffy and
+sneezy and I thought I heard a fish
+say he wanted to talk.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />But I took the <colour id="1" />medicine<colour id="65535" />
+<tag a="115" b="0" arg="0xcd00" /> gave me,<delay20 />
+and <anim id="FaintSmile" target="actor" targetSpec="" />I'm all good now!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00">I was stuck in bed the other day,
+feeling like curdled pigeon milk<tag a="110" b="0" /><pageBreak />But <tag a="115" b="0" arg="0xcd00" /> brought
+me some <colour id="1" />medicine <colour id="65535" /><anim id="Smiling" target="actor" targetSpec="" />and
+now I'm feeling great!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Man, I was so weak and dizzy the
+other morning!<delay frames="40" /> <anim id="Frantic" target="actor" targetSpec="" />It was a real downer.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />But then <tag a="115" b="0" arg="0xcd00" /> brought
+me some <colour id="1" />medicine<colour id="65535" />,<anim id="Laughing" target="actor" targetSpec="" /> and I feel
+real good again, <tag a="110" b="6" />!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! Thanks for the
+<colour id="1" />medicine<colour id="65535" />!<anim id="Blushing" target="actor" targetSpec="" /><delay20 /> You're my hero!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">That <colour id="1" />medicine <colour id="65535" />really helped!<delay frames="60" /> <anim id="BigSmile" target="actor" targetSpec="" />Man, if
+it weren't for you, I'd still be sick!
+<delay20 />Thank you!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />I should keep some <colour id="1" />medicine<colour id="65535" /> handy.
+<anim id="EmotEnd" target="actor" targetSpec="" />Just in case of a total downer.
+Like today!</message>
+</msbt>

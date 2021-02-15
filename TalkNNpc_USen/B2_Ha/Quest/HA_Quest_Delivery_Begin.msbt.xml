@@ -1,0 +1,90 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />So I sort of borrowed something
+from <tag a="115" b="1" arg="0xcd00" />,<delay20 /> but I totally
+failed to return it on time<tag a="110" b="0" /><pageBreak /><anim id="Sighing" target="actor" targetSpec="" />I'm sure <gender3 m="he's" f="she's" /> upset about it.<delay frames="40" /><anim id="Frantic" target="actor" targetSpec="" /> Any
+advice here, bud?</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I can return it for you.</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Apologize!</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> left something
+at my house when <gender3 m="he" f="she" />
+came over for a visit. <pageBreak /><anim id="Worried" target="actor" targetSpec="" />Sending it by mail is a no-go, but I'm
+too busy to run over and return it<tag a="110" b="0" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" /><tag a="50" b="3" /><gender3 m="He" f="She" /> probably thinks <gender3 m="he" f="she" /> lost it and
+is worried sick<tag a="110" b="0" /><delay frames="60" /><anim id="Sighing" target="actor" targetSpec="" /> What should I do?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I'll return it!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Return it later!</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Looks like <tag a="115" b="1" arg="0xcd00" />
+accidentally got something
+delivered to my house.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I'd take it to <gender3 m="him" f="her" /> myself, but I've
+got some other stuff to do.<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />Hey, sorry, but would you mind
+delivering it for me?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">I'll do it!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Sorry, I can't.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Really?! <delay frames="40" /><anim id="ShyBoy" target="actor" targetSpec="" />That's awfully nice of
+you, <tag a="110" b="3" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />OK, then<tag a="110" b="0" /><delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> Please give this
+to <tag a="115" b="1" arg="0xcd00" />!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Really?! <delay frames="40" /><anim id="HappyDance" target="actor" targetSpec="" />You're a life saver,
+<tag a="110" b="3" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well then, please give this
+to <tag a="115" b="1" arg="0xcd00" />.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />You'll take care of it for me?<delay frames="30" />
+<anim id="HappyFlower" target="actor" targetSpec="" />Thanks, <tag a="110" b="3" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />OK then, <delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />please take this
+to <tag a="115" b="1" arg="0xcd00" />.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />You're right<tag a="110" b="0" /> I should sincerely
+apologize and take responsibility.
+I mean, it's my fault.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Thanks, <tag a="110" b="3" />.<delay20 /> I feel
+much better, <tag a="110" b="5" />.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Yeah, if it was really important to
+them,<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />they wouldn't have left it at
+my house in the first place, right?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'll take care of my business and
+then see if I have time to run over
+and return it, <tag a="110" b="5" />.</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="BrokenHeart" target="actor" targetSpec="" />Yeah, I get it.<delay frames="70" /> <anim id="Worried" target="actor" targetSpec="" />It's kind of rude of me
+to try to pawn off this responsibility
+to someone else, <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Sorry, <tag a="110" b="3" />.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> I'll take
+care of this myself.</message>
+	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I have a special favor to ask
+you, <tag a="110" b="3" />.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> has done a lot
+for me, so I got <gender3 m="him" f="her" /> a gift.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />But<tag a="110" b="0" />I'm too shy to give it to <gender3 m="him" f="her" />
+myself.<delay20 /> I was wondering if you could
+take this to <tag a="115" b="1" arg="0xcd00" />.</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00">No problem.</message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />You need to do it.</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Oh, no. I got into a big argument
+with <tag a="115" b="1" arg="0xcd00" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I guess I was being stubborn, and
+the competitor in me just didn't
+wanna back down<tag a="110" b="0" /><pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />I got a gift to make amends, but<tag a="110" b="0" />
+Well, even a big, tough guy like me
+can get nervous, ya know?</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Want me to deliver it?</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Good luck, tough guy!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Really? Thanks, <tag a="110" b="3" />!<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />You're the best bud ever.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Really? You'd do that?<delay frames="40" /><anim id="Negative" target="actor" targetSpec="" /> I hope
+I'm not taking advantage of
+your generosity<tag a="110" b="0" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Yeah, I guess you're right. This
+type of thing really requires a
+personal touch, <tag a="110" b="5" />.
+<anim id="BigSmile" target="actor" targetSpec="" />Thanks, <tag a="110" b="3" />.<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> I feel
+like I've really grown
+because of this.</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Heh, I guess an apology is really
+something I should do myself.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Thanks, <tag a="110" b="3" />. You've
+given me courage!</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Uh, sorry to rush you, but could you
+take care of that today?</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's getting late though, so you can
+take care of it tomorrow.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> is probably upset
+about not getting <gender3 m="his" f="her" /> stuff back.<delay20 />
+Thanks again for handling this!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> is probably out
+of <gender3 m="his" f="her" /> mind about losing <gender3 m="his" f="her" />
+stuff. <anim id="Greeting" target="actor" targetSpec="" />Please take it to <gender3 m="him" f="her" />!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Could you take <tag a="115" b="1" arg="0xcd00" />'s
+stuff to <gender3 m="him" f="her" />? <anim id="Nodding" target="actor" targetSpec="" /><gender3 m="He's" f="She's" /> gotta be
+wondering where it is.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Make sure to give my thank-you gift
+to <tag a="115" b="1" arg="0xcd00" />.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Please give <tag a="115" b="1" arg="0xcd00" /> my
+gift<delay20 /> and a heartfelt apology.</message>
+</msbt>

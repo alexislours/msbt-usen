@@ -1,0 +1,82 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 01 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey! <delay20 />Wanna play a quick game with
+me?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />I promise it's got nothing to do
+with muscles<tag a="110" b="0" /><delay20 />this time.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Anyway, if you win, you can have
+my <tag a="125" b="0" arg="0x0" />.<delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" />Whaddaya say?</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00">Game on!</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">Pass.</message>
+	<message label="002" attrib="00 00 01 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That's what I wanna hear!<delay20 /> Alright,
+do you wanna hear the rules, <delay20 />or
+live dangerously, <tag a="110" b="5" />?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">Rules!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">Danger!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh<tag a="110" b="0" /><delay20 />I'll just take the W, then.<10_4 /> <anim id="OhGeez" target="actor" targetSpec="" />Maybe
+some other time, <tag a="110" b="5" />.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Danger it is!<delay frames="40" /> <anim id="NpcShuffle" target="actor" targetSpec="" />Steel those abs, 'cause
+here it comes<tag a="110" b="0" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />This one's for the championship<tag a="110" b="0" /></message>
+	<message label="006_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That's game! <delay20 />Congratulations! <delay20 />My
+<tag a="125" b="0" arg="0x0" /> is yours!</message>
+	<message label="006_02" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Game, <delay8 />set, <delay8 />match!<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Congratulations to
+the new world champion! <delay20 />Here's
+my <tag a="125" b="0" arg="0x0" />!</message>
+	<message label="006_03" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />What a stunning upset<tag a="110" b="0" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Alright, <tag a="110" b="3" />, <delay20 />go hit
+the showers, <tag a="110" b="5" />.</message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />There's always the rematch. <delay20 />Now go
+hit the showers, <tag a="110" b="5" />.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That's what I wanna hear!<delay20 /> OK, do you
+wanna<tag a="110" b="0" /><delay20 /><anim id="Eh" target="actor" targetSpec="" /> Wait up. <delay20 />Did you know your
+pockets are full?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Well, they're full. <delay20 />So even if you
+won, I wouldn't be able to give
+you my <tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Look, I'm not gonna play if I don't
+have stakes. <delay20 />I wanna to get my heart
+rate up.<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />No stakes means no cardio!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Come back after you've lifted some
+stuff out of your pockets and we'll
+get this showdown going!</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />You want rules, <delay20 />you got it!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You know how all cards have suits?<delay20 />
+Those're the <colour id="6" />♥heart<colour id="65535" />, <colour id="6" />♦diamond<colour id="65535" />,
+<colour id="7" />♠spade<colour id="65535" />, and <colour id="7" />♣club<colour id="65535" /> symbols.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Well, get set to flex that knowledge!<delay20 />
+I want you to guess the suit of the
+top card.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Guess it right, and I'll hand over
+my <tag a="125" b="0" arg="0x0" />.<delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" />Just like that!<pageBreak /><anim id="NpcShuffle" target="actor" targetSpec="" />Now steel those abs,<delay20 /> 'cause it's
+GAME TIME!</message>
+	<message label="101" attrib="00 00 05 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />And there's the tip off!<delay20 /> OK, which
+suit is the top card, <tag a="110" b="5" />?</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00"><colour id="6" />♥Heart<colour id="65535" /></message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00"><colour id="6" />♦Diamond<colour id="65535" /></message>
+	<message label="101_c" attrib="00 00 00 00 00 00 00 00"><colour id="7" />♠Spade<colour id="65535" /></message>
+	<message label="101_d" attrib="00 00 00 00 00 00 00 00"><colour id="7" />♣Club<colour id="65535" /></message>
+	<message label="102_01" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />It's a <tag a="140" b="14" arg="0xcd00" />!<delay20 /> That's a grand
+slam three-pointer hole in one
+between the uprights!<delay20 /> GOOOAL!</message>
+	<message label="102_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ooo! <delay20 />It's a <tag a="140" b="14" arg="0xcd00" />.<delay20 /> Foul ball on a
+par three slapshot off the backboard.<delay20 />
+<anim id="Negative" target="actor" targetSpec="" />That's gotta sting!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />You want rules, <delay20 />you got it!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />OK, all cards have suits—the <colour id="6" />♥heart<colour id="65535" />,
+<colour id="6" />♦diamond<colour id="65535" />, <colour id="7" />♠spade<colour id="65535" />, or <colour id="7" />♣club<colour id="65535" /> marks.<delay20 />
+And all suits are either <colour id="6" />red<colour id="65535" /> or <colour id="7" />black<colour id="65535" />.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Well, get set to flex that knowledge!<delay20 />
+I want you to guess whether the suit
+of the top card is <colour id="6" />red<colour id="65535" /> or <colour id="7" />black<colour id="65535" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Guess it right, and I'll hand over
+my <tag a="125" b="0" arg="0x0" />.<delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" />Just like that!<pageBreak /><anim id="NpcShuffle" target="actor" targetSpec="" />Now steel those abs,<delay20 /> 'cause it's
+GAME TIME!</message>
+	<message label="201" attrib="00 00 01 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />And there's the tip off!<delay20 /> OK, what
+color is the top card?</message>
+	<message label="201_a" attrib="00 00 00 00 00 00 00 00"><colour id="6" />Red<colour id="65535" /></message>
+	<message label="201_b" attrib="00 00 00 00 00 00 00 00"><colour id="7" />Black<colour id="65535" /></message>
+	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />It's <colour id="6" />red<colour id="65535" />!<delay20 /> That's a three-pointer grand
+slam hole in one straight between
+the uprights!<delay20 /> GOOOAL!</message>
+	<message label="202_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ooo!<delay20 /> It's <colour id="7" />black<colour id="65535" />.<delay20 /> Foul ball on a par
+three slapshot off the backboard.<delay20 />
+<anim id="Negative" target="actor" targetSpec="" />That's gotta sting!</message>
+	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />It's <colour id="7" />black<colour id="65535" />!<delay20 /> That's a three-pointer
+grand slam hole in one straight
+between the uprights!<delay20 /> GOOOAL!</message>
+	<message label="202_04" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ooo!<delay20 /> It's <colour id="6" />red<colour id="65535" />.<delay20 /> Foul ball on a par
+three slapshot off the backboard.<delay20 />
+<anim id="Negative" target="actor" targetSpec="" />That's gotta sting!</message>
+</msbt>

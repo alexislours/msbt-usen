@@ -1,0 +1,34 @@
+<msbt attribsize="4">
+	<message label="001_01" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay8 />Oh, <tag a="110" b="1" />!<delay40 />
+<anim id="HappyFlower" target="actor" targetSpec="" />Here you are already!</message>
+	<message label="001_02" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><delay8 />Welcome, <delay8 /><tag a="110" b="1" />!<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />In case you don't remember,<delay8 />
+<anim id="BigSmile" target="actor" targetSpec="" />I'm <colour id="3" />Isabelle<colour id="65535" />.<10_4 />
+<anim id="Nodding" target="actor" targetSpec="" />I look forward to being of
+assistance with your life here
+on <tag a="110" b="8" />!</message>
+	<message label="002" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />At this counter, <delay20 />I can help you
+with both general issues and issues
+you may face with other residents.
+<anim id="Smiling" target="actor" targetSpec="" />We can delve into the details when
+specific concerns arise.<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> No need
+to worry about that right now!</message>
+	<message label="002_01" attrib="00 00 00 00" />
+	<message label="002_02" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />But since you're here<delay8 />, I may as
+well ask<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Do you have any specific
+concerns at the moment?</message>
+	<message label="002_02_a" attrib="00 00 00 00">Indeed, I do.</message>
+	<message label="002_02_b" attrib="00 00 00 00">Nah, I'm good.</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Oh, this is so exciting!<delay20 />
+<anim id="HappyDance" target="actor" targetSpec="" />My first official request!<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />Ahem<tag a="110" b="0" /><delay20 /> I'm sorry<tag a="110" b="0" /><delay20 /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />That wasn't professional, <delay8 />was it?<delay40 />
+<anim id="Blushing" target="actor" targetSpec="" />Now then<tag a="110" b="0" /></message>
+	<message label="021_01" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />It's nice to meet you!<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />My name is
+<colour id="3" />Isabelle<colour id="65535" />, <delay20 />and I work here at
+<colour id="1" />Resident Services<colour id="65535" />.</message>
+	<message label="021_02" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You must be tired from all your
+travels, <delay20 /><anim id="Greeting" target="actor" targetSpec="" />but I just want you to know
+that I'm always here to help.</message>
+	<message label="021_03" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I've looked forward to meeting you!<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />I hope you know that I'm here to
+help you however I can!</message>
+</msbt>

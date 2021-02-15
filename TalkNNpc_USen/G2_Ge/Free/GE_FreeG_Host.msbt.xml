@@ -1,0 +1,24 @@
+<msbt attribsize="8">
+	<message label="001" attrib="05 00 00 01 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />We've got company visiting from
+another island?! TODAY?!<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />EXCITING!</message>
+	<message label="002" attrib="05 00 00 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I heard we have company from
+another island hanging out
+here today!<delay40 /> So cool!</message>
+	<message label="003" attrib="05 00 00 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Are the folks on the island today
+here to see you, <tag a="110" b="3" />?<pageBreak />I have to go say <anim id="HappyDance" target="actor" targetSpec="" />hiiiiiiii before they
+go home!</message>
+	<message label="004" attrib="05 00 00 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I better hurry! I don't want to miss
+saying hi to our company!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />They might have connections in the
+music industry!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6 0x7 0x8 0x9" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00">Do you think my outfit is<tag a="110" b="0" />I don't
+know, <delay20 />weird? Today,<delay40 /> I mean?<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I just want to make sure I'm extra
+fashionable for our company!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Now that they're here and I have
+the chance to add to my fan base<tag a="110" b="0" /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" />I've GOT to go say hi!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Well, they came all the way here,<delay20 />
+so I hope they have a fab time!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I wonder what song I should sing so
+our guests will remember me and
+tell record companies about me?</message>
+</msbt>

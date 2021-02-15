@@ -1,0 +1,343 @@
+<msbt attribsize="4">
+	<message label="001" attrib="04 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Welcome, <tag a="110" b="1" />!<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />How can I help you today?</message>
+	<message label="001_a" attrib="00 00 00 00">I want to sell!</message>
+	<message label="001_b" attrib="00 00 00 00">What's for sale?</message>
+	<message label="001_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />See you later.</message>
+	<message label="002" attrib="04 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oho!<delay20 /> And what do we have here?<anim id="FaintSmile" target="actor" targetSpec="" /><10_4 />
+<delay20 /><anim id="Smiling" target="actor" targetSpec="" />I'm impressed that you traveled all
+the way to our fair island!
+<anim id="EmotEnd" target="actor" targetSpec="" />What can I do you for today?</message>
+	<message label="002_a" attrib="00 00 00 00">I want to sell!</message>
+	<message label="002_b" attrib="00 00 00 00">What's for sale?</message>
+	<message label="002_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />See you later.</message>
+	<message label="003" attrib="04 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />How can I help you?</message>
+	<message label="003_a" attrib="00 00 00 00">I want to sell!</message>
+	<message label="003_b" attrib="00 00 00 00">What's for sale?</message>
+	<message label="003_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />See you later.</message>
+	<message label="011" attrib="06 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><tag a="50" b="3" /><anim id="Smiling" target="subNpc" targetSpec="" /><tag a="110" b="1" />,<delay8 /> welcome!<tag a="100" b="4" /><delay8 /> <size value="75" />...welcome!<size value="100" /><endTag a="100" b="4" /><10_4 /> <anim id="EmotEnd" target="mainNpc" targetSpec="" />What do you need today?</message>
+	<message label="011_a" attrib="00 00 00 00">I want to sell!</message>
+	<message label="011_b" attrib="00 00 00 00">Turnip prices?</message>
+	<message label="011_c" attrib="00 00 00 00">What's hot today?</message>
+	<message label="011_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />See you later.</message>
+	<message label="012" attrib="06 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oho!<delay20 /> And what do we have here?<anim id="FaintSmile" target="actor" targetSpec="" /><10_4 />
+<delay20 /><anim id="Smiling" target="actor" targetSpec="" />I'm impressed that you traveled all
+the way to our fair island!
+<anim id="EmotEnd" target="actor" targetSpec="" />What can I do you for today?</message>
+	<message label="012_a" attrib="00 00 00 00">I want to sell!</message>
+	<message label="012_b" attrib="00 00 00 00">Turnip prices?</message>
+	<message label="012_c" attrib="00 00 00 00">What's hot today?</message>
+	<message label="012_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />See you later.</message>
+	<message label="013" attrib="06 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Yes! Yes, of course!<tag a="100" b="4" /><delay8 /> <size value="75" />...of course!<size value="100" /><endTag a="100" b="4" /><delay frames="40" />
+What do you need?</message>
+	<message label="013_a" attrib="00 00 00 00">I want to sell!</message>
+	<message label="013_b" attrib="00 00 00 00">Turnip prices?</message>
+	<message label="013_c" attrib="00 00 00 00">What's hot today?</message>
+	<message label="013_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />See you later.</message>
+	<message label="014" attrib="06 00 00 00"><anim id="Confused" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />Sorry about that. That explanation
+went on for a bit<tag a="110" b="0" /><delay20 /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /> How can I help?</message>
+	<message label="014_a" attrib="00 00 00 00">I want to sell!</message>
+	<message label="014_b" attrib="00 00 00 00">Turnip prices?</message>
+	<message label="014_c" attrib="00 00 00 00">What's hot today?</message>
+	<message label="014_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />See you later.</message>
+	<message label="019" attrib="06 00 00 00">Is there anything else <anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />I can do for
+you today?<tag a="100" b="4" /><delay8 /> <size value="75" />...today?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="019_a" attrib="00 00 00 00">I want to sell!</message>
+	<message label="019_b" attrib="00 00 00 00">Turnip prices?</message>
+	<message label="019_c" attrib="00 00 00 00">What's hot today?</message>
+	<message label="019_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />See you later.</message>
+	<message label="021" attrib="00 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Of course! <anim id="EmotEnd" target="mainNpc" targetSpec="" /><delay20 /><anim id="FaintSmile" target="mainNpc" targetSpec="" />What exactly are you
+offering?<tag a="100" b="4" /><delay8 /> <size value="75" />...offering?<size value="100" /><endTag a="100" b="4" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="022" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Now, we have a policy in place of not
+buying turnips on Sundays.<delay20 /> I'm sure
+you <anim id="Nodding" target="subNpc" targetSpec="" />understand.
+<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />So, <delay20 /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />what would you like to sell?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="024" attrib="00 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />Ummm<tag a="110" b="0" /><delay20 /> Sincerest apologies, but<tag a="110" b="0" /><delay40 />
+since it's Sunday, some items, such
+as turnips, are off the table now<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />Sorry for the trouble, but please
+reselect what you'd like to sell.</message>
+	<message label="031" attrib="02 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<10_4 />
+<anim id="FaintSmile" target="mainNpc" targetSpec="" />Sure! How about if I offer you
+<tag a="90" b="26" arg="0x0" />?</message>
+	<message label="031_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sold!</message>
+	<message label="031_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="035" attrib="02 00 00 00"><size value="75" /><anim id="Pardon" target="actor" targetSpec="" />Ah<tag a="110" b="0" /><delay8 /> Could this <tag a="125" b="0" arg="0x0" /> be<tag a="110" b="0" /><size value="100" />
+<anim id="Shocked" target="actor" targetSpec="" /><delay20 />Oh! <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Don't mind me! Just rambling.<pageBreak />I can give you <tag a="90" b="25" arg="0x0" /> for
+your <tag a="125" b="0" arg="0x0" />.</message>
+	<message label="035_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sold!</message>
+	<message label="035_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="036" attrib="02 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Ah! This is a DIY recipe for <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="FaintSmile" target="mainNpc" targetSpec="" />I can pay you <tag a="90" b="21" arg="0x0" /> for it!</message>
+	<message label="036_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sold!</message>
+	<message label="036_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="037" attrib="02 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />OH!<delay40 /> This is the DIY recipe for <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Worried" target="mainNpc" targetSpec="" />This is an extremely valuable<anim id="Nodding" target="subNpc" targetSpec="" /> recipe.<delay20 />
+Are you really sure you want to part
+with it?<delay40 /> I can give you <tag a="90" b="21" arg="0x0" /><tag a="110" b="0" /></message>
+	<message label="037_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sold!</message>
+	<message label="037_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="038" attrib="02 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />Oh<tag a="110" b="0" /><delay40 /> I'm sorry, but I can't pay you
+for items like this.<pageBreak />I can dispose of it for free if you
+don't need it, though.</message>
+	<message label="038_a" attrib="00 00 00 00">Take my trash!</message>
+	<message label="038_b" attrib="00 00 00 00">I'll take my trash back.</message>
+	<message label="041" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Look at all the fine things you've
+brought in today! <delay frames="40" /><anim id="Thinking" target="mainNpc" targetSpec="" /><anim id="AbsentMindedness" target="subNpc" targetSpec="" />Allow me just
+a moment to run the numbers<tag a="110" b="0" /></message>
+	<message label="041_01" attrib="00 00 00 00">Look at all the fine things you've
+brought in today!<10_4 /> <size value="75" /><anim id="Pardon" target="actor" targetSpec="" /><delay8 />Wait<tag a="110" b="0" /><delay8 /> Are they selling<tag a="110" b="0" /><size value="100" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" /><delay20 />Oh!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> It's nothing! Nothing! I'll start
+running the numbers<tag a="110" b="0" /></message>
+	<message label="041_02" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Look at this fine selection!<delay frames="40" /><anim id="Thinking" target="mainNpc" targetSpec="" /><anim id="AbsentMindedness" target="subNpc" targetSpec="" /> Let's
+see<tag a="110" b="0" /><delay20 /> I'll run the numbers<tag a="110" b="0" />take
+any high-value hot items<tag a="110" b="0" /></message>
+	<message label="042" attrib="02 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />And done!<delay frames="40" /> <anim id="EmotEnd" target="mainNpc" targetSpec="" />I can buy these from you
+for a total of<delay8 /> <tag a="90" b="26" arg="0x0" />.<delay8 /><anim id="FaintSmile" target="mainNpc" targetSpec="" />
+Sound good?</message>
+	<message label="042_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sold!</message>
+	<message label="042_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="043" attrib="02 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />So many fine thi<tag a="110" b="0" /><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" /><delay8 /> Huh?<delay20 /> <anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />I'm seeing
+an extremely valuable recipe in the
+mix.<delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" /> Are you sure about this?</message>
+	<message label="043_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's fine. Go ahead.</message>
+	<message label="043_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Er, no. Hold on a sec.</message>
+	<message label="044_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><delay8 /><anim id="Smiling" target="subNpc" targetSpec="" />Understood!<tag a="100" b="4" /> <delay8 /><size value="75" />...understood!<size value="100" /><endTag a="100" b="4" /><delay frames="40" />
+<anim id="AbsentMindedness" target="mainNpc" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" />I'll just run the numbers<tag a="110" b="0" /></message>
+	<message label="044_02" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><delay8 /><anim id="Smiling" target="subNpc" targetSpec="" />Understood!<tag a="100" b="4" /> <delay8 /><size value="75" />...understood!<size value="100" /><endTag a="100" b="4" /><delay frames="40" />
+<anim id="Thinking" target="mainNpc" targetSpec="" /><anim id="AbsentMindedness" target="subNpc" targetSpec="" />Well, I'll run the numbers, taking any
+hot items into consideration<tag a="110" b="0" /></message>
+	<message label="045" attrib="02 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />And done!<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" />There is a portion of your submission
+I cannot pay Bells for. I can dispose
+of any unwanted items, though.
+<anim id="EmotEnd" target="mainNpc" targetSpec="" />That said, your total comes out to<delay8 />
+<tag a="90" b="26" arg="0x0" />.<delay8 /><anim id="FaintSmile" target="mainNpc" targetSpec="" /> Sound good?</message>
+	<message label="045_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sold!</message>
+	<message label="045_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="046" attrib="02 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />Oh<tag a="110" b="0" /><delay40 /> I'm sorry, but I can't pay you
+for items like these.<pageBreak />I can dispose of them for free if you
+don't need these things, though.</message>
+	<message label="046_a" attrib="00 00 00 00">Take my trash!</message>
+	<message label="046_b" attrib="00 00 00 00">I'll take my trash back.</message>
+	<message label="051" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Thank you! <delay20 />Please come again!<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...again!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="051_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><delay8 /><anim id="Smiling" target="subNpc" targetSpec="" />Understood!<tag a="100" b="4" /><delay8 /> <size value="75" />...understood!<size value="100" /><endTag a="100" b="4" /><delay frames="40" />
+We'll take care of disposal.</message>
+	<message label="052" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Thank you for your business!<delay frames="40" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /> I'll go
+ahead and put any excess Bells into
+bags in your pockets!</message>
+	<message label="053" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Thank you very much!<delay frames="40" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /> Your wallet
+and pockets are full, so I'll just wire
+the payment<anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" /> to your account.</message>
+	<message label="054" attrib="00 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" />Oh dear!<anim id="Worried" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...oh dear!<size value="100" /><endTag a="100" b="4" /><delay frames="30" /><pageBreak /><anim id="Negative" target="mainNpc" targetSpec="" /><delay8 /><anim id="Negative" target="subNpc" targetSpec="" />It doesn't seem like you can carry<delay20 />
+your full payment at this time, so I
+can't pay you<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" />Please take a moment to organize
+your belongings, <delay20 /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />then talk to me
+again.<tag a="100" b="4" /><delay8 /> <size value="75" />...again!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="056_01" attrib="00 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Oh, before I forget! <delay40 /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />I wanted to tell
+you something about the <colour id="1" />fruit<colour id="65535" /> you
+just sold me<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" />When you <colour id="1" />eat<colour id="65535" /> food like fruit, <delay20 /><anim id="Nodding" target="subNpc" targetSpec="" />you'll
+find yourself energized with more
+power than you might have imagined.
+<anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Has anyone shared that with you?</message>
+	<message label="056_02" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />What I mean is,<delay20 /><anim id="Nodding" target="subNpc" targetSpec="" /> you could break open
+rocks or maybe even dig up a whole
+tree if you had the right tool!</message>
+	<message label="056_03" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />What I mean is,<delay20 /><anim id="Nodding" target="subNpc" targetSpec="" /> you could break open
+rocks or maybe even dig up a whole
+tree<tag a="110" b="0" />with a shovel, of course.</message>
+	<message label="056_04" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Now, it's fine for you to sell me your
+fruit, but you should try <colour id="1" />eating <colour id="65535" />it
+once in a while too!<tag a="100" b="4" /><delay8 /> <size value="75" />...too!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="061" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Curious about what's in the cabinet?
+Here's what we have today!<anim id="Smiling" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...today!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="081" attrib="00 00 00 00">The current price for turnips is<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" /><tag a="90" b="20" arg="0x0" /> per turnip!</message>
+	<message label="082" attrib="00 00 00 00">On Sundays<delay20 /> we take a little break
+from buying turnips.<10_4 /> <anim id="FaintSmile" target="actor" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Please check
+back in with us tomorrow.</message>
+	<message label="091" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Smiling" target="actor" targetSpec="" />Here's what we have to sell today.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="092" attrib="00 00 00 00"><anim id="QuestionMark" target="subNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Anything else look interesting?</message>
+	<message label="092_a" attrib="00 00 00 00">Show me again!</message>
+	<message label="092_b" attrib="00 00 00 00">I'm alright!</message>
+	<message label="093" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes! Of course!<delay frames="40" /> Feel free to look
+all you want.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="094" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><delay8 />
+would be <tag a="90" b="26" arg="0x0" />.</message>
+	<message label="094_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy it!</message>
+	<message label="094_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="096" attrib="02 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Oh! <delay8 />Interested in a <colour id="1" />fishing rod<colour id="65535" />?<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" />You can build one for free, you know,
+in <colour id="3" />President Nook<colour id="65535" />'s <colour id="1" />DIY <colour id="65535" />workshop.
+<delay20 /><anim id="Nodding" target="subNpc" targetSpec="" />So I'd suggest that route.
+<anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />This one costs <tag a="90" b="26" arg="0x0" />.<10_4 />
+<anim id="QuestionMark" target="mainNpc" targetSpec="" />Are you still interested?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...interested?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="096_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy it!</message>
+	<message label="096_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="101" attrib="00 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Seems like you're interested in<delay20 /><anim id="FaintSmile" target="mainNpc" targetSpec="" /> <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />.</message>
+	<message label="102" attrib="00 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Those are in limited supply,<delay20 /><anim id="Nodding" target="subNpc" targetSpec="" /> so act
+fast if <anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />you're serious.</message>
+	<message label="103" attrib="02 00 00 00">Let's see<tag a="110" b="0" /><delay8 /><anim id="Nodding" target="mainNpc" targetSpec="" /> That's <tag a="90" b="24" arg="0x0" />.<delay20 />
+<anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />What do you think?</message>
+	<message label="103_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy it!</message>
+	<message label="103_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="104" attrib="04 00 00 00">Let's see<tag a="110" b="0" /><delay8 /><anim id="Nodding" target="mainNpc" targetSpec="" /> That's <tag a="90" b="24" arg="0x0" />.<delay20 />
+<anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />What do you think?</message>
+	<message label="104_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy it!</message>
+	<message label="104_b" attrib="00 00 00 00">What is this?</message>
+	<message label="104_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="104_01_01" attrib="00 00 00 00"><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />You haven't attempted<anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" /> a <colour id="1" />DIY <colour id="65535" />project
+here on the island yet, correct?</message>
+	<message label="104_01_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Right now, the boss is offering a free
+<colour id="1" />DIY <colour id="65535" />workshop, so<delay20 /> please give that a
+try first!</message>
+	<message label="104_01_03" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />Right now, the boss is <anim id="Nodding" target="subNpc" targetSpec="" />offering a
+free <colour id="1" />DIY <colour id="65535" />workshop inside <colour id="1" />Resident
+Services<colour id="65535" />, so<delay20 /><anim id="Smiling" target="subNpc" targetSpec="" /> please try that first!</message>
+	<message label="104_02" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />I do believe<anim id="Nodding" target="subNpc" targetSpec="" /> you've purchased this
+already,<anim id="Smiling" target="subNpc" targetSpec="" /> <tag a="110" b="1" />!</message>
+	<message label="105_01" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />"<tag a="50" b="3" /><tag a="125" b="0" arg="0x0" />"<delay8 />
+is a digital <colour id="1" />DIY <colour id="65535" />recipe book!<tag a="100" b="4" /> <delay8 /><size value="75" />...book!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="106_01_01" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />This <tag a="125" b="0" arg="0x0" /><delay8 />
+contains simple <colour id="1" />DIY <colour id="65535" />recipes that use
+materials you can easily obtain.</message>
+	<message label="106_01_02" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />This <tag a="125" b="0" arg="0x0" /><delay8 />
+contains recipes that require an
+interesting variety of materials.</message>
+	<message label="106_01_03" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />This <tag a="125" b="0" arg="0x0" /><delay8 />
+contains a mix of recipes that require
+a mastery of various materials!</message>
+	<message label="106_02" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />I'll send the recipe data to your app
+immediately if you decide to make a
+purchase.</message>
+	<message label="107_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />OK, <delay8 />time to send the recipes from
+"<tag a="125" b="0" arg="0x0" />"<anim id="Smiling" target="subNpc" targetSpec="" /> to
+your phone<tag a="110" b="0" /></message>
+	<message label="107_02" attrib="00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />And we're done!<10_4 /><anim id="Smiling" target="mainNpc" targetSpec="" /> I hope you enjoy
+<colour id="1" />DIY <colour id="65535" />even more now with your new
+recipes!<tag a="100" b="4" /><delay8 /> <size value="75" />...new recipes!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="110_02" attrib="02 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />, I'm pretty sure
+you already have this recipe.<pageBreak /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />But if you still want to buy it, it'll
+cost <tag a="90" b="26" arg="0x0" />.<10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /><10_4 /> Are you still
+<anim id="QuestionMark" target="mainNpc" targetSpec="" />interested?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...interested?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="110_02_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy it!</message>
+	<message label="110_02_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="110_03" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />This is a <colour id="1" />DIY<colour id="65535" /> recipe used to create a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />flimsy watering can<colour id="65535" />.</message>
+	<message label="110_03_01" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />This is a <colour id="1" />DIY<colour id="65535" /> recipe used to create a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />flimsy shovel<colour id="65535" />.</message>
+	<message label="110_03_02" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />This is a <colour id="1" />DIY<colour id="65535" /> recipe used to create a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />vaulting pole<colour id="65535" />.</message>
+	<message label="110_03_03" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />This is a <colour id="1" />DIY<colour id="65535" /> recipe used to create a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />slingshot<colour id="65535" />.</message>
+	<message label="110_03_04" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />This is a <colour id="1" />DIY<colour id="65535" /> recipe used to create a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />flimsy axe<colour id="65535" />!</message>
+	<message label="110_03_05" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />This is a <colour id="1" />DIY<colour id="65535" /> recipe used to create a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />ladder<colour id="65535" />!</message>
+	<message label="110_04_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />This is a recipe for a simple <colour id="1" />watering
+can<colour id="65535" /> made out of wood.</message>
+	<message label="110_04_02" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />With a watering can,<delay20 /><anim id="Nodding" target="subNpc" targetSpec="" /> you can water
+flowers and enjoy gardening.<anim id="Smiling" target="actor" targetSpec="" /><pageBreak /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />This is a must-have item for anyone
+who wants to create rare, colorful
+flowers through crossbreeding.</message>
+	<message label="110_05_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />This is a recipe for a simple <colour id="1" />shovel<colour id="65535" />
+made out of wood.</message>
+	<message label="110_05_02" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" /><colour id="1" />Shovels<colour id="65535" /> are useful for<anim id="Nodding" target="subNpc" targetSpec="" /> making holes
+in the ground. You can dig things
+up<tag a="110" b="0" />and bury them too!<pageBreak /><anim id="Smiling" target="mainNpc" targetSpec="" />You can also <anim id="Smiling" target="subNpc" targetSpec="" />smack large rocks to
+chip off smaller stones and other
+important materials.<pageBreak /><anim id="Nodding" target="mainNpc" targetSpec="" />It's the kind of tool you'll <anim id="Nodding" target="subNpc" targetSpec="" />always
+want<anim id="Smiling" target="mainNpc" targetSpec="" /> to have on hand!<anim id="Smiling" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...have on hand!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="110_06_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />This is a recipe for a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />vaulting pole
+<colour id="65535" />made out of wood.</message>
+	<message label="110_06_02" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />You can use a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />vaulting pole <colour id="65535" />to <anim id="Nodding" target="subNpc" targetSpec="" />hop
+over rivers!<anim id="Smiling" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />It's a handy item to have when you
+live on an island like this one.<anim id="Smiling" target="mainNpc" targetSpec="" /></message>
+	<message label="110_07_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />This is a recipe for a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />slingshot<colour id="65535" />.</message>
+	<message label="110_07_02" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />You can use a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />slingshot <colour id="65535" />to<colour id="1" /><anim id="Nodding" target="subNpc" targetSpec="" /><colour id="65535" /> knock
+items out of the sky<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />You never know when you might want
+to bring something down, so may
+as well carry one around with you!</message>
+	<message label="110_08_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />This is a recipe for a basic <colour id="1" />axe<colour id="65535" /> made
+from a stone and <tag a="50" b="0" arg="0x400 0xcd03" />tree branches.</message>
+	<message label="110_08_02" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />Hit a tree with an <colour id="1" />axe<colour id="65535" /> and<anim id="Nodding" target="subNpc" targetSpec="" /> you'll get
+something absolutely necessary for
+any DIY enthusiast: <anim id="Smiling" target="mainNpc" targetSpec="" />wood!<anim id="Smiling" target="subNpc" targetSpec="" />
+<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />What's more, the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />flimsy axe<colour id="65535" /><delay8 /> has a
+rounded stone blade, so<delay20 /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /> you won't
+chop down any trees when using it.
+<anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />That makes it a must-have item,
+something to carry at all times if you
+want to live the DIY life here!<anim id="Smiling" target="mainNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...here!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="110_09_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />This is a recipe for a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />ladder <colour id="65535" />made
+from wood!</message>
+	<message label="110_09_02" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />You can use a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />ladder <colour id="65535" />to climb up<anim id="Nodding" target="subNpc" targetSpec="" />
+or down cliffs that are about your
+height—<anim id="Smiling" target="mainNpc" targetSpec="" />maybe a little taller.<pageBreak /><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />It's one of those handy tools for
+island living that you always want
+to have on hand!<anim id="Smiling" target="mainNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...on hand!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="111" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Thank you for your purcha—<10_7 arg="20" /><pageBreak /><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Oh! <delay frames="40" /><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />You, ah, don't have enough
+money in your pockets.<pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="ShyBoy" target="subNpc" targetSpec="" />Our shop doesn't offer a line of
+credit, <delay8 /><delay8 />so please come back when
+you have more money.<anim id="FaintSmile" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...money!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="112" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Thank you for your purcha—<10_7 arg="20" /><pageBreak /><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Whoa!<delay frames="40" /><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" /> You're already carrying so
+many things!<pageBreak /><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Maybe you can come back<delay8 /> <anim id="FaintSmile" target="mainNpc" targetSpec="" />after you
+make room in your pockets.<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...pockets!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="113" attrib="00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" />Excellent purchase!<anim id="BigSmile" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...purchase!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="114" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, thank you for the
+<tag a="90" b="26" arg="0x0" />!<anim id="Nodding" target="subNpc" targetSpec="" /></message>
+	<message label="121" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />The high-value hot item of the day is<delay8 />
+<tag a="50" b="1" /><tag a="125" b="0" arg="0x0" />!</message>
+	<message label="121_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />The hot items of the day are: <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> and
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x1" />.</message>
+	<message label="121_02" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />We pay <colour id="1" />twice<anim id="Nodding" target="subNpc" targetSpec="" /><colour id="65535" /> the usual amount for
+hot items,<delay20 /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /> so go ahead and bring 'em
+in!<tag a="100" b="4" /><delay8 /> <size value="75" />...bring 'em in!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="122" attrib="02 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!
+I'll give <colour id="1" />twice <colour id="65535" />the usual amount, so<tag a="110" b="0" />
+<tag a="90" b="24" arg="0x0" />.<delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" /> Is that OK?</message>
+	<message label="122_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sold!</message>
+	<message label="122_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="131" attrib="04 00 00 00"><tag a="50" b="3" /><tag a="125" b="0" arg="0x0" />?<delay8 /><anim id="Nodding" target="subNpc" targetSpec="" />
+I can sell in singles or in bulk.<delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" />
+How many would you like?</message>
+	<message label="131_a" attrib="00 00 00 00">Just 1. (<colour id="1" /><tag a="90" b="12" arg="0x0" /><colour id="65535" />)</message>
+	<message label="131_b" attrib="00 00 00 00">I'll take 5! (<colour id="1" /><tag a="90" b="13" arg="0x1" /><colour id="65535" />)</message>
+	<message label="131_c" attrib="00 00 00 00">I've changed my mind.</message>
+	<message label="200" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Thank you!<tag a="100" b="4" /><delay8 /> <size value="75" />...Thank you!<size value="100" /><endTag a="100" b="4" /><10_7 arg="90" /></message>
+	<message label="201" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay8 /><anim id="FaintSmile" target="subNpc" targetSpec="" />Hello!<tag a="100" b="4" /><delay8 /> <size value="75" />...hello!<size value="100" /><endTag a="100" b="4" /><delay40 /> Welcome to
+<colour id="1" />Nook's Cranny<colour id="65535" />!</message>
+	<message label="202" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Welcome!<tag a="100" b="4" /><delay8 /> <size value="75" />...welcome!<size value="100" /><endTag a="100" b="4" /> <pageBreak /><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Oh,<delay20 /> <tag a="110" b="1" />!<delay40 /><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" /> You've come
+to shop!<tag a="100" b="4" /><delay8 /> <size value="75" />...shop!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="203" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />!<delay40 />
+You've come to shop!<tag a="100" b="4" /> <delay8 /><size value="75" />...shop!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="204" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />We've got all sorts of <anim id="Nodding" target="subNpc" targetSpec="" />furniture and
+goods. I'm sure you'll find something
+useful here!<anim id="Smiling" target="subNpc" targetSpec="" /></message>
+	<message label="205" attrib="00 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Take your time, and <anim id="Nodding" target="subNpc" targetSpec="" />have a nice look
+around!<anim id="Smiling" target="mainNpc" targetSpec="" /><delay8 /><anim id="Smiling" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...look around!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="206" attrib="00 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />We're very <anim id="Nodding" target="subNpc" targetSpec="" />proud of our selection.<delay20 />
+Please take your time and look
+around!<anim id="Smiling" target="mainNpc" targetSpec="" /><delay8 /><anim id="Smiling" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...look around!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="207" attrib="00 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />Um<tag a="110" b="0" /> As much as we do enjoy your
+company<tag a="110" b="0" />it's past our closing hours
+for today.<10_7 arg="180" /><pageBreak /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />But we'll look forward to <anim id="Nodding" target="subNpc" targetSpec="" />seeing you
+here again another time!<size value="75" /><tag a="100" b="4" /><delay8 /> ...another time!<endTag a="100" b="4" /><size value="100" /><10_7 arg="90" /></message>
+	<message label="901" attrib="00 00 00 00"><anim id="Eh" target="mainNpc" targetSpec="" />Oh?<delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /> Are you sure?<10_4 /> <anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Well, if there's
+anything else I can help you with,<delay8 />
+<anim id="FaintSmile" target="mainNpc" targetSpec="" />please let me know.<tag a="100" b="4" /><delay8 /> <size value="75" />...know!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="902_01" attrib="00 00 00 00">Understood!<10_4 /> Please let me know<delay8 /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" /> if
+you need anything else.<tag a="100" b="4" /><delay8 /> <size value="75" />...else!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="902_02" attrib="00 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Oh! Changed your mind?<delay20 /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /> Anything
+else catch your eye?</message>
+	<message label="903_01" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Ah, <delay8 />changed your mind?<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> Please let
+me know if<anim id="FaintSmile" target="actor" targetSpec="" /> there's anything else I
+can help with!</message>
+	<message label="903_02" attrib="00 00 00 00"><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />I'll be here if you <anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />need anything else.</message>
+	<message label="903_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thank you!<delay20 /> Please don't hesitate to
+ask me for assistance.</message>
+	<message label="903_04" attrib="00 00 00 00">Thank you!<tag a="100" b="4" /><delay8 /> <size value="75" />...thank you!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="904" attrib="00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Understood!<tag a="100" b="4" /><delay8 /> <size value="75" />...understood!<size value="100" /><endTag a="100" b="4" /><delay frames="40" />
+Please let me know if you need help
+with anything else!<tag a="100" b="4" /><delay8 /> <size value="75" />...anything else!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="905" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Well then, please don't hesitate <anim id="FaintSmile" target="mainNpc" targetSpec="" />to
+ask if you need assistance!<tag a="100" b="4" /> <delay8 /><size value="75" />...assistance!<size value="100" /><endTag a="100" b="4" /></message>
+</msbt>

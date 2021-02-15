@@ -1,0 +1,97 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 01 00 00 00 00 00">Hey, <tag a="110" b="3" />!<20_2 arg="8" /><delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />We were
+just talking about which <anim id="Nodding" target="subNpc" targetSpec="" />we
+like more—spring or fall!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Spring has greeeeen, and flowers,
+and warm breezes. <delay20 />But fall has
+pretty leaves and tasty food!
+<anim id="EmotEnd" target="actor" targetSpec="" /><20_3 arg="6" /><anim id="Smiling" target="actor" targetSpec="" />What about you, <tag a="110" b="3" />?<delay40 />
+Which season is your fave?<20_3 arg="8" /></message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I like spring!</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I like fall!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00">Totes agree!<delay20 /><anim id="HappyDance" target="actor" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /> Spring means me
+dancing in a field of flowers
+and being adorbs to the max.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />I like<20_2 arg="2" /><delay20 /> talking to bugs in the grass and
+eating Bunny Day marshmallows!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00">I like<20_2 arg="2" /><delay20 /> Bunny Day treats too!
+Especially chocolate!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Springtime means strawberries!
+And that means strawberry
+shortcake! And THAT means<tag a="110" b="0" /><20_2 arg="2" /><pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />a happy, happy, HAPPY tummy!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah! Fall fashion has, like, SO much
+potential for trendy combos, like
+scarves and sweaters and boots!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Sometimes I fall asleep <20_2 arg="2" /><delay20 />eating my
+Halloween candy and wake up
+with wrappers stuck to me.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Is that fall fashion?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />I love<20_2 arg="2" /><delay20 /> fall smells! Pumpkin pies,
+pecan pies, other pies. <delay20 />Stuff that
+isn't pies, but could fit in pies<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00">I like fall because I can look at<20_2 arg="2" /><delay20 /> the
+harvest moon<delay20 /> and it's kinda like
+looking at a big custard pie<tag a="110" b="0" /><pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />And man, I really like custard pie<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />You so totally only<20_2 arg="3" /><delay20 /> think about food,
+don't you?<anim id="Eh" target="subNpc" targetSpec="" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Aww, <20_3 arg="5" />thanks for noticing!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Frantic" target="actor" targetSpec="" />Ohmigosh! <anim id="Smiling" target="subNpc" targetSpec="" />Now I'M all hungry!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />My goal is<20_2 arg="3" /> to be, you know,
+a multifaceted pop star.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />A munchy-fact-ed whatnow?<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="103" attrib="00 00 03 00 00 00 00 00"><20_2 arg="3" /><anim id="Explain" target="actor" targetSpec="" />I want to be someone who has,
+you know, a bunch of different skills!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /><delay frames="60" /><20_3 arg="6" /> What kind of skills should
+<anim id="QuestionMark" target="actor" targetSpec="" />I learn,<20_2 arg="8" /> <tag a="110" b="3" />?</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Artsy skills.</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Survival skills.</message>
+	<message label="103_c" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Cooking skills.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Artsy, huh? <20_2 arg="7" />I like it!<10_4 /> <anim id="Smiling" target="actor" targetSpec="" />I'll make a
+costume with a trillion sequins on it!
+And I'll wire up a bajillion lasers<tag a="110" b="0" />
+Then I'll walk out onstage<tag a="110" b="0" /><delay20 /> All the
+lasers will shine on me, and I'll yell<tag a="110" b="0" /><pageBreak />"Check me out! I am made of<tag a="110" b="0" />
+<anim id="EmotEnd" target="actor" targetSpec="" /><delay20 /><10_10 /><tag a="10" b="12" />SPARKLES AND LASER BEAMS!"<delay frames="40" /><10_9 /><pageBreak /><anim id="Love" target="actor" targetSpec="" />That'd be soooooooo cool.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What?<20_2 arg="2" /><10_4 /><anim id="Eh" target="actor" targetSpec="" /> Oh.<delay8 /> I mean<tag a="110" b="0" /><delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />neat?</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />It's art, <20_2 arg="3" /><tag a="110" b="31" arg="0xcd01" />. It isn't
+supposed to make sense.<delay20 /> It's just
+supposed <anim id="EmotEnd" target="actor" targetSpec="" />to be FAB!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00">Huh<tag a="110" b="0" /> I mean,<20_2 arg="7" /><delay8 /> 'K?<10_4 /> <anim id="Nodding" target="actor" targetSpec="" />Yeah. Maybe I
+COULD do some survival stuff!<pageBreak />I could do songs about, I don't know,
+um, farming, or compost heaps,
+or hand-to-hand combat<tag a="110" b="0" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Whoa!<20_2 arg="2" /> Real good ideas,
+<tag a="110" b="6" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Compost heaps'd be way useful if
+zombies attack the island!<anim id="TakenAback" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Zombies? But why would compost<tag a="110" b="0" />
+<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />You know what? <delay20 /><20_2 arg="3" /><anim id="Sighing" target="actor" targetSpec="" /><delay20 />Maybe I don't need
+any survival skills.</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I'm already a top-notch cooking
+person!<20_2 arg="7" /><delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" /><20_2 arg="5" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" /> said he
+loved the <tag a="135" b="7" arg="0xcd00" /> I made!<anim id="Hello" target="actor" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" /></message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00">You know it! <20_2 arg="4" /><delay20 /><anim id="Nodding" target="subNpc" targetSpec="" />I sure did say that!<delay40 />
+<anim id="Hesitate" target="subNpc" targetSpec="" />I<anim id="QuestionMark" target="mainNpc" targetSpec="" /> suuuuure did.<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" />Ohmigosh! I know! I'll be the first
+pop star with a line of designer
+desserts!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" />,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />did you learn
+the song I taught you,
+<tag a="110" b="5" />?</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00">You betcha!<10_4 /> <20_2 arg="2" /><20_2 arg="8" /><tag a="50" b="3" /><tag a="110" b="3" />,
+do ya wanna hear me sing it?<delay40 />
+Goes like this<tag a="110" b="0" />
+<20_2 arg="0" /><anim id="FaintSmile" target="actor" targetSpec="" /><anim id="Nodding" target="player" targetSpec="" /><anim id="HappyDance" target="actor" targetSpec="" />♪ I'm the totes bestest!<delay20 /> You can
+forget all the restest! <delay20 />I'm totes
+the cutest!<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />! ♪<anim id="Confused" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" /><20_2 arg="5" /><delay20 />Those aren't the lyrics <delay20 />at<delay20 /> all!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />I, um, didn't remember the words<tag a="110" b="0" /><delay20 />
+<anim id="Restless" target="actor" targetSpec="" />so I sang what I thought you meant!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />But why'd you sing "<tag a="110" b="5" />"?
+That's mine!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00">Ummm<tag a="110" b="0" /><anim id="HappyFlower" target="actor" targetSpec="" />because I thought it
+sounded real pretty in the song!<delay20 />
+Kinda like it belonged there!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Ohmigosh!<delay frames="40" /> <anim id="Blushing" target="actor" targetSpec="" /><delay20 />Well then, you can sing it
+whenever you want! <tag a="50" b="3" /><tag a="110" b="5" />!</message>
+	<message label="208" attrib="00 00 00 00 00 00 00 00">Yaaay!<delay40 /> Heeere I go!<delay20 /><anim id="HappyFlower" target="actor" targetSpec="" /><delay20 />
+♪ I like snacks and I like
+saying "<tag a="110" b="5" />"! ♪<delay frames="40" />
+A huh huh, I'm a singin' fool!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

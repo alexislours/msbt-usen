@@ -1,0 +1,75 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />Have you guys decided what you're
+eating for snack time?<delay20 /> I got so many
+choices, I can't make up my mind.<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="subNpc" targetSpec="" /><20_2 arg="2" />I love me some snacks!
+What are your options?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00">Well<tag a="110" b="0" /> There's <tag a="135" b="7" arg="0xcd00" />.<pageBreak />Or <tag a="135" b="7" arg="0xcd01" />?<anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Love" target="actor" targetSpec="" />Or <tag a="135" b="7" arg="0xcd02" />?<delay40 />
+Or <tag a="135" b="7" arg="0xcd03" />?<20_2 arg="8" /><anim id="QuestionMark" target="subNpc" targetSpec="" /><delay40 />
+Or <tag a="135" b="7" arg="0xcd04" />?<20_2 arg="4" /><anim id="QuestionMark" target="player" targetSpec="" /><pageBreak />Or, umm,<delay40 /><delay40 /><20_2 arg="1" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Laughing" target="actor" targetSpec="" /><delay8 /> <tag a="135" b="7" arg="0xcd04" />! That's
+everything I bought special for
+today's snack times!</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="subNpc" targetSpec="" />Hmm<tag a="110" b="0" /> That is a tough decision.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" />It's why I usually just eat whatever
+I can reach when I'm lying on the
+floor. <anim id="SadSpiral" target="actor" targetSpec="" /><delay20 />Deciding is hard!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><20_2 arg="5" />Know what I do <anim id="QuestionMark" target="mainNpc" targetSpec="" />when I see
+TWO cute outfits I want,
+but I can only afford ONE?<pageBreak /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Eh" target="mainNpc" targetSpec="" /><anim id="Eh" target="player" targetSpec="" />I buy both! <delay20 />It's totally the worst
+choice, but I get everything I want!
+Even if I<tag a="110" b="0" /><delay20 />feel <anim id="EmotEnd" target="actor" targetSpec="" />lousy about it later<tag a="110" b="0" /><pageBreak />Hang on. <anim id="Serious" target="subNpc" targetSpec="" /><delay20 />I think I'm having a
+moment of clarity.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="player" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Laughing" target="actor" targetSpec="" /><delay20 />Personal growth is neat! Well, I'm
+gonna head off to go eat all the
+<tag a="135" b="7" arg="0xcd05" /> I can find.<pageBreak /><anim id="Thinking" target="mainNpc" targetSpec="" />Or maybe some <tag a="135" b="7" arg="0xcd06" />?
+Oh! I forgot I had <tag a="135" b="7" arg="0xcd07" />!
+Maybe some <tag a="135" b="7" arg="0xcd08" />?</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="mainNpc" targetSpec="" />Hiya, <tag a="110" b="4" />!
+You got real great timing!<pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" /> and I are trying
+to figure something out!</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="subNpc" targetSpec="" />Yeah, we're super stuck! Can you
+help us out, <tag a="110" b="3" />?<pageBreak /><20_2 arg="6" /><anim id="EmotEnd" target="actor" targetSpec="" />Would you rather<tag a="110" b="0" />lick a fish or
+bite a worm? <anim id="Worried" target="actor" targetSpec="" /><anim id="Worried" target="mainNpc" targetSpec="" /><delay20 />We can't decide!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">What.</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">I'm leaving now.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00">It's a game, <tag a="110" b="3" />!
+<anim id="BigSmile" target="subNpc" targetSpec="" /><delay20 />You say "would you rather<tag a="110" b="0" />" then
+you give two really gross choices!<pageBreak /><anim id="Laughing" target="subNpc" targetSpec="" /><delay20 />There's NO right answer!
+It's hilarious!<pageBreak /><20_2 arg="7" /><20_2 arg="5" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="Greeting" target="mainNpc" targetSpec="" />Your turn, <tag a="110" b="31" arg="0xcd00" />!
+Give us a good one!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="mainNpc" targetSpec="" />A huh huh huh! OK, uhhhh<tag a="110" b="0" />
+<anim id="QuestionMark" target="mainNpc" targetSpec="" />Would you rather<tag a="110" b="0" /><delay20 /> Umm<tag a="110" b="0" /><delay20 /><10_4 />
+Wooooould yoooou<tag a="110" b="0" />ratherrrrr<tag a="110" b="0" /><pageBreak /><20_2 arg="5" />I keep thinking about how licking a
+fish doesn't sound so bad, <anim id="Oops" target="subNpc" targetSpec="" />because
+<anim id="Laughing" target="actor" targetSpec="" />I like how fish tastes!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" /><anim id="OhGeez" target="mainNpc" targetSpec="" />I guess me and <20_2 arg="7" /><20_2 arg="5" />him will figure <anim id="EmotEnd" target="actor" targetSpec="" />this
+out all on our own. <delay20 />Bye.</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><20_2 arg="5" />It's OK, <tag a="110" b="31" arg="0xcd01" />.
+<anim id="HappyFlower" target="mainNpc" targetSpec="" /><delay20 />I'm willing to try doing both!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" /><anim id="Serious" target="subNpc" targetSpec="" />No, really! I never sent you fan
+mail, <tag a="110" b="5" />!<anim id="Worried" target="actor" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00">Thaaat's big time weird, man!
+It totes has your vibe all over it.
+<anim id="Thinking" target="actor" targetSpec="" /><size value="75" />And some of your crumbs too.<size value="100" /><colour id="4" /><pageBreak /><colour id="65535" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="Explain" target="actor" targetSpec="" />Anyhoo, the reason I asked if
+you wrote it is because it's
+signed<anim id="Pardon" target="actor" targetSpec="" /> "<tag a="110" b="5" />"!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />And "<tag a="110" b="5" />" is, like, a
+T-shirt-level catchphrase.
+But if you didn't write it<tag a="110" b="0" /><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="mainNpc" targetSpec="" /><delay20 />I DID WRITE IT, I DID!
+I used my best crayons and the
+least-crumpliest piece of paper!<pageBreak /><anim id="Sighing" target="mainNpc" targetSpec="" /><delay20 />I heard you trying to sing, and I
+thought maybe you'd feel good if
+someone told you it sounded nice.
+<anim id="Smiling" target="subNpc" targetSpec="" /><delay20 />But you like "<tag a="110" b="6" />"?
+<anim id="Blushing" target="actor" targetSpec="" /><delay20 />A huh huh huh! That's real neat!
+I really like it too!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="subNpc" targetSpec="" /><delay20 />Mind if I try it out?<pageBreak />'K<tag a="110" b="0" /><delay frames="40" /> Here we go<tag a="110" b="0" /> 'K<tag a="110" b="0" />
+<anim id="Cheering" target="actor" targetSpec="" />Hiii! It's me, <tag a="110" b="31" arg="0xcd01" />,
+your <anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="Dance" target="actor" targetSpec="" />favest pop star,<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> <tag a="110" b="6" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" /><anim id="HappyFlower" target="mainNpc" targetSpec="" /><10_5 />Ohmigosh<endTag a="10" b="5" /><delay8 />!<delay8 /> That was AMAZING<delay8 />!
+It's, like, <delay8 />totes<delay8 /> perfect for me!<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />You like it, <tag a="110" b="31" arg="0xcd00" />?!<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00">I like it, a huh huh huh!
+You sound <anim id="Love" target="actor" targetSpec="" />almost like a real
+pop star,<anim id="Eh" target="subNpc" targetSpec="" /> <tag a="110" b="31" arg="0xcd01" />!<anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I know, riiiight, <anim id="EmotEnd" target="mainNpc" targetSpec="" /><tag a="110" b="6" />?!</message>
+</msbt>

@@ -1,0 +1,19 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Have you heard,<delay8 /> <tag a="110" b="3" />?<delay frames="40" />
+<anim id="Worried" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> is feeling
+sick today,<delay8 /> the poor thing<tag a="110" b="0" /><pageBreak />If you have any free time, my dear,<delay8 />
+<anim id="Hello" target="actor" targetSpec="" />why don't you go pay <gender3 m="him" f="her" /> a visit?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Oh, <tag a="110" b="3" />, I was told
+<tag a="115" b="1" arg="0xcd00" /> is feeling sick
+and has been resting at home all day.
+<anim id="Worried" target="actor" targetSpec="" />I'm a bit worried that <gender3 m="he" f="she" />'s stuck in
+bed<tag a="110" b="0" /> <delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" />Perhaps someone should go
+check up on <gender3 m="him" f="her" />?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />You know, <delay8 />I couldn't help but notice
+that <tag a="115" b="1" arg="0xcd00" /> seemed out
+of sorts today.
+<anim id="Thinking" target="actor" targetSpec="" />It was like <gender3 m="his" f="her" /> head was off in the
+clouds<tag a="110" b="0" /> <anim id="Negative" target="actor" targetSpec="" />It was so unlike <gender3 m="him" f="her" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I'm worried the poor dear is coming
+down with something.<delay40 /> <anim id="Restless" target="actor" targetSpec="" />Don't you
+think someone should check on <gender3 m="him" f="her" />?</message>
+</msbt>

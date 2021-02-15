@@ -1,0 +1,21 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, <tag a="110" b="3" />!<delay frames="13" /> I need to
+tell you something!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />There's someone who needs to
+chat with you today. And it must
+be TODAY, you see.
+<anim id="ShyBoy" target="actor" targetSpec="" />But not to worry<tag a="110" b="0" /><delay frames="13" />it can wait while
+you're with your friends.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />However, as soon as you have a
+moment alone, please do come back.<delay20 />
+<anim id="Grin" target="actor" targetSpec="" />You'll be glad you did, <tag a="110" b="6" />.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00">Ah, <tag a="110" b="3" />. <delay frames="13" />So,<anim id="Nodding" target="actor" targetSpec="" /> I know
+you're having a lovely time with
+<tag a="115" b="0" arg="0xcd00" /> at the moment.
+<anim id="Explain" target="actor" targetSpec="" />However, <delay frames="13" />there is a certain someone
+who needs to see <tag a="115" b="0" arg="0xcd00" />
+about a little something today.
+<anim id="ShyBoy" target="actor" targetSpec="" />I hate to impose,<delay frames="13" /> but can you let
+<tag a="115" b="0" arg="0xcd00" /> know they need
+to come back when they're free?<pageBreak /><anim id="Aha" target="actor" targetSpec="" />Ah, and they must come back today!<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />No other day will do.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Please make
+sure you tell them, <tag a="110" b="6" />.</message>
+</msbt>

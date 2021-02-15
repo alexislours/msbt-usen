@@ -1,0 +1,422 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><tag a="110" b="0" /></message>
+	<message label="002" attrib="00 00 00 00">Huh?<delay20 /> Sorry, I'm a little busy
+right now<tag a="110" b="0" /></message>
+	<message label="003" attrib="00 00 00 00">Oh, sorry<tag a="110" b="0" /><delay20 /> Now's not a good time.</message>
+	<message label="005" attrib="00 00 00 00">Oh. Hey, <tag a="110" b="1" />.<delay frames="30" />
+Sorry, but I can't pause this
+right now. <delay20 />We'll talk later.</message>
+	<message label="006" attrib="00 00 00 00">Good to see you, <tag a="110" b="1" />.<delay frames="40" />
+Sorry I can't chat<tag a="110" b="0" /> I'm right in the
+middle of a <delay frames="40" />thing.</message>
+	<message label="007" attrib="00 00 00 00">Oh, hello, <tag a="110" b="1" />.
+Sorry to brush you off—
+my claws are pretty full<tag a="110" b="0" /></message>
+	<message label="010" attrib="00 00 00 00">Sorry. <delay20 />Can't talk.</message>
+	<message label="011" attrib="00 00 00 00">If you need something, could you
+talk to the other hedgehog, please?</message>
+	<message label="012" attrib="00 00 00 00">Sorry, I kinda have to focus on
+this so I don't wreck it<tag a="110" b="0" /></message>
+	<message label="015" attrib="00 00 00 00"><tag a="110" b="0" />Hey, <colour id="3" />Mabes<colour id="65535" />,<delay20 /> could you help this
+customer, please?</message>
+	<message label="016" attrib="00 00 00 00"><tag a="110" b="0" /></message>
+	<message label="017" attrib="00 00 00 00">Oh! <20_2 arg="8" />Hey, sorry about that!<delay20 />
+<20_2 arg="4" /><anim id="Worried" target="subNpc" targetSpec="" />When Sable's really focused, she
+gets a little,<delay20 /> y'know,<delay20 /> prickly.</message>
+	<message label="018" attrib="00 00 00 00">No talking—only sewing.</message>
+	<message label="019" attrib="00 00 00 00"><20_2 arg="8" /><anim id="Shocked" target="subNpc" targetSpec="" />Oh, whoops!<delay20 /><20_2 arg="4" /><anim id="Smiling" target="subNpc" targetSpec="" /> I'm happy to help you
+with whatever you need. <delay20 />Just step
+away from the seamstress<tag a="110" b="0" /></message>
+	<message label="020" attrib="00 00 00 00">Hey,<delay20 /> um,<delay20 /> it's great that you're such a
+loyal customer and everything, but<tag a="110" b="0" /><pageBreak />I've just got a TON of work to get
+through.<delay20 /> Thanks for understanding!</message>
+	<message label="021" attrib="00 00 00 00">Hey, I'm kind of sewn into my
+machine right now<tag a="110" b="0" /><delay20 /> Sorry I can't
+chat, but,<delay20 /> uh,<delay20 /> thanks for stopping by.</message>
+	<message label="025" attrib="00 00 00 00">Uh, like I said before,<delay20 /> I appreciate
+the visit, <delay20 />but I'm just buried in work
+right now.</message>
+	<message label="026" attrib="00 00 00 00"><colour id="3" />Mabes<colour id="65535" />.<delay frames="40" /> Hey, <colour id="3" />Mabes<colour id="65535" />!<delay20 /> I've got a
+customer who needs help here.</message>
+	<message label="027" attrib="00 00 00 00"><20_2 arg="8" /><anim id="Shocked" target="actor" targetSpec="" />Hm? Oh, of course! <delay20 /><20_2 arg="4" /><anim id="Smiling" target="actor" targetSpec="" />Whatever you
+need,<delay20 /> I can help you out right
+over here!</message>
+	<message label="030" attrib="00 00 00 00">Um<tag a="110" b="0" /><delay20 /> You're<tag a="110" b="0" /><delay20 /><tag a="110" b="1" />,
+right?</message>
+	<message label="031" attrib="00 00 00 00"><20_2 arg="7" /><anim id="Shocked" target="actor" targetSpec="" />Wait, what just happened?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I don't think I've ever heard you call
+a customer by name before, Sis!</message>
+	<message label="032" attrib="00 00 00 00"><20_2 arg="5" /><anim id="Serious" target="actor" targetSpec="" /><size value="75" />Hush, <colour id="3" />Mabel<colour id="65535" />! <delay frames="40" />You know this is hard for me.<size value="100" /><pageBreak /><20_2 arg="6" /><anim id="EmotEnd" target="actor" targetSpec="" />Anyway, I'm Sable.<delay frames="40" /> I figured it was
+time we were introduced properly.<delay frames="40" />
+<anim id="Worried" target="actor" targetSpec="" />Y-you can go back to shopping now<tag a="110" b="0" /></message>
+	<message label="035" attrib="00 00 00 00">Sorry we can't offer you a cup of tea
+or anything,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> but we're always happy
+to have you here.</message>
+	<message label="036" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It's nice that you always go out
+of your way to stop by and see
+us, <tag a="110" b="1" />.</message>
+	<message label="040" attrib="00 00 00 00"><20_2 arg="6" /><anim id="Eh" target="actor" targetSpec="" />Oh! Hello, <tag a="110" b="1" />!<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />You seem pretty<tag a="110" b="0" /><delay20 />chipper.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You're always making the effort to
+stop by,<delay20 /><anim id="Worried" target="actor" targetSpec="" /> and I can't so much as offer
+you a cup of tea.<delay20 /> I'm sorry.<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If we had just one more pair of claws
+around here to help out,<delay20 /><anim id="OhGeez" target="actor" targetSpec="" /> I might be
+able to chat more<tag a="110" b="0" /></message>
+	<message label="041" attrib="00 00 00 00"><20_2 arg="7" /><anim id="Eh" target="actor" targetSpec="" />Oh, not this again! <delay20 /><anim id="Serious" target="actor" targetSpec="" />C'mon, <colour id="3" />Sable<colour id="65535" />,
+you gotta stop torturing yourself
+like this.
+<20_2 arg="8" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Explain" target="actor" targetSpec="" />Our sister, <colour id="3" />Label<colour id="65535" />, went out into the
+world to pursue her dream of being
+a big-time designer.
+<anim id="Nodding" target="actor" targetSpec="" />And we promised her we'd work like
+hedgedogs to take care of the shop
+while she's gone. <delay20 /><20_2 arg="7" /><anim id="FaintSmile" target="actor" targetSpec="" />Remember, Sis?</message>
+	<message label="042" attrib="00 00 00 00"><20_2 arg="5" /><anim id="Laughing" target="actor" targetSpec="" />How could I forget when I've got
+you? <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />But you're right, <colour id="3" />Mabes<colour id="65535" />—
+I'll get my head out of the clouds.
+<20_2 arg="6" />That said, <tag a="110" b="1" />,<delay20 /> I can't
+offer sparkling conversation, <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />but I
+hope you'll keep stopping by anyway.</message>
+	<message label="045" attrib="00 00 00 00"><20_2 arg="6" />If you see anything you like,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />
+<colour id="3" />Mabel <colour id="65535" />can help you out.</message>
+	<message label="046" attrib="00 00 00 00"><20_2 arg="6" /><anim id="FaintSmile" target="actor" targetSpec="" />It means a lot to me and <colour id="3" />Mabel <colour id="65535" />that
+you always make the time to stop
+by, <tag a="110" b="1" />.</message>
+	<message label="050" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Ah, <tag a="110" b="1" />!<delay20 />
+Welcome back!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It's, <delay20 />um,<anim id="Blushing" target="actor" targetSpec="" /><delay20 /> nice of you to keep
+supporting <colour id="1" />Able Sisters<colour id="65535" /> so we
+can<tag a="110" b="0" /><anim id="Aha" target="actor" targetSpec="" /><delay20 />be the best shop we can be!</message>
+	<message label="051" attrib="00 00 00 00"><20_2 arg="7" />Oh, right—<anim id="Laughing" target="actor" targetSpec="" />looks like your
+favorite customer came by
+again today, <colour id="3" />Sable<colour id="65535" />!<pageBreak /><20_3 arg="8" /><anim id="FaintSmile" target="actor" targetSpec="" />Every day for like a week, it's been,
+<anim id="Hesitate" target="actor" targetSpec="" />"Do you think <tag a="110" b="1" />
+will stop by today?"<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />And I'm all, "Sis, confine your
+spines—<delay20 />we're not even open yet!"</message>
+	<message label="052" attrib="00 00 00 00"><20_2 arg="5" /><anim id="TakenAback" target="actor" targetSpec="" /><colour id="3" />M-<colour id="65535" /><delay8 /><colour id="3" />Mabel<colour id="65535" />!</message>
+	<message label="053" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Don't worry, Sis!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />
+is too nice to ever make fun
+of you.<delay20 /> Right, <tag a="110" b="1" />?</message>
+	<message label="055" attrib="00 00 00 00">Um.<delay20 /> Thanks for being such a loyal
+customer, <tag a="110" b="1" />.</message>
+	<message label="056" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />A lot of my work has to be done
+pretty precisely, so my shoulders
+get real stiff.
+<anim id="EmotEnd" target="actor" targetSpec="" />But today,<delay20 /> after we close up shop,<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" /><colour id="3" />Mabel<colour id="65535" />'s giving me a back rub!<10_4 /><20_2 arg="5" />
+You didn't forget, did you, <colour id="3" />Mabel<colour id="65535" />?<20_2 arg="4" /></message>
+	<message label="057" attrib="00 00 00 00"><20_3 arg="7" /><anim id="OhGeez" target="actor" targetSpec="" />Eh, sis, I don't know<tag a="110" b="0" /><delay frames="40" />hedgehog
+backrubs are no joke, and my
+protective gloves wore through<tag a="110" b="0" />
+<anim id="Laughing" target="actor" targetSpec="" />Oh, I'm totally kidding! <anim id="EmotEnd" target="actor" targetSpec="" /><20_3 arg="8" />Unlike ol'
+Gray-ble there, I'm still pretty young
+and spry.<delay20 /><anim id="SmugFace" target="actor" targetSpec="" /> I can handle it!</message>
+	<message label="058" attrib="00 00 00 00"><anim id="Angry" target="actor" targetSpec="" /><colour id="3" />MABEL<colour id="65535" />!<20_2 arg="3" /></message>
+	<message label="059" attrib="00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Oops!<delay20 /> That was too much, huh?<20_2 arg="4" />
+Er, <delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />sorry, Sis!</message>
+	<message label="060" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Welcome, <tag a="110" b="1" />! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Sorry
+that, as usual, I can't really
+stop and chat.
+<anim id="Worried" target="actor" targetSpec="" />We're always a little short-clawed
+around here, <delay20 />since it's just the two
+of us running the place.
+<anim id="QuestionMark" target="actor" targetSpec="" />I think we told you that our other
+sister, <colour id="3" />Label<colour id="65535" />, used to work with us
+at our old shop?
+<anim id="FaintSmile" target="actor" targetSpec="" />Now she's on her own, working hard
+to be a big-time fashion designer,<delay20 />
+<anim id="Love" target="actor" targetSpec="" />and we couldn't be prouder of her.</message>
+	<message label="061" attrib="00 00 00 00">And before that, for a while, <colour id="3" /><20_2 arg="8" />Label<20_2 arg="4" />
+<colour id="65535" />was training with a famous designer!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />It's been a long time since the three
+of us lived under one roof<tag a="110" b="0" /><delay40 /><anim id="Smiling" target="actor" targetSpec="" />but those
+were good times!</message>
+	<message label="062" attrib="00 00 00 00"><20_2 arg="5" /><anim id="FaintSmile" target="actor" targetSpec="" />They really were, weren't they?<delay20 /><20_2 arg="3" /><20_3 arg="7" />
+There was always so much going on,
+for better or worse<tag a="110" b="0" /><pageBreak /><anim id="Laughing" target="actor" targetSpec="" /><colour id="3" />Mabes<colour id="65535" />, remember when you ate that
+ice cream that <colour id="3" />Label<colour id="65535" /> had hidden
+behind the peas? <delay20 />Oh, she was MAD!</message>
+	<message label="063" attrib="00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />H-hey!<delay20 /> Come on, sis—not in front
+of <tag a="110" b="1" />!</message>
+	<message label="064" attrib="00 00 00 00"><20_2 arg="5" /><anim id="FaintSmile" target="actor" targetSpec="" />Heehee!<delay20 /> <anim id="Scheming" target="actor" targetSpec="" />We'll call that payback for
+last time.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><20_2 arg="6" />In any case,<20_2 arg="3" /> it is a little sad that
+we're back to living apart again<tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />But, more than anything, we both
+want to do whatever we can to
+support our sister and her dreams.</message>
+	<message label="065" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Absolutely right, Sis!<20_2 arg="4" /><delay40 /> After all, any
+dream of <colour id="3" />Label<colour id="65535" />'s<delay8 /> is our dream too!</message>
+	<message label="066" attrib="00 00 00 00"><colour id="3" /><anim id="Nodding" target="actor" targetSpec="" />Label<colour id="65535" /> stops by the store sometimes,<delay20 />
+even as busy she is. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />I probably fuss
+over her too much<tag a="110" b="0" />
+<anim id="Love" target="actor" targetSpec="" />I just think it's my responsibility to
+make sure she always has a place
+to come home to.</message>
+	<message label="067" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I never asked how YOU'RE doing,<delay20 />
+<tag a="110" b="1" />?</message>
+	<message label="070" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We ran another tailor shop like
+this in a different place before
+we came here.
+<anim id="EmotEnd" target="actor" targetSpec="" />That was the shop our late parents
+left us.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />But then <colour id="3" />Label <colour id="65535" />went on her journey,<delay20 />
+and all of our other friends set off
+to try new things.
+<anim id="EmotEnd" target="actor" targetSpec="" />So we decided to get a fresh start
+too. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />That's how we came to be here
+on <tag a="110" b="33" />!</message>
+	<message label="071" attrib="00 00 00 00"><20_2 arg="7" /><anim id="Smiling" target="actor" targetSpec="" />And coming here<20_2 arg="2" /> was totally the right
+call! It's fun, the scenery is great<tag a="110" b="0" />
+<delay20 /><anim id="WrySmile" target="actor" targetSpec="" />and you can't beat the neighbors!
+<anim id="Nodding" target="actor" targetSpec="" />But I have to admit,<delay20 /> I do miss our old
+store sometimes<tag a="110" b="0" /></message>
+	<message label="072" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I do too<tag a="110" b="0" /><20_2 arg="3" /><delay20 /><20_3 arg="7" /> We ran that old place
+for quite a while, <delay20 />so it's filled with
+good memories.
+<anim id="FaintSmile" target="actor" targetSpec="" />But it's still there, <delay20 />and we can visit
+it whenever, so let's just focus on
+making our new shop even better!</message>
+	<message label="073" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Good point, Sis! <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />Let's keep
+working hard!</message>
+	<message label="074" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Good old <colour id="3" />Mabes<colour id="65535" /><tag a="110" b="0" /><delay8 /> She's really giving
+it her all.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><20_2 arg="6" />I have to admit I know just what she
+means<delay20 /> about missing our old shop,
+but at the same time<tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I'm so, <delay20 />so glad we came to this
+island. <delay frames="40" /><anim id="Love" target="actor" targetSpec="" />I finally feel like we have
+a family again.</message>
+	<message label="075" attrib="00 00 00 00">I wish I had more to offer for
+hospitality. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />You'll just have to
+settle for "family time."</message>
+	<message label="076" attrib="00 00 00 00"><tag a="50" b="3" /><tag a="110" b="1" />,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> thanks so
+much for always stopping by. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />You're
+definitely part of our new family.</message>
+	<message label="077" attrib="00 00 00 00"><20_2 arg="8" /><anim id="Smiling" target="actor" targetSpec="" />Totally!<20_2 arg="4" /><delay20 /> You're, like, our sibling with
+different quilling! <delay20 />Thanks a bunch!</message>
+	<message label="080" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh, if it isn't <tag a="110" b="1" />!
+Welcome.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You're always stopping by and I can
+never stop working and have a
+proper chat. <delay20 />Sorry about that!<pageBreak /><tag a="110" b="0" /><anim id="Eh" target="actor" targetSpec="" />Hm?<delay20 /> The photos behind me?<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />They're of me and my sisters when
+we were younger<tag a="110" b="0" /><delay frames="40" />and our parents.
+<anim id="EmotEnd" target="actor" targetSpec="" />They both passed away years ago,<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />but these pictures bring back lots
+of good memories.</message>
+	<message label="081" attrib="00 00 00 00"><20_2 arg="8" />I was pretty young<20_2 arg="2" /> when they
+died,<delay20 /> so I don't remember them
+all that well<tag a="110" b="0" />
+<anim id="Smiling" target="actor" targetSpec="" /><20_2 arg="7" />What I do remember is Sable doing
+her best to raise me all on her own.<delay20 />
+Thanks, Sis. <10_4 /><anim id="Serious" target="actor" targetSpec="" />Sorry I was such a pain.</message>
+	<message label="082" attrib="00 00 00 00"><20_2 arg="3" /><anim id="Shocked" target="actor" targetSpec="" />Are you feeling OK, <colour id="3" />Mabes<colour id="65535" />? <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />What
+happened to calling me "Gray-ble"
+and making fun of my apron?</message>
+	<message label="083" attrib="00 00 00 00"><anim id="Angry" target="actor" targetSpec="" /><20_2 arg="4" />Come on, Sis!<delay20 /> I'm trying to have a
+moment here!<pageBreak />It's not like we ever talk about this
+stuff without <tag a="110" b="1" /> to
+play referee! <delay20 />Don't be mean!</message>
+	<message label="084" attrib="00 00 00 00"><20_2 arg="3" /><anim id="Worried" target="actor" targetSpec="" />I'm sorry. <delay20 />That was out of line.<pageBreak />And you're right—we should talk
+more. <delay20 /><anim id="Serious" target="actor" targetSpec="" />You're an adult now and I
+need to treat you like one.
+And<tag a="110" b="0" /><delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />I'm really proud of you, <colour id="3" />Mabes<colour id="65535" />.
+You're a lot of things I could never
+be, little sister.
+I took care of you and Label when
+you were younger, <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />but now we can
+all watch out for each other.
+And when the Able Sisters work
+side-by-side, <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />there's nothing we
+can't do!</message>
+	<message label="085" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />It's amazing how the day just
+zooms by when I'm sitting at this
+sewing machine!
+<anim id="FaintSmile" target="actor" targetSpec="" />I work hard, <delay20 />but I love what I do,<delay20 /> so I
+can't really complain about much.</message>
+	<message label="086" attrib="00 00 00 00">I don't know why,<delay20 /> but I seem to be
+working faster today than usual.
+<delay frames="40" /><anim id="AbsentMindedness" target="actor" targetSpec="" />Maybe I'll finish early!</message>
+	<message label="100" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />You making your usual rounds,
+<tag a="110" b="1" />,<delay20 /> or is this a
+special visit?</message>
+	<message label="101" attrib="00 00 00 00"><20_2 arg="8" />Not that you ever need a reason
+to visit your<anim id="Dance" target="actor" targetSpec="" /><delay20 /> favorite hedgehog
+shopkeepers!</message>
+	<message label="102" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh, hi there, <tag a="110" b="1" />!
+What are you looking for today?</message>
+	<message label="103" attrib="00 00 00 00"><20_2 arg="8" /><anim id="Smiling" target="actor" targetSpec="" />Not so fast!<delay20 /> If you wanna buy
+something at THIS store,<anim id="EmotEnd" target="actor" targetSpec="" /><delay20 /> you
+go through ME!</message>
+	<message label="104" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />,<delay20 /> what kind of
+clothing do you usually like? <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />How
+would you describe your style?</message>
+	<message label="105" attrib="00 00 00 00"><20_2 arg="7" /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Ooh!<delay20 /> I'll bet I know! <delay20 />You're all about
+<anim id="AbsentMindedness" target="actor" targetSpec="" />like<tag a="110" b="0" /><delay20 />a green and white checkered
+pattern<tag a="110" b="0" /><delay20 />maybe on an apron<tag a="110" b="0" /></message>
+	<message label="106" attrib="00 00 00 00"><20_2 arg="5" /><anim id="Silent" target="actor" targetSpec="" /><colour id="3" />Mabes<colour id="65535" />. <delay20 />You're doing the thing where
+you think everyone is you again.</message>
+	<message label="107" attrib="00 00 00 00">You know the tapestry hanging on
+the left wall over there?<delay frames="40" /> It belonged
+to our mother.
+Every time I look at it,<delay20 /> I get this
+warm feeling inside<tag a="110" b="0" /><delay frames="80" /><anim id="Worried" target="actor" targetSpec="" />like when
+she would hug me.</message>
+	<message label="110" attrib="00 00 00 00"><tag a="60" b="11" arg="0x6f 0x70 0x71 0x72 0x73 0x74 0x75" /></message>
+	<message label="111" attrib="00 00 00 00">Well, it's Monday.<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Back to the
+fabric mines.</message>
+	<message label="112" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Out of all the days of the week,
+Tuesdays tend to drag the most,<delay20 /> so
+I need to do my best to stay sharp.
+<anim id="EmotEnd" target="actor" targetSpec="" />"If the tailor made a mistake, they
+probably did it on a Tuesday."<pageBreak />At least,<delay20 /> that's what Mama always
+used to say<tag a="110" b="0" /></message>
+	<message label="113" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, we made it to Wednesday,
+halfway through the week!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I always figure that if you can get
+to Wednesday, the rest of the week
+is easy. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />It's like sewing downhill!</message>
+	<message label="114" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh, it's Thursday!<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />That means a new
+episode of my favorite porcupine
+true-crime show, Pointed Questions.
+<anim id="Worried" target="actor" targetSpec="" />I hope the DA will lay off this week.<delay frames="40" />
+<anim id="OhGeez" target="actor" targetSpec="" />He's always badgering the witnesses.</message>
+	<message label="115" attrib="00 00 00 00">Happy Friday, <tag a="110" b="1" />.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Any big plans for the weekend?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Me?<delay20 /> Oh, I thought I'd get some
+sewing in, <anim id="FaintSmile" target="actor" targetSpec="" />try to get a jump on
+next week's work.</message>
+	<message label="116" attrib="00 00 00 00">I know what you're thinking.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> "Why is
+Sable here working every Saturday?"<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I actually get the most done on
+Saturdays.<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> I like feeling productive
+when everyone else is resting!
+<anim id="Serious" target="actor" targetSpec="" />And Papa always told me "Stitching
+overtime can save your spines!"</message>
+	<message label="117" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It makes me so happy that you'd
+come all this way to see us, even
+on a Sunday. <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />You want to know why?
+<anim id="HappyFlower" target="actor" targetSpec="" />It's because talking with you
+while I'm working is the best
+part of my day!</message>
+	<message label="120" attrib="00 00 00 00"><tag a="60" b="8" arg="0x79 0x7a 0x7b 0x7c 0x7d 0x7e 0x7f" /></message>
+	<message label="121" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It's sort of silly, since I'm inside the
+shop all day, <delay20 />but sunny weather
+helps me work faster.
+<anim id="Thinking" target="actor" targetSpec="" />Or maybe it's just that I'm making
+shorter sleeves?</message>
+	<message label="122" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Cloudy weather always leaves me
+less motivated. <delay20 />Makes it hard to
+get all my work done.
+<anim id="Laughing" target="actor" targetSpec="" />But sometimes I fight the gloom
+by only using the brightest colors
+I can find!</message>
+	<message label="123" attrib="00 00 00 00">You came all this way in the rain
+just to come see us? You're the
+sweetest, <tag a="110" b="1" />!</message>
+	<message label="124" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Looks like it's raining pretty hard
+out there. <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />Do you have something
+waterproof to wear?</message>
+	<message label="125" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Look at you, braving the snow to
+come visit! <delay20 /><anim id="Worried" target="actor" targetSpec="" />Be sure to watch your
+step out there.</message>
+	<message label="126" attrib="00 00 00 00">Wow. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />We're going to call this the
+Great Blizzard of <tag a="90" b="27" />, aren't we?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />You be sure to dress warmly out
+there, alright?</message>
+	<message label="127" attrib="00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Oh, the cherry blossoms are so
+pretty this time of year!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />They take me back to picnics under
+the cherry trees when we were kids<tag a="110" b="0" />
+<delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" />Mabel and I should do that again<tag a="110" b="0" /></message>
+	<message label="130" attrib="00 00 00 00"><tag a="60" b="14" arg="0x8a 0x8a 0x8b 0x83 0x84 0x84 0x85 0x86 0x87 0x88 0x89 0x8a" /></message>
+	<message label="130_01" attrib="00 00 00 00"><tag a="60" b="14" arg="0x85 0x86 0x87 0x88 0x89 0x8a 0x8a 0x8a 0x8b 0x83 0x84 0x84" /></message>
+	<message label="131" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />The weather's been feeling more
+springlike lately, hasn't it?<pageBreak />You may even find that buying new,
+seasonal clothing puts<tag a="110" b="0" /><delay frames="40" /><anim id="Scheming" target="actor" targetSpec="" />a SPRING in
+your step?</message>
+	<message label="132" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />We've been having more and more
+hot days lately—summer is just
+around the corner.
+<anim id="Thinking" target="actor" targetSpec="" />Probably time to get out my
+collection of summer aprons<tag a="110" b="0" /></message>
+	<message label="133" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Do you have your summer wardrobe
+all picked out and ready yet?</message>
+	<message label="134" attrib="00 00 00 00">This summer has been especially hot,<delay20 />
+hasn't it, <tag a="110" b="1" />?<pageBreak />I'm always in here, <delay20 /><anim id="Laughing" target="actor" targetSpec="" />but I know it's
+too warm because we keep selling
+out of sleeveless clothing!</message>
+	<message label="135" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />It's hard to pick an outfit this time
+of year, since the temperature is so
+different from morning to afternoon.
+<anim id="Smiling" target="actor" targetSpec="" />This is the big advantage to just
+throwing an apron on 365 days
+a year!</message>
+	<message label="136" attrib="00 00 00 00">Do you have some good winter
+clothes? <delay frames="40" /><anim id="Worried" target="actor" targetSpec="" />I worry about you not
+having any fur<tag a="110" b="0" /></message>
+	<message label="137" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I hear we're expecting an especially
+chilly winter.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I've made a lot of good, warm stuff
+to choose from—<anim id="FaintSmile" target="actor" targetSpec="" />I hope you find
+something you like.</message>
+	<message label="138" attrib="00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />It's been so c-c-cold. <delay20 />My spines
+are chattering!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Do you ever try to distract yourself
+from the cold by experimenting with
+fun, warm outfits?<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> I recommend it!</message>
+	<message label="139" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Seems like it's starting to warm up,
+finally! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Each day is just a bit nicer
+than the last.
+<anim id="Smiling" target="actor" targetSpec="" />Which makes it the perfect time to
+check out our spring fashions!<delay20 /><anim id="Blushing" target="actor" targetSpec="" /> I was
+thinking of you when I made them.</message>
+	<message label="150" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />I think you've heard Mabel and me
+talk about our other sister?<delay frames="40" /> <colour id="3" />Label<colour id="65535" />,<delay20 />
+the fashion designer?
+<anim id="Explain" target="actor" targetSpec="" />She's traveling around a lot
+right now, studying fashion
+with different folks.
+<anim id="Smiling" target="actor" targetSpec="" />She also comes to this island
+sometimes, <delay20 />so if you see her,
+be sure to say hi, OK?</message>
+	<message label="151" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Have you met our other sister, <colour id="3" />Label<colour id="65535" />,
+yet? <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />She comes to the island from
+time to time.
+She's got big dreams.<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> Sometimes
+TOO big, if you know what I mean!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />
+But I think you'll like her.
+<anim id="EmotEnd" target="actor" targetSpec="" />She can be a little shy around
+strangers<tag a="110" b="0" /><delay20 /><anim id="WrySmile" target="actor" targetSpec="" />but I know that's not
+a problem for you.</message>
+	<message label="152" attrib="00 00 00 00"><colour id="3" /><anim id="FaintSmile" target="actor" targetSpec="" />Label<colour id="65535" /> tells me you've been helping
+her out, <delay20 />modeling outfits and such.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />It means a lot to all of us that you do
+so much for our little family.<delay20 /><anim id="HappyFlower" target="actor" targetSpec="" /> Thanks
+so much, <tag a="110" b="1" />.</message>
+	<message label="153" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />, I just wanted to
+say thank you for always being
+there to help <colour id="3" />Label<colour id="65535" />.
+<anim id="FaintSmile" target="actor" targetSpec="" />She talks about you all the time, you
+know. <delay20 />She says the outfits you pick
+out are always super inspiring.
+<anim id="Laughing" target="actor" targetSpec="" />Then she runs back here and starts
+sketching furiously<tag a="110" b="0" /><delay frames="40" /><anim id="Love" target="actor" targetSpec="" /> It's wonderful
+to see.
+<anim id="Smiling" target="actor" targetSpec="" />You've done so much for all three
+of us. <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />Thank you from the roots of
+my quills.</message>
+	<message label="200" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, I have a little present for
+you, <tag a="110" b="1" />.</message>
+	<message label="201" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It's some patterned fabric.<delay20 /> I made
+it myself!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You know how you can customize
+furniture by switching out the parts
+that are made of fabric?
+<anim id="Blushing" target="actor" targetSpec="" />I, <delay20 />um,<delay20 /> thought you might want to
+use my fabric for doing that.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />I also made lots of different kinds of
+patterns, so if you see one you like,
+please feel free to use it!</message>
+	<message label="202" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Any time you're customizing
+furniture at a work bench, just select
+<colour id="1" />Pattern <colour id="65535" />to choose one you like.
+<anim id="Explain" target="actor" targetSpec="" />But it's not like you can use it on
+ALL furniture. <delay20 />It varies from piece
+to piece.
+<anim id="Blushing" target="actor" targetSpec="" />I<tag a="110" b="0" /><delay frames="40" />worked really hard making these.<delay20 />
+I hope you like using them!</message>
+	<message label="205" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, <tag a="110" b="1" />! <delay20 />I was hoping
+you'd come by today!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I made a new patterned fabric for you
+to try out on your custom furniture.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Here you go!</message>
+	<message label="206" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="206_01" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I started working on these during my
+breaks from shop stuff, <delay20 />but I got all
+excited and couldn't stop!</message>
+	<message label="206_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I don't know how much furniture you
+customize, <delay20 />but I hope this helps!</message>
+	<message label="206_03" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I made these special for you.<delay20 /> I hope
+you have some fun with them!</message>
+</msbt>

@@ -1,0 +1,99 @@
+<msbt attribsize="3">
+	<message label="001" attrib="00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay8 />You're<tag a="110" b="0" /><delay20 />wait,<delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" /> I got it,<delay20 /> don't tell me<tag a="110" b="0" /><delay8 />
+<anim id="Smiling" target="actor" targetSpec="" />You're <tag a="110" b="1" />! <delay20 />Right?<delay20 />
+See, told you I had it.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />I'm <tag a="110" b="10" />.<delay frames="40" /> I gotta tell
+ya,<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /> I'm excited to do this whole
+island thing, <tag a="110" b="6" />!</message>
+	<message label="002" attrib="00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />So, <delay8 />did ya get your <colour id="1" />tent <colour id="65535" />yet?<10_4 />
+<anim id="Explain" target="actor" targetSpec="" />No worries if you forgot.<delay20 /> Just head
+back to the plaza and get it there.</message>
+	<message label="003" attrib="00 00 00"><anim id="Explain" target="actor" targetSpec="" />Looks like we're both havin' trouble
+deciding where to set up our tents.<delay frames="40" />
+<anim id="Worried" target="actor" targetSpec="" />I mean,<delay20 /> it's a pretty big decision!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Of course,<delay20 /> no matter where we settle
+down on this little island,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> at least
+we'll be neighbors!</message>
+	<message label="004" attrib="04 00 00"><anim id="Smiling" target="actor" targetSpec="" />You already found a good spot, huh?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I was tryin' to just FEEL for the best
+spot, <delay20 /><anim id="Blushing" target="actor" targetSpec="" />but I was havin' trouble 'cause
+EVERY spot feels like the best one.
+<anim id="OhGeez" target="actor" targetSpec="" />I couldn't just sit here thinkin' it over
+forever, <delay20 />so I grabbed a stick and
+threw it<tag a="110" b="0" /><delay20 /><anim id="Aha" target="actor" targetSpec="" />and here's where it landed.
+<anim id="BigSmile" target="actor" targetSpec="" />So now this is my spot!<delay frames="50" /> <anim id="EmotEnd" target="actor" targetSpec="" />OK,<delay20 /> <anim id="Blushing" target="actor" targetSpec="" />I know
+there's only so far I could throw
+the stick, <delay20 />but I'm likin' this!</message>
+	<message label="004_a" attrib="00 00 00">Looks good to me!</message>
+	<message label="004_b" attrib="00 00 00">I'll find you a spot!</message>
+	<message label="004_c" attrib="00 00 00">Maybe reconsider?</message>
+	<message label="005" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />For real, <tag a="110" b="5" />?!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Well, if you're sure<tag a="110" b="0" /><delay20 /><anim id="Greeting" target="actor" targetSpec="" /> Actually,
+<delay20 />let's think about this a little.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />If I put my tent here<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="02 00 00">Looks nice, don't it?</message>
+	<message label="006_a" attrib="00 00 00">Looks great!</message>
+	<message label="006_b" attrib="00 00 00">Something seems off.</message>
+	<message label="007" attrib="00 00 00">Awesome! <delay20 />From now on, this won't
+be just anywhere on the island.<delay20 />
+It's gonna be my home sweet home!</message>
+	<message label="008_01" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You couldn't have picked a better
+spot. <delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />You rock, <tag a="110" b="5" />!</message>
+	<message label="008_02" attrib="00 00 00"><delay8 /><anim id="Shocked" target="actor" targetSpec="" /><delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />Hold up. <delay20 />Does this mean<delay8 /> you helped
+<tag a="115" b="1" arg="0xcd00" /> with his tent too?<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />Whoa!<delay20 /> You're a seriously
+awesome person!<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />I gotta be honest,<delay20 /> when we first got
+here I was kinda worried there were
+way too few of us<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />But if we get to live here with
+someone like you,<delay20 /> I can totally
+rest easy!
+<tag a="110" b="0" /><delay8 /><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay40 /> Everyone else is probably
+waitin' on us,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />so let's get back
+to the <colour id="1" />plaza<colour id="65535" />, <tag a="110" b="6" />!</message>
+	<message label="008_03" attrib="00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I wonder how that <tag a="115" b="1" arg="0xcd00" />
+guy is doin'.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />He might be havin' as much trouble
+as I was.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Maybe you should go see
+if he needs help too!</message>
+	<message label="009" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, good call. <delay20 />Gotta put my best
+foot forward and all that.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I'll wander around and keep looking
+before I make a decision I can't
+take back.</message>
+	<message label="010" attrib="00 00 00">Oh!<delay20 /> Well, that's no good.<pageBreak />This island ain't big, so I better pick
+a place that's solid for all my pals.<delay20 />
+I'll think on it some more.</message>
+	<message label="011" attrib="00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Whoa, for real? <delay20 />You're gonna pick
+out the perfect spot FOR me?!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You'd do that for someone you just
+met? <delay20 /><anim id="Grin" target="actor" targetSpec="" />Y'know, you're alright,
+<tag a="110" b="1" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />In that case<tag a="110" b="0" /><delay20 />here ya go. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />It's your
+show now, <tag a="110" b="6" />!</message>
+	<message label="012" attrib="00 00 00"><anim id="Greeting" target="actor" targetSpec="" />You go pick out the perfect spot for
+that tent I gave you.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'm gonna go wait at the plaza in
+the meantime, OK?</message>
+	<message label="013" attrib="00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Letting you decide where my
+tent goes is a huge relief,<delay8 />
+<tag a="110" b="1" />!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I don't really care where I end up.<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />I'm good knowing you did your best
+to pick out a spot for me.</message>
+	<message label="014" attrib="04 00 00"><anim id="Blushing" target="actor" targetSpec="" />This is sooo hard! <delay20 />My gut says this
+spot is good<tag a="110" b="0" /><delay20 />but my brain says
+maybe there's an even better one.
+<anim id="OhGeez" target="actor" targetSpec="" />Aww, I dunno,<delay8 /> <tag a="110" b="1" />.<delay20 />
+What do you think?</message>
+	<message label="014_a" attrib="00 00 00">This looks good.</message>
+	<message label="014_b" attrib="00 00 00">I'll find you a spot!</message>
+	<message label="014_c" attrib="00 00 00">Maybe reconsider?</message>
+	<message label="021" attrib="00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Thanks for looking out for me,
+<tag a="110" b="1" />.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />If that <tag a="115" b="1" arg="0xcd00" /> guy looks
+lost too,<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />maybe you could
+help him.</message>
+	<message label="022" attrib="01 00 00"><anim id="Aha" target="actor" targetSpec="" />How's it going, <tag a="110" b="1" />?<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />You find me a sweet spot
+to live yet?</message>
+	<message label="022_a" attrib="00 00 00">The sweetest!</message>
+	<message label="022_b" attrib="00 00 00">It's a done deal!</message>
+	<message label="023" attrib="00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Nice! <delay20 />I can't wait to see it.<delay frames="40" />
+<anim id="HappyFlower" target="actor" targetSpec="" />Thanks, <tag a="110" b="6" />!</message>
+	<message label="024" attrib="00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm in love with that place you picked
+out for me.<delay20 /> <anim id="HappyDance" target="actor" targetSpec="" />I seriously couldn't have
+done it better myself!</message>
+	<message label="025_01" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If that <tag a="115" b="1" arg="0xcd00" /> guy looks
+lost too,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> I bet he'd love it
+if you helped him out.</message>
+	<message label="025_02" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I hope that <tag a="115" b="1" arg="0xcd00" />
+guy ends up somewhere
+good as well.</message>
+</msbt>

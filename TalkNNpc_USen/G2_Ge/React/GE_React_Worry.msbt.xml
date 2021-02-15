@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 06 00"><anim id="Surprised" target="actor" targetSpec="" /><10_10 />Gah! <delay40 />Where'd you come from?!
+<delay frames="40" /><10_9 /><20_2 arg="6" /><20_3 arg="6" /><anim id="Laughing" target="actor" targetSpec="" />I thought you, I don't know,
+were a vampire? Or paparazzi?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Hang on, aren't those—<10_4 />
+<size value="75" />No. That joke's too obvious.<pageBreak /><size value="100" /><anim id="EmotEnd" target="actor" targetSpec="" />I'm thinking about some heavy stuff.
+<anim id="FaintSmile" target="actor" targetSpec="" />Could you please come back later?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" /><10_10 />Ahhh! <tag a="50" b="3" /><tag a="110" b="4" />!<10_9 /><delay40 /><anim id="EmotEnd" target="actor" targetSpec="" />
+<anim id="Frantic" target="actor" targetSpec="" />You scared me so bad, I forgot
+what I was thinking about!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" /><delay20 />Now I have to start over.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" /><delay20 />Let's hang
+out later, though, 'K?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="Surprised" target="actor" targetSpec="" /><10_10 />GAH!<20_3 arg="6" /> <tag a="50" b="3" /><tag a="110" b="3" />!<10_9 /><pageBreak /><anim id="Worried" target="actor" targetSpec="" /><delay20 />I'm kind of trying to figure out a
+thing right now<tag a="110" b="0" /> Could you please
+give me, like, some alone time?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

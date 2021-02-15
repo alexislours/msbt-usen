@@ -1,0 +1,51 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Silent" target="actor" targetSpec="" />Whoa! <delay20 />I'm gonna need you to back
+off a little right now, amigo.<endTag a="100" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, <delay20 />I'm so mad I don't
+know what to do with myself!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Serious" target="actor" targetSpec="" />Oooh! <delay8 />I'm just so<tag a="110" b="0" />what's the
+word for this feeling<tag a="110" b="0" /><anim id="Angry" target="actor" targetSpec="" />no bueno!<delay frames="40" />
+That's Spanish for furious!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />I just don't know what to think
+about <tag a="115" b="1" arg="0xcd00" /> anymore,
+you know?<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="OhGeez" target="actor" targetSpec="" />I guess SOME folks haven't
+been paying attention to my
+horoscope today!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />I've been called "shallow" and
+"really shallow" before, <delay20 /><anim id="Outraged" target="actor" targetSpec="" />but THIS
+is too much!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />So, my horoscope said that I should
+expect a great surprise today.<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />And wouldn't you know it?<delay20 />
+<tag a="115" b="1" arg="0xcd00" /> actually gave
+me a gift!
+<anim id="Negative" target="actor" targetSpec="" />But it was <tag a="50" b="2" /><tag a="135" b="5" arg="0xcd00" />!<delay frames="40" />
+<anim id="Outraged" target="actor" targetSpec="" />How basic does <gender3 m="he" f="she" /> think I am?</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />It's still a gift!</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />You should get over it.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, I guess so. <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />But can you
+think of a less appropriate gift?<delay20 />
+It's like<tag a="110" b="0" />do you even know me?
+<anim id="FaintSmile" target="actor" targetSpec="" />Well, I guess I feel better.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />Good talk, <tag a="110" b="3" />!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />Oh? Well maybe <tag a="115" b="1" arg="0xcd00" />
+should get over <tag a="115" b="1" arg="0xcd00" />!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />Wow, I didn't know you could
+be like this, <tag a="110" b="3" />!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Serious" target="actor" targetSpec="" />Hey, maybe we should take a little
+break from <tag a="110" b="3" /> and
+<tag a="110" b="10" />, you know?<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Silent" target="actor" targetSpec="" />I know I look all handsome and
+fabulous, but I'm still super angry
+with you!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="203" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I'm a pretty cheerful guy,
+but I DO get angry sometimes,
+you know. <delay frames="40" /><anim id="Negative" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" /><tag a="110" b="0" /></message>
+	<message label="203_a" attrib="00 00 00 00 00 00 00 00"><anim id="Apologize" target="player" targetSpec="" />I'm sorry!</message>
+	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Yeah...</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" /><tag a="110" b="0" /><delay frames="50" /><anim id="BigSmile" target="actor" targetSpec="" />OK.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />As long as you admit that you
+were wrong and I am perfect,
+it's water under the bridge!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Ugh, fine, I can't stay angry at
+you.<delay20 /><anim id="WrySmile" target="actor" targetSpec="" /> It's too much work!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Just try not to do it again, OK?</message>
+</msbt>

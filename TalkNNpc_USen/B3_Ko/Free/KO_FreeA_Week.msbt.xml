@@ -1,0 +1,96 @@
+<msbt attribsize="8">
+	<message label="001" attrib="65 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Guess it's Monday again, huh?</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="101_01" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />New week, brand-new challenges.
+I'm still kickin', so <anim id="WrySmile" target="actor" targetSpec="" />there's one
+challenge knocked off, I reckon.</message>
+	<message label="101_02" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Gotta remind myself to try to laugh
+as much as I can<tag a="110" b="0" /> <anim id="Pardon" target="actor" targetSpec="" />Probably the
+only exercise my core ever gets.
+<anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="101_03" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Coffee's my go-to<delay20 /> when I need
+a kick in the hindquarters to get
+me goin',<delay20 /> <tag a="110" b="5" />.
+I like my coffee <anim id="SmugFace" target="actor" targetSpec="" />strong and bitter,<delay20 />
+just like yours truly.<delay frames="50" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="002" attrib="66 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />You'll like this, <tag a="110" b="3" /><tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="102_01" attrib="00 00 00 00 00 00 00 00">Taught myself a magic trick!<delay40 /> <anim id="Serious" target="actor" targetSpec="" />Ready?<10_4 />
+So,<delay20 /> right here I got an ordinary
+handkerchief<tag a="110" b="0" /> <anim id="Frantic" target="actor" targetSpec="" />Uh,<delay20 /> right,<delay20 /> um<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Oops" target="actor" targetSpec="" />Guess I forgot to bring it with me.<delay40 />
+<anim id="Worried" target="actor" targetSpec="" />Remind me to do that trick for you
+some other time,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="102_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Came up with a brand-new pun.
+<anim id="Hello" target="actor" targetSpec="" />Wanna hear it? Sure you do!<10_4 />
+<anim id="Silent" target="actor" targetSpec="" />Aw, I thought everyone loved puns.<delay8 />
+<anim id="Angry" target="actor" targetSpec="" /><colour id="4" />Everyone's a critic these days.<colour id="65535" /></message>
+	<message label="102_03" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I try to avoid sweets, <delay20 />but I just
+had <tag a="50" b="2" /><tag a="135" b="7" arg="0xcd00" /><anim id="AbsentMindedness" target="actor" targetSpec="" /> that
+was delectable,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="003_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hey, is today Wednesday?<delay40 /> <anim id="Serious" target="actor" targetSpec="" />'Cause it
+still feels like Tuesday,<delay20 /> <tag a="110" b="5" />.<delay40 />
+<colour id="4" />Wait,<delay20 /> what'd I do on Monday?<colour id="65535" /></message>
+	<message label="003_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I call Wednesdays "Hunchdays"<delay20 />
+because my back's usually killin'
+me by midweek.<delay40 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Ow.</message>
+	<message label="003_03" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are you a "week's half over"<delay20 /> or a
+"half a week left" sort of <tag a="110" b="15" />?<10_4 />
+<anim id="Worried" target="actor" targetSpec="" />Wait,<delay20 /> are you even <tag a="50" b="2" /><tag a="110" b="15" />?<pageBreak /><colour id="4" />Need to get my peepers checked<delay8 /><tag a="110" b="0" /><colour id="65535" /></message>
+	<message label="004" attrib="68 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Wonder what I should write
+in the ol' journal for today<delay8 /><tag a="110" b="0" /><10_4 />
+<anim id="Serious" target="actor" targetSpec="" />Yeah,<delay20 /> I got a journal.<delay40 /> So what?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="104_01" attrib="00 00 00 00 00 00 00 00">My journal helps me remember stuff
+<anim id="Nodding" target="actor" targetSpec="" />that happens to me,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Or at least the stuff I remember to
+write about<delay20 /> by the end of the day<delay8 /><tag a="110" b="0" /></message>
+	<message label="104_02" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />If I got nothin' to write about,<delay20 />
+some nights I'll just jot down
+<anim id="FaintSmile" target="actor" targetSpec="" />a few choice puns,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="104_03" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I never make up stuff in my journal,<delay20 />
+even on the borin' days.<delay frames="40" /><pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />That's 'cause I ain't no phony,<delay20 />
+<tag a="110" b="5" />!</message>
+	<message label="005" attrib="69 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Got any big weekend plans?<delay40 />
+<anim id="Nodding" target="actor" targetSpec="" />I know what I'll be doin'!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="105_01" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Gonna guzzle <tag a="135" b="1" arg="0xcd00" /> and
+gobble up <tag a="135" b="3" arg="0xcd00" /><delay20 /> while
+watchin' <tag a="135" b="6" arg="0xcd00" /> on TV!
+<anim id="BigSmile" target="actor" targetSpec="" />That's my ideal weekend<delay20 /> right
+there in a nutshell,<anim id="FaintSmile" target="actor" targetSpec="" /><delay20 /> <tag a="110" b="5" />.</message>
+	<message label="105_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I'm a big believer in takin' time
+to relax<delay20 /> at the end of the week.<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Durin' the week too.<delay40 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="105_03" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Reckon I'll go for a long walk across
+the island,<delay20 /> then jump in an ice bath.<delay frames="30" />
+<anim id="Serious" target="actor" targetSpec="" />It's not that I like havin' to do it<delay8 /><tag a="110" b="0" />
+The icy shock <anim id="OhGeez" target="actor" targetSpec="" />just numbs my
+achin' muscles,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="006" attrib="6a 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Guess there's just no denyin' our
+own inner nature sometimes<tag a="110" b="0" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="32" arg="0x2e 0x63 0x61 0x74 0x3e 0x32 0x30 0x31 0x2c 0x77 0x6f 0x6c 0x3e 0x32 0x30 0x32 0x2c 0x65 0x74 0x63 0x3e 0x32 0x30 0x33" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="201_01" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Curiosity's what always gets me
+into trouble. <anim id="Sighing" target="actor" targetSpec="" />Just can't help it.<delay8 /></message>
+	<message label="201_02" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Could never stand bein' dirty at all.<delay8 />
+<anim id="ShyBoy" target="actor" targetSpec="" />Personal groomin's sorta my thing.</message>
+	<message label="201_03" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Got a thing for boxes, myself<tag a="110" b="0" />
+Sometimes when no one's around,
+<anim id="Pardon" target="actor" targetSpec="" />I like just sittin' inside one of 'em.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, can't explain why, but
+the full moon sets my heart to racin'.<delay8 />
+<anim id="Confused" target="actor" targetSpec="" />Makes me just want to shout up at it!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I never sweat the small stuff.
+<anim id="Explain" target="actor" targetSpec="" />My policy's more about pickin'
+a path and chuggin' along it.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Sundays make me restless for some
+weird reason. I always wake up early.
+<anim id="Confused" target="actor" targetSpec="" />Not sure what's goin' on there<tag a="110" b="0" /></message>
+	<message label="007_02" attrib="00 00 00 00 00 00 00 00">Thinkin' I <anim id="Nodding" target="actor" targetSpec="" />might do some shoppin'.<delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />
+Wait, <anim id="Worried" target="actor" targetSpec="" />store ain't closed today, right?
+Hope not. That'd throw off my plans.</message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I know I probably seem like a guy
+who likes keepin' busy, but <anim id="FaintSmile" target="actor" targetSpec="" />I do
+enjoy relaxin' on my days off<tag a="110" b="0" /></message>
+</msbt>

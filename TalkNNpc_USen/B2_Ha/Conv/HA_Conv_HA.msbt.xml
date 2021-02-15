@@ -1,0 +1,119 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! <delay20 />Perfect timing.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />I was just about to challenge
+<tag a="110" b="31" arg="0xcd01" /><20_2 arg="7" /> to a round of<tag a="110" b="0" /><delay frames="40" />
+<anim id="Outraged" target="actor" targetSpec="" />WORD CHAIN!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's easy. <delay20 />I'll say a word, <delay20 />then one of
+you says a word that begins with the
+last letter of my word, <delay20 />and so on.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Whoa!<delay20 /> A word-muscle challenge!<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />I accept! <delay20 />Let's bench some letters!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'll start.<delay20 /> <anim id="Worried" target="actor" targetSpec="" /><delay20 />How about<tag a="110" b="0" /><delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Gym!<delay20 />
+<tag a="110" b="31" arg="0xcd00" />, you're up!</message>
+	<message label="003" attrib="00 00 10 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Gym<tag a="110" b="0" /><delay20 /> "M"<tag a="110" b="0" /><delay20 /> Mmmmmmm<tag a="110" b="0" /><delay frames="60" /> <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Muscles!<anim id="Clapping" target="subNpc" targetSpec="" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Cool!<delay frames="40" /> <20_3 arg="0" /><anim id="Hello" target="actor" targetSpec="" />Your turn, <tag a="110" b="3" />.<delay20 />
+Pick a word starting with "S."</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">Strength training.</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Squats.</message>
+	<message label="003_c" attrib="00 00 00 00 00 00 00 00">Sit-ups.</message>
+	<message label="003_d" attrib="00 00 00 00 00 00 00 00">Stretching.</message>
+	<message label="003_e" attrib="00 00 00 00 00 00 00 00">Sore.</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Strength training? <delay20 />Uh<tag a="110" b="0" /><delay20 />you know
+that's TWO <delay20 />words, right?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Did you forget how to count?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Hey,
+it's alright. <delay20 />I forget stuff all the time!<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Speaking of forgetting<tag a="110" b="0" /><delay20 /> I was so
+busy doing push-ups, <20_2 arg="7" /><delay20 />I totally didn't
+do my squat reps today. <delay frames="40" /><anim id="Oops" target="actor" targetSpec="" />Whoops!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="mainNpc" targetSpec="" />Ha ha ha! <delay20 />Seriously? <delay20 />I've already
+done my squats for the WEEK!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />TOTALLY forgot to do my push-ups
+though, <tag a="110" b="5" /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I get it, <tag a="110" b="31" arg="0xcd00" />.<delay frames="40" /> The only
+reason I did so many push-ups
+is, uh<tag a="110" b="0" /><delay frames="40" /><anim id="SadSpiral" target="subNpc" targetSpec="" />I forgot to stop.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="subNpc" targetSpec="" />Squats?<delay frames="40" /> <anim id="Love" target="subNpc" targetSpec="" />Now we're talkin'!<delay20 /> You'll get
+quads of steel with squats!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />Totally! <20_3 arg="7" /><delay40 /><anim id="AbsentMindedness" target="actor" targetSpec="" />And the next-day soreness?<delay20 />
+Ooo! That's the BEST, <tag a="110" b="5" />.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Hey, <delay20 />why are we here playing
+word games when we could be
+doing squats?<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />C'mon, <tag a="110" b="31" arg="0xcd00" />! <delay20 />Race you
+to the gym, <tag a="110" b="5" />.</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Oh, it's on! <delay20 />I'm right behind you<tag a="110" b="0" /><delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />
+and about to be WAAAAAY out in
+front of you, <tag a="110" b="5" />!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Great word, <tag a="110" b="3" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />And what do you get if you do lots
+of sit-ups?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Yep!<delay20 /> Six-pack abs!<delay frames="40" />
+<anim id="SmugFace" target="actor" targetSpec="" />Like THESE!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Do you even plank? <delay20 />That's not a
+six-pack.<20_3 arg="7" /><delay20 /> <delay20 />That's a three-pack, tops.<anim id="Angry" target="subNpc" targetSpec="" /><pageBreak /><anim id="Grin" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />, <delay20 />if you
+wanna see some serious
+steel,<anim id="Negative" target="player" targetSpec="" /><delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />check out MY abs!<anim id="Pardon" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Now THESE are the real deal. <delay20 />Even
+my six-pack's got a six-pack!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Whoa! <delay20 />Your abs are glorious!<delay20 /> You
+gotta tell me what kind of planks
+you're doing!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />What's your secret?<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />That's, uh<tag a="110" b="0" /><delay20 />a secret, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Maybe side planks?<delay20 /> Forearm planks?<delay20 />
+Climbing planks?<delay20 /> Fingertip planks?<delay20 />
+Plank jacks?<delay20 /> Scorpion planks?<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Rowing planks? <anim id="Pardon" target="player" targetSpec="" /><delay20 />Electric planks?<delay20 /> Lava
+planks? <anim id="Negative" target="mainNpc" targetSpec="" /><delay20 />Blast planks?<delay20 /> Hover planks?
+<delay20 />Leviathan planks? <delay20 />Wooden planks?<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />You don't have to say it out loud.<delay frames="40" />
+Just flex your abs once for no, and
+twice for yes, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Great word, <tag a="110" b="3" />!<delay20 />
+Stretching before a workout
+is super important!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />OK, <delay20 />"G"<tag a="110" b="0" /><delay20 /> "G"<tag a="110" b="0" /><delay20 /> "G"<tag a="110" b="0" /><delay20 /> Hmm<tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="subNpc" targetSpec="" /><delay20 />Oh, I know! <delay20 />"Gymnasium!"<20_2 arg="7" /><delay frames="40" />
+<anim id="SmugFace" target="actor" targetSpec="" />Top THAT, <tag a="110" b="5" />!</message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />"Gymnasium?"<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />But we already did
+"Gym."<delay20 /> No repeats, <tag a="110" b="5" />!</message>
+	<message label="023" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="subNpc" targetSpec="" />Oops<tag a="110" b="0" /><delay frames="40" /> You're right.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />But c'mon!<delay20 />
+Repetition is the key to success,<delay20 />
+ESPECIALLY in strength training<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />ESPECIALLY in strength training!<delay frames="40" />
+ESPECIALLY in strength training!<anim id="Negative" target="mainNpc" targetSpec="" /><delay frames="40" />
+ESPECIALLY <delay20 />in <delay20 />strength <delay20 />training!</message>
+	<message label="024" attrib="00 00 00 00 00 00 00 00">Sore?<delay frames="40" /> <anim id="Shocked" target="mainNpc" targetSpec="" />Oh! <delay20 />Wow!<delay20 /> "E" is a tough one!</message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, that's tough. <delay20 />But I got this!<pageBreak /><anim id="Thinking" target="subNpc" targetSpec="" />OK!<delay20 /> "E"<tag a="110" b="0" /><delay20 /> "E"<tag a="110" b="0" /><delay20 /> "E"<tag a="110" b="0" /><delay frames="40" />
+<anim id="IdeaBulb" target="subNpc" targetSpec="" /><delay20 />Oh yeah! <delay20 />"Exercise!"<anim id="Worried" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="026" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />What? <delay20 />No! <delay20 />Foul! <delay20 />I call foul!<delay frames="40" /> Come on!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Everyone knows "exercise" starts
+with an "X," <tag a="110" b="5" />!<delay frames="60" /> <anim id="BigSmile" target="actor" targetSpec="" />It's just
+like "extreme"!<delay20 /><anim id="QuestionMark" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 01 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" /><delay20 />If I'm gonna go pro, <delay20 />then I gotta bulk
+up my post-game interview skills.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Everyone's gonna wanna hear about
+my <tag a="135" b="6" arg="0xcd00" /> heroics! <delay20 />I gotta
+be ready, <tag a="110" b="5" />!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="subNpc" targetSpec="" />I'll help you, <tag a="110" b="5" />! Try this<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 /> <anim id="Explain" target="subNpc" targetSpec="" />"Hello, <tag a="135" b="6" arg="0xcd00" /> fans!<anim id="Smiling" target="mainNpc" targetSpec="" />
+<delay20 />We're here with <tag a="110" b="31" arg="0xcd00" />,
+<delay20 />today's MVP."
+<anim id="EmotEnd" target="actor" targetSpec="" />"Tell us—<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what were the keys to your
+victory today? <delay20 />What makes you so
+good and stuff, <tag a="110" b="31" arg="0xcd00" />?"<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />"Well, <delay20 />preparation is always key.<delay20 />
+I give 210 percent, <delay20 />and I do <tag a="90" b="3" arg="0x100" />
+<50_8 x="0" y="0" a="push-ups" b="push-up" c="push-ups" /> every day, <tag a="110" b="5" />."</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Um<tag a="110" b="0" /><delay20 /> <anim id="FaintSmile" target="subNpc" targetSpec="" />"Right you are! And for those
+who don't know what arms are,
+tell us—<delay frames="40" /><anim id="Greeting" target="subNpc" targetSpec="" />why do push-ups?"<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00">"Oh!<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Well, I believe success on the
+field starts and ends with triceps. <delay20 />As
+you know, <delay20 />I lift by that philosophy."</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wait, <delay8 />wait, <delay8 />wait. <delay20 />Time out!<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />You mean
+biceps, right?<delay20 /> Biceps are WAY more
+important to success than triceps!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, <delay20 />but EVERYONE knows about
+biceps.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />I'm gonna talk about triceps
+instead. <delay20 />Make 'em think!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />It's gonna make me look super
+smart, <tag a="110" b="6" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Whoa! <delay20 />Awesome idea!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> OK, OK<tag a="110" b="0" /><delay frames="40" />
+<anim id="Explain" target="actor" targetSpec="" />"And that wraps it up for us here at
+the <capitaliseNextWord /><tag a="135" b="6" arg="0xcd00" /> Omega Dome."<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />"To all our viewers who just learned
+about arms, <delay20 />you're welcome.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Back to
+you in the studio, <tag a="110" b="5" />."</message>
+	<message label="201" attrib="00 00 00 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sup, <tag a="110" b="31" arg="0xcd01" />. <delay20 />Wanna play
+Superhero Workout, <tag a="110" b="5" />?</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Yes! <delay frames="40" />Yes I do! We can totally<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Hang
+on, <delay20 />did you just say "<tag a="110" b="5" />"?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Wow! <delay20 />That sounds like it's some
+kinda super-sweet super move!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" />Huh? <delay20 />It does?<delay frames="40" /> <anim id="Cheering" target="mainNpc" targetSpec="" /><delay20 /><tag a="50" b="3" /><tag a="110" b="6" />!<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Ha ha ha! <delay20 />It DOES!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />So awesome!<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" /><delay20 />Hey! <delay20 />We should BOTH
+say it! <delay20 />That cool with you?</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />It's VERY cool with me.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />C'mon,
+let's both try it out!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Alright! <delay20 />Ready?<pageBreak /><10_10 /><tag a="10" b="12" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><size value="150" />Turbo Muscle Force:<delay20 />
+<capitaliseNextWord /><tag a="110" b="5" />, activate!<size value="100" /><delay8 /><anim id="Clapping" target="player" targetSpec="" /><anim id="Laughing" target="mainNpc" targetSpec="" /><delay20 /><anim id="Laughing" target="subNpc" targetSpec="" /><delay8 /></message>
+</msbt>

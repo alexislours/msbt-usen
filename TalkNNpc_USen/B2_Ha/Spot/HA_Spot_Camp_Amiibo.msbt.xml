@@ -1,0 +1,82 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 13 00"><tag a="100" b="5" /><colour id="1" />Hey, <delay20 />it's <tag a="115" b="1" arg="0xcd00" />!<delay20 />
+Sort of.<pageBreak />I'm out doing a few last-minute
+flexes before I move, <delay20 />so I can't
+talk right now, <tag a="110" b="5" />.<colour id="65535" /><endTag a="100" b="5" /></message>
+	<message label="001_02" attrib="00 00 00 00 00 00 13 00"><tag a="100" b="5" /><colour id="1" />Heya! <delay20 />You have ALMOST reached the
+mighty <tag a="115" b="1" arg="0xcd00" />.<pageBreak />I'm packing up to move right now,
+so<tag a="110" b="0" /><delay20 />let's talk later, <tag a="110" b="5" />!<colour id="65535" /><endTag a="100" b="5" /></message>
+	<message label="001_03" attrib="00 00 00 00 00 00 13 00"><tag a="100" b="5" /><colour id="1" />What's up? <delay20 />You've kinda reached
+<tag a="115" b="1" arg="0xcd00" />, <delay20 />world-renowned
+<tag a="135" b="6" arg="0xcd00" /> star.<pageBreak />I can't talk right now, <delay20 />as I'm busy
+lifting a whole bunch of heavy boxes
+so I can move, <tag a="110" b="5" />.<colour id="65535" /><endTag a="100" b="5" /></message>
+	<message label="001_04" attrib="00 00 00 00 00 00 13 00"><tag a="100" b="5" /><colour id="1" />What's up? <delay20 />It's <tag a="115" b="1" arg="0xcd00" />.<pageBreak />I'm about to move, <delay20 />so I'm out on
+one last jog for old time's sake.<delay20 />
+Sorry I missed you, <tag a="110" b="5" />.<colour id="65535" /><endTag a="100" b="5" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="102_01" attrib="00 00 00 00 00 00 13 00"><anim id="QuestionMark" target="actor" targetSpec="" />Stay at your <colour id="1" />campsite<colour id="65535" />?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Yes! <delay20 />I'd love
+to hang out again. <delay20 />I'll start packing
+my free weights now, <tag a="110" b="5" />!</message>
+	<message label="102_02" attrib="00 00 00 00 00 00 13 00"><anim id="QuestionMark" target="actor" targetSpec="" />Huh? <delay20 />Visit your <colour id="1" />campsite<colour id="65535" />?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Yes! <delay20 />Last
+time was a blast! <delay20 />Plus, I think I left
+some weights behind, <tag a="110" b="5" /><tag a="110" b="0" /></message>
+	<message label="102_03" attrib="00 00 00 00 00 00 13 00"><anim id="Nodding" target="actor" targetSpec="" />Sure, I'll visit your <colour id="1" />campsite<colour id="65535" />!<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />Weird,<delay20 />
+I was just thinking about the jogging
+route there, <tag a="110" b="5" />.</message>
+	<message label="102_04" attrib="00 00 00 00 00 00 13 00"><anim id="QuestionMark" target="actor" targetSpec="" />Huh? <delay20 />Visit your <colour id="1" />campsite<colour id="65535" />? <anim id="Smiling" target="actor" targetSpec="" />Well sure!<delay20 />
+I'll swim over as soon as I finish my
+protein shake, <tag a="110" b="5" />.</message>
+	<message label="202" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="202_01" attrib="00 00 00 00 00 00 13 00"><anim id="Thinking" target="actor" targetSpec="" />You want me to visit your <colour id="1" />campsite<colour id="65535" />?<delay frames="60" />
+<anim id="BigSmile" target="actor" targetSpec="" />Why not? <delay20 />Sounds like fun.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Hey, <delay20 />you've got gravity there, right?<delay frames="40" />
+I wanna make sure my free weights
+are gonna work, <tag a="110" b="5" />.</message>
+	<message label="202_02" attrib="00 00 00 00 00 00 13 00"><anim id="Worried" target="actor" targetSpec="" />Visit your <colour id="1" />campsite<colour id="65535" />?<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Sure!<delay20 /> Roughing
+it will be great for my new primal-
+strength routine, <tag a="110" b="5" />.</message>
+	<message label="202_03" attrib="00 00 00 00 00 00 13 00"><anim id="Worried" target="actor" targetSpec="" />Visit your <colour id="1" />campsite<colour id="65535" />?<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Sure!<delay20 /> I've heard
+the sit-ups on <tag a="110" b="9" />
+are tops, <tag a="110" b="5" />.</message>
+	<message label="202_04" attrib="00 00 00 00 00 00 13 00"><anim id="Smiling" target="actor" targetSpec="" />Hanging out at your <colour id="1" />campsite<colour id="65535" /> sounds
+like fun!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />I'll throw on some trunks
+and swim right over, <tag a="110" b="5" />.</message>
+	<message label="301" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="301_01" attrib="00 00 00 00 00 00 13 00"><anim id="Serious" target="actor" targetSpec="" /><tag a="110" b="10" /> here.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Oh, hey!<delay20 />
+What's up, <tag a="110" b="3" />?</message>
+	<message label="301_02" attrib="00 00 00 00 00 00 13 00"><anim id="Serious" target="actor" targetSpec="" />This is <tag a="110" b="10" />.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Hey,
+what's up, <tag a="110" b="3" />!<delay20 /> Need
+something lifted?</message>
+	<message label="301_03" attrib="00 00 00 00 00 00 13 00"><anim id="Serious" target="actor" targetSpec="" /><tag a="110" b="10" />.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Oh, hey! It's
+<tag a="110" b="3" />.<delay20 /> How's it going?</message>
+	<message label="301_04" attrib="00 00 00 00 00 00 13 00"><anim id="Serious" target="actor" targetSpec="" />Hello, this is <tag a="110" b="10" />.<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> How have
+you been?</message>
+	<message label="302" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="302_01" attrib="00 00 00 00 00 00 13 00"><anim id="QuestionMark" target="actor" targetSpec="" />Huh? <delay20 />The <colour id="1" />campsite<colour id="65535" />? <delay20 />You mean the
+one here?<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Sorry, no can do.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I've still got <tag a="90" b="2" arg="0x100" /> sit-ups to go for my
+daily quota, <tag a="110" b="5" />.<delay20 /> Maybe
+some other time.</message>
+	<message label="302_02" attrib="00 00 00 00 00 00 13 00"><anim id="QuestionMark" target="actor" targetSpec="" />What? <delay20 />The <colour id="1" />campsite<colour id="65535" />? <delay20 />You mean the
+<colour id="1" />campsite<colour id="65535" /> here<tag a="110" b="0" /><delay20 />on THIS island?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Look, <delay20 />I'm not about to lose a day of
+agility training just to haul my gear
+to our own <colour id="1" />campsite<colour id="65535" />, <tag a="110" b="5" />.</message>
+	<message label="302_03" attrib="00 00 00 00 00 00 13 00"><anim id="QuestionMark" target="actor" targetSpec="" />You want me to go to the <colour id="1" />campsite<colour id="65535" />?<delay20 />
+The one here?<delay20 /> Why?<delay20 /> Did I leave
+something there, <tag a="110" b="5" />?</message>
+	<message label="302_04" attrib="00 00 00 00 00 00 13 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hang out at the <colour id="1" />campsite<colour id="65535" />?<delay20 /> The one
+here?<delay20 /> Why?<delay20 /> You wanna do a camping
+trip together or something?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />'Cause if so, <delay20 />I was thinking of going
+on a wilderness-training trip if you
+wanna come, <tag a="110" b="5" />.</message>
+	<message label="401" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="401_01" attrib="00 00 00 00 00 00 13 00"><anim id="Serious" target="actor" targetSpec="" />This is <tag a="110" b="10" />, lifting
+pro.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />Need something lifted?</message>
+	<message label="401_02" attrib="00 00 00 00 00 00 13 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="110" b="10" /> here.<delay20 /> Have
+biceps,<delay20 /> will travel.</message>
+	<message label="401_03" attrib="00 00 00 00 00 00 13 00"><anim id="SmugFace" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="10" />, <delay20 /><tag a="135" b="6" arg="0xcd00" />
+pro, <delay20 />part-time boulder lifter,
+<delay20 />full-time flexer. <delay20 />What's up?</message>
+	<message label="401_04" attrib="00 00 00 00 00 00 13 00"><anim id="Fuming" target="actor" targetSpec="" />This<tag a="110" b="0" /><delay20 />is<tag a="110" b="0" /><delay20 /><tag a="110" b="10" /><tag a="110" b="0" /><delay frames="40" /><anim id="Sighing" target="actor" targetSpec="" /> Whew.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Sorry, I was lifting. <delay20 />What's up?</message>
+</msbt>

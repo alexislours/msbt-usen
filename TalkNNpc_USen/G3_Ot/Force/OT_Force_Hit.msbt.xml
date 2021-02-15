@@ -1,0 +1,22 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Well, I am just shocked and appalled!<delay frames="13" />
+You're normally so nice!<delay20 /><anim id="Angry" target="actor" targetSpec="" /> What has
+come over you, <tag a="110" b="3" />?!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />What was that for?!<delay40 /><anim id="Angry" target="actor" targetSpec="" /> Do you have
+some kind of problem with me?<delay40 /><pageBreak /><anim id="Fuming" target="actor" targetSpec="" />That really hurt!<delay20 /> Don't you care
+about my feelings?!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />Oh, would you just GROW UP?!<delay40 />
+<anim id="Angry" target="actor" targetSpec="" />You need to find a healthier way
+to burn off that extra energy!
+<anim id="Silent" target="actor" targetSpec="" />There are better ways to get my
+attention<tag a="110" b="0" /><delay20 /><anim id="Outraged" target="actor" targetSpec="" />MUCH BETTER WAYS!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" /><tag a="110" b="0" />HEY!<delay40 /> Be careful with that thing!<delay40 /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />When did you become so mean?<delay20 />
+<anim id="SadSpiral" target="actor" targetSpec="" />I thought you had culture and
+good manners<tag a="110" b="0" />like me.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Aww, what is wrong with you?<delay40 />
+<anim id="SadSpiral" target="actor" targetSpec="" />And here I thought you were
+so nice and respectable.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Could you PLEASE not do that?<delay40 />
+<anim id="OhGeez" target="actor" targetSpec="" />I have no patience for that kind
+of immature behavior.</message>
+</msbt>

@@ -1,0 +1,86 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Don't believe we've met.<delay frames="30" />
+<anim id="Greeting" target="actor" targetSpec="" />Name's <tag a="110" b="10" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Fancy meetin' you here,<delay20 /> <anim id="Worried" target="actor" targetSpec="" />uh<delay8 /><tag a="110" b="0" />
+Wherever here is.<delay frames="30" /> I'm a mite fuzzy
+on that part,<delay20 /> <tag a="110" b="5" />.<pageBreak />You're <tag a="110" b="1" />, right?<delay frames="40" />
+<anim id="Shocked" target="actor" targetSpec="" />From <tag a="110" b="34" />?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />You're a long way from home!<delay frames="30" />
+<anim id="Thinking" target="actor" targetSpec="" />Or at least I think you are<delay8 /><tag a="110" b="0" /><pageBreak />Well,<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />we all got our reasons for
+bein' where we are,<delay20 /> I reckon.<delay frames="30" />
+<anim id="Restless" target="actor" targetSpec="" /><colour id="4" />Just need to puzzle out mine<colour id="65535" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Heya!<delay20 /> I'm <tag a="110" b="10" />.<delay frames="30" />
+<anim id="Explain" target="actor" targetSpec="" />Came here on a whim,<delay20 /> but this island
+doesn't seem half bad,<delay20 /> <tag a="110" b="5" />.<pageBreak />Hang on<delay8 /><tag a="110" b="0" /> <anim id="Eh" target="actor" targetSpec="" />You're <tag a="110" b="1" />,<delay20 />
+from <tag a="110" b="34" />,<delay20 /> yeah?<pageBreak />Had <anim id="Negative" target="actor" targetSpec="" />no idea this was some kinda
+trendy destination,<delay20 /> but <anim id="FaintSmile" target="actor" targetSpec="" />it's cool
+to be hobnobbin' with you here!</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wasn't expecting to run into,<delay20 />
+well,<delay20 /> much of anyone out here.<delay frames="30" />
+<anim id="Restless" target="actor" targetSpec="" />Wherever here is,<delay20 /> exactly<delay8 /><tag a="110" b="0" />
+Anyway,<anim id="FaintSmile" target="actor" targetSpec="" /><delay20 /> I'm <tag a="110" b="10" />.<delay frames="30" />
+And <anim id="QuestionMark" target="actor" targetSpec="" />you're<delay8 /><tag a="110" b="0" /><tag a="110" b="1" />,
+from <tag a="110" b="34" />?
+<anim id="Thinking" target="actor" targetSpec="" />Wasn't expectin' a meet and greet
+on this tour,<delay20 /> but then again,<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />I ain't
+sure what I expected to find here.</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />It's good to step away<delay20 /> and look at
+things from a distance sometimes.<pageBreak />Like,<delay20 /> I'm lookin' back and <anim id="Thinking" target="actor" targetSpec="" />wonderin'
+if maybe it's time for me to make
+some kinda change,<delay20 /> shake stuff up<delay8 /><tag a="110" b="0" /></message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Wanna come to my island?</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I know that feeling.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa,<delay20 /> you've felt that way too?<delay frames="40" />
+<anim id="Serious" target="actor" targetSpec="" />Wouldn't have thought a kiddo like
+you<delay20 /> could get jaded and restless.
+<anim id="Thinking" target="actor" targetSpec="" />Reckon I'll try to strike out<delay20 /> for a new
+island sometime in the near future<delay8 /><tag a="110" b="0" /></message>
+	<message label="007" attrib="00 00 01 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Are you really askin' me<delay20 /> to
+move to <tag a="110" b="34" />?<delay frames="40" />
+<anim id="Pardon" target="actor" targetSpec="" />That's<delay8 /><tag a="110" b="0" />quite an invite!
+<anim id="Hesitate" target="actor" targetSpec="" />I almost dunno what to say,<delay20 /> which
+ain't usually a problem for me!<pageBreak />But<delay8 /><tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />you like it there, right?<delay frames="30" />
+Everyone as neighborly as you?</message>
+	<message label="007_a" attrib="00 00 00 00 00 00 00 00">It's a great island!</message>
+	<message label="007_b" attrib="00 00 00 00 00 00 00 00">You'll fit right in!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Gahaha!<delay20 /> I'm just funnin' with you!<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />'Course you love your home island<delay8 /><tag a="110" b="0" />
+Why else would you be invitin' me?
+<anim id="Serious" target="actor" targetSpec="" />So if I contact this <colour id="3" />Tom Nook <colour id="65535" />feller,<delay20 />
+he'll help me with all the paperwork?<delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />I'm no good with that nonsense.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Reckon I oughta start packin' up
+my stuff<delay20 /> just as soon as I get back
+home from here,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Oh<delay8 /><tag a="110" b="0" /> <anim id="Grin" target="actor" targetSpec="" />Guess I won't be callin' that
+place home much longer,<delay20 /> will I?<delay frames="40" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="009_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />There's some useful junk to be found<delay20 />
+around this place.<delay frames="30" /> <anim id="Grin" target="actor" targetSpec="" />Might have to try
+to come back here<delay20 /> now and then<delay8 /><tag a="110" b="0" />
+<anim id="Serious" target="actor" targetSpec="" />That's assumin' I can get that dodo<delay20 />
+to ever tell me where in tarnation
+he dropped us off,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="009_02" attrib="00 00 00 00 00 00 00 00">Is it just me,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />or is the terrain on this
+island<delay20 /> kinda wonky and off-kilter?<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I start strollin' around the place,<delay20 />
+and half expect to <anim id="OhGeez" target="actor" targetSpec="" />circle back and
+run into myself,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="009_03" attrib="00 00 00 00 00 00 00 00">When you were packin' to come here,<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />didja think to bring your tools along?<delay frames="40" />
+'Cause <anim id="Oops" target="actor" targetSpec="" />I sorta forgot mine at home.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />That <colour id="3" />Wilbur<colour id="65535" /> character let me trade
+'im some of my miles for tools,<delay20 /> but
+<anim id="Angry" target="actor" targetSpec="" />what a headache,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="010_01" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I can't even begin to imagine what
+<tag a="110" b="34" /> is gonna be like<delay8 /><tag a="110" b="0" /><pageBreak />But I feel like my luck <anim id="Nodding" target="actor" targetSpec="" />may finally
+be turnin' around,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="010_02" attrib="00 00 00 00 00 00 00 00">To think<delay20 /> <anim id="Hesitate" target="actor" targetSpec="" />that someone like me<delay20 />
+could be invited to live somewhere
+as cool as <tag a="110" b="34" />!
+<anim id="Laughing" target="actor" targetSpec="" />If you'd told me this mornin' that
+I'd be relocatin',<delay20 /> I'd have said<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Well,<delay20 /> ain't sure what I might've said,<delay20 />
+to be frank.<delay frames="30" /> <anim id="FaintSmile" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="5" />,"<delay20 /> maybe?</message>
+	<message label="010_03" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />When I climbed aboard that dodo's
+puddle jumper,<delay20 /> I had no idea where
+I was goin'<delay20 /> or what'd happen there<delay8 /><tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Meetin' you<delay20 /> and gettin' invited to
+move to a whole new home was a
+whale of a surprise,<delay20 /> <tag a="110" b="5" />!</message>
+</msbt>

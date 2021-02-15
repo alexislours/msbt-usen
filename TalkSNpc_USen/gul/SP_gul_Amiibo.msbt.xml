@@ -1,0 +1,14 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 13"><anim id="Greeting" target="actor" targetSpec="" />Ahoy there!<delay20 /> <tag a="110" b="10" /> here.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Who's this? Wait. <size value="75" />Are you that loan shark?<pageBreak /><size value="100" /><anim id="Shocked" target="actor" targetSpec="" />Oh! It's you, <tag a="110" b="1" />!<delay frames="40" />
+<anim id="Sighing" target="actor" targetSpec="" />Phew. <size value="75" />Thought I'd have to go off the grid again.<size value="100" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Well, good to hear from you!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />
+So, what's the scuttlebutt?
+Did you need something?</message>
+	<message label="002" attrib="00 00 00 13"><anim id="HappyDance" target="actor" targetSpec="" />Aye aye! Camping!<delay8 /> Sounds
+like tons o' fun.<pageBreak /><anim id="Eh" target="actor" targetSpec="" />What's that you said?<delay8 /> You hear that
+crackling noise? <delay20 /><anim id="Worried" target="actor" targetSpec="" />It's my phone.<delay20 />
+You're cutting out<tag a="110" b="0" />
+<10_10 /><tag a="10" b="12" /><anim id="Frantic" target="actor" targetSpec="" /><size value="150" />HELLO?<delay8 /> HELLLOOOO?<delay20 />
+I CAN'T HEAR YOU!<size value="100" /><pageBreak /><10_9 /><tag a="10" b="12" /><anim id="OhGeez" target="actor" targetSpec="" /><size value="75" />Sheesh. This thing is always on the fritz.<size value="100" /><delay20 />
+<colour id="5" />Click! <delay8 />Beep, beep, beep<tag a="110" b="0" /><colour id="65535" /></message>
+</msbt>

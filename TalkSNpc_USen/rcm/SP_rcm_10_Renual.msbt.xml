@@ -1,0 +1,90 @@
+<msbt attribsize="4">
+	<message label="002_02" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />We hope you'll continue shopping
+with us here at <colour id="1" />Nook's Cranny<colour id="65535" />!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002_03" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oops. Never mind that<tag a="110" b="0" /> <anim id="FaintSmile" target="actor" targetSpec="" />You were
+looking at this item.</message>
+	<message label="051" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Welcome!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> We did it!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Thanks to your
+efforts,<delay20 /><anim id="HappyFlower" target="actor" targetSpec="" /> we've opened <colour id="1" />Nook's Cranny
+<colour id="65535" />today, <tag a="110" b="1" />!</message>
+	<message label="051_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Welcome!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Yep, we've moved out of <colour id="1" />Resident
+Services<colour id="65535" /> and into our own space.<delay20 /><anim id="HappyDance" target="actor" targetSpec="" />
+<colour id="1" />Nook's Cranny <colour id="65535" />is up and running!</message>
+	<message label="052" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hello!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> This is your first time here<delay20 /><anim id="Hello" target="actor" targetSpec="" />
+in the new shop, isn't it?<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Well, bask in the glory of the newly
+renovated <colour id="1" />Nook's Cranny<colour id="65535" />! You helped
+get us here, you know.</message>
+	<message label="052_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hello!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> This is your first time here<anim id="Hello" target="actor" targetSpec="" /> in
+the new shop, isn't it?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />No more plaza tent for us, because<tag a="110" b="0" /><anim id="HappyDance" target="actor" targetSpec="" />
+<colour id="1" />Nook's Cranny <colour id="65535" />is open for business!</message>
+	<message label="053_01_01" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="Nodding" target="4" targetSpec="N2" />As you can see, <delay8 />we're offering
+ready-made furniture and items that
+can't be made as DIY projects.<pageBreak /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="4" targetSpec="N2" />Also, <delay20 />in the <colour id="1" />back cabinet<colour id="65535" />, with the
+tools and other miscellaneous goods,
+we have <colour id="1" />wallpaper<colour id="65535" /> and <colour id="1" />flooring<colour id="65535" />!</message>
+	<message label="053_01_02" attrib="00 00 00 00"><anim id="Serious" target="mainNpc" targetSpec="" />Please take your time<delay20 /><anim id="Smiling" target="mainNpc" targetSpec="" /> and enjoy
+your shopping trip!<anim id="Nodding" target="subNpc" targetSpec="" /><delay20 /><tag a="100" b="4" /> <size value="75" />...trip!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="053_01_03" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oops. Never mind that<tag a="110" b="0" /> <anim id="FaintSmile" target="actor" targetSpec="" />You were
+looking at this item.</message>
+	<message label="053_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />In our main display area, you'll find
+ready-made furniture<tag a="110" b="0" /><anim id="FaintSmile" target="actor" targetSpec="" /> These are
+items you can't craft as DIY projects.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Our cabinet features<anim id="Smiling" target="actor" targetSpec="" /> tools and
+miscellaneous items such as flooring
+and wallpaper for your place.
+<anim id="Hello" target="actor" targetSpec="" />Are you interested in the cabinet?<delay frames="30" />
+<anim id="Smiling" target="actor" targetSpec="" />Let's look at what we have today.</message>
+	<message label="061_01" attrib="00 00 00 00"><anim id="Thinking" target="mainNpc" targetSpec="" />Hmmm<tag a="110" b="0" /> There was something else<tag a="110" b="0" />
+<anim id="IdeaBulb" target="mainNpc" targetSpec="" /><delay8 /><anim id="Shocked" target="subNpc" targetSpec="" />Oh, right!<pageBreak /><anim id="HappyFlower" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />With our new shop come three new
+services!</message>
+	<message label="061_02" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />First, let's <anim id="Nodding" target="subNpc" targetSpec="" />talk <colour id="1" />turnips<colour id="65535" />.<anim id="FaintSmile" target="subNpc" targetSpec="" /><pageBreak />I've heard the turnip market is about
+to take off here on the island. You'll
+probably see a turnip seller soon.<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />We'll buy any turnips you have on
+hand. <anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" />The price is set in the morning
+and afternoon, so be sure to stop by!
+<anim id="Explain" target="mainNpc" targetSpec="" />One note:<delay20 /><anim id="Negative" target="subNpc" targetSpec="" /> We don't accept turnips
+on Sundays. <delay20 /><anim id="Nodding" target="subNpc" targetSpec="" />That's the day the
+turnip seller visits the island.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="061_03" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />The second new service involves a<anim id="Nodding" target="subNpc" targetSpec="" />
+<colour id="1" />hot item of the day<colour id="65535" />.<anim id="Smiling" target="subNpc" targetSpec="" /><pageBreak />The "hot" item will change every day.
+If you bring one in to sell, we'll give
+you <colour id="1" />double<colour id="65535" /> its normal price!<pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" />You can check the hot item of the
+day on the <anim id="Nodding" target="subNpc" targetSpec="" />sign in front of the shop
+or by asking us directly.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="061_04" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />And the last new<anim id="Nodding" target="subNpc" targetSpec="" /> service we're
+offering is the <colour id="1" />drop-off box<colour id="65535" />. You can
+find it in front of the shop.<anim id="FaintSmile" target="subNpc" targetSpec="" /><pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" />Say you're in a hurry, or the shop is
+closed. You can just drop off any
+items you want to sell.<delay frames="40" /><anim id="Smiling" target="subNpc" targetSpec="" /> Easy, right?
+<anim id="Explain" target="mainNpc" targetSpec="" />We'll pay you later by sending the
+funds directly to your bank account.<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="ShyBoy" target="subNpc" targetSpec="" />Two notes, though:<delay8 /> We do charge a
+handling fee. And please don't put
+"hot" items or turnips in the box.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="061_05" attrib="00 00 00 00"><tag a="110" b="0" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />And I think that wraps it up!</message>
+	<message label="101" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Guess what, <tag a="110" b="1" /><tag a="110" b="0" /><delay frames="40" />
+<anim id="Aha" target="actor" targetSpec="" />I have some big news to share!</message>
+	<message label="101_01" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh! This is important!<delay frames="30" /><anim id="FaintSmile" target="actor" targetSpec="" /> I have some
+big news to share with you<tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><colour id="1" />Nook's Cranny<colour id="65535" /> has been blessed with
+a lot of business <anim id="Nodding" target="actor" targetSpec="" />since we first
+opened up here<tag a="110" b="0" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />But this is no time to sit back and
+relax.<delay frames="30" /> <anim id="Explain" target="actor" targetSpec="" />We've got even bigger things
+in mind<tag a="110" b="0" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />We're expanding the shop again!</message>
+	<message label="103" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />This might seem a bit sudden, but
+we'll be closed tomorrow so that we
+can begin construction right away.
+<anim id="ShyBoy" target="actor" targetSpec="" />I know, I know<tag a="110" b="0" /> A whole day with no
+shop<tag a="110" b="0" /><anim id="Nodding" target="actor" targetSpec="" /> But we'll see you again in two
+days, right?<delay20 /><anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="151" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Welcome to our newly renovated and
+expanded shop!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm so glad you stopped by to visit us
+<anim id="Hello" target="actor" targetSpec="" />on our very first day in action!</message>
+	<message label="151_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />! Welcome!<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />This is your first visit since
+we renovated, right?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />As you can see, <delay8 /><anim id="Hello" target="actor" targetSpec="" />we're operating out
+of this new space now.</message>
+	<message label="152" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />We hope you'll continue shopping
+with us here at <colour id="1" />Nook's Cranny<colour id="65535" />!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="152_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oops. Never mind that<tag a="110" b="0" /> <anim id="FaintSmile" target="actor" targetSpec="" />You were
+looking at this item.</message>
+	<message label="152_02" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Curious about the cabinet?<delay frames="30" /><anim id="Smiling" target="actor" targetSpec="" /> Here's
+what we have available today.</message>
+</msbt>

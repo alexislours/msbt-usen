@@ -1,0 +1,190 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />This might seem like it's comin'
+outta nowhere<tag a="110" b="0" /><delay20 />but you wanna buy
+my <tag a="125" b="0" arg="0x0" />?</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />How much?</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">I think I'm good.</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Whaddaya think about this thing
+here I wanna sell you?<delay20 /><anim id="BigSmile" target="actor" targetSpec="" />
+<tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Have a price in mind?</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">I'll pass.</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />there's some things I've been
+tryin' to get a hold of,<delay20 /> but I'm too
+short—<delay frames="40" />on Bells, I mean...<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Soooo, I'm tryin' to sell some of my
+stuff. <delay20 />Ya know, things that aren't too<tag a="110" b="0" />finger-printy<tag a="110" b="0" /><delay20 /><anim id="OhGeez" target="actor" targetSpec="" /><delay20 />or broken.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Wanna buy something maybe? I got
+four things for ya to check out!</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Whaddaya got?</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Hm. No, thanks.</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />I was shopping <delay20 />and I bought
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><delay20 />
+and I dunno why.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Anyway,<delay8 /> I already got one<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" /> So I
+was wondering if you'd maybe buy
+this one from me?</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />How much?</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00">I'm good without.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh.<delay8 /> Umm<tag a="110" b="0" /> OK.<delay8 /> It's cool. I'll ask
+around and see if anybody else
+wants it, then.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />No worries.<anim id="FaintSmile" target="actor" targetSpec="" /><delay20 /> There's a buncha folks
+I can ask.<delay20 /> I just figured I'd ask
+you first!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00">No worries.<delay20 /> I'll check with some
+other folks.<delay20 /> Maybe I'll have better
+luck that way, <tag a="110" b="5" />.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Ah, that's cool.<delay20 /> Maybe I can return
+it<tag a="110" b="0" /><10_4 /> Huh. <anim id="Thinking" target="actor" targetSpec="" />I hope I bought a receipt
+too. Hmm<tag a="110" b="0" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Neat, <delay8 />thank you!<delay frames="40" /> <anim id="Shocked" target="actor" targetSpec="" />But you don't got
+enough Bells.<delay frames="60" /> <anim id="Negative" target="actor" targetSpec="" />Sorry<tag a="110" b="0" /> No Bells,
+no deal.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="100" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I was thinkin' I'd ask for something
+like <tag a="90" b="21" arg="0x2" /><tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /><delay20 /> How's that sound?</message>
+	<message label="100_a" attrib="00 00 00 00 00 00 00 00">Deal!
+I'll take it!</message>
+	<message label="100_b" attrib="00 00 00 00 00 00 00 00">That's a bit steep...
+I think I'll pass.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh, wow!<delay frames="40" /> Thanks bunches!<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />If you're
+ready now,<delay8 /> let's go ahead and swap!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">I hope you enjoy it as much<delay20 /> as
+I thought I was gonna!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />I dunno<tag a="110" b="0" /> It'd be a waste to just get
+rid of it. Sooo<tag a="110" b="0" /><delay8 /><anim id="BigSmile" target="actor" targetSpec="" /><delay20 />since we're snack
+buddies, you can take it—<delay8 />for free!
+<anim id="Love" target="actor" targetSpec="" />With friends like you,<delay8 /> who needs
+Bells.<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />Not me, <tag a="110" b="5" />!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00">I'm just happy to get rid of it.
+<anim id="Laughing" target="actor" targetSpec="" /><delay20 />But I'm even happier that you've
+got it now!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Too much for you?<delay frames="40" /> OK, cool.
+<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />I'll keep asking around, then<tag a="110" b="0" /></message>
+	<message label="200" attrib="00 00 04 00 00 00 00 00">I was thinking something like
+<tag a="90" b="21" arg="0x4" /><tag a="110" b="0" /> How's that sound?</message>
+	<message label="200_a" attrib="00 00 00 00 00 00 00 00">That's expensive!
+That's kinda pricey!</message>
+	<message label="200_b" attrib="00 00 00 00 00 00 00 00">I can do that.
+Sure, why not.</message>
+	<message label="200_c" attrib="00 00 00 00 00 00 00 00">On second thought...
+I'll pass for now.</message>
+	<message label="201" attrib="00 00 02 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> I guess you're right.<delay20 /> <anim id="Oops" target="actor" targetSpec="" />I was
+just thinking of all the snacks I could
+buy with that many Bells...
+<anim id="QuestionMark" target="actor" targetSpec="" />What about, uh,<delay8 /> <tag a="90" b="21" arg="0x2" />?<delay20 />
+Would that be cool?</message>
+	<message label="201_a" attrib="00 00 00 00 00 00 00 00">That works for me.
+Can do.</message>
+	<message label="201_b" attrib="00 00 00 00 00 00 00 00">That's still a lot...
+Still too much...</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Awesome!<delay20 /> Thanks a ton!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />All I ask is that you promise you'll
+take good care of it!<10_4 /> <anim id="Laughing" target="actor" targetSpec="" /><delay20 />That's what
+Grandma always says!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh.<delay20 /> That's too bad<tag a="110" b="0" /><anim id="Nodding" target="actor" targetSpec="" />but it's cool.
+It's cool, even if it's too bad!</message>
+	<message label="205" attrib="00 00 02 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />It's STILL too much?<delay20 /> <anim id="Restless" target="actor" targetSpec="" />Well, uh<tag a="110" b="0" />what
+if I lowered it to<tag a="110" b="0" /><tag a="90" b="21" arg="0x1" />?</message>
+	<message label="205_a" attrib="00 00 00 00 00 00 00 00">You got a deal!
+I can afford that.</message>
+	<message label="205_b" attrib="00 00 00 00 00 00 00 00">Still too expensive.
+Hmm... I dunno...</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Aw,<delay8 /> that's as low as I can go<tag a="110" b="0" />
+<anim id="SadSpiral" target="actor" targetSpec="" />Whatta shame, <tag a="110" b="5" />!</message>
+	<message label="207" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Um<tag a="110" b="0" /> What about<anim id="Nodding" target="actor" targetSpec="" /> <tag a="90" b="21" arg="0x0" />?<delay frames="40" />
+But I can't <anim id="Negative" target="actor" targetSpec="" />go any lower than that.<delay frames="40" />
+The bugs in my floor'll get mad!</message>
+	<message label="207_a" attrib="00 00 00 00 00 00 00 00">Deal!
+Sold!</message>
+	<message label="207_b" attrib="00 00 00 00 00 00 00 00">I don't need it.
+I'll pass.</message>
+	<message label="208" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Great!<delay20 /> Thanks, buddy!</message>
+	<message label="209" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />You're real good at gettin' deals.<delay20 /><anim id="Love" target="actor" targetSpec="" />
+I could really learn some stuff
+from you!</message>
+	<message label="210" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />That's too bad.<delay20 /> I had fun<anim id="Smiling" target="actor" targetSpec="" /> doing
+a bargaining with you anyway!<delay20 /><anim id="Laughing" target="actor" targetSpec="" />
+Let's do it again sometime!</message>
+	<message label="300" attrib="00 00 02 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa!<delay20 /> OK,<delay8 /> lemme see<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /> Howzabout<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
+for, um<tag a="110" b="0" /><tag a="90" b="21" arg="0x1" />?</message>
+	<message label="300_a" attrib="00 00 00 00 00 00 00 00">I'll take it!
+Sure. I can do that.</message>
+	<message label="300_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Have anything else?
+<anim id="EmotEnd" target="actor" targetSpec="" />What else ya got?</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Cheering" target="actor" targetSpec="" />Hooray!<delay8 /> Thanks a bunch!<delay20 /> <anim id="Love" target="actor" targetSpec="" />You're the
+best, <tag a="110" b="3" />!</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Now that you've helped me out,<delay8 />
+I can finally get my mitts<anim id="AbsentMindedness" target="actor" targetSpec="" /> on all
+them snacks I've been dreaming of!</message>
+	<message label="303" attrib="00 00 02 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Umm<tag a="110" b="0" /> If that's not your thing,<delay8 />
+maybe you'd like, uh<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
+for, hmm<tag a="110" b="0" /><tag a="90" b="21" arg="0x1" />?</message>
+	<message label="303_a" attrib="00 00 00 00 00 00 00 00">Sounds good!
+I think I can do that.</message>
+	<message label="303_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />What else ya got?
+<anim id="EmotEnd" target="actor" targetSpec="" />Anything else?</message>
+	<message label="304" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> Maybe you'd be more into
+something like, uh<tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
+for an even<tag a="110" b="0" /><tag a="90" b="21" arg="0x1" />?</message>
+	<message label="304_a" attrib="00 00 00 00 00 00 00 00">Works for me!
+Yes, please!</message>
+	<message label="304_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Anything else?
+<anim id="EmotEnd" target="actor" targetSpec="" />Is that all you have?</message>
+	<message label="305" attrib="00 00 02 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?<delay20 /> OK,<delay8 /> but<delay8 /><anim id="Frantic" target="actor" targetSpec="" /> this is the last thing
+I've got to offer!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> How'd ya like<tag a="110" b="0" /><pageBreak /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />
+for, <delay8 />um<tag a="110" b="0" /><delay20 /><tag a="90" b="21" arg="0x1" />?</message>
+	<message label="305_a" attrib="00 00 00 00 00 00 00 00">You've got a deal!
+I'll take it!</message>
+	<message label="305_b" attrib="00 00 00 00 00 00 00 00">I think I'll pass.
+I'll pass. Sorry.</message>
+	<message label="306" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Well,<delay8 /> I'm all out of stuff!<delay20 /> Sorry I
+didn't have anything ya wanted<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I sure hope <delay8 />somebody <delay8 />wants
+this junk! <anim id="Sleepy" target="actor" targetSpec="" />I'm gett'n sleepy haul'n
+it around, <tag a="110" b="6" />!</message>
+	<message label="400" attrib="00 00 02 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh, wow.<delay20 /> You want it?<delay20 /> Is, uh<tag a="110" b="0" />
+<tag a="90" b="21" arg="0x3" /> cool?</message>
+	<message label="400_a" attrib="00 00 00 00 00 00 00 00">Works for me!
+Sounds good.</message>
+	<message label="400_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Can you go cheaper?
+<anim id="EmotEnd" target="actor" targetSpec="" />That's a bit much...</message>
+	<message label="401" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Yes!<delay8 /> I was hoping you'd say that.<delay20 />
+OK, here ya go!</message>
+	<message label="402" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You're the best!<delay20 /> Next time I'm in
+a jam—<delay20 />or stuck in a jam jar—<delay20 /><anim id="Love" target="actor" targetSpec="" /><delay20 />I'm
+calling you first!</message>
+	<message label="403" attrib="00 00 02 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Well, uh<tag a="110" b="0" />I guess I could maybe say
+a number like<tag a="110" b="0" /><tag a="90" b="21" arg="0x2" />?<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />
+Would that be a cool number?</message>
+	<message label="403_a" attrib="00 00 00 00 00 00 00 00">Sure. That works.
+Works for me!</message>
+	<message label="403_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />That's still a bit steep.
+<anim id="EmotEnd" target="actor" targetSpec="" />Can you go cheaper?</message>
+	<message label="404" attrib="00 00 02 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Uhh<tag a="110" b="0" /> Well,<delay8 /> what about <tag a="90" b="21" arg="0x1" />?<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />That's a pretty good deal, right?</message>
+	<message label="404_a" attrib="00 00 00 00 00 00 00 00">Yeah, I can do that.
+I'll take it!</message>
+	<message label="404_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Can you go lower?
+<anim id="EmotEnd" target="actor" targetSpec="" />Maybe a bit lower?</message>
+	<message label="405" attrib="00 00 02 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />OK! Let's, um, money talk!
+I'm gonna say<tag a="110" b="0" /><tag a="90" b="21" arg="0x0" />!
+<anim id="Nodding" target="actor" targetSpec="" />That's a money number.<pageBreak /><anim id="Frantic" target="actor" targetSpec="" /><delay20 />And it's the tiniest money number
+I can say!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="405_a" attrib="00 00 00 00 00 00 00 00">You've got a deal.
+Works for me!</message>
+	<message label="405_b" attrib="00 00 00 00 00 00 00 00">Meh. Forget it.
+I'll pass. Sorry.</message>
+	<message label="406" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Yes!<delay20 /> Finally!<delay20 /> I was startin' to worry
+I'd have two of these things at my
+place<anim id="Negative" target="actor" targetSpec="" /> for forever, <tag a="110" b="6" />!</message>
+	<message label="407" attrib="00 00 00 00 00 00 00 00">Oh yeah, I'm gonna buy soooo many
+SNACKS with these Bells!<delay20 /><anim id="Laughing" target="actor" targetSpec="" /><delay20 /> So! <delay20 />Many!</message>
+	<message label="408" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Well, alright<tag a="110" b="0" /> If you don't want it,<delay8 />
+I'll go ask someone else.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />But, uh<tag a="110" b="0" />
+thanks, <tag a="110" b="6" />!</message>
+	<message label="409" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Sorry, I can't say a smaller number.<delay frames="40" />
+A huh huh, I could say one, <anim id="Laughing" target="actor" targetSpec="" /><delay20 />but not
+as a price.</message>
+	<message label="410" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />That's the smallest price I can do
+for this.<delay20 /> <anim id="Frantic" target="actor" targetSpec="" />Even though I wanna get
+rid of it,<delay8 /> I still need them Bells!</message>
+	<message label="411" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Sorry, buddy.<delay8 /> I can't go any lower
+than that<tag a="110" b="0" /><anim id="Restless" target="actor" targetSpec="" /> I need the snack money!</message>
+</msbt>

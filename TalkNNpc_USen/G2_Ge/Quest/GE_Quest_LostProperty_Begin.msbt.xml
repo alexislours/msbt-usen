@@ -1,0 +1,129 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Huh.<delay20 /> Where'd my bag go?<delay40 /> <anim id="Worried" target="actor" targetSpec="" />Oh no.
+I think I've lost it<tag a="110" b="0" /></message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I can look for it.</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yikes.</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />UGH! <delay20 />I lost my favorite bag<anim id="SadSpiral" target="actor" targetSpec="" /> and I
+don't know where!<delay20 /> This is<tag a="110" b="0" /><delay40 />it's<tag a="110" b="0" /><anim id="Crying" target="actor" targetSpec="" />the
+END OF THE WORLD!</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">I'll go look for it!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You poor thing.</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Have you seen my bag?<delay40 /> <anim id="Thinking" target="actor" targetSpec="" />I guess I
+dropped it somewhere.<delay20 /> Maybe?<anim id="BrokenHeart" target="actor" targetSpec="" /><delay20 />
+I don't know, but I can't find it!</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">I'll go find it for you!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Keep your chin up!</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />I must have left my bag somewhere.
+But I've got no idea where!
+<anim id="Sighing" target="actor" targetSpec="" />What a total pain<tag a="110" b="0" /></message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I'll help you look!</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I wonder where it went?</message>
+	<message label="006" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My favorite restaurant comic right
+now is Dinosaur Diner: The Booger
+Sandwiches <tag a="50" b="3" /><tag a="110" b="17" /> Special and<tag a="110" b="0" />
+<anim id="Worried" target="actor" targetSpec="" />I seem to have lost it? <anim id="Frantic" target="actor" targetSpec="" />I tried looking
+for it,<delay20 /> but I can't find it anywhere!</message>
+	<message label="006_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Want me to go find it?</message>
+	<message label="006_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yikes.</message>
+	<message label="007" attrib="00 00 02 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />I've lost track of my favorite comic
+book. <delay20 /><anim id="Worried" target="actor" targetSpec="" />I must have left it somewhere.<delay20 />
+I guess?</message>
+	<message label="007_a" attrib="00 00 00 00 00 00 00 00">I'll go look for it!</message>
+	<message label="007_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You poor thing.</message>
+	<message label="008" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I've been looking forever, <delay20 /><anim id="SadSpiral" target="actor" targetSpec="" />but I can't
+find my autograph book anywhere<tag a="110" b="0" />
+It's really important to me!</message>
+	<message label="008_a" attrib="00 00 00 00 00 00 00 00">I'll go find it for you!</message>
+	<message label="008_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Keep your chin up!</message>
+	<message label="009" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" /><delay20 />So<tag a="110" b="0" /><delay40 />I lost my autograph book<tag a="110" b="0" />
+<anim id="SadSpiral" target="actor" targetSpec="" />and it's super important to me.<10_4 />
+<anim id="Crying" target="actor" targetSpec="" /><delay20 />This is the WORST!</message>
+	<message label="009_a" attrib="00 00 00 00 00 00 00 00">I'll help you look!</message>
+	<message label="009_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I wonder where it went?</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />You'll help me find it?!<delay40 /> <anim id="HappyDance" target="actor" targetSpec="" />You're the
+BEST! Thank you so much!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />No way! <delay20 />You'll help me look for it?<delay40 />
+<anim id="HappyDance" target="actor" targetSpec="" /><delay20 />You're le best, <tag a="110" b="3" />!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Really? <delay20 />For real?!<delay40 /> <anim id="Blushing" target="actor" targetSpec="" />Aww, that's super
+nice of you.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Really? <delay frames="40" />You'll help? <delay20 /><anim id="HappyDance" target="actor" targetSpec="" /><delay20 />Thank you
+SOOOOOOOOOOOO much!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />If we search together, we'll DEF
+find it super fast!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />I have no idea where I lost it.<delay20 />
+No idea at all!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" /><tag a="110" b="0" /><delay20 />I can sigh all I want, <delay20 /><anim id="Negative" target="actor" targetSpec="" />but I can't
+just sit around and mope about it.<delay40 />
+I mean<tag a="110" b="0" />I WANT to<tag a="110" b="0" /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" />But I have to think positive!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Thanks anyway, <tag a="110" b="3" />.<delay40 />
+<anim id="Nodding" target="actor" targetSpec="" />Maybe I'll retrace my steps?
+That sounds like a thing to try.</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" /><delay20 />Well, that's the mystery, isn't it?<delay40 /><anim id="Restless" target="actor" targetSpec="" />
+Guess I'll keep looking<tag a="110" b="0" /></message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Really?!<delay40 /> <anim id="Smiling" target="actor" targetSpec="" />You're a HUUUUUGE help!<delay40 />
+<anim id="Greeting" target="actor" targetSpec="" />Let me know when you find it!</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You'll help me look for it?!<delay40 /> <anim id="Love" target="actor" targetSpec="" />You're
+the best bestie EVER!<delay40 /> I owe you
+big-time!</message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Really? <delay20 />You're too cool. <10_4 /><anim id="Crying" target="actor" targetSpec="" />I'm SO glad I
+talked to you about this! <delay20 />These are
+happy tears, B-T-dubs<tag a="110" b="0" /></message>
+	<message label="023" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Yay! <delay20 />Are you sure?!<delay40 /> Thank you
+SO much!</message>
+	<message label="024" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />No worries.<delay40 /> I hope I can find it soon.</message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Sigh<tag a="110" b="0" /><delay40 /> This is the worst.<delay20 /> <anim id="Negative" target="actor" targetSpec="" />I guess I
+shouldn't mope.<delay20 /> I should go out
+and find it!</message>
+	<message label="026" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Thanks anyway.<delay40 /> <anim id="Nodding" target="actor" targetSpec="" />It has to be
+somewhere,<delay20 /> so I guess I'll
+keep looking!</message>
+	<message label="027" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Well, it has to be somewhere<tag a="110" b="0" /><delay20 />
+<anim id="Worried" target="actor" targetSpec="" />I hope?</message>
+	<message label="101" attrib="00 00 02 00 00 00 00 00">Have you seen my bag<anim id="QuestionMark" target="actor" targetSpec="" /> anywhere
+around here, <tag a="110" b="3" />?<delay20 /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />I lost it<tag a="110" b="0" />which is le lame.<delay40 /> I'm looking
+for it, but I can't find it, and that's
+très le lame!</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00">I'll find it for you!</message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00">Haven't seen it.</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Argh, <delay20 />this is the WORST!<delay40 /> I lost my
+favorite bag this morning<delay20 /> and
+that is a HUGE problem<tag a="110" b="0" /><pageBreak /><anim id="Confused" target="actor" targetSpec="" />I can't carry my stuff in my arms.
+That is so last year's style!<delay frames="40" /> I have
+to look on trend at all times, 'K?!</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Want me to go look?</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's too bad...</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Whoa, <delay20 />really?!<delay40 /> <anim id="Smiling" target="actor" targetSpec="" />You're as cool as
+they come, <tag a="110" b="3" />!<delay40 /><anim id="Greeting" target="actor" targetSpec="" />
+Let me know when you find it!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Yeah, story of my day<tag a="110" b="0" /><delay40 /> <anim id="Greeting" target="actor" targetSpec="" />Well,
+I'll keep looking—but if you
+run into it, let me know!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />You'll go look for me?!<delay40 /> <anim id="Blushing" target="actor" targetSpec="" />That's totes
+fantastic of you, <tag a="110" b="3" />!
+Good luck!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />And after I put all that work into
+collecting them!<delay20 /> <anim id="Crying" target="actor" targetSpec="" />This is so totally
+majorly completely lousy.</message>
+	<message label="201" attrib="00 00 02 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Listen, <tag a="110" b="3" />!<delay40 /> <anim id="Worried" target="actor" targetSpec="" />I can't
+find my autograph book, and it's
+totes super important!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />There's an autograph from <delay20 /><colour id="3" />K.K.
+<colour id="65535" />in there! <delay40 /><anim id="Frantic" target="actor" targetSpec="" />I so can't not have that
+autograph book, <tag a="110" b="3" />!</message>
+	<message label="201_a" attrib="00 00 00 00 00 00 00 00">I'll find it for you!</message>
+	<message label="201_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Too bad.</message>
+	<message label="202" attrib="00 00 02 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />I've lost my autograph book<tag a="110" b="0" /><delay40 />
+<anim id="Confused" target="actor" targetSpec="" />I've looked and looked and looked,
+but I can't find it anywhere!<pageBreak /><anim id="Crying" target="actor" targetSpec="" />That book is<tag a="110" b="0" />it's<tag a="110" b="0" />a major treasure!<delay20 />
+And I lost it!<delay20 /> Whyyyyyy?!</message>
+	<message label="202_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Want me to go look?</message>
+	<message label="202_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Keep your chin up.</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Are you sure it's OK?!<delay40 /> <anim id="Blushing" target="actor" targetSpec="" />Thank you
+SO MUCH, <tag a="110" b="3" />!<delay40 />
+Knew I could depend on you!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" /><delay20 />I guess this means I have to get
+those autographs all over again.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Whoa! <delay40 />Really?!<delay40 /> <anim id="Blushing" target="actor" targetSpec="" />Ohmigosh!
+I hope you can find it!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Thanks anyway<tag a="110" b="0" /><delay40 /><anim id="Negative" target="actor" targetSpec="" /> You know what?
+I'm not going to mope! <anim id="Greeting" target="actor" targetSpec="" />I'm heading
+out to search some more!</message>
+</msbt>

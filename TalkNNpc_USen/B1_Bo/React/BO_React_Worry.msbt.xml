@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 06 00"><anim id="Surprised" target="actor" targetSpec="" />Ahh! <delay8 />You surprised me!<delay40 /> <10_9 /><20_2 arg="6" /><anim id="Worried" target="actor" targetSpec="" />Man, I almost
+jumped outta my own mouth!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Before you scared me, I was after
+<tag a="50" b="2" /><delay20 /><tag a="135" b="7" arg="0xcd00" />, <anim id="Hesitate" target="actor" targetSpec="" />so I'm
+gonna find some and calm down.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 06 00"><anim id="Shocked" target="actor" targetSpec="" />I WANNA EAT THE PUDDING!<10_4 />
+<10_9 /><20_3 arg="6" />What?<delay20 /> Oh, it's you!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Um<tag a="110" b="0" /> I'm busy thinking right now.<delay20 />
+<anim id="Worried" target="actor" targetSpec="" />Let's talk later, OK?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><colour id="4" /><anim id="Thinking" target="mainNpc" targetSpec="" />Is chocolate a condiment? Man<tag a="110" b="0" />
+Tough questions on a <tag a="110" b="18" />.<10_4 /><colour id="65535" />
+<10_10 /><anim id="Surprised" target="actor" targetSpec="" />AHHH! You scared me!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><10_9 /><20_2 arg="6" /><20_3 arg="6" /><anim id="Restless" target="actor" targetSpec="" />I'm<delay8 /> thinking real hard right now<delay20 />
+<anim id="Confused" target="actor" targetSpec="" />about real important stuff. Come
+back later.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

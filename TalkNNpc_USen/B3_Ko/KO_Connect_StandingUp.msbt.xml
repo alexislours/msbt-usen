@@ -1,0 +1,20 @@
+<msbt attribsize="8">
+	<message label="101" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Much better,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="102" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />OK.<delay20 /> Let's hear it, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="103" attrib="00 00 0c 01 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Can you start over,<delay20 /> <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="201_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Well,<delay20 /> if it ain't <tag a="110" b="3" />!<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />Hang on a tick,<delay20 /> lemme stand up
+here,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="201_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />What's up,<delay20 /> <tag a="110" b="3" />?<delay40 /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Wait a sec<delay20 /> while I stand myself
+up,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="201_03" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Need somethin',<delay20 /> <tag a="110" b="3" />?<delay40 /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />Hold on,<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />I'll stand up.<delay40 /> Don't wanna
+be rude,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Well,<delay20 /> if it ain't <tag a="110" b="3" />!<delay40 /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />Hang on a tic,<delay20 /> lemme stand up
+here,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="202_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />What's up,<delay20 /> <tag a="110" b="3" />?<delay40 /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Wait a sec<delay20 /> while I stand myself
+up,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Need somethin',<delay20 /> <tag a="110" b="3" />?<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />Hold on,<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />I'll stand up.<delay40 /><pageBreak />Don't wanna be rude,<delay20 /> <tag a="110" b="5" />.</message>
+</msbt>

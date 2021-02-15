@@ -1,0 +1,64 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="4" />?
+Don'tcha think <tag a="110" b="31" arg="0xcd01" />
+<anim id="Pardon" target="actor" targetSpec="" />acts real cool and mature?<anim id="Shocked" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00">What's with the sudden compliments,<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd00" />? <anim id="Silent" target="actor" targetSpec="" />I don't have any
+food to give you.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00">I mean it! <anim id="Cheering" target="actor" targetSpec="" />You're real tough and
+smart! You're just the bestest!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 10 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Gahaha! <anim id="FaintSmile" target="actor" targetSpec="" />Sounds like I'm finally
+getting some respect around here!<pageBreak /><20_2 arg="6" /><20_3 arg="8" /><anim id="Serious" target="actor" targetSpec="" />Oy! <tag a="50" b="3" /><tag a="110" b="3" />!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Don't you have anything to <anim id="Pardon" target="actor" targetSpec="" />say to
+me too?</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00">You're so handsome!</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00">You're so stubborn!</message>
+	<message label="004_c" attrib="00 00 00 00 00 00 00 00">You're so scary!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><anim id="Smiling" target="mainNpc" targetSpec="" />Y—ya think so? All these
+compliments are making
+my elbows feel squirmy!<pageBreak /><20_2 arg="7" /><anim id="EmotEnd" target="actor" targetSpec="" />What next, flying pigs?!
+<anim id="Laughing" target="actor" targetSpec="" />Gahaha, <tag a="110" b="6" />!<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />R-right<tag a="110" b="0" /> Are you trying to
+compliment me? Because you're
+off the mark, <tag a="110" b="5" /><tag a="110" b="0" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_2 arg="7" /><anim id="SadSpiral" target="actor" targetSpec="" />D-dagnabbit<tag a="110" b="0" /><delay frames="40" /> Is my face really
+that scary?</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="110" b="31" arg="0xcd01" />? Is it true you
+have a great singing voice?<delay20 />
+<anim id="Pardon" target="actor" targetSpec="" />I wanna hear you sing!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">I dunno, kid<tag a="110" b="0" /><delay frames="40" /> I only know the one
+song and, well, it's special to me.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I don't wanna just go <anim id="Negative" target="actor" targetSpec="" />singin' it
+<delay8 />whenever, y'know?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Ya know that old cowboy song,
+"Occasional Cowboy Party"?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I heard <tag a="110" b="31" arg="0xcd01" /> can sing it
+real good.<pageBreak /><20_3 arg="6" /><anim id="Serious" target="actor" targetSpec="" />Can you help me convince him to
+sing it now, <anim id="Apologize" target="actor" targetSpec="" /><tag a="110" b="4" />?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Aw, no need to butter my muffin,
+kiddo. I don't want to brag, but
+yeah, I do sing it pretty well.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Butter?<10_4 />
+Muffin?<10_4 />
+I didn't know you had muffins.<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />I want a muffin.
+Give me a muffin.<anim id="Shocked" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Muffins? What in tarnation do you—
+<20_2 arg="8" />We were talking about a SONG,
+<20_2 arg="7" />now you're on about muffins?!<anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />You don't have muffins?<10_4 />
+<anim id="Crying" target="actor" targetSpec="" /><anim id="Oops" target="subNpc" targetSpec="" />I'm so confuuused!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Which do you think is sweeter,
+<tag a="110" b="31" arg="0xcd01" />?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="135" b="7" arg="0xcd00" /> or<tag a="110" b="0" />um<tag a="110" b="0" />uh<tag a="110" b="0" /><delay20 />
+<anim id="IdeaBulb" target="actor" targetSpec="" /><tag a="135" b="7" arg="0xcd01" />, <tag a="110" b="6" />?</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hrmmm<tag a="110" b="0" /><delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />I don't care for sweets.<delay20 />
+They're a waste of teeth!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />But that "<tag a="110" b="5" />" you just
+said—<anim id="Grin" target="actor" targetSpec="" />that's pretty good.<anim id="Eh" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00">Huh? You mean, "<tag a="110" b="5" />"?<delay frames="60" />
+<anim id="TakenAback" target="actor" targetSpec="" />There's something you like?!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Of course I like things! For example,<anim id="Angry" target="actor" targetSpec="" />
+<delay20 />I like not liking things!<delay40 /> I like it a lot!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Anyhow, I don't suppose you'd mind
+if I used that catchphrase too?</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />You bet! Go ahead and use it
+all ya want!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Thanks, squirt!<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Gotta switch
+things up every once in a
+while, <tag a="110" b="6" />!</message>
+</msbt>

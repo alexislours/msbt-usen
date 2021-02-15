@@ -1,0 +1,10 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You keep comin' up to me and not
+saying much.<delay20 /> Did something happen?<delay20 />
+Do you need to talk about it?<setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Quit showerin' me with attention,
+<tag a="110" b="6" />, or you're gonna give
+me a complex.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wow, <tag a="110" b="5" /><tag a="110" b="0" /><delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />There's really
+no one you'd rather talk to?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

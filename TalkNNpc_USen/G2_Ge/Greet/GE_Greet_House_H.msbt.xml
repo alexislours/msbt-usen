@@ -1,0 +1,7 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><delay20 />Yay! <delay20 /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> is hanging
+out here too!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> and me are
+hanging out today!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Thanks for coming over! <anim id="HappyDance" target="actor" targetSpec="" /><delay20 />Another one of my friends is here! That's so cool!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

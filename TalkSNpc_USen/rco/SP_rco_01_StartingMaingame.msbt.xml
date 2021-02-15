@@ -1,0 +1,114 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><tag a="50" b="3" /><tag a="110" b="1" />!<pageBreak />Are you in there? <delay20 />Oh, I hope I
+haven't woken you abruptly.<pageBreak />Ah, but I do wish to discuss
+something with you. <delay20 />Yes, yes!<delay8 />
+I'll be here when you're ready.</message>
+	<message label="002" attrib="01 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah, there you are.<delay20 /> I hope you
+had a pleasant nap.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Or, well<tag a="110" b="0" />I suppose it was a bit
+more than a nap, wasn't it?<delay20 />
+<anim id="Aha" target="actor" targetSpec="" />It's a brand-new day!</message>
+	<message label="002_a" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I slept that long?!</message>
+	<message label="002_b" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Wow. I needed that.</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Oh ho ho!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Yes, it's quite normal
+to be worn out from such a long
+trip—and a major life event!
+<anim id="EmotEnd" target="actor" targetSpec="" />Speaking of which<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I have a few more things that you
+might find useful as you adjust to
+life in our little paradise.</message>
+	<message label="004_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />First, you'll need one of these, yes?</message>
+	<message label="004_02" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />It's your very own <colour id="1" />NookPhone<colour id="65535" />!<delay20 />
+I had these made especially for
+island residents.</message>
+	<message label="004_03" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ah, <delay20 />I want to make sure it's working
+right, so<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> could you try<delay8 /><anim id="Hello" target="actor" targetSpec="" /> turning it on
+for me, hm?</message>
+	<message label="004_04" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Good, good.<delay20 /> Looks like you're
+getting <anim id="Smiling" target="actor" targetSpec="" />good reception as well.<pageBreak />OK, feel free to put it away now.</message>
+	<message label="005" attrib="04 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Say, <tag a="110" b="1" />,<delay20 /> have you
+<anim id="QuestionMark" target="actor" targetSpec="" />ever used a <colour id="1" />smartphone<colour id="65535" /> before?</message>
+	<message label="005_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Sure have!</message>
+	<message label="005_b" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />I have one of my own!</message>
+	<message label="005_c" attrib="00 00 00 00"><anim id="Negative" target="player" targetSpec="" />Nope, never.</message>
+	<message label="006_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Very good!<delay20 /> Then this should be a
+breeze for you.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />In fact, these NookPhones are
+rather easier to operate than
+ordinary phones.
+<anim id="Nodding" target="actor" targetSpec="" />Oh, yes. <delay20 />We simply removed most
+of the features! <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Oho!</message>
+	<message label="006_02" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Very good!<delay20 /> Then this should be a
+breeze for you.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />In fact, I think you'll find it much
+more useful than the phone you
+already have.</message>
+	<message label="006_03" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Is that so?<delay frames="40" /> <anim id="Cheering" target="actor" targetSpec="" />How wonderful of you!<delay20 />
+I daresay, you seem especially well
+suited for life on this rustic island.
+<anim id="Smiling" target="actor" targetSpec="" />Nevertheless, I believe you'll find
+this NookPhone quite handy, so do
+take the time to learn how to use it.</message>
+	<message label="006_04" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Is that so?<delay frames="40" /> <anim id="Cheering" target="actor" targetSpec="" />How wonderful of you!<delay20 />
+I daresay, you seem especially well
+suited for life on this rustic island.
+<anim id="Smiling" target="actor" targetSpec="" />Nevertheless, I believe you'll find
+this NookPhone quite handy, so do
+take the time to learn how to use it.</message>
+	<message label="007" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I have one more thing for you<tag a="110" b="0" /></message>
+	<message label="007_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It's your itemized bill!</message>
+	<message label="008" attrib="03 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />So, this includes everything—<delay20 />airfare,
+accommodations, labor, tax<tag a="110" b="0" />and
+of course your NookPhone, hm?
+<anim id="Thinking" target="actor" targetSpec="" />Bringing your grand total to the
+modest sum of<tag a="110" b="0" /><delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" /><colour id="1" />49,800 Bells<colour id="65535" />!</message>
+	<message label="008_a" attrib="00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />OK!</message>
+	<message label="008_b" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Bells?</message>
+	<message label="008_c" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What are Bells?!</message>
+	<message label="008_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes!<delay20 /> Well, then<tag a="110" b="0" /><delay20 />
+<anim id="TakenAback" target="actor" targetSpec="" />WAIT! <delay20 />You don't have any Bells!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I can't believe I didn't think of this<tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Ah! Of course<tag a="110" b="0" /></message>
+	<message label="008_02" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Oh ho ho!<delay20 />
+Good one, <tag a="110" b="1" />.<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />Wait—you're being serious!<10_4 /> <anim id="Thinking" target="actor" targetSpec="" />
+Yes, of course<tag a="110" b="0" /> I can't believe
+I didn't think of this<tag a="110" b="0" />
+<anim id="Explain" target="actor" targetSpec="" />Well, Bells are a currency that can
+be exchanged for goods or services
+here on <tag a="110" b="8" />.
+<anim id="Thinking" target="actor" targetSpec="" />Ah, but there's still the problem
+that you don't actually HAVE any<tag a="110" b="0" />
+<anim id="IdeaBulb" target="actor" targetSpec="" />Yes! <delay20 />Of course<tag a="110" b="0" /></message>
+	<message label="009" attrib="03 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, no need to worry!<10_4 /><anim id="SmugFace" target="actor" targetSpec="" /> I was
+prepared for exactly this type of
+tricky situation.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />For the getaway package, you can
+pay your fees with <colour id="1" />miles <colour id="65535" />instead of
+the standard Bells.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />I call this extremely helpful service<tag a="110" b="0" /><delay40 />
+<anim id="SmugFace" target="actor" targetSpec="" />the <colour id="1" />Nook Mileage Program<colour id="65535" />!</message>
+	<message label="009_a" attrib="00 00 00 00"><anim id="QuestionMark" target="player" targetSpec="" />Mileage?</message>
+	<message label="009_b" attrib="00 00 00 00"><anim id="QuestionMark" target="player" targetSpec="" />Nook...Mileage?</message>
+	<message label="009_c" attrib="00 00 00 00"><anim id="QuestionMark" target="player" targetSpec="" />What's that?</message>
+	<message label="010" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Well, it's quite extraordinary, if I
+do say so myself.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />With the Nook Mileage Program,
+you can earn miles by simply living
+your life here on <tag a="110" b="8" />!
+<anim id="HappyFlower" target="actor" targetSpec="" />I daresay, the more you enjoy your
+island life, the more Nook Miles you
+can earn.
+<anim id="Smiling" target="actor" targetSpec="" />And you can use them to pay back
+your move-in fees<tag a="110" b="0" />and much more!</message>
+	<message label="011" attrib="00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />So, the bottom line is<tag a="110" b="0" />you'd need
+<colour id="1" />49,800 Bells<colour id="65535" /> to pay your move-in
+fees, but with this new service<tag a="110" b="0" />
+<anim id="Aha" target="actor" targetSpec="" />Would you believe it?<delay frames="40" /> It only comes
+to<tag a="110" b="0" /><anim id="Clapping" target="actor" targetSpec="" /><colour id="1" /><tag a="90" b="3" arg="0x0" /><tag a="50" b="21" arg="0xcd00" /><colour id="65535" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'll just<tag a="110" b="0" />go ahead and register you
+so you can pay in miles.<anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="012" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Yes, yes, but there are more details
+available within your NookPhone.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />Just open the <colour id="1" />Nook Miles<colour id="65535" /> app!
+<anim id="HappyFlower" target="actor" targetSpec="" />And you'll see that you've earned
+some miles just for traveling to the
+island and joining the program!</message>
+	<message label="013" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Now, if you'll excuse me, I must
+get back to a few other matters.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />But let me heartily congratulate
+you once again on your arrival.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />I'm so happy to have you as a
+resident of <tag a="110" b="8" /> and
+a client of Nook Inc.!</message>
+	<message label="013_01" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Now, if you'll excuse us<tag a="110" b="0" /><anim id="Nodding" target="actor" targetSpec="" />we'll be
+getting back to work.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />We're so happy to have you as a
+Nook Inc. customer!</message>
+</msbt>

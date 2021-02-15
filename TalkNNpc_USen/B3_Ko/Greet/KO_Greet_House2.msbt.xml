@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Heh! <delay20 />You're welcome to poke around
+all you like,<delay20 /> but you won't find much
+of interest, I'll wager.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />!<delay20 /> Am I imagining things,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />
+or do you REALLY like it here?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You again?!<delay40 /> I'd tell you to make
+yourself at home,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />but it seems
+you already have.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Shootin' the breeze with you in my
+home ain't half bad,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Really wanna talk to me this much?<delay frames="30" />
+<anim id="Laughing" target="actor" targetSpec="" />I ain't gonna complain,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

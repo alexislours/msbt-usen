@@ -1,0 +1,618 @@
+<msbt attribsize="4">
+	<message label="000" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Who's ready for some seasports?<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />You, that's who! <delay8 />Nyuk <delay8 />nyuk!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'm here in front of<tag a="110" b="0" /><delay20 />one, uh<tag a="110" b="0" /><delay20 /><anim id="OhGeez" target="actor" targetSpec="" />
+probably caffeinated fish fan for
+the apex of seasports action.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />Yo, I'm <colour id="3" />C.J.<colour id="65535" /> and I'm here to anchor a
+once-in-a-season fishing deluge.<delay20 />
+It's<tag a="110" b="0" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />the <colour id="1" />Fishing Tourney<colour id="65535" />!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />It all starts at <colour id="1" /><tag a="90" b="37" arg="0xcd00" /> <tag a="110" b="21" arg="0xcd00" /><colour id="65535" />, so shine those
+hooks and get your reels READY!<delay frames="40" />
+<size value="75" /><anim id="Sighing" target="actor" targetSpec="" />Whew. <delay20 />It's WAY too early for that much hype<tag a="110" b="0" /><size value="100" /></message>
+	<message label="001" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Glad I caught ya, flyfisher! <delay20 />You look
+hyped. <delay20 />You look ready. <delay20 />You look<tag a="110" b="0" /><delay20 />
+caffeinated.<delay20 /> <anim id="Sleepy" target="actor" targetSpec="" />I gotta get on that.<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />Anywave, <delay20 />the big <colour id="1" />Fishing Tourney
+<colour id="65535" />shoves off at <colour id="1" /><tag a="90" b="37" arg="0xcd00" /> <tag a="110" b="21" arg="0xcd00" /><colour id="65535" />. <delay20 />Can't wait to
+see you there. <delay8 />Nyuk <delay8 />nyuk!</message>
+	<message label="002" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />To me, the <colour id="1" />Fishing Tourney<colour id="65535" />'s about
+showin' off the sport from all angles.<delay20 />
+Folks catching fish is just the bait.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Everyone's got a hook. <delay20 />Fishing's got
+drama, adventure<tag a="110" b="0" /><delay20 />SMELLS! <delay20 />There's
+just so much to nibble. <delay8 />Nyuk <delay8 />nyuk!</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />The <colour id="1" />Fishing Tourney <colour id="65535" />starts at <colour id="1" /><tag a="90" b="37" arg="0xcd00" /> <tag a="110" b="21" arg="0xcd00" /><colour id="65535" />!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Get HYPE! <delay8 />Nyuk <delay8 />nyuk!</message>
+	<message label="004" attrib="02 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Yo, flyfisher? <delay20 />You know you're still
+swimmin' in points from the last
+tourney, right? <delay20 />Let's see<tag a="110" b="0" />
+<anim id="Smiling" target="actor" targetSpec="" />Yep! <delay20 />You've got <colour id="1" /><tag a="90" b="8" arg="0x1" /> <50_8 x="0" y="1" a="points" b="point" c="points" />
+<colour id="65535" />floatin' in your tackle box. <anim id="QuestionMark" target="actor" targetSpec="" />Wanna net
+yourself some swag for <colour id="1" /><tag a="90" b="1" arg="0x0" /><colour id="65535" /> of 'em?</message>
+	<message label="004_a" attrib="00 00 00 00">Gimme that fish swag!</message>
+	<message label="004_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah.</message>
+	<message label="005" attrib="02 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, flyfisher! <delay20 />You know you still got
+some points bobbin' around from the
+last tourney, right?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />It ain't the deepest pool, but there's
+still <colour id="1" /><tag a="90" b="8" arg="0x1" /> <50_8 x="0" y="1" a="points" b="point" c="points" /> <colour id="65535" />in the tank.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />You want some fish swag?</message>
+	<message label="005_a" attrib="00 00 00 00">Let's do it!</message>
+	<message label="005_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah.</message>
+	<message label="006" attrib="02 00 00 00"><anim id="Hello" target="actor" targetSpec="" />What up, flyfisher?</message>
+	<message label="006_a" attrib="00 00 00 00">Let's do it!</message>
+	<message label="006_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm just hangin' out.</message>
+	<message label="007" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Yo! <delay20 />What up, seasports fan! <delay20 />I'm <colour id="3" />C.J.
+<colour id="65535" />coming at you live<tag a="110" b="0" /> <anim id="OhGeez" target="actor" targetSpec="" />You know what?<delay20 />
+It's too early for that. <delay20 />I'll save it.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So you know I'll be anchorin' the big
+<colour id="1" />Fishing Tourney<colour id="65535" />, right? <delay20 />It sets sail at
+<colour id="1" /><tag a="90" b="37" arg="0xcd00" /> <tag a="110" b="21" arg="0xcd00" /><colour id="65535" />.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />I'm gonna bring the hype!<pageBreak /><anim id="Sleepy" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 /> Just as soon as I've had
+some more coffee. <delay8 />Nyuk!</message>
+	<message label="010" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Oh<tag a="110" b="0" /><delay20 /> Y'know, I'd love to, <delay20 />but your
+pockets, they're kinda full. <delay20 />Go drop
+some cargo and we'll do this, OK?</message>
+	<message label="011" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />You got it, chum!</message>
+	<message label="012" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />THERE'S a keeper! <delay20 />Your very
+own <tag a="125" b="4" arg="0x0" />.
+<delay8 />Nyuk <delay8 />nyuk!</message>
+	<message label="013" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, hey, don't forget that the big
+<colour id="1" />Fishing Tourney<colour id="65535" /> starts at <colour id="1" /><tag a="90" b="37" arg="0xcd00" /> <tag a="110" b="21" arg="0xcd00" /><colour id="65535" />!<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />It's gonna be a total lunker! <delay8 />Nyuk!</message>
+	<message label="014" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />The <colour id="1" />Fishing Tourney<colour id="65535" /> goes till <colour id="1" /><tag a="90" b="37" arg="0xcd01" /> <tag a="110" b="21" arg="0xcd01" /><colour id="65535" />!<delay frames="40" />
+There's plenty of fish in the sea<tag a="110" b="0" /><delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />and
+rivers and ponds too, so get castin'!</message>
+	<message label="015" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Oh, and just so you know, <delay20 />you
+still got a bunch of points in
+your fishbowl, but<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Well, your pockets are full. <delay20 />No big
+deal. <delay20 />Just go drop some cargo and
+then I can hook you up. <delay8 />Nyuk!</message>
+	<message label="016" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Looks like you still got a few points
+on the line.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Could I lure you into
+spendin' a few more? <delay8 />Nyuk!</message>
+	<message label="016_a" attrib="00 00 00 00">Sure, why not?</message>
+	<message label="016_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah.</message>
+	<message label="017" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />No worries, I get it. <delay20 />Cruise on back
+anytime. <delay20 />The swag'll be here. <delay8 />Nyuk!</message>
+	<message label="018" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />It's all good. <delay20 />Just FYI, I'm sailin'
+off around <colour id="1" /><tag a="90" b="37" arg="0xcd02" /> <tag a="110" b="21" arg="0xcd02" /><colour id="65535" /> if you change
+your mind. <delay8 />Nyuk!</message>
+	<message label="020" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />It all comes down to this. <delay20 />Every hook,<delay20 />
+every line, <delay20 />every sinker. <delay20 />The time has
+come<tag a="110" b="0" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" />for the <colour id="1" />Fishing Tourney<colour id="65535" />.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I'm <colour id="3" />C.J.<colour id="65535" />, and as always, <delay20 />I'm your
+anchor for this once-a-season event.<delay20 />
+So get set, 'cause it's castin' time!</message>
+	<message label="021" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The rules of the <colour id="1" />Fishing Tourney<colour id="65535" /> are
+easy breezy. <delay20 />You just gotta catch as
+many fish as you can in <colour id="1" /><tag a="90" b="0" arg="0xe" /> minutes<colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Every fish you catch nets you points.<delay20 />
+Net enough points and you can swap
+'em for some slick fish swag.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Also, there's a <colour id="1" />cooler<colour id="65535" /> in the tent. <delay20 />Any
+fish you catch will automatically get
+stowed there.<delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" /> Keeps the pockets dry!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />That means as long as you've got
+a fishing rod, <delay8 />you have all you need
+to compete. <delay8 />Nyuk!</message>
+	<message label="022" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The rules of the <colour id="1" />Fishing Tourney<colour id="65535" /> are
+easy breezy. <delay20 />You just gotta catch as
+many fish as you can in <colour id="1" /><tag a="90" b="0" arg="0xe" /> minutes<colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Every fish you catch nets you points.<delay20 />
+Net enough points and you can swap
+'em for some slick fish swag.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />You could also end up reelin' in extra
+points for fish caught by others. <delay20 />So,
+more folks might mean more points!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Also, there's a <colour id="1" />cooler<colour id="65535" /> in the tent. <delay20 />Any
+fish you catch will automatically get
+stowed there.<delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" /> Keeps the pockets dry!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />That means as long as you've got
+a fishing rod, <delay8 />you have all you need
+to compete. <delay8 />Nyuk!</message>
+	<message label="023" attrib="06 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Simple, right? <delay20 />And you can enter
+as many times as you like.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />Whaddaya say? <delay20 />Ready to get your
+feet wet in the <colour id="1" />Fishing Tourney<colour id="65535" />? <delay20 />The
+entry fee is waived for the first run.</message>
+	<message label="023_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="023_b" attrib="00 00 00 00">What're the rules?</message>
+	<message label="023_c" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="023_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="024" attrib="00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />What? <delay20 />Really? <delay20 />Way to be the
+one that got away<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Well, alright. <delay20 />The <colour id="1" />Fishing Tourney<colour id="65535" />
+is on till <colour id="1" /><tag a="90" b="37" arg="0xcd01" /> <tag a="110" b="21" arg="0xcd01" /><colour id="65535" /> if the tide decides to
+turn for ya. <delay20 />Cruise by whenever.</message>
+	<message label="025" attrib="00 00 00 00">Hmm<tag a="110" b="0" /><delay20 /> You've got <colour id="1" /><tag a="90" b="8" arg="0x1" />
+<50_8 x="0" y="1" a="points" b="point" c="points" /><colour id="65535" /> in your pool, so<tag a="110" b="0" /></message>
+	<message label="026" attrib="06 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />What up, flyfisher! <delay20 />Wanna dip those
+toes in the <colour id="1" />Fishing Tourney<colour id="65535" />?<delay frames="40" /> <anim id="Scheming" target="actor" targetSpec="" />The
+entry fee is waived for the first run.</message>
+	<message label="026_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="026_b" attrib="00 00 00 00">What're the rules?</message>
+	<message label="026_c" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="026_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="027" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Sure. <delay8 />Nyuk <delay8 />nyuk!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />The rules of the <colour id="1" />Fishing Tourney<colour id="65535" /> are
+easy breezy. <delay20 />You just gotta catch as
+many fish as you can in <colour id="1" /><tag a="90" b="0" arg="0xe" /> minutes<colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Every fish you catch nets you points.<delay20 />
+Net enough points and you can swap
+'em for some slick fish swag.</message>
+	<message label="028" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Also, there's a <colour id="1" />cooler<colour id="65535" /> in the tent. <delay20 />Any
+fish you catch will automatically get
+stowed there.<delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" /> Keeps the pockets dry!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />That means as long as you've got
+a fishing rod, <delay8 />you have all you need
+to compete. <delay8 />Nyuk!</message>
+	<message label="029" attrib="02 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Simple, right? <delay20 />And you can enter
+as many times as you like.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />Whaddaya say, flyfisher? <delay20 />Ready for
+another lap in the <colour id="1" />Fishing Tourney<colour id="65535" />?<delay20 />
+It'll only cost ya <tag a="90" b="21" arg="0x2" />.</message>
+	<message label="029_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="029_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="030" attrib="02 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Simple, right? <delay20 />And you can enter
+as many times as you like.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />Whaddaya say? <delay20 />Ready to dip those
+toes in the <colour id="1" />Fishing Tourney<colour id="65535" />? <delay20 />The
+entry fee is waived for the first run.</message>
+	<message label="030_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="030_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="031" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Can ya feel 'em? <delay20 />The crestin' waves
+of tension and excitement?<delay frames="80" /> <anim id="BigSmile" target="actor" targetSpec="" />The
+<colour id="1" />Fishing Tourney<colour id="65535" /> is <delay20 />ON!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Wanna hook yourself some slick
+fish swag? <delay20 />You've got from now till
+<colour id="1" /><tag a="90" b="37" arg="0xcd01" /> <tag a="110" b="21" arg="0xcd01" /><colour id="65535" /> to make a SPLASH!</message>
+	<message label="032" attrib="06 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Simple, right? <delay20 />And you can enter
+as many times as you like.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />OK, wanna get your feet wet in the
+<colour id="1" />Fishing Tourney<colour id="65535" />? <delay20 />There's no entry
+fee if off-island visitors are around.</message>
+	<message label="032_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="032_b" attrib="00 00 00 00">What're the rules?</message>
+	<message label="032_c" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="032_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="033" attrib="02 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Simple, right? <delay20 />And you can enter
+as many times as you like.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />OK, wanna get your feet wet in the
+<colour id="1" />Fishing Tourney<colour id="65535" />? <delay20 />There's no entry
+fee if off-island visitors are around.</message>
+	<message label="033_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="033_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="034" attrib="06 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Yo! <delay20 />You wanna dip those toes in the
+<colour id="1" />Fishing Tourney<colour id="65535" />? <delay20 />There's no entry
+fee if off-island visitors are around.</message>
+	<message label="034_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="034_b" attrib="00 00 00 00">What're the rules?</message>
+	<message label="034_c" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="034_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="035" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yo, flyfisher?</message>
+	<message label="036" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Who's ready for some seasports?<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />You, that's who! <delay8 />Nyuk <delay8 />nyuk!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'm here in front of, uh<tag a="110" b="0" /><delay20 /><anim id="Restless" target="actor" targetSpec="" />just you
+right now<tag a="110" b="0" /><delay20 /><anim id="Explain" target="actor" targetSpec="" />for the apex of seasports
+action, the <colour id="1" />Fishing Tourney<colour id="65535" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />My name's <colour id="3" />C.J.<colour id="65535" /> and I'm your anchor
+for this once-in-a-season fishing
+deluge. <delay8 />Nyuk <delay8 />nyuk!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />So shine those hooks and get your
+reels ready, 'cause between now
+and <colour id="1" /><tag a="90" b="37" arg="0xcd01" /> <tag a="110" b="21" arg="0xcd01" /><colour id="65535" />, <delay20 />it's tourney time!</message>
+	<message label="037" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Yo! <delay20 />What up, seasports fan! <delay20 />I'm <colour id="3" />C.J.
+<colour id="65535" />coming at you live<tag a="110" b="0" /><delay20 /> <anim id="Negative" target="actor" targetSpec="" />Hang on, of
+COURSE I'm live. <delay20 />I'm right here.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Anywave, <delay20 />I'm anchorin' the premiere
+event of the <tag a="110" b="17" /> seasports
+season, <delay20 />the <colour id="1" />Fishing Tourney<colour id="65535" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />So shine those hooks and get your
+reels ready, 'cause between now
+and <colour id="1" /><tag a="90" b="37" arg="0xcd01" /> <tag a="110" b="21" arg="0xcd01" /><colour id="65535" />, <delay20 />the tourney is ON!</message>
+	<message label="038" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />You got it, chum. <delay8 />Nyuk <delay8 />nyuk!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />The rules of the <colour id="1" />Fishing Tourney<colour id="65535" /> are
+easy breezy. <delay20 />You just gotta catch as
+many fish as you can in <colour id="1" /><tag a="90" b="0" arg="0xe" /> minutes<colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Every fish you catch nets you points.<delay20 />
+Net enough points and you can swap
+'em for some slick fish swag.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />You could also end up reelin' in extra
+points for fish caught by others.<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />So,
+more folks might mean more points!</message>
+	<message label="039" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Sorry, but no. <delay20 />If you ain't got at least
+<colour id="1" /><tag a="90" b="1" arg="0x0" /> points<colour id="65535" />, then you're not gettin'
+fish swag.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />You gotta earn it. <delay8 />Nyuk!</message>
+	<message label="040" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Only <colour id="1" /><tag a="90" b="8" arg="0x1" /> <50_8 x="0" y="1" a="points" b="point" c="points" /><colour id="65535" />, huh?<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Hey,
+it's all good. <delay8 />Nyuk!</message>
+	<message label="041" attrib="00 00 00 00"><colour id="1" /><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="90" b="8" arg="0x1" /> <50_8 x="0" y="1" a="points" b="point" c="points" /><colour id="65535" />!<delay frames="40" /> <anim id="SadSpiral" target="actor" targetSpec="" />Oh.</message>
+	<message label="042" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />You can cast yourself out there as
+many times as you wanna.<delay20 /> The
+tourney's on till <colour id="1" /><tag a="90" b="37" arg="0xcd01" /> <tag a="110" b="21" arg="0xcd01" /><colour id="65535" />. <delay8 />Nyuk!</message>
+	<message label="043" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />OK, <delay8 />the next <colour id="1" />Fishing Tourney <colour id="65535" />comes
+ashore in <colour id="1" /><tag a="90" b="35" arg="0xcd00" /> <colour id="65535" />of next year.<delay20 />
+I'd better catch you there! <delay8 />Nyuk!</message>
+	<message label="044" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />OK, <delay8 />I wanna see you reelin' in the
+points at the next <colour id="1" />Fishing Tourney
+<colour id="65535" />when it makes landfall in <colour id="1" /><tag a="90" b="35" arg="0xcd00" /><colour id="65535" />.</message>
+	<message label="045" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Exactly <colour id="1" /><tag a="90" b="8" arg="0x1" /> <50_8 x="0" y="1" a="points" b="point" c="points" /><colour id="65535" />! <delay20 />Just
+enough for some fish swag.</message>
+	<message label="045_a" attrib="00 00 00 00">Gimme that fish swag!</message>
+	<message label="045_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Maybe later.</message>
+	<message label="046" attrib="02 00 00 00"><colour id="1" /><anim id="BigSmile" target="actor" targetSpec="" /><tag a="90" b="8" arg="0x1" /> <50_8 x="0" y="1" a="points" b="point" c="points" /><colour id="65535" />! <delay20 />Reel nice!<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Wanna swap <colour id="1" /><tag a="90" b="1" arg="0x0" /> points <colour id="65535" />for
+some fresh fish swag?</message>
+	<message label="046_a" attrib="00 00 00 00">Gimme that fish swag!</message>
+	<message label="046_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Maybe later.</message>
+	<message label="047" attrib="06 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I am packed to the gills with
+<colour id="1" />Fishing Tourney<colour id="65535" /> knowledge.<delay20 />
+Ask me <delay20 /><size value="75" />almost<size value="100" /><delay20 /> anything!</message>
+	<message label="047_a" attrib="00 00 00 00">I wanna compete!</message>
+	<message label="047_b" attrib="00 00 00 00">What're the rules?</message>
+	<message label="047_c" attrib="00 00 00 00">There's something else...</message>
+	<message label="047_d" attrib="00 00 00 00">Nah.</message>
+	<message label="048" attrib="00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Oh, uh<tag a="110" b="0" /><delay20 />OK, then! <delay20 />Glad I could<tag a="110" b="0" /><delay20 />not
+help.<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Well, I'm here till <colour id="1" /><tag a="90" b="37" arg="0xcd02" /> <tag a="110" b="21" arg="0xcd02" /><colour id="65535" /> today
+if you get a brain wave! <delay8 />Nyuk <delay8 />nyuk!</message>
+	<message label="049" attrib="06 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Somethin' else like<tag a="110" b="0" /><anim id="Aha" target="actor" targetSpec="" /><delay20 />OH! <delay20 />Have I told
+you about my livestream and needin'
+fresh fish to gush over? <delay8 />Nyuk!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />If you got fish to sell, <delay20 />I wanna pay
+too much for 'em. <delay20 />You get paid, and
+my followers keep followin'.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Win-win!</message>
+	<message label="049_a" attrib="00 00 00 00">Let's sell some fish!</message>
+	<message label="049_b" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="049_c" attrib="00 00 00 00">There's something else...</message>
+	<message label="049_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="050" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Fintastic! <delay20 />What're you sellin'?</message>
+	<message label="051" attrib="02 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Spillin' a whole school, huh? <delay20 />All
+together that's<tag a="110" b="0" /><tag a="90" b="26" arg="0x3" />.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />How's that sound?</message>
+	<message label="051_a" attrib="00 00 00 00">Sold!</message>
+	<message label="051_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah.</message>
+	<message label="052" attrib="02 00 00 00"><anim id="Grin" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x1" />!<delay20 />
+Reel nice!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />How 'bout<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="90" b="26" arg="0x3" /> for
+your <tag a="125" b="0" arg="0x1" />.<delay20 />
+Sound good?</message>
+	<message label="052_a" attrib="00 00 00 00">Sold!</message>
+	<message label="052_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah.</message>
+	<message label="053" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />SPLASH! <delay20 />Now you're swimmin'
+in Bells.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Paddle back if you catch
+anythin' else to sell! <delay8 />Nyuk!</message>
+	<message label="056" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 /> What fish? <delay20 />Hang on, you're
+trawling me, right?<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Ha ha ha!<delay20 />
+That's pretty good.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Anywave, I can't buy what you don't
+have.<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />No big, though. <delay20 />Just drift back
+after you get a nibble or two. <delay8 />Nyuk!</message>
+	<message label="057" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Oh. <delay20 />Well, you're the navigator. <delay8 />Nyuk!</message>
+	<message label="060" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />YES! <delay20 />Nobody can resist the siren
+song of the <colour id="1" />Fishing Tourney<colour id="65535" />. <delay20 />Are
+you ready to get<anim id="Serious" target="actor" targetSpec="" /><delay20 /><tag a="110" b="0" /> Uh, wait up.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />How're you gonna compete without a
+fishing rod? <delay20 />No rod, no entry.<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Sorry,
+but them's the breakwaters. <delay8 />Nyuk!</message>
+	<message label="061" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 /> I love your passion, but it
+looks like your Bells are runnin'
+kinda shallow. <delay8 />Nyuk!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />After your first run, it's <tag a="90" b="21" arg="0x2" />
+to enter. <delay20 />The fee keeps the fish fund
+funded and all that fun fin fluff.</message>
+	<message label="062" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />YES! <delay20 />Nobody can resist the siren
+song of the <colour id="1" />Fishing Tourney<colour id="65535" />. <delay20 />That'll
+be <tag a="90" b="21" arg="0x2" /> for the entry fee.</message>
+	<message label="063" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Alright, I'm gonna spray <colour id="1" /><tag a="90" b="0" arg="0xe" /> minutes
+<colour id="65535" />on the clock for you to catch as many
+fish as you can.<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh! <delay20 />And there's also a bonus that'll
+backstroke in if you catch <colour id="1" />at least
+<tag a="90" b="1" arg="0x4" /> fish<colour id="65535" />. <delay8 />Nyuk!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />You done nibblin' on all that?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />'Cause it's time to launch!</message>
+	<message label="064" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />OK, I'm gonna spray <colour id="1" /><tag a="90" b="0" arg="0xe" /> minutes
+<colour id="65535" />on the clock for you to catch as
+many fish as you can.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Everyone embarks at the same time
+too.<delay20 /> Keeps things on an even keel.<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />And also!<delay20 /> There's a bonus that'll
+backstroke in if you manage
+to catch <colour id="1" />at least <tag a="90" b="1" arg="0x4" /> fish<colour id="65535" />. <delay8 />Nyuk!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Onboard with all that?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Then let's launch!</message>
+	<message label="065" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Aye aye!</message>
+	<message label="066" attrib="00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Cool. <delay20 />Hey, uh<tag a="110" b="0" /><delay20 /> <tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" />'s
+still got fish in the <colour id="1" />cooler<colour id="65535" />.<delay20 />
+Know the deal with that?<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I can't ship another round till that
+thing's empty. <delay20 />Tourney rules. <delay8 />Nyuk!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />If you see <tag a="115" b="0" arg="0xcd00" />, <delay20 />get
+'em to empty the <colour id="1" />cooler<colour id="65535" />. <delay20 />I'll
+even buy the fish, if it helps.</message>
+	<message label="067" attrib="00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Sweet. <delay20 />Hey, uh<tag a="110" b="0" /><delay20 /> Someone's still got
+fish in the <colour id="1" />cooler<colour id="65535" />. <delay20 />Any idea what's up
+with that?<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I can't launch another round till that
+thing's empty. <delay20 />Tourney rules. <delay8 />Nyuk!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Mind gettin' the word out so we can
+empty that <colour id="1" />cooler<colour id="65535" />? <delay20 />Mention I'll buy
+the fish if you fathom it'll help.</message>
+	<message label="068" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I fathom there's some anglers still
+lobbin' bobbers out there. <delay20 />Swim by
+later and I'll help you out. <delay8 />Nyuk!</message>
+	<message label="070" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Come on, flyfisher! <delay20 />You got a
+tourney to quench! <delay8 />Nyuk!</message>
+	<message label="071" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />What're you babblin' at me for?<delay20 />
+Go catch somethin'! <delay8 />Nyuk!</message>
+	<message label="072" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Those fish ain't gonna catch
+themselves! <delay8 />Nyuk!</message>
+	<message label="073" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Glad to meet a fellow fishionista, but
+right now is "<colour id="1" />Fishing Tourney<colour id="65535" />" time,<delay20 />
+not "spout at <colour id="3" />C.J.<colour id="65535" />" time.<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Good luck!</message>
+	<message label="080" attrib="03 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />And that's gonna do it for this
+<tag a="110" b="17" />'s <colour id="1" />Fishing Tourney<colour id="65535" />!<delay20 />
+How was it? <delay20 />Have fun?</message>
+	<message label="080_a" attrib="00 00 00 00">Loved it!</message>
+	<message label="080_b" attrib="00 00 00 00">It was OK.</message>
+	<message label="080_c" attrib="00 00 00 00">Not really.</message>
+	<message label="081" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Reel glad to hear it, but you know
+that gushing won't get you extra
+points, right? <delay20 />Nyuk!</message>
+	<message label="082" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, smooth sailin' is smooth sailin'.<delay20 />
+I'll take it.</message>
+	<message label="083" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Feelin' sea salty?<delay frames="40" /> <anim id="Sighing" target="actor" targetSpec="" /><delay20 />Well, at least
+you're keepin' it reel<tag a="110" b="0" /></message>
+	<message label="084" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />More importantly, your tackle box is
+soaked with points from the tourney!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />You have <colour id="1" /><tag a="90" b="8" arg="0x1" /> <50_8 x="0" y="1" a="points" b="point" c="points" /><colour id="65535" />, which
+is <delay8 />EXACTLY<delay8 /> enough to net some
+fish swag.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />Whaddaya say?</message>
+	<message label="084_a" attrib="00 00 00 00">Gimme that fish swag!</message>
+	<message label="084_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah.</message>
+	<message label="085" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />But that's not important. <delay20 />What IS
+important is that you've got a cargo
+hold full of points from the tourney!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />You've got <colour id="1" /><tag a="90" b="8" arg="0x1" /> <50_8 x="0" y="1" a="points" b="point" c="points" /><colour id="65535" />, and
+you could net some fish swag
+with <colour id="1" /><tag a="90" b="1" arg="0x0" /><colour id="65535" /> of 'em.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />Whaddaya say?</message>
+	<message label="085_a" attrib="00 00 00 00">Gimme that fish swag!</message>
+	<message label="085_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah.</message>
+	<message label="086" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />The next <colour id="1" />Fishing Tourney<colour id="65535" /> sets sail in
+<colour id="1" /><tag a="90" b="35" arg="0xcd00" /><colour id="65535" />. <delay20 />Hope I catch you then!
+<delay8 />Nyuk <delay8 />nyuk!</message>
+	<message label="087" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />The next <colour id="1" />Fishing Tourney<colour id="65535" /> embarks in
+<colour id="1" /><tag a="90" b="35" arg="0xcd00" /><colour id="65535" /> of next year. <delay20 />Hope you'll
+paddle by. <delay8 />Nyuk <delay8 />nyuk!</message>
+	<message label="090" attrib="02 00 00 00"><anim id="Hello" target="actor" targetSpec="" />What up, fishionista?<delay20 /> <colour id="3" />C.J.<colour id="65535" /> here and<tag a="110" b="0" /><delay frames="40" />
+<anim id="SadSpiral" target="actor" targetSpec="" />WOW am I wrung out from anchorin'
+today's <colour id="1" />Fishing Tourney<colour id="65535" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I gotta be honest, <delay20 />I don't remember
+if I saw you out there today. <delay20 />But my
+mind's kinda out to sea right now<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Anywave, looks like you've got a few
+points in your pool. Wanna swap 'em
+for some swag? <delay8 />Nyuk!</message>
+	<message label="090_a" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="090_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm just hangin' out.</message>
+	<message label="090_01" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />What up, fishionista?<delay20 /> <colour id="3" />C.J.<colour id="65535" /> here and<tag a="110" b="0" /><delay frames="40" />
+<anim id="SadSpiral" target="actor" targetSpec="" />WOW am I wrung out from anchorin'
+today's <colour id="1" />Fishing Tourney<colour id="65535" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I gotta be honest, <delay20 />I don't remember
+if I saw you out there today. <delay20 />But my
+mind's kinda out to sea right now<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Anywave, check the schedule if you
+want in on the next <colour id="1" />Fishing Tourney<colour id="65535" />.<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />Hope it reels you in! <delay8 />Nyuk, <delay8 />nyuk!</message>
+	<message label="092" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Cool! <delay20 />Always happy to meet a fellow
+fishionista. <delay20 />I'll be moored here till
+<colour id="1" /><tag a="90" b="37" arg="0xcd02" /> <tag a="110" b="21" arg="0xcd02" /> <colour id="65535" />if you need somethin'.</message>
+	<message label="100" attrib="02 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Yo, flyfisher!</message>
+	<message label="100_a" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="100_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm just hangin' out.</message>
+	<message label="101" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I'm anchorin' <tag a="110" b="9" />'s
+next <colour id="1" />Fishing Tourney<colour id="65535" /> too. <delay20 />That'll be
+in <colour id="1" /><tag a="90" b="35" arg="0xcd00" /><colour id="65535" />. <delay20 />Catch you then! <delay8 />Nyuk!</message>
+	<message label="102" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />That <colour id="1" />Fishing Tourney<colour id="65535" /> was a rush,
+wasn't it? <delay20 />Like, you could FEEL
+the tension on the line. <delay8 />Nyuk!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm absolutely HOOKED on doin'
+streams for the <colour id="1" />Fishing Tourneys<colour id="65535" />.<delay20 />
+The chat always goes WILD!</message>
+	<message label="103" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />That was some serious seasports.<delay20 />
+You could feel the tension creepin'
+in like a tide! <delay8 />Nyuk <delay8 />nyuk!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Well, another <tag a="110" b="17" />, another
+<colour id="1" />Fishing Tourney<colour id="65535" /> in the creel!<delay20 />
+Can't wait for the next one!</message>
+	<message label="104" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, that's gonna do it for the <tag a="90" b="27" />
+<colour id="1" />Fishing Tourney<colour id="65535" /> season.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />The next <colour id="1" />Fishing Tourney<colour id="65535" /> will be in
+<colour id="1" /><tag a="90" b="35" arg="0xcd00" /><colour id="65535" /> of next year. <delay20 />So until
+then, this is <colour id="3" />C.J.<colour id="65535" />, sailin' off. <delay8 />Nyuk!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 />actually, I'm still gonna be here
+for a swell. <delay20 />Sorry. <delay20 />Livestream habit<tag a="110" b="0" /></message>
+	<message label="105" attrib="00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Next year's <colour id="1" />Fishing Tourneys<colour id="65535" /> are
+gonna need a perfect storm to
+top this<tag a="110" b="0" /><delay20 /> What a year! <delay8 />Nyuk!</message>
+	<message label="110" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />What up, fishing fan! <colour id="3" />C.J.<colour id="65535" /> here,
+comin' at you live from, uh<tag a="110" b="0" /><delay20 /><anim id="Restless" target="actor" targetSpec="" />
+r-right in front of you. <delay8 />Nyuk!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You cruised in from off-island, right?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Welcome to <tag a="110" b="8" />'s
+<colour id="1" /><tag a="110" b="17" /> Fishing Tourney<colour id="65535" />!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Oh! <delay20 />But the latest run already set
+sail, so if you want in you'll have
+to tread water till the next one.</message>
+	<message label="112" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" /><colour id="4" />Huh! I wasn't sure I had what it took,
+but wow! This is goin' SUPER good.<delay20 />
+Like, it's just flowin'! <delay8 />Nyuk!<colour id="65535" /><pageBreak /><anim id="Eh" target="actor" targetSpec="" />Oh, hey! <delay20 />Guess I drifted for a sec<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />The latest run of the tourney has
+already set sail. <delay20 />Mind treadin' water
+till the next one? <delay20 />Won't be long.</message>
+	<message label="113" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I wanna bring the fishing hype to
+EVERYBODY. <delay20 />Young, <delay8 />old, <delay8 />frogs, <delay8 />cats,
+<delay8 />horses, <delay8 />gators, <delay8 />robots<tag a="110" b="0" /><anim id="BigSmile" target="actor" targetSpec="" />everybody!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />That means you too, except uh<tag a="110" b="0" /><delay20 /><anim id="OhGeez" target="actor" targetSpec="" />
+looks like it's gonna be a few
+minutes until a pier opens up.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Just tread water for a swell and
+I'll get you in, alright? <delay8 />Nyuk!</message>
+	<message label="114" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I see ya. <delay20 />You're hyped. <delay20 />You're ready.
+<delay20 />You've charted your course to
+<colour id="1" />Fishing Tourney<colour id="65535" /> glory. <delay20 />I love it.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />But hold your seahorses. <delay20 />The latest
+run's still goin'. <delay20 />You'll be able to
+stow away on the next one. <delay8 />Nyuk!</message>
+	<message label="120" attrib="03 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Yo yo yo! <delay20 />Had a look in your <colour id="1" />cooler
+<colour id="65535" />lately?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />If you've got fish in there to
+sell, then I wanna buy. <delay8 />Nyuk!</message>
+	<message label="120_a" attrib="00 00 00 00">Sell 'em all!</message>
+	<message label="120_b" attrib="00 00 00 00">What <colour id="1" />cooler<colour id="65535" />?</message>
+	<message label="120_c" attrib="00 00 00 00">Let me check...</message>
+	<message label="123" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How's <tag a="90" b="26" arg="0x5" /> sound?<delay20 />
+That hook you?</message>
+	<message label="123_a" attrib="00 00 00 00">Sell! Sell! Sell!</message>
+	<message label="123_b" attrib="00 00 00 00">Wait up.</message>
+	<message label="124" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />You got it!<delay20 /> <anim id="Eh" target="actor" targetSpec="" />Eh, wait. <delay20 />Hang on<tag a="110" b="0" /><delay20 />you
+been lootin' galleons or something?<delay20 />
+Your hold's too full for more Bells.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />No big. <delay20 />I'll just wire it to
+your account.</message>
+	<message label="125" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />What a haul! <delay20 />Thanks!</message>
+	<message label="126" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />You got it! <anim id="Eh" target="actor" targetSpec="" />Uh, hang on<tag a="110" b="0" /><delay20 />you been
+chasin' treasure maps or something?<delay20 />
+Your hold's too full for more Bells.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />No big. <delay20 />I got a few pouches here. <delay20 />I'll
+just stick the extra Bells in those.</message>
+	<message label="127" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Also, I'll make sure the <colour id="1" />cooler<colour id="65535" />'s clear
+if you wanna surf the tourney again.<delay20 />
+<delay8 />Nyuk <delay8 />nyuk!</message>
+	<message label="128" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Anywave, the next <colour id="1" />Fishing Tourney
+<colour id="65535" />sets sail in <colour id="1" /><tag a="90" b="35" arg="0xcd00" /><colour id="65535" />. <delay20 />Hope I catch
+you there! <delay8 />Nyuk!</message>
+	<message label="129" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh yeah! <delay20 />The next <colour id="1" />Fishing Tourney
+<colour id="65535" />embarks in <colour id="1" /><tag a="90" b="35" arg="0xcd00" /> <colour id="65535" />of next year.<delay20 />
+Hope I catch you there! <delay8 />Nyuk!</message>
+	<message label="130" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Oh! <delay20 />The <colour id="1" />cooler<colour id="65535" /> stows all the fish
+you catch during the tourney. It's
+over in the tent if you wanna see.</message>
+	<message label="131" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />No prob! <delay20 />By the way, I can't ship the
+next tourney round until the <colour id="1" />cooler<colour id="65535" />'s
+empty. <delay20 />Rules're rules. <delay8 />Nyuk!</message>
+	<message label="132" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Sounds good! <delay20 />I'm moored here till
+<colour id="1" /><tag a="90" b="37" arg="0xcd02" /> <tag a="110" b="21" arg="0xcd02" /><colour id="65535" /> if you got anything in there
+you wanna sell. <delay8 />Nyuk!</message>
+	<message label="133" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sure. <delay20 />I'll be cleanin' out the <colour id="1" />cooler<colour id="65535" /> at
+<colour id="1" /><tag a="90" b="37" arg="0xcd03" /> <tag a="110" b="21" arg="0xcd03" /><colour id="65535" /> tomorrow, so fish out your
+fish before then. <delay8 />Nyuk!</message>
+	<message label="134" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Empty your <colour id="1" />cooler<colour id="65535" />. <delay20 />Got it!</message>
+	<message label="135" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />OK, let's see<tag a="110" b="0" /><delay20 /> There's <colour id="1" /><tag a="90" b="1" arg="0x6" /> fish<colour id="65535" /> in the
+<colour id="1" />cooler<colour id="65535" />. <delay20 />Add 'em up, carry the <tag a="90" b="0" arg="0x100" /><tag a="110" b="0" /></message>
+	<message label="140" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Who's ready for some seasports?<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />You, that's who! <delay8 />Nyuk <delay8 />nyuk!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Yo, I'm <colour id="3" />C.J.<colour id="65535" /> and I'm anchorin'<tag a="110" b="0" /><delay20 />the
+<colour id="1" />FISHING TOURNEY<colour id="65535" />!<delay frames="40" /> It's the apex of
+seasports ac<delay8 /><anim id="Serious" target="actor" targetSpec="" />—hang on a sec<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Didn't I see you anglin' up a storm
+earlier? <delay20 />Yeah, I did!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />You're really
+castin' yourself out there!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />So how was it? <delay20 />Have fun? <delay8 />Nyuk!</message>
+	<message label="141" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey hey! There's my favorite angler!<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />So how was it? <delay20 />Have fun? <delay8 />Nyuk!</message>
+	<message label="142" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh. <delay20 />They weren't bitin' for ya, huh<tag a="110" b="0" /></message>
+	<message label="143" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Hey, I don't know if I mentioned, <delay20 />but
+you get bonus points for wadin' into
+the tourney with off-island friends.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />'Cause friends that sail together
+prevail together!<10_4 /> <anim id="Blushing" target="actor" targetSpec="" /><size value="75" />OK, that needs work<tag a="110" b="0" /><size value="100" /></message>
+	<message label="144" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's see how many points ya got.</message>
+	<message label="145" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh! <delay20 />Weren't nibblin' for ya, eh?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />OK, so it looks like the total haul for
+everyone was<tag a="110" b="0" /><delay20 /><anim id="Nodding" target="actor" targetSpec="" /><colour id="1" /><tag a="90" b="1" arg="0x9" /> fish<colour id="65535" />, with a co-op
+bonus wadin' in at <colour id="1" /><tag a="90" b="1" arg="0xa" /> or more fish<colour id="65535" />.</message>
+	<message label="146" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />The fish you caught are all partyin' in
+the <colour id="1" />cooler<colour id="65535" />. <delay20 />You can fetch 'em later.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Or if you don't want 'em, I'll buy 'em.<delay20 />
+I need fresh fish for my livestream to
+keep my followers followin'. <delay8 />Nyuk!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />But first things first. <delay20 />Let's check out
+what you caught in the tourney!</message>
+	<message label="147" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Looks like you stowed <colour id="1" /><tag a="90" b="1" arg="0x8" /> fish
+<colour id="65535" />in the <colour id="1" />cooler<colour id="65535" />.</message>
+	<message label="148" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Looks like you stowed <colour id="1" /><tag a="90" b="1" arg="0x8" /> fish <colour id="65535" />in
+the <colour id="1" />cooler<colour id="65535" />. <anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />With a solo bonus
+wading in at <colour id="1" /><tag a="90" b="1" arg="0x4" /> or more fish<colour id="65535" />.</message>
+	<message label="149" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />OK, so it looks like the total haul for
+everyone was<tag a="110" b="0" /><delay20 /><anim id="Nodding" target="actor" targetSpec="" /><colour id="1" /><tag a="90" b="1" arg="0x9" /> fish<colour id="65535" />, with a co-op
+bonus wadin' in at <colour id="1" /><tag a="90" b="1" arg="0xa" /> or more fish<colour id="65535" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Also, you brought in <colour id="1" /><tag a="90" b="1" arg="0x8" /><colour id="65535" /> fish.<delay20 />
+Reel nice!</message>
+	<message label="150" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Alright, it looks like the total haul for
+everyone was<tag a="110" b="0" /><delay20 /><anim id="Nodding" target="actor" targetSpec="" /><colour id="1" /><tag a="90" b="1" arg="0x9" /> fish<colour id="65535" />, with a co-op
+bonus wadin' in at <colour id="1" /><tag a="90" b="1" arg="0xa" /> or more fish<colour id="65535" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />And YOU caught <colour id="1" /><tag a="90" b="1" arg="0x8" /> fish<colour id="65535" /> with a solo
+bonus floatin' in at <colour id="1" /><tag a="90" b="1" arg="0x4" /> or more fish<colour id="65535" />.</message>
+	<message label="151" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" /><colour id="4" /><tag a="110" b="0" />pour that into your points pool<tag a="110" b="0" /><colour id="65535" /></message>
+	<message label="152" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Yo! <delay20 />What up! <delay20 />I'm <colour id="3" />C.J.<colour id="65535" />, and I'm here
+anchorin'<tag a="110" b="0" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" />the <colour id="1" />FISHING TOURNEY<colour id="65535" />!<delay frames="40" />
+It's the apex of<delay8 /><anim id="Serious" target="actor" targetSpec="" />—hang on a sec.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Didn't I see you anglin' up a storm
+earlier? <delay20 />Yeah, I did!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />You're really
+castin' yourself out there!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />So how was it? <delay20 />Have fun? <delay8 />Nyuk!</message>
+	<message label="153" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />SPLASH! <delay20 />That's <colour id="1" /><tag a="90" b="2" arg="0x7" /> <50_8 x="0" y="7" a="points" b="point" c="points" /><colour id="65535" />!</message>
+	<message label="154" attrib="00 00 00 00">I am SO hyped!</message>
+	<message label="155" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Once you net <colour id="1" /><tag a="90" b="1" arg="0x0" /> or more points<colour id="65535" />,
+you can swap 'em for some slick
+fish swag.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Give it a whirl!</message>
+	<message label="160" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />The fish that everyone caught are all
+partyin' in the <colour id="1" />cooler<colour id="65535" />. <delay20 />You can sort
+out the keepers later.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Or if nobody wants 'em, I'll buy 'em.<delay20 />
+I need fresh fish for my livestream to
+keep my followers followin'. <delay8 />Nyuk!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />But first things first. <delay20 />Let's check out
+how the tourney went!</message>
+	<message label="161" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The <colour id="1" />Fishing Tourney<colour id="65535" /> rules are easy
+breezy. <delay20 />Everyone just has to catch as
+many fish as they can in <colour id="1" /><tag a="90" b="0" arg="0xe" /> minutes<colour id="65535" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Each fish caught nets points. <delay20 />Doesn't
+matter who caught 'em.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />BUT! <delay20 />If you tugged in some friends,
+you gotta pick a <colour id="1" />Team Leader<colour id="65535" />, 'cause
+ONLY the <colour id="1" />Leader<colour id="65535" /> earns points.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />After everyone nets enough points,
+the <colour id="1" />Leader<colour id="65535" /> can swap 'em for some
+super slick fish swag.</message>
+	<message label="162" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Also, there's a <colour id="1" />cooler<colour id="65535" /> in the tent. <delay20 />Any
+fish you catch will automatically get
+stowed there.<delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" /> Keeps the pockets dry!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />That means as long as you've got
+a fishing rod, <delay8 />you have all you need
+to compete. <delay8 />Nyuk!</message>
+	<message label="163" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Alright, I'm gonna spray <colour id="1" /><tag a="90" b="0" arg="0xe" /> minutes
+<colour id="65535" />on the clock for everyone to catch as
+many fish as they can.<anim id="EmotEnd" target="actor" targetSpec="" />
+No matter who catches 'em, the
+fish'll flop into the <colour id="1" />cooler<colour id="65535" /> and the
+<colour id="1" />Team Leader <colour id="65535" />will earn points.<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh! <delay20 />And there's also a bonus that'll
+backstroke in if <colour id="1" />at least <tag a="90" b="1" arg="0x4" /> fish<colour id="65535" /> are
+caught. <delay8 />Nyuk <delay8 />nyuk!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />You done nibblin' all that?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />'Cause
+it's time to launch!</message>
+	<message label="164" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />If you tugged in some friends, you
+gotta pick a <colour id="1" />Team Leader<colour id="65535" />, <delay20 />'cause
+ONLY the <colour id="1" />Leader<colour id="65535" /> can earn points.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />And it doesn't matter who catches
+what. <delay20 />Every fish'll flop into the <colour id="1" />cooler
+<colour id="65535" />and the <colour id="1" />Leader<colour id="65535" /> will earn points.<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh! <delay20 />The <colour id="1" />cooler<colour id="65535" />! <delay20 />Any fish caught will
+automatically get stowed there.<delay20 /> That
+way your pockets stay dry!</message>
+	<message label="165" attrib="02 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Simple, right? <delay20 />And you can enter
+as many times as you like.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />So whaddaya say, <colour id="1" />Team Leader<colour id="65535" />? <delay20 />The
+<colour id="1" />Fishing Tourney<colour id="65535" /> awaits. <delay20 />Ready for
+another run? <delay20 />Entry is <tag a="90" b="21" arg="0x2" />.</message>
+	<message label="165_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="165_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="166" attrib="02 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Simple, right? <delay20 />And you can enter
+as many times as you like.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />So! <delay20 />Ready to get your feet wet in the
+<colour id="1" />Fishing Tourney<colour id="65535" />? <delay20 />It's your first run
+as <colour id="1" />Leader<colour id="65535" />, so the entry fee is waived.</message>
+	<message label="166_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="166_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="167" attrib="06 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Simple, right? <delay20 />And you can enter
+as many times as you like.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />So! <delay20 />You ready to dip your toes in the
+<colour id="1" />Fishing Tourney<colour id="65535" />? <delay20 />It's your first run
+as <colour id="1" />Leader<colour id="65535" />, so the entry fee is waived.</message>
+	<message label="167_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="167_b" attrib="00 00 00 00">What're the rules?</message>
+	<message label="167_c" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="167_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="168" attrib="00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />What is up, fishionista!<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />The
+<colour id="1" />Fishing Tourney<colour id="65535" /> is ON!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm <colour id="3" />C.J.<colour id="65535" /> and I'm your anchor for this
+once-a-season angler onslaught.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />So shine those hooks and get your
+reels ready, 'cause it's time to
+make a SPLASH! <delay8 />Nyuk <delay8 />nyuk!</message>
+	<message label="169" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><colour id="3" />C.J.<colour id="65535" /> here, comin' at you live from
+the <tag a="110" b="9" /> <tag a="110" b="17" />
+<colour id="1" />Fishing Tourney<colour id="65535" />!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />All the drama, <delay20 />all the adventure, <delay20 />all
+the SMELLS! <delay20 />It all starts here at
+<colour id="1" /><tag a="90" b="37" arg="0xcd00" /> <tag a="110" b="21" arg="0xcd00" /><colour id="65535" />. <delay8 />Nyuk <delay8 />nyuk!</message>
+	<message label="170" attrib="02 00 00 00"><anim id="Hello" target="actor" targetSpec="" />What up, fishionista?<delay20 /> <colour id="3" />C.J.<colour id="65535" /> here and<tag a="110" b="0" /><delay frames="40" />
+<anim id="SadSpiral" target="actor" targetSpec="" />WOW am I wrung out from anchorin'
+today's <colour id="1" />Fishing Tourney<colour id="65535" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I gotta be honest, <delay20 />I don't remember
+if I saw you out there today. <delay20 />But my
+mind's kinda out to sea right now<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Anywave, looks like you've got a few
+points in your pool. Wanna swap 'em
+for some swag? <delay8 />Nyuk!</message>
+	<message label="170_a" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="170_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm just hangin' out.</message>
+	<message label="170_01" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Whew! <delay20 />Another <tag a="110" b="17" />, <delay20 />another
+<colour id="1" />Fishing Tourney<colour id="65535" /> in the creel!<delay20 />
+Can't wait for the next one!</message>
+	<message label="171" attrib="06 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Ready to chart a course to
+<colour id="1" />Fishing Tourney<colour id="65535" /> glory?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Since it'll be your first run as
+<colour id="1" />Team Leader<colour id="65535" />, there's not gonna
+be an entry fee. <delay8 />Nyuk!</message>
+	<message label="171_a" attrib="00 00 00 00">Sign me up!</message>
+	<message label="171_b" attrib="00 00 00 00">What're the rules?</message>
+	<message label="171_c" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="171_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="200" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Which means<tag a="110" b="0" /><delay20 /> <anim id="Surprised" target="actor" targetSpec="" />WHOA! <delay20 />I don't
+believe it!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />You've hooked a <colour id="1" />Fishing Tourney
+<colour id="65535" />net total of over <colour id="1" /><tag a="90" b="2" arg="0xb" /> points<colour id="65535" />! <delay20 />You're
+a castin' LEGEND!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" /><colour id="4" />Wait'll my subscribers hear about
+this. <delay20 />I'm gonna get, like, <tag a="90" b="3" arg="0x100" /> new
+followers! <delay8 />Nyuk <delay8 />nyuk!<colour id="65535" /></message>
+	<message label="201" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Which means<tag a="110" b="0" /><delay20 /><anim id="TakenAback" target="actor" targetSpec="" /> INCREDIBLE!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />You've hooked a <colour id="1" />Fishing Tourney
+<colour id="65535" />net total of over <colour id="1" /><tag a="90" b="2" arg="0xc" /> points<colour id="65535" />. <delay20 />You're
+like a tidal force out there!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" /><colour id="4" />Am I really standing in front of the
+next seasports superstar? <delay8 />Nyuk!<colour id="65535" /></message>
+	<message label="202" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Which means<tag a="110" b="0" /><delay20 /> <anim id="Shocked" target="actor" targetSpec="" />Whoa! <delay20 />FINTASTIC!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />You've hooked a <colour id="1" />Fishing Tourney
+<colour id="65535" />net total of over <colour id="1" /><tag a="90" b="2" arg="0xd" /> points<colour id="65535" />. <delay20 />You're
+takin' the scene by storm!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" /><colour id="4" />I can't wait to babble about this on
+my livestream. <delay20 />Chat's gonna turn
+into a maelstrom! <delay8 />Nyuk <delay8 />nyuk!<colour id="65535" /></message>
+	<message label="203" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If you've got enough points in your
+pool, you can swap 'em for some
+slick fish swag.</message>
+	<message label="207" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Ahem! <delay20 />Way to make waves.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />I've got something special for surgin'
+to such a high-water mark. <delay20 />I fathom
+you'll like it.<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />Keep an eye on the mail.</message>
+	<message label="209" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" /><colour id="1" />Fishing Tourney<colour id="65535" /> points don't spoil,
+so you can save some in your pool
+and use 'em in the next one! <delay8 />Nyuk!</message>
+	<message label="300" attrib="00 00 00 00">Gimme that fish swag!</message>
+	<message label="301" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah.</message>
+	<message label="302" attrib="00 00 00 00">Let's do it!</message>
+	<message label="303" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm just hangin' out.</message>
+	<message label="304" attrib="00 00 00 00">Sure, why not?</message>
+	<message label="305" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah.</message>
+	<message label="306" attrib="00 00 00 00">Sign me up!</message>
+	<message label="307" attrib="00 00 00 00">What're the rules?</message>
+	<message label="308" attrib="00 00 00 00">Swap my points for swag!</message>
+	<message label="309" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah. I'm good.</message>
+	<message label="310" attrib="00 00 00 00">Gimme that fish swag!</message>
+	<message label="311" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Maybe later.</message>
+	<message label="314" attrib="00 00 00 00">There's something else...</message>
+	<message label="315" attrib="00 00 00 00">Let's sell some fish!</message>
+	<message label="316" attrib="00 00 00 00">Sold!</message>
+	<message label="317" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah.</message>
+</msbt>

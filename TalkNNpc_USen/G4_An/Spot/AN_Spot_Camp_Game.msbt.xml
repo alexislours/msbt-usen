@@ -1,0 +1,70 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 01 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />What's up! <delay20 />You like games, right?<delay frames="40" />
+<anim id="Explain" target="actor" targetSpec="" />'Cause I got something I wanna
+pitch to you, <tag a="110" b="5" /><tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />How'd you like to play a quick game
+for my <tag a="125" b="0" arg="0x0" />?<delay20 />
+All yours if you win!</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00">Really? OK!</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">No, thanks.</message>
+	<message label="002" attrib="00 00 01 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Rock! <delay20 />Alright, <delay20 />let's do th—<anim id="Eh" target="actor" targetSpec="" /> Oh! <delay20 />Wait.<delay frames="40" />
+<anim id="Explain" target="actor" targetSpec="" />Do you wanna hear the rules first?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">Rules are good!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">Surprise me.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Oh! <delay20 />Uh<tag a="110" b="0" /><delay20 />know anyone who'd be
+interested?<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Actually, never mind.<delay20 />
+I'll figure this out.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha! <delay20 />You got it!<delay frames="40" /> <anim id="NpcShuffle" target="actor" targetSpec="" />Hang on a
+sec while I shuffle<tag a="110" b="0" /><delay frames="40" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Moment of truth<tag a="110" b="0" /><delay20 /> Ready?</message>
+	<message label="006_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Great guess! <delay20 />Well, that's that. <delay20 />My
+<tag a="125" b="0" arg="0x0" /> is all
+yours, <tag a="110" b="5" />!</message>
+	<message label="006_02" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oof<tag a="110" b="0" /><delay20 /> I kinda didn't wanna part with
+my <tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /><delay frames="40" /><anim id="Sighing" target="actor" targetSpec="" />but
+I promised.</message>
+	<message label="006_03" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Well, that's how it goes. <delay20 />But hey, at
+least you didn't lose anything!</message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />That was awesome.<delay20 /> Hey, let's do a
+rematch sometime, alright?</message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Anyway, better luck next time!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Rock! <delay20 />Alright, <delay20 />let's do th—<anim id="Eh" target="actor" targetSpec="" /> Oh! <delay20 />Wait.<delay frames="40" />
+Your pockets are totally full.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />If we play, I'm committed. If I lose,
+my <tag a="125" b="0" arg="0x0" /> is all
+yours, <delay20 />period.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />So yeah, we ain't doin' this unless
+you can take home the winnings.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Go
+clear some space and come back.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />You got it, <tag a="110" b="5" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />OK, <delay20 />so all cards have suits, right?<delay20 />
+Those're the <colour id="6" />♥heart<colour id="65535" />, <colour id="6" />♦diamond<colour id="65535" />,
+<colour id="7" />♠spade<colour id="65535" />, and <colour id="7" />♣club<colour id="65535" /> symbols.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />This is really easy. <delay20 />All you gotta do
+is guess the suit of the top card in
+the deck.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Guess right, and you walk away
+with my <tag a="125" b="0" arg="0x0" />.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />And that's it!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />So!<delay20 /> <anim id="NpcShuffle" target="actor" targetSpec="" />Here goes<tag a="110" b="0" /><delay frames="40" /></message>
+	<message label="101" attrib="00 00 05 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Alright, rock star, you're up. <delay20 />What
+suit is the top card?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00"><colour id="6" />♥Heart<colour id="65535" /></message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00"><colour id="6" />♦Diamond<colour id="65535" /></message>
+	<message label="101_c" attrib="00 00 00 00 00 00 00 00"><colour id="7" />♠Spade<colour id="65535" /></message>
+	<message label="101_d" attrib="00 00 00 00 00 00 00 00"><colour id="7" />♣Club<colour id="65535" /></message>
+	<message label="102_01" attrib="00 00 00 00 00 00 00 00"><anim id="NpcHoldout" target="actor" targetSpec="" /><delay20 />Ha! <delay20 />Yep, that's a <tag a="140" b="14" arg="0xcd00" />!</message>
+	<message label="102_02" attrib="00 00 00 00 00 00 00 00"><anim id="NpcHoldout" target="actor" targetSpec="" /><delay20 />Aw! <delay20 />It's a <tag a="140" b="14" arg="0xcd00" />. <delay20 />Sorry.</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />You got it, <tag a="110" b="5" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So, <delay20 />all cards have suits—the <colour id="6" />♥heart<colour id="65535" />,
+<colour id="6" />♦diamond<colour id="65535" />, <colour id="7" />♠spade<colour id="65535" />, or <colour id="7" />♣club<colour id="65535" /> marks.<delay20 />
+And all suits are either <colour id="6" />red<colour id="65535" /> or <colour id="7" />black<colour id="65535" />.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />This is real easy. <delay20 />All you gotta do is
+guess the suit color of the top card
+in the deck.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Guess right, and you get to keep
+my <tag a="125" b="0" arg="0x0" />.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />And that's it!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Right!<delay20 /> <anim id="NpcShuffle" target="actor" targetSpec="" />Here goes<tag a="110" b="0" /><delay frames="40" /></message>
+	<message label="201" attrib="00 00 01 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Alright, rock star, you're up. <delay20 />What
+color is the top card's suit?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="201_a" attrib="00 00 00 00 00 00 00 00"><colour id="6" />Red<colour id="65535" /></message>
+	<message label="201_b" attrib="00 00 00 00 00 00 00 00"><colour id="7" />Black<colour id="65535" /></message>
+	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="NpcHoldout" target="actor" targetSpec="" /><delay20 />Ha! <delay20 />Yep, that suit's definitely <colour id="6" />red<colour id="65535" />.<delay20 />
+It's a <tag a="140" b="14" arg="0xcd00" />!</message>
+	<message label="202_02" attrib="00 00 00 00 00 00 00 00"><anim id="NpcHoldout" target="actor" targetSpec="" /><delay20 />Aw! <delay20 />It's a <tag a="140" b="14" arg="0xcd00" />. <delay20 />The suit's
+<colour id="7" />black<colour id="65535" />. <delay20 />Sorry.</message>
+	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="NpcHoldout" target="actor" targetSpec="" /><delay20 />Ha! <delay20 />Yep, that suit's definitely <colour id="7" />black<colour id="65535" />.<delay20 />
+It's a <tag a="140" b="14" arg="0xcd00" />!</message>
+	<message label="202_04" attrib="00 00 00 00 00 00 00 00"><anim id="NpcHoldout" target="actor" targetSpec="" /><delay20 />Aw! <delay20 />It's a <tag a="140" b="14" arg="0xcd00" />. <delay20 />The suit's
+<colour id="6" />red<colour id="65535" />. <delay20 />Sorry.</message>
+</msbt>

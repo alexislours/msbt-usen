@@ -1,0 +1,22 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0x710 0x800 0xcd00" /></message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />We must stop meeting like
+this, <tag a="110" b="3" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />When it rains <tag a="110" b="1" />,
+it pours, apparently.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Haha, this is crazy! <delay20 />We meet again!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Yep, I'm still out here getting
+my rain on<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="008" attrib="00 00 0c 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />This weather is disgusting, but
+meeting up with you so many times
+has brightened my day!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="009" attrib="00 00 0c 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Why don't I use an umbrella?<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />That's like asking a flower why
+it doesn't use sunscreen!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />AHHH!<delay40 /> <anim id="Aha" target="actor" targetSpec="" />Oh, <tag a="110" b="3" /><tag a="110" b="0" />
+<anim id="Oops" target="actor" targetSpec="" />I couldn't hear you with
+all this rain.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Guess I'm a little jumpy today.<delay20 />
+<anim id="Shaking" target="actor" targetSpec="" />This kind of weather always gives
+me the heebie-jeebies<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

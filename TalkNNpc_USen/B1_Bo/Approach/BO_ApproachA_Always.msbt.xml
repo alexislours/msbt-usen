@@ -1,0 +1,13 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Oh, hey<tag a="110" b="0" /><delay20 /> You got a sec?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I was gonna tell you<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><delay20 /> Ummm<tag a="110" b="0" />
+<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />What was I gonna tell you?<10_4 />
+<anim id="Laughing" target="actor" targetSpec="" /><delay20 />I guess I forgot!</message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, so<tag a="110" b="0" /><delay40 /><anim id="Thinking" target="actor" targetSpec="" /> Umm<tag a="110" b="0" /><delay20 />I know I had
+something to say<tag a="110" b="0" /><delay frames="40" />buuuuuut<tag a="110" b="0" /><delay frames="40" />
+I forget what it was!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I had something on my mind,<delay8 /> but<tag a="110" b="0" /><delay frames="40" />
+<anim id="OhGeez" target="actor" targetSpec="" />I guess it slipped off!</message>
+	<message label="004" attrib="00 00 00 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh!<delay20 /> Hey there! I was so happy to
+see you, I forgot why I wanted to
+see you to begin with!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

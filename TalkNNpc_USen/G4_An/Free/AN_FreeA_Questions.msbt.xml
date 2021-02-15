@@ -1,0 +1,140 @@
+<msbt attribsize="8">
+	<message label="100" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="8" arg="0x1 0x65 0x65 0x65 0x65 0x65 0x1" /></message>
+	<message label="001" attrib="00 00 03 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />'Sup? <delay20 />Y'ever take a look at the sky?</message>
+	<message label="001_a" attrib="02 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nope.</message>
+	<message label="001_b" attrib="03 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />All the time!</message>
+	<message label="001_c" attrib="04 00 00 00 00 00 00 00">Uh...why would I?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Never?! <delay20 />Wow, are you missing out.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I mean, <delay20 />I don't stare at it all day or
+nothin'. <delay20 />But once in a while, it helps
+to put stuff in perspective.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />When I'm feelin' stressed, <delay20 />it's good
+to stop, <delay20 />look up, <delay20 />and watch the sky
+for a while, <tag a="110" b="5" />.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Grease yeah! <delay20 />I'm pretty into sky
+watchin' myself.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Whenever I feel the ol' blood start to
+boil, <delay20 />I chill out and watch the sky for
+a while to simmer down.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />It helps put me in the right mood to
+go apologize for whatever got me so
+heated to begin with, <tag a="110" b="5" />.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />You oughta try it, <tag a="110" b="5" />!
+<delay20 />Sure, folks'll look at you funny,
+but who cares what they think?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Maybe there's a pretty sunset or
+some wild-lookin' clouds up there.<delay20 />
+You never know till you check!</message>
+	<message label="101" attrib="00 00 03 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Sometimes it's tough to know how
+you're really feelin'. <delay20 />Try this.<delay frames="40" /> <anim id="AbsentMindedness" target="actor" targetSpec="" />Take a
+deep breath and look inside yourself.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Now, <delay20 />still inside yourself, <delay20 />look up.<delay20 />
+What's the weather like?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="101_a" attrib="66 00 00 00 00 00 00 00">Sunny skies.</message>
+	<message label="101_b" attrib="67 00 00 00 00 00 00 00">Dark clouds.</message>
+	<message label="101_c" attrib="68 00 00 00 00 00 00 00">Look out!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Nice! <delay20 />No wonder you always look so
+happy, <tag a="110" b="5" />. <delay20 />Can't argue
+with sunny skies, right?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh? <delay20 />Is everything alright?<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />Hey, it's
+cool. <delay20 />We all have tough times.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Ridin' out the storm till things get
+better can take a lot of patience. <delay20 />But
+remember, it's just a matter of time.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Till then, just try to find small ways
+to take care of yourself, alright?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />You
+got this, <tag a="110" b="5" />!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Yeah, I'm not gonna fall for that,
+<tag a="110" b="5" />.<delay20 /> Nice try, though.</message>
+	<message label="006" attrib="00 00 03 01 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Y'know how most folks like coffee a
+particular way? <delay20 />Well, me,<delay20 /> I see folks
+order and wanna try it THEIR way.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />So how 'bout it? <delay20 /><anim id="Hello" target="actor" targetSpec="" />What kinda coffee
+gets your morning goin'?</message>
+	<message label="006_a" attrib="07 00 00 00 00 00 00 00">Black for me.</message>
+	<message label="006_b" attrib="08 00 00 00 00 00 00 00">Plenty of cream.</message>
+	<message label="006_c" attrib="09 00 00 00 00 00 00 00">Gimme sugar!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Bwahaha! <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />Yeah, that's a kick that'll
+get you outta bed. <delay20 />Some folks can't
+get used to the bitterness<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />But that's the point of coffee! <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />Your
+first sip should make you wanna
+hit back, <tag a="110" b="5" />!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />So you like it to go down smooth,
+<tag a="110" b="5" />?<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />Yeah, that's me
+some days too.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />When you wake up in a lousy mood,<delay20 />
+the last thing you need is your
+coffee rubbin' salt in the wound.</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Caffeine AND sugar?! <delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" />Guess that's
+the choice for folks who wanna stay
+wired all day, <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />It ain't a bad idea though, <delay20 />if you
+know you got a long day ahead of
+you. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Helps to go in swingin'!</message>
+	<message label="011" attrib="00 00 03 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, so you've got this garden, right?<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />You decide to grow flowers in it, but
+what kinda flowers are they?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Don't think too hard about it. <delay20 />Just go
+with your gut, <tag a="110" b="5" />!</message>
+	<message label="011_a" attrib="0c 00 00 00 00 00 00 00">Cute flowers!</message>
+	<message label="011_b" attrib="0d 00 00 00 00 00 00 00">Elegant flowers!</message>
+	<message label="011_c" attrib="0e 00 00 00 00 00 00 00">Rare flowers!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Cute flowers, eh?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Cool! <delay20 />I bet that
+says a lot about you, and the kind
+of buddies you hang with.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you're growin' cute flowers<tag a="110" b="0" /><delay20 />that
+means your friends are gentle and
+shy, and you gotta look after 'em.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Maybe it's like that 'cause your pals
+think you're a rock they can lean
+on, <tag a="110" b="5" />!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Pretty flowers, eh?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Cool! <delay20 />I bet that
+says a lot about you, and the kind of
+buddies you hang with.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />A garden full of elegant flowers
+means you hang out with stylish,<delay20 />
+<delay20 />complex, <delay20 />and artistic types.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Kind of another way of sayin' you've
+got fancy tastes, <tag a="110" b="5" />!</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Well, well, well! <delay20 />Rare flowers, eh?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />I bet that says a lot about you, and
+the kind of buddies you hang with.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />With rare flowers, <delay20 />you probably have
+lots of pals who march to their own
+drummer, <delay20 />y'know what I mean?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />And nobody has friends like that
+without bein' at least a little open-
+minded, <delay20 />so props to you!</message>
+	<message label="041" attrib="00 00 03 01 00 00 00 00">'Sup<tag a="110" b="0" /><anim id="Sleepy" target="actor" targetSpec="" /><delay20 />with you? <delay20 />Whoof. <delay20 />Sorry 'bout
+that. <delay20 />I slept fine, but it FEELS like I
+pulled an all-nighter, <tag a="110" b="5" />.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I gotta figure out some way of gettin'
+my motor revved. <delay20 />Any ideas?</message>
+	<message label="041_a" attrib="2a 00 00 00 00 00 00 00">Move your body!</message>
+	<message label="041_b" attrib="2b 00 00 00 00 00 00 00">Try a cold shower?</message>
+	<message label="041_c" attrib="2c 00 00 00 00 00 00 00">Just go back to sleep.</message>
+	<message label="042" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Exercise, huh? <delay20 />There's an idea.<delay20 />
+Didn't expect that from you, but
+it's not bad.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Never been a huge fan of that stuff
+myself, but I gotta admit—it gets the
+blood pumpin', <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Sure, I'll give it a shot<tag a="110" b="0" /><delay frames="40" /><anim id="ShyBoy" target="actor" targetSpec="" />tomorrow.</message>
+	<message label="043" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Yikes! <delay20 />That's a bold play. <delay20 /><anim id="Negative" target="actor" targetSpec="" />What's
+next, <delay20 />you gonna tell me to eat a hot
+pepper for breakfast?<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Actually, that might work! <delay frames="40" /><anim id="Explain" target="actor" targetSpec="" />And I do
+like hot peppers<tag a="110" b="0" /><delay20 /> Yeah! <delay20 />That could
+be just the ticket, <tag a="110" b="5" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Good idea, <tag a="110" b="3" />. <delay20 />I'll be
+sure to remember you suggested
+something that suggested peppers!</message>
+	<message label="044" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />For real, <tag a="110" b="5" />? <delay20 />When you're
+not feelin' it, you just hit the
+snooze button on life? <delay20 />Wow.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />But I guess there's somethin' to be
+said for getting some real rest and
+not staggerin' around like a zombie.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />In fact, you know what? <delay20 />You're right!<delay20 />
+I'm goin' back to sleep right now!<10_4 />
+<anim id="Sighing" target="actor" targetSpec="" />Nah, not really<tag a="110" b="0" /><delay20 />I got stuff to do.</message>
+	<message label="051" attrib="00 00 03 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />How've you been? <delay20 />Had any good
+meals lately, <tag a="110" b="5" />?</message>
+	<message label="051_a" attrib="34 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Every day!</message>
+	<message label="051_b" attrib="35 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Once in a while.</message>
+	<message label="051_c" attrib="36 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Come to think of it...</message>
+	<message label="052" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Rock on! <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />So many folks just eat
+'cause they gotta and don't take
+the time to make somethin' good.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />When you know you've got somethin'
+to look forward to for dinner,<delay20 /> it helps
+the whole day go by faster.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And listen, <delay20 />if you like good food, you
+gotta try my cooking sometime. <delay20 /><anim id="Scheming" target="actor" targetSpec="" />I'll
+serve up a meal you'll never forget!</message>
+	<message label="053" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Good to hear it. <delay20 />If you forget what
+it's like to enjoy food, pretty soon
+your whole life seems stale.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />A nice meal gets me fired up! <delay20 />It's
+like, <delay20 />"Oh yeah, THIS is what it's all
+about!" <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />Then I can take on the world!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It'd be cool if I could feel like that
+all the time<tag a="110" b="0" /><anim id="ShyBoy" target="actor" targetSpec="" />but if you treat yourself
+every day, it stops feelin' special.</message>
+	<message label="054" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Yo<tag a="110" b="0" /><delay20 />that's not good.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Look, it ain't complicated. <delay20 />If you're
+not feedin' your mouth, you're not
+feedin' your spirit.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />If you don't wanna cook, <delay20 />come by my
+place sometime and I'll cook for you.<delay20 />
+<anim id="Grin" target="actor" targetSpec="" />It's for your own good, <tag a="110" b="5" />!</message>
+</msbt>

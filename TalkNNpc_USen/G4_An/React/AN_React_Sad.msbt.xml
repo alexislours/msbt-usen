@@ -1,0 +1,45 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Sighing" target="actor" targetSpec="" />Real talk<tag a="110" b="0" /><delay20 />I ain't up for shootin' the
+breeze with anyone right now.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Negative" target="actor" targetSpec="" />I was already feeling bad, and now
+you seein' me like this is making it
+even worse, <tag a="110" b="5" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Just<tag a="110" b="0" /><delay20 />back off for a while, OK?<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I'll get over this funk before too long,
+probably. <delay frames="40" /><anim id="SadSpiral" target="actor" targetSpec="" />Just gimme some time to
+work on it, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />How come nothin' ever goes the way
+I want it to, <tag a="110" b="5" />?<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />How did somethin' I thought would
+be cool turn into such a disaster?<delay frames="40" />
+<anim id="SadSpiral" target="actor" targetSpec="" />Feel like I messed this one up bad<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Sighing" target="actor" targetSpec="" />Ugh<tag a="110" b="0" /><delay20 />what a fiasco THAT turned into.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="103" attrib="00 00 01 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I fixed up some <tag a="135" b="3" arg="0xcd00" /><tag a="110" b="0" /><delay frames="40" />
+<anim id="SadSpiral" target="actor" targetSpec="" />but <tag a="115" b="1" arg="0xcd00" /> said it tasted
+like day-old <tag a="135" b="1" arg="0xcd00" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You gotta take the bad with the good
+in experimental dishes, but this<tag a="110" b="0" /><delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />Well, it was a lotta bad to take.</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">Aw, I'm sure it's fine.</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00">That bad, huh?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You're tryin' to cheer me up, huh?<delay frames="40" />
+<anim id="Hesitate" target="actor" targetSpec="" />Look, <tag a="110" b="5" /><tag a="110" b="0" /><delay20 />I don't want
+YOU to feel bad, so<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Let's say it worked! <delay frames="40" /><anim id="Assent" target="actor" targetSpec="" />Yeah, once I get
+this recipe down, <delay20 />those plates'll be
+so clean I won't need a dishwasher!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Serious" target="actor" targetSpec="" />I meant to give 'em a taste test first,
+but I ran outta time. <delay20 />Lesson one,
+<delay20 /><anim id="Oops" target="actor" targetSpec="" />ALWAYS do a taste test<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />Not right now, <tag a="110" b="5" />. I'm still
+kinda feelin' sore.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Negative" target="actor" targetSpec="" />Leave me alone, OK? <delay20 />You've done
+enough, <tag a="110" b="5" />.<endTag a="100" b="1" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />What is it this time? <delay20 />Not that
+I care.<delay20 /> <anim id="Sighing" target="actor" targetSpec="" />Bleahhhh<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="203" attrib="00 00 01 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" /><tag a="110" b="0" />Yo,<delay20 /> if you got somethin' to say,
+then say it already, <tag a="110" b="5" />.</message>
+	<message label="203_a" attrib="00 00 00 00 00 00 00 00"><anim id="Apologize" target="actor" targetSpec="" />I'm really sorry!</message>
+	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I, uh... Um...</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00">Hmm<tag a="110" b="0" /> <10_4 /><anim id="Nodding" target="actor" targetSpec="" />Fair enough. <delay20 />We're good.<pageBreak /><anim id="Silent" target="actor" targetSpec="" />But if you EVER do that again<tag a="110" b="0" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Fiiiine. <delay20 />I get it. <delay20 />You feel bad and
+you're really, really, sorry.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Grovelin' ain't a good look for you,<delay frames="40" />
+<anim id="Assent" target="actor" targetSpec="" />so I forgive you THIS time.</message>
+</msbt>

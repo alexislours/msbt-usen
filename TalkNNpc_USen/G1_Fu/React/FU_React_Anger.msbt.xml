@@ -1,0 +1,54 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />Not now,<delay20 /> OK?<delay frames="40" /><anim id="Silent" target="actor" targetSpec="" /> I'm too annoyed<delay20 />
+to talk to anyone right now!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Outraged" target="actor" targetSpec="" />Grrrrr!<delay frames="60" /> <anim id="Angry" target="actor" targetSpec="" />I'm sorry,<delay20 /> but right now
+I don't want to talk about it.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />Even I get mad sometimes.<delay frames="40" />
+<anim id="Silent" target="actor" targetSpec="" />I'm sorry,<delay20 /> but please just<delay8 /><tag a="110" b="0" />
+leave me alone for a while.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />There are some things<delay20 /> you <anim id="OhGeez" target="actor" targetSpec="" />just don't
+blurt out like that!<delay40 /> Why doesn't
+<tag a="115" b="1" arg="0xcd00" /> know that?<anim id="Angry" target="actor" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Worried" target="actor" targetSpec="" />That was,<delay20 /> without a doubt,<delay20 />
+<anim id="Serious" target="actor" targetSpec="" />completely uncalled for!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />I hate spoilers!<delay frames="40" /> Guess that possibility
+didn't occur to <tag a="115" b="1" arg="0xcd00" /><delay20 />!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />You won't believe this!<delay frames="30" /> <anim id="Angry" target="actor" targetSpec="" />I was reading
+my book,<delay20 /> and <anim id="Silent" target="actor" targetSpec="" />I'd just gotten to a
+really good part<delay8 /><tag a="110" b="0" />
+<anim id="Pardon" target="actor" targetSpec="" />Then <tag a="115" b="1" arg="0xcd00" /> walks by<delay20 />
+<anim id="OhGeez" target="actor" targetSpec="" />and asks if I'd reached the big
+plot twist in the story yet!
+<anim id="SadSpiral" target="actor" targetSpec="" />How I can fully enjoy my book now,<delay20 />
+knowing that's coming?<delay frames="30" /> <anim id="Angry" target="actor" targetSpec="" />You get 
+that, don't you,<delay20 /> <tag a="110" b="3" />?</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">Sure I do.</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Well...</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh!<delay frames="30" /> <anim id="Smiling" target="actor" targetSpec="" />It makes me feel so much better<delay20 />
+that you understand why that would
+upset me,<delay20 /> <tag a="110" b="5" />!
+<anim id="Thinking" target="actor" targetSpec="" />I guess <tag a="115" b="1" arg="0xcd00" /> could've
+blurted that out without
+thinking.<delay frames="30" /> <anim id="Nodding" target="actor" targetSpec="" />It happens.
+<anim id="EmotEnd" target="actor" targetSpec="" />I'll try to forget about it<delay20 /> and <anim id="FaintSmile" target="actor" targetSpec="" />go
+back to enjoying my book.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Worried" target="actor" targetSpec="" />I guess it might not have been
+mean-spirited,<delay20 /> <anim id="Angry" target="actor" targetSpec="" />but now I can't
+enjoy my book unspoiled.
+<anim id="Outraged" target="actor" targetSpec="" />I'm just not over all this,<delay20 /> and
+I don't know when I will be!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />Sorry,<delay20 /> but I have nothing
+to say right now.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Silent" target="actor" targetSpec="" />I still need to work through my
+anger,<delay20 /> <anim id="Angry" target="actor" targetSpec="" />so please leave me be.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />I can get mad too,<delay20 /> you know!<delay frames="40" />
+<anim id="Silent" target="actor" targetSpec="" />Please just leave me alone.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="203" attrib="00 00 02 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, <anim id="Serious" target="actor" targetSpec="" />I'm really angry
+with you right now!<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Why can't you understand that?</message>
+	<message label="203_a" attrib="00 00 00 00 00 00 00 00">I'm sorry.</message>
+	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />My bad...</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Whew<delay8 /><tag a="110" b="0" /> Well,<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />you've apologized, <delay20 />
+and <anim id="Negative" target="actor" targetSpec="" />I can't stay mad at you forever.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Still friends,<delay20 /> OK?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />If you can understand, then<delay8 /><tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />It's water under the bridge now.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Being mad is exhausting anyway.</message>
+</msbt>

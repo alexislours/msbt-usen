@@ -1,0 +1,1001 @@
+<msbt attribsize="2">
+	<message label="0001" attrib="08 00">Are you sure you're OK with
+<colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="0001_a" attrib="01 00">Rethink It</message>
+	<message label="0001_b" attrib="01 00">OK</message>
+	<message label="0003" attrib="08 00">Do you want to suggest the name
+<colour id="0" /><tag a="115" b="2" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="0003_a" attrib="01 00">Rethink It</message>
+	<message label="0003_b" attrib="01 00">OK</message>
+	<message label="0004" attrib="01 00">You've included a word or phrase
+that can't be used.</message>
+	<message label="0004_a" attrib="01 00">Back</message>
+	<message label="0005" attrib="01 00">You can only use up to 5 numbers.</message>
+	<message label="0005_a" attrib="01 00">Back</message>
+	<message label="0011" attrib="20 09">Are you sure you want to delete your
+save data, <tag a="110" b="1" />?
+You won't be able to undo your
+decision.</message>
+	<message label="0011_a" attrib="01 01"><colour id="6" />Delete it.<colour id="65535" /></message>
+	<message label="0011_b" attrib="01 02">No, cancel.</message>
+	<message label="0012" attrib="20 09">Are you sure you want to delete
+<tag a="115" b="0" arg="0xcd01" />'s save data?
+You won't be able to undo your
+decision.</message>
+	<message label="0012_a" attrib="01 01"><colour id="6" />Delete it.<colour id="65535" /></message>
+	<message label="0012_b" attrib="01 02">No, cancel.</message>
+	<message label="0101" attrib="08 00">Craft <tag a="50" b="2" />
+<colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />?</message>
+	<message label="0101_a" attrib="01 00">Nah.</message>
+	<message label="0101_b" attrib="01 05">Let's do it!</message>
+	<message label="0102" attrib="06 09">You're a little short on materials.</message>
+	<message label="0102_a" attrib="01 06">Close</message>
+	<message label="0103" attrib="06 09">Your pockets are too full for doing
+any DIY projects right now.</message>
+	<message label="0103_a" attrib="01 06">Close</message>
+	<message label="0104" attrib="01 09">Nothing changed! Select a design
+that is different from the current one.</message>
+	<message label="0104_a" attrib="01 06">Close</message>
+	<message label="0105" attrib="01 00">Some items can be customized with a
+custom design. <colour id="0" />Items customized
+with a custom design cannot be
+dropped on the ground.
+If a custom design is updated, any
+items customized with it will use the
+updated design.<colour id="65535" /></message>
+	<message label="0105_a" attrib="01 00">Close</message>
+	<message label="0201" attrib="06 09">You don't have any songs you
+can register!</message>
+	<message label="0201_a" attrib="01 06">Close</message>
+	<message label="0202" attrib="06 09">Your pockets are too full to hold this.</message>
+	<message label="0202_a" attrib="01 06">Close</message>
+	<message label="0301" attrib="06 09">Your pockets are too full to hold this.</message>
+	<message label="0301_a" attrib="01 06">Close</message>
+	<message label="0310" attrib="02 00">Hold on just a sec, OK?</message>
+	<message label="0321" attrib="01 09">You can't favorite a message if you
+haven't even read it yet!</message>
+	<message label="0322" attrib="01 09">You can't favorite shipments!</message>
+	<message label="0331" attrib="01 09">You can't throw away favorited
+messages!</message>
+	<message label="0332" attrib="01 09">You can favorite up to <tag a="90" b="2" arg="0x0" /> messages.</message>
+	<message label="0333" attrib="01 09">You can't throw away message cards
+that have presents attached!</message>
+	<message label="0402" attrib="01 09">Enter a future day, OK?</message>
+	<message label="0501" attrib="01 09">You don't have anywhere to put
+the clothes you're removing.</message>
+	<message label="0502" attrib="01 09">Select something to register!</message>
+	<message label="0503" attrib="01 09">You don't have anything you
+can remove.</message>
+	<message label="0504" attrib="01 00"><colour id="0" />You can now use your closet to edit
+wand outfits!<colour id="65535" /><pageBreak />If you use the <colour id="1" />Edit Wand Outfits
+<colour id="65535" />option to create outfits, you can later
+switch into them using a <colour id="1" />wand<colour id="65535" />.<pageBreak /><colour id="0" />Using a wand outfit is considered a
+transformation, rather than actually
+changing your clothes.<pageBreak />What you're wearing underneath the
+transformation will not change.<colour id="65535" /></message>
+	<message label="0551" attrib="01 09">You're not wearing anything that can
+be part of an outfit!</message>
+	<message label="0552" attrib="01 09">This outfit can't fit in your storage
+right now.</message>
+	<message label="0601" attrib="01 09">Not enough miles.</message>
+	<message label="0602" attrib="01 00">Only <colour id="1" />Nook Miles+<colour id="65535" /> members can
+order this item.
+<colour id="0" />The Nook Miles+ service is for
+customers with home contracts.<colour id="65535" /></message>
+	<message label="0603" attrib="01 09">Miles-redemption <colour id="1" />mail <colour id="65535" />orders are
+limited to 5 items per day.</message>
+	<message label="0802" attrib="12 00"><colour id="0" />About Local and Online Play<colour id="65535" />
+During local and online play, other
+players you play with can see player-
+generated <colour id="1" />text <colour id="65535" />and <colour id="1" />graphics<colour id="65535" /> such as:<pageBreak /><colour id="1" />names<colour id="65535" />, <colour id="1" />chat<colour id="65535" />, <colour id="1" />bulletin-board posts<colour id="65535" />,
+the<colour id="1" /> look of the entire island<colour id="65535" />, <colour id="1" />rooms in
+homes<colour id="65535" />, <colour id="1" />custom designs<colour id="65535" />, and other
+content. Please be mindful of the
+content you share with others as you
+enjoy communicating with them.</message>
+	<message label="0802_a" attrib="01 00">I understand.</message>
+	<message label="0803" attrib="06 09">Sorry, that island can't accommodate
+any more visitors right now.</message>
+	<message label="0803_a" attrib="01 04">Back</message>
+	<message label="0921" attrib="06 06">You can make up to two posts during
+one trip.</message>
+	<message label="0921_a" attrib="01 06">OK</message>
+	<message label="0922" attrib="06 09">You can make a maximum of two
+posts per trip.</message>
+	<message label="0922_a" attrib="01 04">Back</message>
+	<message label="0951" attrib="08 00">Do you want to erase everything you
+drew by hand? (You can't undo this!)</message>
+	<message label="0951_a" attrib="01 00">Actually, no.</message>
+	<message label="0951_b" attrib="01 00">Erase it all.</message>
+	<message label="0952" attrib="08 00">Do you want to stop writing?</message>
+	<message label="0952_a" attrib="01 00">Keep writing.</message>
+	<message label="0952_b" attrib="01 00">Stop.</message>
+	<message label="0953" attrib="08 00">Do you want to stop editing with
+the keyboard? <colour id="0" />*Anything you've
+entered this time will be removed.<colour id="65535" /></message>
+	<message label="0953_a" attrib="01 00">Keep writing.</message>
+	<message label="0953_b" attrib="01 00">Stop.</message>
+	<message label="1001" attrib="08 00">Is <tag a="90" b="35" arg="0xcd00" /> <tag a="90" b="36" arg="0xcd00" /> your birthday?</message>
+	<message label="1001_a" attrib="01 00">Redo</message>
+	<message label="1001_b" attrib="01 05">OK</message>
+	<message label="1101" attrib="02 00">Searching for products...</message>
+	<message label="1102" attrib="06 09">No products found.</message>
+	<message label="1102_a" attrib="01 00">Close</message>
+	<message label="1103" attrib="06 09">Not enough Bells.</message>
+	<message label="1103_a" attrib="01 00">Close</message>
+	<message label="1104" attrib="08 00">Order <tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />
+for <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="65535" />?</message>
+	<message label="1104_a" attrib="01 00">Cancel</message>
+	<message label="1104_b" attrib="01 00">Place Order</message>
+	<message label="1105" attrib="0c 00"><colour id="1" />Order <tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="1" />
+for <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="1" />?<colour id="65535" /></message>
+	<message label="1105_a" attrib="01 00">Place Order</message>
+	<message label="1105_b" attrib="01 00">Send as Gift</message>
+	<message label="1105_c" attrib="01 00">Cancel</message>
+	<message label="1108" attrib="06 06">Your order has been placed! Your
+order will be delivered shortly to
+your home through the mail.</message>
+	<message label="1108_a" attrib="01 06">OK</message>
+	<message label="1109" attrib="06 06">Your order for <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />
+has been received!</message>
+	<message label="1109_a" attrib="01 06">OK</message>
+	<message label="1111" attrib="06 09">Catalog orders are limited to a
+maximum of 5 items per customer
+per day.</message>
+	<message label="1111_a" attrib="01 00">Close</message>
+	<message label="1112" attrib="08 00">That'll be <colour id="1" /><tag a="90" b="26" arg="0x0" /><colour id="65535" />.
+Would you like to send this item?</message>
+	<message label="1112_a" attrib="01 00">No.</message>
+	<message label="1112_b" attrib="01 00">OK!</message>
+	<message label="1113" attrib="08 00">Do you want to erase this card
+and cancel your order for
+<colour id="1" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />?</message>
+	<message label="1113_a" attrib="01 00">Keep writing.</message>
+	<message label="1113_b" attrib="01 00">Stop writing.</message>
+	<message label="1114" attrib="06 00">This item is not for sale and can't be
+ordered right now.</message>
+	<message label="1114_a" attrib="01 00">Close</message>
+	<message label="1201" attrib="08 00">Are you sure you want to delete
+"<tag a="115" b="3" arg="0xcd00" />"?</message>
+	<message label="1201_a" attrib="01 00">Actually, no.</message>
+	<message label="1201_b" attrib="01 00">Delete it.</message>
+	<message label="1202" attrib="08 00">Are you sure you want to delete
+"<tag a="115" b="3" arg="0xcd00" />,"
+designed by <tag a="115" b="0" arg="0xcd00" />?</message>
+	<message label="1202_a" attrib="01 00">Actually, no.</message>
+	<message label="1202_b" attrib="01 00">Delete it.</message>
+	<message label="1203" attrib="01 00">Select a custom design that can
+be deleted.</message>
+	<message label="1203_a" attrib="01 00">OK</message>
+	<message label="1204" attrib="08 00">Are you sure you want to delete
+"<tag a="115" b="3" arg="0xcd00" />,"
+saved by <tag a="115" b="0" arg="0xcd00" />?</message>
+	<message label="1204_a" attrib="01 00">Actually, no.</message>
+	<message label="1204_b" attrib="01 00">Delete it.</message>
+	<message label="1300" attrib="02 00">Your save data will be deleted.
+<colour id="0" />Do not touch the  POWER Button.<colour id="65535" /></message>
+	<message label="1308" attrib="1c 00">The system is set to a date outside
+the supported range.<pageBreak />Please close the game from the
+HOME Menu and restart after
+setting a date between
+1/1/2000 and 12/31/2060.</message>
+	<message label="1310" attrib="20 00">The save data is damaged. Would you
+like to delete the damaged save data
+and start the game over?</message>
+	<message label="1310_a" attrib="1a 05">Start over.</message>
+	<message label="1310_b" attrib="1a 02">No.</message>
+	<message label="1311" attrib="1c 00">The game cannot be played with
+damaged save data. Please close
+the game from the HOME Menu.</message>
+	<message label="1312" attrib="05 06">The save data has been deleted.
+The game will now start.</message>
+	<message label="1312_a" attrib="01 06">OK</message>
+	<message label="1325" attrib="01 00">It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1326" attrib="01 00">Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1327" attrib="03 00">Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1328" attrib="14 00">キャラクターの<ruby a="4" b="6">なまえ</ruby>名前や
+ゲーム<ruby a="2" b="4">ない</ruby>内の<ruby a="4" b="8">ひょうじ</ruby>表示が<ruby a="2" b="2">か</ruby>変わってしまいますが、
+このまま<ruby a="2" b="4">はじ</ruby>始めますか？
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1328_a" attrib="0e 00">いいえ / No</message>
+	<message label="1328_b" attrib="0e 00">はい / Yes</message>
+	<message label="1329" attrib="14 00">Character names and UI elements
+vary from language to language.
+Do you still want to start playing?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1329_a" attrib="0e 00">No / No</message>
+	<message label="1329_b" attrib="0e 00">Yes / Yes</message>
+	<message label="1330" attrib="14 00">Le nom des personnages et certains
+éléments d'interface peuvent différer
+d'une langue à l'autre. Continuer?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1330_a" attrib="0e 00">Non / No</message>
+	<message label="1330_b" attrib="0e 00">Oui / Yes</message>
+	<message label="1331" attrib="14 00">Los nombres de los personajes y otros
+aspectos del juego pueden cambiar
+según el idioma. ¿Quieres continuar?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1331_a" attrib="0e 00">No / No</message>
+	<message label="1331_b" attrib="0e 00">Sí / Yes</message>
+	<message label="1332" attrib="14 00">Character names and UI elements
+vary from language to language.
+Do you still want to start playing?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1332_a" attrib="0e 00">No / No</message>
+	<message label="1332_b" attrib="0e 00">Yes / Yes</message>
+	<message label="1333" attrib="14 00">Los nombres de los personajes y otros
+aspectos del juego pueden cambiar
+según el idioma. ¿Quieres continuar?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1333_a" attrib="0e 00">No / No</message>
+	<message label="1333_b" attrib="0e 00">Sí / Yes</message>
+	<message label="1334" attrib="14 00">Le nom des personnages et certains
+éléments d'interface peuvent différer
+d'une langue à l'autre. Continuer ?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1334_a" attrib="0e 00">Non / No</message>
+	<message label="1334_b" attrib="0e 00">Oui / Yes</message>
+	<message label="1335" attrib="14 00">Namen von Figuren, Menüs usw.
+können sich in anderen Sprachen
+unterscheiden. Trotzdem fortfahren?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1335_a" attrib="0e 00">Nein / No</message>
+	<message label="1335_b" attrib="0e 00">Ja / Yes</message>
+	<message label="1336" attrib="14 00">I nomi dei personaggi e altri aspetti
+del gioco possono cambiare in base
+alla lingua. Vuoi davvero continuare?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1336_a" attrib="0e 00">No / No</message>
+	<message label="1336_b" attrib="0e 00">Sì / Yes</message>
+	<message label="1337" attrib="14 00">Namen van personages en scherm-
+elementen zijn per taal anders. Wil je
+nog steeds beginnen met spelen?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1337_a" attrib="0e 00">Nee / No</message>
+	<message label="1337_b" attrib="0e 00">Ja / Yes</message>
+	<message label="1338" attrib="14 00">Имена персонажей и элементы
+интерфейса различаются в разных
+языках. Все равно начать игру?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1338_a" attrib="0e 00">Нет / No</message>
+	<message label="1338_b" attrib="0e 00">Да / Yes</message>
+	<message label="1339" attrib="14 00">캐릭터의 이름과
+게임 내 표시가 달라집니다
+이대로 시작하시겠습니까?
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1339_a" attrib="0e 00">아니요 / No</message>
+	<message label="1339_b" attrib="0e 00">예 / Yes</message>
+	<message label="1340" attrib="14 00">角色的名字和游戏内的显示
+将会改变，就这样开始游戏吗？
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1340_a" attrib="0e 00">否 / No</message>
+	<message label="1340_b" attrib="0e 00">是 / Yes</message>
+	<message label="1341" attrib="14 00">角色名稱或遊戲內的顯示將會改變，
+要直接開始遊戲嗎？
+
+Character names and UI elements
+vary from language to language.
+Do you still want to start playing?</message>
+	<message label="1341_a" attrib="0e 00">否 / No</message>
+	<message label="1341_b" attrib="0e 00">是 / Yes</message>
+	<message label="1342" attrib="10 00"><ruby a="8" b="6">ホーム</ruby>HOMEメニューの　<ruby a="4" b="8">せってい</ruby>設定で
+<ruby a="2" b="4">もと</ruby>元の<ruby a="4" b="6">げんご</ruby>言語に　<ruby a="2" b="4">もど</ruby>戻してから
+ゲームを<ruby a="6" b="10">さいきどう</ruby>再起動してください。
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1343" attrib="10 00">Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1344" attrib="10 00">Réinitialise les paramètres de langue
+dans les paramètres de la console via
+le menu HOME, et redémarre le jeu.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1345" attrib="10 00">Accede a la configuración de la
+consola desde el menú HOME, revierte
+los ajustes de idioma y reinicia el juego.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1346" attrib="10 00">Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1347" attrib="10 00">Accede a la configuración de la
+consola desde el menú HOME, revierte
+los ajustes de idioma y reinicia el juego.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1348" attrib="10 00">Réinitialise les paramètres de langue
+depuis les paramètres de la console
+du menu HOME et redémarre le jeu.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1349" attrib="10 00">Setze deine Spracheinstellungen in den
+ Systemeinstellungen im HOME-Menü
+zurück und starte das Spiel erneut.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1350" attrib="10 00">Reimposta la lingua della console
+in Impostazioni di sistema nel menu
+HOME e riavvia il gioco.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1351" attrib="10 00">Stel via de systeeminstellingen in het
+HOME-menu je oorspronkelijke taal
+in en start de game opnieuw op.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1352" attrib="10 00">Восстановите настройки языка,
+перейдя в системные настройки из
+меню HOME, и перезапустите игру.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1353" attrib="10 00">HOME 메뉴의 설정에서
+원래 언어로 되돌린 후
+게임을 다시 시작해주세요.
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1354" attrib="10 00">请在HOME菜单恢复语言设置后
+重新启动游戏。
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1355" attrib="10 00">請於HOME選單恢復語言設定後，
+再重新啟動遊戲。
+
+Please revert your language settings
+via the System Settings in the
+HOME Menu and restart the game.</message>
+	<message label="1356" attrib="12 03"><ruby a="4" b="8">ぜんかい</ruby>前回プレイ<ruby a="2" b="2">じ</ruby>時と
+<ruby a="8" b="14">げんごせってい</ruby>言語設定が<ruby a="2" b="4">こと</ruby>異なるようです。
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1356_a" attrib="0e 03">つぎへ / Next</message>
+	<message label="1357" attrib="12 03">It looks like your language settings
+have changed since the last time
+you played.
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1357_a" attrib="0e 03">Next / Next</message>
+	<message label="1358" attrib="12 03">Les paramètres de langue ont été
+modifiés depuis la dernière fois que
+tu as joué.
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1358_a" attrib="0e 03">Suivant / Next</message>
+	<message label="1359" attrib="12 03">Los ajustes de idioma cambiaron
+desde la última vez que jugaste.
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1359_a" attrib="0e 03">Siguiente / Next</message>
+	<message label="1360" attrib="12 03">It looks like your language settings
+have changed since the last time
+you played.
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1360_a" attrib="0e 03">Next / Next</message>
+	<message label="1361" attrib="12 03">Los ajustes de idioma han cambiado
+desde la última vez que jugaste.
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1361_a" attrib="0e 03">Siguiente / Next</message>
+	<message label="1362" attrib="12 03">Les paramètres de langue ont été
+modifiés depuis la dernière fois que
+tu as joué.
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1362_a" attrib="0e 03">Suivant / Next</message>
+	<message label="1363" attrib="12 03">Anscheinend haben sich deine
+Spracheinstellungen seit dem letzten
+Spielen geändert.
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1363_a" attrib="0e 03">Weiter / Next</message>
+	<message label="1364" attrib="12 03">Le impostazioni relative alla lingua
+sono cambiate dall'ultima volta che
+hai giocato.
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1364_a" attrib="0e 03">Avanti / Next</message>
+	<message label="1365" attrib="12 03">Het lijkt erop dat je taalinstellingen
+zijn gewijzigd sinds je voor het
+laatst hebt gespeeld.
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1365_a" attrib="0e 03">Volgende / Next</message>
+	<message label="1366" attrib="12 03">Похоже, что настройки языка
+изменились с последнего
+сеанса игры.
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1366_a" attrib="0e 03">Далее / Next</message>
+	<message label="1367" attrib="12 03">지난번 플레이 때와
+언어 설정이 다릅니다
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1367_a" attrib="0e 03">다음 / Next</message>
+	<message label="1368" attrib="12 03">语言设置似乎与上次游戏时不同。
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1368_a" attrib="0e 03">下一页 / Next</message>
+	<message label="1370" attrib="12 03">語言設定似乎與上次遊玩時不同。
+
+It looks like your language settings
+have changed since the last time
+you played.</message>
+	<message label="1370_a" attrib="0e 03">下一頁 / Next</message>
+	<message label="1501" attrib="08 00">Are you sure you want to discard
+your changes?</message>
+	<message label="1501_a" attrib="01 00">Keep editing!</message>
+	<message label="1501_b" attrib="01 00">Discard!</message>
+	<message label="1502" attrib="08 00">Do you want to revert all the color
+changes you just made?</message>
+	<message label="1502_a" attrib="01 00">Make changes.</message>
+	<message label="1502_b" attrib="01 00">Revert.</message>
+	<message label="1601" attrib="01 09">Could not read this amiibo.</message>
+	<message label="1602" attrib="0d 09">The controller you are using cannot
+be used to read amiibo. Please use a
+controller that is compatible with
+amiibo. <colour id="1" />Note that the Pro Controller
+cannot read amiibo while connected
+to the system via wired communication.<colour id="65535" /></message>
+	<message label="1605" attrib="01 09"><colour id="3" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> <colour id="65535" />is already
+in Photopia.</message>
+	<message label="1606" attrib="01 09"><colour id="3" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> <colour id="65535" />can't be invited
+to Photopia.</message>
+	<message label="1607" attrib="01 00">Up to 10 characters can be invited
+at once.</message>
+	<message label="1608" attrib="01 09">There's no free space available to
+invite this character.</message>
+	<message label="1609" attrib="07 00">Would you like to call Timmy
+or Tommy?</message>
+	<message label="1609_a" attrib="01 00">Timmy.</message>
+	<message label="1609_b" attrib="01 00">Tommy.</message>
+	<message label="1610" attrib="01 09">You can't invite the Villager
+to Photopia.</message>
+	<message label="1612" attrib="01 09">When Airplane Mode is on, amiibo
+can't be read. <colour id="1" />Hold down <colour id="65535" /> to
+access Quick Settings, where you
+can turn off Airplane Mode.</message>
+	<message label="1613" attrib="01 09">The device used is not an amiibo.</message>
+	<message label="1614" attrib="01 09">This amiibo is not supported.</message>
+	<message label="1701" attrib="06 09">This isn't any different from your
+current home!</message>
+	<message label="1701_a" attrib="01 04">Back</message>
+	<message label="1801" attrib="06 09"><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> doesn't have a
+home yet and can't receive mail.</message>
+	<message label="1801_a" attrib="01 04">Back</message>
+	<message label="2001" attrib="06 09">You don't have enough Bells.</message>
+	<message label="2001_a" attrib="01 06">Close</message>
+	<message label="2002" attrib="06 09">You don't have room in your pockets
+for this purchase!</message>
+	<message label="2002_a" attrib="01 06">Close</message>
+	<message label="2003" attrib="06 09">You don't have room for this
+purchase in your pockets or storage.</message>
+	<message label="2003_a" attrib="01 06">Close</message>
+	<message label="2004" attrib="08 00">Ready to make your purchase?</message>
+	<message label="2004_a" attrib="01 00">Nope.</message>
+	<message label="2004_b" attrib="01 05">Yes, please!</message>
+	<message label="2005" attrib="07 00">Do you want to wear what you
+picked out?</message>
+	<message label="2005_a" attrib="01 00">No, thanks.</message>
+	<message label="2005_b" attrib="01 05">Yeah!</message>
+	<message label="2201" attrib="01 09">You don't currently have any savings.</message>
+	<message label="2202" attrib="01 09">You can't add more to your savings.</message>
+	<message label="2203" attrib="01 09">You have no room for a withdrawal!</message>
+	<message label="2301" attrib="08 00">When your fee is transferred,
+any Bells that don't fit in your bank
+account will be lost. Is that OK?</message>
+	<message label="2301_a" attrib="01 00">Nope.</message>
+	<message label="2301_b" attrib="01 00">Sell anyway!</message>
+	<message label="3001" attrib="01 00">A voucher you can <colour id="1" />sell <colour id="65535" />in the shop
+for <colour id="1" />3,000 Bells<colour id="65535" />.
+<colour id="0" />This voucher is issued immediately.<colour id="65535" /></message>
+	<message label="3002" attrib="01 00">Take this ticket to the airport to
+participate in a special tour.
+Enquire at the airport for details.
+<colour id="0" />This ticket is issued immediately.<colour id="65535" /></message>
+	<message label="3003" attrib="01 00">A collection of 6 DIY recipes for
+tools with excellent durability.
+<colour id="0" />Data will be sent to the customer's
+NookPhone upon redemption.<colour id="65535" /></message>
+	<message label="3004" attrib="01 00">Allows you to use the <colour id="1" />Tool Ring<colour id="65535" /> to
+easily swap between favorite tools.
+<colour id="0" />Detailed information will be printed
+upon redemption.<colour id="65535" /></message>
+	<message label="3005" attrib="01 00">Change up your look at a <colour id="1" />mirror <colour id="65535" />or<colour id="1" />
+vanity <colour id="65535" />with these cool hairstyles!
+<colour id="0" />Book will be printed immediately
+upon redemption.<colour id="65535" /></message>
+	<message label="3006" attrib="01 00">Change up your look at a <colour id="1" />mirror <colour id="65535" />or
+<colour id="1" />vanity <colour id="65535" />with these pop hairstyles!
+<colour id="0" />Book will be printed immediately
+upon redemption.<colour id="65535" /></message>
+	<message label="3007" attrib="01 00">Change up your look at a <colour id="1" />mirror <colour id="65535" />or
+<colour id="1" />vanity <colour id="65535" />with these new hair colors!
+<colour id="0" />Book will be printed immediately
+upon redemption.<colour id="65535" /></message>
+	<message label="3008" attrib="01 00">Information on pocket organization
+so you can carry more items.
+<colour id="0" />Printed immediately upon
+redemption.<colour id="65535" /></message>
+	<message label="3009" attrib="01 00">Information on mastering pocket
+organization for carrying even more.
+<colour id="0" />Printed immediately upon
+redemption.<colour id="65535" /></message>
+	<message label="3010" attrib="01 00">Adds professional design
+features to the customer's
+<colour id="1" />Custom Designs <colour id="65535" />app.
+<colour id="0" />App will be updated immediately.<colour id="65535" /></message>
+	<message label="3011" attrib="01 00">A special DIY recipe only obtainable
+by redeeming miles. Useful for
+customizing your island.
+<colour id="0" />Recipe will be printed immediately.<colour id="65535" /></message>
+	<message label="3012" attrib="01 00">A special item only obtainable by
+redeeming miles. Useful for
+customizing your island.
+<colour id="0" />Item will be delivered by mail.<colour id="65535" /></message>
+	<message label="3013" attrib="01 00">A <colour id="1" />DIY recipe<colour id="65535" /> for <colour id="1" />fencing<colour id="65535" /> for around
+your home or garden. Useful for
+customizing your island.
+<colour id="0" />Recipe will be printed immediately.<colour id="65535" /></message>
+	<message label="3014" attrib="01 00">A kit to swap your NookPhone case
+to a different design. It can be used
+at a <colour id="1" />workbench<colour id="65535" />.
+<colour id="0" />Kit will be delivered by mail.<colour id="65535" /></message>
+	<message label="3015" attrib="01 00">Adds a <colour id="1" />cliff construction permit <colour id="65535" />to
+the <colour id="1" />Island Designer <colour id="65535" />app, allowing the
+creation and destruction of cliffs.
+<colour id="0" />App will be updated immediately.<colour id="65535" /></message>
+	<message label="3016" attrib="01 00">Adds a <colour id="1" />river construction permit <colour id="65535" />to
+the <colour id="1" />Island Designer <colour id="65535" />app, allowing the
+creation and removal of water bodies.
+<colour id="0" />App will be updated immediately.<colour id="65535" /></message>
+	<message label="3017" attrib="01 00">Adds a <colour id="1" />permit<colour id="65535" /> for <colour id="1" />path<colour id="65535" /> design to the
+<colour id="1" />Island Designer <colour id="65535" />app.
+<colour id="0" />App will be updated immediately.<colour id="65535" /></message>
+	<message label="3018" attrib="01 00">Adds a <colour id="1" />permit<colour id="65535" /> for custom-design
+<colour id="1" />paths<colour id="65535" /> to the <colour id="1" />Island Designer <colour id="65535" />app.
+<colour id="0" />App will be updated immediately.<colour id="65535" /></message>
+	<message label="3019" attrib="01 00">Original Nook Inc. goods.
+Have fun collecting the whole set—
+and looking great while you do it!
+<colour id="0" />Items will be delivered by mail.<colour id="65535" /></message>
+	<message label="3020" attrib="01 00">Original Nook Inc. goods:
+Have fun collecting the whole set and
+then designing your home interior!
+<colour id="0" />Items will be delivered by mail.<colour id="65535" /></message>
+	<message label="5001" attrib="01 00"><colour id="1" />Camera<colour id="65535" />
+Take pictures using various
+filters and effects.<pageBreak /><colour id="0" />The pictures will be saved to the
+Album on the HOME Menu, and other
+users who use the same system will
+be able to see them.<colour id="65535" /></message>
+	<message label="5011" attrib="01 00"><colour id="1" />Nook Miles<colour id="65535" />
+You're enrolled in the
+Nook Mileage Program!<pageBreak />Earn <colour id="1" />Nook Miles <colour id="65535" />for completing
+island activities.<pageBreak />Then trade those miles for various
+perks and goods at the <colour id="1" />Nook Stop
+<colour id="65535" />in the <colour id="1" />Resident Services <colour id="65535" />center.<pageBreak />Make the most out of island life.
+Earn Nook Miles!</message>
+	<message label="5012" attrib="01 00"><colour id="1" />Nook Miles<colour id="65535" /> with a <colour id="1" />+<colour id="65535" />!
+Your rank has increased and you
+can now use <colour id="1" />Nook Miles+ <colour id="65535" />services.<pageBreak /><colour id="1" />Nook Miles+<colour id="65535" /> makes it even easier
+to earn miles as you go about
+enjoying island life.<pageBreak />There are also special redemption
+options that only <colour id="1" />Nook Miles+
+<colour id="65535" />members get.<pageBreak />Please take advantage of this
+amazing opportunity!</message>
+	<message label="5021" attrib="01 00"><colour id="1" />Critterpedia<colour id="65535" />
+Check this app for information on
+the bugs and fish you've caught.</message>
+	<message label="5031" attrib="01 00"><colour id="1" />DIY Recipes<colour id="65535" />
+Check this app for info on the
+DIY Recipes you've collected.<pageBreak />You can also register frequently
+crafted items as favorites, so make
+good use of it while you DIY!</message>
+	<message label="5041" attrib="01 00"><colour id="1" />Call Resident<colour id="65535" />
+Use this app to invite up to three
+other residents (players) living on the
+island to play together in <colour id="1" />Party Play<colour id="65535" />!<pageBreak />You will need controllers for each
+player before you begin.</message>
+	<message label="5051" attrib="01 00"><colour id="1" />Custom Designs<colour id="65535" />
+With this app, you can create custom
+designs to wear on clothing or
+display around the island.
+When you save custom designs to
+the app, you can share them with
+other island residents.<pageBreak /><colour id="0" />There's a chance that your custom
+designs will be seen by other players
+during network play sessions—when
+you visit another island, for example.<pageBreak />Please don't create anything that
+infringes on others' rights. Don't use
+private information (yours or anyone
+else's) or offensive words or images.<colour id="65535" /></message>
+	<message label="5052" attrib="01 00"><colour id="1" />Pro Designs<colour id="65535" />
+Thank you for upgrading to the <colour id="1" />Pro<colour id="65535" />
+edition of <colour id="1" />Custom Designs<colour id="65535" />.<pageBreak />The Pro edition allows you to:
+・Edit palette colors.
+・Create Pro Custom Designs.<pageBreak />We hope you enjoy creating
+custom designs with the Pro
+editing features!</message>
+	<message label="5053" attrib="01 00"><colour id="0" />Custom Designs Marked With <colour id="65535" />
+Custom designs you did not make are
+marked with <colour id="0" /><colour id="65535" />.<pageBreak />You cannot edit custom designs with
+<colour id="0" /><colour id="65535" />. If you want to use that design slot,
+you'll have to delete that design first.</message>
+	<message label="5061" attrib="01 00"><colour id="1" />Map<colour id="65535" />
+Check the map for your
+current location.<pageBreak />You can also press <colour id="1" /><colour id="65535" /> to change
+the settings and choose whether
+to display the minimap during
+your day-to-day activities.</message>
+	<message label="5081" attrib="01 00"><colour id="1" />Passport<colour id="65535" />
+Your Passport information
+is shown here.<pageBreak /><colour id="0" />This information may be seen by
+other players (when visiting
+another island, for example).<pageBreak /><colour id="65535" />You can change your photo, title,
+or comment at any time. Customize
+them to show off your style!</message>
+	<message label="5091" attrib="01 00"><colour id="0" />Rescue Service<colour id="65535" />
+Use this service for an emergency
+situation on the island when your
+path is blocked and you're stuck!<pageBreak />You'll be sent to a place such as
+your home or Resident Services.
+<colour id="0" />Nook Miles are generally required
+to use this service.<colour id="65535" /></message>
+	<message label="5111" attrib="01 00"><colour id="1" />Island Designer<colour id="65535" />
+This app helps you develop and
+shape the island through
+construction projects that you direct.
+You can redeem your Nook Miles
+at the Nook Stop for additional
+construction options and new
+path varieties.
+There is also a <colour id="1" />cleanup service <colour id="65535" />in
+case you are doing construction
+work and find yourself stuck due
+to items and such around you.
+For more information on what this
+cleanup service involves, or on any
+of the other app features, please
+<colour id="1" />check the manual <colour id="65535" />within the app.<pageBreak />So go ahead! Try your hand at this
+app, and start shaping your island to
+your own personal preferences!</message>
+	<message label="5121" attrib="01 00"><colour id="1" />Nook Shopping<colour id="65535" />
+You can now access Nook Shopping
+anytime, anywhere, thanks to this
+handy-dandy app!
+Shop at your own pace in a way that
+matches your own style!</message>
+	<message label="5201_00_01" attrib="0e 00"><colour id="0" />Party Play<colour id="65535" />
+Island residents can play together in
+Party Play, where one player is the
+Leader and the others are Followers.
+The <colour id="1" />Leader<colour id="65535" /> and <colour id="1" />Followers <colour id="65535" />can do
+different things, but it's easy to
+switch roles!<pageBreak /><colour id="1" />Playing as the Leader<colour id="65535" />
+The Leader can play pretty much the
+way they'd normally play.<pageBreak /><colour id="1" />Changing the Leader<colour id="65535" />
+You can change the <colour id="1" />Leader<colour id="65535" /> by gently
+shaking the <colour id="1" />Leader<colour id="65535" />'s controller or
+selecting the <colour id="1" />Change Leader<colour id="65535" /> option
+from the <colour id="1" />Call Resident<colour id="65535" /> app.<pageBreak /><colour id="1" />Playing as a Follower<colour id="65535" />
+Followers can't chat, use the
+NookPhone, or access their pockets.
+They can use tools, move furniture,
+and assist the Leader. Items they get
+using tools will be sent to the
+<colour id="1" />Resident Services recycle box<colour id="65535" />.</message>
+	<message label="5201_00_02" attrib="0e 00"><colour id="0" />Horizontal Joy-Con Controls<colour id="65535" />
+<colour id="1" />Leader<colour id="65535" />
+<colour id="1" /><colour id="65535" /> Open NookPhone
+<colour id="1" /><colour id="65535" /> Control camera / Swap tools
+
+<colour id="1" />Followers
+<colour id="65535" /> Equip / Swap tools</message>
+	<message label="5201_00_03" attrib="0e 00"><colour id="1" />Leader Horizontal Joy-Con Controls<colour id="65535" />
+<colour id="1" /><colour id="65535" /> Open NookPhone / <colour id="1" /> <colour id="65535" />Reactions
+<colour id="1" /><colour id="65535" /> Control camera / Swap tools
+
+<colour id="1" />Follower Horizontal Joy-Con Controls
+<colour id="65535" /> Equip / Swap tools
+<colour id="1" /> <colour id="65535" />Reactions / <colour id="1" /><colour id="65535" /> Repeat Reaction</message>
+	<message label="5201_00_04" attrib="0e 00"><colour id="0" />Controls
+<colour id="65535" /><colour id="1" />Leader<colour id="65535" />
+Same controls as in normal play.
+
+<colour id="1" />Followers
+<colour id="65535" /> Equip / Swap tools</message>
+	<message label="5201_00_05" attrib="0e 00"><colour id="1" />Leader Controls<colour id="65535" />
+Same controls as normal play.
+
+<colour id="1" />Follower Controls
+ <colour id="65535" />Equip / Swap tools
+<colour id="1" /> <colour id="65535" />Reactions
+<colour id="1" /> <colour id="65535" />Repeat Reaction</message>
+	<message label="5201_01" attrib="0e 00"><colour id="0" />Party Play<colour id="65535" />
+Island residents can play together in
+Party Play, where one player is the
+Leader and the others are Followers.
+The <colour id="1" />Leader<colour id="65535" /> and <colour id="1" />Followers <colour id="65535" />can do
+different things, but it's easy to
+switch roles!<pageBreak /><colour id="1" />Playing as the Leader<colour id="65535" />
+The Leader can play pretty much the
+way they'd normally play.<pageBreak /><colour id="1" />Changing the Leader<colour id="65535" />
+You can change the <colour id="1" />Leader<colour id="65535" /> by gently
+shaking the <colour id="1" />Leader<colour id="65535" />'s controller or
+selecting the <colour id="1" />Change Leader<colour id="65535" /> option
+from the <colour id="1" />Call Resident<colour id="65535" /> app.<pageBreak /><colour id="1" />Playing as a Follower<colour id="65535" />
+Followers can't chat, use the
+NookPhone, or access their pockets.
+They can use tools, move furniture,
+and assist the Leader. Items they get
+using tools will be sent to the
+<colour id="1" />Resident Services recycle box<colour id="65535" />.
+<colour id="0" />Horizontal Joy-Con Controls<colour id="65535" />
+<colour id="1" />Leader<colour id="65535" />
+<colour id="1" /><colour id="65535" /> Open NookPhone
+<colour id="1" /><colour id="65535" /> Control camera / Swap tools
+
+<colour id="1" />Followers
+<colour id="65535" /> Equip / Swap tools</message>
+	<message label="5201_02" attrib="0e 00"><colour id="0" />Party Play<colour id="65535" />
+Island residents can play together in
+Party Play, where one player is the
+Leader and the others are Followers.
+The <colour id="1" />Leader<colour id="65535" /> and <colour id="1" />Followers <colour id="65535" />can do
+different things, but it's easy to
+switch roles!<pageBreak /><colour id="1" />Playing as the Leader<colour id="65535" />
+The Leader can play pretty much the
+way they'd normally play.<pageBreak /><colour id="1" />Changing the Leader<colour id="65535" />
+You can change the <colour id="1" />Leader<colour id="65535" /> by gently
+shaking the <colour id="1" />Leader<colour id="65535" />'s controller or
+selecting the <colour id="1" />Change Leader<colour id="65535" /> option
+from the <colour id="1" />Call Resident<colour id="65535" /> app.<pageBreak /><colour id="1" />Playing as a Follower<colour id="65535" />
+Followers can't chat, use the
+NookPhone, or access their pockets.
+They can use tools, move furniture,
+and assist the Leader. Items they get
+using tools will be sent to the
+<colour id="1" />Resident Services recycle box<colour id="65535" />.
+<colour id="1" />Leader Horizontal Joy-Con Controls<colour id="65535" />
+<colour id="1" /><colour id="65535" /> Open NookPhone / <colour id="1" /> <colour id="65535" />Reactions
+<colour id="1" /><colour id="65535" /> Control camera / Swap tools
+
+<colour id="1" />Follower Horizontal Joy-Con Controls
+<colour id="65535" /> Equip / Swap tools
+<colour id="1" /> <colour id="65535" />Reactions / <colour id="1" /><colour id="65535" /> Repeat Reaction</message>
+	<message label="5201_03" attrib="0e 00"><colour id="0" />Party Play<colour id="65535" />
+Island residents can play together in
+Party Play, where one player is the
+Leader and the others are Followers.
+The <colour id="1" />Leader<colour id="65535" /> and <colour id="1" />Followers <colour id="65535" />can do
+different things, but it's easy to
+switch roles!<pageBreak /><colour id="1" />Playing as the Leader<colour id="65535" />
+The Leader can play pretty much the
+way they'd normally play.<pageBreak /><colour id="1" />Changing the Leader<colour id="65535" />
+You can change the <colour id="1" />Leader<colour id="65535" /> by gently
+shaking the <colour id="1" />Leader<colour id="65535" />'s controller or
+selecting the <colour id="1" />Change Leader<colour id="65535" /> option
+from the <colour id="1" />Call Resident<colour id="65535" /> app.<pageBreak /><colour id="1" />Playing as a Follower<colour id="65535" />
+Followers can't chat, use the
+NookPhone, or access their pockets.
+They can use tools, move furniture,
+and assist the Leader. Items they get
+using tools will be sent to the
+<colour id="1" />Resident Services recycle box<colour id="65535" />.
+<colour id="0" />Controls
+<colour id="65535" /><colour id="1" />Leader<colour id="65535" />
+Same controls as in normal play.
+
+<colour id="1" />Followers
+<colour id="65535" /> Equip / Swap tools</message>
+	<message label="5201_04" attrib="0e 00"><colour id="0" />Party Play<colour id="65535" />
+Island residents can play together in
+Party Play, where one player is the
+Leader and the others are Followers.
+The <colour id="1" />Leader<colour id="65535" /> and <colour id="1" />Followers <colour id="65535" />can do
+different things, but it's easy to
+switch roles!<pageBreak /><colour id="1" />Playing as the Leader<colour id="65535" />
+The Leader can play pretty much the
+way they'd normally play.<pageBreak /><colour id="1" />Changing the Leader<colour id="65535" />
+You can change the <colour id="1" />Leader<colour id="65535" /> by gently
+shaking the <colour id="1" />Leader<colour id="65535" />'s controller or
+selecting the <colour id="1" />Change Leader<colour id="65535" /> option
+from the <colour id="1" />Call Resident<colour id="65535" /> app.<pageBreak /><colour id="1" />Playing as a Follower<colour id="65535" />
+Followers can't chat, use the
+NookPhone, or access their pockets.
+They can use tools, move furniture,
+and assist the Leader. Items they get
+using tools will be sent to the
+<colour id="1" />Resident Services recycle box<colour id="65535" />.
+<colour id="1" />Leader Controls<colour id="65535" />
+Same controls as normal play.
+
+<colour id="1" />Follower Controls
+ <colour id="65535" />Equip / Swap tools
+<colour id="1" /> <colour id="65535" />Reactions
+<colour id="1" /> <colour id="65535" />Repeat Reaction</message>
+	<message label="5202" attrib="01 00">Congratulations on the construction
+of your new home! Here are a few
+tips for comfortable living:<pageBreak /><colour id="1" /> Turn lights on or off
+ Enter decorating mode
+ Open storage<pageBreak /> Turn lights on or off
+<colour id="65535" />You can make the room brighter
+or dimmer with this option.<pageBreak /><colour id="1" /> Enter decorating mode<colour id="65535" />
+This feature lets you easily make
+design changes to an entire room.<pageBreak /><colour id="1" /> Open storage<colour id="65535" />
+Access your home's storage to
+stash or retrieve items.<pageBreak />When in your home, you can open
+your pockets to select furniture or
+other items and put them in storage.</message>
+	<message label="8001" attrib="07 00"><colour id="6" />Currently, there is existing resident
+data for <tag a="110" b="8" /> on this
+Nintendo Switch system that is not
+linked to any user account.<pageBreak />Would you like to play using existing
+resident data and link your user
+account with it? Or would you prefer
+to create a new resident?<colour id="65535" /></message>
+	<message label="8001_a" attrib="01 01">Existing data.</message>
+	<message label="8001_b" attrib="01 00">Start fresh.</message>
+	<message label="8002" attrib="01 00">In that case, you'll start the game as
+a new participant in the Deserted
+Island Getaway Package program.</message>
+	<message label="8003" attrib="05 00">Currently, there is only <colour id="1" />1 resident
+<colour id="65535" />whose data is not linked with a user
+account.</message>
+	<message label="8003_a" attrib="00 00">Display data.</message>
+	<message label="8004" attrib="05 00">Currently, there are <colour id="1" />multiple residents
+<colour id="65535" />whose data is not linked to any user
+accounts. Which resident would you
+like to play as?</message>
+	<message label="8004_a" attrib="00 00">Display data.</message>
+	<message label="8005" attrib="07 00">Would you like to begin the selection
+process from the beginning, or would
+you like to end the game?</message>
+	<message label="8005_a" attrib="01 01">End the game.</message>
+	<message label="8005_b" attrib="01 00">Begin again.</message>
+	<message label="8006" attrib="03 00">Please close the game from the
+HOME Menu.</message>
+	<message label="8007" attrib="08 00">Would you like to start playing as
+island resident <colour id="2" /><tag a="115" b="0" arg="0xcd00" /><colour id="65535" />?</message>
+	<message label="8007_a" attrib="01 00">I'm not sure.</message>
+	<message label="8007_b" attrib="01 05">Yes.</message>
+	<message label="8008" attrib="01 00">You will now start playing the game
+as island resident <colour id="2" /><tag a="110" b="1" /><colour id="65535" />.</message>
+	<message label="8009" attrib="07 00"><colour id="6" />There is currently resident data for
+8 residents on <tag a="110" b="8" /> on
+this Nintendo Switch system. This is
+the maximum number of residents.<pageBreak />Would you like to delete data for a
+resident to start as a new resident or
+play as an existing resident that is not
+currently linked to a user account?<colour id="65535" /></message>
+	<message label="8009_a" attrib="01 01">Existing data.</message>
+	<message label="8009_b" attrib="01 00">Delete data.</message>
+	<message label="8010" attrib="01 00">You will need to delete the resident
+data for one resident before you can
+start as a new resident.<pageBreak />You can select from resident data
+that is not currently linked to a
+user account. <colour id="6" />You cannot delete the
+data for the Resident Representative.<colour id="65535" /></message>
+	<message label="8010_a" attrib="01 00">Display data.</message>
+	<message label="8011" attrib="01 00">You will need to delete the resident
+data for one resident before you can
+start as a new resident.<pageBreak />You can select from resident data
+that is not currently linked to a
+user account.</message>
+	<message label="8011_a" attrib="01 00">Display data.</message>
+	<message label="8012" attrib="1a 00">Currently, the only resident data not
+linked to a user account is for
+<tag a="110" b="8" />'s Resident
+Representative.
+This data cannot be deleted.<pageBreak />If you want to delete the data for a
+different resident, please start the
+game using the user account for that
+resident.
+Then you can press  on the title
+screen to access the save data
+settings and delete that resident.</message>
+	<message label="8013" attrib="03 00">To close this screen, please close
+the game from the HOME Menu.</message>
+</msbt>

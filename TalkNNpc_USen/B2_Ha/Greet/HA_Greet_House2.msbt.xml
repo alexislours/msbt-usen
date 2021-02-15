@@ -1,0 +1,13 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Huh? <tag a="50" b="3" /><tag a="110" b="3" />?<delay20 /> You're
+back, <tag a="110" b="5" />? <delay frames="30" /><anim id="FaintSmile" target="actor" targetSpec="" />I mean,<delay20 /> cool!<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Heh heh<tag a="110" b="0" /><delay20 /> I guess my house is really
+comfy, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yo!<delay20 /> Make yourself at home,
+<tag a="110" b="5" />.<delay20 /> Again.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You came back, <tag a="110" b="3" />!<delay20 />
+It's just one surprise after another
+with you, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />What's up, <tag a="110" b="5" />? <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />You seem
+to really like my place.<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+</msbt>

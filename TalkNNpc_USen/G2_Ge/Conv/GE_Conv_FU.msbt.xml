@@ -1,0 +1,108 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="31" arg="0xcd01" />!<delay40 /> How are
+things, <tag a="110" b="6" />?<anim id="Eh" target="subNpc" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Things are<tag a="110" b="0" />good?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> I have no
+complaints, at least.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00">Talk to me. <delay20 />You being trendo-licious?<delay20 />
+You staying fash-tastic?<delay20 /> <anim id="Nodding" target="actor" targetSpec="" /><delay20 />It can be
+tricky this time of year, huh?<20_2 arg="4" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Sorry, <tag a="110" b="31" arg="0xcd00" />.<delay40 /> I didn't
+understand at least <anim id="Worried" target="actor" targetSpec="" />half of
+what you just said<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I was just trying to make small talk!<20_2 arg="3" /><anim id="EmotEnd" target="actor" targetSpec="" /><20_2 arg="4" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oh!<delay frames="60" /> I've heard of that!<delay40 /> OK,
+small talk<tag a="110" b="0" /> Um, I know!
+<anim id="Pardon" target="actor" targetSpec="" />Cockroaches!<anim id="TakenAback" target="mainNpc" targetSpec="" />
+<anim id="EmotEnd" target="mainNpc" targetSpec="" /><20_2 arg="8" /><anim id="Explain" target="actor" targetSpec="" />Nobody likes cockroaches.<20_3 arg="4" /><delay20 />
+They're the absolute worst!<delay20 />
+<anim id="Thinking" target="actor" targetSpec="" />But I gave it some thought<tag a="110" b="0" />
+<20_2 arg="7" /><20_2 arg="6" /><anim id="Confused" target="mainNpc" targetSpec="" /><anim id="Explain" target="actor" targetSpec="" />Cockroaches have prospered <20_2 arg="5" />on
+this earth since a long time ago,
+even before dinosaurs!
+<20_2 arg="8" /><anim id="Shaking" target="mainNpc" targetSpec="" /><anim id="Thinking" target="actor" targetSpec="" />That means they are seasoned
+veterans when it <20_2 arg="6" />comes to,
+well, living!
+<20_2 arg="7" /><anim id="Confused" target="mainNpc" targetSpec="" /><anim id="Negative" target="actor" targetSpec="" />Should we really be treating<20_2 arg="5" /> them
+with such scorn? <anim id="Pardon" target="actor" targetSpec="" />Surely they
+deserve our respect!
+<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Restless" target="actor" targetSpec="" />But at the end of the day, I can't help
+but dislike what I dislike<tag a="110" b="0" /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" /><anim id="Worried" target="mainNpc" targetSpec="" />What do you think?<delay frames="60" /> Did I do the
+small-talk thing?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00">Oh!<delay20 /> I've heard of small talk!<delay40 /> OK<tag a="110" b="0" />what to small talk about?<delay20 /> Um<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" />
+I know!<20_2 arg="8" /><20_3 arg="4" /> Time travel!<pageBreak /><20_2 arg="6" /><delay20 /><anim id="Nodding" target="player" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" />Can you imagine<delay8 /><20_2 arg="7" /><anim id="Smiling" target="actor" targetSpec="" /><20_2 arg="5" /> meeting dinosaurs,
+or <20_3 arg="8" />even the future you?<pageBreak />But then I wonder<tag a="110" b="0" /><anim id="Eh" target="player" targetSpec="" /><anim id="Thinking" target="actor" targetSpec="" />does a time
+outside of "now" <delay8 />truly exist?<delay40 />
+<anim id="Negative" target="actor" targetSpec="" />The more I dwell on it<tag a="110" b="0" />
+the more the mystery deepens!<20_3 arg="7" /><delay20 />
+<anim id="Pardon" target="actor" targetSpec="" />And yet<anim id="TakenAback" target="mainNpc" targetSpec="" /> I continue to dream!
+<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Blushing" target="actor" targetSpec="" />Anyway<tag a="110" b="0" /><20_2 arg="3" /><delay frames="60" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><delay frames="60" />
+Did I do the small-talk thing?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00">Small talk? <delay20 />Hmmm. Well<tag a="110" b="0" /><anim id="IdeaBulb" target="subNpc" targetSpec="" />I've been
+<20_2 arg="8" />thinking <anim id="EmotEnd" target="actor" targetSpec="" />a lot about <anim id="Greeting" target="actor" targetSpec="" />mermaids!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Most folks say mermaids are only
+manatees mistaken for<delay8 /> <anim id="Grin" target="actor" targetSpec="" /><20_2 arg="3" /><20_2 arg="6" /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="Nodding" target="player" targetSpec="" />fantastic
+creatures, <delay20 /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="player" targetSpec="" /><20_2 arg="4" /><20_2 arg="5" /><delay8 />but I believe they exist!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I'd really like to meet one someday.
+The history of the merfolk must be
+absolutely fascinating.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Blushing" target="actor" targetSpec="" />What do you think?<anim id="Eh" target="mainNpc" targetSpec="" /> Did I do the
+small-talk thing?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />This was<tag a="110" b="0" />definitely small talk.<anim id="WrySmile" target="player" targetSpec="" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Well, thank you!<anim id="QuestionMark" target="subNpc" targetSpec="" /> Let's do it
+again sometime.<anim id="WrySmile" target="player" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">I've been searching for a prezzie
+for <tag a="110" b="11" arg="0xcd00" />, <anim id="OhGeez" target="mainNpc" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" />but so far
+I've got nothing!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">Looking for presents is fun,<anim id="EmotEnd" target="mainNpc" targetSpec="" /> <anim id="Thinking" target="subNpc" targetSpec="" />but it's
+definitely stressful when <anim id="Nodding" target="mainNpc" targetSpec="" />nothing
+good turns up<tag a="110" b="0" /></message>
+	<message label="103" attrib="00 00 03 00 00 00 00 00">Hey,<20_2 arg="3" /> <tag a="110" b="3" />.<anim id="EmotEnd" target="actor" targetSpec="" /><delay20 /><20_2 arg="8" /> <anim id="QuestionMark" target="actor" targetSpec="" />What do
+you think<20_3 arg="3" /> I should do to
+find a good prezzie?</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">Secretive research!</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00">Ask what they want.</message>
+	<message label="103_c" attrib="00 00 00 00 00 00 00 00">Buy a thing you'd like.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ohmigosh!<20_3 arg="6" /> <anim id="Love" target="actor" targetSpec="" />Spies are <delay8 />SO cool!
+I'm going to be a spy!<pageBreak />I'll sneak around, learn all about
+<tag a="110" b="11" arg="0xcd00" />, then BLAM,
+drop the perf prezzie on them!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00">Oooooh,<20_2 arg="2" /> spies<tag a="110" b="0" /><delay20 /><anim id="Love" target="actor" targetSpec="" />like in my books!
+That IS cool!<delay40 /> <anim id="Greeting" target="actor" targetSpec="" />Would you like my
+assistance?<anim id="Eh" target="mainNpc" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ummm<tag a="110" b="0" /><delay20 /> <anim id="Greeting" target="actor" targetSpec="" /><20_2 arg="3" />YES?<delay40 /> <anim id="Scheming" target="actor" targetSpec="" /><delay20 />OK, so first we need
+to get matching spy outfits!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" /><anim id="HappyDance" target="actor" targetSpec="" />Are we spying on someone<20_2 arg="4" /> or are we
+playing dress-up?<anim id="WrySmile" target="player" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00">I suppose. <20_3 arg="6" /><delay40 /><anim id="Thinking" target="actor" targetSpec="" />They'd def get what they
+want, but it won't be much of
+a surprise<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oh,<anim id="EmotEnd" target="mainNpc" targetSpec="" /><20_2 arg="2" /> I know! <anim id="Explain" target="actor" targetSpec="" />What if I ask them what
+they want? <anim id="EmotEnd" target="actor" targetSpec="" /><20_3 arg="5" />And I'll tell you after I
+find out, <anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd00" /><anim id="Aha" target="mainNpc" targetSpec="" />!</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />You're a legit sneakmeister,
+<20_2 arg="3" /><tag a="110" b="31" arg="0xcd01" /><delay frames="60" />! <anim id="EmotEnd" target="actor" targetSpec="" />That's a
+super smart play!</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><20_2 arg="4" />Operation Sneak is on!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Assent" target="actor" targetSpec="" /><anim id="Clapping" target="mainNpc" targetSpec="" /></message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00">That's so not<20_3 arg="6" /> a bad idea!<delay40 /> Worst-case
+scenario is that they won't want it
+<anim id="Laughing" target="actor" targetSpec="" />and I can have it!</message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />What matters<20_2 arg="2" /> is the<delay8 /> thought<delay20 /><anim id="Nodding" target="player" targetSpec="" /><anim id="Nodding" target="mainNpc" targetSpec="" /> that
+went into it!</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Totally!<20_2 arg="3" /><delay20 /> 'K, I'm off to <anim id="Smiling" target="actor" targetSpec="" />buy a bunch of
+<colour id="3" />K.K.<colour id="65535" /> albums!<anim id="TakenAback" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00">Maybe I'll buy<20_2 arg="4" /> a cookbook I've
+been wanting<tag a="110" b="0" /> <delay20 />I like this idea!
+Let's all get ourselves presents!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />That poetry book you lent me is
+legit legit, <anim id="FaintSmile" target="subNpc" targetSpec="" /><tag a="110" b="31" arg="0xcd01" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I can feel my artistic side,
+<anim id="Nodding" target="subNpc" targetSpec="" />you know, blossoming!<pageBreak /><delay8 /><anim id="Love" target="actor" targetSpec="" />I so need to go make something,
+ASAP as possible, <tag a="110" b="6" />!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I'm so glad you like it,<20_2 arg="4" /><delay8 />
+<tag a="110" b="31" arg="0xcd00" />!<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Come to think of it, <anim id="Love" target="actor" targetSpec="" /><delay20 />even your choice
+of phrase<anim id="Eh" target="mainNpc" targetSpec="" /><delay8 /> sounds more<tag a="110" b="0" />inspired!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Yeah?!<20_2 arg="3" /><delay20 /><delay frames="60" /><anim id="Nodding" target="subNpc" targetSpec="" /> I always try to think in, like,
+song lyrics, but now I've stepped
+it up!
+<anim id="EmotEnd" target="actor" targetSpec="" />Hey, <tag a="110" b="31" arg="0xcd01" />, <anim id="Grin" target="actor" targetSpec="" />would you
+like to use it too?!<anim id="Eh" target="subNpc" targetSpec="" /><delay40 /><anim id="Assent" target="actor" targetSpec="" /> <tag a="50" b="3" /><tag a="110" b="6" /><anim id="EmotEnd" target="actor" targetSpec="" />!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Really?<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />Thank you! <anim id="Hello" target="actor" targetSpec="" />I'll start right
+away! <tag a="50" b="3" /><anim id="Nodding" target="mainNpc" targetSpec="" /><tag a="110" b="6" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I wonder if I sound as inspired
+as you<anim id="SmugFace" target="mainNpc" targetSpec="" /> now, <tag a="110" b="6" />?</message>
+</msbt>

@@ -1,0 +1,20 @@
+<msbt attribsize="8">
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey. I'm playing a treasure-hunting
+game with <tag a="110" b="16" />
+right now!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'll talk with ya <delay20 />later, <tag a="110" b="6" />!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Sorry!<delay frames="40" /> I'm, like, right in
+the middle of a treasure<delay20 />
+hunt with <tag a="110" b="16" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Let's have some snacks together<delay20 />
+later, <tag a="110" b="6" />!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">I'm on a treasure hunt with<delay20 />
+<tag a="110" b="16" /> right now!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'll have time to chill with you<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />once we're done!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />A huh huh huh!<delay frames="40" /> The treasure is now
+buried!<delay frames="40" /> Good luck on your hunt!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Where could the treasure be?<delay frames="60" />
+<anim id="EmotEnd" target="actor" targetSpec="" />I hid it<anim id="SmugFace" target="actor" targetSpec="" /> really well!<delay frames="40" /> I promise it's
+somewhere on this island!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00">The treasure is<tag a="110" b="0" />somewhere on
+the island! <anim id="Laughing" target="actor" targetSpec="" />You gotta dig, dig,
+dig, <tag a="110" b="3" />!</message>
+</msbt>

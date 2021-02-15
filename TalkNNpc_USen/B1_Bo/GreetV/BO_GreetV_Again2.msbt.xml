@@ -1,0 +1,10 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hi again, <tag a="110" b="2" />.<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />You REALLY like talking
+to me, huh?<setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I keep seeing you today!<10_4 /> <anim id="Shocked" target="actor" targetSpec="" />It is<tag a="110" b="0" />YOU,
+isn't it, <tag a="110" b="3" />?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />There's not more than one of you
+is there?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />The bugs say <anim id="EmotEnd" target="actor" targetSpec="" />you've been real busy!<10_4 />
+<anim id="Laughing" target="actor" targetSpec="" />Busy talking to me all day!<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+</msbt>

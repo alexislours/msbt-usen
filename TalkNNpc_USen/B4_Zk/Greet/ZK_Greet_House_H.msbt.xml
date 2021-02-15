@@ -1,0 +1,9 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Yo, <tag a="110" b="3" />! <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />You know
+<tag a="115" b="1" arg="0xcd00" /> here, right?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Alright, let's get the party
+started! <delay20 /><tag a="50" b="3" /><tag a="110" b="3" /> and
+<tag a="115" b="1" arg="0xcd00" /> in the house!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Wazzzzup, <tag a="110" b="3" />?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I believe you know my associate,
+<tag a="115" b="1" arg="0xcd00" />, over here.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

@@ -1,0 +1,218 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00">Sorry, cool cat, but I'm all jammed
+out.<delay frames="60" /> <snpcAnim id="TkkNodding" target="actor" targetSpec="" />Swing by a little earlier if you
+want to catch the gig, dig?</message>
+	<message label="002" attrib="00 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />What's the holdup, pup?<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />You take a
+seat,<delay8 /> and I'll get my paws to playin'.</message>
+	<message label="003" attrib="00 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Why don't you take a seat and put up
+your feet?<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> Pass the word on to your
+friends too,<delay20 /> <snpcAnim id="TkkNodding" target="actor" targetSpec="" />so I can get started.</message>
+	<message label="004" attrib="00 00 00 00">I'm all set to start.<10_4 /> <snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Why don't you
+take a seat<delay8 /> and tune in, you dig?</message>
+	<message label="005" attrib="00 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />I'll start jammin' <colour id="1" />as soon as everyone
+takes seat<colour id="65535" />.<10_4 /> <anim id="EmotEnd" target="actor" targetSpec="" />Tell everyone they need
+<delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" />to sit down to get down.</message>
+	<message label="006" attrib="00 00 00 00">I'm about to start.<10_4 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> You're gonna cop
+a seat and check out my set, yeah?<delay20 />
+Yeah.<delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" /> On with the show.</message>
+	<message label="007" attrib="02 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />So, <delay8 />you in the mood for a tune?</message>
+	<message label="007_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="007_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="008" attrib="00 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Groovy.<delay frames="40" /> <snpcAnim id="TkkNodding" target="actor" targetSpec="" />Then how about you
+cop a seat,<delay20 /> so I can get started.</message>
+	<message label="009" attrib="00 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Groovy.<delay frames="40" /> <snpcAnim id="TkkNodding" target="actor" targetSpec="" />Then how about you
+cop a seat,<delay20 /> so I can get started.<pageBreak />If you've got friends who want to
+tune in, <delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />why not ask them to grab
+a seat too?</message>
+	<message label="010" attrib="00 00 00 00">Whatever you say. <delay20 />Catch you
+next time<tag a="110" b="0" /></message>
+	<message label="011" attrib="02 00 00 00">I was just getting set to beat feet out
+of here.<delay frames="40" /> <snpcAnim id="TkkNodding" target="actor" targetSpec="" />But I think I can squeeze
+in one last number<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It's almost round-up time, so<delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> you
+mind if I start strumming?</message>
+	<message label="011_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="011_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="012" attrib="00 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Not tonight, hm?<delay20 /> I can dig it.
+I'm dog tired myself.</message>
+	<message label="013" attrib="02 00 00 00">I know that face.<delay20 /> You've caught my
+act before, am I right?<10_4 /> You in the
+mood <delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />for a song tonight?</message>
+	<message label="013_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="013_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="014" attrib="02 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Well, now.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> If it isn't my number one
+fan.<10_4 /> <snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />You swing on by <delay20 />for another
+song tonight?</message>
+	<message label="014_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="014_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="015" attrib="02 00 00 00">What's buzzin', <tag a="110" b="1" />.<delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" />
+You always make for a real keen
+scene.<10_4 /> <snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />You hip to a song tonight?</message>
+	<message label="015_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="015_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="016" attrib="02 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />This scene's not the scene until you
+make the scene,<delay20 /> <tag a="110" b="1" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />You want me to slap the strings
+for you?</message>
+	<message label="016_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'd love that!</message>
+	<message label="016_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="017" attrib="02 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Unreal. Like, out of sight.<delay20 /> I thought
+you'd stop by, <tag a="110" b="1" />.<anim id="EmotEnd" target="actor" targetSpec="" /><10_4 />
+<snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />You in the mood for a tune?</message>
+	<message label="017_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="017_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="018" attrib="02 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Hey, <tag a="110" b="1" />. If you aren't
+the most.<delay20 /> Glad you made it.<anim id="EmotEnd" target="actor" targetSpec="" /><10_4 /> <snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Set for
+me to make with the music?</message>
+	<message label="018_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Of course!</message>
+	<message label="018_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="019" attrib="02 00 00 00"><tag a="110" b="0" /><snpcAnim id="TkkNodding" target="actor" targetSpec="" />It's nice to be appreciated.<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Are you ready<delay8 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> for the latest
+toe-tapper from tunesville?</message>
+	<message label="019_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'd love that!</message>
+	<message label="019_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="020" attrib="02 00 00 00">I'm feeling the vibes tonight.<delay frames="40" />
+<snpcAnim id="TkkNodding" target="actor" targetSpec="" />Especially <delay20 />now that you're on
+the scene.<10_4 /> <snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />You ready for a tune?</message>
+	<message label="020_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="020_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="021" attrib="02 00 00 00">If it isn't that cool cat who puts the
+hep in my step. <tag a="50" b="3" /><tag a="110" b="1" />,<delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />
+you ready for me to wail?</message>
+	<message label="021_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="021_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="022" attrib="02 00 00 00">Evening. <delay20 />Nice night, <delay frames="40" />isn't it.
+<snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Like to <delay8 />hear a tune tonight?</message>
+	<message label="022_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="022_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="023" attrib="02 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Look who made it, cats and kittens.<delay20 />
+Now I've seen everything.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Well, now that you're here,<delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> why
+don't I lay down something real
+frosty for you?</message>
+	<message label="023_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Of course!</message>
+	<message label="023_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="025" attrib="02 00 00 00">Are you picking up what I'm
+putting down?<delay frames="40" /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> How about
+an encore,<delay20 /> daddio?</message>
+	<message label="025_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'd love that!</message>
+	<message label="025_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="026" attrib="06 00 00 00"><snpcAnim id="TkkNodding" target="actor" targetSpec="" />Cool, cool. <delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Any requests?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I can dial up an old favorite, or you
+can just tell me how you're feeling<delay20 />
+<snpcAnim id="TkkNodding" target="actor" targetSpec="" />and I'll groove on it.</message>
+	<message label="026_a" attrib="00 00 00 00">I'll leave it up to you!</message>
+	<message label="026_b" attrib="00 00 00 00">I'm in a mood...</message>
+	<message label="026_c" attrib="00 00 00 00">Gimme that one song.</message>
+	<message label="026_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Hm, changed my mind.</message>
+	<message label="027" attrib="00 00 00 00">Alright, hit me with that deep cut.<delay20 />
+<snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />What's it called?</message>
+	<message label="028" attrib="06 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Changed your mind?<delay20 /> Why don't
+you tell me where you want me
+to be, then?</message>
+	<message label="028_a" attrib="00 00 00 00">I'll leave it up to you!</message>
+	<message label="028_b" attrib="00 00 00 00">I'm in a mood...</message>
+	<message label="028_c" attrib="00 00 00 00">Gimme that one song.</message>
+	<message label="028_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Hm, changed my mind.</message>
+	<message label="029" attrib="06 00 00 00">Aww, man. <snpcAnim id="TkkNodding" target="actor" targetSpec="" />I can only play that one
+for real special occasions,<delay20 /> dig?<pageBreak />You got <snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />another tune buzzin'
+around in that noodle?</message>
+	<message label="029_a" attrib="00 00 00 00">I'll leave it up to you!</message>
+	<message label="029_b" attrib="00 00 00 00">I'm in a mood...</message>
+	<message label="029_c" attrib="00 00 00 00">Gimme that one song.</message>
+	<message label="029_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Hm, changed my mind.</message>
+	<message label="030" attrib="00 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Hey,<delay20 /> look who's plugged into the
+code machine.<delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> How'd you know
+my secret song?
+<snpcAnim id="TkkNodding" target="actor" targetSpec="" />Take a seat and get ready for
+<tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /></message>
+	<message label="031" attrib="00 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Hey,<delay20 /> look who's plugged into the
+code machine.<delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> How'd you know
+my secret song?
+Alright, cats and kittens. Take a
+seat and<snpcAnim id="TkkNodding" target="actor" targetSpec="" /> focus your audio for
+<tag a="125" b="0" arg="0x0" />.</message>
+	<message label="032" attrib="07 00 00 00">Let's hear it. <delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />What's the mood
+over in <tag a="50" b="3" /><tag a="110" b="1" />ville?</message>
+	<message label="032_a" attrib="00 00 00 00">I feel good!</message>
+	<message label="032_b" attrib="00 00 00 00">A little grumpy...</message>
+	<message label="032_c" attrib="00 00 00 00">Laid-back.</message>
+	<message label="032_d" attrib="00 00 00 00">A little blue...</message>
+	<message label="032_e" attrib="00 00 00 00">It's hard to say.</message>
+	<message label="033" attrib="00 00 00 00">Cool,<snpcAnim id="TkkNodding" target="actor" targetSpec="" /> I'm dialed in.<delay20 /> Have a seat
+and let me jam.</message>
+	<message label="034" attrib="00 00 00 00">Cool, I'm dialed in.<delay20 /> Once everyone
+takes a load off,<delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" /> I'll be ready to jam.</message>
+	<message label="036" attrib="00 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Dealer's choice,<delay8 /> huh?<pageBreak /><tag a="110" b="0" /><delay20 />Cool, <delay20 />I've got a slick one for ya.<10_4 />
+<snpcAnim id="TkkNodding" target="actor" targetSpec="" />Take a seat, and we'll jam.</message>
+	<message label="037" attrib="00 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />All me, huh? <delay20 />I can dig it.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> This one
+here's the pick of the litter.<10_4 /> Grab a
+seat,<delay20 /> and I'll start barkin' at you.<pageBreak />Oh, <delay8 />and if anyone else wants to tune
+in, <delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" />ask 'em to plant themselves.</message>
+	<message label="042" attrib="02 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Hey, <delay8 />what's buzzin'?<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> Name's <colour id="3" />K.K.
+Slider<colour id="65535" />.<delay frames="40" /> I'm in town for a spell, playing
+tunes before I hit the road again.<pageBreak />I'm real hip to this island scene
+you've got here.<10_4 /> <snpcAnim id="TkkNodding" target="actor" targetSpec="" />It puts me in a
+mind to make a little music.<pageBreak /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />What do you say<delay20 /> to a song?</message>
+	<message label="042_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="042_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="050" attrib="02 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Well, look who's here.<delay frames="40" /> Aren't you
+<snpcAnim id="TkkNodding" target="actor" targetSpec="" />just the brightest star in the sky.<10_4 />
+<snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />You ready for a song?</message>
+	<message label="050_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="050_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="051" attrib="00 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Oh yeah?<delay frames="30" /> I was hoping to play for
+you on your big day.</message>
+	<message label="052" attrib="00 00 00 00">I've got something a little different
+in mind tonight.<snpcAnim id="TkkNodding" target="actor" targetSpec="" /><delay20 /> I'm here to sing a
+song for a special cat on this island.
+<snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Do me a solid and bring 'em here,
+would you?</message>
+	<message label="053" attrib="02 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />Wanna hear that song again?</message>
+	<message label="053_a" attrib="00 00 00 00">I do!</message>
+	<message label="053_b" attrib="00 00 00 00">I'm good.</message>
+	<message label="054" attrib="00 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />I dig.<delay frames="30" /> No need to hold back, though.</message>
+	<message label="060" attrib="00 00 00 00"><tag a="50" b="3" /><tag a="110" b="1" />.<delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> You got a sec?<10_4 />
+I wanna run something by you.</message>
+	<message label="061" attrib="02 00 00 00"><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />You got someone by the name
+of <tag a="115" b="0" arg="0xcd00" /> here on
+<tag a="110" b="8" />?<pageBreak />I'm only asking because <tag a="90" b="35" arg="0xcd00" />
+<tag a="90" b="36" arg="0xcd00" /><delay20 /> is <tag a="115" b="0" arg="0xcd00" />'s
+birthday.<pageBreak /><snpcAnim id="TkkNodding" target="actor" targetSpec="" />Just between you and me, I'm
+thinking of putting on a special
+birthday show for 'em.<pageBreak />And<delay20 /> I thought I'd gather up some
+birthday wishes for them too.<delay40 />
+<snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" />You want to get in on that?</message>
+	<message label="061_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Of course!</message>
+	<message label="061_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No, thanks.</message>
+	<message label="062" attrib="00 00 00 00">Cool.<delay frames="30" /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> What's your message?</message>
+	<message label="063" attrib="00 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Not feeling it?<10_4 /> Well, <delay20 />you know where
+to find me if <snpcAnim id="TkkNodding" target="actor" targetSpec="" />you change your mind.</message>
+	<message label="065" attrib="00 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />OK, then.<delay40 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" /> Message received.</message>
+	<message label="066" attrib="02 00 00 00">What about you?<delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> You in the mood for
+a song today too?</message>
+	<message label="066_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="066_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="067" attrib="02 00 00 00">What do you think?<delay20 /><snpcAnim id="TkkQuestionMark" target="actor" targetSpec="" /> Got time for one
+more tune?</message>
+	<message label="067_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="067_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Thanks, but not now.</message>
+	<message label="080" attrib="00 00 00 00">I'm not taking requests right now.<delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" />
+I just want to do my thing.<delay20 /> Let the
+music take me where it wants to be.</message>
+	<message label="081" attrib="00 00 00 00">I'll start taking song requests around
+<colour id="1" />6 PM<colour id="65535" />.<delay8 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" /> Come catch me then, you dig?</message>
+	<message label="082" attrib="00 00 00 00">I don't ask for much.<delay frames="30" /> A stool to sit
+on, a song to sing,<delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" /> and some folks
+gathered 'round to hear it.</message>
+	<message label="083" attrib="00 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Hey, <delay8 />what's buzzin'?<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> Name's <colour id="3" />K.K.
+Slider<colour id="65535" />.<delay frames="40" /> I'm in town for a spell, playing
+tunes before I hit the road again.<pageBreak />I'm not taking requests right now.<delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" />
+I just want to do my thing.<delay20 /> Let the
+music take me where it wants to be.
+I'll start taking song requests around
+<colour id="1" />6 PM<colour id="65535" />.<delay8 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" /> Come catch me then, you dig?</message>
+	<message label="084" attrib="00 00 00 00"><snpcAnim id="TkkEh" target="actor" targetSpec="" />Hey,<delay20 /> what's buzzin'? <10_4 />I'm putting on
+another show today before I hit
+the road again.<pageBreak />I'm not taking requests right now.<delay20 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" />
+I just want to do my thing.<delay20 /> Let the
+music take me where it wants to be.
+I'll start taking song requests around
+<colour id="1" />6 PM<colour id="65535" />.<delay8 /><snpcAnim id="TkkNodding" target="actor" targetSpec="" /> Come catch me then, you dig?</message>
+</msbt>

@@ -1,0 +1,88 @@
+<msbt attribsize="3">
+	<message label="001_01" attrib="00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Here you go, <tag a="110" b="1" />.<10_4 />
+Your very own <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tent<colour id="65535" />!</message>
+	<message label="001_02" attrib="00 00 00">Once you find the perfect spot, press
+<colour id="1" /><colour id="65535" /> to access your inventory. Then
+select your <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tent<colour id="65535" /> to place it.
+Don't worry—<delay20 />you'll get a chance to
+see what it looks like before making
+your final decision.
+And you'll want a little breathing
+room, so take your time finding a
+space that works for you.
+Oh!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> I suppose I should probably set
+you up with a <colour id="1" />map<colour id="65535" /> too<tag a="110" b="0" /></message>
+	<message label="001_03" attrib="00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Once you've put up your tent, please
+find your way back here. Use your
+new map if you need it!
+<anim id="Smiling" target="actor" targetSpec="" />Well, <delay20 /><anim id="Greeting" target="actor" targetSpec="" />off you go! I hope you find a
+great spot!</message>
+	<message label="002" attrib="00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Once you've put up your <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tent<colour id="65535" />,<delay8 /> please
+come back and let us know!</message>
+	<message label="002_02" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You can place your <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tent <colour id="65535" />among the
+trees or maybe near the beach—
+wherever you like, as long as it fits.</message>
+	<message label="002_03" attrib="00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Wondering how much space your
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tent <colour id="65535" />is going to take up?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Try to imagine five folks standing
+side by side. <delay20 />That's how wide it is.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />Oh! <delay8 />And about three folks deep.</message>
+	<message label="100" attrib="00 00 00"><tag a="60" b="20" /></message>
+	<message label="100_01" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Leave the setup to us!<10_4 /> We'll be
+counting on you to get the supplies.</message>
+	<message label="100_02" attrib="00 00 00">Please check with our boss,
+<colour id="3" />Tom Nook<colour id="65535" />, about what supplies
+we'll need.</message>
+	<message label="101" attrib="00 00 00"><tag a="60" b="20" /></message>
+	<message label="101_01" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Any <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />tree branches <colour id="65535" />you find on the
+ground or shake out of the trees
+will work just fine for the campfire.</message>
+	<message label="101_02" attrib="00 00 00">I'd appreciate it if you'd hold onto
+any weeds you pull up while you're
+gathering branches.
+<anim id="Smiling" target="actor" targetSpec="" />In the near future, we'll want to buy
+them from you.</message>
+	<message label="101_03" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />After you've gathered up <colour id="1" />10
+<tag a="50" b="0" arg="0x400 0xcd03" />tree branches<colour id="65535" />, <delay8 />please talk to
+our boss, <colour id="3" />Mr. Nook<colour id="65535" />.</message>
+	<message label="111" attrib="00 00 00"><tag a="60" b="20" /></message>
+	<message label="111_01" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />The key to getting <colour id="1" /><tag a="110" b="7" arg="0xcd01" /><colour id="65535" /> to drop<delay8 /> is
+standing in front of <tag a="50" b="2" /><colour id="1" /><tag a="110" b="7" arg="0xcd00" />
+<colour id="65535" />tree full of fruit.
+<anim id="BigSmile" target="actor" targetSpec="" />Then shake it with <colour id="1" /><colour id="65535" />!</message>
+	<message label="111_02" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Once you find enough <colour id="1" /><tag a="110" b="7" arg="0xcd01" /><colour id="65535" /> for
+the group, <delay8 />we'll make some yummy
+<tag a="110" b="7" arg="0xcd00" /> juice for everyone!</message>
+	<message label="111_03" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />When you've found enough
+<colour id="1" /><tag a="110" b="7" arg="0xcd01" /> <colour id="65535" />for everyone, please
+talk to <colour id="3" />Mr. Nook<colour id="65535" />!</message>
+	<message label="121" attrib="00 00 00"><tag a="60" b="20" /></message>
+	<message label="121_01" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You handled your tasks perfectly.<delay8 />
+We got a nice campfire going!</message>
+	<message label="121_02" attrib="00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="8" /><tag a="110" b="0" />
+<tag a="50" b="3" /><tag a="110" b="8" /><tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />What a great name! Just rolls off the
+tongue.<10_4 /> Thank you for offering such
+a wonderful idea to the group.</message>
+	<message label="121_03" attrib="00 00 00"><anim id="Blushing" target="actor" targetSpec="" />We're here to act as your support
+staff, but<delay8 /> we've never lived on an
+uninhabited island before either.
+<anim id="Hesitate" target="actor" targetSpec="" />I'm not sure how helpful we'll be in
+this unfamiliar place, but<tag a="110" b="0" /><delay20 /><anim id="Smiling" target="actor" targetSpec="" />we'll rely
+on each other as fellow residents!</message>
+	<message label="122" attrib="00 00 00">We'll let this campfire burn for the
+rest of the night.<delay8 /> Feel free to rest in
+your tent if you start to feel tired.
+<anim id="Smiling" target="actor" targetSpec="" />Ah, before you do that, though,<delay8 /> there
+is something we need to give you.<delay20 />
+Please talk to <colour id="3" />Mr. Nook<colour id="65535" /> about it!</message>
+	<message label="131" attrib="00 00 00"><tag a="60" b="20" /></message>
+	<message label="131_01" attrib="00 00 00"><tag a="50" b="3" /><tag a="110" b="1" />,<delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /> will you be
+heading back to your tent soon?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />You've had quite the long day!<10_4 />
+After you wake up tomorrow,<delay8 />
+please stop by <colour id="1" />Resident Services<colour id="65535" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />Ah, <delay8 /><colour id="1" />Resident Services<colour id="65535" /><anim id="Smiling" target="actor" targetSpec="" /> is this tent
+right near me!</message>
+	<message label="131_02" attrib="00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />, I'm sure today
+has worn you out. Why don't you
+go get some well-deserved rest?</message>
+</msbt>

@@ -1,0 +1,44 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Heading home already?<delay8 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Sorry to see our fun end,
+but thanks for coming over.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You're leaving now?
+<anim id="Smiling" target="actor" targetSpec="" />Thanks for visiting.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Aw, you have to go already?<delay8 />
+<anim id="Hesitate" target="actor" targetSpec="" />I hope you had a good time.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Huh?<delay frames="40" /> I didn't <anim id="Worried" target="actor" targetSpec="" />expect you to
+rush off again so soon<delay8 /><tag a="110" b="0" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You're leaving now?
+<anim id="Confused" target="actor" targetSpec="" />But you just got here!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />That was such a short visit<tag a="110" b="0" />
+Can't you stay a bit longer?</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oh! <anim id="EmotEnd" target="actor" targetSpec="" />I have something here for you<tag a="110" b="0" />
+<anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Almost forgot<tag a="110" b="0" /> <anim id="EmotEnd" target="actor" targetSpec="" />I want you to have
+<anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, hey<tag a="110" b="0" /> I have a gift for you!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I want you to have <tag a="50" b="2" />
+<tag a="125" b="4" arg="0x0" />.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, I had lots of fun.
+<anim id="Smiling" target="actor" targetSpec="" />Let's do this again sometime!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This was a lot of fun.
+<anim id="FaintSmile" target="actor" targetSpec="" />I hope you can come
+over again sometime.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I had a great time, <tag a="110" b="5" />.
+<anim id="Smiling" target="actor" targetSpec="" />Come visit me again sometime!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, wait<tag a="110" b="0" /> <anim id="Serious" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, your
+hands are already full.
+<anim id="Nodding" target="actor" targetSpec="" />I'll just mail this to you, OK?<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />This was fun! Come by again.</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00">Oh! <delay8 /><anim id="Hesitate" target="actor" targetSpec="" />Um, I have something for you<tag a="110" b="0" /><delay8 />
+<anim id="FaintSmile" target="actor" targetSpec="" />A song that's a favorite of mine<tag a="110" b="0" />
+"<capitaliseNextWord /><tag a="125" b="0" arg="0x0" />."<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Maybe you'll think of me when you
+listen to this. <anim id="Hesitate" target="actor" targetSpec="" /><delay8 />I hope you like it.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, that reminds me<delay8 /><tag a="110" b="0" /> <anim id="EmotEnd" target="actor" targetSpec="" />I have a gift
+here, to thank you for stopping by.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />This is a song I really like<delay20 /> and
+I hope you like it too.<delay40 /> <anim id="Hesitate" target="actor" targetSpec="" />It's called
+"<capitaliseNextWord /><tag a="125" b="0" arg="0x0" />."</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, it was really great
+to have you here.</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />It was really great having you here,<delay20 />
+<tag a="110" b="5" />!<delay frames="30" /> <anim id="FaintSmile" target="actor" targetSpec="" />Thanks for coming.</message>
+</msbt>

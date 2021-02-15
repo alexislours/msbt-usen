@@ -1,0 +1,184 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><delay8 />Hey, hi there!</message>
+	<message label="002_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="110" b="0" /><delay8 /><anim id="Shocked" target="actor" targetSpec="" /><delay40 />Oh, right!<delay40 /><anim id="QuestionMark" target="actor" targetSpec="" /> Didn't I see you at the
+store a while back? I knew you
+looked familiar!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />No worries if you forgot,
+but my name's <colour id="3" />Mabel<colour id="65535" />!</message>
+	<message label="002_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, sorry to bug you, but<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> do you
+live on this island?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm trying to get a toe in the ware-
+peddling business around here. The
+name's <colour id="3" />Mabel<colour id="65535" />—nice to meetcha!</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I'm an old friend of <colour id="3" />Timmy<colour id="65535" />,<delay20 />
+<colour id="3" />Tommy<colour id="65535" />,<delay20 /> and <colour id="3" />Tom Nook<colour id="65535" />.<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />We go waaaaaaaaaay back.
+<anim id="Smiling" target="actor" targetSpec="" />Anyway, that's how I heard about
+<tag a="110" b="33" />, and came out
+here to sell clothes and stuff.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />My dream is to open my own shop
+right here on the island,<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> but I gotta
+build up a customer base first.
+<anim id="Smiling" target="actor" targetSpec="" />I'll try to stop by a couple times
+a week,<delay20 /> so if you see me around,<delay20 />
+don't be a stranger, alright?</message>
+	<message label="004" attrib="02 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay8 />Oh, hey!<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> Since you're, like, right
+here,<delay20 /> you wanna see the stuff I'm
+selling today?</message>
+	<message label="004_a" attrib="00 00 00 00">I'd love to look!</message>
+	<message label="004_b" attrib="00 00 00 00">Some other time.</message>
+	<message label="005_01" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh no! <delay20 /><anim id="Worried" target="actor" targetSpec="" />I'm sorry!<delay20 /> Listen to me
+babbling when you've got other
+things to do!</message>
+	<message label="005_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />On the days I'm here,<delay20 /> I'll be selling
+first thing in the morning until about
+10 at night,<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> if you wanna shop.</message>
+	<message label="006" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Great!<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> Lemme just open up today's
+catalog for you!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Whaddaya think?<10_4 /> <anim id="Smiling" target="actor" targetSpec="" />I'm going to bring
+different stuff each time I visit,<delay20 /> so if
+you didn't find anything, no worries!</message>
+	<message label="101_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Gooooooood morning,
+<tag a="110" b="1" />!<delay20 /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" /><delay8 />Thanks for stopping by!</message>
+	<message label="101_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Gooooooood afternoon,
+<tag a="110" b="1" />!<delay20 /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" /><delay8 />Thanks for stopping by!</message>
+	<message label="101_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Gooooooood evening,
+<tag a="110" b="1" />!<delay20 /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" /><delay8 />Thanks for stopping by!</message>
+	<message label="102" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />How can I help today?</message>
+	<message label="102_a" attrib="00 00 00 00">What's on sale?</message>
+	<message label="102_b" attrib="00 00 00 00">Just saying hi.</message>
+	<message label="103" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><delay8 />That's so sweet!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Thanks for coming
+to say hi,<delay20 /> and if there's ever anything
+you need,<delay20 /> just give me a shout, OK?</message>
+	<message label="104" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You got it!<delay40 /> Here's what I'm
+selling today<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="105_01" attrib="02 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay8 />Oh,<delay20 /> hey again, <tag a="110" b="1" />!<delay40 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Forget something on your list?</message>
+	<message label="105_01_a" attrib="00 00 00 00">What's on sale?</message>
+	<message label="105_01_b" attrib="00 00 00 00">Just saying hi.</message>
+	<message label="105_02" attrib="02 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay8 />Oh,<delay20 /> hey, <tag a="110" b="1" />.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />What's up?</message>
+	<message label="105_02_a" attrib="00 00 00 00">What's on sale?</message>
+	<message label="105_02_b" attrib="00 00 00 00">Just saying hi.</message>
+	<message label="106" attrib="04 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />How can I help today?</message>
+	<message label="106_a" attrib="00 00 00 00">What's on sale?</message>
+	<message label="106_b" attrib="00 00 00 00">Let's talk location.</message>
+	<message label="106_c" attrib="00 00 00 00">Just saying hi.</message>
+	<message label="107" attrib="04 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay8 />Oh,<delay20 /> hey again, <tag a="110" b="1" />!<delay40 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Forget something on your list?</message>
+	<message label="107_a" attrib="00 00 00 00">What's on sale?</message>
+	<message label="107_b" attrib="00 00 00 00">Let's talk location.</message>
+	<message label="107_c" attrib="00 00 00 00">Just saying hi.</message>
+	<message label="108" attrib="04 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay8 />Oh,<delay20 /> hey, <tag a="110" b="1" />.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />What's up?</message>
+	<message label="108_a" attrib="00 00 00 00">What's on sale?</message>
+	<message label="108_b" attrib="00 00 00 00">Let's talk location.</message>
+	<message label="108_c" attrib="00 00 00 00">Just saying hi.</message>
+	<message label="111" attrib="02 00 00 00">It's <tag a="90" b="26" arg="0x0" /> for
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.
+<anim id="QuestionMark" target="actor" targetSpec="" />You interested?</message>
+	<message label="111_a" attrib="00 00 00 00">I'll buy!</message>
+	<message label="111_b" attrib="00 00 00 00">I'll pass.</message>
+	<message label="112" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />No worries!<delay20 /> Anything else catchin' 
+your eye?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="113_01" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Ooooooh no! <delay20 />What a pickle<tag a="110" b="0" /><delay20 />
+I'm afraid you, uh, haven't got
+enough money for that<tag a="110" b="0" /></message>
+	<message label="113_02" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Do you want to look around for
+something else instead?</message>
+	<message label="114_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You got it!</message>
+	<message label="114_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks!</message>
+	<message label="115" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Do you wanna look at anything else?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="116_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks!<delay20 /> See you next time!</message>
+	<message label="116_02" attrib="00 00 00 00">Nothing that tickled your fancy?<delay40 />
+Well, I'll have different stuff with me
+next time,<anim id="Smiling" target="actor" targetSpec="" /> so be sure to stop by!</message>
+	<message label="151" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Howdy, stranger!<delay40 /> If you're looking
+for a souvenir, I've got all the clothes
+and accessories you could need!</message>
+	<message label="151_a" attrib="00 00 00 00">What's on sale?</message>
+	<message label="151_b" attrib="00 00 00 00">Some other time.</message>
+	<message label="152" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You got it!<delay20 /> Come by and see me
+anytime!</message>
+	<message label="153" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, thanks for stopping by again!<delay40 />
+Didja<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> wanna browse some more?</message>
+	<message label="153_a" attrib="00 00 00 00">What's on sale?</message>
+	<message label="153_b" attrib="00 00 00 00">Some other time.</message>
+	<message label="201" attrib="01 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, hey, <delay20 /><tag a="110" b="1" />!<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />You came at just the right time!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />There's something I'd like to ask you
+today<tag a="110" b="0" /><delay frames="30" /> <anim id="QuestionMark" target="actor" targetSpec="" />Could I bend your ear for
+a bit?</message>
+	<message label="201_a" attrib="00 00 00 00">Sure. What's up?</message>
+	<message label="201_b" attrib="00 00 00 00">You betcha!</message>
+	<message label="202" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh, thank you!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />You see, I wanted to
+ask you about a location<tag a="110" b="0" /><anim id="Smiling" target="actor" targetSpec="" />for the
+store that we're thinking of opening.</message>
+	<message label="203" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Thanks to you,<delay8 /> we've gained a lot of
+customers on this island<delay20 /> who can't
+wait for me to come here peddlin'.
+<anim id="EmotEnd" target="actor" targetSpec="" />So<tag a="110" b="0" />I've been talking with my sister
+<delay20 /><anim id="Smiling" target="actor" targetSpec="" /><anim id="HappyDance" target="actor" targetSpec="" />about opening a proper store right
+here on this island!</message>
+	<message label="204" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So today I came to chat with
+<colour id="3" />Tom Nook<colour id="65535" />,<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> and we had a great
+conversation!</message>
+	<message label="205" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />He was all like, "We have some
+materials left over from building
+<colour id="1" />Nook's Cranny<colour id="65535" />, hm?"
+<anim id="Explain" target="actor" targetSpec="" />"All that must be done then is to
+select an appropriate location, yes?"<pageBreak /><anim id="Aha" target="actor" targetSpec="" />"Oho! <delay20 />And the perfect individual to
+help you find that location would be
+<tag a="110" b="1" />,<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> yes,<delay frames="40" /> hm, <delay frames="40" />yes?"</message>
+	<message label="206" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So I figured I'd just keep doing the
+traveling-peddler thing until I ran
+into you again. <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />And that's now!</message>
+	<message label="207" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh, geez,<delay20 /> I've just been rambling on
+and on, haven't I? <delay20 />Sorry—<anim id="HappyDance" target="actor" targetSpec="" />I'm pretty
+excited about all this!
+<anim id="FaintSmile" target="actor" targetSpec="" />Anyway, <delay20 />my sister and I would feel
+better opening this shop with the
+help of someone <colour id="3" />Tom Nook<colour id="65535" /> trusts.
+<anim id="QuestionMark" target="actor" targetSpec="" />So how about it, <tag a="110" b="1" />?<delay20 />
+Can you be our location scout?</message>
+	<message label="207_a" attrib="00 00 00 00">Sure thing!</message>
+	<message label="207_b" attrib="00 00 00 00">I'm a bit busy...</message>
+	<message label="208" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Seriously?!<delay20 /> Oh, you're a total
+lifesaver!<delay8 /> Alright then,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> let me give
+you this <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tailors construction kit<colour id="65535" />!</message>
+	<message label="209" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Just set it up in whatever spot makes
+sense to you,<delay frames="30" /><anim id="Smiling" target="actor" targetSpec="" /> and that's where we'll
+have our shop built!</message>
+	<message label="210" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, of course!<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> Life sure can be
+"life-y" sometimes, right? <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Don't
+stress on my account.
+<anim id="FaintSmile" target="actor" targetSpec="" />But I'll be around for a while longer,<delay20 />
+so if you get some free time and
+want to help,<delay20 /><anim id="Hello" target="actor" targetSpec="" /> just gimme a holler.</message>
+	<message label="211" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Could it be<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />are you here to
+find me a spot for my store?</message>
+	<message label="211_a" attrib="00 00 00 00">Sure thing!</message>
+	<message label="211_b" attrib="00 00 00 00">I'm a bit busy...</message>
+	<message label="212" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Really? <delay20 />That's great! <delay frames="40" />Oh, but your
+pockets are full. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Call it tailor's
+intuition!
+<anim id="Explain" target="actor" targetSpec="" />If you'll make some space,<delay20 /> I'll give
+you the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tailors construction kit<colour id="65535" /> and
+we'll be in business!
+<anim id="Blushing" target="actor" targetSpec="" /><tag a="110" b="0" />So to speak.</message>
+	<message label="221" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks so much for offering to
+scout a location for our shop!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />We're not planning a huge place or
+anything, <delay20 />so we don't need a ton
+of space.
+<anim id="Hello" target="actor" targetSpec="" />If you find a nice-looking spot, <delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" />you
+can use the kit to help you imagine
+what the store will look like there.</message>
+	<message label="222" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Hey, you found a spot for the shop!<delay frames="40" />
+Thanks so much, <tag a="110" b="1" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Once we're all set up and everything,<delay20 />
+<anim id="HappyDance" target="actor" targetSpec="" />I hope you'll swing by and support
+my sister and me!</message>
+	<message label="901" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, thanks for stopping by again,
+<tag a="110" b="1" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Sorry, but I'm closed up for the day
+and heading home soon.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> But I hope
+you'll come see me again next time!</message>
+	<message label="902" attrib="00 00 00 00">Sorry, I've closed up shop for the
+day.<10_4 /> <anim id="Smiling" target="actor" targetSpec="" />But come see me again another
+time, OK?</message>
+</msbt>

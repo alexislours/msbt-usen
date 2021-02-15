@@ -1,0 +1,26 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 07 00 00"><anim id="Greeting" target="actor" targetSpec="" />Morning, <tag a="110" b="3" />!<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />Très good to see you!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 03 00 00"><anim id="Hello" target="actor" targetSpec="" />Hi, <tag a="110" b="3" />!<delay40 /> When did you
+get here?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 04 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! Hey, <tag a="110" b="3" />!<anim id="FaintSmile" target="actor" targetSpec="" /><delay20 />
+Visiting <tag a="110" b="8" />?
+<anim id="Nodding" target="actor" targetSpec="" />Make yourself at home!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 09 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Gooood evening!<delay40 /> <anim id="Blushing" target="actor" targetSpec="" />How supes lucky
+am I to run into you tonight,
+<tag a="110" b="3" />?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hiiiii, <tag a="110" b="3" />!
+Thanks SO much for coming
+over to <tag a="110" b="8" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 01 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Whoa, it's <tag a="110" b="3" />!
+<anim id="FaintSmile" target="actor" targetSpec="" />Ohmigosh! I missed you so
+much!<delay40 /> <anim id="QuestionMark" target="actor" targetSpec="" />How've you been?!<setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+	<message label="013" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It's <tag a="110" b="3" />! I was just
+thinking about you! <anim id="Greeting" target="actor" targetSpec="" />Ohmigosh!<delay20 />
+It's like I'm psychic!</message>
+	<message label="014" attrib="00 00 0c 01 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" /><delay20 />Huh? <tag a="50" b="3" /><tag a="110" b="3" />?! <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />I didn't
+know you were visiting
+<tag a="110" b="8" />! How fun!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="015" attrib="00 00 0c 01 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It's <tag a="110" b="3" />!<delay40 /> <anim id="BigSmile" target="actor" targetSpec="" /><delay20 />Welcome to
+<tag a="110" b="8" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

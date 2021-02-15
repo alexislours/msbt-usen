@@ -1,0 +1,15 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> How're you
+likin' <tag a="110" b="8" />? <delay20 />Pretty
+cool, right, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Whoa,<delay20 /> good to see you around here
+again, <tag a="110" b="5" />.<delay20 /> <anim id="ShyBoy" target="actor" targetSpec="" />Wait<tag a="110" b="0" /><delay20 />did you
+come just to see me?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If you like this island so much<tag a="110" b="0" /><delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />maybe you oughta move here!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Don't be shy about talkin' to anyone
+else you see here, <tag a="110" b="5" />.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />They'd love to hear from you!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Always good to see you
+here, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

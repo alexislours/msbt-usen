@@ -1,0 +1,19 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Touchdown like <tag a="135" b="8" arg="0xcd00" />
+in <tag a="50" b="2" /><tag a="135" b="5" arg="0xcd00" />—<delay20 />we are
+parked and proud!<delay20 /><anim id="Assent" target="actor" targetSpec="" />
+Give a quack to wingback.</message>
+	<message label="101" attrib="02 00 00 00">Trainwreck <tag a="135" b="7" arg="0xcd00" /> is
+reporting tango <tag a="135" b="6" arg="0xcd00" /> is go.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />
+Do you require assistance?<anim id="EmotEnd" target="actor" targetSpec="" /> <delay20 />Over.</message>
+	<message label="101_a" attrib="00 00 00 00">I'm ready to go home.</message>
+	<message label="101_b" attrib="00 00 00 00">Never mind.</message>
+	<message label="102" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You wanna bust bunson burners
+and bounce back to <tag a="50" b="3" /><tag a="110" b="7" arg="0xcd00" />town?</message>
+	<message label="102_a" attrib="00 00 00 00">Yep!</message>
+	<message label="102_b" attrib="00 00 00 00">No, wait...</message>
+	<message label="103" attrib="00 00 00 00"><anim id="Assent" target="actor" targetSpec="" /><delay20 />Roger!<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Let's pack snacks
+and make tracks.</message>
+	<message label="104" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Copy that.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Take your time, civilian.<delay20 />
+I'm not in a hurry.</message>
+</msbt>

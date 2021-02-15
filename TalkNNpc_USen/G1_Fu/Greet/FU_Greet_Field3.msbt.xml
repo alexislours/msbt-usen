@@ -1,0 +1,8 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, we meet again,<delay20 />
+<tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Always good to see your smile again,<delay20 />
+<tag a="110" b="5" />.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />We're sure seeing a lot of each other
+lately,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

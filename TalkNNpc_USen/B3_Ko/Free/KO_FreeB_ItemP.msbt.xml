@@ -1,0 +1,149 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Reckon I just saw you puttin' away
+a shovel,<delay8 /> kiddo.<delay20 /> <anim id="Grin" target="actor" targetSpec="" />Wouldn't happen to
+be huntin' for treasure, would ya?
+<anim id="EmotEnd" target="actor" targetSpec="" />Wouldn't blame you if you were.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Reckon you probably heard the same
+tale<delay20 /> of a fortune buried around here.
+<anim id="Shocked" target="actor" targetSpec="" />Gah!<delay40 /> I've said too much!<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />Seein' as
+how I've been seekin' that treasure,<delay20 />
+<anim id="Negative" target="actor" targetSpec="" />I shouldn't be helpin' you find it first!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="27" arg="0x64 0x65 0x66 0x67 0x68" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="26" arg="0x69 0x6a 0x6b 0x6c 0x6d" /></message>
+	<message label="004" attrib="6e 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Doin' some waterin',<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Nice umbrella you got there, kiddo.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Didja know some folks call 'em
+"bumbershoots"?
+<anim id="Negative" target="actor" targetSpec="" />Not me,<delay20 /> <tag a="110" b="5" />.<delay20 /> I just call 'em
+umbrellas<delay20 /> because I like to keep it
+simple.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />But I'm a big fan either way.
+<anim id="IdeaBulb" target="actor" targetSpec="" />Fans<delay8 /><tag a="110" b="0" /> Reckon I just had a million-Bell idea!<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />Picture this:<delay20 /> <anim id="Pardon" target="actor" targetSpec="" />an umbrella,<delay20 />
+with a fan whirrin' away under it!
+<anim id="Explain" target="actor" targetSpec="" />It could dry you off<delay8 /> if you got wet
+openin' your umbrella.<delay20 /> Or cool you
+off,<delay8 /> if you just opened it for shade!
+Reckon <anim id="SmugFace" target="actor" targetSpec="" />I'm gonna pitch this one to
+<colour id="3" />Tom Nook<colour id="65535" /> himself!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Did I just see you holdin' an axe?<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />Good thing you seem to be the type
+who knows how to swing it properly.
+<anim id="FaintSmile" target="actor" targetSpec="" />Go on<delay20 /> and use that axe as much as
+you need to clear out some space for
+<capitaliseNextWord /><tag a="110" b="8" />.
+<anim id="BigSmile" target="actor" targetSpec="" />We need all the space we can get,<delay20 />
+<tag a="110" b="3" />!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Hey now!<delay20 /> Is that a slingshot?<delay frames="40" />
+<anim id="Serious" target="actor" targetSpec="" />What do you think you're gonna
+shoot with that?
+<anim id="Laughing" target="actor" targetSpec="" />Gahaha!<delay20 /> Don't worry about it.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Just let me know when you find
+a good target!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey now!<delay20 /> Is that thing you got there
+one of those wands?<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />I hear they're
+real helpful.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />All it takes is one flick of the wrist<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />
+and—<delay8 />BAM!—<delay20 />you've changed your
+clothes!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Boy,<delay frames="40" /> ain't life grand?</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Heya,<delay20 /> <tag a="110" b="3" />!<pageBreak />Did I just see you layin' down some
+new roads to speed up development?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I like havin' lots of new streets
+to stroll down.<delay20 /> Turns my dull ol'
+walks into an adventure!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Eh<delay8 /><tag a="110" b="0" />just make sure these newfangled
+roads are nice and smooth,<delay8 /> OK?<delay20 />
+Bumpy paths make my hips ache!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Saw that tool you were just holdin'.<delay20 />
+Reckon you've been buildin' some
+cliffs around here,<delay20 /> <tag a="110" b="5" /><tag a="110" b="0" />
+<anim id="Thinking" target="actor" targetSpec="" />That's some serious business there.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />Can't wait to see how it turns out!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />My keen sense of observin' tells
+me you've been makin' rivers.<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />What a feelin', eh?
+<anim id="Explain" target="actor" targetSpec="" />Now,<delay20 /> I ain't gonna tell you what
+to do,<delay20 /> but I suggest you don't get
+too fancy with this river business.
+<anim id="Negative" target="actor" targetSpec="" />Don't want to end up with a maze
+of rivers that's hard to get around,<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />if you catch my<delay8 /><tag a="110" b="0" />DRIFT.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Don't try to pull the wool over my
+eyes, kiddo.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />That party popper you're
+holding can only mean one thing<delay8 /><tag a="110" b="0" />
+<anim id="Smiling" target="actor" targetSpec="" />Someone's celebrating something
+somewhere!<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Now,<delay8 /> who is it?<delay20 /> And where's all the
+fun happenin'?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Go on.<delay20 /> You can tell
+your ol' pal,<delay8 /> <tag a="110" b="10" />!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Usin' that to go explorin'?<pageBreak />Those come in handy <anim id="Nodding" target="actor" targetSpec="" />for scramblin'
+up and down cliffs.<delay40 /> <anim id="Serious" target="actor" targetSpec="" />Just make sure
+to be careful about it,<delay20 /> <tag a="110" b="5" />.
+<anim id="Restless" target="actor" targetSpec="" />If you aren't on stable ground it can
+wobble,<delay20 /> and that's dangerous!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Look at you with your vaultin' pole!<delay40 />
+Ain't no river stoppin' you today.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Must be a blast to vault yourself
+around like that.<delay40 /> I know <anim id="Grin" target="actor" targetSpec="" />I'd leap at
+the chance to try it,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Heya.<delay20 /> I hear you've been tryin' to
+catch bugs.<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />I also hear you haven't
+had a lick of luck.
+A little advice<delay8 /><tag a="110" b="0" /> <anim id="Aha" target="actor" targetSpec="" />Don't panic!<delay20 /> Them
+critters can sense it a mile away.<delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />Makes 'em jittery.<delay20 /> Scares 'em off!
+<anim id="FaintSmile" target="actor" targetSpec="" />Take a deep breath.<delay20 /> Maybe try some
+meditation.<delay20 /> You'll start catchin' 'em
+in no time,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />How's the bug catching goin'?<delay frames="40" />
+<anim id="Serious" target="actor" targetSpec="" />Guessin' maybe not so good.<pageBreak />Try not to let that<tag a="110" b="0" /><anim id="Laughing" target="actor" targetSpec="" />BUG ya. Gahaha!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />There's plenty of critters waitin' to
+be caught.<delay20 /> You'll get the hang of it!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hey,<delay8 /> kiddo.<delay20 /> Looks like you've gotten
+pretty decent at catchin' bugs.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Now, don't you go getting cocky!<delay20 />
+The moment you get too comfortable,<delay20 />
+THAT'S when you're likely to slip up.
+What I mean is,<delay8 /> <anim id="Negative" target="actor" targetSpec="" />don't be like me.<delay20 />
+One time,<delay8 /> I let my big ego bumble
+a rare catch.<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />I regret it to this day!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Well look at you,<delay20 /> catchin' all sortsa
+bugs,<delay20 /> <tag a="110" b="3" />!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Seems like I see you runnin' around
+with a net in your hand<delay20 /> all the time
+these days.
+<anim id="BigSmile" target="actor" targetSpec="" />I better up my game,<delay20 /> <tag a="110" b="5" />!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Creepin' critters!<delay20 /> I heard you caught
+every single kind of bug there is!<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />Not bad, kiddo.<delay20 /> Not bad at all.
+<anim id="ShyBoy" target="actor" targetSpec="" />Looks like it's time for me to hang up
+my net.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I lost to you fair and square,<delay20 />
+<tag a="110" b="3" />!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey there,<delay20 /> have the fish been bitin'?<10_4 />
+<anim id="Shocked" target="actor" targetSpec="" />You haven't caught a single one?<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Well now,<delay20 /> there's no use gettin'
+worked up about it.<delay frames="40" /> That'll just
+scare 'em away!
+Anglin' ain't for the impatient.<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />Take your time,<delay20 /> <tag a="110" b="3" />!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Heya,<delay20 /> <tag a="110" b="3" />.<pageBreak /><delay8 />How's the fishin' goin'?<10_4 /> <anim id="Worried" target="actor" targetSpec="" />Not so
+swimmingly, by the looks of it.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Well, like they say,<delay20 /> "There are plenty
+of fish in the sea."<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />Of course,<delay20 /> they
+also say,<delay8 /> "Fish or cut bait."
+<anim id="OhGeez" target="actor" targetSpec="" />Look,<delay8 /> they say a lot of things.<delay frames="40" /> But I
+say, stick with it.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />You'll be swimming
+in fish in no time,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Looks like you've turned into a real
+fine angler,<delay20 /> kiddo!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />But,<delay20 /> as a wise man once said,<delay20 />
+don't count your fish before they're
+spawned.<10_4 /> <anim id="BigSmile" target="actor" targetSpec="" />That wise man was me!
+<anim id="Thinking" target="actor" targetSpec="" />Hmm<delay8 /><tag a="110" b="0" />come to think of it,<delay8 /> I don't
+recollect why I said that.<delay20 /> <anim id="ShyBoy" target="actor" targetSpec="" />I'm sure
+I had a real good reason,<delay8 /> though.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I see you've taken quite a shine to
+fishin',<delay20 /> <tag a="110" b="3" />!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />The fish don't stand a chance when
+you've got that rod in your hand.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />You might say <delay8 />you're a real fishin'<delay8 /><tag a="110" b="0" />
+aFISHionado.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00">You're a legend,<delay20 /> <tag a="110" b="3" />!<pageBreak />Everyone's talkin' about how you
+caught every kind of fish there is!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I understand if you don't want
+to give away the secret of your
+wild success<delay8 /><tag a="110" b="0" />
+<anim id="Scheming" target="actor" targetSpec="" />But if you tell me,<delay20 /> mum's the word!<delay frames="40" />
+Angler's honor,<delay8 /> <tag a="110" b="5" />!</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="8" arg="0x70 0x70 0x6f 0x6f 0x6f 0x6f 0x70" /></message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Waterin',<delay20 /> on a day like today?<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />You take your chores seriously!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I'd take the day off from that,<delay20 />
+if I had my druthers.<delay frames="30" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />So that's why the flowers around
+here<delay20 /> are always lookin' extra perky.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />It's all your doin',<delay20 /> <tag a="110" b="5" />.</message>
+</msbt>

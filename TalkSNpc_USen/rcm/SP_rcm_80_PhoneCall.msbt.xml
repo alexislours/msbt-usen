@@ -1,0 +1,13 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><tag a="100" b="5" />Hello?<delay frames="40" /> This is <colour id="3" />Timmy<colour id="65535" /> from
+Nook's Cranny!<endTag a="100" b="5" /></message>
+	<message label="001_01" attrib="00 00 00 00"><tag a="100" b="5" />Hello?<delay frames="40" /> This is <colour id="3" />Tommy<colour id="65535" /> from
+Nook's Cranny!<endTag a="100" b="5" /></message>
+	<message label="002" attrib="00 00 00 00"><tag a="100" b="5" />I've reached <tag a="110" b="1" />,
+right?<endTag a="100" b="5" /></message>
+	<message label="003" attrib="00 00 00 00"><tag a="100" b="5" />We've sent a payment to your bank
+account for <tag a="90" b="24" arg="0x0" /><delay8 /> for what
+you left in the drop-off box.<endTag a="100" b="5" /></message>
+	<message label="004" attrib="00 00 00 00"><tag a="100" b="5" />Thank you for using this service!<delay20 />
+Hope to see you in the shop soon!<endTag a="100" b="5" /></message>
+</msbt>

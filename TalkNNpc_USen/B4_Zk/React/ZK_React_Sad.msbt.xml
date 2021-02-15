@@ -1,0 +1,51 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Sighing" target="actor" targetSpec="" />Ugh<tag a="110" b="0" /><10_4 /> Sorry, <tag a="110" b="3" />.
+I'm right in the middle of a bit of
+pre-scheduled sadness<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />Ugh, I think I'm having a midlife
+crisis, but I'm too young.<delay20 /><anim id="Thinking" target="actor" targetSpec="" /> Maybe
+it's more of a one-eighth life crisis<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />Just leave me alone for a bit, OK?<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />I can't always be the
+laugh-a-minute <tag a="110" b="10" />
+you know and love.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I want to be the kind of guy who's
+perfect in every way and universally
+beloved, but it's actually kinda hard!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="SadSpiral" target="actor" targetSpec="" />Ugh<tag a="110" b="0" />my failures are all too
+real when someone else points
+them out<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Sighing" target="actor" targetSpec="" />I just want to be the coolest guy ever
+but I'm always doing the least cool
+things when folks are watching.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Get a load of this.<delay20 /> <tag a="115" b="1" arg="0xcd00" />
+just told me that I had a stain
+on my shirt!</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />That was nice of them.</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />...And?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh! You're right!<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> I totally took it
+the wrong way, but it was like, hey,
+pro tip—wash your shirt!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="TakenAback" target="actor" targetSpec="" />And?!<delay20 /> It's a stain on my designer
+shirt! <delay20 /><anim id="Sighing" target="actor" targetSpec="" />Do you have any idea how
+many Bells I spent on this?<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />Sorry<tag a="110" b="0" />I just CAN'T right now<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Silent" target="actor" targetSpec="" />Do I look like the carefree
+<tag a="110" b="10" /> you're used to?<delay frames="40" />
+<anim id="Worried" target="actor" targetSpec="" />Because I'm not!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Thinking" target="actor" targetSpec="" />I feel like you don't even know me.
+<delay20 /><anim id="OhGeez" target="actor" targetSpec="" />How is that possible?<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="203" attrib="00 00 02 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Sorry, I don't want to talk about it.</message>
+	<message label="203_a" attrib="00 00 00 00 00 00 00 00"><anim id="Apologize" target="player" targetSpec="" />I'm sorry.</message>
+	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />...OK.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Well, since you apologized<tag a="110" b="0" />
+<anim id="Nodding" target="actor" targetSpec="" />I'm willing to forget anything
+ever happened.
+And<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" />it's forgotten! <delay20 />What were
+we talking about, again?</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You don't seem all that remorseful,
+but you did technically agree with
+me just then, so<tag a="110" b="0" />
+<anim id="Dance" target="actor" targetSpec="" />I'm gonna let bygones be
+bygones. <delay20 />Hey, we're friends
+again,<delay20 /> <tag a="110" b="5" />!</message>
+</msbt>

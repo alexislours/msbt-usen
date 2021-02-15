@@ -1,0 +1,47 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><size value="75" />Mmmm<delay8 /><tag a="110" b="0" />be quiet, clouds<delay8 /><tag a="110" b="0" />spoons're sleepin'<delay8 /><tag a="110" b="0" />
+well, ask the bicycle yourself<delay8 /><tag a="110" b="0" /> <size value="100" /><anim id="Surprised" target="actor" targetSpec="" />HUH?!<10_7 arg="120" /></message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><size value="75" />Tastes like wood<delay8 /><tag a="110" b="0" />scary banana<delay8 /><tag a="110" b="0" />never trust a
+talking carrot<delay8 /><tag a="110" b="0" /> <size value="100" /><anim id="Sleepy" target="actor" targetSpec="" />Mmmm.<10_7 arg="120" /></message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00">Zzz<delay8 /><tag a="110" b="0" />zzzz<delay8 /><tag a="110" b="0" />ZZZZ!<delay frames="40" />
+<anim id="Shocked" target="actor" targetSpec="" />Gah!<10_7 arg="120" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="010_01" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Now, what're you grinnin' about?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Listen kiddo,<delay20 /> whatever you heard
+while I was sleepin' is between me
+and<delay8 /><tag a="110" b="0" />me!<delay frames="30" /> So keep your trap shut!</message>
+	<message label="010_02" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />Huh—what<tag a="110" b="0" />I wasn't sleepin'!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />I was
+just blinking reeeeal slow like!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="011_01" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />I stayed up deeeeep into the
+afternoon yesterday.<delay frames="40" /> <anim id="Sleepy" target="actor" targetSpec="" />Knew it
+was a bad idea!</message>
+	<message label="011_02" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Oh, hey—sorry. Guess I shouldn't've
+skipped my nap yesterday!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="012_01" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Guess these old bones can't get
+enough of this spot. I ain't
+droolin', am I?</message>
+	<message label="012_02" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />I just sat down to rest my eyes and<tag a="110" b="0" />
+well, they got rested, alright.</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="013_01" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I had this really wonderful dream
+about<tag a="110" b="0" />something.<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />It's all fuzzy now,
+but I remember it was great!</message>
+	<message label="013_02" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I was just gonna doze for a moment,
+but I got more than I bargained for.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Thanks for waking me.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="014_01" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Huh? It's nighttime, ain't it? If it's
+all the same to you, I'd like to roll
+back over<tag a="110" b="0" /> <tag a="50" b="3" /><tag a="110" b="6" />.</message>
+	<message label="014_02" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Thought reading a book'd help me
+fall asleep. <delay8 />Did it ever!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="015_01" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Huh<tag a="110" b="0" /> I wonder where my body was
+taking me. Thanks for waking me up.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Owe you one, <tag a="110" b="3" />!</message>
+	<message label="015_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Guess I fell asleep doin' my rounds.
+It won't do to have a guard asleep at
+the watch.<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Won't do at all!</message>
+</msbt>

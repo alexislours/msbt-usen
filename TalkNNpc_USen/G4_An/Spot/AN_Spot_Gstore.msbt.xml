@@ -1,0 +1,40 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x65 0x66 0x67 0x68" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xc9 0xca" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x12d 0x12e 0x12f" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What'd I come here for again?<delay20 />
+Should've written it down.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Oh well! <delay20 />I'll just grab whatever.<delay20 />
+Maybe that'll jog my memory<tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Every time I come here, I end up
+with junk I don't need.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />I mean, usually I can sell it to my
+buddies, but<tag a="110" b="0" /><delay20 />still, <tag a="110" b="5" />!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />It takes soooooo much effort not to
+buy everything here, <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />If I was rich, I'd be like gimme this,<delay20 />
+gimme that, <delay20 />gimme ALL of it!<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />Right now I can barely afford
+window shopping<tag a="110" b="0" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Want some advice? <delay20 />If you're
+shopping and see something
+you really want, just buy it.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />You never know if it'll be there next
+time, so don't wait, <tag a="110" b="5" />!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You're from <tag a="110" b="9" />,
+right?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Anything catch your eye?<delay20 />
+Can't leave without souvenirs!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />This place sells soooo much
+cool stuff, <tag a="110" b="5" />.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />If I were you, I'd be loosening those
+purse strings. Or wallet<tag a="110" b="0" /><delay20 />folds!<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />You
+never know when you'll be back!</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I can't believe how roomy the
+<colour id="1" />shop <colour id="65535" />is since the remodel.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />With all the extra space to sell stuff,<delay frames="40" />
+<anim id="Blushing" target="actor" targetSpec="" />the window shopping has REALLY
+improved, <tag a="110" b="5" />!</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />The <colour id="1" />shop<colour id="65535" /> remodel is awesome! <delay20 />It's
+gonna be WAY easier to get stuff
+now, <tag a="110" b="5" />.
+<anim id="FaintSmile" target="actor" targetSpec="" />I was kinda hoping they'd put in
+a stage for rock concerts too,<delay20 />
+but hey! <delay20 />Stuff!</message>
+	<message label="303" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Y'know, <delay20 />hanging out at the <colour id="1" />shop<colour id="65535" /> just
+feels more fun since the remodel.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I gotta be careful though. <delay20 />I've only
+got so much to spend and there's a
+TON of cool stuff now!</message>
+</msbt>

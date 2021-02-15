@@ -1,0 +1,15 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh,<delay20 /> hey, <tag a="110" b="3" />!<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" /><delay20 />There's
+somebody who wants to talk to ya
+about something. <anim id="BigSmile" target="actor" targetSpec="" /><size value="75" />Something real cool!<size value="100" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />But they don't wanna bother you
+while you're with a friend<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />They wanna talk to you when you're
+alone. <anim id="BigSmile" target="actor" targetSpec="" /><delay20 />So come by again later today,
+OK, <tag a="110" b="5" />? <delay20 /><anim id="BigSmile" target="actor" targetSpec="" /><delay20 /><size value="75" />So exciting!<size value="100" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! <anim id="FaintSmile" target="actor" targetSpec="" /><delay20 />You're hanging
+out with <tag a="115" b="0" arg="0xcd00" />, yeah?<pageBreak /><anim id="Eh" target="actor" targetSpec="" />There's somebody who wants to talk
+with <tag a="115" b="0" arg="0xcd00" />, but<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's something real important and
+they only wanna say it when the two
+of them are alone. <size value="75" />It's a surprise!<size value="100" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Can you tell them to come over to
+play later? <delay frames="40" />Alone?<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />Before the end of
+the day?<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /><delay20 /> <size value="75" />This is so exciting!<size value="100" /></message>
+</msbt>

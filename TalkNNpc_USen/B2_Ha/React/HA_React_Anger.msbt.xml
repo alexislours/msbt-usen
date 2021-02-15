@@ -1,0 +1,47 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />I need you to leave me alone right
+now<tag a="110" b="0" /><delay20 /> I am NOT in a good mood.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />Even my biceps are bursting with
+rage right now, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />Gimme space, <tag a="110" b="3" />!<delay40 />
+<anim id="Fuming" target="actor" targetSpec="" />I'm really angry right now!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />This <tag a="115" b="1" arg="0xcd00" /> character
+just<tag a="110" b="0" /><delay20 />doesn't get it.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Outraged" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> has no business
+telling me this or that about
+my quads.<delay20 /> No business!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Fuming" target="actor" targetSpec="" />That muscle sprain just doesn't
+understand the glory of strength
+training, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I told <tag a="115" b="1" arg="0xcd00" /> that I
+weight train every day and that
+I <delay8 />ENJOY<delay8 /> the soreness.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" /><gender3 m="He" f="She" /> was like, "What's fun about
+that?"<delay40 /><anim id="Outraged" target="actor" targetSpec="" /> Can you believe it?!<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />Come on!<delay20 /> I'll hope the smell of my
+muscle ointment makes <gender3 m="him" f="her" /> dizzy the
+next time we talk, <tag a="110" b="5" />!</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">I can't believe it!</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />So what IS fun about it?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Right? <delay20 />It's so obvious!<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> Muscle
+building and soreness go together
+like gyms and sweat!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Well, I mean<tag a="110" b="0" /><delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> OK, I guess cooling
+down is pretty important too.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Surprised" target="actor" targetSpec="" />You too, <tag a="110" b="5" />?!<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />Does <delay20 />ANYONE<delay20 /> understand the
+awesomeness of weight training?!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Fuming" target="actor" targetSpec="" />I don't feel like talking right now!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />You should leave me alone
+until I get my feelings sorted
+out, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />Please don't talk to me!<delay40 /><anim id="Outraged" target="actor" targetSpec="" /> I'm incensed
+right now!<delay20 /> INCENSED, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="203" attrib="00 00 02 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />What's with you, <tag a="110" b="3" />?<delay20 />
+Do you really have something
+THAT important to tell me?</message>
+	<message label="203_a" attrib="00 00 00 00 00 00 00 00">Sorry!</message>
+	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Maybe...</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" /><tag a="110" b="0" /><delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />It's alright. I'll forgive you
+this time, <tag a="110" b="5" />.<pageBreak /><anim id="Angry" target="actor" targetSpec="" />But next time, stay outta my face
+when I'm mad!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" /><tag a="110" b="0" /><delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" />Well, I guess I can stop fuming.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Anger is good motivation for
+training sometimes, <delay20 /><anim id="Smiling" target="actor" targetSpec="" />but I don't
+wanna be angry ALL the time.</message>
+</msbt>

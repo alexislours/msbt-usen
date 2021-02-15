@@ -1,0 +1,73 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" /> and I<delay20 /> were just
+about to try playing <anim id="Hello" target="actor" targetSpec="" />a
+new rhyming game,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />I wanna go first,<delay20 /> <tag a="110" b="5" />!<pageBreak /><20_3 arg="2" /><anim id="Nodding" target="actor" targetSpec="" />OK,<delay20 /> my card says orange!<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />That's easy!<delay frames="40" /> Rhymes with,<delay20 /> <anim id="Serious" target="actor" targetSpec="" />uh<delay8 /><tag a="110" b="0" /><pageBreak />Wait<delay8 /><tag a="110" b="0" /><delay20 /> <anim id="Shocked" target="actor" targetSpec="" />WAHHH!<anim id="Eh" target="mainNpc" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00">Well,<anim id="Worried" target="actor" targetSpec="" /><delay20 /> that was a short game!<delay frames="40" />
+<20_2 arg="3" />I didn't expect to win so soon.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Do-over!<delay40 /> <20_2 arg="4" />That one didn't count!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />
+OK,<delay20 /> the next card says<delay20 />, um<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Purple?<delay frames="40" /> No fair!<delay20 /> Do-over-over!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I wanna pick the first card!<delay frames="40" /> <20_3 arg="2" /><anim id="EmotEnd" target="actor" targetSpec="" />It says
+I have to find a rhyme for<delay8 /><tag a="110" b="0" /><anim id="Eh" target="actor" targetSpec="" />walrus.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />OK,<delay20 /> um<delay8 /><tag a="110" b="0" /> Tall<delay8 /><tag a="110" b="0" />fuss? <anim id="Hesitate" target="actor" targetSpec="" />Is that
+something,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Worried" target="actor" targetSpec="" />Tallfuss?<delay frames="40" /> I don't know about that<delay8 /><tag a="110" b="0" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Can you use it in a sentence?<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Oh!<delay40 /> Why don't I go get my dictionary?</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />No,<delay20 /> no,<delay20 /> wait. Um<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /> <anim id="IdeaBulb" target="actor" targetSpec="" />How's this?<delay frames="40" />
+<20_2 arg="4" />"Yeah, I'm big,<delay20 /> but I don't want
+anyone to make a tallfuss."<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />Can I try again?</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ooh,<delay20 /> can I pick the first card?<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />
+<20_3 arg="2" />OK<delay8 /><tag a="110" b="0" /> <anim id="Thinking" target="actor" targetSpec="" />I need something that rhymes
+with ninja,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /><pageBreak />Ninja<delay8 /><tag a="110" b="0" /> <anim id="IdeaBulb" target="actor" targetSpec="" />Oh!<delay20 /> I know:<delay frames="40" /> binge-yeah!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't think "binge-yeah" is a real
+word,<delay20 /> <tag a="110" b="31" arg="0xcd01" />.<pageBreak /><20_2 arg="3" /><anim id="Worried" target="subNpc" targetSpec="" />You just kind of mashed two words
+together for that rhyme<delay8 /><tag a="110" b="0" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00">Right,<anim id="Nodding" target="actor" targetSpec="" /><delay20 /> like a mashup of yummy foods!<delay frames="40" />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Ooh,<delay20 /> now I'm thinking about mashing
+pie up into some ice cream<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Pice-cream,<delay20 /> yeah<delay8 /><tag a="110" b="0" />!<delay8 />
+<20_2 arg="4" /><anim id="Worried" target="actor" targetSpec="" />Aw,<delay20 /> now I'm hungry!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">What do you think about<anim id="QuestionMark" target="actor" targetSpec="" /><delay20 /> while
+you're out walking around the
+island,<delay20 /> <tag a="110" b="31" arg="0xcd01" />?</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">If there are <anim id="AbsentMindedness" target="actor" targetSpec="" />big,<delay20 /> squishy clouds in
+the sky,<delay20 /> sometimes I think about
+<anim id="Laughing" target="actor" targetSpec="" />curling up in them for a nice nap.<anim id="EmotEnd" target="actor" targetSpec="" />
+<anim id="IdeaBulb" target="actor" targetSpec="" />Or maybe biting them!<delay frames="40" /> <anim id="Hesitate" target="actor" targetSpec="" />Because they
+might taste like cotton candy<delay8 /><tag a="110" b="0" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Worried" target="actor" targetSpec="" />I'm not sure they'd be so comfy
+to sleep on,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Clouds are actually made of lots
+and lots of little water drops<tag a="110" b="0" /><delay8 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Well,<delay20 /> that's a real snoozekill.<pageBreak />Why ya gotta <anim id="Crying" target="actor" targetSpec="" />ruin my dreeeams
+like that,<delay20 /> <tag a="110" b="31" arg="0xcd00" />?</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I'm sorry!<delay frames="40" /> I guess <anim id="OhGeez" target="actor" targetSpec="" />I just can't help
+wanting to share things I know<delay8 /><tag a="110" b="0" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00">Sometimes <anim id="AbsentMindedness" target="actor" targetSpec="" />I think about how neat
+it'd be<delay20 /> to be a butterfly.<pageBreak />I could just <anim id="Nodding" target="actor" targetSpec="" />hop around from flower
+to flower,<delay20 /> <anim id="FaintSmile" target="mainNpc" targetSpec="" />slurping up nectar<delay8 /><tag a="110" b="0" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><tag a="50" b="3" /><tag a="110" b="5" />, <anim id="Nodding" target="actor" targetSpec="" />that does sound like a
+really great life.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Except for when it gets snowy,<delay20 /><anim id="Aha" target="subNpc" targetSpec="" />
+I guess<delay8 /><tag a="110" b="0" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Oh no!<delay frames="40" /> I don't wanna be a frozen-fly!<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Wait—<delay20 />you could keep flowers in your
+place<delay20 /> through the cold months <anim id="Nodding" target="actor" targetSpec="" />for
+me,<delay20 /> <tag a="110" b="31" arg="0xcd00" />!
+That way, I could stay warm and
+<anim id="Smiling" target="actor" targetSpec="" /><anim id="Laughing" target="mainNpc" targetSpec="" />I'd still have plenty of nectar to slurp
+up,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Alright,<delay20 /> it's a deal.<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" /><anim id="Clapping" target="subNpc" targetSpec="" />If you turn into
+a butterfly,<delay20 /> you can winter with me.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />That can be my excuse <anim id="FaintSmile" target="subNpc" targetSpec="" />to keep fresh
+flowers around,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00">They say <anim id="Nodding" target="actor" targetSpec="" />it's good for your health
+to eat well<delay20 /> and get lots of sleep.<anim id="FaintSmile" target="subNpc" targetSpec="" /><delay frames="40" />
+<anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />,<delay20 /> <tag a="110" b="31" arg="0xcd01" /><delay8 /><tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I just realized that <anim id="Aha" target="subNpc" targetSpec="" />you're probably
+living the ideal lifestyle!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />You really think so?<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Well,<delay20 /> uh, you're
+pretty cool too, <tag a="110" b="31" arg="0xcd00" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I think you've probably got<delay20 /> <anim id="Aha" target="mainNpc" targetSpec="" />the
+most-ideal-ever catchphrase!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Thank you very much,<delay20 /> <tag a="110" b="5" />!<delay frames="50" />
+Feel free <anim id="FaintSmile" target="actor" targetSpec="" />to use it yourself.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa,<delay20 /> you really mean it?<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />No take-backs,<anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay20 /> <tag a="110" b="5" />!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />No worries.<delay frames="40" /> <anim id="Smiling" target="subNpc" targetSpec="" />You don't really need to
+give it back,<delay20 /> <tag a="110" b="5" />!</message>
+</msbt>

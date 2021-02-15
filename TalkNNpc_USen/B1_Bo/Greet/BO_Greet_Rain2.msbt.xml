@@ -1,0 +1,29 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 07 00 00"><tag a="60" b="7" arg="0x710 0x800 0xcd00" /></message>
+	<message label="002" attrib="00 00 00 01 00 03 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
+	<message label="003" attrib="00 00 00 01 00 04 00 00"><tag a="60" b="7" arg="0xb10 0xc00 0xcd00" /></message>
+	<message label="004" attrib="00 00 00 01 00 09 00 00"><tag a="60" b="7" arg="0xd10 0xe00 0xcd00" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><delay20 />If the rain ever stops, we might see
+a rainbow. <anim id="Love" target="actor" targetSpec="" /><delay20 />Fingers crossed!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><delay20 />Hey there. <10_4 /><anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />Think this weather'll ever
+let up?<delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" /> I sure hope not!<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="008" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Gooooooooooood wet morning!<delay frames="40" />
+<anim id="HappyFlower" target="actor" targetSpec="" />I love <tag a="110" b="8" /> on
+rainy days, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="009" attrib="00 00 0c 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />The sun might be taking it easy
+today,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> but I'm ready to live it up.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's still pouring, but I've made up
+my mind<tag a="110" b="0" /><delay20 /><anim id="Smiling" target="actor" targetSpec="" /> <delay20 />I'm going to tough it out
+and have fun anyway.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />The whole island is soggy.<delay20 /> I couldn't
+be happier, <tag a="110" b="5" />!<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" /><delay20 />It's hard to tell if it's nighttime or
+just cloudy. <anim id="Smiling" target="actor" targetSpec="" /><delay20 />At least the clock in
+my tummy is never wrong!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="013" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey there. <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />It rained all day today<tag a="110" b="0" />
+I hope it keeps raining forever and
+ever, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="014" attrib="00 00 0c 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Careful<tag a="110" b="0" /><delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> The ground's wet!
+Don't slip and fall!<delay20 /> <anim id="Laughing" target="actor" targetSpec="" /><delay20 />You'll crack
+your coconut!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

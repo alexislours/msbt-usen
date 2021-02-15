@@ -1,0 +1,96 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, you been redecorating,
+<tag a="110" b="31" arg="0xcd01" />? <delay20 />You've got
+paint on your fingers.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />No. <delay20 />I got a manicure. <delay20 />The paint
+is called nail polish.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Nail polish is much nicer and
+more expensive than paint.<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />It's stylish, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Painting your nails to look stylish?<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />That's cool, I guess.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />So like<tag a="110" b="0" /><delay20 />is there biceps polish?<delay frames="40" /> <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh!<delay20 />
+What about pec polish?<delay20 /> Could I make
+my pecs shiny and green?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Biceps polish?!<delay frames="40" /><anim id="Negative" target="actor" targetSpec="" /> No, no, no. <delay20 />You're
+thinking of body paint. <delay20 /><anim id="Thinking" target="mainNpc" targetSpec="" />Nail polish is
+totally different, <tag a="110" b="5" />.<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00">So if I paint my nails<tag a="110" b="0" /><delay frames="60" /><anim id="Smiling" target="actor" targetSpec="" />I'll be stylish?</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" /><tag a="110" b="0" />Maybe?<delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> If you want to try
+it, <tag a="110" b="31" arg="0xcd00" />, let me know.
+I'd love to paint your nails!<anim id="SmugFace" target="mainNpc" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Yo, <tag a="110" b="3" />! <delay20 />How are you?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" /> and I were
+just remembering the
+good old days.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Were we? <delay20 />I think <tag a="110" b="31" arg="0xcd00" />
+wants to talk about his childhood.<delay20 />
+It's hard to tell.<pageBreak /><20_2 arg="7" /><tag a="110" b="0" /><anim id="Nodding" target="actor" targetSpec="" />Well, <tag a="110" b="31" arg="0xcd00" />? <delay20 />What
+were you into as a child?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Oh, I was into everything!<delay20 /> Abs,
+<delay20 />pecs, <delay20 />delts, <delay20 />glutes, <anim id="Angry" target="subNpc" targetSpec="" /><delay20 />calves, <delay20 />biceps,
+<delay20 />triceps<tag a="110" b="0" /><delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" /> Yep, <delay20 />everything.<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="104" attrib="00 00 05 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />Those are all muscles!<pageBreak /><anim id="Negative" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd00" />, <delay20 />there is more
+to life than working up a
+sweat, you know.<pageBreak /><20_3 arg="8" /><anim id="OhGeez" target="actor" targetSpec="" />Rescue this conversation,
+<tag a="110" b="3" />.<delay20 /> <20_3 arg="6" />What did you
+enjoy when you were young?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="104_a" attrib="00 00 00 00 00 00 00 00">Toys!</message>
+	<message label="104_b" attrib="00 00 00 00 00 00 00 00">Books!</message>
+	<message label="104_c" attrib="00 00 00 00 00 00 00 00">Snacks!</message>
+	<message label="104_d" attrib="00 00 00 00 00 00 00 00">Abs!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />I thought so. <delay20 />You always seem
+so delightfully innocent. <delay20 />Maybe
+that's why!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh yeah, I love toys too! <20_3 arg="7" /><delay20 />I play with
+my superhero action figures all the
+time, <tag a="110" b="5" />.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />They're so mega-ripped.<delay20 />
+It's really inspiring!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd00" />, <delay20 />sometimes
+I doubt you'll ever grow up<tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And sometimes I hope you never do.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />A bookworm?<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />That makes so much
+sense. <delay20 />I've always known you
+were smart!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />And smart is very, <delay20 />very fashionable
+right now!</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, I love books. <delay20 />Especially big,
+heavy ones! <20_3 arg="7" /><delay20 />I stick 'em all in a box
+and do lifts. <delay20 />Feels great!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I also use them for discus training.<anim id="Shocked" target="subNpc" targetSpec="" /><delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />Some of them <delay8 />REALLY<delay8 /> fly!<anim id="Negative" target="player" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Fuming" target="actor" targetSpec="" />WHAT?! <delay frames="40" />Really?! <delay20 />Throwing books?!<delay20 />
+That's barbaric!</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Heehee! <delay20 />Weren't we all! <delay20 />Well,
+there's nothing wrong with sweets,
+now and then.</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />What about energy bars?<delay frames="40" /> <20_2 arg="7" /><anim id="SmugFace" target="actor" targetSpec="" />When I'm
+prepping for triple sets, <delay20 />I slam a few
+of those down and I'm good to go!<anim id="OhGeez" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Protein bars are awesome too. <delay20 />They
+help me bulk up, <tag a="110" b="5" />!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" /><tag a="110" b="0" />Could you PLEASE stop obsessing
+over muscles and try bulking up
+your brain for once, <tag a="110" b="5" />?</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />What?! <delay20 />Not you too<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey! <20_2 arg="7" /><anim id="Angry" target="subNpc" targetSpec="" /><delay20 />Fit abs can be fashionable!<anim id="EmotEnd" target="subNpc" targetSpec="" /><delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />You just gotta expand your
+horizons, <tag a="110" b="5" />!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Ugh, <delay20 />you two<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Fine, <delay20 />I know when I'm beat. <delay20 />Have
+fun together, <tag a="110" b="5" />.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hey, <delay20 />could you teach me some of
+your fancy words?<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />I wanna sound
+fashionable, <tag a="110" b="5" />!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /><delay20 /> I suppose I could prepare a
+fashion primer for you<tag a="110" b="0" /><delay frames="40" /> <anim id="Shocked" target="actor" targetSpec="" />Wait! <delay20 />Did
+you just say, "<tag a="110" b="5" />"?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="5" />"? <delay20 />Yeah, <delay20 />I say that all
+the time. <delay20 />It helps me get pumped.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />What about it, <tag a="110" b="5" />?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh! <delay20 />Well, saying "<tag a="110" b="5" />"
+is very exciting, <delay20 />and exciting is
+extremely fashionable right now!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Actually<tag a="110" b="0" /><delay20 />would you mind terribly
+if I started saying "<tag a="110" b="5" />"
+around the island as well?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You wanna say, "<tag a="110" b="5" />"?<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />Yeah, sure, go ahead! <delay20 />Say it
+all you like, <tag a="110" b="5" />!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />! <delay frames="40" />Oh!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Just saying it fills
+me with energy<tag a="110" b="0" /><delay20 />and a desire to lift
+heavy objects over and over.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Oh my! <delay20 />Is this how you feel all
+the time, <tag a="110" b="31" arg="0xcd00" />?<pageBreak /><anim id="Cheering" target="actor" targetSpec="" /><delay20 /><tag a="50" b="3" /><tag a="110" b="5" />!<delay frames="60" /> <anim id="SmugFace" target="actor" targetSpec="" />Wow! <delay20 />I'm going to
+go for a run!<anim id="Grin" target="mainNpc" targetSpec="" /></message>
+</msbt>

@@ -1,0 +1,15 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 13"><tag a="110" b="10" /> is speaking.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />
+You are who? <delay frames="40" /><anim id="Eh" target="actor" targetSpec="" />Ah, <tag a="110" b="1" />
+is the you I speak to.
+<anim id="EmotEnd" target="actor" targetSpec="" />You have need of mystery?</message>
+	<message label="002" attrib="00 00 00 13"><anim id="QuestionMark" target="actor" targetSpec="" />A <colour id="1" />campsite <colour id="65535" />for the going to?<delay frames="40" />
+<anim id="Frantic" target="actor" targetSpec="" />Oh, but bad,<delay20 /> for I am the
+busiest of busy!
+<anim id="Worried" target="actor" targetSpec="" />I see not camping in my future,<delay20 /><anim id="BrokenHeart" target="actor" targetSpec="" />
+unless it is a <colour id="1" />campsite <colour id="65535" />made of
+floor coverings and toil.
+<anim id="HappyFlower" target="actor" targetSpec="" />But it is great in kindness of you to
+be inviting me! <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />My happiness grows
+with thinking of it.</message>
+</msbt>

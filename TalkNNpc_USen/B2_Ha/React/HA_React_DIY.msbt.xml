@@ -1,0 +1,54 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00">Aaaaand<tag a="110" b="0" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" />THERE we go!<delay20 /> Alright,
+<tag a="110" b="3" />, need something?</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Whatcha up to?</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">Not really.</message>
+	<message label="015" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay20 />
+Perfect timing! Come take
+a look, <tag a="110" b="5" />!</message>
+	<message label="015_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />What's that?</message>
+	<message label="015_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I don't wanna interrupt.</message>
+	<message label="016" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Whew! I nearly sprained my
+creativity.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Whaddaya think?</message>
+	<message label="016_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />What is it?</message>
+	<message label="016_b" attrib="00 00 00 00 00 00 00 00">It's not my thing.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />You're not gonna believe it. <delay20 />I made
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I was out jogging the other day and,
+somewhere around the fifty-third
+mile,<delay20 /> inspiration just<tag a="110" b="0" /><delay20 /><anim id="Aha" target="actor" targetSpec="" />hit me.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Or it could've been dehydration.<delay20 />
+Either way, check it out!<delay frames="40" /> And
+stay hydrated!</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Building it was like a hard workout
+routine,<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />and you know I'm all about
+sharing my routines.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />So whaddaya say?<delay20 /> You wanna
+get built making yourself
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">Teach me!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Nah, I'm good.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />No big.<delay20 /> But if you're not interested,
+then I'm gonna get back to this.<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />Catch you later, <tag a="110" b="5" />!</message>
+	<message label="008" attrib="00 00 01 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Whoa!<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />When'd you learn to make
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
+	<message label="008_a" attrib="00 00 00 00 00 00 00 00">I don't remember...</message>
+	<message label="008_b" attrib="00 00 00 00 00 00 00 00">I'm not telling...</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Figures.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Well, keep workin' that
+brain muscle! I wanna see what you
+can do, <tag a="110" b="6" />!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Or not!<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Looks like your pockets
+are full, <tag a="110" b="5" />.<delay20 /> Oh well.</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Well, I could. <delay20 />Or I could give you this
+paper that I wrote the recipe on.<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />I vote for the paper.</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />As long as you can read my
+handwriting, <delay20 />you've got this!</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Actually, you know what'd be really
+cool?<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />If EVERYONE could make
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Here, take this recipe and
+share it around.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Oh, uh<tag a="110" b="0" /><delay20 />and ignore the sweat stains.<delay20 />
+Those aren't part of the recipe.</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Here, I'll give you the recipe.<delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" />Don't lose it, alright?</message>
+</msbt>

@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, if it isn't <tag a="110" b="3" />
+again!<delay20 /> What's the latest?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hello again!<delay20 /> You want to talk to me
+some more? <delay20 /><anim id="WrySmile" target="actor" targetSpec="" />Who could blame you?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />And what further business do
+you have with the esteemed
+<tag a="110" b="10" /> today?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Whoa, whoa! <delay20 />There's plenty of
+<tag a="110" b="10" /> to go around.<delay frames="40" />
+<anim id="WrySmile" target="actor" targetSpec="" />Now, how can I help you?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Looking for me again?<delay20 /> Well, you
+found me!<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />What's up?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+</msbt>

@@ -1,0 +1,18 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Hey.<delay20 /> <anim id="Outraged" target="actor" targetSpec="" />HEY! <10_4 />Watch it, pal!<delay20 />
+Pranks are one thing, but messin'
+with my noggin like that ain't cool!</message>
+	<message label="002" attrib="00 00 00 00 00 00 06 00"><anim id="Surprised" target="actor" targetSpec="" />OW!<10_9 /> <anim id="Angry" target="actor" targetSpec="" />What are you playin' at, buddy?<delay20 />
+You think my head's a bug?<pageBreak /><anim id="Fuming" target="actor" targetSpec="" /><10_10 />Learn how to swing that thing
+before you go wreckin' someone
+else's hairdo!<delay20 /> <anim id="Outraged" target="actor" targetSpec="" />It's dangerous!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 06 00"><10_14 arg="8" /><anim id="Outraged" target="actor" targetSpec="" />GAH! <delay20 />That hurts! <delay20 />What'd I
+ever do to you?!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Hey!<delay8 /> I know that was just a love tap,
+but next time you can just say hello!<delay20 />
+<anim id="Negative" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Kiddo, I am just not in the mood
+for this right now<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Enough with that! <10_4 /><anim id="Fuming" target="actor" targetSpec="" />YOU TRYIN' TO
+MAKE ME RAISE MY VOICE?!</message>
+</msbt>

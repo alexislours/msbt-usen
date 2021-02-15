@@ -1,0 +1,19 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 07 00 00"><anim id="Greeting" target="actor" targetSpec="" />Good morning, <tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Man,<delay8 /><delay8 /> can'tcha just smell
+breakfast cooking?!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 03 00 00"><anim id="Greeting" target="actor" targetSpec="" />Afternoon, <tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Man,<delay8 /><delay8 /> can'tcha just smell
+lunch cooking?!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 04 00 00"><anim id="Greeting" target="actor" targetSpec="" />Evening, <tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Man,<delay8 /><delay8 /> can'tcha just smell
+dinner cooking?!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 09 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" /><delay8 /><delay8 />I need some night snacks!<delay frames="40" /><anim id="Scheming" target="actor" targetSpec="" /><delay20 />
+They're like day snacks, 
+<delay20 />but sneakier!<delay frames="80" /><anim id="EmotEnd" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, hi, <tag a="110" b="3" />!<delay frames="40" />
+Welcome to <tag a="110" b="8" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 01 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />'s <anim id="Greeting" target="actor" targetSpec="" />here for a
+visit! <anim id="HappyFlower" target="actor" targetSpec="" />YAY!<delay frames="120" /><anim id="EmotEnd" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="013" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" /><pageBreak />Welcome to our island, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="014" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />I'm so
+happy you came to play!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="015" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" /><anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />Did you swim to <tag a="110" b="8" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

@@ -1,0 +1,74 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="31" arg="0xcd01" />,<delay20 /> <anim id="Serious" target="actor" targetSpec="" />I've meant
+to tell you somethin'!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh,<delay20 /> really?<pageBreak /><20_2 arg="8" /><anim id="Confused" target="actor" targetSpec="" /><size value="75" />Are you sure you want to tell me<delay20 /> in
+front of <tag a="110" b="3" />?<size value="100" /><20_2 arg="7" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Ah,<delay20 /> never mind the kiddo.<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />Somethin' I need to tell you<delay8 /><tag a="110" b="0" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Well, out with it,<delay20 /> then.<delay40 />
+Don't hold back!<pageBreak /><20_2 arg="8" /><anim id="Silent" target="actor" targetSpec="" />Cover your ears,<delay20 /> <tag a="110" b="3" /><20_2 arg="7" />.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />You got somethin' white on
+your nose–<delay20 />right<delay8 /><tag a="110" b="0" />there.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Really?<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />It's probably just soap,<delay20 />
+<tag a="110" b="5" />,<delay20 /> but I wish <anim id="Oops" target="mainNpc" targetSpec="" />you'd
+pointed it out earlier!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Guess I wasn't sure if you'd put it
+there as a kinda,<delay20 /> whatchamacallit<delay8 /><tag a="110" b="0" />
+fashion statement,<delay20 /> or somethin'.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Did you know you got a splotch of
+blue there<delay20 /> on your cheek?</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Blue?<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Oh<delay8 /><tag a="110" b="0" />I was painting earlier.<delay40 />
+I wish you <anim id="Oops" target="mainNpc" targetSpec="" />hadn't let me walk around
+with paint on my face<delay20 /> all this time.</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Well,<delay20 /> uh,<delay20 /> you got somethin' stuck on
+your face right<delay8 /><tag a="110" b="0" />there!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh no!<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />I ate some <tag a="135" b="7" arg="0xcd00" />
+earlier<delay8 /><tag a="110" b="0" /> <anim id="Serious" target="actor" targetSpec="" />Why did you <anim id="Oops" target="mainNpc" targetSpec="" />wait so long to
+say something,<delay20 /> <tag a="110" b="31" arg="0xcd00" />?</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />You got some kinda shiny stuff<delay20 />
+stuck in your eyelashes<delay8 /><tag a="110" b="0" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Shiny stuff?<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Oh,<delay20 /> <tag a="110" b="31" arg="0xcd00" />,<delay20 /> 
+that's just my mascara.<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Well,<delay20 /> it appears that my cosmetic
+efforts are <anim id="Oops" target="mainNpc" targetSpec="" />wasted on you!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Shoulda kept that to myself,<delay20 /> I guess.<delay40 />
+<anim id="OhGeez" target="actor" targetSpec="" />Oh, well.<delay20 /> Live and learn!<delay40 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Actually,<delay20 /> on second thought<delay8 /><tag a="110" b="0" />
+<anim id="Grin" target="actor" targetSpec="" />Forget it,<delay20 /> it's not important.</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Oh,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" />
+<anim id="Worried" target="actor" targetSpec="" />Now I'll be wondering
+about it<delay20 /> all day.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Sometimes it seems like too much
+effort to fix myself a meal,<delay20 /> what
+with <anim id="OhGeez" target="actor" targetSpec="" />all the plannin' and shoppin'!
+<anim id="QuestionMark" target="actor" targetSpec="" />Do you like to cook,<delay20 />
+<tag a="110" b="31" arg="0xcd01" />? </message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">I'd much rather be waited on,<delay20 />
+but <anim id="FaintSmile" target="actor" targetSpec="" />I can make myself a passable 
+<tag a="135" b="3" arg="0xcd00" />,<delay20 /> when I want to.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />I'm impressed!<delay40 /> <anim id="ShyBoy" target="actor" targetSpec="" />Most of my cookin'<delay20 />
+is just boilin' stuff from packages.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I could teach you an easy recipe
+for <tag a="135" b="3" arg="0xcd00" />,<delay20 /> if you'd like.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's really just a matter of following
+simple directions,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Sorry,<delay20 /> I think you already lost me.<delay40 />
+<anim id="WrySmile" target="actor" targetSpec="" />This <tag a="110" b="15" /> is a mite too old<delay20 /> to
+be learnin' any new tricks.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I'm fed up with TV ads!<delay40 /> I saw one
+wantin' me to subscribe to <anim id="Pardon" target="actor" targetSpec="" />some
+magazine on <tag a="135" b="8" arg="0xcd00" /><delay8 /><tag a="110" b="0" />
+<anim id="OhGeez" target="actor" targetSpec="" />Like I need more clutter in my place.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />It's true that all the commercials are
+obnoxious. <delay40 /><anim id="Serious" target="actor" targetSpec="" />Sometimes one of their
+slogans<delay20 /> will stick in my head all day.</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Gahaha!<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Those advertisin' types<delay20 /> do
+tend to come up with some real
+earworms,<delay20 /> <tag a="110" b="5" />! </message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />Earworms,<delay20 /> what an awful image.<delay40 /> <delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" />But
+that thing you say,<delay20 /> "<tag a="110" b="5" />"<tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />That manages to be catchy,<delay20 /> without
+being so corny or irritating.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thank you kindly,<delay20 /> <tag a="110" b="31" arg="0xcd01" />!<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Feel free to use it yourself.</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmmm<delay8 /><tag a="110" b="0" />should I give it a whirl?<delay40 />
+I may just try that out,<delay20 /> <tag a="110" b="5" />.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />Thank you,<delay20 /> <tag a="110" b="31" arg="0xcd00" />!</message>
+</msbt>

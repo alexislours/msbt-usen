@@ -1,0 +1,24 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0x710 0x800 0xcd00" /></message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0xb10 0xc00 0xcd00" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />We meet again, <tag a="110" b="5" />! <delay20 />Do
+you walk in the rain a lot?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />These streets are about to be
+flooded<tag a="110" b="0" /><delay20 />with awesomeness!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Aaaaaah<tag a="110" b="0" /> <delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />Hey, <tag a="110" b="5" />!<delay20 /> Get a
+whiff of that delicious air!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="008" attrib="00 00 0c 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Weather like this really teaches you
+what you're made of, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="009" attrib="00 00 0c 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Are you as revved up for the rain
+as I am?! <delay frames="40" /><anim id="Eh" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 />you are, right?<delay frames="40" />
+<anim id="Pardon" target="actor" targetSpec="" />Right, <tag a="110" b="5" />?!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oops, did I splash some mud on you?<delay20 />
+My bad, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Name ONE <tag a="110" b="15" /> better at
+puddle splashin' than me.<delay frames="40" />
+<anim id="SmugFace" target="actor" targetSpec="" />Go on.<delay20 /> I'll wait.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa! <delay20 />I kinda thought you'd get
+out of the rain,<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />but here we both
+are again, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

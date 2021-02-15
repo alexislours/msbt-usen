@@ -1,0 +1,17 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, look who it is, <tag a="110" b="5" />!
+<delay20 />Just the neighbor I wanted
+to see!<pageBreak /><tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />OK,<delay20 /> now give me a minute to
+remember why I wanted to
+see you<tag a="110" b="0" /></message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Hey, <tag a="110" b="5" />, <delay20 />wanna hear a
+tongue twister?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />An annoyed void owed alloys to
+alley-dwoiling<tag a="110" b="0" /><delay frames="40" /><anim id="Frantic" target="actor" targetSpec="" /> Gah! <delay20 />Almost had it!
+<delay20 />Guess I need more practice.</message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh! <delay20 />I wanted to talk to you about
+something. <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />You probably wouldn't
+know what it was, huh?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Ahh, who cares? <delay20 />Let's just talk
+about whatever, <tag a="110" b="5" />!</message>
+	<message label="004" attrib="00 00 00 01 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Hmmm! <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />I just had a thought,<delay20 /> <anim id="Sighing" target="actor" targetSpec="" />but it
+got away from me, <tag a="110" b="5" />.</message>
+</msbt>

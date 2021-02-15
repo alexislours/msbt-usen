@@ -1,0 +1,348 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hello there, <tag a="110" b="1" />!</message>
+	<message label="001_00" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, <tag a="110" b="1" />! By the way<tag a="110" b="0" /></message>
+	<message label="001_01" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Congratulations on your new home!</message>
+	<message label="001_10" attrib="02 00 00 00">I have something I would like to chat
+about<tag a="110" b="0" /><delay20 /><anim id="Hesitate" target="actor" targetSpec="" />if you have a moment, that is.<pageBreak /><anim id="Silent" target="actor" targetSpec="" />It is a bit of a proposal, so if now's
+not a good time, I understand
+completely. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />No pressure!</message>
+	<message label="001_10_a" attrib="00 00 00 00">Sure!</message>
+	<message label="001_10_b" attrib="00 00 00 00">I'm a little busy...</message>
+	<message label="002" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Of course.<delay20 /> Not a problem at all.<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />Just let me know when you have
+a spare moment or two!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002_01" attrib="06 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Now then, <delay8 />how can I help you today?</message>
+	<message label="002_01_a" attrib="00 00 00 00">I want to sell!</message>
+	<message label="002_01_b" attrib="00 00 00 00">What's for sale?</message>
+	<message label="002_01_c" attrib="00 00 00 00">I'm ready to chat!</message>
+	<message label="002_01_d" attrib="00 00 00 00">See you later.</message>
+	<message label="002_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Ah, certainly.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Happy to talk about
+it when the time is right for you.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="010" attrib="02 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Ah, good to see you again,
+<tag a="110" b="1" />.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Before we get started, I did want to
+give you the tiniest reminder about
+my proposal<tag a="110" b="0" />
+<anim id="Nodding" target="actor" targetSpec="" />Please let me know when it would
+be convenient for you to discuss.</message>
+	<message label="010_a" attrib="00 00 00 00">Yeah, now's good!</message>
+	<message label="010_b" attrib="00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Some other time...</message>
+	<message label="011" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />How can I help you?</message>
+	<message label="011_a" attrib="00 00 00 00">I want to sell!</message>
+	<message label="011_b" attrib="00 00 00 00">What's for sale?</message>
+	<message label="011_c" attrib="00 00 00 00">I'm ready to chat!</message>
+	<message label="011_d" attrib="00 00 00 00">See you later.</message>
+	<message label="012_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Very good! <delay20 />I'll get right to the point.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I'm hoping that you might be
+interested in collaborating on a
+new venture—<delay20 /><anim id="Cheering" target="actor" targetSpec="" />building a new <colour id="1" />shop<colour id="65535" />!
+<anim id="Explain" target="actor" targetSpec="" />After all, our little island community
+is growing, and our needs are
+growing too.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />I'd love to offer a much wider
+inventory of goods, but as you
+can see, I am a bit limited in here.
+<anim id="SmugFace" target="actor" targetSpec="" />I've already spoken with our
+fearless leader, of course, and
+he agrees that we have a need.</message>
+	<message label="012_02" attrib="01 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Ah, but here's the thing<tag a="110" b="0" /><delay20 /> Building
+materials are hard to get. So can we
+set them aside for building a shop?
+<anim id="Thinking" target="actor" targetSpec="" />I really don't see it, since we'll need
+those materials for residential
+projects<tag a="110" b="0" /> But I have an idea.
+<anim id="Nodding" target="actor" targetSpec="" />Yes, yes! You could gather up
+materials from around the island,
+right? From the trees and rocks?
+<anim id="IdeaBulb" target="actor" targetSpec="" />Our environmental review even
+suggests that there will be zero
+impact to native flora or fauna!
+<anim id="Apologize" target="actor" targetSpec="" />Ah, but I'm getting offtrack<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />We'll need a lot of materials for a
+proper shop. And we will of course
+offer compensation for your efforts.</message>
+	<message label="012_02_a" attrib="00 00 00 00"><anim id="Assent" target="player" targetSpec="" />OK.</message>
+	<message label="012_02_b" attrib="00 00 00 00">OK, I'll help.</message>
+	<message label="012_03" attrib="00 00 00 00"><delay frames="40" /><anim id="HappyFlower" target="actor" targetSpec="" />Thank you so much!</message>
+	<message label="012_04" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Now, I know this is a lot, but I put
+together a list of the items I'd like
+you to gather.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />We'll need <colour id="1" />30 <colour id="65535" />pieces each of regular
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />, <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />, and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" /><tag a="110" b="0" /><delay20 />
+And<tag a="110" b="0" /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" /><colour id="1" />30 <tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Smiling" target="actor" targetSpec="" />I'm not concerned about where these
+materials come from. <delay20 />They could
+come from this island or any other!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />And you can gather these materials
+at your own pace.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Once you have
+a set of something, come see me!</message>
+	<message label="013" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Welcome, <tag a="110" b="1" />!<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />How can I help you today?</message>
+	<message label="013_a" attrib="00 00 00 00"><colour id="1" />About building a shop.<colour id="65535" /></message>
+	<message label="013_b" attrib="00 00 00 00">I want to sell!</message>
+	<message label="013_c" attrib="00 00 00 00">What's for sale?</message>
+	<message label="013_d" attrib="00 00 00 00">See you later.</message>
+	<message label="014" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />How can I help you?</message>
+	<message label="014_a" attrib="00 00 00 00"><colour id="1" />About building a shop.<colour id="65535" /></message>
+	<message label="014_b" attrib="00 00 00 00">I want to sell!</message>
+	<message label="014_c" attrib="00 00 00 00">What's for sale?</message>
+	<message label="014_d" attrib="00 00 00 00">See you later.</message>
+	<message label="015" attrib="04 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Right now we're asking residents
+for their help in donating the
+materials we need to build a shop!</message>
+	<message label="015_a" attrib="00 00 00 00">I'd like to donate!</message>
+	<message label="015_b" attrib="00 00 00 00">What do you need?</message>
+	<message label="015_c" attrib="00 00 00 00">Got it.</message>
+	<message label="023" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />I can't wait to see where you decide
+to put our new shop!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Remember, once you find a place,
+please put up the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />shop construction kit<colour id="65535" /> I gave you.</message>
+	<message label="024" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />You put up the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />shop construction kit<colour id="65535" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />We've got our work cut out for us if
+we're going to open by tomorrow,
+but I can't wait!</message>
+	<message label="051" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Oh, you'll make a donation?<10_4 /> <anim id="Smiling" target="actor" targetSpec="" />Thank
+you so much for helping us!</message>
+	<message label="052_01" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />We already received some donations,
+so<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> right now we need <colour id="1" />30<colour id="65535" /> pieces of
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" /><tag a="110" b="0" /> <anim id="EmotEnd" target="actor" targetSpec="" /><anim id="QuestionMark" target="actor" targetSpec="" />Can I ask you for that?</message>
+	<message label="052_01_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="052_01_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="052_02" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />We already received some donations,
+so<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> right now we need <colour id="1" />30<colour id="65535" /> pieces of
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" /><tag a="110" b="0" /> <anim id="EmotEnd" target="actor" targetSpec="" /><delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />Can you donate that?</message>
+	<message label="052_02_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="052_02_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="052_03" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />We already received some donations,
+so<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> right now we need <colour id="1" />30<colour id="65535" /> pieces of
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" /><tag a="110" b="0" /> <anim id="EmotEnd" target="actor" targetSpec="" /><delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />Can you donate that?</message>
+	<message label="052_03_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="052_03_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="052_04" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />We already received some donations,
+so<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> we need <colour id="1" />30<colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /> Can
+you handle that?</message>
+	<message label="052_04_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="052_04_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="053_01" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />We already received some of the
+necessary donations, so we only
+need<delay8 /> <anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" /> now!</message>
+	<message label="053_02" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />We already received some of the
+necessary donations, so we only
+need<delay8 /> <anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" /> now!</message>
+	<message label="053_03" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />We already received some of the
+necessary donations, so we only
+need<delay8 /> <anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" /> now!</message>
+	<message label="053_04" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />We already received some of the
+necessary donations, so we only
+need<delay8 /> <anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" /> now!</message>
+	<message label="053_05" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We'd like to receive donations in the
+exact amount needed, just to help
+keep things organized.
+<anim id="Smiling" target="actor" targetSpec="" />So when you've gathered up enough
+of something we need, please stop
+by to donate to our wonderful cause!</message>
+	<message label="054" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's fine!<delay20 /> There's no pressure. Just<anim id="Smiling" target="actor" targetSpec="" />
+feel free to donate whatever you can
+whenever you want.</message>
+	<message label="055" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh my goodness! <delay40 /><anim id="HappyFlower" target="actor" targetSpec="" />This means we
+have everything we need to get
+started on our shop!</message>
+	<message label="056_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />As a thank-you<tag a="110" b="0" /><delay40 />please take <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />,<delay8 /> <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x1" />, and<tag a="110" b="0" /><pageBreak /><tag a="50" b="2" /><tag a="125" b="0" arg="0x2" />!</message>
+	<message label="056_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />As a thank-you<tag a="110" b="0" />please have <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> and<delay8 />
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x1" />!</message>
+	<message label="056_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />As a thank-you<tag a="110" b="0" /><delay40 /> Please have <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />!</message>
+	<message label="056_04" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />And because you helped gather what
+we need to start construction on the
+shop, we want you to have the honor.
+What is this honor, you ask?</message>
+	<message label="057" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />One more thing<tag a="110" b="0" /><delay40 /> Since we have all
+the materials we need and can start
+construction on the shop<tag a="110" b="0" /></message>
+	<message label="058_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />We'd like you, a key figure in making
+this happen, to pick out the perfect
+location for the new shop!</message>
+	<message label="058_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Place that <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />shop construction kit
+<colour id="65535" />wherever you like, and we'll get
+started on construction.<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I'm so excited to see the location
+you pick for us!</message>
+	<message label="061" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Let's see. You brought in<tag a="110" b="0" /><10_4 /><anim id="Aha" target="actor" targetSpec="" /> Oh my!
+You brought in everything we need!
+All at once!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Are you really going to provide all
+four kinds of materials right now?</message>
+	<message label="061_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="061_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="062" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />OK, you brought in<tag a="110" b="0" /><10_4 /><anim id="Aha" target="actor" targetSpec="" /><delay40 /> My goodness!
+You brought in the rest of what
+we need!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Are you really going to donate all the
+remaining materials?</message>
+	<message label="062_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="062_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="071_01" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Right now we're asking for three
+kinds of donations:<delay8 /><colour id="1" /><anim id="Nodding" target="actor" targetSpec="" /><colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />,
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />, and<anim id="Hello" target="actor" targetSpec="" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.</message>
+	<message label="071_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Right now we're asking for three
+kinds of donations:<delay8 /><colour id="1" /><anim id="Nodding" target="actor" targetSpec="" /><colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />, <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />,
+<anim id="Hello" target="actor" targetSpec="" />and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.</message>
+	<message label="071_03" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Right now we're asking for three
+kinds of donations:<delay8 /><colour id="1" /><anim id="Nodding" target="actor" targetSpec="" /><colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />, <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />,
+<anim id="Hello" target="actor" targetSpec="" />and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.</message>
+	<message label="071_04" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Right now we're asking for three
+kinds of donations:<delay8 /><colour id="1" /><anim id="Nodding" target="actor" targetSpec="" /><colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />,
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />, <anim id="Hello" target="actor" targetSpec="" />and regular <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />!</message>
+	<message label="072_01" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Right now we're asking for two kinds
+of donations:<delay8 /><anim id="Hello" target="actor" targetSpec="" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" /> and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />.</message>
+	<message label="072_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Right now we're asking for two kinds
+of donations:<delay8 /><anim id="Hello" target="actor" targetSpec="" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" /> and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />.</message>
+	<message label="072_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Right now we're asking for two kinds
+of donations:<delay8 /><anim id="Hello" target="actor" targetSpec="" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" /> and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.</message>
+	<message label="072_04" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Right now we're asking for two
+kinds of donations:<delay8 /><anim id="Hello" target="actor" targetSpec="" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood
+<colour id="65535" />and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />.</message>
+	<message label="072_05" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Right now we're asking for two
+kinds of donations:<delay8 /><anim id="Hello" target="actor" targetSpec="" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood
+<colour id="65535" />and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.</message>
+	<message label="072_06" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Right now we're asking for two
+kinds of donations:<delay8 /><colour id="1" /><anim id="Hello" target="actor" targetSpec="" /><colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood
+<colour id="65535" />and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.</message>
+	<message label="081_01" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems <delay20 />you happen to be carrying
+some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />.<delay20 /> Did you want to donate
+<delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces for the shop?</message>
+	<message label="081_01_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="081_01_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="081_02" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems you happen to be carrying
+some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />.<delay20 /> Did you want to
+donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces for the shop?</message>
+	<message label="081_02_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="081_02_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="081_03" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems you happen to be carrying
+some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />.<delay20 /> Did you want to
+donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces for the shop?</message>
+	<message label="081_03_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="081_03_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="081_04" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems you happen to be carrying
+some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<delay20 /> Did you want to
+donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> of those for the shop?</message>
+	<message label="081_04_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="081_04_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="082_01" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems you're carrying some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />
+and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />.<delay20 /> Did you want to
+donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of each?</message>
+	<message label="082_01_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="082_01_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="082_02" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems you're carrying some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />
+and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />.<delay20 /> Did you want to
+donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of each?</message>
+	<message label="082_02_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="082_02_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="082_03" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems you're carrying some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />
+and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<delay20 /> Did you want to
+donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> of each now?</message>
+	<message label="082_03_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="082_03_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="082_04" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems you're carrying some
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood <colour id="65535" />and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />.<delay20 /> Did you
+want to donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of each?</message>
+	<message label="082_04_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="082_04_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="082_05" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems you're carrying some
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood <colour id="65535" />and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<delay20 /> Did you
+want to donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> of each now?</message>
+	<message label="082_05_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="082_05_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="082_06" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It seems you're carrying some
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood <colour id="65535" />and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<delay20 /> Did you
+want to donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> of each now?</message>
+	<message label="082_06_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="082_06_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="083_01" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Right now, you have some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />,
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />, and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<delay20 /> Do you
+want to donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> of each?</message>
+	<message label="083_01_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="083_01_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="083_02" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Right now, you have some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />,
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />, and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<delay20 /> Do you want
+to donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> of each?</message>
+	<message label="083_02_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="083_02_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="083_03" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Right now, you have some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />,
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />, and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<delay20 /> Do you
+want to donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> of each?</message>
+	<message label="083_03_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="083_03_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="083_04" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Right now, you have some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />,
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />, and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />.<delay20 /> Do you want
+to donate <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> of each?</message>
+	<message label="083_04_a" attrib="00 00 00 00">These are for you!</message>
+	<message label="083_04_b" attrib="00 00 00 00">Not right now...</message>
+	<message label="091" attrib="00 00 00 00">Er<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Huh?<delay40 /><anim id="EmotEnd" target="actor" targetSpec="" /> You don't seem to have
+what I need at the moment.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />In order to organize donations, we
+need the full amount of a material
+to be donated all at once.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I realize I shouldn't be so picky when
+asking for donations, but I hope you
+understand where I'm coming from!</message>
+	<message label="092_01" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Thank you so much!<delay20 /> This brings us
+one step closer to building a shop.</message>
+	<message label="092_02" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Thank you so much! Now we're
+halfway to our donation goals!</message>
+	<message label="092_03" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Thank you so much! We only need
+one last bit to reach our donation
+goals for building the shop.</message>
+	<message label="093_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />To thank you, <delay20 />I'd like to offer you
+<tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />!</message>
+	<message label="093_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />To thank you, let me offer you <tag a="50" b="2" />
+<colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" /> and
+<tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x1" /><colour id="65535" />.</message>
+	<message label="093_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />To thank you, let me offer you <tag a="50" b="2" />
+<colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />, <tag a="50" b="2" />
+<colour id="1" /><tag a="125" b="0" arg="0x1" /><colour id="65535" />, and<tag a="110" b="0" />
+<tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x2" /><colour id="65535" />!</message>
+	<message label="094_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />We'd love your cooperation in
+donating the remaining materials.</message>
+	<message label="094_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />We'd love your cooperation in
+donating the last type of material
+we need.</message>
+	<message label="101" attrib="00 00 00 00">We need <colour id="1" /><anim id="Explain" target="actor" targetSpec="" />30<colour id="65535" /> pieces each of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />,
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />, and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> as well as
+<colour id="1" />30 <tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" /> to build the shop.</message>
+	<message label="102" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You don't need to bring in everything
+at once.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Once you have <colour id="1" />30<colour id="65535" /> pieces of any of
+the materials we need, I'd appreciate
+it if you could bring them in.<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="103_01" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Well, some of the materials we need
+have already been donated, so right
+now we're looking for<tag a="110" b="0" /></message>
+	<message label="103_02_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces each of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" /> and
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />,<delay8 /> plus <colour id="1" />30<colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<10_4 />
+Thank you in advance for your help!</message>
+	<message label="103_02_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces each of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" /> and
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />,<delay8 /> plus <colour id="1" />30<colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<10_4 />
+Thank you in advance for your help!</message>
+	<message label="103_02_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces each of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" /> and
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />,<delay8 /> plus <colour id="1" />30<colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<10_4 />
+Thank you in advance for your help!</message>
+	<message label="103_02_04" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces each of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />, <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />,
+and <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />.<10_4 /> Thank you in advance
+for your help!</message>
+	<message label="103_03_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces each of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" /> and
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />.<10_4 /> Thank you in
+advance for your help!</message>
+	<message label="103_03_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces each of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" /> and
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />.<10_4 /> Thank you in
+advance for your help!</message>
+	<message label="103_03_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" /> as well as <colour id="1" />30 <tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<10_4 /> Thank you in advance for
+your help!</message>
+	<message label="103_03_04" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces each of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" /> and
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />.<10_4 /> Thank you in advance for
+your help!</message>
+	<message label="103_03_05" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" /> as well as
+<colour id="1" />30 <tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<10_4 /> Thank you in
+advance for your help!</message>
+	<message label="103_03_06" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" /> as well as
+<colour id="1" />30 <tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<10_4 /> Thank you in
+advance for your help!</message>
+	<message label="103_04_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />wood<colour id="65535" />.<10_4 /> Thank you in
+advance for your help!</message>
+	<message label="103_04_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />hardwood<colour id="65535" />.<10_4 /> Thank you in
+advance for your help!</message>
+	<message label="103_04_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> pieces of <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />softwood<colour id="65535" />.<10_4 /> Thank you in
+advance for your help!</message>
+	<message label="103_04_04" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />30<colour id="65535" /> <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />iron nuggets<colour id="65535" />.<10_4 /> Thank you in
+advance for your help!</message>
+</msbt>

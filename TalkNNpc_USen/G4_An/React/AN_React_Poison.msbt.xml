@@ -1,0 +1,17 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="TakenAback" target="actor" targetSpec="" />Stop, stop, stop!
+<delay frames="40" />Don't. <delay20 />Move.<pageBreak /><anim id="Confused" target="actor" targetSpec="" />Right there. <delay frames="40" />I think it's <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" />.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />If it gets you, it's REALLY gonna
+hurt.<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />You should get outta here.
+<delay20 />But quietly! <delay20 />Don't startle it.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Uh-oh! <delay20 />There's <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" />
+over there.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />Y'know, I used to love poisonous
+insects,<delay frames="40" /> <anim id="SadSpiral" target="actor" targetSpec="" />then I got one sting too
+many. <delay20 />So not cool.<pageBreak /><20_2 arg="6" /><anim id="Frantic" target="actor" targetSpec="" />You should just<tag a="110" b="0" /><delay20 />back away. <delay20 />Slowly!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="TakenAback" target="actor" targetSpec="" />Yikes! <delay20 />Right there! <delay20 />It's <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" />. <delay20 />Do you
+see it?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />It's poisonous, so be super careful,
+OK?<delay20 /> Wait<tag a="110" b="0" /><delay20 /><anim id="TakenAback" target="actor" targetSpec="" />you're not thinking of
+trying to CATCH it, are you?!</message>
+</msbt>

@@ -1,0 +1,72 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00">Guess what, <tag a="110" b="3" />?<10_4 />
+<anim id="HappyFlower" target="actor" targetSpec="" />I made up a nickname<delay8 /> for ya! Wanna
+hear it?<delay20 /> 'Cause<tag a="110" b="0" />I wanna tell ya.</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />What is it?</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">But...I like my name.</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey!<delay20 /> I thought of a new nickname
+for ya, <tag a="110" b="1" />!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />But I'm, uh,<delay8 /> not sure you'll like it.<delay frames="40" />
+Wanna <anim id="QuestionMark" target="actor" targetSpec="" />hear it, though?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />You bet!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">I think I'll pass.</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00">Hey, <tag a="110" b="1" /><tag a="110" b="0" /><delay frames="40" />
+I heard some folks have been
+calling ya <tag a="115" b="0" arg="0xcd00" /><tag a="110" b="0" />
+<anim id="HappyFlower" target="actor" targetSpec="" />I really dig the way that sounds.<delay frames="40" />
+Would it be cool if I called ya
+<tag a="115" b="0" arg="0xcd00" /> too?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">Go for it!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Please don't.</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ah!<delay8 /> Where'd you come
+from, <tag a="110" b="1" />?<pageBreak />I was spaced out, thinking up a cool
+nickname for you<delay20 /> so everyone'll
+know we're buddies, <tag a="110" b="6" />.</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />What've you got?</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00">My name's good as-is.</message>
+	<message label="005" attrib="00 00 02 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I was just thinking about you!<pageBreak />I put my noggin to work coming
+up with a new nickname for ya<tag a="110" b="0" /><pageBreak /><anim id="Eh" target="actor" targetSpec="" />Don't get me wrong!<delay20 /> Ya got a
+real cool nickname <anim id="Nodding" target="actor" targetSpec="" />and all,<delay8 /> but<tag a="110" b="0" />
+<delay8 />What if you had<tag a="110" b="0" /><delay frames="80" />a new one?</message>
+	<message label="005_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Alright, let's hear it!</message>
+	<message label="005_b" attrib="00 00 00 00 00 00 00 00">What if...I didn't?</message>
+	<message label="006" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Oh, hey, <tag a="110" b="3" />!<pageBreak />Hey,<delay8 /> haven't I heard folks calling
+you<anim id="FaintSmile" target="actor" targetSpec="" /><tag a="110" b="0" /><tag a="115" b="0" arg="0xcd00" /> lately?<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />That nickname is real awesome!<delay20 />
+Is it cool if I call you that too?</message>
+	<message label="006_a" attrib="00 00 00 00 00 00 00 00">Go for it!</message>
+	<message label="006_b" attrib="00 00 00 00 00 00 00 00">I'd rather you didn't...</message>
+	<message label="100" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What<delay8 /> about<tag a="110" b="0" /><delay8 /><anim id="BigSmile" target="actor" targetSpec="" /><tag a="110" b="3" />?<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Whaddaya think?<delay20 /> Real cool, huh?</message>
+	<message label="100_a" attrib="00 00 00 00 00 00 00 00">Sounds good!</message>
+	<message label="100_b" attrib="00 00 00 00 00 00 00 00">I dunno about that...</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="BrokenHeart" target="actor" targetSpec="" />Oh.<delay8 /> OK.<delay20 /> Well, you're the boss
+of your own name,<delay20 /> I guess.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You got it, <tag a="110" b="1" />!<delay frames="40" />
+Er<tag a="110" b="0" />I guess I should say<tag a="110" b="0" />
+You got it,<delay20 /> <tag a="110" b="3" />!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> Well,<delay8 /> uh<tag a="110" b="0" /><delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What nickname
+WOULD you like?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?<delay20 /> Really?<delay40 /> <anim id="Sighing" target="actor" targetSpec="" />Oh.<delay20 /> I'll try extra harder
+to come up with one you'll like!</message>
+	<message label="105" attrib="00 00 02 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="3" />"?<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" /><delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />Isn't that
+what I've <delay20 />BEEN <delay8 />calling you?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I guess ya just wanna keep the
+nickname you already have?</message>
+	<message label="105_a" attrib="00 00 00 00 00 00 00 00">You got it.</message>
+	<message label="105_b" attrib="00 00 00 00 00 00 00 00">Er, hang on...</message>
+	<message label="106" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, huh?<delay frames="40" />
+Works for me!</message>
+	<message label="106_a" attrib="00 00 00 00 00 00 00 00">Then we're set!</message>
+	<message label="106_b" attrib="00 00 00 00 00 00 00 00">Actually...</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh?<delay20 /> Have ya thought of one<anim id="QuestionMark" target="actor" targetSpec="" /> ya
+like more?</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />OK,<delay8 /> you got it!<delay20 /> I'll just keep calling
+ya <anim id="BigSmile" target="actor" targetSpec="" /><tag a="110" b="3" />, then!</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, OK!<delay20 /> Then from now on,
+<delay8 />I'll call ya<anim id="BigSmile" target="actor" targetSpec="" /> <tag a="110" b="3" />!</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?!<delay frames="40" /> <anim id="Confused" target="actor" targetSpec="" />C'mon, don't tease! <delay20 />Tell me!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That's real cool!<delay8 /><delay8 /> I was hoping ya'd
+say that.<delay20 /><anim id="SmugFace" target="actor" targetSpec="" /> Now I feel like we're
+the cool kids, <tag a="110" b="3" />!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh!<delay frames="40" /> I guess it must be just between
+you and your closest pals?<delay20 />
+No worries. <delay20 />No worries.</message>
+</msbt>

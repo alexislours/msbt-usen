@@ -1,0 +1,133 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 01 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />That reminds me, <anim id="QuestionMark" target="actor" targetSpec="" />have you tried
+our locally-grown, island-to-table
+organic fruit yet?</message>
+	<message label="001_a" attrib="04 00 00 00 00 00 00 00">I have!</message>
+	<message label="001_b" attrib="05 00 00 00 00 00 00 00">No, tell me more!</message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x10 0x11 0xffff 0xffff" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Oh, well<tag a="110" b="0" />of course you have!<delay20 />
+You've got good taste.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh MAN! <delay20 />You're really missing out.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />You've gotta try the <tag a="110" b="7" arg="0xcd01" /> we
+grow here, <tag a="110" b="5" />!
+<anim id="SmugFace" target="actor" targetSpec="" />Take one back to wherever you're
+from and tell 'em <tag a="110" b="10" />
+sent it.</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I gotta say, I'm pretty interested to
+see how this little shop evolves.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Like, right now it's just a small
+corner of <colour id="3" />Tom Nook<colour id="65535" />'s tent, but will
+it grow into a legit shopping center?
+<anim id="Laughing" target="actor" targetSpec="" />I certainly hope so, for my sake!</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />I'm so happy about what <colour id="3" />Timmy
+<colour id="65535" />and <colour id="3" />Tommy <colour id="65535" />have done with
+<colour id="1" />Nook's Cranny <colour id="65535" />here.
+<anim id="Nodding" target="actor" targetSpec="" />From a hole-in-the-wall joint to
+a real classy shop with a wide
+selection of designer goods<tag a="110" b="0" />
+<anim id="HappyFlower" target="actor" targetSpec="" />It's a dream come true!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" /><colour id="1" />Nook's Cranny <colour id="65535" />is truly the pride and
+joy of <tag a="110" b="8" />.<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> Shopping
+there can be life-changing.
+<anim id="BigSmile" target="actor" targetSpec="" />Seriously, it's great! <delay20 />It might even
+have items you've never seen on
+any other island.
+<anim id="WrySmile" target="actor" targetSpec="" />Shopping is believing, so don't take
+my word for it.</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Have you stopped by <colour id="3" />Blathers<colour id="65535" />'s
+tent yet?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> It's the closest thing
+<tag a="110" b="8" /> has to a <colour id="1" />museum<colour id="65535" />.
+<anim id="Thinking" target="actor" targetSpec="" />I mean, it's nothing fancy<tag a="110" b="0" />for now.<delay20 />
+But I bet one day he'll turn it into
+something really special.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Imagine it with me—a grand hall
+packed to the rafters with wonders
+of the world<tag a="110" b="0" />
+<anim id="Cheering" target="actor" targetSpec="" />I can't wait!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x15 0x16 0x17 0x19" /></message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
+	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Who's got an impeccable sense
+of style and recommends the
+<tag a="10" b="13" /><colour id="1" /><capitaliseNextWord /><tag a="110" b="8" /><colour id="65535" /><endTag a="10" b="13" /> <colour id="1" />Museum<colour id="65535" />?
+<anim id="EmotEnd" target="actor" targetSpec="" />This guy!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />It's such a great place
+to clear your head and learn
+about our world.
+<anim id="Cheering" target="actor" targetSpec="" />Plus, when it's empty, it makes my
+singing voice sound ama<delay8 />a<delay8 />a<delay8 />a<delay8 />a<delay8 />zing!</message>
+	<message label="028" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Did you know that the <colour id="1" />museum<colour id="65535" /> has
+a rare <tag a="135" b="13" arg="0x0" />
+in its collection?
+<anim id="Nodding" target="actor" targetSpec="" />You should go check it out.<delay20 /> That fish
+has more swag than 99 percent of
+the land-based folks I know!</message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I got a really weird feeling at the
+<tag a="135" b="13" arg="0x1" /> exhibit
+in the <colour id="1" />museum<colour id="65535" />.
+<anim id="Shaking" target="actor" targetSpec="" />It's like<tag a="110" b="0" />am I watching it, or is it
+watching ME?!</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, have you already seen the
+<tag a="135" b="13" arg="0x2" /> display
+at the <colour id="1" />museum<colour id="65535" />?
+<anim id="Nodding" target="actor" targetSpec="" />It's so cool to see the skeleton of
+an actual creature that lived millions
+of years ago.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />I hope my bones get their own
+exhibit someday<tag a="110" b="0" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0x66 0x6a" /></message>
+	<message label="102" attrib="00 00 03 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Hey, can I ask you something
+that's, <delay8 />like,<delay8 /> serious business?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Did you ever think about me after
+you moved away from here?</message>
+	<message label="102_a" attrib="67 00 00 00 00 00 00 00">Of course!</message>
+	<message label="102_b" attrib="68 00 00 00 00 00 00 00">To be honest, no.</message>
+	<message label="102_c" attrib="69 00 00 00 00 00 00 00">Did you miss me?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Aww<tag a="110" b="0" />I feel the same way. <delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />Well,
+the good news is that you can
+come see me anytime, <tag a="110" b="5" />!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Hey, thanks for being honest.<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />If I
+want to get my brand where I want
+it to be, I need feedback like that.
+<anim id="Nodding" target="actor" targetSpec="" />You've moved on to bigger and
+better islands, no doubt, and I
+wish you the best of luck!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hey, I asked you first! <10_4 /><anim id="Grin" target="actor" targetSpec="" />Ah, but I can't
+resist your cheeky charm, so I'll
+actually answer.
+<anim id="Hesitate" target="actor" targetSpec="" />I did miss you!<delay20 /> Not to get weepy
+or anything, but I'll always treasure
+the memories I have with you.
+<anim id="Crying" target="actor" targetSpec="" /><tag a="110" b="0" />OK, we've gotta talk about
+something else now or I'm gonna
+lose it.</message>
+	<message label="106" attrib="6b 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey, have you heard about the
+latest trend sweeping the island?</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6c 0x6d 0x6e 0x6f" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It's fishing in the ocean!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I mean, sure, fishing has been
+around forever, but it's recently
+back in vogue.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />There's something about gazing out
+over the sparkling sea while reeling
+in a catch that's so satisfying<tag a="110" b="0" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It's catching bugs!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Yeah, I know folks have been
+catching bugs forever, but have you
+SEEN the cool bugs out there lately?
+<anim id="Grin" target="actor" targetSpec="" />Some of those things look like
+they should have a designer label
+on them. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Ha HA!</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It's digging holes!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Now, hear me out. <delay20 />I know it just
+sounds like a good way to get dirt
+on your brand-new faux-suede boots.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />But when you dig holes, it's like
+you're re-imagining the very
+landscape of our island!
+<anim id="Serious" target="actor" targetSpec="" />I find it to be one of the most
+creative things you can do<tag a="110" b="0" /></message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It's gardening!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Sure, we've been planting and
+tending to plants for ages.<delay frames="40" />
+<anim id="Aha" target="actor" targetSpec="" />But not like this!
+<anim id="Explain" target="actor" targetSpec="" />First, you plant the plants.<delay20 /><anim id="Grin" target="actor" targetSpec="" /> Then,<delay20 />
+and here's the magical part,<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />you water them!<pageBreak /><anim id="Silent" target="actor" targetSpec="" /><tag a="110" b="0" />Wait.<delay20 /> That IS how we've been
+doing it all along?</message>
+</msbt>

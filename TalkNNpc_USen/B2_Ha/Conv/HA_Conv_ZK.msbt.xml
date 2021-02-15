@@ -1,0 +1,103 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> Did you know
+<tag a="110" b="31" arg="0xcd01" /> is a former
+<tag a="135" b="6" arg="0xcd00" /> star?!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No, <delay20 />It's for a MOVIE!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I play a grumpy, <delay20 />endearing, <delay20 />down-
+and-out former <tag a="135" b="6" arg="0xcd00" /> pro,
+<delay20 />aching for one last shot at glory!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And I want you, <tag a="110" b="31" arg="0xcd00" />,
+to be the rugged, <delay20 />harsh-but-fair
+<tag a="135" b="6" arg="0xcd00" /> coach!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />One phone call, and the role's yours.<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />Whaddaya say?</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Me? <delay20 />In a movie?<delay frames="60" /> <anim id="Worried" target="actor" targetSpec="" />Wait<tag a="110" b="0" /><delay20 /> If anyone's
+gonna be <tag a="50" b="2" /><tag a="135" b="6" arg="0xcd00" /> star,<delay20 /> it
+should be me.<pageBreak /><20_2 arg="6" /><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />, <delay20 />what do you
+think, <tag a="110" b="5" />?<pageBreak /><20_2 arg="8" /><anim id="QuestionMark" target="actor" targetSpec="" />Do I play the <tag a="135" b="6" arg="0xcd00" /> coach<delay20 />
+or the former <tag a="135" b="6" arg="0xcd00" /> star?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" /><tag a="50" b="3" /><tag a="135" b="6" arg="0xcd00" /> coach!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" /><tag a="50" b="3" /><tag a="135" b="6" arg="0xcd00" /> star!</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Dynamite choice, <tag a="110" b="1" />!<delay frames="60" />
+<anim id="Negative" target="actor" targetSpec="" />But also the wrong choice.<pageBreak /><anim id="Explain" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd00" />'s right—<delay20 />he should
+play the <tag a="135" b="6" arg="0xcd00" /> star, <anim id="SmugFace" target="mainNpc" targetSpec="" /><delay frames="40" />and
+I'll be the coach.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Just think of all the inspiring
+speeches I'll get to give. <delay frames="40" />And that's
+BEFORE awards season!<delay frames="60" /> <anim id="Laughing" target="actor" targetSpec="" /><delay20 />Ha HA!
+<anim id="Nodding" target="actor" targetSpec="" />OK, <delay20 />with that settled<tag a="110" b="0" /><delay20 /> <20_3 arg="7" /><anim id="Hesitate" target="actor" targetSpec="" />Could I get a
+rundown on what a coach actually is,
+<tag a="110" b="31" arg="0xcd00" />?<anim id="Eh" target="mainNpc" targetSpec="" /><delay frames="40" /><anim id="Worried" target="actor" targetSpec="" /> I have NO idea!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />So I'm <tag a="50" b="2" /><tag a="135" b="6" arg="0xcd00" /> star,<delay20 /> AND
+<tag a="50" b="2" /><tag a="135" b="6" arg="0xcd00" /> coach<tag a="110" b="0" /><delay20 />coach?<delay frames="40" />
+<anim id="Eh" target="actor" targetSpec="" />Whoa.<delay20 /> Acting is hard!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><20_3 arg="8" /><anim id="BigSmile" target="actor" targetSpec="" />Good eye!<delay frames="40" /> <tag a="110" b="31" arg="0xcd00" /> is
+perfect for the coach.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Plus, <delay20 /><tag a="135" b="6" arg="0xcd00" /> star is the role I
+<delay8 />would<delay8 /> have been born to play if I'd
+been born doing <tag a="135" b="6" arg="0xcd00" />.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />OK! <delay20 />With that settled,<delay20 /> I'm gonna slip
+out real quick and read up on what
+<tag a="135" b="6" arg="0xcd00" /> actually, uh<tag a="110" b="0" /><delay frames="40" />is.<anim id="Negative" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />I'm gonna have to teach you
+what <tag a="135" b="6" arg="0xcd00" /> is too?<delay20 /> How
+long IS this movie, <tag a="110" b="5" />?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Huh?<20_2 arg="5" /><delay frames="40" /> <tag a="50" b="3" /><tag a="110" b="3" />, <delay20 />do you
+really think <tag a="110" b="31" arg="0xcd00" /> can
+carry a whole movie?</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Carry a movie, <tag a="110" b="5" />?<20_2 arg="7" /><delay frames="40" />
+<anim id="SmugFace" target="actor" targetSpec="" />Have you SEEN these arms?<delay frames="40" />
+They can carry anything!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, <tag a="110" b="31" arg="0xcd01" />, <delay20 />I've been
+wondering<tag a="110" b="0" /><delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />What do you do
+with your free time?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />I thought you'd never ask!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />As I'm
+sure you know, <delay20 />the life of a top-tier
+celebutante rarely slows down.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Just last night I was rereading the
+towering pile of spec scripts I've
+almost sold.<delay frames="60" /> <anim id="Negative" target="actor" targetSpec="" />The work never ends!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Also,<delay20 /> confirmed—<delay20 />they are page after
+riveting page of <delay20 />sweeping romance<delay20 />
+and thrilling adventure.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Fantastic.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Afterward, <delay20 />I poured myself a gourmet
+<tag a="135" b="1" arg="0xcd00" /> and spent the rest of
+the night <tag a="135" b="8" arg="0xcd00" />.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?<delay20 /> Last night?<delay20 /> <anim id="Worried" target="actor" targetSpec="" />But<tag a="110" b="0" /><delay20 />but we were
+hanging out last night, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 06 00"><anim id="TakenAback" target="actor" targetSpec="" />AH!<delay frames="40" /> Ah ha!<10_9 /><delay20 /> Uh<tag a="110" b="0" /><delay20 />r-right.<delay20 /> Um<tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Yeah!<delay20 /> You're the inspiration for my
+new script about a bodybuilder with
+an Atlas-level physique.<anim id="Eh" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />A-and guess who I want for the lead!<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />That's right—<delay20 />me.<delay frames="60" /> <anim id="Greeting" target="actor" targetSpec="" />But NOW<delay20 /> guess
+who I want to play Store Clerk #4?<delay20 /><anim id="OhGeez" target="mainNpc" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Like last night!<delay20 /> I was up late doing
+research for a new kind of poetry
+I'm developing.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If I know poetry—<delay20 />and I do—<delay20 />once
+folks get an earful of these rhymes<tag a="110" b="0" /><delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Yeah.<delay20 /> Take THAT, <delay20 />"poets"!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" /><delay20 />They'll have to invent entirely new
+awards for me. <delay20 />Billions <delay8 />of poetry fans
+will be begging for my autograph.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />But<tag a="110" b="0" /><delay20 />we hung out last night.<delay20 /> <anim id="Silent" target="subNpc" targetSpec="" />All we
+did was listen to <tag a="135" b="4" arg="0xcd00" /> while
+you watched me clean your kitchen.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 06 00"><anim id="TakenAback" target="actor" targetSpec="" />AH HA! <delay20 />Um<tag a="110" b="0" /><delay20 /><10_9 /> Y-yeah. <delay20 />That happened.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh! <delay20 />But cleaning is all part of the
+thrilling and exotic rhythm styles
+I'm creating, <tag a="110" b="5" />!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />I, uh<tag a="110" b="0" /><delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />call it Slam-Scrubber Poetry!<delay20 />
+Amazing, right?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />But hold your snaps
+until everyone else gets a taste, OK?</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="31" arg="0xcd01" />!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> Which do
+you think are the cooler muscles,<delay frames="40" />
+biceps or triceps, <tag a="110" b="5" />?</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" /><delay20 />Oh, wow<tag a="110" b="0" /><delay frames="40" /> How can I pick?<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />Wait a sec<tag a="110" b="0" /><delay20 /> <tag a="50" b="3" /><tag a="110" b="31" arg="0xcd00" />, <delay frames="40" />did
+you just say, "<tag a="110" b="5" />"?</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="5" />"?<delay frames="40" /> Yeah, I'm always
+saying that.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />I even named my left
+biceps "<tag a="110" b="5" />."<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh!<delay20 /> Well, that makes it easy!<delay20 /> Any
+muscle named "<tag a="110" b="5" />" is
+automatically cooler.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Biceps it is!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Hey, <anim id="EmotEnd" target="mainNpc" targetSpec="" /><delay20 />you wouldn't happen to be
+selling the "<tag a="110" b="5" />" trademark
+by any chance, <delay20 />would you?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I've been looking for a name for my
+upcoming line of fragrances, <delay20 />and
+"<tag a="110" b="5" />" is PERFECT.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />But<tag a="110" b="0" /><delay20 />but I really like <tag a="110" b="5" />.<delay20 />
+Can my left biceps and your smells
+BOTH be called "<tag a="110" b="5" />"?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />How's this<tag a="110" b="0" /><delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />I'll take the exclusive
+rights to "<tag a="110" b="5" />," <delay20 />but license
+it out to you for your biceps.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />You call your biceps "<tag a="110" b="5" />"
+all you like, <delay20 />but you pay me royalties
+when you flex!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Deal, <tag a="110" b="5" />?<delay20 /><anim id="Negative" target="mainNpc" targetSpec="" /></message>
+</msbt>

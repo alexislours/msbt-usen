@@ -1,0 +1,10 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yo! <delay20 />We meet again, <tag a="110" b="5" />!<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Need something lifted?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> We meet again! <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />It's cool,
+<tag a="110" b="5" />.<delay20 /> Talking to you
+burns calories!<setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />We're running into each other a lot
+today, <tag a="110" b="5" />!<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />You must
+REALLY like talking to me.<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+</msbt>

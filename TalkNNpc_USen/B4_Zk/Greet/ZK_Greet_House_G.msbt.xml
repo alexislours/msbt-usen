@@ -1,0 +1,11 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00">Oh! I didn't know you were
+friends with <tag a="115" b="1" arg="0xcd00" /> too.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Well, make yourself at home!<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Haha, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, can you feel the
+<colour id="3" /><tag a="115" b="1" arg="0xcd00" /> style <colour id="65535" />just
+flowing through this place?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Hey, how'd you get in here?<delay20 />
+Are you on the guest list?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Just kidding!<delay20 /> I know you and
+<tag a="115" b="1" arg="0xcd00" /> are tight.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

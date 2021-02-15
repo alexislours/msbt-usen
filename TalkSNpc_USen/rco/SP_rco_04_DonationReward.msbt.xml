@@ -1,0 +1,192 @@
+<msbt attribsize="4">
+	<message label="001_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, splendid! <delay20 />Let's have a look,
+shall we?</message>
+	<message label="001_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, splendid! <delay20 />Let's have a look,
+shall we?</message>
+	<message label="001_03" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, another creature?<10_4 /> <anim id="Smiling" target="actor" targetSpec="" />Well, let's
+have a look at that one as well.</message>
+	<message label="002" attrib="00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Changed your mind, hm?<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Well, I'm
+always here if you change it back.</message>
+	<message label="003_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well! <delay8 />You found another
+<tag a="125" b="0" arg="0x0" />, I see!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I am still in possession of the last
+one you found, so I'll give this one
+back to you.
+<anim id="EmotEnd" target="actor" targetSpec="" />Please feel free to keep it<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" />or sell it!<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />And if you find something new,
+do please share it with me, hm?</message>
+	<message label="003_02" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><delay8 /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Believe it or not, I already have
+one of these wonderful creatures
+in my possession.
+<anim id="EmotEnd" target="actor" targetSpec="" />Please feel free to keep it<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" />or sell it!<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />And if you find something new,
+do please share it with me, hm?</message>
+	<message label="004" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, what a catch! <delay20 /><anim id="Nodding" target="actor" targetSpec="" />I do believe this is
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.</message>
+	<message label="005_01" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> If this island can support
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Why, who knows what other
+fantastic creatures we might
+find living here!<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />, I have an idea.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />An old friend of mine runs a
+museum, and I'd love to send
+it to him for a closer look.
+<anim id="QuestionMark" target="actor" targetSpec="" />Would you be OK with that?</message>
+	<message label="005_01_a" attrib="00 00 00 00">OK!</message>
+	<message label="005_01_b" attrib="00 00 00 00">I don't know...</message>
+	<message label="005_02" attrib="02 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I do hate to ask again, but<tag a="110" b="0" />in the
+interest of science<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />would you mind letting me keep
+this <tag a="125" b="0" arg="0x0" />?<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />I just know that my friend from the
+museum would find it absolutely
+fascinating.</message>
+	<message label="005_02_a" attrib="00 00 00 00">OK!</message>
+	<message label="005_02_b" attrib="00 00 00 00">I don't know...</message>
+	<message label="005_03" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Would you mind if I sent this
+magnificent creature along to my
+museum-curating friend as well?</message>
+	<message label="005_03_a" attrib="00 00 00 00">OK!</message>
+	<message label="005_03_b" attrib="00 00 00 00">I don't know...</message>
+	<message label="006_01" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Thank you! <delay20 />I promise that
+I'll take extra-good care of
+your <tag a="125" b="0" arg="0x0" />.</message>
+	<message label="007_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I hope you'll keep bringing me new
+discoveries to examine.<delay20 /> It's all a part
+of the island experience! <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Yes, yes!</message>
+	<message label="010" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oho! That's a no, is it?<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />Then back to
+you it goes.<delay8 /> <anim id="Smiling" target="actor" targetSpec="" />If you change your mind,
+I'd love your cooperation, hm?</message>
+	<message label="011_01" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oh! <delay20 />That reminds me<tag a="110" b="0" /></message>
+	<message label="011_01_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is in no way tied to your
+generous donation just now, but
+I have a useful app to show you.</message>
+	<message label="011_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I sent you the <colour id="1" />Critterpedia<colour id="65535" /> app. It's a
+terrific resource for an aspiring
+island researcher such as yourself.
+<anim id="Cheering" target="actor" targetSpec="" />With this one app, you'll get all the
+important details about the bugs and
+fish you catch. Yes, yes!</message>
+	<message label="011_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I do hope you'll continue to fill it
+up with your discoveries—and share
+them with me too!
+<anim id="WrySmile" target="actor" targetSpec="" />I'm sure I'll be able to come up with
+some kind of additional reward, hm?</message>
+	<message label="012_01" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Oh, by the way<tag a="110" b="0" /><delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Have you been
+taking advantage of my <colour id="1" />DIY<colour id="65535" />
+workbench lately?</message>
+	<message label="012_01_a" attrib="00 00 00 00">I have!</message>
+	<message label="012_01_b" attrib="00 00 00 00">Not really.</message>
+	<message label="012_02" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />That's great!<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />Come to think of it, I have seen
+you tinkering around a bit over
+there. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Keep up the good work!</message>
+	<message label="012_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />That's great!<10_4 /> <anim id="Laughing" target="actor" targetSpec="" />Come to think of it,
+I did see you tinkering around over
+there just a moment ago.<anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="012_04" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Is that so?<10_4 /> <anim id="Laughing" target="actor" targetSpec="" />Well, I suppose I haven't
+been paying much attention.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="012_05" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />That reminds me<tag a="110" b="0" /> I've been meaning
+to share more DIY recipes with you.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Mind turning on your phone?</message>
+	<message label="012_06" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, I'm sorry to hear that! <delay frames="40" /><anim id="Explain" target="actor" targetSpec="" />You do
+know that you're welcome to use
+it at any time, hm?
+<anim id="Thinking" target="actor" targetSpec="" />Perhaps you could just use some
+new DIY ideas. <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />Do you mind turning
+on your phone?</message>
+	<message label="012_07" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I just sent you a number of DIY
+recipes that require wood<tag a="110" b="0" />along
+with the recipe to craft an <colour id="1" />axe<colour id="65535" />!
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Yes, yes<tag a="110" b="0" />I think an axe would come
+in quite useful on this island<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Because so many other things are
+made of <colour id="1" />wood<colour id="65535" />, hm?</message>
+	<message label="013_01" attrib="00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />By the way, I have a proper reward
+for you this time.</message>
+	<message label="013_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I've given you <tag a="50" b="2" />
+<colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />—<10_4 />just a
+little sampling of a product we sell.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />Go ahead and do some planting, and
+after a few days, you'll have beautiful
+blooming flowers.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Anyway, give it a whirl. <delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />And if you
+enjoy gardening, stop by and buy
+more!</message>
+	<message label="013_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I've given you <tag a="50" b="2" />
+<colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />!<10_4 /> Just a
+little sampling of a product we sell.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />Go ahead and do some planting, and
+after a few days, you'll have beautiful
+blooming flowers.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Anyway, give it a whirl. <delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />And if you
+enjoy gardening, you can always buy
+more product at the shop!</message>
+	<message label="014_01" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> Remember the flower samples I
+gave you? <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />I forgot to mention
+something<tag a="110" b="0" /></message>
+	<message label="014_02" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> There's something I forgot to tell
+you <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />about the flower samples I gave
+you before<tag a="110" b="0" /></message>
+	<message label="014_03" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The flowers that grow will be very
+strong. They'll spring up even if you
+just plant them and forget them.
+<anim id="Nodding" target="actor" targetSpec="" />Ah, but if you <colour id="1" />water <colour id="65535" />every day<tag a="110" b="0" />
+that's where the magic happens!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Watering opens up the possibility
+of propagating and crossbreeding
+your flowers to develop rare colors.</message>
+	<message label="014_04" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />And how might you water them,
+you ask?<10_4 /> <anim id="Grin" target="actor" targetSpec="" />Well, I've just sent you
+the DIY recipe for a <colour id="1" />watering can<colour id="65535" />!</message>
+	<message label="014_05" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My accountant warned me about
+giving this sort of thing away for
+free<tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />But you've collected creatures for
+me, <tag a="110" b="1" />,<delay frames="30" /><anim id="Laughing" target="actor" targetSpec="" /> so this is
+just part of island give-and-take!</message>
+	<message label="015_01" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hold the phone—someone's calling!<10_7 arg="90" /></message>
+	<message label="015_02" attrib="00 00 00 00"><colour id="3" /><anim id="QuestionMark" target="actor" targetSpec="" />Blathers<colour id="65535" />, is that you?<10_4 /> <anim id="Cheering" target="actor" targetSpec="" />
+Oho, what splendid timing!</message>
+	<message label="015_03" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yes, yes<tag a="110" b="0" /> Do you remember
+the venture we discussed?<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />
+Well, it's come to fruition!
+<anim id="Explain" target="actor" targetSpec="" />I am currently stationed on an
+island that we've decided to
+call <tag a="110" b="8" />!
+<anim id="HappyFlower" target="actor" targetSpec="" />Yes, yes<tag a="110" b="0" /> The local fauna are as
+abundant as expected. <delay20 />Just as I
+told you!</message>
+	<message label="015_04" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" /><size value="75" />Mm-hmm<tag a="110" b="0" /><10_7 arg="60" /><size value="100" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />How many precisely, you ask?<delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />Well, there's no way of knowing
+just yet.
+<anim id="Thinking" target="actor" targetSpec="" />But I have received<tag a="110" b="0" />let's see<tag a="110" b="0" />
+five outstanding specimens so far!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><size value="75" />Mm-hmm<tag a="110" b="0" /><delay8 /> Mm-hmm<tag a="110" b="0" /><size value="100" /><delay20 />
+<anim id="Shocked" target="actor" targetSpec="" />What?! <delay20 />Seriously?!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Well, that is VERY exciting. <10_4 /><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> But
+you'll have to excuse me. <delay20 />I'm with
+a customer right now.</message>
+	<message label="015_05" attrib="00 00 00 00"><anim id="Apologize" target="actor" targetSpec="" />I'm so sorry to keep you waiting.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />That was my friend <colour id="3" />Blathers<colour id="65535" />,
+the one who curates a museum.</message>
+	<message label="015_06" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Believe it or not, he's going to come
+to our island to help us identify and
+preserve the local creatures!</message>
+	<message label="015_07" attrib="00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Ah, but I could use your help,
+<tag a="110" b="1" /><tag a="110" b="0" /></message>
+	<message label="015_08" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Since you've done so much scouting
+and collecting already, would you be
+able to help find a spot for <colour id="3" />Blathers<colour id="65535" />?</message>
+	<message label="015_09" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />We'll need a good-sized space to
+really build out a world-class
+museum<tag a="110" b="0" />so do keep that in mind.</message>
+	<message label="015_10" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />This is exciting! <delay20 />It's all coming
+together. <delay20 />Yes, yes!</message>
+	<message label="016" attrib="01 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Ah, <tag a="110" b="1" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I take it you found a suitable spot
+for <colour id="3" />Blathers <colour id="65535" />to set up, hm?</message>
+	<message label="016_a" attrib="00 00 00 00">I did!</message>
+	<message label="016_b" attrib="00 00 00 00">It's perfect!</message>
+	<message label="017" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />I knew I could count on you!<delay20 />
+Thank you!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'll let <colour id="3" />Blathers <colour id="65535" />know that he can
+move in as soon as he wants.</message>
+	<message label="018_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />In any case, you just got here,
+so I'd hate to see you push
+yourself too far on day one.
+<anim id="Laughing" target="actor" targetSpec="" />But it's no fur off my nose if you
+want to rack up those Nook Miles
+and pay me back quickly!</message>
+	<message label="018_02" attrib="00 00 00 00"><delay8 /><anim id="Shocked" target="actor" targetSpec="" /><delay8 />By the way, <tag a="110" b="1" /><tag a="110" b="0" /><delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />You are saving up Nook Miles, right?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />There's no rush to pay me back,
+of course.<delay20 /> I'm just excited to see
+the program in action!</message>
+	<message label="019" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I've got a few tips for racking up the
+ol' Nook Miles, <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />so don't hesitate to
+ask if you need a little advice.</message>
+</msbt>

@@ -1,0 +1,8 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Now what?<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />You forget somethin'?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Eh, <delay8 />what's the matter now,
+<tag a="110" b="5" />?<delay20 /> You need to talk
+or somethin'?<setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Thanks for chattin' with me so much.<delay20 />
+Makes me feel important.<delay8 /><anim id="Laughing" target="actor" targetSpec="" /> Gahaha!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

@@ -1,0 +1,28 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 07 00 00"><anim id="Greeting" target="actor" targetSpec="" />Ah, <delay8 />good morning!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Welcome to
+our island, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 03 00 00"><anim id="Hello" target="actor" targetSpec="" />Well, hello there, <tag a="110" b="6" />.<delay20 />
+I hear you're a long way
+from home. <anim id="FaintSmile" target="actor" targetSpec="" />Welcome!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 04 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Why, <delay8 />welcome to <tag a="110" b="8" />,
+<tag a="110" b="6" />!<delay20 /> <anim id="Hello" target="actor" targetSpec="" />How do you do this
+fine evening?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 09 00 00"><anim id="Greeting" target="actor" targetSpec="" />Good evening!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Are you enjoying
+<tag a="110" b="8" /> at night,
+<tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Welcome, welcome!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />I'm so glad
+you've come to visit our island,
+<tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Have you come to visit our island?<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />I do hope you relax and enjoy your
+stay here, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="013" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Well, <delay8 />how do you do?<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />I'm so happy you've come
+to say hello, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="014" attrib="00 00 0c 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Well, well! <delay8 />It's a pleasure to have a
+visitor. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />I promise you won't regret
+coming all this way, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="015" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />My, my!<delay8 /> You're far from home,<delay8 />
+aren't you? <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Please,<delay8 /> take your
+time and look around, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

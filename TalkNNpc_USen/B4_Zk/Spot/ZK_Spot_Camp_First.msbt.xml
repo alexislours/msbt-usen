@@ -1,0 +1,119 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Buongiorno!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />The name's <tag a="110" b="10" />.<delay frames="40" />
+<anim id="SmugFace" target="actor" targetSpec="" />Glad to see I'm the first one
+using this <colour id="1" />campsite<colour id="65535" />.</message>
+	<message label="002_01" attrib="00 00 01 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, this <tag a="110" b="32" /> is
+so great<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />What makes it so great?<delay frames="40" /><anim id="Grin" target="actor" targetSpec="" /> Well, I'm
+glad I asked myself.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's the fun and the sun, the weather
+and the wind, the local <tag a="110" b="7" arg="0xcd01" />, and
+the <tag a="135" b="6" arg="0xcd00" /> scene.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />It almost kinda makes me
+think about moving here<tag a="110" b="0" /></message>
+	<message label="002_01_a" attrib="00 00 00 00 00 00 00 00">You should live here!</message>
+	<message label="002_01_b" attrib="00 00 00 00 00 00 00 00">Move here!</message>
+	<message label="002_02" attrib="00 00 01 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, I've gotten really
+used to the <tag a="110" b="33" /> life<tag a="110" b="0" /><pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />I don't even want to go home. <delay20 />And
+I have <tag a="90" b="2" arg="0x100" />-thread count sheets on
+my bed there!</message>
+	<message label="002_02_a" attrib="00 00 00 00 00 00 00 00">You should live here!</message>
+	<message label="002_02_b" attrib="00 00 00 00 00 00 00 00">Move here!</message>
+	<message label="002_03" attrib="00 00 01 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I don't know, maybe I'm just
+imagining things, but I feel like
+everyone wants me to move here<tag a="110" b="0" />
+<anim id="WrySmile" target="actor" targetSpec="" />It's just this vibe, you know? <delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />Like
+when you can tell you're going to
+get the part in a car commercial.</message>
+	<message label="002_03_a" attrib="00 00 00 00 00 00 00 00">You should live here!</message>
+	<message label="002_03_b" attrib="00 00 00 00 00 00 00 00">Move here!</message>
+	<message label="003" attrib="00 00 01 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Wow.<delay20 /> I'm honored. <delay frames="40" /><anim id="AbsentMindedness" target="actor" targetSpec="" />An exclusive
+invitation to an exclusive island
+for celebrities and entourages.
+<anim id="Hesitate" target="actor" targetSpec="" />There's just one little thing<tag a="110" b="0" /><delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />I'd hate for it to be so exclusive
+that it's just<tag a="110" b="0" />me.
+<anim id="QuestionMark" target="actor" targetSpec="" />Can you go check with, <delay20 />like,<delay20 /> the
+VIP manager of the whole island
+first? <delay20 />Just so I know this is legit.</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">Leave it to me!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Sure thing.</message>
+	<message label="003_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Guten tag! <10_4 /><anim id="Serious" target="actor" targetSpec="" />My fate is in your hands.<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Ha HA!</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Have you talked to the executive
+producer about my role yet?<delay frames="40" /> <anim id="Oops" target="actor" targetSpec="" />I mean,
+about me moving here?
+<anim id="Nodding" target="actor" targetSpec="" />While you get things settled, I'll just
+wait here and visualize my new life<tag a="110" b="0" /><pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Whaddaya know?<delay frames="40" /> Even in my
+visualizations, I'm well-dressed<tag a="110" b="0" /></message>
+	<message label="004_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, you!<10_4 /> <anim id="Hesitate" target="actor" targetSpec="" />So tell me<tag a="110" b="0" /><delay20 /><anim id="Frantic" target="actor" targetSpec="" /> Did I get
+the part<tag a="110" b="0" /><delay20 />of newest resident on
+this island?!
+<anim id="WrySmile" target="actor" targetSpec="" />I can see by the look in your eyes
+that you vouched for me with
+the higher ups, <tag a="110" b="5" />.
+<anim id="Grin" target="actor" targetSpec="" />I guess for now I'll just wait here and
+practice the look of surprise I'll give
+when tell me you closed the deal!<delay20 /><anim id="Surprised" target="actor" targetSpec="" /><delay20 /></message>
+	<message label="004_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm just sitting pretty<delay20 /><anim id="Grin" target="actor" targetSpec="" /> until a certain
+deal goes through<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />Come straight here when you have
+news, OK?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Ahoy! <delay frames="40" />That's a little bit of local
+flavor for you. <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />It means, "What's
+up, <tag a="110" b="5" />!"
+<anim id="QuestionMark" target="actor" targetSpec="" />You got good news for me, or what?<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Seriously?!<delay20 /> You got me a personal
+red carpet AND my own VIP cabana?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />That's <tag a="110" b="10" /> for "an
+invitation and my own place
+to live." <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Ha HA!
+<anim id="Frantic" target="actor" targetSpec="" />Alright, now I've really got to get
+back to my home island and get
+my things in order<tag a="110" b="0" />
+<anim id="SmugFace" target="actor" targetSpec="" />Hasta la vista, <tag a="110" b="3" />!</message>
+	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />There you are!<delay20 /> I've just been
+waiting here<tag a="110" b="0" /><delay20 />patiently<tag a="110" b="0" /><pageBreak /><anim id="Sighing" target="actor" targetSpec="" /><delay20 />Who am I kidding?<delay40 /><anim id="Frantic" target="actor" targetSpec="" /> I need to know!<delay20 />
+Did you find me a place to live?<10_4 />
+<anim id="Eh" target="actor" targetSpec="" /><delay20 />Oh. <delay20 />You did!<delay20 /><anim id="SmugFace" target="actor" targetSpec="" /> That's cool. Really cool.
+<anim id="Thinking" target="actor" targetSpec="" />In that case, I better head home and
+start packing.<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />No big. <delay20 />I'm not totally
+excited or anything like that.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />What's up, stranger? <delay20 />Are
+you one of the fabulous
+<tag a="110" b="8" /> locals?
+<anim id="EmotEnd" target="actor" targetSpec="" />The name's <tag a="110" b="10" />, and
+there's a good chance you'll have the
+good fortune of being my neighbor.
+<anim id="SmugFace" target="actor" targetSpec="" />Hope to see you around,
+<tag a="110" b="5" />. <delay20 />Ha HA!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I don't even live here yet, but I'm
+already thinking like a local.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I can tell you where to get the
+best <tag a="110" b="7" arg="0xcd01" />, and which beach
+has the best lighting for selfies.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Yep, I think I'll have people call
+me "Cap'n <capitaliseNextWord /><tag a="110" b="8" />
+<tag a="110" b="10" />." <delay20 />How's it sound?</message>
+	<message label="007_02" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I feel like visiting this place has
+made me a new <tag a="110" b="15" /><tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm more worldly, with a newfound
+appreciation for hard work.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I even considered doing a little
+<tag a="135" b="6" arg="0xcd00" />, can you believe it?</message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I'm a simple <tag a="110" b="15" /> at heart<tag a="110" b="0" /><pageBreak /><anim id="Love" target="actor" targetSpec="" />I just want to be rich and make
+friends with all of the coolest
+and most beautiful folks around.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="008_01" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />I've got something important to
+tell you, <tag a="110" b="5" /><tag a="110" b="0" /><pageBreak /><anim id="Grin" target="actor" targetSpec="" />From now on, you'll be sharing
+<tag a="110" b="8" /> with a certain
+fashionable <tag a="110" b="15" />.
+<anim id="BigSmile" target="actor" targetSpec="" />It's me!<delay frames="40" /> Ha.<delay frames="40" /> <anim id="Oops" target="actor" targetSpec="" />I guess I probably made
+that too easy for you to figure out.</message>
+	<message label="008_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I think it's time I took this whole
+camping thing to the next level.<delay frames="40" />
+<anim id="SmugFace" target="actor" targetSpec="" />Permanent camping.
+<anim id="Thinking" target="actor" targetSpec="" />Except, if I'm camping forever, I'll
+probably eventually want more of
+a structure, and some furniture<tag a="110" b="0" />
+<anim id="Shocked" target="actor" targetSpec="" />Whoa. <delay20 />Has anyone ever tried
+that before?</message>
+	<message label="008_03" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Hey, spread the news!<delay20 /> I'm moving
+to <tag a="110" b="8" />!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Normally I'd produce a hype video
+or a press release, but I'm kinda
+roughing it right now.</message>
+</msbt>

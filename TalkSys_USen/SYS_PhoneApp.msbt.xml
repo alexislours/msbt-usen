@@ -1,0 +1,376 @@
+<msbt attribsize="3">
+	<message label="000" attrib="00 00 17">Huh?<delay8 /> "Outside Service Area"?<delay20 /> Guess
+I can't use the app here.</message>
+	<message label="001" attrib="02 00 17">Call Rescue Service?</message>
+	<message label="001_a" attrib="00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Call!</message>
+	<message label="001_b" attrib="00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Nope.</message>
+	<message label="010" attrib="00 00 13">                    <tag a="10" b="12" /><tag a="100" b="2" /><tag a="100" b="5" /><size value="150" />See ya!<size value="100" /><endTag a="100" b="5" /><endTag a="100" b="2" /><10_7 arg="20" /></message>
+	<message label="011" attrib="00 00 13"><tag a="100" b="5" /><tag a="10" b="12" />                     <size value="150" />Hello!<size value="100" /><10_7 arg="45" /><pageBreak />Thanks for your call.<delay frames="30" /> You've reached
+the <delay8 /><colour id="1" />Rescue Service <colour id="65535" />hotline.<endTag a="100" b="5" /></message>
+	<message label="011_01" attrib="00 00 13"><tag a="100" b="5" />Let's see,<delay20 /> you are<tag a="110" b="0" /><endTag a="100" b="5" /><10_7 arg="30" /></message>
+	<message label="011_02" attrib="00 00 13"><tag a="100" b="5" />Your current location is<tag a="110" b="0" /><endTag a="100" b="5" /><10_7 arg="30" /></message>
+	<message label="012" attrib="00 00 13"><tag a="100" b="5" />Dirt clods!<delay frames="30" /> I dunno what's goin' on
+with this thing!<delay20 /> Signal's bouncin'
+around like crazy<tag a="110" b="0" /><endTag a="100" b="5" /></message>
+	<message label="012_01" attrib="00 00 13"><tag a="100" b="5" />Tell me somethin', pal. <delay20 />You got a
+visitor? <delay20 />Or maybe ya got the gate
+open at the airport or somethin'?<pageBreak />'Cause here's the deal—ya get too
+many signals jumbled together,<delay8 />
+and things don't work so well<tag a="110" b="0" /><pageBreak />If this is really an emergency-type<delay frames="30" />
+situation, open the <colour id="1" /> Button<colour id="65535" /> menu,<delay20 />
+and select <colour id="1" />End Session<colour id="65535" />, will ya?<endTag a="100" b="5" /></message>
+	<message label="012_02" attrib="00 00 13"><tag a="100" b="5" />Tell me somethin', pal<tag a="110" b="0" /><delay20 /> Are you,
+by chance,<delay20 /> off visitin' somebody
+else's island?<pageBreak />'Cause listen up—I get too many
+signals smackin' into each other,
+<delay8 />an' things can get<tag a="110" b="0" />messy.<pageBreak />If you're really, truly in a jam,<delay frames="30" /> ya
+gotta select <colour id="1" />Return to my island <colour id="65535" />on
+the <colour id="1" /> Button<colour id="65535" /> menu. Got it?<endTag a="100" b="5" /></message>
+	<message label="013" attrib="00 00 13"><tag a="100" b="5" />Hold up. <delay20 />Are you, uh,<delay20 /> currently
+inside a building?<pageBreak />Hate to break it to ya, bud,<delay20 />
+but this is one o' those
+outdoor-only services.<pageBreak />Listen<tag a="110" b="0" /><delay20 />ya whack your noggin on
+the ceiling,<delay20 /> ya got a major headache,
+am I right?<delay20 /> No one wants that.<pageBreak />So <delay20 />ya wanna use this service,<delay20 /> ya
+gotta <delay20 />step outside, capice?<endTag a="100" b="5" /></message>
+	<message label="021_01" attrib="00 00 13"><tag a="100" b="5" />I got it.<delay20 /> This is <tag a="110" b="1" />
+of <tag a="110" b="33" />, right?<endTag a="100" b="5" /></message>
+	<message label="021_02" attrib="00 00 13"><tag a="100" b="5" />Just gimme a sec...<delay8 /> OK! Got it!<delay20 />
+<tag a="50" b="3" /><tag a="110" b="1" /> from over
+on <tag a="110" b="33" />, right?
+<delay frames="30" />In a bit of a jam, huh?<endTag a="100" b="5" /></message>
+	<message label="021_03" attrib="00 00 13"><tag a="100" b="5" />Huh? <delay20 /><tag a="50" b="3" /><tag a="110" b="1" />?<delay20 />
+Again? Got yourself in another
+pickle, huh?<endTag a="100" b="5" /></message>
+	<message label="022" attrib="00 00 13"><tag a="100" b="5" />Hey, pal. <delay20 />You're a first-time user,
+right? <delay frames="30" />Let me lay out the nuts and
+bolts of the service for ya.<pageBreak />We're here to <delay8 />help ya out when<delay20 />
+ya get yourself stuck somewhere.
+Give us a call, and<tag a="110" b="0" /><pageBreak />faster than you can say <delay20 />"earthworm
+sandwich," <delay8 />we transport you
+someplace nice and safe.<pageBreak />Revolutionary tech! <delay frames="30" />How's it work?<delay20 />
+Trade secret, ya nosy noodle!<delay20 />
+Seriously. Leave it alone.<endTag a="100" b="5" /></message>
+	<message label="023_01" attrib="02 00 13"><tag a="100" b="5" />Fee structure's simple. <delay8 />A single
+rescue'll cost ya <colour id="1" />100 <colour id="65535" />miles<tag a="110" b="0" /><delay20 /> That's
+100 Nook Miles<tag a="110" b="0" /> Whaddaya say?<endTag a="100" b="5" /></message>
+	<message label="023_01_a" attrib="00 00 13"><anim id="Nodding" target="player" targetSpec="" />Yes! Help!</message>
+	<message label="023_01_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />No, thanks.</message>
+	<message label="023_02" attrib="02 00 13"><tag a="100" b="5" />It's <colour id="1" />100 <colour id="65535" />miles per rescue.<delay20 />
+Whaddaya say?<endTag a="100" b="5" /></message>
+	<message label="023_02_a" attrib="00 00 13"><anim id="Nodding" target="player" targetSpec="" />Yes! Help!</message>
+	<message label="023_02_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />No, thanks.</message>
+	<message label="023_03" attrib="02 00 13"><tag a="100" b="5" />Oh yeah<tag a="110" b="0" /> That reminds me.
+Last time you didn't have enough
+miles, <tag a="110" b="1" /><tag a="110" b="0" /><delay frames="40" />
+I hope history ain't repeatin' itself<tag a="110" b="0" /><pageBreak />The fee is <colour id="1" />100 <colour id="65535" />miles a pop. That's
+100 Nook Miles.<delay20 /> Whaddaya say?<endTag a="100" b="5" /></message>
+	<message label="023_03_a" attrib="00 00 13"><anim id="Nodding" target="player" targetSpec="" />Yes! Help!</message>
+	<message label="023_03_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />No, thanks.</message>
+	<message label="031_01" attrib="00 00 13"><tag a="100" b="5" />What's that? <delay20 />You're good?<endTag a="100" b="5" /></message>
+	<message label="031_02" attrib="00 00 13"><tag a="100" b="5" />What? <delay20 />You're good?<delay frames="40" /> Listen<tag a="110" b="0" /><delay8 />
+I'm not irked 'bout your previous
+miles issue<tag a="110" b="0" /><delay20 /> Ya know that, right?<endTag a="100" b="5" /></message>
+	<message label="032_01" attrib="00 00 13"><tag a="100" b="5" />If you're in a jam,<delay20 /> just say the word!<endTag a="100" b="5" /></message>
+	<message label="032_02" attrib="00 00 13"><tag a="100" b="5" />Ain't got the Nook Miles or somethin'
+like that? <delay8 />No big deal. We can work
+somethin' out<tag a="110" b="0" />
+If you're in a jam, just say the word!<endTag a="100" b="5" /></message>
+	<message label="041_01" attrib="00 00 13"><tag a="100" b="5" />Good call!<10_4 /> Lemme just take those
+<colour id="1" />100 <colour id="65535" />miles up front<tag a="110" b="0" /><endTag a="100" b="5" /></message>
+	<message label="041_02" attrib="00 00 13"><tag a="100" b="5" />Smart thinkin'! <10_4 />Looks like you ain't
+short on Nook Miles,<delay8 /> so lemme just
+take those <colour id="1" />100 <colour id="65535" />miles up front<tag a="110" b="0" /><endTag a="100" b="5" /></message>
+	<message label="042_01" attrib="00 00 13"><tag a="100" b="5" />Good choice!<delay40 /> First, <delay20 />lemme just get
+the <colour id="1" />100 <colour id="65535" />miles up front, and<tag a="110" b="0" /><endTag a="100" b="5" /><10_7 arg="75" /></message>
+	<message label="042_02" attrib="00 00 13"><tag a="100" b="5" /><10_10 /><tag a="10" b="12" />                      <size value="150" />HEY!<size value="100" /><delay20 /><10_9 /><pageBreak />What's the big idea?<delay frames="40" /> Listen, pal.<delay20 />
+You ain't got the Nook Miles!<pageBreak />C'mon! <delay20 />Deep breath, Resetti<tag a="110" b="0" /><delay20 /> OK<tag a="110" b="0" />
+Seeing as this is an emergency,<delay20 /> I'll
+cover ya. No charge!<endTag a="100" b="5" /></message>
+	<message label="042_03" attrib="00 00 13"><tag a="100" b="5" /><10_10 /><tag a="10" b="12" />                      <size value="150" />HEY!<size value="100" /><delay20 /><10_9 /><pageBreak />What's goin' on here?<delay frames="40" /> You ain't
+got the Nook Miles!<delay20 /> Again!<pageBreak />Sheesh! <delay20 />Ain't you a piece of work?<delay20 />
+OK<tag a="110" b="0" /> Seeing as this is an emergency,<delay20 />
+I'll cover ya. No charge!<endTag a="100" b="5" /></message>
+	<message label="042_04" attrib="00 00 13"><tag a="100" b="5" />Since I'm doin' this outta the
+kindness of my heart, <delay20 />you'll go where
+I put ya. <delay20 />Beggars can't be choosers.<endTag a="100" b="5" /></message>
+	<message label="043" attrib="00 00 13"><tag a="100" b="5" />One more thing.<delay20 /> Since you're not
+traveling alone,<delay frames="30" /> I gotta send ya to
+the <colour id="1" />plaza<colour id="65535" />.<endTag a="100" b="5" /></message>
+	<message label="044_01" attrib="06 00 13"><tag a="100" b="5" />Now that that's settled,<delay20 /> where can
+I send ya?<endTag a="100" b="5" /></message>
+	<message label="044_01_a" attrib="00 00 13">Home.</message>
+	<message label="044_01_b" attrib="00 00 13">The plaza.</message>
+	<message label="044_01_c" attrib="00 00 13">The airport.</message>
+	<message label="044_01_d" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="044_02" attrib="06 00 13"><tag a="100" b="5" />Now that that's settled,<delay20 /> where can
+I send ya?<endTag a="100" b="5" /></message>
+	<message label="044_02_a" attrib="00 00 13">My tent.</message>
+	<message label="044_02_b" attrib="00 00 13">The plaza.</message>
+	<message label="044_02_c" attrib="00 00 13">The airport.</message>
+	<message label="044_02_d" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="044_03" attrib="08 00 13"><tag a="100" b="5" />Now that that's settled,<delay20 /> where can
+I send ya?<endTag a="100" b="5" /></message>
+	<message label="044_03_a" attrib="00 00 13">Home.</message>
+	<message label="044_03_b" attrib="00 00 13">The plaza.</message>
+	<message label="044_03_c" attrib="00 00 13">The shop.</message>
+	<message label="044_03_d" attrib="00 00 13">The airport.</message>
+	<message label="044_03_e" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="045" attrib="04 00 13"><tag a="100" b="5" />By the way, seeing as ya ain't settled
+on a place to call home<tag a="110" b="0" />ya gotta tell
+me where we're headed!<endTag a="100" b="5" /></message>
+	<message label="045_a" attrib="00 00 13">The plaza.</message>
+	<message label="045_b" attrib="00 00 13">The airport.</message>
+	<message label="045_c" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="046" attrib="06 00 13"><tag a="100" b="5" />By the way, seeing as ya ain't settled
+on a place to call home<tag a="110" b="0" />ya gotta tell
+me where we're headed!<endTag a="100" b="5" /></message>
+	<message label="046_a" attrib="00 00 13">The plaza.</message>
+	<message label="046_b" attrib="00 00 13">The shop.</message>
+	<message label="046_c" attrib="00 00 13">The airport.</message>
+	<message label="046_d" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="047" attrib="08 00 13"><tag a="100" b="5" />Now that that's settled,<delay20 /> where can
+I send ya?<endTag a="100" b="5" /></message>
+	<message label="047_a" attrib="00 00 13">My tent.</message>
+	<message label="047_b" attrib="00 00 13">The plaza.</message>
+	<message label="047_c" attrib="00 00 13">The shop.</message>
+	<message label="047_d" attrib="00 00 13">The airport.</message>
+	<message label="047_e" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="048" attrib="02 00 13"><tag a="100" b="5" />Huh?<delay40 /> Hey, pal<tag a="110" b="0" /><delay8 /> You're out and
+about, ain't ya?<pageBreak />I can't get no good map data off that
+island, so I'm gonna drop ya <colour id="1" />where
+the planes land.<colour id="65535" /><delay20 /> Ya good with that?<endTag a="100" b="5" /></message>
+	<message label="048_a" attrib="00 00 13">Yes, please!</message>
+	<message label="048_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />Cancel.</message>
+	<message label="050_01" attrib="00 00 13"><tag a="100" b="5" />Your tent? <delay20 />No sweat.<endTag a="100" b="5" /></message>
+	<message label="050_02" attrib="00 00 13"><tag a="100" b="5" />Your place, huh? <delay20 />Easy peasy.<endTag a="100" b="5" /></message>
+	<message label="050_03" attrib="00 00 13"><tag a="100" b="5" />The plaza? <delay20 />You got it!<endTag a="100" b="5" /></message>
+	<message label="050_04" attrib="00 00 13"><tag a="100" b="5" />The ol' island shop, eh? <delay20 />Sure thing!<endTag a="100" b="5" /></message>
+	<message label="050_05" attrib="00 00 13" />
+	<message label="050_06" attrib="00 00 13"><tag a="100" b="5" />Gotcha.<delay frames="30" /> Buckle up, buttercup.<delay20 />
+Here we go!<endTag a="100" b="5" /></message>
+	<message label="050_07" attrib="00 00 13"><tag a="100" b="5" />Airport it is! <delay20 />Roger wilco and all that.<endTag a="100" b="5" /></message>
+	<message label="051" attrib="00 00 13"><tag a="60" b="20" /></message>
+	<message label="051_01" attrib="00 00 13"><tag a="100" b="5" />Uh<tag a="110" b="0" />
+<size value="75" />Which button was it<tag a="110" b="0" />?<size value="100" /><endTag a="100" b="5" /></message>
+	<message label="051_02" attrib="00 00 13"><tag a="100" b="5" />Let's see<tag a="110" b="0" /> Huh?<size value="75" /><delay8 />
+This is the right button, ain't it<tag a="110" b="0" />?<size value="100" /><endTag a="100" b="5" /></message>
+	<message label="051_03" attrib="00 00 13"><tag a="100" b="5" />Err<tag a="110" b="0" /> Dirt clods!<size value="75" /><delay8 />
+I ain't no good with these gizmos<tag a="110" b="0" /><size value="100" /><endTag a="100" b="5" /></message>
+	<message label="052" attrib="00 00 13"><tag a="100" b="5" />I think this is it. <delay8 />Only one way to
+find out<tag a="110" b="0" /><endTag a="100" b="5" /></message>
+	<message label="053" attrib="00 00 14"><tag a="10" b="12" />　       <tag a="100" b="2" /><size value="150" />RANGERS, GO!<size value="100" /><endTag a="100" b="2" /><10_8 arg="30" /></message>
+	<message label="061" attrib="00 00 13"><tag a="100" b="5" />Open your eyes, kid! <delay20 />Trip's over!<endTag a="100" b="5" /></message>
+	<message label="062" attrib="00 00 13"><tag a="100" b="5" />Oh yeah. <delay8 />One last thing<tag a="110" b="0" /><endTag a="100" b="5" /></message>
+	<message label="063" attrib="00 00 13"><tag a="60" b="20" /></message>
+	<message label="063_01" attrib="00 00 13"><tag a="100" b="5" />Islands are like potato sacks.<delay8 /> Cram
+too much into 'em, and they burst!<10_4 />
+Moderation's the key, pal.<endTag a="100" b="5" /></message>
+	<message label="063_02" attrib="00 00 13"><tag a="100" b="5" />So ya got "auto-saving," huh?<delay frames="30" />
+Means ya can't <delay20 />reset things here
+on <tag a="110" b="33" />.<endTag a="100" b="5" /></message>
+	<message label="063_03" attrib="00 00 13"><tag a="100" b="5" />Results ain't everything.<delay20 /><100_3 arg="Katsu" /> What you
+put in is what you get out!<10_4 /> This
+island? Your life?<delay8 /> Keep 'em tidy!<endTag a="100" b="5" /></message>
+	<message label="064" attrib="00 00 13"><tag a="60" b="20" /></message>
+	<message label="064_01" attrib="00 00 13"><tag a="100" b="5" />Islands are like potato sacks.<delay8 /> Cram
+too much into 'em, and they burst!<10_4 />
+Moderation's the key, pal.<endTag a="100" b="5" /></message>
+	<message label="064_02" attrib="00 00 13"><tag a="100" b="5" />So ya got "auto-saving," huh?<delay frames="30" />
+Means ya can't <delay20 />reset things here
+on <tag a="110" b="33" />.<endTag a="100" b="5" /></message>
+	<message label="064_03" attrib="00 00 13"><tag a="100" b="5" />So. Nook Miles, right?<delay20 /> There are
+ways to stack 'em up, and it ain't
+rocket science!<pageBreak />To begin with, <delay8 />ya get miles just by
+accessing the <colour id="1" />Nook Stop <colour id="65535" />on the
+daily.<delay20 /> Remember that!<endTag a="100" b="5" /></message>
+	<message label="201" attrib="06 00 17">Should I start up the <colour id="1" />Island Designer
+<colour id="65535" />app and do some construction work?</message>
+	<message label="201_a" attrib="00 00 17">Start construction!</message>
+	<message label="201_b" attrib="00 00 17">Request cleanup.</message>
+	<message label="201_c" attrib="00 00 17">Check the manual.</message>
+	<message label="201_d" attrib="00 00 17">Nah.</message>
+	<message label="202" attrib="00 00 20">Getting permission for construction<tag a="110" b="0" /><10_8 arg="30" /></message>
+	<message label="202_01" attrib="00 00 20">The <colour id="1" />Island Designer<colour id="65535" /> app is ready!
+Remember to wear a helmet during
+construction, and work safely!</message>
+	<message label="205" attrib="06 00 17">Am I done building for now?</message>
+	<message label="205_a" attrib="00 00 17">Yeah, I'm done.</message>
+	<message label="205_b" attrib="00 00 17">Request cleanup.</message>
+	<message label="205_c" attrib="00 00 17">Check the manual.</message>
+	<message label="205_d" attrib="00 00 17">Nah, I'll keep going.</message>
+	<message label="206" attrib="00 00 20"><tag a="110" b="0" /><delay40 />Connection error!<10_8 arg="30" /></message>
+	<message label="207" attrib="00 00 17">Is the reception bad or what? Maybe
+I should <colour id="1" />stand up <colour id="65535" />and try again.</message>
+	<message label="208" attrib="00 00 17" />
+	<message label="209" attrib="00 00 20">You're <colour id="1" />outside of the valid service
+area<colour id="65535" />. You can only use this app while
+outdoors on <tag a="110" b="9" />.</message>
+	<message label="210" attrib="00 00 20">Commencing wrap-up sequence<tag a="110" b="0" /><10_8 arg="60" /></message>
+	<message label="211" attrib="00 00 20">Construction controls terminated!
+Please feel free to use our services
+again.</message>
+	<message label="212" attrib="00 09 21">I can't use the <colour id="1" />Island Designer <colour id="65535" />app
+when the airport gate is open.</message>
+	<message label="213" attrib="00 09 21">I can't use the <colour id="1" />Island Designer<colour id="65535" /> app
+when company is visiting the island.</message>
+	<message label="214" attrib="00 09 21">I can't use the <colour id="1" />Island Designer <colour id="65535" />app
+when communications are active.<pageBreak />I'll need to shut them off at the
+airport first.</message>
+	<message label="221" attrib="00 00 20"><colour id="1" />Island Designer <colour id="65535" />is ready!</message>
+	<message label="221_01" attrib="00 00 20">Use the <colour id="1" /> Button <colour id="65535" />to switch between
+different construction options.
+Please <colour id="1" />check the manual<colour id="65535" /> for info.</message>
+	<message label="221_02" attrib="00 00 20">Press <colour id="1" /> <colour id="65535" />or <colour id="1" /> <colour id="65535" />to switch between
+construction options when using
+a horizontal Joy-Con.
+Please <colour id="1" />check the manual<colour id="65535" /> for info.</message>
+	<message label="222" attrib="00 00 20"><colour id="0" />App Notification<colour id="65535" />:
+<colour id="1" />Waterscaping permit <colour id="65535" />added.</message>
+	<message label="223" attrib="00 00 20"><colour id="0" />App Notification<colour id="65535" />:
+<colour id="1" />Cliff-construction permit <colour id="65535" />added.</message>
+	<message label="224" attrib="00 00 20"><colour id="0" />App Notification<colour id="65535" />:
+<colour id="1" />Waterscaping <colour id="65535" />and <colour id="1" />cliff-construction
+permits <colour id="65535" />added.</message>
+	<message label="225" attrib="00 00 20">Press the <colour id="1" /> Button <colour id="65535" />to switch
+between options. <colour id="1" />Check the manual
+<colour id="65535" />in the app for more information.</message>
+	<message label="225_01" attrib="00 00 20">You can press <colour id="1" /> <colour id="65535" />or <colour id="1" /> <colour id="65535" />to switch
+between options when using a
+horizontal Joy-Con.
+Please <colour id="1" />check the manual<colour id="65535" /> for info.</message>
+	<message label="241" attrib="00 00 20">About the <colour id="1" />Island Designer <colour id="65535" />App<pageBreak /><colour id="0" />Starting and Stopping Construction<colour id="65535" />
+Please use the app to properly
+begin and end construction.</message>
+	<message label="241_01_00" attrib="00 00 20"><colour id="0" />Switching Between Permits<colour id="65535" />
+During construction, you can press
+the <colour id="1" /> Button<colour id="65535" /> to switch permits.</message>
+	<message label="241_01_01" attrib="00 00 20"><colour id="0" />Switching Between Permits<colour id="65535" />
+When using a horizontal Joy-Con,
+switch construction permits by...
+pressing <colour id="1" /> <colour id="65535" />or <colour id="1" /><colour id="65535" />.</message>
+	<message label="241_02" attrib="00 00 20">Please note: Your permits for the
+<colour id="1" />Island Designer <colour id="65535" />app are only valid for
+use on <tag a="110" b="9" />.
+If you leave the island,
+construction will end.<pageBreak />Always wear a helmet, and always
+work with safety in mind!</message>
+	<message label="242" attrib="00 00 20">Path Construction Guide
+Press <colour id="1" /> <colour id="65535" />while on grassy areas
+to create or remove paths.</message>
+	<message label="242_00_01" attrib="00 00 20">Path Construction Guide
+Press <colour id="1" /> <colour id="65535" />while on grassy areas
+to create or remove paths.</message>
+	<message label="242_01_00" attrib="00 00 20"><colour id="0" />Selecting Path Designs<colour id="65535" />
+Press the <colour id="1" /> Button <colour id="65535" />to select from
+path designs you've obtained.</message>
+	<message label="242_01_01" attrib="00 00 20"><colour id="0" />Selecting Path Designs<pageBreak /><colour id="65535" />When using a horizontal Joy-Con,
+press <colour id="1" /> <colour id="65535" />or<colour id="1" />  <colour id="65535" />to select from path
+designs you've obtained.</message>
+	<message label="243" attrib="00 00 20">Waterscaping Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to dig into the ground and
+create new rivers, ponds, etc. You
+can also fill them in.
+<colour id="0" />Creating Waterfalls<colour id="65535" />
+Try digging atop a cliff
+to create a <colour id="1" />waterfall<colour id="65535" />.</message>
+	<message label="243_01" attrib="00 00 20">Waterscaping Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to dig into the ground and
+create new rivers, ponds, etc. You
+can also fill them in.
+<colour id="0" />Creating Waterfalls<colour id="65535" />
+Try digging atop a cliff
+to create a <colour id="1" />waterfall<colour id="65535" />.</message>
+	<message label="244" attrib="00 00 20">Cliff Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to create cliffs, round the
+edges of existing cliffs, or destroy
+existing cliffs.
+<colour id="0" />Building Cliffs on Top of Cliffs<colour id="65535" />
+You can stack cliffs, but not right at
+the edge. No building giant walls!
+Start by making a big base
+with lots of surface area before
+moving up to the next tier.
+<colour id="0" />Destroying Waterfalls<colour id="65535" />
+First use the waterscaping
+permit to fill in the waterfall.
+After that, you can destroy
+the cliff at will.</message>
+	<message label="244_01" attrib="00 00 20">Cliff Construction Guide<pageBreak />Press <colour id="1" /> <colour id="65535" />to create cliffs, round the
+edges of existing cliffs, or destroy
+existing cliffs.
+<colour id="0" />Building Cliffs on Top of Cliffs<colour id="65535" />
+You can stack cliffs, but not right at
+the edge. No building giant walls!
+Start by making a big base
+with lots of surface area before
+moving up to the next tier.
+<colour id="0" />Destroying Waterfalls<colour id="65535" />
+First use the waterscaping
+permit to fill in the waterfall.
+After that, you can destroy
+the cliff at will.</message>
+	<message label="245" attrib="00 00 20"><colour id="1" />Cleanup Service Guide<colour id="65535" /><pageBreak />Sometimes, when you're working on
+construction projects, you might
+accidentally find yourself in a pinch.<pageBreak />Perhaps something you put out
+keeps you from moving around, or
+you can't grab an item up on a cliff.<pageBreak />The cleanup service is for these
+moments where you need the items
+around you cleaned up a bit.<pageBreak />Only items such as furniture or
+fencing <colour id="1" />in your immediate vicinity
+<colour id="65535" />are moved with this service.<pageBreak />Make sure you get close to the items
+causing you trouble before you apply
+for the service.<pageBreak />Any items picked up by the service
+will be deposited in the <colour id="1" />recycle box<colour id="65535" />
+at Resident Services.<pageBreak />So don't delay in picking up those
+items from the box!</message>
+	<message label="251" attrib="06 00 17">What should I read up on?</message>
+	<message label="251_a" attrib="00 00 17">Basic user guide.</message>
+	<message label="251_b" attrib="00 00 17">Path construction.</message>
+	<message label="251_c" attrib="00 00 17">Cleanup service.</message>
+	<message label="251_d" attrib="00 00 17">I'm done reading.</message>
+	<message label="251_01" attrib="08 00 17">What should I read up on?</message>
+	<message label="251_01_a" attrib="00 00 17">Basic user guide.</message>
+	<message label="251_01_b" attrib="00 00 17">Path construction.</message>
+	<message label="251_01_c" attrib="00 00 17">Waterscaping.</message>
+	<message label="251_01_d" attrib="00 00 17">Cleanup service.</message>
+	<message label="251_01_e" attrib="00 00 17">I'm done reading.</message>
+	<message label="251_02" attrib="08 00 17">What should I read up on?</message>
+	<message label="251_02_a" attrib="00 00 17">Basic user guide.</message>
+	<message label="251_02_b" attrib="00 00 17">Path construction.</message>
+	<message label="251_02_c" attrib="00 00 17">Cliff construction.</message>
+	<message label="251_02_d" attrib="00 00 17">Cleanup service.</message>
+	<message label="251_02_e" attrib="00 00 17">I'm done reading.</message>
+	<message label="251_03" attrib="0a 00 17">What should I read up on?</message>
+	<message label="251_03_a" attrib="00 00 17">Basic user guide.</message>
+	<message label="251_03_b" attrib="00 00 17">Path construction.</message>
+	<message label="251_03_c" attrib="00 00 17">Waterscaping.</message>
+	<message label="251_03_d" attrib="00 00 17">Cliff construction.</message>
+	<message label="251_03_e" attrib="00 00 17">Cleanup service.</message>
+	<message label="251_03_f" attrib="00 00 17">I'm done reading.</message>
+	<message label="261" attrib="00 00 20">Sometimes while doing construction,
+you might find yourself in a little bit
+of trouble.<pageBreak />Perhaps you can't pick up an item
+placed on top of a cliff.<pageBreak />Maybe a decoration in a narrow area
+is keeping you from moving around.<pageBreak />The cleanup service can help by
+picking up items placed immediately
+around you.<pageBreak />Any cleaned-up items will be placed
+in the <colour id="1" />recycle box<colour id="65535" /> inside <colour id="1" />Resident
+Services<colour id="65535" />.<pageBreak />Please check the manual for details.</message>
+	<message label="262" attrib="02 00 20">Would you like to use the cleanup
+service and send items around you to
+the recycle box at Resident Services?</message>
+	<message label="262_a" attrib="00 00 20">Yes, clean things up!</message>
+	<message label="262_b" attrib="00 00 20">No, not right now.</message>
+	<message label="263" attrib="00 00 20">Understood!<delay20 /> Please wait as we clean
+up the items around you.</message>
+	<message label="264" attrib="00 00 20">Cleanup complete!<delay frames="30" /> Please remember
+to grab any items from the <colour id="1" />recycle
+box <colour id="65535" />at <colour id="1" />Resident Services<colour id="65535" />.</message>
+	<message label="265" attrib="00 00 20">We couldn't find anything to
+clean up.<pageBreak />The cleanup service<delay20 /> will only work
+on items and fencing placed in your
+immediate vicinity.</message>
+	<message label="301" attrib="00 00 17">Looks like the map app won't work
+for this island.</message>
+	<message label="311" attrib="00 00 17">Hm? It says "Outside service area."
+Guess I can't use it here.</message>
+	<message label="999" attrib="00 00 13"><colour id="1" />100 <colour id="65535" />miles</message>
+</msbt>

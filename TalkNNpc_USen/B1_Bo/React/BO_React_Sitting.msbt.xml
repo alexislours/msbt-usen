@@ -1,0 +1,38 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x65 0x66 0x67" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x68 0x69 0x6a" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x6b 0x6c 0x6d" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x6e 0x6f 0x70" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Can you guess what I'm doing?<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />I<tag a="110" b="0" />am<tag a="110" b="0" />a huh huh huh<tag a="110" b="0" /><delay frames="40" />
+<anim id="Pardon" target="actor" targetSpec="" />I'm sitting, <tag a="110" b="6" />!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />This is super comfy, <tag a="110" b="6" />!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />All I'm doing is sitting here and
+watching the sky<tag a="110" b="0" /><delay frames="40" /> That cloud
+looks like a sandwich, <tag a="110" b="6" />!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="4" />!<delay frames="40" /> I got an
+empty spot beside me!<delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" />Have a seat, <tag a="110" b="6" />!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="4" />!<delay frames="40" />
+You taking a break too?</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00">Hey, <tag a="110" b="4" />!<delay frames="40" /><anim id="Pardon" target="actor" targetSpec="" />
+I got a spot here <delay20 />just for you!<delay frames="40" /> It's a
+special spot! <anim id="Smiling" target="actor" targetSpec="" />Right next to me!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It's pretty nice just chilling on a
+bench, talking 'bout stuff.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />My feet don't get tired when I hang
+out on a bench! I could just sit and
+talk forever!</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />When I sit next to somebody, it's
+hard to see their face. <anim id="Smiling" target="actor" targetSpec="" />But I can
+scoot right up next to them!</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00">Sitting here, I get real relaxed<tag a="110" b="0" />
+Like when I eat a buncha snacks.
+<anim id="Sleepy" target="actor" targetSpec="" />And<tag a="110" b="0" />wake up<tag a="110" b="0" />on<tag a="110" b="0" />the floor<tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Wah!<delay20 /> I'm awake! <delay20 />I'm awake!</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00">Hey, <tag a="110" b="3" />.
+I was gonna give you my seat,<delay20 /> but
+my butt doesn't want to leave!<pageBreak />I keep arguing with it, but it just
+won't listen!<delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" /> Sorry!</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is so cozy, I could sit in it all
+day!<delay frames="40" /> <anim id="Love" target="actor" targetSpec="" />I want one too, <tag a="110" b="6" />!</message>
+</msbt>

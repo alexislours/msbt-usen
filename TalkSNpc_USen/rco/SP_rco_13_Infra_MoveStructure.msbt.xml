@@ -1,0 +1,294 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes, yes! Let's chat about the <colour id="1" />layout
+of the island<colour id="65535" />.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />As Resident Representative, planning
+the locations of different structures<anim id="Nodding" target="actor" targetSpec="" />
+falls to you, hm? As such, I'll bet<tag a="110" b="0" />
+you've probably thought,<delay20 /><anim id="Shocked" target="actor" targetSpec="" /> "Oh!<delay frames="40" /><anim id="Frantic" target="actor" targetSpec="" /> That
+building would be better elsewhere!"<10_4 />
+<anim id="Laughing" target="actor" targetSpec="" />Happens to the best of us!
+<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Serious" target="actor" targetSpec="" />So I'm here for you! We can talk
+about layout changes that take<anim id="SmugFace" target="actor" targetSpec="" /> full
+advantage of our island's terrain.</message>
+	<message label="001_00_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Moving buildings is of course an
+elective service, <anim id="ShyBoy" target="actor" targetSpec="" />so there are
+construction costs for you to cover.
+<anim id="EmotEnd" target="actor" targetSpec="" />But don't let a few Bells stop you
+from <anim id="Greeting" target="actor" targetSpec="" />shaping our island into its most
+ideal form, hm?</message>
+	<message label="001_00_02" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Now, if you are interested in moving
+your home, <delay8 /><anim id="Nodding" target="actor" targetSpec="" />say "<colour id="1" />About my home...<colour id="65535" />"
+and we <anim id="Smiling" target="actor" targetSpec="" />can discuss that.</message>
+	<message label="001_01" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Now then, <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />if there's a building you
+have in mind, <delay8 />we can discuss moving
+it now.<anim id="QuestionMark" target="actor" targetSpec="" /> How about it, hm?</message>
+	<message label="001_01_a" attrib="00 00 00 00">Let's talk relocation.</message>
+	<message label="001_01_b" attrib="00 00 00 00">I'm good for now.</message>
+	<message label="002" attrib="00 00 00 00">Excellent!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> And which building did you
+want to move?</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Understood!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /> Well, you know where
+to find me<anim id="Smiling" target="actor" targetSpec="" /> if you ever want to talk
+layout changes.</message>
+	<message label="004" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Change your mind?<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /> Well, you know
+where to find me<anim id="Smiling" target="actor" targetSpec="" /> if you ever want to
+talk layout changes.</message>
+	<message label="011" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK. <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />Who should we talk to about
+moving their home?</message>
+	<message label="011_01" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" />?<delay frames="40" /> Understood!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />The construction costs will run you
+<colour id="1" /><tag a="90" b="22" arg="0x0" /><colour id="65535" />.<delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /> Should we talk to
+<tag a="115" b="1" arg="0xcd00" /> about this now?</message>
+	<message label="011_01_a" attrib="00 00 00 00">Yes, let's do it!</message>
+	<message label="011_01_b" attrib="00 00 00 00">Let me think on it.</message>
+	<message label="012" attrib="02 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh! The <colour id="1" />shop<colour id="65535" />!<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> Moving that will cost
+you <colour id="1" /><tag a="90" b="22" arg="0x0" /><colour id="65535" />.<delay frames="30" /><anim id="QuestionMark" target="actor" targetSpec="" /> So, do you want to
+suggest moving it?</message>
+	<message label="012_a" attrib="00 00 00 00">Yes, let's do it!</message>
+	<message label="013_b" attrib="00 00 00 00">Let me think on it.</message>
+	<message label="013" attrib="02 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ah! The <colour id="1" />museum<colour id="65535" />!<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> Moving it will run
+you <colour id="1" /><tag a="90" b="22" arg="0x0" /><colour id="65535" />.<delay frames="30" /><anim id="QuestionMark" target="actor" targetSpec="" /> So, do you want to
+suggest moving it?</message>
+	<message label="013_a" attrib="00 00 00 00">Yes, let's do it!</message>
+	<message label="012_b" attrib="00 00 00 00">Let me think on it.</message>
+	<message label="014" attrib="02 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ah yes. The <colour id="1" />tailor shop<colour id="65535" />.<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> It's going to
+cost <colour id="1" /><tag a="90" b="22" arg="0x0" /> <colour id="65535" />to move it.<delay frames="30" /><anim id="QuestionMark" target="actor" targetSpec="" /> So, do
+you want to suggest moving it?</message>
+	<message label="014_a" attrib="00 00 00 00">Yes, let's do it!</message>
+	<message label="014_b" attrib="00 00 00 00">Let me think on it.</message>
+	<message label="015" attrib="02 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh! The <colour id="1" />campsite<colour id="65535" />!<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" />
+It'll cost <colour id="1" /><tag a="90" b="22" arg="0x0" /> <colour id="65535" />to move it.
+<anim id="QuestionMark" target="actor" targetSpec="" />Do you want to relocate it?</message>
+	<message label="015_a" attrib="00 00 00 00">Yes, let's do it!</message>
+	<message label="015_b" attrib="00 00 00 00">Let me think on it.</message>
+	<message label="021" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yes, yes! Very good!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Let's ask <tag a="115" b="1" arg="0xcd00" /> what
+<gender3 m="he" f="she" /> thinks of the idea.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Wait just a
+moment while I contact <gender3 m="him" f="her" /><tag a="110" b="0" /></message>
+	<message label="022" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yes, yes! Very good!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Let's see what <colour id="3" />Timmy <colour id="65535" />and <colour id="3" />Tommy<colour id="65535" />
+think of the idea, then.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Hold on while
+I contact them<tag a="110" b="0" /></message>
+	<message label="023" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yes, yes! Very good!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Let's see what <colour id="3" />Blathers <colour id="65535" />thinks of the
+idea, then.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Wait one moment while I
+contact him<tag a="110" b="0" /></message>
+	<message label="024" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yes, yes! Very good!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Let's see what <colour id="3" />Mabel <colour id="65535" />thinks of the
+idea, then.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Wait one moment while I
+contact her<tag a="110" b="0" /></message>
+	<message label="025" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Alright! Thank you for your business!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Your next step will be to<anim id="Smiling" target="actor" targetSpec="" /> pick out the
+<colour id="1" />campsite<colour id="65535" />'s new location.</message>
+	<message label="026" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />In your pockets, you'll now find
+<tag a="50" b="2" /><colour id="1" /><tag a="125" b="0" arg="0x0" /><colour id="65535" />.<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />Set that up where you want it to go.</message>
+	<message label="031" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Yes, yes! Very good!<delay frames="40" /> Now<tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Hold on,<delay frames="40" /> <tag a="110" b="1" />.<delay8 />
+<anim id="Worried" target="actor" targetSpec="" />You don't have the Bells!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Around here our motto is<delay20 /><anim id="Explain" target="actor" targetSpec="" /> "You want
+it? You fund it!"<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> So let's try this
+again<anim id="Greeting" target="actor" targetSpec="" /> when you have the money.</message>
+	<message label="032" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />What's this, <tag a="110" b="1" />?<delay20 />
+<anim id="Worried" target="actor" targetSpec="" />Your pockets are much too full!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Explain" target="actor" targetSpec="" />I need to give you a special item to
+complete this transaction.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> So please
+go make some space for it first.</message>
+	<message label="033" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /> <tag a="115" b="1" arg="0xcd00" /> recently
+moved to this island.<delay8 /> <anim id="Explain" target="actor" targetSpec="" />Perhaps it'd be
+in poor taste to ask <gender3 m="him" f="her" /> to relocate?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />We ought to let a little time pass
+before suggesting the idea,<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> don't
+you think?</message>
+	<message label="034" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /> <tag a="115" b="1" arg="0xcd00" /> has made
+up <gender3 m="his" f="her" /> mind to leave this island, so<delay8 />
+<anim id="Explain" target="actor" targetSpec="" />it's bad timing to move <gender3 m="his" f="her" /> home.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you want to suggest some other
+layout changes later,<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> we should talk!</message>
+	<message label="034_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Sounds good<tag a="110" b="0" /> But hold on a minute.
+<anim id="WrySmile" target="actor" targetSpec="" />Have you not met any of the island
+residents, <tag a="110" b="1" />?
+<anim id="EmotEnd" target="actor" targetSpec="" />You're the Resident Rep., but I think
+they'd be happier<anim id="Nodding" target="actor" targetSpec="" /> leaving their home
+situation to someone they've met.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I mean, if you want to move
+someone's home, you should
+at least meet them first, hm?
+<anim id="Greeting" target="actor" targetSpec="" />Then come see me, and we can
+discuss any ideas you might have
+about moving them.</message>
+	<message label="035" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /><delay20 /> I think they might be in the
+middle of a shop remodel right now<tag a="110" b="0" /><delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Let's chat when that's done.</message>
+	<message label="051" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I think that covers everything.<pageBreak /><anim id="Silent" target="actor" targetSpec="" />So, <tag a="115" b="1" arg="0xcd00" />,<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> do you want
+to move where <tag a="110" b="1" />
+thinks you should move?</message>
+	<message label="052" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="110" b="0" />So, <colour id="3" /><tag a="115" b="1" arg="0xcd00" /><colour id="65535" />,<delay20 /> what do
+you <anim id="QuestionMark" target="actor" targetSpec="" />think about <tag a="110" b="1" />'s
+suggestion to move the shop?</message>
+	<message label="053" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />So, <colour id="3" />Blathers<colour id="65535" /><tag a="110" b="0" /><delay20 /> <tag a="50" b="3" /><tag a="110" b="1" />'s
+suggestion to move the museum<tag a="110" b="0" /><delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />What do you think?</message>
+	<message label="054" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, <colour id="3" />Mabel<colour id="65535" /><tag a="110" b="0" /><delay20 /> What do you think
+about <tag a="110" b="1" />'s
+<anim id="QuestionMark" target="actor" targetSpec="" />suggestion to move your shop?</message>
+	<message label="061" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I'm all for it!<delay frames="40" /> <tag a="50" b="3" /><tag a="110" b="1" /> will
+find us a spot<delay8 /><anim id="HappyDance" target="actor" targetSpec="" /> that'll make
+business boom!<delay8 /> I'm sure of it!</message>
+	<message label="062" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Why, yes!<delay20 /> Of course I'm on board!<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />Indeed, go forth and find us a place
+fitting for scientific wonder!</message>
+	<message label="063" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That sounds fine by me!<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /> I'm sure
+<colour id="3" />Sable <colour id="65535" />will be happy with wherever
+you pick too, <tag a="110" b="1" />.</message>
+	<message label="071" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Alright then! Sounds great.<10_4 /><anim id="Smiling" target="actor" targetSpec="" /> You just
+leave the rest to me and our friend
+<tag a="110" b="1" />.</message>
+	<message label="081" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, <tag a="110" b="1" />,<delay8 /> since the
+matter of moving is now settled,<delay20 />
+I'll take that construction fee now<tag a="110" b="0" /></message>
+	<message label="082" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Next, I'd like you to pick out a new
+spot for <tag a="115" b="1" arg="0xcd00" />'s home.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You'll find a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />moving kit<colour id="65535" /> in your
+pockets.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Use it to place <gender3 m="his" f="her" /> home
+wherever you'd like it to go!</message>
+	<message label="082_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Next up, I'd like you to pick out the
+new location.<pageBreak />In your pockets,<anim id="Nodding" target="actor" targetSpec="" /> you'll find the
+<tag a="125" b="0" arg="0x0" /> you'll
+need.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Find a spot<tag a="110" b="0" />and deploy!</message>
+	<message label="101" attrib="02 00 00 00">Yes, yes, indeed. At the moment you
+should be looking for a new place for
+<tag a="115" b="1" arg="0xcd01" />'s home.
+<anim id="QuestionMark" target="actor" targetSpec="" />Something on your mind?</message>
+	<message label="101_a" attrib="00 00 00 00">Let's not move it.</message>
+	<message label="101_b" attrib="00 00 00 00">No, not really.</message>
+	<message label="102" attrib="02 00 00 00">Yes, yes, indeed. At the moment you
+should be looking for a new place for
+the <colour id="1" />shop<colour id="65535" />.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Something on your mind?</message>
+	<message label="102_a" attrib="00 00 00 00">Let's not move it.</message>
+	<message label="102_b" attrib="00 00 00 00">No, not really.</message>
+	<message label="103" attrib="02 00 00 00">Yes, yes, indeed. At the moment you
+should be looking for a new place for
+the <colour id="1" />museum<colour id="65535" />.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Is something wrong?</message>
+	<message label="103_a" attrib="00 00 00 00">Let's not move it.</message>
+	<message label="103_b" attrib="00 00 00 00">No, not really.</message>
+	<message label="104" attrib="02 00 00 00">Yes, yes, indeed. At the moment you
+should be looking for a new place for
+the <colour id="1" />tailor shop<colour id="65535" />.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Is something wrong?</message>
+	<message label="104_a" attrib="00 00 00 00">Let's not move it.</message>
+	<message label="104_b" attrib="00 00 00 00">No, not really.</message>
+	<message label="105" attrib="02 00 00 00">Yes, yes, indeed. At the moment you
+should be looking for a new place for
+the <colour id="1" />campsite<colour id="65535" />.<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Is something wrong?</message>
+	<message label="105_a" attrib="00 00 00 00">Let's not move it.</message>
+	<message label="105_b" attrib="00 00 00 00">No, not really.</message>
+	<message label="111" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Oh my! Did you have trouble finding
+a good location?<10_4 /><anim id="Worried" target="actor" targetSpec="" /> Well, I suppose we
+can table this for another day.
+<anim id="EmotEnd" target="actor" targetSpec="" />I'll take back the moving kit I gave
+you before, <anim id="Smiling" target="actor" targetSpec="" />and I'll give you back the
+Bells you paid.</message>
+	<message label="112" attrib="00 00 00 00">And don't worry, I'll also make sure
+<tag a="115" b="1" arg="0xcd01" /> knows we won't
+be moving <gender3 m="his" f="her" /> home after all.</message>
+	<message label="112_01" attrib="00 00 00 00">Don't worry. I'll be sure to tell
+<colour id="3" />Blathers<colour id="65535" /> that we won't be moving
+the museum after all.</message>
+	<message label="112_02" attrib="00 00 00 00">And don't fret about <colour id="3" />Timmy<colour id="65535" /> and
+<colour id="3" />Tommy<colour id="65535" />. I'll tell them we won't be
+moving their shop after all.</message>
+	<message label="112_03" attrib="00 00 00 00">And don't worry. <colour id="3" />Mabel<colour id="65535" /> will be fine.
+I'll let her know we won't be moving
+her shop after all.</message>
+	<message label="112_04" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />If you do happen to scout a good
+location, <delay20 /><anim id="Greeting" target="actor" targetSpec="" />don't hesitate to come back
+and talk to me about this again.</message>
+	<message label="113" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />A clear mind is a good thing to have!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Once you settle on a location,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />I'll
+start the construction paperwork.</message>
+	<message label="113_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />A clear mind is a good thing to have!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Once you settle on a location,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />I'll
+start the construction paperwork.</message>
+	<message label="501" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh dear. Sorry, but<delay frames="10" /> <anim id="EmotEnd" target="actor" targetSpec="" />since you asked
+me to move your home,<anim id="Negative" target="actor" targetSpec="" /> my paws are
+full at the moment<tag a="110" b="0" /></message>
+	<message label="502" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh, I'm sorry, but<delay frames="30" /><anim id="Negative" target="actor" targetSpec="" /> my paws are full
+with moving <tag a="115" b="1" arg="0xcd01" />'s
+home at the moment<tag a="110" b="0" /></message>
+	<message label="503" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh dear. I'm sorry, but<delay frames="30" /><anim id="WrySmile" target="actor" targetSpec="" /> my paws are
+full moving the <colour id="1" />shop<colour id="65535" /> at the moment<tag a="110" b="0" /></message>
+	<message label="504" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh! I'm sorry, but<delay frames="30" /><anim id="WrySmile" target="actor" targetSpec="" /> my paws are full
+with moving the <colour id="1" />museum<colour id="65535" /> at the
+moment<tag a="110" b="0" /></message>
+	<message label="505" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I'm sorry, but<delay frames="30" /><anim id="WrySmile" target="actor" targetSpec="" /> my paws are full right
+now. I'm in the process of moving the
+<colour id="1" />tailor shop <colour id="65535" />at the moment<tag a="110" b="0" /></message>
+	<message label="506" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh my. I<tag a="110" b="0" />I'm sorry, but<delay frames="30" /><anim id="WrySmile" target="actor" targetSpec="" /> my paws
+are full at the moment. I'm getting
+the <colour id="1" />campsite <colour id="65535" />moved.</message>
+	<message label="511" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh. I'm deeply sorry, but<delay frames="30" /> I'm having
+<tag a="115" b="0" arg="0xcd00" />'s home moved.
+My paws are full<tag a="110" b="0" /></message>
+	<message label="512" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My paws are full right now.<delay frames="10" /> I'm busy
+moving<anim id="EmotEnd" target="actor" targetSpec="" /> <tag a="115" b="1" arg="0xcd01" />'s home at
+<tag a="115" b="0" arg="0xcd00" />'s request.</message>
+	<message label="513" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I'm sorry. <tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> asked
+<anim id="EmotEnd" target="actor" targetSpec="" />me to relocate the <colour id="1" />shop<colour id="65535" />, so<delay20 /><anim id="WrySmile" target="actor" targetSpec="" /> I'm
+rather busy with that at the moment.</message>
+	<message label="514" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I'm sorry. <tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> asked
+<anim id="EmotEnd" target="actor" targetSpec="" />me to relocate the <colour id="1" />museum<colour id="65535" />, so<delay20 /><anim id="WrySmile" target="actor" targetSpec="" /> I'm
+rather busy with that at the moment.</message>
+	<message label="515" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I'm sorry. <tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> asked
+<anim id="EmotEnd" target="actor" targetSpec="" />me to relocate the <colour id="1" />tailor shop<colour id="65535" />, so my<delay20 /><anim id="WrySmile" target="actor" targetSpec="" />
+paws are rather full at the moment.</message>
+	<message label="516" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I'm sorry. <tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" /> asked
+<anim id="EmotEnd" target="actor" targetSpec="" />me to relocate the <colour id="1" />campsite<colour id="65535" />, so I've<delay20 /><anim id="WrySmile" target="actor" targetSpec="" />
+got my paws full right now.</message>
+	<message label="521" attrib="00 00 00 00">Everything should be wrapped up by
+<colour id="1" />tomorrow<colour id="65535" />,<delay8 /> <anim id="Smiling" target="actor" targetSpec="" />so let's discuss this then.<delay frames="40" />
+Or whenever it's convenient.</message>
+	<message label="521_01" attrib="00 00 00 00">I do believe everything will be
+wrapped up by <anim id="Smiling" target="actor" targetSpec="" />tomorrow at the
+earliest, so<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> let's speak another day!</message>
+	<message label="521_02" attrib="00 00 00 00">If you pick a location today, we
+should be wrapped up by <colour id="1" />tomorrow<colour id="65535" />,<delay8 /><anim id="Smiling" target="actor" targetSpec="" />
+so let's discuss future requests then!</message>
+	<message label="1000" attrib="04 00 00 00">Excellent!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> And which building did you
+want to move?</message>
+	<message label="1000_a" attrib="00 00 00 00">An island home.</message>
+	<message label="1000_b" attrib="00 00 00 00">Shop.</message>
+	<message label="1000_c" attrib="00 00 00 00">Not now.</message>
+	<message label="1001" attrib="06 00 00 00">Excellent!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> And which building did you
+want to move?</message>
+	<message label="1001_a" attrib="00 00 00 00">An island home.</message>
+	<message label="1001_b" attrib="00 00 00 00">Shop.</message>
+	<message label="1001_c" attrib="00 00 00 00">Museum.</message>
+	<message label="1001_d" attrib="00 00 00 00">Not now.</message>
+	<message label="1002" attrib="06 00 00 00">Excellent!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> And which building did you
+want to move?</message>
+	<message label="1002_a" attrib="00 00 00 00">An island home.</message>
+	<message label="1002_b" attrib="00 00 00 00">Shop.</message>
+	<message label="1002_c" attrib="00 00 00 00">Tailors.</message>
+	<message label="1002_d" attrib="00 00 00 00">Not now.</message>
+	<message label="1003" attrib="06 00 00 00">Excellent!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> And which building did you
+want to move?</message>
+	<message label="1003_a" attrib="00 00 00 00">An island home.</message>
+	<message label="1003_b" attrib="00 00 00 00">Shop.</message>
+	<message label="1003_c" attrib="00 00 00 00">Campsite.</message>
+	<message label="1003_d" attrib="00 00 00 00">Not now.</message>
+	<message label="1004" attrib="08 00 00 00">Excellent!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> And which building did you
+want to move?</message>
+	<message label="1004_a" attrib="00 00 00 00">An island home.</message>
+	<message label="1004_b" attrib="00 00 00 00">Shop.</message>
+	<message label="1004_c" attrib="00 00 00 00">Museum.</message>
+	<message label="1004_d" attrib="00 00 00 00">Tailors.</message>
+	<message label="1004_e" attrib="00 00 00 00">Not now.</message>
+	<message label="1005" attrib="08 00 00 00">Excellent!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> And which building did you
+want to move?</message>
+	<message label="1005_a" attrib="00 00 00 00">An island home.</message>
+	<message label="1005_b" attrib="00 00 00 00">Shop.</message>
+	<message label="1005_c" attrib="00 00 00 00">Museum.</message>
+	<message label="1005_d" attrib="00 00 00 00">Campsite.</message>
+	<message label="1005_e" attrib="00 00 00 00">Not now.</message>
+	<message label="1006" attrib="08 00 00 00">Excellent!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> And which building did you
+want to move?</message>
+	<message label="1006_a" attrib="00 00 00 00">An island home.</message>
+	<message label="1006_b" attrib="00 00 00 00">Shop.</message>
+	<message label="1006_c" attrib="00 00 00 00">Tailors.</message>
+	<message label="1006_d" attrib="00 00 00 00">Campsite.</message>
+	<message label="1006_e" attrib="00 00 00 00">Not now.</message>
+	<message label="1007" attrib="0a 00 00 00">Excellent!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> And which building did you
+want to move?</message>
+	<message label="1007_a" attrib="00 00 00 00">An island home.</message>
+	<message label="1007_b" attrib="00 00 00 00">Shop.</message>
+	<message label="1007_c" attrib="00 00 00 00">Museum.</message>
+	<message label="1007_d" attrib="00 00 00 00">Tailors.</message>
+	<message label="1007_e" attrib="00 00 00 00">Campsite.</message>
+	<message label="1007_f" attrib="00 00 00 00">Not now.</message>
+</msbt>

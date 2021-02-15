@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Sneezing" target="actor" targetSpec="" />HIYAA<tag a="110" b="0" /><delay20 />CHOOO!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Yuck!<delay20 /> Some snot flew out!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh, <tag a="110" b="5" />?<delay20 /> Need something,
+<tag a="110" b="3" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Yo!<delay20 /> It's so COLD,<delay20 /> but you're so
+bouncy! <delay20 /><anim id="Serious" target="actor" targetSpec="" />I can't let my greatest
+rival outdo me, <tag a="110" b="5" />!<pageBreak /><anim id="Cheering" target="actor" targetSpec="" />WOOOO-HOOOO!<delay20 /> WINTER!<delay20 /> YEAAAH!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />How do you like <tag a="110" b="8" />
+on a snowy day, <tag a="110" b="5" />?<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Pretty awesome, yeah?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00">I love snow!<delay frames="40" /> <anim id="Eh" target="actor" targetSpec="" />Hang on<tag a="110" b="0" /><delay20 /> Am I<tag a="110" b="0" /><delay20 />
+trembling?<delay frames="40" /> <anim id="Shaking" target="actor" targetSpec="" />Guess I'm more excited
+for snow than I thought!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

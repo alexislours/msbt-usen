@@ -1,0 +1,46 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00">Hey there!<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> Do you live around here?<10_4 />
+Oh, you're<anim id="Nodding" target="actor" targetSpec="" /> visiting from<delay20 />
+<tag a="110" b="9" />?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm <tag a="110" b="10" /> and
+I live here! <anim id="SmugFace" target="actor" targetSpec="" /><pageBreak />Well,<delay20 /> I actually<delay20 /> just moved
+here today!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I can't really show you around<delay20 />
+since I'm new,<delay20 /> but I hope <anim id="Greeting" target="actor" targetSpec="" />ya have
+fun visiting, <tag a="110" b="6" />!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hi!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />I just<delay20 /> moved to this island today.
+My name's <tag a="110" b="10" />, but
+you can call me <tag a="110" b="10" />!<pageBreak /><anim id="Hello" target="actor" targetSpec="" />You're <tag a="110" b="2" />?<delay frames="40" />
+Nice to meet ya, <tag a="110" b="2" />!
+Mind if I call ya <tag a="110" b="2" />? <pageBreak />Where do you live on the island?<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />You live on a DIFFERENT island?<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />Ohh, I gotcha. <delay20 />You're visiting<delay20 />
+from <tag a="110" b="9" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />A huh huh huh, I move to a new
+island, and the first friend I make
+is from ANOTHER island!<pageBreak />I'm so lucky, <tag a="110" b="6" />!</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00">Hey!<delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" /> I'm <tag a="110" b="10" />!<delay frames="50" />
+<anim id="Explain" target="actor" targetSpec="" />I just moved to<delay20 /> <tag a="110" b="8" />
+today! It's pretty good so far!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />You're visiting from<delay20 /> another island?<delay frames="50" />
+A huh huh huh, <delay20 />nice to meet ya!<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />Isn't this island great?<delay frames="40" /> The trees
+here don't recognize me yet, so
+that's pretty nice, <tag a="110" b="6" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I haven't seen you before!<delay frames="40" /> Did you
+<anim id="QuestionMark" target="actor" targetSpec="" />just move here?<10_4 /> <anim id="TakenAback" target="actor" targetSpec="" />Do you <delay8 />belong<delay8 /> here?<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Ohh, <delay20 />YOU'RE <tag a="110" b="2" />!<delay20 />
+I heard you were visiting!<delay frames="50" />
+<anim id="Greeting" target="actor" targetSpec="" />I'm <tag a="110" b="10" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="8" /> is the best,
+<tag a="110" b="6" />, so enjoy your
+time here!</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00">Huh?<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> Who are you?<delay frames="60" />
+<anim id="Aha" target="actor" targetSpec="" />Are you a visitor?<pageBreak /><anim id="Cheering" target="actor" targetSpec="" /><delay20 />Nice to meet ya, <tag a="110" b="3" />!<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />I'm <tag a="110" b="10" />, and I <delay8 />live
+here with my bug friends!</message>
+	<message label="002_03" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Hey,<delay20 /> are you the one <delay20 />visiting
+from <tag a="110" b="9" />?<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />You're <tag a="110" b="2" />, yeah?
+<anim id="Smiling" target="actor" targetSpec="" />I knew it!<delay frames="40" /> When I first saw you,
+I said, <delay20 /><anim id="Confused" target="actor" targetSpec="" />"I<tag a="110" b="0" />don't know that person."<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I thought maybe you were a spy or
+something<tag a="110" b="0" /> But what would you be
+spying on?<delay40 /> <anim id="Eh" target="actor" targetSpec="" />I didn't know!<pageBreak />THEN I remembered hearing we have
+a visitor who is definitely <delay8 />NOT a spy! <pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Anyway, I'm <tag a="110" b="10" />!<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Welcome to <tag a="110" b="8" />!<delay frames="40" />
+Enjoy your non-spying stay!</message>
+</msbt>

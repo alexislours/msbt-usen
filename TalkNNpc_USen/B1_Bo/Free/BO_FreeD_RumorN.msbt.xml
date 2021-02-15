@@ -1,0 +1,131 @@
+<msbt attribsize="8">
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />Have you seen the land I just saw?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Do you think it's for sale?<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> I think it's
+for sale. <10_4 />If it's for sale, someone will
+probably buy it, huh?<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />That means someone new would live
+on the island! <delay frames="160" /><anim id="EmotEnd" target="actor" targetSpec="" />And they might know
+about snacks I don't know about!<pageBreak /><anim id="Clapping" target="actor" targetSpec="" />Oh man, oh man, I'm so excited!<delay frames="160" />
+New snacks, <tag a="110" b="5" />!<delay frames="120" />
+<anim id="Cheering" target="actor" targetSpec="" /><delay20 />NEW! SNACKS!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="003_01" attrib="00 00 00 00 00 00 00 00">I was out for a walk and saw land
+for sale. I already have some land,
+but I guess there's more now.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Ya know what they say, "Never buy
+land, they'll just make more of it."</message>
+	<message label="003_02" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Didja hear?<delay frames="40" /> There's some land for
+sale on the island!<delay20 /> That means
+somebody new will move here soon.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I can't wait to meet whoever buys it.<delay20 />
+I'll show 'em all the good places to
+smell stuff on the island!</message>
+	<message label="003_03" attrib="00 00 00 00 00 00 00 00">Some land's on sale over there!<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />That means we might get a new
+snackbuddy real soon.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />An island fulla snackbuddies<tag a="110" b="0" /><delay20 />
+That'd be real neat. <anim id="AbsentMindedness" target="actor" targetSpec="" /><delay20 />Just real
+darn neat, <tag a="110" b="5" />.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><delay20 />Somebody bought the land that was
+for sale! <anim id="HappyDance" target="actor" targetSpec="" />Someone named, um, uh<tag a="110" b="0" />
+<tag a="115" b="1" arg="0xcd00" />?<delay frames="40" /> Yeah! That!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I can't wait to say hi, <delay20 />and tell <gender3 m="him" f="her" />
+my name, <delay20 />and ask about <gender3 m="his" f="her" /> most
+favorite snack.<delay20 /> <anim id="HappyFlower" target="actor" targetSpec="" /><delay20 />I'm so excited!<delay frames="160" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005_02" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" /><delay20 />Big news! The biggest! Somebody
+bought that land that was on sale!<pageBreak />Somebody with the name
+of <tag a="115" b="1" arg="0xcd00" />!<pageBreak />Wow! With a <anim id="AbsentMindedness" target="actor" targetSpec="" />name like that, <gender3 m="he" f="she" />
+could be an astronaut<tag a="110" b="0" /><delay20 />or a secret
+agent<tag a="110" b="0" /><delay20 />or a snack designer!<pageBreak />I can't wait to meet our new
+neighbor, <tag a="110" b="3" />!</message>
+	<message label="005_03" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Guess what!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Somebody bought that
+land that was on sale that nobody
+else had bought yet!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Somebody called <tag a="115" b="1" arg="0xcd00" />!<delay frames="40" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I mean, SUPPOSEDLY that's <gender3 m="his" f="her" /> real
+name. <anim id="Laughing" target="actor" targetSpec="" /><delay frames="40" />Who knows, <tag a="110" b="6" />!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />We got a new friend living here now!<delay20 />
+Well, they're going to be our <anim id="Laughing" target="actor" targetSpec="" />friend
+once we tell them they're our friend!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />Oh man! Stuff's getting real lively
+in friendly, old <tag a="110" b="8" />!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay frames="40" /> Have ya met
+the new neighbor yet?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm gonna grab my best snacks and
+swing on by to say, "Heya!
+Welcome! Wanna taste this?"<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I heard once that it's the nicest
+way to say hello!</message>
+	<message label="007_02" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" /><delay20 />Somebody new moved here today!<anim id="Explain" target="actor" targetSpec="" />
+I went to go see 'em,<delay20 /> but they were
+"cleaning house."<pageBreak />Anyhoo, I gotta give it a shot some
+time. <anim id="BigSmile" target="actor" targetSpec="" /><delay20 />I love trying new food and stuff
+from other cultures, <tag a="110" b="6" />.</message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00">Have you talked to the new person
+who moved here today?<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />I'm gonna talk with them looots!<delay20 /> I'm
+gonna talk to 'em till they're sick of
+me, and we'll be bestest friends!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Off I go, <tag a="110" b="5" />!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="008_01" attrib="85 03 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><delay20 /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" />'s birthday is
+coming up soon!</message>
+	<message label="008_02" attrib="85 03 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" />'s birthday is only
+a few snacks away!</message>
+	<message label="008_03" attrib="85 03 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" />'s birthday is
+right around the corner, like
+a hungry shark. <delay20 />A<tag a="110" b="0" /><anim id="Eh" target="actor" targetSpec="" /><delay20 />birthday shark!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="901" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />The <tag a="90" b="36" arg="0xcd00" /> of this month!<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />It's a super
+real special, darn-neat day that only
+comes once a year, <tag a="110" b="6" />!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="009_01" attrib="0a 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><delay20 /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" />'s birthday is
+coming up soon!</message>
+	<message label="009_02" attrib="0a 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" />'s birthday is only
+a few snacks away!</message>
+	<message label="009_03" attrib="0a 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" />'s birthday is
+right around the corner, like
+a hungry shark. <delay20 />A<tag a="110" b="0" /><anim id="Eh" target="actor" targetSpec="" /><delay20 />birthday shark!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />The <tag a="90" b="36" arg="0xcd00" /> of next month!<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />We gotta
+party with everybody, <tag a="110" b="5" />.
+I'm talkin' <delay20 />every<anim id="Pardon" target="actor" targetSpec="" /><delay20 />body!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="011_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Tomorrow's <tag a="115" b="1" arg="0xcd00" />'s
+birthday!<10_4 /> I hope <gender3 m="he" f="she" /> likes
+my present.<pageBreak />I got it for <gender3 m="him" f="her" /> awhile back, then hid
+it in the floor for the bugs to guard.<delay20 />
+I got it out, and it was full of bugs!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" /><delay20 />But it's OK.<pageBreak />I talked to the bugs about "respect"
+and "boundaries" <anim id="BigSmile" target="actor" targetSpec="" />and all the other
+words I hear when I get in trouble!</message>
+	<message label="011_02" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Tomorrow's <tag a="115" b="1" arg="0xcd00" />'s
+birthday! <10_4 /><anim id="Hello" target="actor" targetSpec="" /><delay20 />Did you get <gender3 m="him" f="her" /> a gift?<pageBreak />I thought real hard on it, but I could
+only think of stuff I want!<10_4 /> <anim id="ShyBoy" target="actor" targetSpec="" /><delay20 />I hope <gender3 m="he" f="she" />
+likes <tag a="135" b="7" arg="0xcd00" />.</message>
+	<message label="011_03" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><delay20 />Tomorrow's <tag a="115" b="1" arg="0xcd00" />'s
+birthday!<delay20 /> And tomorrow starts at
+midnight tonight!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So I'm gonna go to <gender3 m="his" f="her" /> place after
+midnight <anim id="Laughing" target="actor" targetSpec="" />and start yelling "HAPPY
+BIRTHDAY!" outside <gender3 m="his" f="her" /> window.<pageBreak /><anim id="Explain" target="actor" targetSpec="" /><delay20 />Don't let nobody lie to ya. Folks
+love late night surprises.</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="012_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Didja hear, <tag a="110" b="3" />?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> is moving
+away tomorrow.<pageBreak /><tag a="50" b="3" /><gender3 m="he" f="she" /> says <gender3 m="he's" f="she's" /> real sad <gender3 m="he's" f="she's" /> gotta
+leave. But! <tag a="50" b="3" /><gender3 m="he's" f="she's" /> real happy I'm
+gonna keep living here!</message>
+	<message label="012_02" attrib="00 00 00 00 00 00 00 00"><tag a="115" b="1" arg="0xcd00" /> is gonna be
+moving away tomorrow.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Some folks say moving away is
+a total downer.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" /><delay20 />But some folks
+need to move away!</message>
+	<message label="012_03" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> is moving away.<delay20 />
+<anim id="Sighing" target="actor" targetSpec="" />Tomorrow.<pageBreak /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" />'s real cool.<delay20 />
+<anim id="Serious" target="actor" targetSpec="" /><delay20 />Cool folks shouldn't leave. <delay8 />They
+oughta just hang out forever.</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="013_01" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" />'s moving today.<delay20 />
+That makes me sad, man.<pageBreak />Ya know<tag a="110" b="0" />maybe that's gonna be my
+superhero name now. <anim id="SadSpiral" target="actor" targetSpec="" /><delay20 />"Sad-Man."</message>
+	<message label="013_02" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Today's the day <tag a="115" b="1" arg="0xcd00" />
+leaves the island.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Do you know manners? What's the
+right way to say "goodbye"?
+Or<tag a="110" b="0" /> "I'll miss you"? Or<tag a="110" b="0" /><pageBreak />"Where'd ya keep your snacks?
+<delay20 />Are there any crumbs there? <delay20 />And can
+ya please give me a minute alone?"</message>
+	<message label="013_03" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Today's the day, <tag a="110" b="3" /><tag a="110" b="0" />
+<tag a="115" b="1" arg="0xcd00" />'s moving away.<pageBreak />It's a shame when a friend leaves
+too soon. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />But then somebody new
+usually shows up, and that's neat.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" /><delay20 />Like Grandma says<tag a="110" b="0" /> When one
+chapter ends, another begins.<delay frames="40" />
+Unless it's the end of the book.<pageBreak />Then ya gotta read a new book so
+the chapter thing makes sense again.<10_4 />
+<anim id="BigSmile" target="actor" targetSpec="" />Yep. That's what she says.</message>
+</msbt>

@@ -1,0 +1,20 @@
+<msbt attribsize="8">
+	<message label="101" attrib="00 00 0c 01 00 00 00 00"><anim id="Assent" target="actor" targetSpec="" />Alright! <delay20 />Bring it, <tag a="110" b="5" />!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Whaddaya got?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="102" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />There!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />OK, what's up, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="103" attrib="00 00 0c 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />There we go, <tag a="110" b="5" />!<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />How's it going?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="201_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hang on, <tag a="110" b="3" />.<delay20 /> Let me
+get a quick leg flex in.</message>
+	<message label="201_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh, hey!<delay20 /> Hang on a sec.</message>
+	<message label="201_03" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Wait,<delay8 /> I wanna stand.<delay20 /> I'm practicing
+gold-medal-acceptance poses today.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I've been doing clenches for an hour.<delay20 />
+Let's see if I can still stand<tag a="110" b="0" /></message>
+	<message label="202_02" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />! <delay20 />Hold on
+a second.</message>
+	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's probably enough sit-squatting
+for now.<delay20 /> One sec, <tag a="110" b="3" />.</message>
+</msbt>

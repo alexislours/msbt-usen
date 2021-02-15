@@ -1,0 +1,17 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Whoa! What was that?<pageBreak /><anim id="Angry" target="actor" targetSpec="" />If you're gonna hit me, at least
+give me a heads-up. <delay20 /><anim id="Thinking" target="actor" targetSpec="" />Or, y'know<tag a="110" b="0" /><delay frames="40" /><anim id="Negative" target="actor" targetSpec="" />
+just DON'T hit me!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />! <delay20 />What was that?!<pageBreak /><anim id="Angry" target="actor" targetSpec="" />You're gonna mess up my hair
+and, like, my body!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Uh, can you NOT right now?<delay20 />
+Use your words, <tag a="110" b="3" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Uh, can you NOT right now?<delay20 />
+Use your words, <tag a="110" b="3" />!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hey, I'm not really a fan of that.<delay20 />
+Can you knock it off?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Sweet sassy <tag a="135" b="1" arg="0xcd00" /><tag a="110" b="0" /><delay frames="40" />
+<anim id="Outraged" target="actor" targetSpec="" />STOP THAT!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I don't like it! I never will!<delay20 />
+Get a new hobby or something!<delay20 />
+<anim id="OhGeez" target="actor" targetSpec="" />Yeesh<tag a="110" b="0" /></message>
+</msbt>

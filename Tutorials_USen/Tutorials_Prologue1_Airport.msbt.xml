@@ -1,0 +1,117 @@
+<msbt attribsize="3">
+	<message label="001_01" attrib="00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />Good morning!<anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay frames="40" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /> We're so excited to
+have you here!<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...have you here!<size value="100" /><endTag a="100" b="4" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="001_02" attrib="00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />Good afternoon!<anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay frames="40" /> <anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />We're so excited to
+have you here!<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...have you here!<size value="100" /><endTag a="100" b="4" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="001_03" attrib="00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />Good evening!<anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay frames="40" /> <anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />We're so excited to
+have you here!<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...have you here!<size value="100" /><endTag a="100" b="4" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="002_01" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Let us be the first to congratulate
+you <anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />on your wise decision to sign
+up for this adventure.
+Welcome<tag a="110" b="0" />to the check-in counter
+for your <anim id="Cheering" target="mainNpc" targetSpec="" /><anim id="Cheering" target="subNpc" targetSpec="" />Deserted Island Getaway
+Package!<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="BigSmile" target="mainNpc" targetSpec="" />There is so much to look forward to!<delay20 /><size value="75" />
+<anim id="Nodding" target="mainNpc" targetSpec="" /><size value="100" />But first, let us introduce ourselves.<delay frames="40" />
+<anim id="Greeting" target="mainNpc" targetSpec="" />I'm <colour id="3" />Timmy <colour id="65535" />with Nook Inc.</message>
+	<message label="002_02" attrib="00 00 00"><anim id="Greeting" target="subNpc" targetSpec="" />And I'm <colour id="3" />Tommy<colour id="65535" />!</message>
+	<message label="003_01" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />We'll be flying to the island with
+you to help you get settled.<pageBreak /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Think of us as your partners.
+We're in it for the long haul!<delay20 /><anim id="Serious" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />
+So, let's get started, <anim id="EmotEnd" target="mainNpc" targetSpec="" />shall we?</message>
+	<message label="003_02" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Now then, we'll need to look up
+your application.<delay20 /> <anim id="Hello" target="mainNpc" targetSpec="" /><anim id="Hello" target="subNpc" targetSpec="" />Can we have your
+<colour id="1" />name<colour id="65535" /> and <colour id="1" />birthday<colour id="65535" />?<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...birthday?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="003_03" attrib="00 00 00"><tag a="50" b="3" /><tag a="110" b="1" /><tag a="110" b="0" />
+<tag a="50" b="3" /><tag a="110" b="1" /><tag a="110" b="0" />
+Let's see<tag a="110" b="0" /><10_7 arg="100" /></message>
+	<message label="003_05" attrib="00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" /><delay40 />Oh! <delay20 />Yes, <delay20 /><anim id="Nodding" target="mainNpc" targetSpec="" />here you are!<delay20 /><anim id="FaintSmile" target="mainNpc" targetSpec="" /></message>
+	<message label="005_01" attrib="00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />Our next step will be to take a
+picture of you, <tag a="110" b="1" />.<pageBreak /><anim id="Eh" target="mainNpc" targetSpec="" />Oh, don't worry!<delay20 /><anim id="EmotEnd" target="mainNpc" targetSpec="" /> Take as much time
+as you need <anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />to get yourself looking
+just the way you want.
+<anim id="HappyFlower" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />We'll be ready when you are!<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...you are!<size value="100" /><endTag a="100" b="4" /><anim id="FaintSmile" target="mainNpc" targetSpec="" /></message>
+	<message label="005_02" attrib="00 00 00"><anim id="Clapping" target="mainNpc" targetSpec="" /><anim id="Clapping" target="subNpc" targetSpec="" />Great! You're all set.<anim id="Nodding" target="actor" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...all set!<size value="100" /><endTag a="100" b="4" /><pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />I'll just go ahead <anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />and add that
+picture to your records.</message>
+	<message label="006" attrib="00 00 00">And now<tag a="110" b="0" /><anim id="Nodding" target="mainNpc" targetSpec="" />let's start talking about
+your new home. <delay20 /><anim id="Smiling" target="mainNpc" targetSpec="" />So exciting!<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...exciting!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="007" attrib="00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />You see, we're quite proud of the
+work we've done to help you feel
+comfortable in your new life.
+<anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Oh yes!<delay20 /> In fact<tag a="110" b="0" />if you want, you
+can even experience the seasons
+the same way you're used to them.
+<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Nodding" target="mainNpc" targetSpec="" />What I mean is<tag a="110" b="0" />we have islands
+in both the <colour id="1" />northern hemisphere<colour id="65535" />
+and the <colour id="1" />southern hemisphere<colour id="65535" />.
+<anim id="Smiling" target="mainNpc" targetSpec="" /><delay20 /><anim id="Smiling" target="subNpc" targetSpec="" />We recommend choosing an island
+that has the same seasonal pattern
+as your current home!<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...current home!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="021" attrib="00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" />Now then<tag a="110" b="0" />all of our islands are
+approximately the same size, and
+they're all quite natural.
+<anim id="OhGeez" target="mainNpc" targetSpec="" />So, don't worry about whether you'll
+have enough space or comfort.<delay20 />
+<anim id="Smiling" target="mainNpc" targetSpec="" /><delay20 /><anim id="Smiling" target="subNpc" targetSpec="" />You can't go wrong!
+<anim id="HappyFlower" target="mainNpc" targetSpec="" />Just follow your instincts and choose<anim id="HappyFlower" target="subNpc" targetSpec="" />
+an island with a layout that looks
+appealing. <delay20 />That's how I'd do it!
+<anim id="Smiling" target="mainNpc" targetSpec="" /><delay20 /><anim id="Smiling" target="subNpc" targetSpec="" />I'll show you some maps now,
+and you can choose the best one
+for your new home!<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...new home!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="022" attrib="00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />Wonderful choice!<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...choice!<size value="100" /><endTag a="100" b="4" /><10_4 /> <anim id="HappyDance" target="mainNpc" targetSpec="" />I can't wait
+to<anim id="HappyDance" target="subNpc" targetSpec="" /> show it off to you.</message>
+	<message label="023" attrib="05 00 00"><anim id="WrySmile" target="mainNpc" targetSpec="" />Ah, but before we depart, I have
+just one final question for you<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" />If you could only bring ONE thing
+with you to a deserted island,<delay20 />
+<anim id="QuestionMark" target="mainNpc" targetSpec="" />what would it be?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...what would it be?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="023_a" attrib="00 00 00">A sleeping bag.</message>
+	<message label="023_b" attrib="00 00 00">A lamp.</message>
+	<message label="023_c" attrib="00 00 00">Some food.</message>
+	<message label="023_d" attrib="00 00 00">Something to kill time.</message>
+	<message label="024" attrib="00 00 00"><anim id="Thinking" target="actor" targetSpec="" />How interesting<tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay frames="40" /> <anim id="Blushing" target="actor" targetSpec="" />I'm sorry, that was just a
+hypothetical question.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Nook Inc. will fully cover all of your
+basic needs! <delay20 /><anim id="Nodding" target="subNpc" targetSpec="" />Yes, yes!</message>
+	<message label="025" attrib="00 00 1c"><tag a="100" b="7" />Your attention, please.<delay frames="40" />
+<anim id="Eh" target="mainNpc" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />This is a service announcement.<endTag a="100" b="7" /><10_8 arg="60" /></message>
+	<message label="025_01" attrib="00 00 1c"><tag a="100" b="7" />The chartered flight for Nook Inc.'s
+Deserted Island Getaway Package<delay frames="40" />
+is ready for boarding.<pageBreak />Any customers waiting to
+board<delay frames="40" /> should make their way
+to the gate<delay20 /> at this time.<endTag a="100" b="7" /></message>
+	<message label="025_02" attrib="00 00 1c"><tag a="100" b="7" />The chartered flight<delay8 /> to
+<tag a="110" b="8" /><delay frames="40" /> is ready
+for boarding.<pageBreak />Any customers wanting to board<delay frames="40" />
+should make their way to the gate<delay20 />
+at this time.<endTag a="100" b="7" /></message>
+	<message label="026" attrib="00 00 00"><anim id="Cheering" target="mainNpc" targetSpec="" /><anim id="Cheering" target="subNpc" targetSpec="" />Ah, perfect timing! <delay frames="40" />C'mon!<delay20 /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" /> Let's all
+board the plane together! <delay20 /><anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><size value="75" />...together!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="027_01" attrib="00 00 1f"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Good morning, everyone.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
+	<message label="027_02" attrib="00 00 1f"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Hello, everyone.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
+	<message label="027_03" attrib="00 00 1f"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Good evening, everyone.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
+	<message label="028" attrib="00 00 1f"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Thank you for taking this chartered
+flight as part of Nook Inc.'s Deserted
+Island Getaway Package.
+Please sit back, relax, and enjoy a
+complimentary video presentation
+about deserted-island life.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
+	<message label="028_01" attrib="00 00 1f"><tag a="100" b="6" /><100_3 arg="PlaneAnnounceOn" />Thank you for taking this chartered
+flight to <tag a="110" b="8" />.<pageBreak />Please sit back, relax, and enjoy a
+free video about Nook Inc.'s
+Deserted Island Getaway Package.<delay20 /><100_3 arg="PlaneAnnounceOff" /><endTag a="100" b="6" /></message>
+	<message label="101" attrib="00 00 00">Welcome<tag a="110" b="0" />to the check-in counter
+for your <anim id="Cheering" target="mainNpc" targetSpec="" /><anim id="Cheering" target="subNpc" targetSpec="" />big moving-day trip
+to <tag a="110" b="8" />!<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="BigSmile" target="mainNpc" targetSpec="" />There is so much to look forward to!<delay20 /><size value="75" />
+<anim id="Nodding" target="mainNpc" targetSpec="" /><size value="100" />But first, let us introduce ourselves.<delay frames="40" />
+<anim id="Greeting" target="mainNpc" targetSpec="" />I'm <colour id="3" />Timmy <colour id="65535" />with Nook Inc.</message>
+	<message label="102" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />The two of us are already living on
+<tag a="110" b="8" />. We're there to
+support everyone, including you!<pageBreak /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay20 /><anim id="FaintSmile" target="subNpc" targetSpec="" />Think of us as your partners. We're in
+it for the long haul!<delay20 /><anim id="Serious" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /> So, let's get
+started, <anim id="EmotEnd" target="mainNpc" targetSpec="" />shall we?<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...shall we?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="102_02" attrib="00 00 00"><anim id="Serious" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />Now, <delay20 />let's walk through the steps
+<anim id="EmotEnd" target="mainNpc" targetSpec="" />to get you moved onto the island!</message>
+	<message label="103" attrib="00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />That concludes everything we need
+to do here!<pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" />Don't worry! We'll give you an
+in-depth overview on island life<delay8 /><anim id="Nodding" target="subNpc" targetSpec="" /> once
+we're back on the ground!<anim id="Smiling" target="actor" targetSpec="" /><anim id="Smiling" target="actor" targetSpec="" /><tag a="100" b="4" /> <delay8 /><size value="75" />...ground!<size value="100" /><endTag a="100" b="4" /></message>
+</msbt>

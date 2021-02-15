@@ -1,0 +1,25 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Look at that<delay8 /><tag a="110" b="0" /> <anim id="Smiling" target="actor" targetSpec="" />You look great<delay20 /> in
+your <tag a="125" b="5" arg="0xcd00" />!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />So,<delay20 /> I need to say something<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />You should know how great your
+<tag a="125" b="5" arg="0xcd00" /><delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />looks
+on you!</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm so glad I got to see you<delay20 /> in your
+<tag a="125" b="5" arg="0xcd00" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Because you're rocking it!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I think that color you're wearing
+would go really well with <tag a="50" b="2" />
+<tag a="125" b="6" arg="0xcd00" /><delay8 /><tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I want to see if my hunch is right,<delay20 />
+so <anim id="Assent" target="actor" targetSpec="" />here's a gift for you.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You know what would go great<delay20 /> with
+what you're wearing?<pageBreak /><anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="6" arg="0xcd00" />!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Just to make sure you're not left
+exposed to the elements,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />here's
+<tag a="50" b="2" /><tag a="125" b="6" arg="0xcd00" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hope I chose well,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />You deserve nice things,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="002_03" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />If my gift makes you happy,<delay20 /> then
+I'm happy,<delay20 /> <tag a="110" b="5" />!</message>
+</msbt>

@@ -1,0 +1,53 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00">Hey, check it out. <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />I got you
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Glad I caught you! <delay20 />I got <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> that
+I didn't really need.</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, hey, <tag a="110" b="3" />. <delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />Check it
+out: <delay20 />weren't you looking for <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't think so.</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Was I?</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh! <delay20 />Just the buddy I wanted to see.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />There was a two-for-one
+<tag a="125" b="0" arg="0x0" /> deal<tag a="110" b="0" /><delay20 />
+<anim id="OhGeez" target="actor" targetSpec="" />but who really needs two?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />So I'm givin' you the extra!<delay frames="40" />
+<anim id="Restless" target="actor" targetSpec="" />Think of it as payback for all the
+times you've done me a solid.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />You always got my back, so this is
+kinda my way of repayin' the favor.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Gonna warn you now,<delay20 /> if you keep
+bein' nice to me,<delay20 /> this kind of thing's
+gonna keep happenin', <tag a="110" b="5" />!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />As soon as I saw it for sale,<delay20 /> I knew
+who it was really for, <tag a="110" b="5" />.<delay frames="40" />
+<anim id="Blushing" target="actor" targetSpec="" />Hope you find some use for it.</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Y'know how you'll already have
+something,<delay20 /> but then forget and buy
+another one? <delay frames="40" /><anim id="ShyBoy" target="actor" targetSpec="" />It's like that.
+<anim id="EmotEnd" target="actor" targetSpec="" />So it's cool, I promise. <delay20 /><anim id="TakenAback" target="actor" targetSpec="" />Oh, and I'm
+not tryin' to fob off my hand-me-
+downs on you! <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />This is the new one.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />We're not talking mint condition
+here, <delay frames="40" /><anim id="Assent" target="actor" targetSpec="" />but it'll be fine, <tag a="110" b="5" />.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />If you don't want it, just,<delay20 /> I dunno<tag a="110" b="0" /><delay20 />
+prank <tag a="110" b="11" arg="0xcd00" /> with it
+or something.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />This isn't weird, is it? <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />I mean,<delay20 /> you
+could pawn it off on someone else.<delay frames="40" />
+<anim id="Blushing" target="actor" targetSpec="" />I just thought you could use it.</message>
+	<message label="300" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You're kidding me. <delay20 />Weird! <delay20 /><anim id="Thinking" target="actor" targetSpec="" />I could
+swear I heard from someone you
+were after this.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Well, whatever. <delay frames="40" /><anim id="Explain" target="actor" targetSpec="" />Like it or not,
+it's yours now!</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Did you forget already? <delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />You must
+have a lot on your plate!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Pretty sure last time we talked you
+went on and on about how much you
+wanted it. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Would I make that up?</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />If you don't have room,<delay20 /> just flip it
+at the store, <tag a="110" b="5" />. <delay20 />
+I won't mind!</message>
+	<message label="303" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Whew. <delay20 />Feels good to help out a
+friend,<delay20 /> y'know <tag a="110" b="5" />?</message>
+	<message label="400" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />You don't have to keep it if you don't
+want, <tag a="110" b="5" />. <delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" />But if you decide
+to re-gift it,<delay20 /> I don't wanna know!</message>
+</msbt>

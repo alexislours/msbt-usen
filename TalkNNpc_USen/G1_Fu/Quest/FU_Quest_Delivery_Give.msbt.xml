@@ -1,0 +1,95 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Really?<delay frames="30" /> What could it be?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Guess it was nothing after all.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Huh.<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />I guess I did lend this
+to <tag a="115" b="1" arg="0xcd01" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Oh!<delay frames="30" /> Did I forget something at
+<tag a="115" b="1" arg="0xcd01" />'s place?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />This got sent to <tag a="115" b="1" arg="0xcd01" />?</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />For me,<delay20 /> from <tag a="115" b="1" arg="0xcd01" />?</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />This is from <tag a="115" b="1" arg="0xcd01" />?</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Look at that<delay8 /><tag a="110" b="0" /> <anim id="HappyFlower" target="actor" targetSpec="" />She actually
+wrapped it up<delay20 /> before she
+sent it back here with you!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">I thought she'd completely
+forgotten about this,<delay20 /> but
+<anim id="FaintSmile" target="actor" targetSpec="" />I guess she remembered.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I love that she wrapped it up<delay20 />
+before sending it back to me!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />She even wrapped it up to return it!<delay frames="30" />
+<anim id="FaintSmile" target="actor" targetSpec="" />She's so thoughtful,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00">I just assumed he'd forgotten
+about this,<delay20 /> but <anim id="FaintSmile" target="actor" targetSpec="" />he remembered!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />I thought he was too busy exercising
+to return this to me,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />but I was wrong!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I'm impressed that he bothered
+to wrap this<delay20 /> before returning it.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So thoughtful of him to wrap this<delay20 />
+before sending it back with you.</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks for taking the time to bring
+this back to me<delay20 />, <tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And please thank <tag a="115" b="1" arg="0xcd01" /><delay20 />
+when you see <gender3 m="him" f="her" />.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh,<delay20 /> my <tag a="125" b="0" arg="0x0" />!<delay frames="40" />
+I thought I'd lost it for good,<delay20 /> but
+<anim id="FaintSmile" target="actor" targetSpec="" />I guess I just left it behind.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Based on the weight of this,<delay20 />
+could it be<delay8 /><tag a="110" b="0" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />My <tag a="125" b="0" arg="0x0" />!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />I thought I'd lost this for good,<delay20 /> and
+<anim id="Oops" target="actor" targetSpec="" />I'd already bought a new one!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You came all this way,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />so you should
+have this one,<delay20 /> <tag a="110" b="3" />.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Thanks for taking the time
+to bring this back to me!</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Wait<delay8 /><tag a="110" b="0" /> Is this something I ordered?</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh,<delay20 /> my <tag a="125" b="0" arg="0x0" />!<delay frames="30" />
+<anim id="Smiling" target="actor" targetSpec="" />I forgot I ordered this until just now.</message>
+	<message label="303" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmmm.<delay20 /> I do remember placing an
+order for something,<delay20 /> but what<delay8 /><tag a="110" b="0" />?</message>
+	<message label="304" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />This is funny,<delay20 /> because I actually
+ordered this as a present for you!<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I never expected that you'd be the
+one delivering it!<delay frames="30" /> But since you're
+here with it now, uh<delay8 /><tag a="110" b="0" /> <anim id="FaintSmile" target="actor" targetSpec="" />Surprise?</message>
+	<message label="305" attrib="00 00 02 00 00 00 17 00"><colour id="4" />Should I open this now?<colour id="65535" /></message>
+	<message label="305_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Sure, why not?</message>
+	<message label="305_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Maybe later.</message>
+	<message label="306" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />It's nothing fancy,<delay20 /> so feel free to
+<anim id="FaintSmile" target="actor" targetSpec="" />take it home and open it up later.</message>
+	<message label="307" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" />I saw it and thought it would look
+better on you,<delay20 /> <tag a="110" b="3" />.</message>
+	<message label="308" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I guess I thought you might like
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.</message>
+	<message label="309" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I thought that might look good
+in your home,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Use it,<delay20 /> if it's something you want.</message>
+	<message label="313" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I thought that seemed like a thing
+you'd like,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />so I ordered it for you.</message>
+	<message label="400" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What could this be?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Guess I should
+just go ahead and open it to see<delay8 /><tag a="110" b="0" /></message>
+	<message label="401" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<delay frames="30" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Oh,<delay20 /> I just love anything in this color!</message>
+	<message label="402" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<delay frames="30" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Wow,<delay20 /> I love this kind of thing!</message>
+	<message label="403" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<delay frames="30" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I guess they do understand me<delay8 /><tag a="110" b="0" /></message>
+	<message label="404" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> thanks for
+bringing me <anim id="FaintSmile" target="actor" targetSpec="" />this
+gift from <tag a="115" b="1" arg="0xcd01" />.<delay frames="30" />
+I need to find and thank <gender3 m="him" f="her" /> as well!</message>
+	<message label="405" attrib="00 00 00 00 00 00 00 00">Thanks for being there for both
+me and <tag a="115" b="1" arg="0xcd01" />.<pageBreak />I hope it felt good <anim id="HappyFlower" target="actor" targetSpec="" />to play
+peacemaker,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="411" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd01" /> just<delay8 /><tag a="110" b="0" />gets me.</message>
+	<message label="412" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm touched<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />by how much
+thought she put into this.</message>
+	<message label="413" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I wish my taste in gift giving<delay20 /> was as
+refined as <tag a="115" b="1" arg="0xcd01" />'s!<pageBreak /><anim id="Love" target="actor" targetSpec="" />She's my etiquette idol!</message>
+	<message label="414" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Aw<delay8 /><tag a="110" b="0" /> <tag a="115" b="1" arg="0xcd01" /> went out of
+her way for me?</message>
+	<message label="415" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd01" /> really chose this
+for me?</message>
+	<message label="416" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd01" /> probably jogged
+to get this<delay8 /><tag a="110" b="0" /></message>
+	<message label="417" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Just imagine <tag a="115" b="1" arg="0xcd01" />,<delay20 />
+gift-shopping<delay8 /><tag a="110" b="0" /></message>
+	<message label="418" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd01" /> must take forever
+choosing gifts.</message>
+</msbt>

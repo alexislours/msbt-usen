@@ -1,0 +1,19 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hi, <tag a="110" b="3" />!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />What a
+coinkydink, running into you here!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay frames="50" /> <anim id="EmotEnd" target="actor" targetSpec="" />You here to see
+the bugs?<delay frames="40" /> Ha! Me too! They're
+weird little goobers.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay frames="40" /> It's totally
+wild running into you here!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />It's <tag a="110" b="3" />!<delay frames="50" /> <anim id="FaintSmile" target="actor" targetSpec="" />So you like
+fossils? I totes understand. Dead
+things in rocks are pretty fab!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="006" attrib="00 00 0c 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Out shopping, <tag a="110" b="3" />?<delay frames="50" />
+<anim id="Smiling" target="actor" targetSpec="" />I, like, LOVE window-shopping here!<10_4 />
+And regular shopping too.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You here to check out new clothes
+too, <tag a="110" b="3" />? Nice.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />OH!<delay frames="40" /> Can I coordinate your outfit?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Gasp! No.<delay20 /> Let me coordinate
+your<tag a="110" b="0" /><delay20 />EVERYTHING.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" /><size value="75" />Let me make you fabulous, <tag a="110" b="5" />!<size value="100" /><setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+</msbt>

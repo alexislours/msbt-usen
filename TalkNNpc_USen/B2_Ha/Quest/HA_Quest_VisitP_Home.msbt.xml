@@ -1,0 +1,60 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yo! I'm comin' in!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Helloooo, <tag a="110" b="3" />!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />,
+I'm comin' in!</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00">Hey, <tag a="110" b="3" />!
+It's me, <tag a="110" b="10" />!<10_7 arg="120" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />!
+It's <tag a="110" b="10" />!<10_7 arg="120" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00">Yo, <tag a="110" b="3" />! Need some
+muscle? It's <tag a="110" b="10" />!<10_7 arg="120" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00">Heeey, <tag a="110" b="3" />! It's
+<tag a="110" b="10" />! You there?<10_7 arg="120" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />! You home, bud?<10_7 arg="120" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><tag a="110" b="0" />Maybe they went to the gym?<10_7 arg="120" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><tag a="110" b="0" />Guess <tag a="110" b="3" /> isn't
+home. Oh well! There's
+still time for quick run.<10_7 arg="120" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Rise and shine, <tag a="110" b="3" />!<delay frames="40" />
+<anim id="Sleepy" target="actor" targetSpec="" /><delay20 />Maybe it's a bit early, <tag a="110" b="5" />.</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Morning, <tag a="110" b="3" />!<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Hope I'm not too early!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay frames="40" /><anim id="ShyBoy" target="actor" targetSpec="" /> Sorry for
+showing up so late, <tag a="110" b="6" />.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Hey, sorry I'm here so late<tag a="110" b="0" />or
+early?<delay frames="40" /> <anim id="Sleepy" target="actor" targetSpec="" /><delay20 />Whoa<tag a="110" b="0" /> I've gotta be up
+for my morning workout soon.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, I almost forgot! <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />I brought you a
+gift.<delay20 /> Here you go!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey! I've got a gift for you. <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />Enjoy!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh right, I brought this for you. <delay20 />It's
+a gift! <delay frames="40" /><anim id="Blushing" target="actor" targetSpec="" />Classy, right?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Saw it at the store next to the
+protein shakes.<delay20 /> Thought you'd
+like it, <tag a="110" b="5" />!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I hope you like it!<delay20 /> I wanted to make
+sure I got you the right one.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<pageBreak />You look pumped, <tag a="110" b="5" />!</message>
+	<message label="200" attrib="00 00 02 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Hey! <delay20 />Wanna play a game
+or something?</message>
+	<message label="200_a" attrib="00 00 00 00 00 00 00 00">Sure!</message>
+	<message label="200_b" attrib="00 00 00 00 00 00 00 00">Not now, thanks.</message>
+	<message label="201" attrib="00 00 02 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />! Since I'm
+here,<delay20 /> wanna play a game?</message>
+	<message label="201_a" attrib="00 00 00 00 00 00 00 00">Sounds fun!</message>
+	<message label="201_b" attrib="00 00 00 00 00 00 00 00">I'll pass.</message>
+	<message label="202" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />So, <tag a="110" b="3" />! Wanna play a
+game?<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Bet ya can't beat me!</message>
+	<message label="202_a" attrib="00 00 00 00 00 00 00 00">You're on!</message>
+	<message label="202_b" attrib="00 00 00 00 00 00 00 00">You're probably right...</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />I get it.<delay20 /> I am pretty intimidating.<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />I mean, check out these biceps,
+<tag a="110" b="5" />! Ha!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Mind if I look around, then?</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Not interested?<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> No problem.<delay20 /> If
+it's alright, I'm just going to look
+around, <tag a="110" b="6" />.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If you're not into it, then you're not
+into it! <delay20 />All good, <tag a="110" b="5" />.<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /> We'll
+just take it easy, then.</message>
+</msbt>

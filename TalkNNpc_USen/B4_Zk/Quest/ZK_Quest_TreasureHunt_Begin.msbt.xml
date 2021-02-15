@@ -1,0 +1,143 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Hey, I've got a few minutes and
+some treasure, so<tag a="110" b="0" />let's do a
+treasure hunt!<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />You interested?</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00">Yeah!
+Let's do this!</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">I'm kinda busy...
+<anim id="Apologize" target="player" targetSpec="" />Not right now.</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I've got a few minutes without
+anything on my calendar<tag a="110" b="0" /><delay20 /> <anim id="IdeaBulb" target="actor" targetSpec="" />We
+should play a game or something!
+<anim id="QuestionMark" target="actor" targetSpec="" />Whaddaya say? <delay20 />You in for a
+treasure hunt?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">Sounds great!
+Ooh! Yeah!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">I'm kinda busy...
+<anim id="Apologize" target="player" targetSpec="" />Not right now.</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You up for something kind of weird
+and challenging?<delay frames="40" /> <anim id="Scheming" target="actor" targetSpec="" />Then I have got
+a treasure hunt for YOU!</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">Yeah!
+Let's do this!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Sorry, not interested.
+<anim id="Apologize" target="player" targetSpec="" />Not right now.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Alright!<delay20 /> I knew you'd be all
+about this.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />OK, I'm gonna need you to wait
+here for a bit while I make some
+preparations<tag a="110" b="0" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, alright! <delay20 />I knew
+you were the right person for
+something goofy like this.
+<anim id="Grin" target="actor" targetSpec="" />OK, so<tag a="110" b="0" />just chill out for a little
+bit while I creep around and look
+for a spot to bury this thing.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Groovy!<delay20 /> Let's get to it.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />I'm gonna go scope out a place
+to hide this secret present.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Maybe I shouldn't have told you
+that it was a secret present,<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />but
+that ship has sailed.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh, wait<tag a="110" b="0" />it's the middle of the
+night! <delay20 /><anim id="Negative" target="actor" targetSpec="" />We can't do a treasure hunt
+in the dark.<delay20 /> Maybe another time?</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Ah, no worries. <delay20 />Maybe another time.</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Hey, I'm not gonna twist your arm.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />You don't want to go digging around
+in the dirt for a random item. That's,
+like, your prerogative.</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Hey, it was just an idea. <delay20 />No prob.</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, let me tell you how this is
+gonna work. I buried some treasure
+somewhere on <tag a="110" b="8" />.<10_7 arg="240" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you can find the treasure before
+time runs out, you win. <delay20 />It's, uh,
+not actually that complicated.<10_7 arg="240" />
+<anim id="Shocked" target="actor" targetSpec="" />Oh! <delay20 />And the thing that you win is
+the thing that you dug up. <delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" />Like I
+said, not that complicated.<10_7 arg="300" /></message>
+	<message label="011_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, let me tell you how this is
+gonna work. I buried some treasure
+somewhere on <tag a="110" b="8" />.<10_7 arg="240" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you can find the treasure before
+time runs out, you win. <delay20 />It's, uh,
+not actually that complicated.<10_7 arg="240" />
+<anim id="Shocked" target="actor" targetSpec="" />Oh! <delay20 />And the thing that you win is
+the thing that you dug up. <delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" />Like I
+said, not that complicated.<10_7 arg="300" />
+<anim id="Eh" target="actor" targetSpec="" />One last thing!<delay20 /> <anim id="Silent" target="actor" targetSpec="" />This is supposed to
+be a battle of wits between you and
+me. <delay20 /><anim id="Negative" target="actor" targetSpec="" />That means no outside help.<10_7 arg="240" />
+<anim id="Serious" target="actor" targetSpec="" />Now, <delay8 />are you ready?<10_7 arg="300" /></message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, let me tell you how this is
+gonna work. I buried some treasure
+somewhere on <tag a="110" b="8" />.<10_7 arg="240" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you can find the treasure before
+time runs out, you win. <delay20 />It's, uh,
+not actually that complicated.<10_7 arg="240" />
+<anim id="Scheming" target="actor" targetSpec="" />I should tell you that I made it a
+little harder than usual this time,
+so good luck with that!<10_7 arg="300" /></message>
+	<message label="012_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, let me tell you how this is
+gonna work. I buried some treasure
+somewhere on <tag a="110" b="8" />.<10_7 arg="240" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you can find the treasure before
+time runs out, you win. <delay20 />It's, uh,
+not actually that complicated.<10_7 arg="240" />
+<anim id="Scheming" target="actor" targetSpec="" />I should tell you that I made it a
+little harder than usual this time,
+so good luck with that!<10_7 arg="300" />
+<anim id="Silent" target="actor" targetSpec="" />And it goes without saying that this
+is a battle of wits between you and
+me. <delay20 /><anim id="Negative" target="actor" targetSpec="" />That means no outside help.<10_7 arg="240" />
+<anim id="Serious" target="actor" targetSpec="" />Now, <delay8 />are you ready?<10_7 arg="300" /></message>
+	<message label="013" attrib="00 00 02 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You've done this before, right?<delay20 />
+Do you want a little refresher on
+how it works?</message>
+	<message label="013_a" attrib="00 00 00 00 00 00 00 00">Sure, just in case.</message>
+	<message label="013_b" attrib="00 00 00 00 00 00 00 00">Nah, I'm good.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Alright, we got a pro treasure
+hunter here! <delay20 />Good luck!<10_7 arg="90" /></message>
+	<message label="014_01" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Alright, we got a pro treasure
+hunter here! <delay20 />So then you won't even
+be tempted to ask for help, right?<10_7 arg="90" />
+<anim id="Smiling" target="actor" targetSpec="" />Right. <delay20 />Good luck!<10_7 arg="90" /></message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You know that this is gonna be a
+little tougher than usual, right?<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Good luck!<10_7 arg="90" /></message>
+	<message label="015_01" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You know that this is gonna be a
+little tougher than usual, right?<10_7 arg="90" /><pageBreak /><anim id="Silent" target="actor" targetSpec="" />Even so,<delay20 /> getting help from your
+friends is still off-limits<tag a="110" b="0" /><delay20 />
+<anim id="Grin" target="actor" targetSpec="" />This is just between you and me!<10_7 arg="90" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Good luck!<10_7 arg="90" /></message>
+	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Treasure hunt. <delay8 />Right now.<delay8 />
+You and me. <delay8 />What do you say?<delay8 />
+<anim id="Angry" target="actor" targetSpec="" />WHAT. <delay20 />DO. <delay20 />YOU. <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />SAY?!</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00">I SAY YES!</message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00">Uhh...no?</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Ughhh<tag a="110" b="0" />the ennui of everyday
+life is getting to me right now,
+<tag a="110" b="3" />.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />It's like, what am I doing here
+on <tag a="110" b="8" />?<delay20 /> <anim id="Frantic" target="actor" targetSpec="" />What am I
+doing with my LIFE?
+<anim id="Thinking" target="actor" targetSpec="" />I need to do something exciting.<10_4 />
+<anim id="IdeaBulb" target="actor" targetSpec="" />Like a treasure hunt!<delay8 /> We could do
+one right now! <delay8 />Are you in?!</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">Yeah, I'm in!</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">Er, sorry. Not now.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa, how did the day get away
+from me like that?<pageBreak /><anim id="Negative" target="actor" targetSpec="" />We can't start a treasure hunt at
+this hour. <delay20 />Maybe another time, OK?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Giddyup!<delay20 /> I'm off to bury the treasure!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00">C'est la vie. <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />I'm actually pretty
+busy right now anyway<tag a="110" b="0" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Wait, what am I thinking?<delay20 /> It's too
+late to get started with this now.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I'm gonna have to offer you
+a rain check, <tag a="110" b="3" />.</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That's my <tag a="110" b="3" />!<delay20 />
+I knew you'd be down to do
+something weird like this.
+<anim id="WrySmile" target="actor" targetSpec="" />Alright, stay put while I go locate
+the perfect burial site for this
+treasure, OK?</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Heh, that's alright. <delay20 />The real treasure
+was our friendship all along!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Something really weird is going on
+with the island, <tag a="110" b="3" />.<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />There's literally no place to bury
+my treasure! <delay20 /><anim id="Negative" target="actor" targetSpec="" />I guess we'll have to
+think of something else to do.</message>
+</msbt>

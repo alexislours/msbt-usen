@@ -1,0 +1,54 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />You found it!<delay20 /> Nice work,
+<tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Hand it over so I can bend the lock
+open for you, <tag a="110" b="5" />.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />That was quick!<delay20 /> I knew it'd be easy
+for you, <tag a="110" b="3" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I can muscle open that lock for you.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Hand it here, <tag a="110" b="5" />.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />You found it?!<delay frames="40" /> Guess I have
+some competition!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I can bend that lock open for you.<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Give it to me, <tag a="110" b="5" />.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I wonder what's inside<tag a="110" b="0" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Let's see what you found.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's find out what's in here.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<pageBreak />Congrats, <tag a="110" b="3" />!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<pageBreak />Congratulations, <tag a="110" b="3" />!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!
+<delay20 />Check THAT out!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Huh? Are you sure?<delay frames="40" /> <anim id="Frantic" target="actor" targetSpec="" />C'mon! Don't
+play with me, <tag a="110" b="5" />!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />OK, I'll just<tag a="110" b="0" /><delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Wait, what. No?</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Those don't open easy, eh?<delay20 /> Lucky for
+you, these glorious muscles aren't
+just for show.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />Hand it over.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Way to go, <tag a="110" b="3" />!<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />That
+was a blast! I can't wait for
+next time, <tag a="110" b="5" />.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You won fair and square. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />I can't
+wait for a rematch, <tag a="110" b="5" />!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />That was fun, <tag a="110" b="3" />!<delay frames="40" />
+<anim id="HappyDance" target="actor" targetSpec="" />We should do it again!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />And there's the buzzer. <delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" />Too bad!<delay20 />
+I really thought you had it.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Come back and try again
+anytime, <tag a="110" b="3" />!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ding, ding! <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />The round goes to
+me, <tag a="110" b="3" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Let me know when you're ready
+for a rematch, <tag a="110" b="5" />.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Time's up, <tag a="110" b="3" />! <delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />That
+was a close one.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Great hustle though!<delay20 /> Go hit the
+showers, <tag a="110" b="6" />!</message>
+	<message label="300" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />That's game!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Nice try, <tag a="110" b="5" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You really had me on the ropes for a
+second there.<delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" /> That was a lot of fun!</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Cheering" target="actor" targetSpec="" />Time's up, <tag a="110" b="3" />!<delay20 />
+So close!<pageBreak /><anim id="Hello" target="actor" targetSpec="" />If you ever want a rematch, you know
+where to find me, <tag a="110" b="6" />!</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> You were still looking?<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />I kinda got tired of waiting, so
+I started doing push-ups.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Better luck next time, <tag a="110" b="5" />!</message>
+	<message label="401" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh, you found it! <delay20 />Good for you!<delay frames="40" /><anim id="Restless" target="actor" targetSpec="" /> But
+the buzzer already went off, so I win.<delay20 />
+I can't let you keep that.</message>
+	<message label="402" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />But hey, it's all practice for next
+time.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Get that search time down and
+you've got this, <tag a="110" b="5" />!</message>
+</msbt>

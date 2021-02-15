@@ -1,0 +1,31 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 07 00 00"><tag a="60" b="7" arg="0x710 0x800 0xcd00" /></message>
+	<message label="002" attrib="00 00 00 01 00 03 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
+	<message label="003" attrib="00 00 00 01 00 04 00 00"><tag a="60" b="7" arg="0xb10 0xc00 0xcd00" /></message>
+	<message label="004" attrib="00 00 00 01 00 09 00 00"><tag a="60" b="7" arg="0xd10 0xe00 0xcd00" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />When you see rain puddles, <anim id="Scheming" target="actor" targetSpec="" /><delay20 />don't
+you just want to jump right in them?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hi again!<delay40 /> <anim id="Explain" target="actor" targetSpec="" />I don't tell a lot of folks
+this, but I am pretty much obsessed
+with the smell<tag a="110" b="0" /><anim id="Cheering" target="actor" targetSpec="" />of wet grass!<setNpcTalkChoices chatOption="0" cancelOption="1" /><delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 0c 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><delay20 />Sure is pouring down today, huh?<delay frames="60" />
+Sooooo you figure it'll stop soon?<pageBreak /><anim id="Angry" target="actor" targetSpec="" /><delay20 />Because I am going to FREAK OUT
+if it doesn't!</message>
+	<message label="009" attrib="00 00 0c 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />You're out for a walk too,
+<tag a="110" b="4" />?<delay40 /> <anim id="Laughing" target="actor" targetSpec="" />I'm going to
+declare you an honorary frog!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, <tag a="110" b="4" />?<delay40 /> <anim id="HappyDance" target="actor" targetSpec="" />If you want
+to get out of the rain, you can
+come hang out at my place!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />An umbrella? <delay40 />Why?<delay40 /> <anim id="IdeaBulb" target="actor" targetSpec="" />Oh! Don't worry!
+<delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />I'm—<delay20 />reasonably, I guess<delay20 />—waterproof.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My feet are going to get all wet
+today, aren't they, <tag a="110" b="6" /><tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="013" attrib="00 00 0c 00 00 00 00 00">♪ Nighttime!<anim id="EmotEnd" target="actor" targetSpec="" /><delay20 /> Is the right time!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />
+For frog time! <delay20 />IN THE<anim id="Dance" target="actor" targetSpec="" /> RAAAAAAIN! ♪<delay40 /><pageBreak />Do you like my song, <tag a="110" b="6" />?<10_4 />
+<anim id="Laughing" target="actor" targetSpec="" />I was hoping I'd find someone
+to sing it to!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="014" attrib="00 00 0c 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />We've got a rainy night tonight!<delay40 />
+Have fun out here, but be super
+careful, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

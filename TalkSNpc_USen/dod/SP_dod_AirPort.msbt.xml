@@ -1,0 +1,422 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey hey hey! <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Welcome to your one
+and only gateway to the skies,<delay frames="30" /><anim id="EmotEnd" target="actor" targetSpec="" />
+the <colour id="1" /><capitaliseNextWord /><tag a="10" b="13" /><tag a="110" b="9" /><endTag a="10" b="13" /> Airport<colour id="65535" />.
+<anim id="FaintSmile" target="actor" targetSpec="" />Nice to meetcha—<delay20 />I'm <colour id="3" />Orville<colour id="65535" />,
+ground crew for Dodo Airlines.<pageBreak />Dodo Airlines: <delay40 /><anim id="Assent" target="actor" targetSpec="" />the crew may be
+flightless<tag a="110" b="0" /><delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />but that doesn't mean
+YOU have to be!</message>
+	<message label="001_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If you want to visit another island
+or invite friends to this one, this
+here's the place to do it.</message>
+	<message label="001_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If you want to visit another island,
+invite friends to this one, or go on a
+Mystery Tour, this is the place to be.</message>
+	<message label="001_03" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oh! And we've also got a <colour id="1" />mail <colour id="65535" />service
+at this airport! <delay20 /><anim id="Grin" target="actor" targetSpec="" />Sometimes a letter's
+just better, you know?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you want to send someone a note,
+take a gander to your right. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />We got
+all kinds of cards at the <colour id="1" />card stand<colour id="65535" />!</message>
+	<message label="001_03_01" attrib="00 00 00 00">By the way<tag a="110" b="0" /><delay40 />
+you're <delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="110" b="1" />, right?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />It's a small island. <delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />Word gets around.</message>
+	<message label="001_03_02" attrib="00 00 00 00">I just got a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket <colour id="65535" />from
+<colour id="3" />Tom Nook<colour id="65535" /> with "<tag a="110" b="1" />"
+written on it, which makes it yours.<pageBreak />So if you want to use this ticket,
+you just gotta say the magic words
+"<colour id="1" />I wanna fly!<colour id="65535" />" Got it?</message>
+	<message label="001_03_03" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />So yeah, we've got a lotta services
+here, <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />but we can only offer 'em to
+residents.
+<anim id="Explain" target="actor" targetSpec="" />It can be in a tent, <delay20 />but you gotta live
+on the island. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Come talk to me when
+you're squared away on that.</message>
+	<message label="001_03_04" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Hey, look—I've been yappin' my beak
+for a while and you're busy playin'
+with your human friends. <delay20 /><anim id="Serious" target="actor" targetSpec="" />Sorry.
+<anim id="Hello" target="actor" targetSpec="" />But if you wanna visit another island
+or invite folks here,<delay20 /> just come back
+when you're not quite so<tag a="110" b="0" /><delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />sociable.</message>
+	<message label="001_04" attrib="04 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="110" b="0" />So. <delay frames="40" /><tag a="50" b="3" /><tag a="110" b="1" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You got
+anything to tell me?</message>
+	<message label="001_04_a" attrib="00 00 00 00">I wanna fly!</message>
+	<message label="001_04_b" attrib="00 00 00 00">I want visitors.</message>
+	<message label="001_04_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm all good right now.</message>
+	<message label="002" attrib="04 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey hey hey! <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Welcome to your one
+and only gateway to the skies,<delay frames="30" /><anim id="EmotEnd" target="actor" targetSpec="" />
+the <colour id="1" /><capitaliseNextWord /><tag a="10" b="13" /><tag a="110" b="9" /><endTag a="10" b="13" /> Airport<colour id="65535" />.
+<anim id="QuestionMark" target="actor" targetSpec="" />How can I help you out today?</message>
+	<message label="002_a" attrib="00 00 00 00">I wanna fly!</message>
+	<message label="002_b" attrib="00 00 00 00">I want visitors.</message>
+	<message label="002_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good, thanks.</message>
+	<message label="003" attrib="04 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey there again!<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What can I do
+you for?</message>
+	<message label="003_a" attrib="00 00 00 00">I wanna fly!</message>
+	<message label="003_b" attrib="00 00 00 00">I want visitors.</message>
+	<message label="003_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good, thanks.</message>
+	<message label="005" attrib="00 00 00 00"><snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />Roger!</message>
+	<message label="005_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />By the way, I got a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket
+<colour id="65535" />with your name on it behind the desk
+here, so use that whenever.</message>
+	<message label="005_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />By the way, it looks like you've
+got a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket<colour id="65535" /> on you,
+in case you feel like using that.</message>
+	<message label="006_01" attrib="04 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />just to get the paperwork all
+official, <anim id="QuestionMark" target="actor" targetSpec="" />where didja want to go?</message>
+	<message label="006_01_a" attrib="00 00 00 00">I wanna visit someone.</message>
+	<message label="006_01_b" attrib="00 00 00 00">Use <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket<colour id="65535" />.</message>
+	<message label="006_01_c" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="006_02" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />By the way, I got a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket
+<colour id="65535" />with your name on it behind the desk
+here, so use that whenever.</message>
+	<message label="006_02_a" attrib="00 00 00 00">I wanna visit someone.</message>
+	<message label="006_02_b" attrib="00 00 00 00">Use <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket<colour id="65535" />.</message>
+	<message label="006_02_c" attrib="00 00 00 00">Visit Harv's Island.</message>
+	<message label="006_02_d" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="006_03" attrib="04 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />just to get the paperwork all
+official, <anim id="QuestionMark" target="actor" targetSpec="" />where didja want to go?</message>
+	<message label="006_03_a" attrib="00 00 00 00">I wanna visit someone.</message>
+	<message label="006_03_b" attrib="00 00 00 00">Visit Harv's Island.</message>
+	<message label="006_03_c" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="006_04" attrib="06 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />just to get the paperwork all
+official, <anim id="QuestionMark" target="actor" targetSpec="" />where didja want to go?</message>
+	<message label="006_04_a" attrib="00 00 00 00">I wanna visit someone.</message>
+	<message label="006_04_b" attrib="00 00 00 00">Use <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket<colour id="65535" />.</message>
+	<message label="006_04_c" attrib="00 00 00 00">Visit Harv's Island.</message>
+	<message label="006_04_d" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="011" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey hey hey! <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Welcome to your one
+and only gateway to the skies,<delay frames="30" /><anim id="EmotEnd" target="actor" targetSpec="" />
+the <colour id="1" /><capitaliseNextWord /><tag a="10" b="13" /><tag a="110" b="9" /><endTag a="10" b="13" /> Airport<colour id="65535" />.
+<anim id="IdeaBulb" target="actor" targetSpec="" />Oh, it's you!<delay20 /><anim id="BigSmile" target="actor" targetSpec="" /> Good timing!</message>
+	<message label="021_01" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hm<tag a="110" b="0" /></message>
+	<message label="021_02" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hang on a sec—<delay8 />how'd you get
+in here?<delay20 /><anim id="Thinking" target="actor" targetSpec="" /> Coulda swore I locked
+the front door<tag a="110" b="0" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />Eh, doesn't matter. <delay20 />We're still getting
+set up in here, so<tag a="110" b="0" /><delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />there's no flights
+today.<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />Sorry 'bout that. <anim id="Nodding" target="actor" targetSpec="" />Should be open
+for flights tomorrow, though, <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />so be
+sure to come back then!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="031_01" attrib="00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Oh, you need to know what a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket <colour id="65535" />is good for?<delay40 /><anim id="Serious" target="actor" targetSpec="" />
+Friend, you've asked the right dodo.</message>
+	<message label="031_02" attrib="00 00 00 00">The <colour id="1" /><delay20 /><anim id="SmugFace" target="actor" targetSpec="" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket<delay20 /><colour id="65535" /> <anim id="Pardon" target="actor" targetSpec="" />is good for
+one Mystery Tour, a journey to the
+farthest reaches of the imagination!
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Could be anywhere from tiny islands
+to atolls—<delay20 /><anim id="Shocked" target="actor" targetSpec="" />there are no limits! <delay20 />Just
+any rock our pilot DARES to land on!
+<anim id="Explain" target="actor" targetSpec="" />We created this service for TRUE fans
+of uncharted land—for these folks,<delay20 /><anim id="Serious" target="actor" targetSpec="" />
+no island can be deserted ENOUGH.
+<anim id="Explain" target="actor" targetSpec="" />You can harvest anything you want,
+so bring your tools. And who knows,<anim id="BigSmile" target="actor" targetSpec="" /><delay8 />
+you might meet your next neighbor!
+<anim id="Serious" target="actor" targetSpec="" /><size value="75" />Tickets available only at <colour id="1" />Nook Stop<colour id="65535" />. Offer void
+where prohibited. Dodo Airlines does not
+assume responsibility for anything, ever.<size value="100" /></message>
+	<message label="032" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Aaaand that about sums up the epic
+thrill ride we call the Dodo Airlines<delay20 /><anim id="SmugFace" target="actor" targetSpec="" />
+Mystery Tour!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />So we can leave right now, if you
+got your tools ready and everything.
+<delay40 /><anim id="QuestionMark" target="actor" targetSpec="" />Whaddaya say?</message>
+	<message label="032_a" attrib="00 00 00 00">Time for takeoff!</message>
+	<message label="032_b" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="035" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So you wanna use your
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />Nook Miles Ticket<colour id="65535" />?<delay40 /> <snpcAnim id="DodRoger" target="actor" targetSpec="" />Roger!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="035_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />In that case,<delay20 /> I'll just take this ticket
+I got from <colour id="3" />Tom Nook<colour id="65535" /><tag a="110" b="0" /></message>
+	<message label="036" attrib="04 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'm ready to get you in the sky right
+this minute, but let's just check—
+<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />you all packed? <delay20 />Tools all ready?</message>
+	<message label="036_a" attrib="00 00 00 00">Time for takeoff!</message>
+	<message label="036_b" attrib="00 00 00 00">Can you tell me more?</message>
+	<message label="036_c" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="037" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><10_5 />Alright!<endTag a="10" b="5" /><delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Let's get you airborne.<10_8 arg="60" />
+</message>
+	<message label="037_01" attrib="00 00 00 00"><tag a="10" b="12" /><snpcAnim id="DodWireless" target="actor" targetSpec="" /><delay frames="30" /><100_3 arg="PlaneAnnounceOn" /><delay20 /><size value="75" />Dodo One, this is Dodo Tower<delay8 />—<colour id="3" />Wilbur<colour id="65535" />, you
+copy? <delay20 />Got a walker who needs wings, <delay frames="30" />over.<delay frames="90" />
+<colour id="5" />Roger!<delay20 /> Ready when you are!<colour id="65535" /><size value="100" /><delay20 /><100_3 arg="PlaneAnnounceOff" /><10_8 arg="40" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><delay frames="50" /><anim id="FaintSmile" target="actor" targetSpec="" />OK—<delay8 />have a good flight, friend!<delay frames="40" />
+And when you need to travel, just
+think,<snpcAnim id="DodRoger" target="actor" targetSpec="" /> "What would dodos do?"<delay frames="60" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="037_02" attrib="00 00 00 00" />
+	<message label="037_03" attrib="00 00 00 00" />
+	<message label="039" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh yeah, I totally understand!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Go get
+yourself prepped and ready before
+setting off, friend.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />Just come on back when you've
+got all your ducks in a row—<delay20 /><anim id="Blushing" target="actor" targetSpec="" />er,
+so to speak.</message>
+	<message label="090_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ah!<delay20 /> So you wanna go visit somebody
+on another island?</message>
+	<message label="090_02" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ah, you wanna have company over?<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Sounds like fun!</message>
+	<message label="091_01" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />So, the first time you connect with
+folks on another island, <delay20 />whether
+letting them in or visiting 'em<tag a="110" b="0" />
+<anim id="Restless" target="actor" targetSpec="" />The legal eagles say I gotta make
+sure you see some <colour id="1" />important info<colour id="65535" />.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />It's kinda long, <delay20 />but it's a big deal,<delay20 /><anim id="Serious" target="actor" targetSpec="" />
+so please read the whole thing.</message>
+	<message label="091_02" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Thanks for sticking with me through
+the yawnfest there.<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Let's move on to
+the next step<tag a="110" b="0" /></message>
+	<message label="091" attrib="00 00 00 00" />
+	<message label="101" attrib="04 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You wanna head to a nearby island
+on <colour id="1" />local play<colour id="65535" />,<delay20 /> or some far-off <delay20 />island
+using <colour id="1" />online play<colour id="65535" />?</message>
+	<message label="101_a" attrib="00 00 00 00">Via local play.</message>
+	<message label="101_b" attrib="00 00 00 00">Via online play.</message>
+	<message label="101_c" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="102" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh, drumsticks<tag a="110" b="0" /><delay frames="30" /> <anim id="Oops" target="actor" targetSpec="" />Looks like there
+aren't any islands we can take you
+to right now<tag a="110" b="0" /> <delay20 /><anim id="Worried" target="actor" targetSpec="" />Sorry about that.</message>
+	<message label="102_a" attrib="00 00 00 00">Try searching again.</message>
+	<message label="102_b" attrib="00 00 00 00">I'll try another time.</message>
+	<message label="103" attrib="00 00 00 00">Oh, hang on—<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />which island you
+wanna go to?</message>
+	<message label="104" attrib="04 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Looks like we got a flight for
+<tag a="115" b="2" arg="0xcd00" /> right now<tag a="110" b="0" /><delay frames="30" />
+<anim id="QuestionMark" target="actor" targetSpec="" />That where you wanted to go?</message>
+	<message label="104_a" attrib="00 00 00 00">Let's fly!</message>
+	<message label="104_b" attrib="00 00 00 00">Try searching again.</message>
+	<message label="104_c" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="105" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, I found the place<tag a="110" b="0" /><delay frames="30" />but it's at full
+capacity and<anim id="Worried" target="actor" targetSpec="" /> <tag a="115" b="2" arg="0xcd00" />'s
+not taking visitors right now.</message>
+	<message label="105_a" attrib="00 00 00 00">Can you check again?</message>
+	<message label="105_b" attrib="00 00 00 00">I'll try another time.</message>
+	<message label="106" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hang on!<delay20 /><anim id="Thinking" target="actor" targetSpec="" /> You need a special
+<colour id="1" />Dodo Code™<colour id="65535" /> to visit this island.<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Couldja gimme those four digits?</message>
+	<message label="107" attrib="02 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Oooh! Looks like that's not the
+Dodo Code™.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You wanna try
+entering it again?</message>
+	<message label="107_a" attrib="00 00 00 00">Let me try again.</message>
+	<message label="107_b" attrib="00 00 00 00">Eh, never mind.</message>
+	<message label="108" attrib="04 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Wuh-oh!<delay20 /><anim id="Thinking" target="actor" targetSpec="" /> Looks like we're getting
+interference<tag a="110" b="0" /> Hang on<tag a="110" b="0" /> <delay frames="40" /><anim id="Angry" target="actor" targetSpec="" /><size value="75" />Someone not
+put their NookPhone into airplane mode again?<size value="100" /></message>
+	<message label="108_a" attrib="00 00 00 00">Can you check again?</message>
+	<message label="108_b" attrib="00 00 00 00">What do you mean?</message>
+	<message label="108_c" attrib="00 00 00 00">I'll try another time.</message>
+	<message label="108_01" attrib="04 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Wuh-oh!<delay20 /><anim id="Thinking" target="actor" targetSpec="" /> Looks like we're getting
+interference<tag a="110" b="0" /> Hang on<tag a="110" b="0" /> <delay frames="40" /><anim id="Angry" target="actor" targetSpec="" /><size value="75" />Someone not
+put their NookPhone into airplane mode again?<size value="100" /></message>
+	<message label="108_01_a" attrib="00 00 00 00">Can you check again?</message>
+	<message label="108_01_b" attrib="00 00 00 00">What do you mean?</message>
+	<message label="108_01_c" attrib="00 00 00 00">I'll try another time.</message>
+	<message label="109" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Alrighty then—you're all set!<delay20 />
+And when you need to travel, just
+think,<snpcAnim id="DodRoger" target="actor" targetSpec="" /> "What would dodos do?"<10_7 arg="60" /></message>
+	<message label="110" attrib="04 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You wanna invite someone from a
+nearby island on <colour id="1" />local play<colour id="65535" /> or one
+from a far-off island via <colour id="1" />online play<colour id="65535" />?</message>
+	<message label="110_a" attrib="00 00 00 00">Via local play.</message>
+	<message label="110_b" attrib="00 00 00 00">Via online play.</message>
+	<message label="110_c" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="111" attrib="02 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Alright, gimme a sec to set up
+local play.</message>
+	<message label="111_a" attrib="00 00 00 00">Roger!</message>
+	<message label="111_b" attrib="00 00 00 00">Actually, never mind.</message>
+	<message label="112" attrib="02 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />You got it! <delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />I'll turn off the internet
+connection<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />and set things up for
+local play.</message>
+	<message label="112_a" attrib="00 00 00 00">Roger!</message>
+	<message label="112_b" attrib="00 00 00 00">Actually, never mind.</message>
+	<message label="113" attrib="04 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So, you want me to fling open the
+gates and let anyone using local
+play to come on in?<pageBreak /><anim id="Silent" target="actor" targetSpec="" />Or set a special <colour id="1" />Dodo Code™<colour id="65535" />
+<anim id="QuestionMark" target="actor" targetSpec="" />to keep out the riffraff?</message>
+	<message label="113_a" attrib="00 00 00 00">Fling 'em open!</message>
+	<message label="113_b" attrib="00 00 00 00">Let's set a code.</message>
+	<message label="113_c" attrib="00 00 00 00">Eh, never mind.</message>
+	<message label="114" attrib="00 00 00 00"><snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />Roger!<10_4 /> Alright—gimme a four-digit
+number.</message>
+	<message label="115_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You got it!<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Openin' the gate now<tag a="110" b="0" /></message>
+	<message label="115_02" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You got it<tag a="110" b="0" /><delay20 /><anim id="Shocked" target="actor" targetSpec="" />OH!</message>
+	<message label="116_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You got it!<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Openin' the gate now<tag a="110" b="0" /></message>
+	<message label="116_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Underst—<anim id="Shocked" target="actor" targetSpec="" />OH!</message>
+	<message label="117_01" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />See, <delay20 />we can't take off for an island
+if someone there is in the middle of
+talking or workin' on something.
+<anim id="Nodding" target="actor" targetSpec="" />If you try a few times and it keeps
+not connecting,<delay20 /> you might wanna
+just try it again later.
+<anim id="IdeaBulb" target="actor" targetSpec="" />Oh,<delay20 /> but if you can get ahold of your
+host a different way,<delay20 /> it might be
+quicker to send 'em a message!
+<anim id="Thinking" target="actor" targetSpec="" />Maybe something like, "<colour id="1" />I wanna come
+visit,<delay20 /> but first I need you to stop
+chatting and close your NookPhone<colour id="65535" />."
+<anim id="FaintSmile" target="actor" targetSpec="" />Just be sure to be diplomatic about
+it. <delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />Everybody gets lost in their
+phone sometimes, right?</message>
+	<message label="117_02" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />So did you want me to try again
+right now?</message>
+	<message label="117_02_a" attrib="00 00 00 00">Can you check again?</message>
+	<message label="117_02_b" attrib="00 00 00 00">Let's try another time.</message>
+	<message label="118_01" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />See, <delay20 />we can't take off for an island
+if someone there is in the middle of
+talking or workin' on something.
+<anim id="Nodding" target="actor" targetSpec="" />If you try a few times and it keeps
+not connecting,<delay20 /> you might wanna
+just try it again later.
+<anim id="IdeaBulb" target="actor" targetSpec="" />Oh,<delay20 /> but if you can get ahold of your
+host a different way,<delay20 /> it might be
+quicker to send 'em a message!
+<anim id="Thinking" target="actor" targetSpec="" />Maybe something like, "<colour id="1" />I wanna go
+home,<delay20 /> but first I need you to stop
+chatting and close your NookPhone<colour id="65535" />."
+<anim id="FaintSmile" target="actor" targetSpec="" />Just be sure to be diplomatic about
+it. <delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" />Everybody gets lost in their
+phone sometimes, right?</message>
+	<message label="118_02" attrib="02 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />So did you want me to try again
+right now?</message>
+	<message label="118_02_a" attrib="00 00 00 00">Can you check again?</message>
+	<message label="118_02_b" attrib="00 00 00 00">Let's try another time.</message>
+	<message label="120" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />You got it!<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Openin' the gate now.</message>
+	<message label="120_01" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Looks like you're busy doing
+<colour id="1" />Island Designer <colour id="65535" />stuff.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Sorry, but the regs say we can't let
+you use the <colour id="1" />Island Designer <colour id="65535" />app
+during flights or network play.
+<anim id="ShyBoy" target="actor" targetSpec="" />So I gotta shut that down for you.<delay20 />
+Thanks for understanding.</message>
+	<message label="120_02" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey, thanks for humoring us!<delay20 /><anim id="Blushing" target="actor" targetSpec="" /> The
+dodos at the other airports tease us
+when we make a mess.<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="121_01" attrib="00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Oh, dang it!<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />Looks like I forgot
+to check if you were using your
+<colour id="1" />Island Designer <colour id="65535" />app.
+<anim id="Worried" target="actor" targetSpec="" />You can't use that app during flights
+or network play, so<delay20 /> I'll go ahead and
+shut it down for ya<tag a="110" b="0" /></message>
+	<message label="121_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Appreciate your patience, pal.<delay20 /></message>
+	<message label="122" attrib="00 00 00 00"><snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />Openin' the gate now!</message>
+	<message label="125" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Just so you know, the gate's open,
+so visitors might show up anytime.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />There might even be folks you don't
+know—<anim id="Nodding" target="actor" targetSpec="" />it's a big ocean full of islands
+out there, after all.
+<anim id="Smiling" target="actor" targetSpec="" />So if you're playing with a pal and
+you want to keep out the rabble,
+<delay20 /><anim id="Scheming" target="actor" targetSpec="" />let me know and I'll close the gate.
+<anim id="FaintSmile" target="actor" targetSpec="" />Alright, you go enjoy yourself.<delay20 />
+<anim id="Laughing" target="actor" targetSpec="" />Don't dodo anything I wouldn't dodo!</message>
+	<message label="126" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Just give your Dodo Code™, <colour id="1" /><tag a="110" b="26" /><colour id="65535" />,
+to anybody you want to invite.<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> Makin'
+friends has never been so easy!</message>
+	<message label="130" attrib="02 00 00 00">Gotcha. <delay20 />Lemme just connect you
+to the ol' internet for some online
+play, then<tag a="110" b="0" /></message>
+	<message label="130_a" attrib="00 00 00 00">Roger!</message>
+	<message label="130_b" attrib="00 00 00 00">Actually, never mind.</message>
+	<message label="200" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey there again!<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What can I do
+you for?</message>
+	<message label="200_a" attrib="00 00 00 00">Please open the gate.</message>
+	<message label="200_b" attrib="00 00 00 00">End communications.</message>
+	<message label="200_c" attrib="00 00 00 00">Actually, I want to travel.</message>
+	<message label="200_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good, thanks.</message>
+	<message label="201" attrib="08 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey there again!<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What can I do
+you for?</message>
+	<message label="201_a" attrib="00 00 00 00">Please open the gate.</message>
+	<message label="201_b" attrib="00 00 00 00">End communications.</message>
+	<message label="201_c" attrib="00 00 00 00">I forgot my Dodo Code.</message>
+	<message label="201_d" attrib="00 00 00 00">Actually, I want to travel.</message>
+	<message label="201_e" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good, thanks.</message>
+	<message label="210" attrib="04 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey there again!<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What can I do
+you for?</message>
+	<message label="210_a" attrib="00 00 00 00">Please close the gate.</message>
+	<message label="210_b" attrib="00 00 00 00">Actually, I want to travel.</message>
+	<message label="210_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good, thanks.</message>
+	<message label="211" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey there again!<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What can I do
+you for?</message>
+	<message label="211_a" attrib="00 00 00 00">Please close the gate.</message>
+	<message label="211_b" attrib="00 00 00 00">I forgot my Dodo Code.</message>
+	<message label="211_c" attrib="00 00 00 00">Actually, I want to travel.</message>
+	<message label="211_d" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good, thanks.</message>
+	<message label="220" attrib="02 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, so instead of having visitors,
+<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />you wanna do some traveling?</message>
+	<message label="220_a" attrib="00 00 00 00">Yep, that's right.</message>
+	<message label="220_b" attrib="00 00 00 00">Eh, never mind.</message>
+	<message label="221" attrib="00 00 00 00" />
+	<message label="221_01" attrib="00 00 00 00" />
+	<message label="222" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />So you want to stop communication
+and close the gate? <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Well, we don't
+have any visitors, so no problem!</message>
+	<message label="223" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sure thing! <delay20 />The code right
+now is<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> "<colour id="1" /><tag a="110" b="26" /><colour id="65535" />"!</message>
+	<message label="251" attrib="00 00 00 00" />
+	<message label="252" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Gotcha.<delay20 /> If you want to let more
+company in,<delay frames="30" /><anim id="EmotEnd" target="actor" targetSpec="" /> just let me know
+<anim id="Hello" target="actor" targetSpec="" />and I'll open the gate up.</message>
+	<message label="261" attrib="00 00 00 00" />
+	<message label="262" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />When you're ready to close the gate,<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />just say the word.</message>
+	<message label="300" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey hey hey!<delay frames="60" /> <anim id="Nodding" target="actor" targetSpec="" />Hope you're ready to
+greet some company<anim id="FaintSmile" target="actor" targetSpec="" /> from another
+island.</message>
+	<message label="301" attrib="04 00 00 00">By the way,<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> is there anything I can
+do to help you out?</message>
+	<message label="301_a" attrib="00 00 00 00">Please open the gate.</message>
+	<message label="301_b" attrib="00 00 00 00">I forgot my Dodo Code.</message>
+	<message label="301_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good, thanks.</message>
+	<message label="302" attrib="04 00 00 00">By the way,<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> is there anything I can
+do to help you out?</message>
+	<message label="302_a" attrib="00 00 00 00">Please close the gate.</message>
+	<message label="302_b" attrib="00 00 00 00">I forgot my Dodo Code.</message>
+	<message label="302_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good, thanks.</message>
+	<message label="305" attrib="02 00 00 00">By the way,<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> is there anything I can
+do to help you out?</message>
+	<message label="305_a" attrib="00 00 00 00">Please open the gate.</message>
+	<message label="305_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm all set for now.</message>
+	<message label="306" attrib="02 00 00 00">By the way,<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> is there anything I can
+do to help you out?</message>
+	<message label="306_a" attrib="00 00 00 00">Please close the gate.</message>
+	<message label="306_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm all set for now.</message>
+	<message label="350" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey there, social butterfly! <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Glad to
+see you spending time with your
+fellow humans!
+<anim id="Explain" target="actor" targetSpec="" />Oh, but if you want to fly anywhere
+or invite anyone in, <delay20 />come talk to me
+when you're alone, wouldja?</message>
+	<message label="400" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Fixin' to travel to another
+island, huh?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Well, <delay frames="40" />you'll need someone to turn
+on "Communicating with Others"
+in Parental Controls.</message>
+	<message label="401" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Lookin' to invite a friend to the
+island, huh?<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Well, <delay frames="40" />you'll need someone to turn
+on "Communicating with Others"
+in Parental Controls.</message>
+	<message label="700" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Howdy! Always good to have
+visitors to <tag a="110" b="8" />!<delay40 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Can I help you with something?</message>
+	<message label="700_a" attrib="00 00 00 00">I want to go home.</message>
+	<message label="700_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good, thanks.</message>
+	<message label="701" attrib="00 00 00 00">Roger! <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Just lemme know when you
+wanna take off.</message>
+	<message label="800" attrib="00 00 00 00">Gotcha. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Well, come on back anytime!</message>
+	<message label="801" attrib="00 00 00 00">Understood. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Well, come on
+back anytime!</message>
+	<message label="802" attrib="00 00 00 00"><snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />Roger!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="810" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Alright.<delay20 /> Clear skies to ya!<10_7 arg="60" /></message>
+	<message label="900_01" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Huh? <delay40 />Harv's Island<tag a="110" b="0" /><10_4 />
+<anim id="Thinking" target="actor" targetSpec="" />Where could<tag a="110" b="0" /><delay40 /><anim id="Shocked" target="actor" targetSpec="" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />OH! <delay8 />I know!<delay40 /> You're talking about
+that island <colour id="3" />Harvey<colour id="65535" /> lives on!<delay40 />
+<snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />Roger that, good buddy!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="900_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Harv's Island?<delay frames="40" />
+<snpcAnim id="DodRoger" target="actor" targetSpec="" /><delay20 />Roger that, good buddy!<delay frames="50" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="901" attrib="02 00 00 00">I can set you up right now, but are
+you ready?<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> All packed and stuff?</message>
+	<message label="901_a" attrib="00 00 00 00">Time for takeoff!</message>
+	<message label="901_b" attrib="00 00 00 00">Actually, I'm good.</message>
+	<message label="903" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ah, gotcha. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Well, hope to see you
+flying with us another time. <delay20 />Toodles!</message>
+	<message label="998" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay20 />Oh, hang on a sec!<delay40 /> <anim id="Smiling" target="actor" targetSpec="" />If you wanna use
+our postal services, you gotta come
+over and hear the whole rigmarole.</message>
+	<message label="999_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hey hey hey! <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Welcome to your one
+and only gateway to the skies,<delay frames="30" /><anim id="EmotEnd" target="actor" targetSpec="" />
+the <colour id="1" /><capitaliseNextWord /><tag a="10" b="13" /><tag a="110" b="9" /><endTag a="10" b="13" /> Airport<colour id="65535" />.</message>
+	<message label="999_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />So yeah, we've got a lotta services
+here, <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />but we can only offer 'em to
+residents.
+<anim id="Explain" target="actor" targetSpec="" />It can be in a tent, <delay20 />but you gotta live
+on the island. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Come talk to me when
+you're squared away on that.</message>
+</msbt>

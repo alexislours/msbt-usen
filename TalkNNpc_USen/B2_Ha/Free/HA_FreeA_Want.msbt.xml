@@ -1,0 +1,49 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I'm looking for <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />, but<tag a="110" b="0" /><delay20 />
+no luck yet.<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />Hang on, what?!<delay20 /> You've got
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="WrySmile" target="actor" targetSpec="" />I heard a rumor that you picked up
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Hey<tag a="110" b="0" /> You wouldn't happen to have
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />,<delay20 />
+would you?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I'm not very subtle, huh?<delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" /> Yeah,
+I'm gonna need a replacement for
+my <tag a="125" b="0" arg="0x0" />.</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />You wanna maybe make a deal?<delay20 />
+Say, <tag a="90" b="21" arg="0x0" />, <tag a="110" b="5" />?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">Sure!
+OK.</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">No way.
+Sorry.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Sweet!<delay20 /> You're really coming through
+for me here!</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Alright, alright.<delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" /> Well, there's no harm
+in asking, I guess, <tag a="110" b="5" />.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Alright!<delay20 /> Super major win! <delay20 />Got
+my <tag a="125" b="0" arg="0x0" />!</message>
+	<message label="005_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Heh heh, awesome.<delay20 /> Got a
+sweet <tag a="125" b="0" arg="0x0" />.</message>
+	<message label="005_03" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Cool!<delay20 /> Got myself a new roommate!</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />You gotta make a deal with me,
+<tag a="110" b="3" />!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> How about
+<delay20 /><tag a="90" b="21" arg="0x0" />?</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">Sure!
+OK.</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">No way.
+Sorry.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Yes!<delay20 /> This is the kind of deal only a
+couple of true buds can put together.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="BrokenHeart" target="actor" targetSpec="" />I see<tag a="110" b="0" /><delay20 /> If it's no deal, it's no deal.<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />I'll take it like a pro, <tag a="110" b="5" />.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="105_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes! <delay20 />I finally got <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Thank you, <tag a="110" b="3" />!</message>
+	<message label="105_02" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Alright! I got
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Seriously.<delay20 /> Thank you, <tag a="110" b="6" />.</message>
+	<message label="105_03" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Yesss! This guy's gonna be my
+new roommate!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'll make sure he never forgets you,
+<tag a="110" b="3" />.<delay20 /> And I promise to
+take good care of him, <tag a="110" b="5" />.</message>
+</msbt>

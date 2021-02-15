@@ -1,0 +1,115 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, you got a minute?<delay20 /> Wanna go
+on a <anim id="Greeting" target="actor" targetSpec="" />treasure hunt with me?<delay40 /> To hunt
+for treasure?</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00">Sure!</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">Maybe later.</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You bored? I looked at ALL of the
+pictures in BOTH of my books,
+TWICE. <delay40 />So I'm pretty bored.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Ya wanna go on a treasure hunt
+with me?<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">I'm in!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">I can't right now.</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />I just had a great idea!<delay frames="60" /> <anim id="Smiling" target="actor" targetSpec="" />Wanna go
+hunt for some<delay20 /> treasure with me?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">Sounds good!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Maybe not right now.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Cool!<delay frames="40" /> I'm gonna go bury some
+treasure<delay8 /> somewhere on this island,<delay8 />
+so hold tight!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Cool!<delay frames="40" /> Hang out here<delay8 /> for a second,
+<delay frames="40" />and I'll go bury my treasure!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Yay! <delay8 />I'm gonna go bury a treasure
+box somewhere on the island!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> Maaaan, it's already dark!<10_4 />
+I guess it's too<delay8 /> dark to be
+burying things now.<delay20 /> 
+Also, it's way past my snack time.<delay40 />
+<anim id="BigSmile" target="actor" targetSpec="" />No worries. We'll hunt for treasure
+some other time, <tag a="110" b="6" />!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00">OK!<delay frames="40" /> Some other time,
+maybe, <anim id="FaintSmile" target="actor" targetSpec="" /><tag a="110" b="6" />!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's fine!<delay frames="40" /> I'll ask again sometime
+when you're not busy, <tag a="110" b="6" />!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00">No worries. <delay20 />I'm gonna go talk to
+some bugs now, <tag a="110" b="6" />!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />OK, so, the rules are real simple!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><10_7 arg="120" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you can find the treasure I buried
+before time runs out,<delay20 /> then<tag a="110" b="0" /><anim id="Clapping" target="actor" targetSpec="" />you win!<10_7 arg="120" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />The treasure's buried in dirt,<delay20 /> so don't
+go indoors! Folks get mad when<anim id="Negative" target="actor" targetSpec="" /> you
+try to dig in their floors.<10_7 arg="120" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />OK!
+Ready to hunt?<10_7 arg="240" /></message>
+	<message label="011_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />The rules are real simple. I know,
+'cause I made 'em.<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><10_7 arg="60" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />You gotta find the treasure I buried
+before time's up. <anim id="Clapping" target="actor" targetSpec="" />If ya can do that,
+then ya win!<delay20 /><10_7 arg="90" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />The treasure's buried in dirt, and not
+indoors. Most folks don't keep dirt
+indoors.<10_7 arg="90" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />Most folks don't like good ideas.<10_7 arg="90" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Also! <delay8 />This is you and me's serious
+treasure game, <delay20 /><anim id="Greeting" target="actor" targetSpec="" />so other folks can't
+help. They can only watch!<10_7 arg="90" /><pageBreak />Ready.<delay20 /> Set? <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />Gooooooooooo!<10_7 arg="120" /></message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />The rules are real easy!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><10_7 arg="60" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you find the treasure I buried<delay20 />
+before the clock runs out,<delay20 />
+<anim id="Laughing" target="actor" targetSpec="" />you win!<10_7 arg="90" />
+<anim id="Nodding" target="actor" targetSpec="" />The treasure is buried in the dirt,<delay20 />
+so no need to look indoors!<10_7 arg="90" /><pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Nobody'd let me bury it in their
+house. And I asked EVERYONE!<10_7 arg="90" /><pageBreak />Ya don't have as long to search
+this time, so good luck!<delay frames="40" />
+Alright, <delay8 />ready?<10_7 arg="90" /></message>
+	<message label="012_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />The rules, man, they're so simple!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><10_7 arg="60" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you find the treaure I buried<delay20 /> before
+the clock runs out,<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />you win! That's it!
+That's all the rules!<10_7 arg="90" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Oh. And the rule that the treasure
+is buried in dirt,<delay20 /> so don't look in
+buildings.<10_7 arg="90" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />Also! The rule that this is our game,<delay20 /><anim id="Greeting" target="actor" targetSpec="" />
+so there's no one around to help!
+You're on your own!<10_7 arg="90" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />There ain't as much time to search
+this go, OK? So be quick, and good
+luck!<delay frames="40" /> Alright, <delay8 />here we goooo!<10_7 arg="120" /></message>
+	<message label="013" attrib="00 00 02 00 00 00 00 00">Ummm,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />do you already know the
+treasure-hunting rules?</message>
+	<message label="013_a" attrib="00 00 00 00 00 00 00 00">Nope, tell me!</message>
+	<message label="013_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yup.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />A huh huh,<delay20 /> well, good luck!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Alright, <delay8 />get ready!<10_7 arg="60" /></message>
+	<message label="014_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />A huh huh,<delay20 /> good luck!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Oh yeah, <delay20 /><anim id="Explain" target="actor" targetSpec="" />and
+you're the only person who can dig
+up the treasure!<10_7 arg="90" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Alright,<delay8 /> get ready, <tag a="110" b="6" />!<10_7 arg="90" /></message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You don't have as much time<delay20 />
+to search, so it might be hard!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Ready? <delay8 />Good luck!<10_7 arg="60" /></message>
+	<message label="015_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You don't have as much time<delay20 />
+to search, so it might be hard!<10_7 arg="90" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Oh yeah, <delay20 /><anim id="Explain" target="actor" targetSpec="" />and you're the only person
+who can dig up the treasure!<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" />Anyone else has to just watch, OK?<10_7 arg="90" />
+<anim id="EmotEnd" target="actor" targetSpec="" />OK,<delay8 /> good luck, <tag a="110" b="6" />!<10_7 arg="90" /></message>
+	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Oh, it's <tag a="110" b="3" />!<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />I'm real glad to run into you!<delay frames="40" />
+I've been sooo bored!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Are you, like, free right now?<delay20 />
+We oughta play a game!<delay frames="60" />
+<anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Ya wanna do a treasure hunt?</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00">Sure!</message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00">Sorry, not now.</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I was<delay8 /> just trying to decide what<delay20 /> to
+play next<tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Hey, <delay8 /><tag a="110" b="4" />?<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />You wanna play a
+treasure-hunting game?</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">Sounds fun!</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">I'm good.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hang on! <delay frames="40" />It's already dark!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />We can't
+play if you can't see.<delay20 /> We'll have to
+try some other time, <tag a="110" b="6" />!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Cool! I was hoping you'd say yes!<anim id="FaintSmile" target="actor" targetSpec="" /><delay frames="40" />
+OK, <delay8 />hold on a second.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm gonna go bury my favorite<delay20 />
+treasure somewhere on the island!<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" /><delay20 /><anim id="Grin" target="actor" targetSpec="" />Stay here<tag a="110" b="0" /> And no peeking!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />OK, <delay20 />no worries!<delay frames="40" /> Some other
+time, <tag a="110" b="6" />!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh man!<delay8 /> It's kinda dark now, huh?<delay frames="40" />
+<anim id="Worried" target="actor" targetSpec="" />Guess you can't really see out here.<delay20 />
+<anim id="Negative" target="actor" targetSpec="" />We'll try it during the day sometime.</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />YAY!<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />I'm gonna bury the treasure
+somewhere on the island.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00">OK!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />We'll play some other time!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />I looked all over the island, but I
+couldn't find anywhere cool to
+bury the treasure!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Welp, if ya can't bury treasure,
+ya can't have a treasure hunt!</message>
+</msbt>

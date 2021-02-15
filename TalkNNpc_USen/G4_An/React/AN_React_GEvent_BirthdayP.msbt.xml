@@ -1,0 +1,17 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />There's
+someone sayin' they need
+something from you.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />You're hanging out with a friend
+right now, yeah?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />No biggie. <delay20 />It can
+wait for a bit, <tag a="110" b="5" />.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />Just make sure you come by
+later today, OK?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh hey, <tag a="110" b="3" />!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />You're
+hanging out with <tag a="115" b="0" arg="0xcd00" />
+right now, yeah?<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Can you tell 'em something
+for me, <tag a="110" b="5" />?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So, <delay20 />there's someone who REALLY
+wants to talk to them. <delay20 />Like, today.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />But they ALSO don't wanna interrupt
+<tag a="115" b="0" arg="0xcd00" />'s hang out time.<delay20 />
+<delay20 />Anyway, it seemed important.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Can you tell <tag a="115" b="0" arg="0xcd00" /> to
+swing by later today after you're
+done?<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />You rock, <tag a="110" b="3" />!</message>
+</msbt>

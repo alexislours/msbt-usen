@@ -1,0 +1,75 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> can you help?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You think picnics are fun,<delay20 /> right?<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />Help me convince <tag a="110" b="31" arg="0xcd01" />
+please,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />You kiddos,<delay20 /> with all your picnics and
+campouts.<delay40 /> Why drag all your <anim id="Negative" target="actor" targetSpec="" />inside
+stuff outdoors,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Being outside in the fresh air<delay20 /> makes
+eating a meal <anim id="Hello" target="actor" targetSpec="" />feel like an event!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And you wouldn't even have to cook!<delay40 />
+<anim id="Nodding" target="actor" targetSpec="" />I can make enough for everyone.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />What would you like me to make for
+you,<delay20 /> <tag a="110" b="31" arg="0xcd01" />?</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00">Now,<delay20 /> <anim id="ShyBoy" target="actor" targetSpec="" />I wouldn't want you fussin' over
+me,<delay20 /> young miss.<delay40 /><anim id="EmotEnd" target="actor" targetSpec="" /> Besides,<delay20 /> <anim id="Hesitate" target="actor" targetSpec="" />I wouldn't
+know what kinda chow to ask for!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 10 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It'd be no fuss at all,<delay20 /> <tag a="110" b="5" />!<delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />
+And maybe <20_2 arg="0" /><20_2 arg="3" /><tag a="110" b="3" /> has
+a lunch idea?</message>
+	<message label="005_a" attrib="00 00 00 00 00 00 00 00">A sandwich.</message>
+	<message label="005_b" attrib="00 00 00 00 00 00 00 00">Spring rolls.</message>
+	<message label="005_c" attrib="00 00 00 00 00 00 00 00">Hummus and pita.</message>
+	<message label="005_d" attrib="00 00 00 00 00 00 00 00">Salad.</message>
+	<message label="005_e" attrib="00 00 00 00 00 00 00 00">Banana roll-up.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><20_2 arg="2" /><20_3 arg="7" /><anim id="WrySmile" target="actor" targetSpec="" />A classic!<delay40 /> Still,<delay20 /> It's <anim id="Laughing" target="actor" targetSpec="" />gonna take a bit
+more'n that to fill me up!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Now, if you was to <anim id="Hesitate" target="actor" targetSpec="" />throw in one of
+your <anim id="FaintSmile" target="mainNpc" targetSpec="" />famous pies<delay8 /><tag a="110" b="0" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_2 arg="2" /><anim id="Thinking" target="actor" targetSpec="" />Hmmm<delay8 /><tag a="110" b="0" /> <20_3 arg="7" />Might work,<delay20 /> with somethin'
+a mite more filling to dip those in,<anim id="Grin" target="actor" targetSpec="" /><delay20 />
+like peanut butter,<anim id="Pardon" target="mainNpc" targetSpec="" /><delay20 /> <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="2" /><anim id="TakenAback" target="actor" targetSpec="" />Hummus?<delay20 /> <anim id="Worried" target="actor" targetSpec="" />Sounds kinda fancy for
+a picnic food,<delay20 /> <tag a="110" b="5" />!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" /><anim id="Hesitate" target="actor" targetSpec="" />But if we're going fancy,<delay20 /> you may as
+well whip us up<anim id="Grin" target="actor" targetSpec="" /> <anim id="FaintSmile" target="mainNpc" targetSpec="" />some of that yummy
+baklava to go along with it.</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><20_2 arg="2" /><anim id="Worried" target="actor" targetSpec="" />Salad seems like it'd be hard to eat
+outside.<delay40 /> <20_3 arg="7" /><anim id="Grin" target="actor" targetSpec="" />Unless we're talkin' about
+some kinda fruit salad<anim id="FaintSmile" target="mainNpc" targetSpec="" />,<delay20 /> in gelatin<delay8 /><tag a="110" b="0" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><20_0 arg="P0&gt;N1,N0&gt;N1" /><anim id="Negative" target="actor" targetSpec="" />No way am I eating kiddie food like
+that!<delay40 /> <20_3 arg="7" /><anim id="Hesitate" target="actor" targetSpec="" />Though I might go for a banana
+cream pie,<delay20 /> <anim id="FaintSmile" target="mainNpc" targetSpec="" />if you baked one for us<delay8 /><tag a="110" b="0" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">I feel like <anim id="Worried" target="actor" targetSpec="" />I could be better about
+writing to my parents.<pageBreak /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" />,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />do you write
+home a lot?</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">Not really,<delay20 /> no.<delay40 /> <anim id="Negative" target="actor" targetSpec="" />I ain't really the writin'
+sort<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /> 'Sides,<delay20 /> I don't <anim id="OhGeez" target="actor" targetSpec="" />honestly have
+much to write home about.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="FaintSmile" target="actor" targetSpec="" />Aw,<delay20 /> I'm sure they'd love just reading
+what you're up to,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00">Somethin' like this?<delay40 /> <anim id="AbsentMindedness" target="actor" targetSpec="" />"Dear Mom and
+Pop:<delay20 /> a neighbor of mine tells me<anim id="Eh" target="mainNpc" targetSpec="" /> that
+I should be writing to you more."</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Nodding" target="actor" targetSpec="" />Well,<delay20 /> that's a good start, sure<delay8 /><tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />But what would you say next?</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00">Next?<delay40 /> <anim id="OhGeez" target="actor" targetSpec="" />That's more or less all I'd
+have to tell 'em,<anim id="Sighing" target="mainNpc" targetSpec="" /><delay20 /> right there.</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Worried" target="actor" targetSpec="" />But<delay8 /><tag a="110" b="0" /> that just makes me sound like
+someone who nags you all the time!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" />Come on now.<delay40 /> <anim id="Grin" target="actor" targetSpec="" />My folks'd read that<delay20 />
+and know that I got neighbors <anim id="FaintSmile" target="mainNpc" targetSpec="" />tryin'
+to get me to do right by 'em,<delay20 /> is all.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />As the saying goes,<delay20 /> you catch more
+flies with honey<anim id="Nodding" target="actor" targetSpec="" /><anim id="Aha" target="subNpc" targetSpec="" /> than you can with
+vinegar,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Outraged" target="actor" targetSpec="" />Hey,<delay20 /> what's that supposed to mean?<anim id="TakenAback" target="mainNpc" targetSpec="" /><delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" />
+Do I really seem like <anim id="Sighing" target="actor" targetSpec="" /><anim id="Worried" target="mainNpc" targetSpec="" />that much of a
+sourpuss,<delay20 /> <tag a="110" b="31" arg="0xcd00" />?</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Sorry if I upset you.<delay40 /> <anim id="Hesitate" target="actor" targetSpec="" />I know you're
+sweet<delay20 /> when you <anim id="FaintSmile" target="actor" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />set your mind to it,<delay20 />
+<tag a="110" b="31" arg="0xcd01" />.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Maybe I should talk more like you<delay8 /><tag a="110" b="0" />
+When I'm jawin' with someone,<delay20 /> <anim id="Grin" target="actor" targetSpec="" />try
+to throw in a <tag a="110" b="5" /><anim id="Aha" target="mainNpc" targetSpec="" /> or two?
+<anim id="FaintSmile" target="actor" targetSpec="" />How's that sound,<anim id="Smiling" target="mainNpc" targetSpec="" /><delay20 /> <tag a="110" b="5" />?</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />That really does change the way you
+sound!<delay40 /> <anim id="FaintSmile" target="subNpc" targetSpec="" />It's so funny to hear you say
+"<tag a="110" b="5" />" like me.</message>
+</msbt>

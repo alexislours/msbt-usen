@@ -1,0 +1,125 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I don't know<delay8 /><tag a="110" b="0" /> I mean,<delay20 /> <anim id="Nodding" target="subNpc" targetSpec="" />I guess that
+could work.<delay40 /> <anim id="Sighing" target="actor" targetSpec="" />It's just,<delay20 /> you know<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Explain" target="mainNpc" targetSpec="" />I wanted something extra special,<delay20 />
+and that wouldn't really feel—<delay20 />
+<20_3 arg="6" /><anim id="Hello" target="mainNpc" targetSpec="" />Oh hey,<delay20 /> <tag a="110" b="3" />!<20_3 arg="8" /><anim id="Nodding" target="player" targetSpec="" />
+<anim id="Smiling" target="mainNpc" targetSpec="" />We're just trying to come up with <anim id="FaintSmile" target="subNpc" targetSpec="" />a
+good gift idea<delay20 /> for <tag a="110" b="11" arg="0xcd00" />.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />So far,<delay20 /> it's been kind of a struggle
+for us,<delay20 /> <tag a="110" b="5" />.<20_2 arg="4" /><pageBreak /><anim id="Restless" target="subNpc" targetSpec="" />Something store-bought<delay20 /> wouldn't
+have that personal touch we want<delay8 /><tag a="110" b="0" /><pageBreak /><20_3 arg="7" /><anim id="IdeaBulb" target="subNpc" targetSpec="" />Wait, I know!<20_2 arg="5" /><delay frames="40" /> We should ask for a gift
+suggestion from <tag a="110" b="3" />!</message>
+	<message label="003" attrib="00 00 10 00 00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" />That's a great idea,<delay20 /> <tag a="110" b="5" />!<20_2 arg="3" /><pageBreak /><20_3 arg="0" /><anim id="QuestionMark" target="mainNpc" targetSpec="" />What kind of surprise present would
+you<anim id="FaintSmile" target="subNpc" targetSpec="" /> like to get,<delay20 /> <tag a="110" b="3" />?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">A DIY <tag a="135" b="5" arg="0xcd00" />.</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="135" b="7" arg="0xcd00" />!</message>
+	<message label="003_c" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="135" b="1" arg="0xcd00" /> tower?</message>
+	<message label="003_d" attrib="00 00 00 00 00 00 00 00">A look-alike plush toy.</message>
+	<message label="003_e" attrib="00 00 00 00 00 00 00 00">A 100-flower bouquet.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Ooh, yeah!<delay20 /> I love it when someone
+gives me <20_2 arg="7" /><anim id="FaintSmile" target="subNpc" targetSpec="" />something<delay20 /> I haven't been
+able to track down for myself!<anim id="Nodding" target="player" targetSpec="" /><pageBreak /><20_3 arg="5" /><20_3 arg="7" /><anim id="Worried" target="mainNpc" targetSpec="" />But<delay20 /> how do we figure out
+what <tag a="110" b="11" arg="0xcd00" /> is having
+trouble finding?</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="subNpc" targetSpec="" />Good point<delay8 /><tag a="110" b="0" /> <20_2 arg="4" /><anim id="IdeaBulb" target="subNpc" targetSpec="" />What if we brought up
+a thing we can't find<delay20 /> while we're
+shopping with <tag a="110" b="11" arg="0xcd00" />?</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Great idea!<delay frames="40" /> <20_2 arg="3" />Maybe sharing our most
+desired,<delay20 /> hard-to-find item<delay20 /> <anim id="HappyFlower" target="mainNpc" targetSpec="" />will get
+<tag a="110" b="11" arg="0xcd00" /> to share <gender3 m="his" f="hers" />!
+<anim id="Smiling" target="subNpc" targetSpec="" />It'll be like an undercover mission
+from a spy novel,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="mainNpc" targetSpec="" />Oh!<delay frames="40" /> Why didn't we think of that?<20_2 arg="7" /><anim id="Smiling" target="subNpc" targetSpec="" /><delay40 />
+<anim id="HappyDance" target="mainNpc" targetSpec="" />We both love making sweet treats!<anim id="Nodding" target="player" targetSpec="" /><pageBreak /><20_3 arg="5" /><20_3 arg="7" /><anim id="Smiling" target="mainNpc" targetSpec="" />What could be a nicer gift<delay20 /> than
+a treat <anim id="Love" target="mainNpc" targetSpec="" />made in the kitchen with
+love and care,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" />It's a great excuse <20_2 arg="4" />to cook together!<delay40 />
+<anim id="IdeaBulb" target="subNpc" targetSpec="" />Let's get <anim id="FaintSmile" target="subNpc" targetSpec="" />together at my place<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Blushing" target="subNpc" targetSpec="" />I just bought this amazing mixer<delay20 />
+<anim id="FaintSmile" target="mainNpc" targetSpec="" />and I'm dying to try out all its
+special features,<anim id="Eh" target="mainNpc" targetSpec="" /><delay20 /> <tag a="110" b="5" />!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="mainNpc" targetSpec="" />Sounds great!<delay frames="40" /> <20_2 arg="3" />I just bought myself
+one of those fancy new dessert
+decorators <anim id="Aha" target="subNpc" targetSpec="" />too,<delay20 /> <tag a="110" b="5" />!<pageBreak /><anim id="Grin" target="mainNpc" targetSpec="" />It can hold over a quart of icing,<delay20 />
+<anim id="FaintSmile" target="subNpc" targetSpec="" />and the dispenser came with a wide
+assortment<delay20 /> of different tip styles!<anim id="FaintSmile" target="mainNpc" targetSpec="" />
+I can't wait to try it out,<delay20 /> so <anim id="Nodding" target="subNpc" targetSpec="" />I'll bring
+it with me<delay20 /> to your place!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00">It would be so elegant<delay20 /> <20_2 arg="7" /><anim id="AbsentMindedness" target="subNpc" targetSpec="" />to pour
+a waterfall of refreshment<delay20 /> down
+a tall tower of glasses.<pageBreak /><20_3 arg="5" /><20_3 arg="7" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="Thinking" target="mainNpc" targetSpec="" />Hmmm,<delay20 /> I'm not sure I have enough
+glassware at home to build a tower<delay8 /><tag a="110" b="0" /></message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Assent" target="subNpc" targetSpec="" />I'll bring over<20_2 arg="4" /> every last glass I own!<pageBreak /><anim id="QuestionMark" target="subNpc" targetSpec="" />Although I think it should be you<anim id="Eh" target="mainNpc" targetSpec="" /><delay20 />
+who pours the <tag a="135" b="1" arg="0xcd00" /> down
+the tower,<delay20 /> <tag a="115" b="1" arg="0xcd00" />!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="mainNpc" targetSpec="" />You really <20_2 arg="3" /><anim id="Nodding" target="subNpc" targetSpec="" />want me to,<delay20 /> <tag a="110" b="5" />?<pageBreak /><anim id="Worried" target="mainNpc" targetSpec="" />I just hope<delay20 /> I don't make a big mess.<anim id="Laughing" target="subNpc" targetSpec="" />
+<anim id="Hesitate" target="actor" targetSpec="" />No,<delay20 /> really!<delay frames="40" /> That could happen<delay8 /><tag a="110" b="0" />
+I can be really clumsy sometimes!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="mainNpc" targetSpec="" />What a fun idea,<delay20 /> <tag a="110" b="3" />!<pageBreak /><20_2 arg="7" />I know I'd love it<delay20 /> if somebody ever
+made me<anim id="Smiling" target="subNpc" targetSpec="" /><delay20 /> a mini plush toy of myself.<delay frames="40" />
+<20_3 arg="5" /><20_3 arg="7" /><anim id="Smiling" target="mainNpc" targetSpec="" />So how can we make that happen?</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" />I'll start<delay20 /> <20_2 arg="4" />by getting the fabric and
+other materials that we'll need.<pageBreak /><anim id="Thinking" target="subNpc" targetSpec="" />We'll have to draw a pattern first.<delay40 />
+It'd really help to have a picture of
+<tag a="110" b="11" arg="0xcd00" />,<delay20 /> for reference<delay8 /><tag a="110" b="0" /></message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00">Just leave that to me,<anim id="FaintSmile" target="subNpc" targetSpec="" /><delay20 /> <tag a="110" b="5" />.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />I love taking photos!</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />Who doesn't love a bouquet?<20_2 arg="7" /><delay frames="40" />
+<anim id="Thinking" target="mainNpc" targetSpec="" />But are there even a hundred
+flowers around here<delay20 /> to gather?</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="subNpc" targetSpec="" />That's a good question.<20_2 arg="4" /><delay frames="50" /><20_3 arg="5" /> <anim id="IdeaBulb" target="subNpc" targetSpec="" />I know!<pageBreak />We can just grow them ourselves!<anim id="Aha" target="mainNpc" targetSpec="" /><delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />I have all kinds of flower seeds!</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />That's great,<delay20 /> <tag a="110" b="5" />!<20_2 arg="3" /><delay40 /> <anim id="FaintSmile" target="subNpc" targetSpec="" />It's like
+you planned ahead!<pageBreak /><anim id="Scheming" target="mainNpc" targetSpec="" />Now we just need an out-of-the-way
+place<anim id="Nodding" target="subNpc" targetSpec="" /><delay20 /> to grow our flowers in secret<delay8 /><tag a="110" b="0" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />Thanks so much<anim id="Smiling" target="subNpc" targetSpec="" /> for your great gift
+idea and help,<delay20 /> <tag a="110" b="3" />!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">Why not make the most of it?<delay frames="40" />
+There's nothing like <anim id="Love" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />setting the
+perfect mood<delay20 /> for your reading.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="subNpc" targetSpec="" />I know!<delay frames="40" /> <20_2 arg="4" /><anim id="AbsentMindedness" target="subNpc" targetSpec="" />Picture this:<delay20 /> some light
+jazz, chocolates,<anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay20 /> and a <anim id="Blushing" target="subNpc" targetSpec="" />romance
+novel read by soft candlelight!
+<anim id="Sighing" target="actor" targetSpec="" />Oh,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="subNpc" targetSpec="" />What's your idea of the perfect
+setting,<delay20 /> <anim id="Eh" target="mainNpc" targetSpec="" /><tag a="115" b="1" arg="0xcd00" />?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />For me,<delay20 /> <20_2 arg="3" />it'd have to be <anim id="AbsentMindedness" target="mainNpc" targetSpec="" />out under
+a clear sky, <delay20 />full of stars<delay8 /><tag a="110" b="0" />and
+reading by the light <anim id="FaintSmile" target="mainNpc" targetSpec="" />of a lantern.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="subNpc" targetSpec="" />Wow,<delay20 /> <20_2 arg="4" />that sounds amazing!<delay40 />
+<anim id="FaintSmile" target="mainNpc" targetSpec="" />Now I want to try doing that.<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="mainNpc" targetSpec="" />Then why don't we <20_2 arg="3" />do it together?<delay frames="40" />
+<anim id="BigSmile" target="mainNpc" targetSpec="" />Like a book club,<delay20 /> under the stars!<anim id="FaintSmile" target="mainNpc" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="subNpc" targetSpec="" />Oh!<delay frames="40" /> <20_2 arg="4" />I would absolutely love that!
+<anim id="Restless" target="subNpc" targetSpec="" />But<delay8 /><tag a="110" b="0" /> What if it gets cloudy that
+night<delay20 /> and the stars aren't out?</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" />We'd still be reading outside after
+dark<20_2 arg="3" /><delay8 /><tag a="110" b="0" /> <anim id="Thinking" target="mainNpc" targetSpec="" />If that's not enough,<delay20 /> we
+could bring tea—<delay20 /> <anim id="Eh" target="subNpc" targetSpec="" />Oh,<delay20 /> and cookies!</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="subNpc" targetSpec="" />Hmmm. <20_2 arg="4" /><anim id="OhGeez" target="subNpc" targetSpec="" />Sounds more like teatime<delay20 />
+than a <anim id="Worried" target="mainNpc" targetSpec="" />starlight book club now<delay8 /><tag a="110" b="0" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />It could be both!<delay frames="40" /> We should wait<20_2 arg="3" /> for
+a stretch of good weather<delay20 /> <anim id="Nodding" target="mainNpc" targetSpec="" />and plan
+to meet up then,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00">OK,<delay20 /> sounds like we're all set.<delay frames="40" />
+<anim id="FaintSmile" target="mainNpc" targetSpec="" />I'll stop by your house with it
+as soon as I can,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="subNpc" targetSpec="" />Thanks!<delay20 /> This is going to be great!<20_2 arg="4" /><pageBreak /><anim id="Serious" target="subNpc" targetSpec="" />Wait—<delay20 />before you go, can I ask<delay8 /><tag a="110" b="0" />
+<anim id="QuestionMark" target="subNpc" targetSpec="" />Do you know that you're saying
+"<tag a="110" b="5" />"<anim id="Eh" target="mainNpc" targetSpec="" /><delay20 /> all the time?</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="mainNpc" targetSpec="" />Of course I know that,<delay20 /> silly!<20_2 arg="3" /><delay frames="40" />
+<anim id="FaintSmile" target="subNpc" targetSpec="" />I say that on purpose<delay20 /> because<anim id="SmugFace" target="mainNpc" targetSpec="" />
+it's my personal catchphrase.<pageBreak /><anim id="EmotEnd" target="subNpc" targetSpec="" />Saying "<tag a="110" b="5" />" cheers me up,<delay20 />
+<anim id="FaintSmile" target="mainNpc" targetSpec="" />and I like to think that it makes my
+friends happy too,<anim id="HappyFlower" target="subNpc" targetSpec="" /><delay20 /> <tag a="110" b="5" />!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" />Well,<delay20 /> if you're happy,<delay20 /> I'm happy.<20_2 arg="4" /><delay40 />
+<anim id="Nodding" target="subNpc" targetSpec="" />So I guess your catchphrase works!<anim id="Blushing" target="mainNpc" targetSpec="" /><pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="Hesitate" target="subNpc" targetSpec="" />Would you mind if I tried saying it?</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />Of course not!<delay40 /> <20_2 arg="3" />Why would I mind?<anim id="FaintSmile" target="subNpc" targetSpec="" />
+<anim id="Hesitate" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />,<delay20 /> I think it's flattering
+that you'd want to use it!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="subNpc" targetSpec="" />I just didn't want you to feel<delay20 /> like
+I was stealing your catchphrase
+to try to sound<anim id="Blushing" target="mainNpc" targetSpec="" /><delay20 /> as fun as you.<20_2 arg="4" /><pageBreak /><anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="FaintSmile" target="player" targetSpec="" />Since you don't mind,<delay20 /> let me just say
+that I'm really excited about our plan
+and<delay8 /><tag a="110" b="0" /> <anim id="Love" target="subNpc" targetSpec="" /><anim id="Smiling" target="actor" targetSpec="" />See you soon,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="mainNpc" targetSpec="" />I'm excited too!<delay40 /> <20_2 arg="3" /><anim id="FaintSmile" target="mainNpc" targetSpec="" />Guess I'll be seeing
+you again soon then,<delay20 /> <tag a="110" b="5" />.<anim id="Smiling" target="subNpc" targetSpec="" /><pageBreak /><anim id="Aha" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />Wow<delay8 /><tag a="110" b="0" /> <anim id="HappyFlower" target="mainNpc" targetSpec="" />We really do sound alike now!<anim id="Smiling" target="subNpc" targetSpec="" /></message>
+</msbt>

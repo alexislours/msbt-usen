@@ -1,0 +1,69 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> lookee here!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />How do I look,<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />wearin' my
+<tag a="125" b="5" arg="0xcd00" />?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Figured you might wanna see me
+wearin' this number,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Lookee here,<delay20 /> <tag a="110" b="3" />!<pageBreak />Go on,<delay20 /> have a gander <anim id="SmugFace" target="actor" targetSpec="" />at my
+<tag a="125" b="5" arg="0xcd00" />.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Not bad,<delay20 /> right?</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Whaddaya think?<delay frames="30" /> <anim id="FaintSmile" target="actor" targetSpec="" />Just tryin' out
+my <tag a="125" b="5" arg="0xcd00" />.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Suits me,<delay20 /> if I do say so myself.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> have a gander!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Wanna take a guess who I got my
+<tag a="125" b="5" arg="0xcd00" /> from?<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Nope,<delay20 /> it was <tag a="115" b="0" arg="0xcd00" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Claimed this is the style nowadays.<delay40 />
+Reckon I'll just have to <anim id="OhGeez" target="actor" targetSpec="" />take their
+word for that,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00">I hafta admit,<delay20 /> <anim id="Grin" target="actor" targetSpec="" /><tag a="115" b="0" arg="0xcd00" /> has
+pretty good taste.<pageBreak />That's who gave me my snazzy
+<tag a="125" b="5" arg="0xcd00" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Makes me feel fancy,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="003_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />So how do I look,<delay20 /> wearin' my
+<tag a="125" b="6" arg="0xcd00" />?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Reckon I'm satisfied,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="003_02" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Y'know,<delay20 /> I reckon I look as much as
+30 percent spiffier than usual<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />in my
+<tag a="125" b="6" arg="0xcd00" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You did me a solid,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="003_03" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />So<delay8 /><tag a="110" b="0" />whaddaya think?<delay frames="30" />
+Thought I'd <anim id="SmugFace" target="actor" targetSpec="" />try out my
+<tag a="125" b="6" arg="0xcd00" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I know I'm happy,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="004_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />How do I look,<delay20 /> <tag a="110" b="3" />?<pageBreak />Feast your eyes <anim id="SmugFace" target="actor" targetSpec="" />on my extra-classy
+<tag a="125" b="6" arg="0xcd00" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd01" />'s got pretty good
+taste,<delay20 /> right?</message>
+	<message label="004_02" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />See my <tag a="125" b="6" arg="0xcd00" />?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />From my pal <tag a="115" b="0" arg="0xcd01" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Reckon I'm lucky<delay20 /> to have friends
+with some fashion sense<delay8 /><tag a="110" b="0" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Why're you lookin' at me like that?
+Is it this getup? <delay20 /><anim id="Worried" target="actor" targetSpec="" />Is it too much?<delay8 /><pageBreak />Was hopin' I'd look more swanky<delay20 /> in
+my <tag a="125" b="5" arg="0xcd00" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, there,<delay20 /> <tag a="110" b="3" />!<pageBreak />Ain't I lookin' sharp<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />in my 
+<tag a="125" b="5" arg="0xcd00" />?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Takes guts and swagger<delay20 /> to pull off
+a bold look like this!<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Gone back to basics<delay20 /> with my 
+<tag a="125" b="5" arg="0xcd00" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Reckon I feel most comfortable<delay20 />
+in somethin' simple and classic.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm tryin' out<delay20 /> wearin' my
+<tag a="125" b="5" arg="0xcd00" />.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Makes an old cuss like me look
+distinguished,<delay20 /> don't it?<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00">Don't I look ready for the gym<delay20 /> <anim id="SmugFace" target="actor" targetSpec="" />in
+my <tag a="125" b="5" arg="0xcd00" />?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Just need someone to toss me<delay20 />
+the dadburn medicine ball<tag a="110" b="0" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00">Pardon me <anim id="SmugFace" target="actor" targetSpec="" />while I class up
+this island<delay20 /> by sportin' my
+<tag a="125" b="5" arg="0xcd00" />!
+<anim id="FaintSmile" target="actor" targetSpec="" />Don't I clean up nice?<delay40 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00">So,<delay20 /> whaddaya think of <anim id="EmotEnd" target="actor" targetSpec="" />my snazzy
+<tag a="125" b="5" arg="0xcd00" />?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />If I can pull this look off,<delay20 /> then I've
+still got it!<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />Just don't ask me what
+"it" is,<delay20 /> OK?<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />See my <tag a="115" b="3" arg="0xcd00" />?<delay frames="40" />
+Look familiar?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Well,<delay20 /> it oughta<delay8 /><tag a="110" b="0" /> <anim id="Cheering" target="actor" targetSpec="" />You designed it!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Lookin' mighty sharp,<delay20 /> aren't I?<delay40 />
+Maybe I should go into modelin'.<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Feast your eyes on my snazzy getup!<delay frames="40" />
+Original <tag a="115" b="0" arg="0xcd02" /> design.<delay40 />
+<anim id="SmugFace" target="actor" targetSpec="" />Cool,<delay20 /> right?
+<anim id="Nodding" target="actor" targetSpec="" />Comfy too,<delay20 /> <tag a="110" b="5" />.<delay40 /> Yeah,<anim id="FaintSmile" target="actor" targetSpec="" /><delay20 /> I just
+love my <tag a="115" b="3" arg="0xcd00" />.</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Got on a <tag a="115" b="0" arg="0xcd02" /> original
+from <tag a="115" b="5" arg="0xcd00" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Guess this particular design's called
+"<tag a="115" b="3" arg="0xcd00" />."<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you ask me,<anim id="SmugFace" target="actor" targetSpec="" /><delay20 /> it's named as cool as
+it looks,<delay20 /> <tag a="110" b="5" />!</message>
+</msbt>

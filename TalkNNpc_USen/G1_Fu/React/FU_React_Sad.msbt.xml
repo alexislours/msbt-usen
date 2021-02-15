@@ -1,0 +1,46 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I'm sorry, but<delay8 /><tag a="110" b="0" /><delay20 /> <anim id="SadSpiral" target="actor" targetSpec="" />I'm just not in
+the mood to talk right now<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />It's nice of you to reach out to me,<delay20 />
+but<delay8 /><tag a="110" b="0" /> <anim id="SadSpiral" target="actor" targetSpec="" />I'd rather be alone just now.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />Thank you,<delay20 /> but <anim id="SadSpiral" target="actor" targetSpec="" />if you don't mind<delay8 /><tag a="110" b="0" /><delay20 />
+I'd rather be left alone for a while<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I felt like I was doing my best, but<delay8 /><tag a="110" b="0" />
+<anim id="SadSpiral" target="actor" targetSpec="" />I guess I can't let this go<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />Even though I tried to do the
+right thing,<delay20 /> I only managed to
+<anim id="SadSpiral" target="actor" targetSpec="" />mess things up even worse<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I thought I was being considerate<delay8 /><tag a="110" b="0" />
+<anim id="Sighing" target="actor" targetSpec="" />Ugh<delay8 /><tag a="110" b="0" /> I guess it's true that<anim id="SadSpiral" target="actor" targetSpec="" /> how you
+say something really matters<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I think I might have misspelled
+a word<delay20 /> in a note I sent off
+to <tag a="115" b="1" arg="0xcd00" /><delay8 /><tag a="110" b="0" />
+<anim id="Sighing" target="actor" targetSpec="" />I'm so careless that way.<delay40 /> Now it's all
+I can think about.<delay20 /> <anim id="SadSpiral" target="actor" targetSpec="" />Oh,<delay20 /> I'm the worst!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />But you meant well...</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Oh.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Thanks for trying to comfort me<tag a="110" b="0" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Next time I write a note, <anim id="FaintSmile" target="actor" targetSpec="" />guess I'll
+do a better job of proofreading it.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Negative" target="actor" targetSpec="" />It's just so embarrassing<delay8 /><tag a="110" b="0" />
+<anim id="Sighing" target="actor" targetSpec="" />But<delay8 /><tag a="110" b="0" /> I guess I can't just keep on
+wallowing in my shame this way.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />Sorry,<delay20 /> but<delay8 /><tag a="110" b="0" /> Right now,<delay20 /> I feel so
+disappointed and sad.<delay40 /> <anim id="SadSpiral" target="actor" targetSpec="" />Could you
+please just leave me alone?<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I'm just so hurt right now.<delay40 /> <anim id="SadSpiral" target="actor" targetSpec="" />I need
+some quiet time alone to think<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="SadSpiral" target="actor" targetSpec="" />I don't want to talk about it right
+now<delay8 /><tag a="110" b="0" /> <anim id="Worried" target="actor" targetSpec="" />Please just let me be,<delay20 /> OK?<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="203" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" /><tag a="110" b="0" /> <anim id="SadSpiral" target="actor" targetSpec="" />Right now, my
+heart is broken, and I'm hurting.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="203_a" attrib="00 00 00 00 00 00 00 00">I'm very sorry.</message>
+	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I can see that.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Since you've apologized, <anim id="Nodding" target="actor" targetSpec="" />I can set
+aside what happened. <anim id="EmotEnd" target="actor" targetSpec="" />I just want us
+<anim id="FaintSmile" target="actor" targetSpec="" />to be good friends to each other.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />If you at least understand, then<delay8 />
+<anim id="Negative" target="actor" targetSpec="" />I can get past this. <anim id="EmotEnd" target="actor" targetSpec="" />Just<tag a="110" b="0" />please try
+to be <anim id="FaintSmile" target="actor" targetSpec="" />more considerate from now on.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

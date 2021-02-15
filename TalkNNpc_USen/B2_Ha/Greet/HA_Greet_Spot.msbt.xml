@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yo, <tag a="110" b="3" />!<delay20 /> Does your
+jog route go through here?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> I didn't know
+you were into bugs, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />?<delay20 /> You chillin'
+with the fishies, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />What's up, <tag a="110" b="3" />?<delay20 />
+Soakin' up some ancient history?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="006" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />How's it going, <tag a="110" b="3" />?<delay20 />
+You here to buff up your home?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Yo, <tag a="110" b="3" />!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />You looking
+for new workout clothes too?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

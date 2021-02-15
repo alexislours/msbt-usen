@@ -1,0 +1,12 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, what's<delay8 /><tag a="110" b="0" /> What're you doing,<delay20 />
+<tag a="110" b="3" />?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />This isn't like you, <tag a="110" b="5" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Ow!<delay20 /> Oh, that hurt<delay8 /><tag a="110" b="0" /> Wait—<delay20 />
+<anim id="TakenAback" target="actor" targetSpec="" /><tag a="110" b="3" />?<pageBreak /><anim id="Confused" target="actor" targetSpec="" />What's up with you,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> was that on
+purpose?<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />,<delay20 /> it hurt!</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hey<delay20 />, <tag a="110" b="3" />!<pageBreak /><anim id="Crying" target="actor" targetSpec="" />Why would you just hit me like
+that,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />?<pageBreak /><anim id="Crying" target="actor" targetSpec="" />You know better,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> stop that!<pageBreak /><tag a="50" b="3" /><tag a="110" b="5" />,<delay20 /> what got into you?</message>
+</msbt>

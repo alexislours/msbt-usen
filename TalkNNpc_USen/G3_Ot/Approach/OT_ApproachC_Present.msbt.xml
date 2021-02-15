@@ -1,0 +1,65 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! I have the
+perfect gift for you!<pageBreak /><anim id="Hello" target="actor" targetSpec="" />Are you ready?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I have a teensy favor to ask.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />My <tag a="125" b="0" arg="0x0" /><tag a="110" b="0" />
+be a dear and take it off my hands.</message>
+	<message label="003" attrib="00 00 01 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Aha! <tag a="50" b="3" /><tag a="110" b="3" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />A little bird told me you wanted
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />,<delay frames="13" />
+so I went shopping for you<tag a="110" b="0" />
+<anim id="Thinking" target="actor" targetSpec="" />Although, <delay frames="13" />now that I think about it,<delay20 /> <anim id="Restless" target="actor" targetSpec="" />
+how could that little bird have known
+what you wanted?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">How indeed?</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">Some birds lie.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Oh dear<tag a="110" b="0" /><delay frames="13" />I did it again.<delay20 /> <anim id="Worried" target="actor" targetSpec="" />I bought
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Silly me, I completely forgot
+I already went shopping and
+checked that off my list.
+<anim id="Thinking" target="actor" targetSpec="" />I do hate to waste things,<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />so if it's not too much trouble,
+I'll just give it to you, OK?</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Brace yourself <tag a="110" b="5" />,<delay frames="13" /> it's<tag a="110" b="0" />
+<delay20 /><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Of course, if you don't want it, <delay frames="13" />I do
+understand. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />Just give it to someone
+who will appreciate it for what it is.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">Alrighty then, <delay frames="13" /><anim id="BigSmile" target="actor" targetSpec="" />it's <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />I hope
+you find it useful, <tag a="110" b="6" />.</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />You see, I bought it a long time ago
+to give to a friend as a going-away
+present, but<tag a="110" b="0" />
+well, <anim id="OhGeez" target="actor" targetSpec="" />she decided not to move after
+all, if you can you believe it!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I've hung on to it all this time,<delay frames="13" /><anim id="Nodding" target="actor" targetSpec="" /> but
+I think it would be best if you took it. <delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Thank you so much, <tag a="110" b="6" />!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I have far too many of these kinds
+of things sitting around gathering
+dust, you see.
+<anim id="Nodding" target="actor" targetSpec="" />I'm trying to declutter, <tag a="110" b="6" />.<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />So really, you would be doing me a
+big favor if you put this to good use.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If for some reason you can't use it,<delay frames="13" />
+just get rid of it or whatever.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I'm just so ready to be done with
+it, <tag a="110" b="6" />.</message>
+	<message label="300" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Hmph! I shouldn't be so trusting.<delay40 />
+<anim id="Thinking" target="actor" targetSpec="" />New motto: Don't believe everything
+little birds tell you.
+<anim id="EmotEnd" target="actor" targetSpec="" />Well, I bought this, and I don't want
+it.<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> So, here. <delay frames="13" />You can have it anyway.</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Oh, I should have known better.<delay frames="15" /> Little
+birds will tweet any ol' thing, right
+or wrong. <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />But what's done is done.
+<anim id="Nodding" target="actor" targetSpec="" />Here, <tag a="110" b="3" />.<delay frames="13" /> You've
+been so patient.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />Please, go ahead
+and take this gift anyway.</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00">And if you don't want it,<delay frames="13" /><anim id="FaintSmile" target="actor" targetSpec="" /> just pass
+it along to someone else,
+<tag a="110" b="6" />!</message>
+	<message label="303" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Even if it's not quite your style,<delay frames="13" /><anim id="FaintSmile" target="actor" targetSpec="" />
+I hope you get some enjoyment
+out of it, <tag a="110" b="6" />.</message>
+	<message label="400" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Sorry to off-load stuff on you like
+this.<delay40 /><anim id="Nodding" target="actor" targetSpec="" /> Feel free to do whatever you
+like with it.
+<anim id="Grin" target="actor" targetSpec="" />My work here is done, <tag a="110" b="6" />.</message>
+</msbt>

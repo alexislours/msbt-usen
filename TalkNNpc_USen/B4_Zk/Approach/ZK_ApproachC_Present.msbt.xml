@@ -1,0 +1,51 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Guess what, <tag a="110" b="3" />.<10_4 />
+<anim id="SmugFace" target="actor" targetSpec="" />I got something for you!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00">Whoa, perfect timing. <delay20 /><anim id="HappyDance" target="actor" targetSpec="" />Here, take
+this <tag a="125" b="0" arg="0x0" />!</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You know<tag a="110" b="0" />I don't think this
+<tag a="125" b="0" arg="0x0" /> fits my
+style anymore.
+<anim id="OhGeez" target="actor" targetSpec="" />Then again, maybe it totally does.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, what do you
+think, <tag a="110" b="3" />?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Yeah, it's great.
+<anim id="EmotEnd" target="player" targetSpec="" />It's your style.</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />It's NOT you.
+<anim id="EmotEnd" target="player" targetSpec="" />Get rid of it.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No matter how I try, I can't
+justify having more than one
+<tag a="125" b="0" arg="0x0" />.
+<anim id="IdeaBulb" target="actor" targetSpec="" />Wait!<delay8 /> You could give
+my <tag a="125" b="0" arg="0x0" /> a
+new home!</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You ready for this? <delay frames="40" /><anim id="Cheering" target="actor" targetSpec="" />It's my
+old <tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I hope you like it!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Can you guess what it is
+already? <10_4 /><anim id="BigSmile" target="actor" targetSpec="" />Spoiler alert<tag a="110" b="0" />it's my
+old <tag a="125" b="0" arg="0x0" />!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />It was just collecting dust at my
+place, but I got a new dust collector,
+so I don't need it anymore!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It should still work just fine.<delay20 />
+I'd call it<tag a="110" b="0" />gently used.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Plus, if you ever have to sell it,
+you can say it once belonged
+to <tag a="110" b="10" />!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You like those things, don't
+you, <tag a="110" b="3" />?</message>
+	<message label="300" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You know what? <delay20 />You're right.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />But I think I'm gonna give it
+away anyway.</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="BrokenHeart" target="actor" targetSpec="" />Ugh, I knew it! <10_4 /><anim id="Smiling" target="actor" targetSpec="" />Thanks for being
+honest, <tag a="110" b="3" />.<delay20 /> Your
+reward is this exact thing!</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Still not getting the hint? <delay20 />I'm
+giving it to you, <tag a="110" b="3" />!<delay20 />
+It's all yours now.</message>
+	<message label="303" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />I've always thought that the one
+item your place is lacking is
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.</message>
+	<message label="400" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No need to thank me. <delay frames="40" /><anim id="WrySmile" target="actor" targetSpec="" />Just don't
+say <tag a="110" b="10" /> never did
+anything for you.</message>
+</msbt>

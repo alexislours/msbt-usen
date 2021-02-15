@@ -1,0 +1,103 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If you happen to see anything
+here that you fancy, <delay8 />you should
+consider buying it from me.
+<anim id="Hello" target="actor" targetSpec="" />It would be a tremendous
+help,<delay8 /> darling.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Let me know if anything catches
+your eye.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />There might be some
+items I'm willing to part with.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Speak up if anything here suits
+your fancy.<delay20 /> For you,<delay8 /> <anim id="FaintSmile" target="actor" targetSpec="" />I might be
+willing to let go of a piece or two.</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Did something of mine catch your
+eye? <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />I do have some rather lovely
+things, don't I?
+<anim id="Hello" target="actor" targetSpec="" />You know, <delay frames="13" />I might be persuaded to
+let a piece or two go.<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Anything for
+you, my dear.</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00">I'm interested!</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00">No, that's fine.</message>
+	<message label="005" attrib="00 00 02 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Finding the right interior decorations
+can be SUCH a chore.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />So, if you happen to see something
+you like here,<delay8 /> do speak up.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />I might
+just be willing to sell it to you!</message>
+	<message label="005_a" attrib="00 00 00 00 00 00 00 00">Tell me more!</message>
+	<message label="005_b" attrib="00 00 00 00 00 00 00 00">I don't need anything.</message>
+	<message label="006" attrib="00 00 02 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Am I correct in thinking you've fallen
+in love with my decor?<delay frames="40" /> I mean,<anim id="Grin" target="actor" targetSpec="" />
+there's much to like about it, no?
+You know, <anim id="Smiling" target="actor" targetSpec="" />I'm willing to let some
+of the things you see here go to
+a new home.</message>
+	<message label="006_a" attrib="00 00 00 00 00 00 00 00">I'm interested!</message>
+	<message label="006_b" attrib="00 00 00 00 00 00 00 00">No, thanks. I'm good.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Which piece do you like,<delay8 /> darling?<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />Do let me know when you pick
+one out.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00">Well,<delay8 /> first,<delay8 /> <delay20 /><anim id="Hello" target="actor" targetSpec="" />which is the lucky piece?</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00">Well, let's see.<delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /> What is it that's
+caught your eye?</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh?<delay20 /> I see<tag a="110" b="0" /> <anim id="EmotEnd" target="actor" targetSpec="" />Well, <delay8 />that's just fine
+by me.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I don't mind keeping things
+as they are.</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, really?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> Well, not to worry!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> I don't
+mind either way.</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Well,<delay8 /> if you're sure.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />If there's
+anything else at all,<delay8 /> <anim id="FaintSmile" target="actor" targetSpec="" />just speak
+up and let me know!</message>
+	<message label="100" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah yes,<delay8 /> that IS a handsome piece!<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />If <tag a="90" b="21" arg="0x0" /> sounds acceptable,<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />I wouldn't mind letting go of it.</message>
+	<message label="100_a" attrib="00 00 00 00 00 00 00 00">Sold!</message>
+	<message label="100_b" attrib="00 00 00 00 00 00 00 00">I'll pass.</message>
+	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah,<delay8 /> so that's the one that stole your
+heart!<delay40 /> <anim id="Thinking" target="actor" targetSpec="" />Hmm,<delay8 /> let's see<tag a="110" b="0" /> <anim id="EmotEnd" target="actor" targetSpec="" />I'd be willing
+to let it go for <delay8 /><anim id="Hello" target="actor" targetSpec="" /><tag a="90" b="21" arg="0x0" />.</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00">I'll take it!</message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00">Hmm, never mind.</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />You have excellent taste, my dear!<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />I could let you have that piece for,<delay8 />
+hmm,<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /> let's say <delay20 /><tag a="90" b="21" arg="0x0" />?<delay20 /></message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">Sounds good to me!</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">Ahh, maybe not.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />I see<tag a="110" b="0" /> Well, that's a shame.<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />If you change your mind,<delay8 /> darling,<delay8 />
+do let me know!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh dear<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /> I'm so sorry,<delay8 /><anim id="OhGeez" target="actor" targetSpec="" />
+but it appears you don't
+have enough Bells.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Excellent!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Splendid! <delay8 />I'm so pleased!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />That's my <tag a="110" b="3" />!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It makes me happy knowing that
+it's going to someone who will
+appreciate it!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll rest easy knowing that it'll be in
+good hands with you!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I took excellent care of it, <delay8 />I assure
+you.<delay20 /> <anim id="Hello" target="actor" targetSpec="" />I'm sure you'll have no trouble
+making good use of it yourself!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Why, <delay frames="13" />darling!<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Your pockets couldn't
+fit another thing!<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />I'll send it to your
+house later, <tag a="110" b="6" />.</message>
+	<message label="300" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Oh no, <delay8 />I could never part with my
+darling <tag a="125" b="2" arg="0xcd00" />.<delay20 />
+<anim id="Worried" target="actor" targetSpec="" />She's like a member of the family.
+<anim id="EmotEnd" target="actor" targetSpec="" />I'm terribly sorry,<delay8 /> <anim id="QuestionMark" target="actor" targetSpec="" />but isn't there
+anything else you'd like?</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm sorry, <delay8 />but no<tag a="110" b="0" /><delay8 /> You see,
+<delay8 /><anim id="Greeting" target="actor" targetSpec="" />my <tag a="125" b="3" arg="0xcd00" /> is like
+family to me.
+<anim id="Worried" target="actor" targetSpec="" />The poor thing would be lost without
+me.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Could you choose something
+else, <tag a="110" b="6" />?</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />My <tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /><delay8 />
+<anim id="Negative" target="actor" targetSpec="" />It's quite special to me, and I can't
+bear to part with it right now.
+<anim id="EmotEnd" target="actor" targetSpec="" />My apologies,<delay8 /> but is there anything
+else you might like instead?</message>
+	<message label="303" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I can't imagine this room without my
+<tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /><delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />I'm
+sorry,<delay8 /> but is there anything else?</message>
+</msbt>

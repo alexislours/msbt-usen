@@ -1,0 +1,48 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Sighing" target="actor" targetSpec="" />I'm kinda sad right now<tag a="110" b="0" /><delay40 /> <anim id="Worried" target="actor" targetSpec="" />It's like my
+emotions are sore, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Sighing" target="actor" targetSpec="" />Sometimes even champs like me get
+sad, <tag a="110" b="3" /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Sighing" target="actor" targetSpec="" />Sorry, <tag a="110" b="3" /><tag a="110" b="0" /><delay40 /> I just
+don't feel like talking about
+muscles right now<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="SadSpiral" target="actor" targetSpec="" />I try to be careful, but I always end
+up making the same mistake<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="SadSpiral" target="actor" targetSpec="" />You can't just train your muscle
+muscles. You've got to train your
+emotional muscles too<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="SadSpiral" target="actor" targetSpec="" />Ugh<tag a="110" b="0" /><delay20 /> I'm so ashamed of myself.<delay20 />
+<anim id="Frantic" target="actor" targetSpec="" />I shoulda been able to do TWICE
+as many reps, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I think I might've broken
+<tag a="115" b="1" arg="0xcd00" /><tag a="110" b="0" /><pageBreak /><anim id="Sighing" target="actor" targetSpec="" />We were training all day yesterday,
+but<tag a="110" b="0" /><delay20 />now <gender3 m="his" f="her" /> muscles are so sore,
+<gender3 m="he" f="she" /> can barely move.</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">It's alright.</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Sounds tough...</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You've got to know the awesomeness
+of muscle soreness to appreciate the
+awesomeness of muscle soreness<tag a="110" b="0" /><pageBreak /><anim id="Laughing" target="actor" targetSpec="" />But I think maybe <tag a="115" b="1" arg="0xcd00" />
+wasn't quite ready for that much
+awesomeness, <tag a="110" b="5" />.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Worried" target="actor" targetSpec="" />I love muscle soreness, <delay frames="40" /><anim id="BrokenHeart" target="actor" targetSpec="" />but I need to
+remember that not everybody loves it
+as much as I do, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="SadSpiral" target="actor" targetSpec="" />I'm barely able to lift this sadness,
+<tag a="110" b="5" />. <delay20 />Could you leave me
+alone for a while, please?<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="Sighing" target="actor" targetSpec="" />Sometimes<tag a="110" b="0" />even a guy like me can
+get deflated, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="1" /><anim id="SadSpiral" target="actor" targetSpec="" />I really don't feel like talking to you
+right now<tag a="110" b="0" /><delay20 /> Maybe some other time.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="1" /></message>
+	<message label="203" attrib="00 00 02 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />What's with you, <tag a="110" b="3" />?<delay20 />
+Do you really have something
+to say to me, <tag a="110" b="5" />?</message>
+	<message label="203_a" attrib="00 00 00 00 00 00 00 00">I'm sorry?</message>
+	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Hmm...</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Oh. Well<tag a="110" b="0" /><delay20 />if you say you're
+sorry, I'll give you benefit of
+the doubt, <tag a="110" b="6" />.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00">Well<tag a="110" b="0" /><delay20 /><anim id="Nodding" target="actor" targetSpec="" /> Since you came to talk to me,
+I guess we're good, <tag a="110" b="5" />.</message>
+</msbt>

@@ -1,0 +1,49 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey there,<delay20 /> <tag a="110" b="3" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Would you happen to have<delay20 /> <anim id="Pardon" target="actor" targetSpec="" /><tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> on you?</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00">Hold up.<delay20 /> Am I seein' this right?<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Might you possibly be carryin'<delay8 /><tag a="110" b="0" />
+<anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oho<delay8 /><tag a="110" b="0" /> <anim id="FaintSmile" target="actor" targetSpec="" />I do believe you have <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> on you!</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Any chance you'd maybe sell that
+to me?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> For,<delay20 /> say<delay8 /><tag a="110" b="0" /><anim id="Hello" target="actor" targetSpec="" /><tag a="90" b="21" arg="0x0" />?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">Sure.
+I'll sell it to you.</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">Sorry, I can't.
+I don't think so, no.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Wow,<delay20 /> do you really mean it?<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />
+<anim id="BigSmile" target="actor" targetSpec="" />Well,<delay20 /> now I'm glad I asked!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Aw<delay20 />, don't worry about it none!<delay frames="40" />
+<anim id="Blushing" target="actor" targetSpec="" />I kinda put you on the spot there<delay8 /><tag a="110" b="0" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Haven't been able to catch myself
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Pardon" target="actor" targetSpec="" />How'd you manage it?</message>
+	<message label="005_02" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Should liven things up to have my
+own <tag a="125" b="0" arg="0x0" /><delay8 /><tag a="110" b="0" />
+<anim id="Greeting" target="actor" targetSpec="" />Thanks a bunch,<delay20 /> <tag a="110" b="3" />!</message>
+	<message label="005_03" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />This critter's been on my mind<delay20 />
+since <anim id="Serious" target="actor" targetSpec="" />I saw one in the museum.<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />Can't believe<delay20 /> you were willin' to sell
+me this <tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />You're alright,<delay20 /> <tag a="110" b="3" />.</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />This is only if you're game, mind you.<delay20 />
+I'd be willin' to pay <tag a="90" b="21" arg="0x0" /> for it.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />So,<delay20 /> what do you say?</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">Sounds fair to me!
+Absolutely.</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">Not even for that, no.
+I'm keeping it, sorry.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hot dog!<delay20 /> You mean it?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Knew you'd
+come through for me,<delay20 /> kiddo!<pageBreak /><tag a="50" b="3" /><tag a="110" b="5" />,<delay20 /> I owe you big time.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah,<delay20 /> forget I even asked.<delay40 />
+<anim id="Sighing" target="actor" targetSpec="" />Just wasn't meant to be.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Better luck next time,<delay20 /> I reckon!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="105_01" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I've been hopin'<delay8 /> to get myself
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Now this one's mine,<delay20 /> all mine!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />And all thanks to you!<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Thanks for
+being willin' to part with it,<delay20 /> kiddo.</message>
+	<message label="105_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Can't believe<delay8 /> I finally scored<delay8 /> my very
+own <tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />And you made this happen for me!<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />I'll take good care of this critter.</message>
+	<message label="105_03" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Not that I'm lonely or nothin',<delay20 /> but
+maybe this'll be like havin' company.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I'll take good care of this.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Thanks,<delay20 /> <tag a="110" b="3" />!</message>
+</msbt>

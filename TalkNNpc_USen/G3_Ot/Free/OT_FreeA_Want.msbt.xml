@@ -1,0 +1,64 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Excuse me, but am I seeing
+things or do you have <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" /> on you?</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />! <delay20 />Pardon my
+language, but is that
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Do my eyes deceive me,
+or are you in possession of
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />It's a little gauche for me to even
+ask, but would you consider selling
+it?<delay20 /> Say, for <tag a="90" b="21" arg="0x0" />?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">Sure!
+Sold!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">Sorry...
+I just can't.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Really?<delay frames="40" /> <anim id="HappyFlower" target="actor" targetSpec="" />That's fabulous!<delay20 />
+Alrighty then, let's not delay<tag a="110" b="0" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh, well<tag a="110" b="0" /> I suppose it wasn't
+meant to be. <delay20 /><anim id="WrySmile" target="actor" targetSpec="" />I hope you don't
+mind if I ask again sometime.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Wonderful! <delay frames="13" />I really can't thank
+you enough.<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />I've always wanted
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.</message>
+	<message label="005_02" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />You have to hold a creature like
+this in your own two hands to
+truly appreciate it, I think.
+<anim id="FaintSmile" target="actor" targetSpec="" />Don't you worry.<delay20 /> I'll take excellent
+care of it.</message>
+	<message label="005_03" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />You see, <delay frames="13" />I once just missed catching
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />And, I admit, I've been obsessed
+ever since.<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />So I thank you,
+<tag a="110" b="6" />.</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I feel terrible springing this on you,
+but is there any chance you'd sell it
+to me for <tag a="90" b="21" arg="0x0" />?</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">Yeah!
+Definitely!</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">Sorry...
+I just can't.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay8 /> Really? <delay20 />Really, truly?!<10_4 />
+<anim id="Cheering" target="actor" targetSpec="" />Thank you so much!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Oh, that's alright.<delay20 /> I should probably
+stop impulse buying things like that
+anyway, <tag a="110" b="5" />.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="105_01" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Oh my, I can't tell you how long
+I've been dreaming of having my
+own <tag a="125" b="0" arg="0x0" /><tag a="110" b="0" /></message>
+	<message label="105_02" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Ever since I first laid eyes on <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />, I have
+dreamed of owning one.
+<anim id="Confused" target="actor" targetSpec="" />If you hadn't let me have this one,<delay frames="13" />
+I don't know what I would have done!<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />Thank you, <tag a="110" b="3" />!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="105_03" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Ah yes, mine at last. <delay frames="13" />This exquisite
+<tag a="125" b="0" arg="0x0" /> is finally
+alllll mine<tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Oh! <delay8 />Pardon me, <tag a="110" b="3" />!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />It seems I got lost in the moment.<delay20 />
+Anyhoo, <anim id="Smiling" target="actor" targetSpec="" />thank you so much!</message>
+</msbt>

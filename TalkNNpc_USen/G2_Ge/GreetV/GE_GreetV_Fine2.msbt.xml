@@ -1,0 +1,24 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 07 00 00"><anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> you are totes
+ACTIVE in the morning!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Be sure to have lots of fun on
+<tag a="110" b="8" /><delay20 />!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 03 00 00"><anim id="Hello" target="actor" targetSpec="" />Hi, <tag a="110" b="3" />!<delay40 /> <anim id="QuestionMark" target="actor" targetSpec="" />How long are
+you here for?<delay40 /> <anim id="BigSmile" target="actor" targetSpec="" />Well, stay as
+long as you want!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 04 00 00"><anim id="Serious" target="actor" targetSpec="" />We meet again, <tag a="110" b="3" />!<10_4 />
+<anim id="Angry" target="actor" targetSpec="" /><delay20 />We both know <tag a="110" b="8" />
+ain't big enough for the both of us<tag a="110" b="0" /><pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I'm kidding!<delay40 /> Just a random cowboy
+moment!<delay40 /> See you around, partner!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 09 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hiiii, <tag a="110" b="3" />.<delay40 />
+I hoped we'd see each
+other again today!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />!<delay20 /> <anim id="HappyDance" target="actor" targetSpec="" />I've been
+practicing being famous.<delay20 />
+Watch this<tag a="110" b="0" /><pageBreak /><10_10 /><anim id="EmotEnd" target="actor" targetSpec="" /><size value="200" />I'M FAMOUS!<size value="100" /><delay frames="40" /><10_9 /><pageBreak /><anim id="Grin" target="actor" targetSpec="" />Pretty fab, right? What have you
+been up to lately?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="006" attrib="00 00 0c 01 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="3" />!<delay40 /> <anim id="HappyDance" target="actor" targetSpec="" />Aren't you, like,
+in LOVE with this island?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! Hey, hi!<delay40 />
+<anim id="HappyDance" target="actor" targetSpec="" />Make sure you check out all the fab
+stuff <tag a="110" b="8" /> has to offer!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

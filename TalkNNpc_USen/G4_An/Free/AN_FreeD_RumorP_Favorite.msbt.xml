@@ -1,0 +1,854 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />OK, <delay20 />I'm just gonna throw this at ya<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'm doing a personal challenge to
+learn a new fact about my neighbors
+every day.<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Today, you're it!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Hey!<delay20 /> I'm trying to be more neighborly
+and get to know folks better, and
+I wanna know about you. <delay20 />That cool?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Alright, uh<tag a="110" b="0" /><delay20 />what should I ask you
+about<tag a="110" b="0" /><10_4 /> <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh!</message>
+	<message label="010_01" attrib="00 00 01 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hey. <delay20 />I'm trying to remember your
+favorite kind of <tag a="140" b="11" arg="0xcd00" /><tag a="110" b="0" /><delay frames="60" />
+<anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="140" b="12" arg="0xcd00" />, right?</message>
+	<message label="010_01_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yep! Still is!
+<anim id="Nodding" target="actor" targetSpec="" />Good memory!</message>
+	<message label="010_01_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No...</message>
+	<message label="011_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Awesome! <delay20 />Wanted to check.<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />I was
+tryin' to remember earlier and I
+just<tag a="110" b="0" />drew a blank, <tag a="110" b="5" />.</message>
+	<message label="010_101" attrib="00 00 01 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Yo. <delay20 />I'm trying to remember your
+favorite kind of <tag a="140" b="11" arg="0xcd00" /><tag a="110" b="0" /><delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="140" b="13" arg="0xcd00" />, right?</message>
+	<message label="010_101_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yep! Still is!
+<anim id="Nodding" target="actor" targetSpec="" />Good memory!</message>
+	<message label="010_101_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No...</message>
+	<message label="011_101" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Perfect! <delay20 />Was just checkin'.<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />I figure
+better safe than sorry, <tag a="110" b="5" />!</message>
+	<message label="010_02" attrib="00 00 01 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Remember when I was askin' you
+about favorite <tag a="140" b="11" arg="0xcd00" /> and you said
+<tag a="140" b="12" arg="0xcd00" />?<delay20 /> That still true?</message>
+	<message label="010_02_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yes, it is!
+<anim id="Nodding" target="actor" targetSpec="" />Absolutely!</message>
+	<message label="010_02_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nope. False.</message>
+	<message label="011_02" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Cool! <delay20 />I was talkin' to someone from
+back home and <tag a="140" b="11" arg="0xcd00" /> came up for
+some reason, <tag a="110" b="5" />.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />My mind wandered and I couldn't
+remember what you said you liked
+so<tag a="110" b="0" /><delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="140" b="12" arg="0xcd00" />! <delay20 />Got it!</message>
+	<message label="010_102" attrib="00 00 01 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Remember when I was askin' you
+about favorite <tag a="140" b="11" arg="0xcd00" /> and you
+said <tag a="140" b="13" arg="0xcd00" />?</message>
+	<message label="010_102_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yep! Still is!
+<anim id="Nodding" target="actor" targetSpec="" />Yes, it is. Why?</message>
+	<message label="010_102_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? That's wrong.</message>
+	<message label="011_102" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Ah! <delay20 />I was talkin' to someone from
+back home and <tag a="140" b="11" arg="0xcd00" /> came up for
+some reason, <tag a="110" b="5" />.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />My mind wandered and I couldn't
+remember what you said you liked<tag a="110" b="0" /><delay frames="40" />
+<anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="140" b="13" arg="0xcd00" />. <delay20 />Got it!</message>
+	<message label="010_03" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Alright, I'm going bonkers trying to
+remember.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Didn't you say your dream
+was to be <tag a="50" b="2" /><tag a="140" b="12" arg="0xcd00" />?</message>
+	<message label="010_03_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yes, I did.
+<anim id="Nodding" target="actor" targetSpec="" />That's right!</message>
+	<message label="010_03_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not anymore.</message>
+	<message label="011_03" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, I can totally see it.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Just keep
+rockin' how you're rockin', and you'll
+be there in no time, <tag a="110" b="5" />!</message>
+	<message label="010_103" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I'm going mad trying to remember<tag a="110" b="0" /><delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Didn't you say your dream gig
+was <tag a="140" b="13" arg="0xcd00" />?</message>
+	<message label="010_103_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yes, I did.
+<anim id="Nodding" target="actor" targetSpec="" />That's right!</message>
+	<message label="010_103_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not anymore.</message>
+	<message label="011_103" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yep, I can totally see it.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Just keep
+rollin' how you're rollin', and you'll
+get there in no time, <tag a="110" b="5" />!</message>
+	<message label="010_04" attrib="00 00 01 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Weren't you tellin' me you're way
+into <tag a="140" b="12" arg="0xcd00" />?<delay20 /> That it's,
+like, <delay20 />your favorite hobby?</message>
+	<message label="010_04_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Totally is!
+<anim id="Nodding" target="actor" targetSpec="" />And it still is!</message>
+	<message label="010_04_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not so much...</message>
+	<message label="011_04" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Oh, nice!<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />I'm asking 'cause I'm kinda
+interested in <tag a="140" b="12" arg="0xcd00" />, and
+I wanna know who to bug for tips.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />So yeah, <delay20 />as long as I don't give up in
+the first minute, you'll probably be
+hearin' from me, <tag a="110" b="5" />.</message>
+	<message label="010_104" attrib="00 00 01 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, what was your favorite hobby
+again? <delay20 />Didn't you tell me you're way
+into <tag a="140" b="13" arg="0xcd00" />?</message>
+	<message label="010_104_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yes, I did!
+<anim id="Nodding" target="actor" targetSpec="" />Yep!</message>
+	<message label="010_104_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not so much...</message>
+	<message label="011_104" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Nice!<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />I ask 'cause I think I'm gonna
+try <tag a="140" b="13" arg="0xcd00" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I was just makin' sure I knew who to
+hit up for tips later, <tag a="110" b="5" />!</message>
+	<message label="010_05" attrib="00 00 01 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I think my memory's gone haywire.<delay20 />
+Correct me if I'm wrong, but you rock
+at <tag a="140" b="12" arg="0xcd00" /><tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />right?</message>
+	<message label="010_05_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yep! I rock!
+<anim id="Nodding" target="actor" targetSpec="" />I'm pretty good!</message>
+	<message label="010_05_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not exactly...</message>
+	<message label="011_05" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Cool. <delay20 />So I, uh<tag a="110" b="0" /><delay20 />might need your help
+putting out a fire I kinda started.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />If I can't get it all sorted, I'll bug you
+later, <tag a="110" b="5" />.</message>
+	<message label="010_105" attrib="00 00 01 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />My memory's gone haywire.<delay20 /> Correct
+me if I'm wrong,<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />but don't you rock
+at <tag a="140" b="13" arg="0xcd00" />?</message>
+	<message label="010_105_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yep! I rock!
+<anim id="Nodding" target="actor" targetSpec="" />I'm pretty good!</message>
+	<message label="010_105_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not exactly...</message>
+	<message label="011_105" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Good. <delay20 />So I, uh<tag a="110" b="0" /><delay20 />might need your help
+to get out of a jam I'm in.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />If I can't get everything sorted, I'll
+bug you later, <tag a="110" b="5" />.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Alright, so a little bird who may or
+may not be an actual bird<tag a="110" b="0" /><delay20 />or little<tag a="110" b="0" /><delay20 />
+told me something about you.</message>
+	<message label="030_01" attrib="00 00 01 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I heard you like <tag a="140" b="12" arg="0xcd00" />
+way more than other <tag a="140" b="11" arg="0xcd00" />. So<tag a="110" b="0" /><delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />is it true?</message>
+	<message label="030_01_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's true!
+<anim id="Nodding" target="actor" targetSpec="" />Yep!</message>
+	<message label="030_01_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />It's false.</message>
+	<message label="031_01" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" /><delay20 />Ah ha! <delay20 />I was thinkin' you'd be into
+<tag a="140" b="12" arg="0xcd00" />.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />That rocks!<delay20 />
+I love <tag a="140" b="12" arg="0xcd00" /> too!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I guess we oughta talk <tag a="140" b="11" arg="0xcd00" />
+more often, <tag a="110" b="5" />.</message>
+	<message label="032_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Ah!<delay20 /> I loved <tag a="140" b="12" arg="0xcd00" /> when
+I was little.<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />I just drifted off to other
+<tag a="140" b="11" arg="0xcd00" /> over time, <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />It's cool to hear you're keepin' that
+party going, though.</message>
+	<message label="030_101" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, so <tag a="140" b="11" arg="0xcd00" />.<delay20 /> I heard you
+like <tag a="140" b="13" arg="0xcd00" />.
+<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />True or false?</message>
+	<message label="030_101_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />True!</message>
+	<message label="030_101_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />False.</message>
+	<message label="031_101" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" /><delay20 />Ah ha! <delay20 />I was thinkin' you'd be into
+<tag a="140" b="13" arg="0xcd00" />.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Me too!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I guess we oughta talk <tag a="140" b="11" arg="0xcd00" />
+more often, <tag a="110" b="5" />!</message>
+	<message label="032_101" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Yeah, when I was little, I used to
+love <tag a="140" b="13" arg="0xcd00" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />I kinda just drifted to other <tag a="140" b="11" arg="0xcd00" />
+over time.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Glad you're keeping that
+fire goin', <tag a="110" b="5" />!</message>
+	<message label="030_02" attrib="00 00 01 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, I heard you really love your
+<tag a="140" b="12" arg="0xcd00" />.<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />Like, WAY
+more than any other <tag a="140" b="11" arg="0xcd00" />.</message>
+	<message label="030_02_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's right!
+<anim id="Nodding" target="actor" targetSpec="" />That's me!</message>
+	<message label="030_02_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />You heard wrong.</message>
+	<message label="031_02" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Yeah, I get it. <delay20 />You just can't beat
+<tag a="140" b="12" arg="0xcd00" />, <tag a="110" b="5" />.<delay20 /><pageBreak /><anim id="Confused" target="actor" targetSpec="" />Like, even just hearing you say
+"<tag a="140" b="12" arg="0xcd00" />" gave me a mega
+craving for <tag a="140" b="12" arg="0xcd00" />.</message>
+	<message label="032_02" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Gotta be honest, I was never into
+<tag a="140" b="12" arg="0xcd00" />. <delay20 />Glad you love it,
+but there's other <tag a="140" b="11" arg="0xcd00" /> for me.</message>
+	<message label="030_102" attrib="00 00 01 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, I heard you really love your
+<tag a="140" b="13" arg="0xcd00" />.<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />Like,
+more than all <tag a="140" b="11" arg="0xcd00" />.</message>
+	<message label="030_102_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's right!
+<anim id="Nodding" target="actor" targetSpec="" />That's me!</message>
+	<message label="030_102_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />You heard wrong.</message>
+	<message label="031_102" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Yeah, I get it. <delay20 />There's no way to beat
+good <tag a="140" b="13" arg="0xcd00" />.<delay20 /><pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Like, even just hearing you say that
+just now gave me a huge craving
+for <tag a="140" b="13" arg="0xcd00" />.</message>
+	<message label="032_102" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Gotta be honest, I was never that
+into <tag a="140" b="13" arg="0xcd00" />.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I'm glad you love it, <delay20 />but there's other
+<tag a="140" b="11" arg="0xcd00" /> for me, <tag a="110" b="5" />.</message>
+	<message label="030_03" attrib="00 00 01 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />OK, so is your dream actually to
+be <tag a="50" b="2" /><tag a="140" b="12" arg="0xcd00" />?</message>
+	<message label="030_03_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Totally!
+<anim id="Nodding" target="actor" targetSpec="" />That's right!</message>
+	<message label="030_03_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not really.</message>
+	<message label="031_03" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Whoa! <delay20 />That's rad! <delay20 />Hey, I used to
+wanna be <tag a="50" b="2" /><tag a="140" b="12" arg="0xcd00" />.<delay frames="40" />
+<anim id="Restless" target="actor" targetSpec="" />And I kinda still do<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Well, it's a <delay8 />LOT<delay8 /> of work, but I know
+you're up to it.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />You got this!</message>
+	<message label="032_03" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Gotta be honest, <delay20 />I don't know the
+first thing about being <tag a="50" b="2" />
+<tag a="140" b="12" arg="0xcd00" />, <tag a="110" b="5" />.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />But hey, if that's your dream, <delay20 />then
+that's your dream. <delay20 />You're gonna
+rock at it.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I know you will!</message>
+	<message label="030_103" attrib="00 00 01 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />OK, <delay20 />is <tag a="140" b="13" arg="0xcd00" />
+really your dream gig?</message>
+	<message label="030_103_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Totally!
+<anim id="Nodding" target="actor" targetSpec="" />That's right!</message>
+	<message label="030_103_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not really.</message>
+	<message label="031_103" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh, rad! <delay20 /><tag a="50" b="3" /><tag a="140" b="13" arg="0xcd00" />
+is my dream too!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Well, it's a <delay8 />LOT<delay8 /> of work, but I know
+you're up to it.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />You got this!</message>
+	<message label="032_103" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Gotta be honest, <delay20 />I don't know the
+<tag a="140" b="13" arg="0xcd00" /> scene.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />But hey, if that's your dream, <delay20 />then
+that's your dream. <delay20 />You're gonna
+rock at it.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I know you will!</message>
+	<message label="030_04" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />True or false? <delay20 />You are super
+into <tag a="140" b="12" arg="0xcd00" />.</message>
+	<message label="030_04_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />True!</message>
+	<message label="030_04_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />False.</message>
+	<message label="031_04" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Yes!<delay20 /> OK, we totally gotta hang out
+way more often.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />I am all about
+<tag a="140" b="12" arg="0xcd00" />, <tag a="110" b="5" />.</message>
+	<message label="032_04" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />OK, so I don't know a lot about
+<tag a="140" b="12" arg="0xcd00" /><tag a="110" b="0" /><delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />but so what?
+<delay20 />That's still cool, <tag a="110" b="5" />.</message>
+	<message label="030_104" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, true or false? <delay20 />You are super
+into <tag a="140" b="13" arg="0xcd00" />.</message>
+	<message label="030_104_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />True!</message>
+	<message label="030_104_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />False.</message>
+	<message label="031_104" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Wow! <delay20 />Yes!<delay20 /> OK, we totally gotta hang
+way out more often.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />'Cause I am all
+about <tag a="140" b="13" arg="0xcd00" />.</message>
+	<message label="032_104" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />OK, so I really don't know a lot
+about <tag a="140" b="13" arg="0xcd00" /><tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />But hey, so what? <delay20 />I still think that's
+pretty cool, <tag a="110" b="5" />.</message>
+	<message label="030_05" attrib="00 00 01 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />So, I just wanna check real quick.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Is it really true that you're amazing
+at <tag a="140" b="12" arg="0xcd00" />?</message>
+	<message label="030_05_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's totally true!
+<anim id="Nodding" target="actor" targetSpec="" />Yes, I am!</message>
+	<message label="030_05_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not exactly...</message>
+	<message label="031_05" attrib="00 00 00 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Nice! <delay20 />I actually know a few things
+about <tag a="140" b="12" arg="0xcd00" /> too.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh! <delay20 />I've got an idea!<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Let's throw a
+big party and show off how much we
+rock at <tag a="140" b="12" arg="0xcd00" />!</message>
+	<message label="032_05" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, cool! <delay20 />I'm actually kinda lousy at
+<tag a="140" b="12" arg="0xcd00" />.<delay frames="40" /> <anim id="Blushing" target="actor" targetSpec="" />Now I can bug
+you when I need a hand!</message>
+	<message label="030_105" attrib="00 00 01 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />So, I just wanna check real quick.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Is it really true that you're amazing
+at <tag a="140" b="13" arg="0xcd00" />?</message>
+	<message label="030_105_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's totally true!
+<anim id="Nodding" target="actor" targetSpec="" />Yes, I am!</message>
+	<message label="030_105_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Not exactly...</message>
+	<message label="031_105" attrib="00 00 00 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Nice! <delay20 />I actually know a few good
+<tag a="140" b="13" arg="0xcd00" /> tricks
+too, <tag a="110" b="5" />.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh! <delay20 />I've got an idea! Let's throw a
+big party and show off how much we
+rock at <tag a="140" b="13" arg="0xcd00" />!</message>
+	<message label="032_105" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, cool! <delay20 />Yeah, I'm actually kinda
+lousy at <tag a="140" b="13" arg="0xcd00" />.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Well, now I know who to bug when
+I need a hand, <tag a="110" b="5" />!</message>
+	<message label="040_01" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, level with me.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You really don't
+listen to music?<delay20 /> Have I got that
+right, <tag a="110" b="5" />?</message>
+	<message label="040_01_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's right.
+<anim id="Nodding" target="actor" targetSpec="" />Yep.</message>
+	<message label="040_01_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I listen to music!</message>
+	<message label="040_02" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, be honest with me.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You seriously
+don't read books?<delay20 /> Did I get that
+right, <tag a="110" b="5" />?</message>
+	<message label="040_02_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />They're not my thing.
+<anim id="Nodding" target="actor" targetSpec="" />Nope. Don't like 'em.</message>
+	<message label="040_02_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I read books!</message>
+	<message label="040_03" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, I gotta know.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You seriously
+don't read comics?<delay20 /> Have I got
+that right, <tag a="110" b="5" />?</message>
+	<message label="040_03_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />They're not my thing.
+<anim id="Nodding" target="actor" targetSpec="" />Nope. Don't like 'em.</message>
+	<message label="040_03_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I read comics!</message>
+	<message label="040_04" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, be real here.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You seriously
+don't watch movies?<delay20 /> Did I get
+that right, <tag a="110" b="5" />?</message>
+	<message label="040_04_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />They're not my thing.
+<anim id="Nodding" target="actor" targetSpec="" />Nope. Don't like 'em.</message>
+	<message label="040_04_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I watch movies!</message>
+	<message label="040_05" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, be real here.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You seriously
+don't watch TV?<delay20 /> Have I got that
+right, <tag a="110" b="5" />?</message>
+	<message label="040_05_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />They're not my thing.
+<anim id="Nodding" target="actor" targetSpec="" />Nope. Don't like 'em.</message>
+	<message label="040_05_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I watch TV!</message>
+	<message label="040_06" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, serious question.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You really
+don't like any sports at all?<delay20 /> Did
+I get that right, <tag a="110" b="5" />?</message>
+	<message label="040_06_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />They're not my thing.
+<anim id="Nodding" target="actor" targetSpec="" />Nope. Don't like 'em.</message>
+	<message label="040_06_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I like sports!</message>
+	<message label="040_07" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, I gotta know something.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You
+really don't have a favorite drink?<delay20 />
+Have I got that right, <tag a="110" b="5" />?</message>
+	<message label="040_07_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's right.
+<anim id="Nodding" target="actor" targetSpec="" />Yep.</message>
+	<message label="040_07_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I do too!</message>
+	<message label="040_08" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, help me out here.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You really
+don't have a favorite food?<delay20 /> Did
+I get that right, <tag a="110" b="5" />?</message>
+	<message label="040_08_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's right.
+<anim id="Nodding" target="actor" targetSpec="" />Yep.</message>
+	<message label="040_08_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I do too!</message>
+	<message label="040_09" attrib="00 00 01 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />OK, so you REALLY don't have a
+dream you're chasin'?<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />It's fine if
+you don't, <tag a="110" b="5" />.</message>
+	<message label="040_09_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's true.
+<anim id="Nodding" target="actor" targetSpec="" />Yep.</message>
+	<message label="040_09_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I dream!</message>
+	<message label="040_10" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, be honest.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You seriously don't
+have a favorite hobby?<delay20 /> Have I got
+that right, <tag a="110" b="5" />?</message>
+	<message label="040_10_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's right.
+<anim id="Nodding" target="actor" targetSpec="" />Yep.</message>
+	<message label="040_10_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I have a hobby!</message>
+	<message label="040_11" attrib="00 00 01 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, just checkin'.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You really don't
+have any special skills or talents?<delay20 />
+Did I get that right, <tag a="110" b="5" />?</message>
+	<message label="040_11_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That's right.
+<anim id="Nodding" target="actor" targetSpec="" />Yep.</message>
+	<message label="040_11_b" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Huh? I'm talented!</message>
+	<message label="041" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Well<tag a="110" b="0" /><delay20 />alright.<delay20 /> It's fine.<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Maybe the
+right thing just hasn't come along
+for you yet.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />No worries.</message>
+	<message label="049" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh!<delay20 /> Alright, sorry about that.<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />I don't
+know where that came from. <delay20 />Maybe
+I just imagined it? <delay20 />Who knows.</message>
+	<message label="051" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="140" b="13" arg="0xcd00" />, eh?</message>
+	<message label="051_a" attrib="00 00 00 00 00 00 00 00">Yeah!</message>
+	<message label="051_b" attrib="00 00 00 00 00 00 00 00">That's not right.
+What? No.</message>
+	<message label="052" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?<delay20 /> But I'm pretty sure that's what
+you said<tag a="110" b="0" /><delay20 /> <anim id="Nodding" target="actor" targetSpec="" />OK, hit me with it again.</message>
+	<message label="060_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hold up<tag a="110" b="0" /><delay20 /> I swear that's what you
+said before. <anim id="Smiling" target="actor" targetSpec="" />Oh, I get it! <delay20 />You're sayin'
+you <delay8 />DO<delay8 /> like <tag a="140" b="12" arg="0xcd00" />.</message>
+	<message label="060_101" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Wait<tag a="110" b="0" /><delay20 /> I swear that's what you said
+before. <anim id="Smiling" target="actor" targetSpec="" />Oh, I get it! <delay20 />You mean you <delay8 />DO<delay8 />
+like <tag a="140" b="13" arg="0xcd00" />.</message>
+	<message label="060_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hold up<tag a="110" b="0" /><delay20 /> I swear that's what you
+said before. <anim id="Smiling" target="actor" targetSpec="" />Oh, I get it! <delay20 />You're sayin'
+you <delay8 />DO<delay8 /> like <tag a="140" b="12" arg="0xcd00" />.</message>
+	<message label="060_102" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Wait<tag a="110" b="0" /><delay20 /> I swear that's what you said
+before. <anim id="Smiling" target="actor" targetSpec="" />Oh, I get it! <delay20 />You mean you <delay8 />DO<delay8 />
+like <tag a="140" b="13" arg="0xcd00" />.</message>
+	<message label="060_03" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Wait<tag a="110" b="0" /><delay20 /> I swear that's what you said
+before. <anim id="Smiling" target="actor" targetSpec="" />Oh, I get it! <delay20 />You mean you <delay8 />DO<delay8 />
+wanna be <tag a="50" b="2" /><tag a="140" b="12" arg="0xcd00" />.</message>
+	<message label="060_103" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />But<tag a="110" b="0" /><delay20 />you said that before.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Oh! You
+mean <delay20 /><tag a="140" b="13" arg="0xcd00" /> <delay8 />IS<delay8 />
+your dream gig. <delay20 />Gotcha.</message>
+	<message label="060_04" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hold up<tag a="110" b="0" /><delay20 /> I swear that's what you
+said before. <anim id="Smiling" target="actor" targetSpec="" />Oh, I get it! <delay20 />You're sayin'
+you <delay8 />ARE<delay8 /> into <tag a="140" b="12" arg="0xcd00" />.</message>
+	<message label="060_104" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hold up<tag a="110" b="0" /><delay20 /> I swear that's what you
+said before. <anim id="Smiling" target="actor" targetSpec="" />Oh! <delay20 />You mean you <delay8 />ARE<delay8 />
+into <tag a="140" b="13" arg="0xcd00" />.</message>
+	<message label="060_05" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hold up<tag a="110" b="0" /><delay20 /> I swear that's what you
+said before. <anim id="Smiling" target="actor" targetSpec="" />Oh, I get it! <delay20 />You're sayin'
+you <delay8 />ARE<delay8 /> good at <tag a="140" b="12" arg="0xcd00" />.</message>
+	<message label="060_105" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hold up<tag a="110" b="0" /><delay20 /> I swear that's what you
+said before. <anim id="Smiling" target="actor" targetSpec="" />Oh! <delay20 />You mean you <delay8 />ARE<delay8 />
+good at <tag a="140" b="13" arg="0xcd00" />.</message>
+	<message label="061" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />No? <delay20 />Like, at all?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Don't sweat it,
+it's all good. <delay20 />I was just makin'
+totally sure, <tag a="110" b="5" />.</message>
+	<message label="100_01" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What kind
+of music are you into?</message>
+	<message label="100_01_a" attrib="00 00 00 00 00 00 00 00">Heavy metal.</message>
+	<message label="100_01_b" attrib="00 00 00 00 00 00 00 00">Pop.</message>
+	<message label="100_01_c" attrib="00 00 00 00 00 00 00 00">Hip-hop.</message>
+	<message label="100_01_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_01_e" attrib="00 00 00 00 00 00 00 00">I don't listen to music.</message>
+	<message label="101_01" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what's your
+favorite kind of music, <tag a="110" b="5" />?</message>
+	<message label="101_01_a" attrib="00 00 00 00 00 00 00 00">Heavy metal.</message>
+	<message label="101_01_b" attrib="00 00 00 00 00 00 00 00">Pop.</message>
+	<message label="101_01_c" attrib="00 00 00 00 00 00 00 00">Hip-hop.</message>
+	<message label="101_01_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_01_e" attrib="00 00 00 00 00 00 00 00">I don't listen to music.</message>
+	<message label="102_01" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />Your favorite kind of
+music is<tag a="110" b="0" /></message>
+	<message label="102_01_a" attrib="00 00 00 00 00 00 00 00">Heavy metal.</message>
+	<message label="102_01_b" attrib="00 00 00 00 00 00 00 00">Pop.</message>
+	<message label="102_01_c" attrib="00 00 00 00 00 00 00 00">Hip-hop.</message>
+	<message label="102_01_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_01_e" attrib="00 00 00 00 00 00 00 00">I don't listen to music.</message>
+	<message label="103_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Now we're talkin'! <delay20 />Those revving
+guitars and guttural screams just
+get my blood PUMPIN'!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I couldn't possibly count how many
+metal concerts I've lost my voice to.</message>
+	<message label="104_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Pop, huh? <delay20 />Not my favorite, but yeah,<delay20 />
+there's a lot of cool stuff there.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Still, I gotta say, <delay20 />havin' a song get
+stuck in your brain for weeks and
+weeks is a little annoying<tag a="110" b="0" /></message>
+	<message label="105_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes! <delay20 />Hip-hop is awesome. <delay20 />The beats,
+the lyrics, everything.<delay frames="40" /> <anim id="HappyDance" target="actor" targetSpec="" />I love how it
+makes me wanna move!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You ever been in, like, <delay20 />a rap battle or
+a dance-off?<delay frames="40" /> <anim id="AbsentMindedness" target="actor" targetSpec="" />I never have, but I've
+always, <delay20 />ALWAYS<delay20 />, wanted to!</message>
+	<message label="106_01" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Yeah, you do kinda seem like the
+<tag a="140" b="13" arg="0xcd00" /> type.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />OK, next time we hang out, <delay20 />you gotta
+play me some of your favorite
+<tag a="140" b="13" arg="0xcd00" />.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Deal?</message>
+	<message label="107_01" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Really. <delay20 />Not even in the background
+when you're cleaning?<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Well, silence
+is kinda cool too<tag a="110" b="0" /><delay20 />I guess.</message>
+	<message label="100_02" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What kind
+of books do you like to read?</message>
+	<message label="100_02_a" attrib="00 00 00 00 00 00 00 00">Recipe books.</message>
+	<message label="100_02_b" attrib="00 00 00 00 00 00 00 00">Graphic novels.</message>
+	<message label="100_02_c" attrib="00 00 00 00 00 00 00 00">Travel guides.</message>
+	<message label="100_02_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_02_e" attrib="00 00 00 00 00 00 00 00">I don't read books.</message>
+	<message label="101_02" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what kind of books do you like, <tag a="110" b="5" />?</message>
+	<message label="101_02_a" attrib="00 00 00 00 00 00 00 00">Recipe books.</message>
+	<message label="101_02_b" attrib="00 00 00 00 00 00 00 00">Graphic novels.</message>
+	<message label="101_02_c" attrib="00 00 00 00 00 00 00 00">Travel guides.</message>
+	<message label="101_02_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_02_e" attrib="00 00 00 00 00 00 00 00">I don't read books.</message>
+	<message label="102_02" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />Your favorite kind of
+books are<tag a="110" b="0" /></message>
+	<message label="102_02_a" attrib="00 00 00 00 00 00 00 00">Recipe books.</message>
+	<message label="102_02_b" attrib="00 00 00 00 00 00 00 00">Graphic novels.</message>
+	<message label="102_02_c" attrib="00 00 00 00 00 00 00 00">Travel guides.</message>
+	<message label="102_02_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_02_e" attrib="00 00 00 00 00 00 00 00">I don't read books.</message>
+	<message label="103_02" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Oh yeah! <delay20 />Recipe books rock!<delay20 /> I love
+thumbing through 'em and droolin'
+over all the tasty stuff I could make.
+<anim id="Nodding" target="actor" targetSpec="" />But cookin' ain't easy!<delay20 /> I'm trying to
+remember the last time I didn't torch
+my dinner and, uh<tag a="110" b="0" /><delay frames="40" /><anim id="Blushing" target="actor" targetSpec="" />I got nothin'.</message>
+	<message label="104_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Can't beat a good graphic novel!<delay frames="40" />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Cool art, <delay8 />clever framing, <delay8 />maybe a
+galaxy or two in danger<tag a="110" b="0" /><delay20 />yeah.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />There's super-meaningful ones out
+there too, if you know what to look
+for. <delay20 />Stuff that really makes you think.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Yeah, I just love how there's so much
+to choose from! <delay20 />And that there's all
+these massive stories to check out!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Diving into a back-catalog that's
+twice as old as I am is seriously one
+of the best ways to eat a weekend.</message>
+	<message label="105_02" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Travel guides are so handy!<delay20 /> Knowin'
+where to eat and what to check out
+on a trip is huge.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Sometimes I'll even get 'em for
+places I'm curious about just to
+figure out where I wanna go next!</message>
+	<message label="106_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Really! <delay20 />I don't think I've ever tried
+reading <tag a="140" b="13" arg="0xcd00" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /><delay20 />I wonder if <colour id="3" />Timmy<colour id="65535" /> stocks
+those.<delay20 /> I'm between books right now,
+so the timing's kinda perfect.</message>
+	<message label="107_02" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Really?<delay20 /> I mean, it's fine. <delay20 />There's tons
+of ways to read that aren't books.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Like, <delay20 />there's magazines, <delay8 />there's
+websites,<delay8 /> or movies with subtitles,<delay20 />
+or video games<tag a="110" b="0" /><delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Lots of stuff!</message>
+	<message label="100_03" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What kind
+of comics do you like?</message>
+	<message label="100_03_a" attrib="00 00 00 00 00 00 00 00">Humor.</message>
+	<message label="100_03_b" attrib="00 00 00 00 00 00 00 00">Action.</message>
+	<message label="100_03_c" attrib="00 00 00 00 00 00 00 00">Food.</message>
+	<message label="100_03_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_03_e" attrib="00 00 00 00 00 00 00 00">I don't read comics.</message>
+	<message label="101_03" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what kind of
+comics do you like, <tag a="110" b="5" />?</message>
+	<message label="101_03_a" attrib="00 00 00 00 00 00 00 00">Humor.</message>
+	<message label="101_03_b" attrib="00 00 00 00 00 00 00 00">Action.</message>
+	<message label="101_03_c" attrib="00 00 00 00 00 00 00 00">Food.</message>
+	<message label="101_03_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_03_e" attrib="00 00 00 00 00 00 00 00">I don't read comics.</message>
+	<message label="102_03" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />Your favorite kind of
+comics are<tag a="110" b="0" /></message>
+	<message label="102_03_a" attrib="00 00 00 00 00 00 00 00">Humor.</message>
+	<message label="102_03_b" attrib="00 00 00 00 00 00 00 00">Action.</message>
+	<message label="102_03_c" attrib="00 00 00 00 00 00 00 00">Food.</message>
+	<message label="102_03_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_03_e" attrib="00 00 00 00 00 00 00 00">I don't read comics.</message>
+	<message label="103_03" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'm with you. <delay20 />Good belly laughs are
+tough to come by.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Plus, I love lookin'
+at goofy, <delay8 />slapstick art.</message>
+	<message label="104_03" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Action comics! <delay20 />Yes!<delay20 /> OK, there's one
+you GOTTA read where a whole other
+galaxy is about to crash into ours.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />A bunch of scientists and robots and
+aliens open a portal so everyone can
+escape to another dimension.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />But then—and this is so cool<delay20 />—<anim id="Grin" target="actor" targetSpec="" />then,
+these gnarly horror-monsters start
+pourin' in from the other dimension!<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />So now they've gotta fight a huge
+pan-dimensional invasion <delay8 />AND<delay8 /> try to
+retreat to another dimension!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Anyway, it's an epic read. <delay20 />I'll let you
+borrow it sometime.<delay20 /> Oh, and don't
+bother with the movie.<delay20 /> <anim id="Negative" target="actor" targetSpec="" />It's AWFUL!</message>
+	<message label="105_03" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Food comics are rad! <delay20 />I love seeing
+the main character smash their way
+around a kitchen in a frenzy.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Or reading some heart-warming story
+about a little <tag a="110" b="15" /> makin' her
+dad's favorite dish.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />And the last few pages where they
+show off all that delicious food<tag a="110" b="0" /><delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />
+That does it. <delay20 />Snack time!</message>
+	<message label="106_03" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Oh! <delay20 />I've been meaning to try readin'
+some <tag a="140" b="13" arg="0xcd00" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /><delay20 />should I research a bit to find
+a good place to start, or just dive on
+in?<10_4 /> <anim id="Laughing" target="actor" targetSpec="" />Ha! <delay20 />I'm gonna dive in! <delay20 />Obviously!</message>
+	<message label="107_03" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />No comics at all?<delay20 /> To each their own,
+I guess.<delay20 /> Still, that's kinda surprising.<delay20 />
+<anim id="Serious" target="actor" targetSpec="" />There's a lot of good stuff out there!</message>
+	<message label="100_04" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What kind
+of movies do you like?</message>
+	<message label="100_04_a" attrib="00 00 00 00 00 00 00 00">Comedy.</message>
+	<message label="100_04_b" attrib="00 00 00 00 00 00 00 00">Action.</message>
+	<message label="100_04_c" attrib="00 00 00 00 00 00 00 00">Suspense.</message>
+	<message label="100_04_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_04_e" attrib="00 00 00 00 00 00 00 00">I don't watch movies.</message>
+	<message label="101_04" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what kind of
+movies do you like, <tag a="110" b="5" />?</message>
+	<message label="101_04_a" attrib="00 00 00 00 00 00 00 00">Comedy.</message>
+	<message label="101_04_b" attrib="00 00 00 00 00 00 00 00">Action.</message>
+	<message label="101_04_c" attrib="00 00 00 00 00 00 00 00">Suspense.</message>
+	<message label="101_04_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_04_e" attrib="00 00 00 00 00 00 00 00">I don't watch movies.</message>
+	<message label="102_04" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />Your favorite kind of
+movies are<tag a="110" b="0" /></message>
+	<message label="102_04_a" attrib="00 00 00 00 00 00 00 00">Comedy.</message>
+	<message label="102_04_b" attrib="00 00 00 00 00 00 00 00">Action.</message>
+	<message label="102_04_c" attrib="00 00 00 00 00 00 00 00">Suspense.</message>
+	<message label="102_04_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_04_e" attrib="00 00 00 00 00 00 00 00">I don't watch movies.</message>
+	<message label="103_04" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes! <delay20 />I love comedies!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Especially when
+it's a REALLY awkward comedy and
+the theater's super-crowded.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />I love looking around and seeing
+everyone sliding down in their seats
+when stuff gets weird.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha!</message>
+	<message label="104_04" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I love action movies, especially on
+the big screen!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Watching a universe-ending kung fu
+car chase, or an alien-monster space
+battle just ain't the same at home.</message>
+	<message label="105_04" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Really? <delay20 />Suspense movies always
+make me WAY too nervous.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Yeah, that's kind of the point, but<tag a="110" b="0" /><delay20 />
+I wanna be able to go to sleep
+eventually, you know?</message>
+	<message label="106_04" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yep! <delay20 />I've definitely watched my share
+of <tag a="140" b="13" arg="0xcd00" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />But it's been really long time since
+I watched any.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />I think I might bug
+you for recommendations later.</message>
+	<message label="107_04" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Yeah, I know a few folks like that.<delay20 />
+Every time I talk to 'em, all they do is
+tell me why movies are garbage.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />And I'm like, why're you tryin' to
+tell me not to enjoy something
+I enjoy? <delay20 />C'mon!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Sorry, <delay8 />got ranty there. <delay20 />Don't worry. <delay20 />
+I don't think you're like that. <delay20 />You're
+cool.<delay20 /> <anim id="Angry" target="actor" targetSpec="" />They're not. <delay20 />They're jerks.</message>
+	<message label="100_05" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What kind
+of TV shows do you like?</message>
+	<message label="100_05_a" attrib="00 00 00 00 00 00 00 00">Comedy.</message>
+	<message label="100_05_b" attrib="00 00 00 00 00 00 00 00">Cooking shows.</message>
+	<message label="100_05_c" attrib="00 00 00 00 00 00 00 00">Travel shows.</message>
+	<message label="100_05_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_05_e" attrib="00 00 00 00 00 00 00 00">I don't watch TV.</message>
+	<message label="101_05" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what's your
+favorite kind of TV show?</message>
+	<message label="101_05_a" attrib="00 00 00 00 00 00 00 00">Comedy.</message>
+	<message label="101_05_b" attrib="00 00 00 00 00 00 00 00">Cooking shows.</message>
+	<message label="101_05_c" attrib="00 00 00 00 00 00 00 00">Travel shows.</message>
+	<message label="101_05_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_05_e" attrib="00 00 00 00 00 00 00 00">I don't watch TV.</message>
+	<message label="102_05" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then.<delay frames="40" />
+<anim id="Pardon" target="actor" targetSpec="" />Your favorite kind of TV show is<tag a="110" b="0" /></message>
+	<message label="102_05_a" attrib="00 00 00 00 00 00 00 00">Comedy.</message>
+	<message label="102_05_b" attrib="00 00 00 00 00 00 00 00">Cooking shows.</message>
+	<message label="102_05_c" attrib="00 00 00 00 00 00 00 00">Travel shows.</message>
+	<message label="102_05_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_05_e" attrib="00 00 00 00 00 00 00 00">I don't watch TV.</message>
+	<message label="103_05" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I hear you.<delay20 /> <anim id="AbsentMindedness" target="actor" targetSpec="" />Nothing beats curling up
+in my fuzziest blanket and spacin'
+out to some laughs after a bad day.</message>
+	<message label="104_05" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Really! <delay20 />Yeah, I love cooking shows.<delay20 />
+Sometimes I'll even follow along
+while I'm watchin', <tag a="110" b="5" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Except the shows are so short and
+the cook times are long, <delay20 />so I bump
+the temperature to speed things up.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Anyway, I'm on a first-name basis
+with the folks at the fire department
+back home.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />They're all really friendly.</message>
+	<message label="105_05" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Travel shows are a blast. <delay20 />Seeing an
+exotic city, <delay8 />checking out the sites,<delay8 />
+meeting new faces<tag a="110" b="0" /><delay20 />it's all so cool!
+<anim id="Scheming" target="actor" targetSpec="" />But the best part is watchin' clueless
+tourists eat weird food. <delay20 />The faces
+they make are the BEST!<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha!</message>
+	<message label="106_05" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Seriously?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Wow, I used to watch
+<tag a="140" b="13" arg="0xcd00" /> all the
+time, <tag a="110" b="5" />!</message>
+	<message label="107_05" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You don't? <delay20 />Huh<tag a="110" b="0" /><delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />That's probably for
+the best. <delay20 />Sometimes I worry I spend
+too much time in front of the TV.</message>
+	<message label="100_06" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What's
+your favorite sport?</message>
+	<message label="100_06_a" attrib="00 00 00 00 00 00 00 00">Basketball.</message>
+	<message label="100_06_b" attrib="00 00 00 00 00 00 00 00">Boxing.</message>
+	<message label="100_06_c" attrib="00 00 00 00 00 00 00 00">Rugby.</message>
+	<message label="100_06_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_06_e" attrib="00 00 00 00 00 00 00 00">I'm not into sports.</message>
+	<message label="101_06" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what's your
+favorite sport, <tag a="110" b="5" />?</message>
+	<message label="101_06_a" attrib="00 00 00 00 00 00 00 00">Basketball.</message>
+	<message label="101_06_b" attrib="00 00 00 00 00 00 00 00">Boxing.</message>
+	<message label="101_06_c" attrib="00 00 00 00 00 00 00 00">Rugby.</message>
+	<message label="101_06_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_06_e" attrib="00 00 00 00 00 00 00 00">I'm not into sports.</message>
+	<message label="102_06" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />Your favorite sport is<tag a="110" b="0" /></message>
+	<message label="102_06_a" attrib="00 00 00 00 00 00 00 00">Basketball.</message>
+	<message label="102_06_b" attrib="00 00 00 00 00 00 00 00">Boxing.</message>
+	<message label="102_06_c" attrib="00 00 00 00 00 00 00 00">Rugby.</message>
+	<message label="102_06_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_06_e" attrib="00 00 00 00 00 00 00 00">I'm not into sports.</message>
+	<message label="103_06" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Yeah, basketball's a blast to watch.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Especially live! <delay20 />Watching it at home
+ain't even close to the same thing.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Seeing, <delay8 />right in front of you,<delay8 /> a clutch
+three-pointer, or a whole team settin'
+up an alley-oop<tag a="110" b="0" /><delay20 /> So cool!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />And hearing a hard dunk echo in the
+arena as the crowd goes nuts?<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />Yes, please!</message>
+	<message label="104_06" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Boxing, huh?<delay20 /> That's cool. <delay20 />I had a
+phase where I thought I wanted to be
+a boxer. <delay20 />I got in SO MANY fights.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I never even got around to anything
+like tryouts. <delay20 />Really, I think I was just
+kinda angry back then<tag a="110" b="0" />
+<anim id="Negative" target="actor" targetSpec="" />And besides, <delay20 />I'm pretty sure the
+moves I was doing then would've
+gotten me disqualified anyway.</message>
+	<message label="105_06" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Yeah! <delay20 />Rugby is intense! <delay20 />Ever look at
+the players' faces when they're on
+the pitch? <delay20 />They look SOOO angry.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />But then they're super friendly after
+the game.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />It's real cool how they
+leave all that aggression on the field!</message>
+	<message label="106_06" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Cool! <delay20 />I actually don't know a thing
+about <tag a="140" b="13" arg="0xcd00" />.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I actually flipped past some on TV
+the other day, <delay8 />but I only barely
+understood what I was seein'.</message>
+	<message label="107_06" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I get you. <delay20 />Is it just 'cause you're not
+into competition, <delay20 />or you don't like
+the games?<pageBreak /><anim id="Angry" target="actor" targetSpec="" /><delay20 />Or maybe it's the fans.<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Sometimes
+fans can make it real tough to enjoy
+something, <delay20 />and not just with sports<tag a="110" b="0" /></message>
+	<message label="100_07" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What's
+your favorite drink?</message>
+	<message label="100_07_a" attrib="00 00 00 00 00 00 00 00">Soda.</message>
+	<message label="100_07_b" attrib="00 00 00 00 00 00 00 00">Sports drinks.</message>
+	<message label="100_07_c" attrib="00 00 00 00 00 00 00 00">Vegetable juice.</message>
+	<message label="100_07_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_07_e" attrib="00 00 00 00 00 00 00 00">I don't have a favorite.</message>
+	<message label="101_07" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what's your
+favorite drink, <tag a="110" b="5" />?</message>
+	<message label="101_07_a" attrib="00 00 00 00 00 00 00 00">Soda.</message>
+	<message label="101_07_b" attrib="00 00 00 00 00 00 00 00">Sports drinks.</message>
+	<message label="101_07_c" attrib="00 00 00 00 00 00 00 00">Vegetable juice.</message>
+	<message label="101_07_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_07_e" attrib="00 00 00 00 00 00 00 00">I don't have a favorite.</message>
+	<message label="102_07" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />Your favorite drink is<tag a="110" b="0" /></message>
+	<message label="102_07_a" attrib="00 00 00 00 00 00 00 00">Soda.</message>
+	<message label="102_07_b" attrib="00 00 00 00 00 00 00 00">Sports drinks.</message>
+	<message label="102_07_c" attrib="00 00 00 00 00 00 00 00">Vegetable juice.</message>
+	<message label="102_07_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_07_e" attrib="00 00 00 00 00 00 00 00">I don't have a favorite.</message>
+	<message label="103_07" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, soda's pretty refreshing. <delay20 />I like
+to drink 'em when I need a breather.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I remember there was this one
+vending machine that would
+ALWAYS eat my money.<pageBreak /><anim id="Angry" target="actor" targetSpec="" />I'd put in some change, <delay20 />hit the soda
+button, <delay20 />hear a bunch of noises, and
+then<tag a="110" b="0" /><delay20 /><anim id="Negative" target="actor" targetSpec="" />nothin'.<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />One time I was having the worst day.<delay20 />
+Just AWFUL. <delay20 />And all I wanted was a
+soda and 10 minutes to cool off.<pageBreak /><anim id="Fuming" target="actor" targetSpec="" />Like clockwork, the stupid machine
+ate my change. <delay20 />Again! <delay20 />I <delay8 />just <delay8 />lost it.<delay20 />
+I punched that machine SO hard.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Well, I guess all the sodas I'd missed
+out on got stuck in the same spot.<delay20 />
+I wanted one soda, <delay20 />I got 16!</message>
+	<message label="104_07" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You like sports drinks?<delay20 /> They're
+alright, I guess.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I mean, if I just finished a run or
+whatever, they're PERFECT.<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />But if
+not? <delay20 />I think they taste kinda weird.</message>
+	<message label="105_07" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Keepin' it healthy!<delay20 /> Very cool.<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />I like
+throwin' a bunch of hot sauce into
+my veggie juice to give it some kick.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Except once I put in too much sauce,<delay20 />
+gulped it down like an idiot, <delay20 />then
+couldn't taste anything for two days.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Yeah<tag a="110" b="0" /><delay20 /> It was good to learn my
+limits, <delay8 />but that probably wasn't
+the best way to do it.</message>
+	<message label="106_07" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="140" b="13" arg="0xcd00" />, huh?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I think I've only had that once or
+twice. <delay20 />I can't even remember if I liked
+it.<delay20 /> Maybe I oughta have it again.</message>
+	<message label="107_07" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You don't? <delay20 />Tell you what, next time
+we hang out I'm gonna make you my
+<tag a="110" b="10" /> Special.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's basically <tag a="50" b="2" /><tag a="135" b="1" arg="0xcd00" /> with
+a whoooole lot of mustard.<delay frames="40" /> <anim id="Scheming" target="actor" targetSpec="" />Trust me,
+it's probably, <delay20 />maybe delicious.</message>
+	<message label="100_08" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What's
+your favorite food?</message>
+	<message label="100_08_a" attrib="00 00 00 00 00 00 00 00">Sandwiches.</message>
+	<message label="100_08_b" attrib="00 00 00 00 00 00 00 00">French fries.</message>
+	<message label="100_08_c" attrib="00 00 00 00 00 00 00 00">Custard.</message>
+	<message label="100_08_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_08_e" attrib="00 00 00 00 00 00 00 00">I don't have a favorite.</message>
+	<message label="101_08" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what's your
+favorite food, <tag a="110" b="5" />?</message>
+	<message label="101_08_a" attrib="00 00 00 00 00 00 00 00">Sandwiches.</message>
+	<message label="101_08_b" attrib="00 00 00 00 00 00 00 00">French fries.</message>
+	<message label="101_08_c" attrib="00 00 00 00 00 00 00 00">Custard.</message>
+	<message label="101_08_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_08_e" attrib="00 00 00 00 00 00 00 00">I don't have a favorite.</message>
+	<message label="102_08" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />Your favorite food is<tag a="110" b="0" /></message>
+	<message label="102_08_a" attrib="00 00 00 00 00 00 00 00">Sandwiches.</message>
+	<message label="102_08_b" attrib="00 00 00 00 00 00 00 00">French fries.</message>
+	<message label="102_08_c" attrib="00 00 00 00 00 00 00 00">Custard.</message>
+	<message label="102_08_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_08_e" attrib="00 00 00 00 00 00 00 00">I don't have a favorite.</message>
+	<message label="103_08" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />I love me some sandwiches. <delay20 />They're
+just about the perfect lazy day food.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Like, even if you wanna get super
+fancy with a sandwich, <delay20 />they still only
+take about five minutes to make!</message>
+	<message label="104_08" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />French fries are the BEST! <delay20 />They were
+basically all I wanted for every meal
+when I was little.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />That bugged my dad, though. <delay20 />Fries
+ain't exactly healthy, so he always
+made sure I ate all my greens too.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I remember tryin' to convince my dad
+that the fluffy white stuff in a fry had
+all the nutrients I'd ever need.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I don't think I'd ever seen him laugh
+so hard in my life.<delay frames="40" /> <anim id="SadSpiral" target="actor" targetSpec="" />But then he still
+made me eat my greens.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />He was right to, of course. <delay20 />And yeah,
+I still love me some fries, just<tag a="110" b="0" /><delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />along
+with other, <delay8 />healthier stuff.</message>
+	<message label="105_08" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hey, you gotta enjoy the sweet stuff
+in life, right?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />And you could do a LOT
+worse for sweet stuff than custard!</message>
+	<message label="106_08" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="140" b="13" arg="0xcd00" />?<delay20 /> Huh!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />That's rad! <delay20 />Hey, think you could
+help me figure out a good recipe
+for <tag a="140" b="13" arg="0xcd00" />?</message>
+	<message label="107_08" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I know what you mean. <delay20 />I can't pick a
+favorite either.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />There's just way too
+much crazy-tasty stuff out there.</message>
+	<message label="100_09" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What's
+your dream job?</message>
+	<message label="100_09_a" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />Musician.</message>
+	<message label="100_09_b" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="0" arg="0x200 0xcd03" />Athlete.</message>
+	<message label="100_09_c" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />CEO.</message>
+	<message label="100_09_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_09_e" attrib="00 00 00 00 00 00 00 00">I don't really have one.</message>
+	<message label="101_09" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what's your
+dream job, <tag a="110" b="5" />?</message>
+	<message label="101_09_a" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />Musician.</message>
+	<message label="101_09_b" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="0" arg="0x200 0xcd03" />Athlete.</message>
+	<message label="101_09_c" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />CEO.</message>
+	<message label="101_09_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_09_e" attrib="00 00 00 00 00 00 00 00">I don't really have one.</message>
+	<message label="102_09" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />Your dream job is<tag a="110" b="0" /></message>
+	<message label="102_09_a" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />Musician.</message>
+	<message label="102_09_b" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="0" arg="0x200 0xcd03" />Athlete.</message>
+	<message label="102_09_c" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="0" arg="0x100 0xcd03" />CEO.</message>
+	<message label="102_09_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_09_e" attrib="00 00 00 00 00 00 00 00">I don't really have one.</message>
+	<message label="103_09" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh awesome! <delay20 />What kind of musician?
+<delay20 />'Cause I can totally see you rockin' a
+stage in front of thousands.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />But are you wailing on an electric
+guitar, <delay8 />banging on drums, <delay8 />maybe
+breakin' out a violin<tag a="110" b="0" /><delay frames="40" /><anim id="Eh" target="actor" targetSpec="" />or singing?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Yeah, the instrument doesn't matter.<delay20 />
+You've got musician written all over
+you.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Not a doubt in my mind.</message>
+	<message label="104_09" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Athlete? <delay20 />Yeah, I can totally see it.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So what's your sport?<delay20 /> 'Cause I bet
+you rock at <tag a="135" b="6" arg="0xcd00" />. <delay20 />Or are
+you more the <tag a="135" b="6" arg="0xcd01" /> type?
+<anim id="Thinking" target="actor" targetSpec="" />Actually, I can imagine you doing
+both at the same time.<delay frames="60" /> <anim id="Smiling" target="actor" targetSpec="" />Yeah, if you
+wanna be an athlete, you got it!</message>
+	<message label="105_09" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You wanna be a CEO?<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Awesome!<delay20 />
+Now THAT is dreamin' big!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Honestly, the whole business thing's
+not for me, <delay20 />but if folks like you are in
+charge, then stuff's gonna be alright.</message>
+	<message label="106_09" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />OK, now THAT is an awesome dream.<delay20 />
+<tag a="50" b="3" /><tag a="140" b="13" arg="0xcd00" />? Wow!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You gotta tell me how I can help.<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />Whatever it takes, I'm in.</message>
+	<message label="107_09" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hey, that's alright. <delay20 />It took me a while
+to come up with something too.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Well, when you figure it out, let me
+know. <delay20 />I wanna help however I can!</message>
+	<message label="100_10" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What's
+your favorite hobby right now?</message>
+	<message label="100_10_a" attrib="00 00 00 00 00 00 00 00">Cooking.</message>
+	<message label="100_10_b" attrib="00 00 00 00 00 00 00 00">Playing guitar.</message>
+	<message label="100_10_c" attrib="00 00 00 00 00 00 00 00">Traveling.</message>
+	<message label="100_10_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_10_e" attrib="00 00 00 00 00 00 00 00">I don't have any hobbies.</message>
+	<message label="101_10" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what's your
+favorite hobby now, <tag a="110" b="5" />?</message>
+	<message label="101_10_a" attrib="00 00 00 00 00 00 00 00">Cooking.</message>
+	<message label="101_10_b" attrib="00 00 00 00 00 00 00 00">Playing guitar.</message>
+	<message label="101_10_c" attrib="00 00 00 00 00 00 00 00">Traveling.</message>
+	<message label="101_10_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_10_e" attrib="00 00 00 00 00 00 00 00">I don't have any hobbies.</message>
+	<message label="102_10" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />Your favorite hobby
+right now is<tag a="110" b="0" /></message>
+	<message label="102_10_a" attrib="00 00 00 00 00 00 00 00">Cooking.</message>
+	<message label="102_10_b" attrib="00 00 00 00 00 00 00 00">Playing guitar.</message>
+	<message label="102_10_c" attrib="00 00 00 00 00 00 00 00">Traveling.</message>
+	<message label="102_10_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_10_e" attrib="00 00 00 00 00 00 00 00">I don't have any hobbies.</message>
+	<message label="103_10" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Yeah, I love cooking<tag a="110" b="0" /><delay20 /><anim id="Worried" target="actor" targetSpec="" />but everyone
+always freaks out when I invite 'em
+over for dinner.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Cooking's an art, and I'm an artist.<delay20 />
+And as an artist, <delay8 />I don't think food
+needs to TASTE<delay8 /> good to BE<delay8 /> good.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />If my inspiration says that I'm makin'
+<tag a="135" b="3" arg="0xcd00" /> with, like, <delay20 /><tag a="50" b="2" />
+<tag a="135" b="1" arg="0xcd00" />, <delay20 />that's what I'm makin'!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I say it's everyone else's loss if they
+don't wanna eat art.</message>
+	<message label="104_10" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, cool! <delay20 />So<tag a="110" b="0" /><delay20 />electric or acoustic?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Ha! <delay20 />Doesn't matter, <delay8 />both rock.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Hey, if you ever start a band and
+need a solid rock-star scream in
+your lineup, <delay8 />let me know!</message>
+	<message label="105_10" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, traveling rocks. <delay20 />Explorin' a new
+place, eating all kinds of wild food<tag a="110" b="0" />
+<anim id="Grin" target="actor" targetSpec="" />It's so much fun.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />But my favorite part? <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Just soakin' up
+the local vibe of things, <delay8 />and checking
+out how folks live day-to-day.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />It's the best kind of eye-opening.<delay20 />
+I know for a fact that it helped me
+realize just how alike all of us are.</message>
+	<message label="106_10" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />I didn't think anyone here was
+into <tag a="140" b="13" arg="0xcd00" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />That's always been kind of a curiosity
+for me, really.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />I have absolutely NO
+idea if it'd be my thing.</message>
+	<message label="107_10" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I get you. <delay20 />Sometimes it's tough to
+find something that sticks.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Like, I've got my usuals, sure<tag a="110" b="0" /><delay20 />but
+I'm also always trying stuff for little
+while and dropping it.</message>
+	<message label="100_11" attrib="00 00 07 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey, I know, <tag a="110" b="5" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />What're
+you best at?<delay20 /> Like, what's your
+special talent?</message>
+	<message label="100_11_a" attrib="00 00 00 00 00 00 00 00">Cooking.</message>
+	<message label="100_11_b" attrib="00 00 00 00 00 00 00 00">Playing guitar.</message>
+	<message label="100_11_c" attrib="00 00 00 00 00 00 00 00">Fixing things.</message>
+	<message label="100_11_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="100_11_e" attrib="00 00 00 00 00 00 00 00">I don't have one.</message>
+	<message label="101_11" attrib="00 00 07 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! <delay20 />Glad I asked!<delay20 /> So<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />what're you
+best at, <tag a="110" b="5" />?<delay20 /> What's your
+special talent?</message>
+	<message label="101_11_a" attrib="00 00 00 00 00 00 00 00">Cooking.</message>
+	<message label="101_11_b" attrib="00 00 00 00 00 00 00 00">Playing guitar.</message>
+	<message label="101_11_c" attrib="00 00 00 00 00 00 00 00">Fixing things.</message>
+	<message label="101_11_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="101_11_e" attrib="00 00 00 00 00 00 00 00">I don't have one.</message>
+	<message label="102_11" attrib="00 00 07 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Help me set the record straight then,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="Pardon" target="actor" targetSpec="" />Your special talent is<tag a="110" b="0" /></message>
+	<message label="102_11_a" attrib="00 00 00 00 00 00 00 00">Cooking.</message>
+	<message label="102_11_b" attrib="00 00 00 00 00 00 00 00">Playing guitar.</message>
+	<message label="102_11_c" attrib="00 00 00 00 00 00 00 00">Fixing things.</message>
+	<message label="102_11_d" attrib="00 00 00 00 00 00 00 00">Something else.</message>
+	<message label="102_11_e" attrib="00 00 00 00 00 00 00 00">I don't have one.</message>
+	<message label="103_11" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />You're a chef? <delay20 />Now THAT's rad! <delay20 />You
+know, I'm something of a chef myself.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Or at least, I like to think so.<delay frames="40" /> <anim id="Blushing" target="actor" targetSpec="" />Burning
+food is technically cooking, right?</message>
+	<message label="104_11" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ha! <delay20 />Of course it is! <delay20 />You're a rock star.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Seriously though, that's rad. <delay20 />Let me
+know when your next gig is comin'
+up and I'll totally be there.</message>
+	<message label="105_11" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh cool!<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />Now I know who to bug
+next time my <tag a="135" b="5" arg="0xcd00" /> or
+whatever breaks.</message>
+	<message label="106_11" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Nice! <delay20 />I didn't think anyone here was
+good at <tag a="140" b="13" arg="0xcd00" />!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Did you, like, <delay20 />go off to some secret
+hideout and train under a ruthless
+master for a few years to learn that?</message>
+	<message label="107_11" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />C'mon! <delay20 />That's not true. <delay20 />There's gotta
+be SOMETHING you're good at.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />What about<tag a="110" b="0" /><delay20 /> <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh! <delay20 />What about being
+fun to talk to?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />I know for sure you're
+good at that 'cause here we are.</message>
+</msbt>

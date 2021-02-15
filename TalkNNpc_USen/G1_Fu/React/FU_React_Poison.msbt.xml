@@ -1,0 +1,10 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Um,<delay20 /> I don't want to start a panic,<delay20 />
+but I'm pretty sure that I just saw
+<anim id="Frantic" target="actor" targetSpec="" /><tag a="50" b="2" /><tag a="125" b="2" arg="0xcd00" />!
+<anim id="Worried" target="actor" targetSpec="" />Stay on your toes,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I think I just spotted
+<tag a="50" b="2" /><tag a="125" b="2" arg="0xcd00" />!<pageBreak /><anim id="Shaking" target="actor" targetSpec="" />Watch your step,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Better clear out of here,<delay20 /> now!<pageBreak /><anim id="Shaking" target="actor" targetSpec="" />I heard skittering<delay8 /><tag a="110" b="0" /> There's <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" /> around!</message>
+</msbt>

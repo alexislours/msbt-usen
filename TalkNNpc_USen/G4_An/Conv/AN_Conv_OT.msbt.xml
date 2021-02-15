@@ -1,0 +1,154 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><20_3 arg="3" /><anim id="Worried" target="subNpc" targetSpec="" /><anim id="Sighing" target="actor" targetSpec="" />Oh, come on!<anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Just get in there,<delay20 /> pick 'em up,<delay20 /> walk
+outside,<delay20 /> and release.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Nothin' to it!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I believe you, and you make it all
+sound so very easy, but<tag a="110" b="0" /><delay frames="40" />
+<anim id="Shaking" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />.<delay20 /> Ugh.<delay20 /> Vile. <delay20 />No.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />They're BUGS, <tag a="110" b="31" arg="0xcd01" />!<delay20 />
+Whaddaya think they're
+gonna do?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Worst case,<delay20 /> MAYBE you'll feel 'em
+crawlin' around in your hand.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Yuck, <delay20 />repulsive, <delay20 />appalling,<delay20 /> no!<pageBreak /><anim id="Restless" target="actor" targetSpec="" />Isn't there some other way to get
+these six-legged<tag a="110" b="0" /><delay20 />freeloaders out
+of my house?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Ha!<delay20 /> Not unless you wanna cover
+your stuff in bug guts!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="006" attrib="00 00 03 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />I object, <tag a="110" b="31" arg="0xcd00" />!<delay20 /> I cannot
+accept that there is no other way!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><20_2 arg="8" /><anim id="Angry" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, surely YOU'VE
+faced this before.<20_2 arg="6" /><delay20 /> Enlighten us!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />How do you cope with insects
+invading your home?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006_a" attrib="00 00 00 00 00 00 00 00">I just take 'em outside.</message>
+	<message label="006_b" attrib="00 00 00 00 00 00 00 00">Yikes! I just move out...</message>
+	<message label="006_c" attrib="00 00 00 00 00 00 00 00">New roommates! Woo!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Fuming" target="actor" targetSpec="" />No!<delay20 /> No!<delay20 /> No!<delay frames="40" /> <20_2 arg="5" />I'm not handling even
+ONE of those disgusting creatures.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Well, then bug guts it is!<delay20 /> Time to get
+squishin', <tag a="110" b="31" arg="0xcd01" />!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />My word!<delay20 /> No!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />First,<delay20 /> I simply haven't the
+heart—or the right heels—to
+do something like that<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />And second<tag a="110" b="0" /><delay20 /><anim id="Sighing" target="actor" targetSpec="" />there's no way insect
+innards would EVER coordinate with
+my decor.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Maybe I could<tag a="110" b="0" /><delay20 />turn my house into
+an insect exhibit?<delay frames="40" /> <anim id="SadSpiral" target="actor" targetSpec="" />Do museums
+take whole-house donations?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You just<tag a="110" b="0" />move out?<delay20 /> Cut yourself
+loose?<delay20 /> Oh my!<20_2 arg="5" /><delay20 /> Darling, your real
+estate agent must ADORE you!<anim id="Nodding" target="player" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />But<tag a="110" b="0" /><delay20 />who would knowingly buy a
+house that's pre-infested with
+bugs?<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, disgusting.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><20_2 arg="7" /><anim id="Thinking" target="actor" targetSpec="" />I guess SOMEONE must be buyin'
+'em<tag a="110" b="0" /><delay20 /> Maybe there's folks out there
+who think the bugs're a feature!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Yuck!<delay20 /> They can go right on ahead.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><delay frames="40" />
+<anim id="OhGeez" target="actor" targetSpec="" />I can barely tolerate one roommate.<delay20 />
+I cannot fathom having thousands<tag a="110" b="0" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are you suggesting that I<tag a="110" b="0" /><delay frames="40" />invite
+them to tea and let them help me
+decorate?<20_2 arg="5" /><delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Absurd!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><20_2 arg="7" /><anim id="Laughing" target="actor" targetSpec="" />BWA HA HA!<delay20 /> If you can't beat 'em,
+join 'em!<delay20 /> Right, <tag a="110" b="3" />?<anim id="Nodding" target="player" targetSpec="" /></message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Thinking" target="actor" targetSpec="" />Where would I even find teacups
+that small?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><20_3 arg="3" /><anim id="Worried" target="subNpc" targetSpec="" /><anim id="Explain" target="actor" targetSpec="" />I'm just sayin' you should leave 'em
+be!<delay20 /> I mean, what's the worst that
+could happen?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Disgusting!<delay20 /> I am NOT letting those
+six<delay8 /> or eight<delay8 /> or thirty<delay8 /> or however-
+many-legged horrors infest my yard.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Sure,<delay20 /> right now they've only taken
+my garden<tag a="110" b="0" /><delay20 />but before long, they'll
+be marching on the house too!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="023" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />So what?<delay20 /> If one gets indoors, just
+snatch it up and escort its tiny
+bug butt back outside!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="024" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />With<tag a="110" b="0" /><delay20 />w-with my HAND?<delay20 /> Ugh!
+<delay20 />Absolutely not!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Look, <tag a="110" b="31" arg="0xcd01" />,<delay20 /> if you
+want a rockin' garden,<delay20 /> you gotta
+put up with a few bugs.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />There's even some bugs that'll help
+your garden thrive!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="026" attrib="00 00 03 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I don't know about this<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><20_2 arg="8" /><anim id="Serious" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, what do you
+think?<delay20 /> <20_2 arg="6" />Do I just<tag a="110" b="0" /><delay20 />let insects
+take over my garden?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="026_a" attrib="00 00 00 00 00 00 00 00">Yep! It's for the best!</message>
+	<message label="026_b" attrib="00 00 00 00 00 00 00 00">Shoo 'em out!</message>
+	<message label="026_c" attrib="00 00 00 00 00 00 00 00">ACK! Abandon garden!</message>
+	<message label="027" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Not you too<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Fine,<delay20 /><20_2 arg="5" /> I will concede that PERHAPS<delay20 />
+some bugs MIGHT<delay20 /> be beneficial to
+one's garden.<pageBreak /><anim id="Silent" target="actor" targetSpec="" />I suppose I'll look into hiring a clutch
+of them.<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />They had better pull their
+weight and respect their boundaries!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="028" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Nodding" target="actor" targetSpec="" />Oh, they'll pull their weight, alright!<20_2 arg="7" /><10_4 />
+<anim id="Thinking" target="actor" targetSpec="" />Actually,<delay20 /> several times their weight<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Anyway, you'll see!<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />Your garden's
+gonna bloom like mad, <tag a="110" b="5" />!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Sighing" target="actor" targetSpec="" />OK. I'll trust you THIS time.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />But if I see so much as a single
+insect in my kitchen<tag a="110" b="0" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Actually, you know what? <delay20 />I'm going
+to look into some higher chairs to
+stand on.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />That's what I'd like to do, but where
+do I even begin?<delay20 /> <20_2 arg="5" />The outdoors is
+THEIR domain!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><20_2 arg="7" /><anim id="Thinking" target="actor" targetSpec="" />Maybe we can get everyone together
+and round the bugs up with
+our nets, <tag a="110" b="5" />?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 /><tag a="50" b="3" /><tag a="110" b="5" />,<delay20 /> that might work!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> Oh<tag a="110" b="0" /><delay20 />
+<anim id="SadSpiral" target="actor" targetSpec="" />but they'd trample EVERYTHING!<delay20 />
+<delay20 />No. <delay20 />Unacceptable.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Darling, I'm trying to reclaim my
+garden,<delay20 /> not level out a parking lot.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You're suggesting I step back and
+allow my yard to become overgrown
+and overrun?<anim id="TakenAback" target="mainNpc" targetSpec="" /><delay20 /> <20_2 arg="5" />Hmm<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="034" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Negative" target="actor" targetSpec="" />Don't listen to <tag a="110" b="3" />.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Gardens rock!<20_2 arg="7" /><delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />Sure, they're a lot
+of work, but you get out what
+you put in, <tag a="110" b="5" />!</message>
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />That's true.<delay20 /> Right now I'm putting in
+a lot of bother<tag a="110" b="0" /><delay frames="40" /><anim id="SadSpiral" target="actor" targetSpec="" />and my garden is
+simply bothering me in return.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="subNpc" targetSpec="" /><anim id="QuestionMark" target="actor" targetSpec="" />What's with the sour face,
+<tag a="110" b="31" arg="0xcd01" />?<delay20 /> You alright?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">I'm trying to figure out how to
+give <tag a="110" b="8" /> a more
+fashionable touch, but<tag a="110" b="0" /><pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />I think I have my work cut out for me.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />What're you talking about?<delay20 />
+<tag a="50" b="3" /><tag a="110" b="8" />'s awesome!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />We've got soothing waves,<delay20 /> fresh air,<delay20 />
+rockin' neighbors<tag a="110" b="0" /><delay20 /> What's the deal?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />It just seems like <tag a="110" b="8" />
+could stand to be more elegant.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Take you, for instance<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Take me what, <tag a="110" b="31" arg="0xcd01" />.<delay frames="40" />
+Tread <delay20 />real<delay20 /> carefully.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh,<delay20 /> I just, um<tag a="110" b="0" /><delay frames="40" /><anim id="Restless" target="actor" targetSpec="" /> I just think you could
+stand to dress a touch more stylish<tag a="110" b="0" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />A bit less punk rock, <delay20 />a bit more
+opera.<delay20 /> Th-that's all I mean.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />YOU<delay20 /> WHAT?!<anim id="Eh" target="subNpc" targetSpec="" /><pageBreak /><anim id="Sighing" target="actor" targetSpec="" />Alright,<delay20 /> listen up <tag a="110" b="31" arg="0xcd01" />
+'cause I don't wanna have to
+repeat myself.<pageBreak /><anim id="Serious" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="8" />'s just about
+perfect how it is.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Around here, some folks are fancy,<delay20 />
+some aren't.<delay20 /> You gotta just let 'em
+be who they are!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />If you go around trying to change
+everyone, you're just gonna make
+'em angry.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Cut <tag a="110" b="8" /> some slack
+and everyone,<delay20 /> even you,<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />will be a
+LOT happier for it, <tag a="110" b="5" />.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Can I be honest, <tag a="110" b="31" arg="0xcd01" />?<delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />Getting compliments from you
+is kinda<tag a="110" b="0" /><delay20 />weird.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You're not coming down with a fever
+or something are you, <tag a="110" b="5" />?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Darling,<delay20 /> I <delay20 />feel <delay20 />wonderful.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />And I would hope it isn't unusual to
+receive a compliment from me.<delay20 /> You
+have so many exquisite qualities!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Aww, shucks, <tag a="110" b="5" />.<delay20 /> You're
+makin' me blush.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />There!<delay20 /> See?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />That "<tag a="110" b="5" />"
+thing you're always saying.<delay20 /> It's
+magnificently charming!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />In fact,<delay20 /> I find it so charming that I'd
+like to use it myself.<delay frames="40" /> <anim id="Hesitate" target="actor" targetSpec="" />With your
+permission, of course.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Uh,<delay20 /> yeah<tag a="110" b="0" /><delay20 />sure.<delay20 /> Go ahead.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Say <tag a="110" b="5" /> at all your, um<tag a="110" b="0" /><delay20 />
+art soirées or sailing banquets<delay20 /> or
+whatever it is you do.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Splendid!<delay20 /> Well,<delay20 /> ahem<tag a="110" b="0" /><delay frames="40" />
+<tag a="50" b="3" /><tag a="110" b="6" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />Oh,<delay20 /> that's so wonderful!<delay20 /> I can't
+thank you enough<tag a="110" b="0" /><tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Cool.<delay20 /> Guess you're all set for your
+next charity grand prix dinner
+fund-raiser thingie, <tag a="110" b="5" />!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+</msbt>

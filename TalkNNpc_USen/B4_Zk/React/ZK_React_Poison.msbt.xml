@@ -1,0 +1,16 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Uh-oh<tag a="110" b="0" /><delay40 /> Was that<tag a="110" b="0" /><10_4 />
+<anim id="Frantic" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="2" arg="0xcd00" />?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />What? I'm not terrified!<delay20 />
+<anim id="Shaking" target="actor" targetSpec="" />YOU'RE terrified!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="2" arg="0xcd00" />!<delay frames="40" />
+<anim id="SmugFace" target="actor" targetSpec="" />Quick, hide behind me!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x4 0x5 0x6" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What a weird-looking rock.<delay20 /> No, is it<tag a="110" b="0" /><10_4 />
+<anim id="TakenAback" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="2" arg="0xcd00" />?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, look—a piece of candy!<delay frames="40" />
+<anim id="Thinking" target="actor" targetSpec="" />No, wait<tag a="110" b="0" /><anim id="Shocked" target="actor" targetSpec="" /> Ahhh!<delay20 />
+<tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="2" arg="0xcd00" />!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, look! A cute little beetle! <delay frames="40" /><anim id="Pardon" target="actor" targetSpec="" />Oh,
+<tag a="110" b="5" />, that's no beetle, that's
+<tag a="50" b="2" /><tag a="125" b="2" arg="0xcd00" />!</message>
+</msbt>

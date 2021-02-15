@@ -1,0 +1,15 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, hello again!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, what's going
+on, <tag a="110" b="3" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />What's the good word?<delay20 />
+<tag a="50" b="3" /><tag a="110" b="6" /> or what?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You always have that certain
+joie de vivre, don't you? <delay20 /><anim id="WrySmile" target="actor" targetSpec="" />That's
+French for "really cool haircut."<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="12" arg="0x6 0x7" /></message>
+	<message label="006" attrib="00 00 0c 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />We just keep running into each
+other, don't we?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />We just keep running into each
+other, don't we?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

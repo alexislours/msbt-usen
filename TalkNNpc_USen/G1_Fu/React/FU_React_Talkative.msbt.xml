@@ -1,0 +1,10 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Sorry<tag a="110" b="0" /> I actually have something
+on my mind right now.<anim id="EmotEnd" target="actor" targetSpec="" /> <anim id="FaintSmile" target="actor" targetSpec="" />Can we talk
+some other time, <tag a="110" b="5" />?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I'm sorry<tag a="110" b="0" /> <anim id="EmotEnd" target="actor" targetSpec="" />I'd love to talk, but
+<anim id="Restless" target="actor" targetSpec="" />I have something on my mind.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />You deserve my full attention, so
+can you come find me another time?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh, sorry<tag a="110" b="0" /> <anim id="Hesitate" target="actor" targetSpec="" />I have something
+I need to think over right now.<delay8 /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Let's talk later, <tag a="110" b="5" />.</message>
+</msbt>

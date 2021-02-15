@@ -1,0 +1,81 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hey there! <delay20 />Awesome to meet you.<delay20 />
+My name's <tag a="110" b="10" />. <delay20 />What
+about you?<delay20 /> Where you from?<pageBreak /><tag a="50" b="3" /><tag a="110" b="3" />, eh?<delay20 /> And you're
+from <tag a="110" b="9" />?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Cool name
+from a strong-sounding place.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />have you ever gone on a solo
+kayak tour that suddenly turned into
+a super-exciting SURVIVAL tour?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />'Cause I have! <delay20 />And it's so much
+fun out here, <tag a="110" b="5" />!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Wilderness training is just the best,
+isn't it? <delay20 />I'm <tag a="110" b="10" />.<delay20 />
+What's your name?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, huh?<delay20 /> Great to
+meet you, <tag a="110" b="3" />.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />You're
+not from <tag a="110" b="9" /> are you?<pageBreak /><anim id="Eh" target="actor" targetSpec="" />You are! <delay20 />I didn't know it was real.<delay frames="40" /><anim id="AbsentMindedness" target="actor" targetSpec="" />
+I heard the best abs on the planet
+come from there, <tag a="110" b="5" />!</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Are you here for survival training
+too?<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />My name's <tag a="110" b="10" />.<delay20 />
+What's yours?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />, huh?<delay20 /> And from
+<tag a="110" b="9" />?<delay20 /> Alright, it's cool
+to meet you!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well, I'm gonna get back to surviving.<delay20 />
+Let me know if you need help lifting
+a tree or something, <tag a="110" b="5" />.</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />You know, as much as I wanna stay
+here and train, <delay20 />I can only build so
+much muscle by gathering stuff.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />What would be REALLY cool is if I
+could live near someone that inspires
+me to go big on bulking up.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Someone like you!<delay20 /> Your triceps are
+just<tag a="110" b="0" /><delay20 />astonishing, <tag a="110" b="5" />!</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Come train on my island!</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Thanks! Good luck.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I appreciate it. <delay20 />I'm just amazed I got
+to see such glorious triceps all the
+way out here.<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Take good care of 'em!</message>
+	<message label="007" attrib="00 00 01 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Train with you? <delay20 />AND your glorious
+triceps? <delay20 />I can't turn that down.<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="9" />, here I come!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Just you wait. <delay20 />We're totally gonna
+push each other to muscular new
+weights, <tag a="110" b="5" />!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />We'll be sworn rivals of swole-dom,
+AND best buds in buff-ness.<delay20 /> It's
+gonna be mega-epic.<delay20 /> Just like us!</message>
+	<message label="007_a" attrib="00 00 00 00 00 00 00 00">Well said!</message>
+	<message label="007_b" attrib="00 00 00 00 00 00 00 00">Wow! Yes!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It'll be a blast. <delay20 />You ever seen
+30-pack abs?<delay20 /> Neither have I.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />But we're gonna, <tag a="110" b="5" />!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Alright, I just gotta bug <colour id="3" />Tom Nook
+<colour id="65535" />to put the ball in play.<delay20 /> Thanks for the
+first-round draft pick!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="009_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm out here to work on my
+hand-to-handiness.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />That means doing all my fishing, <delay8 />bug
+catching, <delay8 />and stuff gathering with
+only my bare hands.
+<anim id="SmugFace" target="actor" targetSpec="" />So far I've tripled my personal best!<delay20 />
+I have six sticks and a fistful of 
+weeds, <tag a="110" b="5" />.</message>
+	<message label="009_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />The terrain here is absolutely perfect
+for distance training.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I'd take the island home with me if I
+could, <delay8 />but my arms are already kinda
+tired for the day, <tag a="110" b="5" />.</message>
+	<message label="009_03" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Catching fish or bugs or chopping
+down trees barehanded is tough.<delay20 />
+WAY tougher than I expected!<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />But I came out here to go back to
+nature, <delay20 />and nature doesn't use
+tools, <tag a="110" b="5" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />However, if nature DID use tools,<delay20 /> I'd
+go talk to <colour id="3" />Wilbur<colour id="65535" /> for some<delay20 /> <anim id="Frantic" target="actor" targetSpec="" />because
+my hands REALLY hurt!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="010_01" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I can't wait to start working out
+in my new home. <delay20 />I'm gonna lift
+EVERYTHING, <tag a="110" b="5" />!</message>
+	<message label="010_02" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />You know muscles can talk to each
+other over great distances, right?<delay20 />
+I read that somewhere, <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />What I'm getting at is I bet that's
+how we found each other.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />Our
+muscles were fated to meet!</message>
+	<message label="010_03" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You ever go out for your morning
+triple-marathon and you just know
+something cool's gonna happen?<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Today's was like that, <tag a="110" b="5" />!</message>
+</msbt>

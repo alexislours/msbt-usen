@@ -1,0 +1,13 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00">Oh, you're here again, <tag a="110" b="5" />.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Forget something?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I like having friends over, <delay20 />but I
+always worry about bein' a bad
+host or something, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Look who's back, <tag a="110" b="5" />! <delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />Did
+you miss hanging around my place?<setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Stay as long as you want. <delay20 />I don't
+mind at all, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />I'd fix you a snack, <tag a="110" b="5" /><tag a="110" b="0" /><delay20 />
+but my cupboard's kinda bare.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

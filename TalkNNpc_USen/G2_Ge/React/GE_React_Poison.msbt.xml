@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />SHHH, <tag a="110" b="3" />!<delay8 />
+Don't move!<delay40 /> There's <tag a="50" b="2" /><20_2 arg="6" />
+<tag a="125" b="2" arg="0xcd00" />!<delay8 />
+<anim id="Frantic" target="actor" targetSpec="" /><20_3 arg="10" />Stay away from it<tag a="110" b="0" />they're way mean
+and don't play nice!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" /><delay20 /><tag a="50" b="3" /><tag a="110" b="3" /><tag a="110" b="0" />I can hear
+<tag a="50" b="2" /><tag a="125" b="2" arg="0xcd00" />!<delay20 /><20_2 arg="6" />
+Watch where you step, <tag a="110" b="6" />!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Stop, <tag a="110" b="3" />!<delay40 /><pageBreak /><anim id="Shaking" target="actor" targetSpec="" />It's super dangerous, 'K?! There's
+<tag a="50" b="2" /><tag a="125" b="2" arg="0xcd00" />!<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />It'll try to attack you if you surprise
+it, so you've got to run away<tag a="110" b="0" />
+<20_2 arg="6" /><delay20 />but run sneaky!</message>
+</msbt>

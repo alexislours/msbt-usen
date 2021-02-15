@@ -1,0 +1,75 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, nice to meet ya!<delay frames="40" />
+I'm <tag a="110" b="10" />.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I'm visiting this island today.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You're <anim id="Nodding" target="actor" targetSpec="" /><tag a="110" b="3" />?<delay frames="40" />
+From <tag a="110" b="9" />!
+That's real cool.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />This island's real neat, right?<anim id="BigSmile" target="actor" targetSpec="" /> Let's
+have some fun together while we're
+both here, <tag a="110" b="6" />!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay20 />AH! <delay20 />There's someone on this island!<delay frames="40" /><10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Ohhh.<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />You're here visiting too?!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Hey,<delay frames="40" /> I'm <tag a="110" b="10" />!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />You're <tag a="110" b="3" />?
+<anim id="Nodding" target="actor" targetSpec="" />From <tag a="110" b="9" />? <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Neat!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I didn't expect to make a friend here!<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" />This island is so cool, <tag a="110" b="6" />.</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, hey! Nice to meet you!<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I'm <tag a="110" b="10" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Cool!<delay20 /> So you're <tag a="110" b="3" />,
+from <tag a="110" b="9" />?
+Man, that's real cool.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Let's have some fun while we're
+here together, <tag a="110" b="6" />.<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />This island has so much nature!<delay20 />
+Every place you look is nature.
+It's real neat!<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />I could stay here forever, pointing at
+stuff saying, "That's nature!"<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" /><delay20 />Man, it'd be real neat to live on an
+island like this. <delay frames="40" />Full-time, I mean.<delay20 /><anim id="Love" target="actor" targetSpec="" />
+<delay20 />Just living life<tag a="110" b="0" /><delay20 />pointing at nature<tag a="110" b="0" /></message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Want to come to mine?</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Sounds lovely.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />A huh huh huh, that'd be cool.<delay frames="40" />
+<anim id="HappyDance" target="actor" targetSpec="" />I'm gonna have all the fun I can
+on this island today, <tag a="110" b="6" />!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?!<delay frames="40" /> Your island is<tag a="110" b="0" /><delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" /><tag a="110" b="9" />, right?<10_4 />
+<anim id="Thinking" target="actor" targetSpec="" />Wait.<delay frames="40" /> That sounds familiar<tag a="110" b="0" /><pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />Ohhh!<delay frames="40" /> <anim id="Restless" target="actor" targetSpec="" />I called about moving there.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />The island I wanna live on is the
+island you live on<tag a="110" b="0" /><delay frames="40" /> That's some
+real weird fate. <anim id="Laughing" target="actor" targetSpec="" /><delay20 />Real weird!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Well, now I gotta move ASAP!<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I can't wait to hang out with you
+on <tag a="110" b="9" />, <tag a="110" b="6" />!</message>
+	<message label="007" attrib="00 00 01 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?!<delay frames="40" /> You live on<tag a="110" b="0" /><delay20 />
+<tag a="110" b="9" />, right?<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Is it like this there too?<pageBreak /><anim id="Aha" target="actor" targetSpec="" />Whoa!<delay20 /> Then I wanna go!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />If your
+island's as cool as you, then
+I wanna go, <tag a="110" b="3" />.</message>
+	<message label="007_a" attrib="00 00 00 00 00 00 00 00">I'll be waiting for you.</message>
+	<message label="007_b" attrib="00 00 00 00 00 00 00 00">I can't wait.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />By the way. <anim id="ShyBoy" target="actor" targetSpec="" /><delay20 />What should I do to
+move to <tag a="110" b="9" />?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />So if I call your Mr. <colour id="3" />Tom Nook<colour id="65535" />,
+he'll tell me everything?<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Thanks!<delay20 />
+I'll call him and say hi!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Today's the best day since I found
+out what 'pasgetti was!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="009_01" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />This island has got a lotta trees and
+flowers.<anim id="Nodding" target="actor" targetSpec="" /><delay20 /> I bet they'd be good for DIY
+stuff, <tag a="110" b="6" />.</message>
+	<message label="009_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This island's small, but it's got a
+buncha fishies, <anim id="Greeting" target="actor" targetSpec="" />and almost as many
+bugs as under the floor of my house!</message>
+	<message label="009_03" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />I got real freaked out when my tool
+broke, 'cause I forgot to pack a
+spare.<10_4 /> <anim id="Explain" target="actor" targetSpec="" /><delay frames="40" />That's on me. I get that now.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Anyhoo, <colour id="3" />Wilbur <colour id="65535" />sold me a
+replacement in exchange
+for some miles, <tag a="110" b="6" />.</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="010_01" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="9" /><delay frames="40" /> sounds like a real
+great island.<delay frames="60" /> Is it fulla bugs? I like
+bugs. <anim id="BigSmile" target="actor" targetSpec="" /><delay20 />We gotta talk bugs sometime.</message>
+	<message label="010_02" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I went to play on an island<tag a="110" b="0" /><delay20 />then got
+invited by a random person to go live
+on THEIR island<tag a="110" b="0" /><delay20 /> <anim id="Hello" target="actor" targetSpec="" />So I said, yeah!<pageBreak />Change my whole life, and go chill on
+the new island for, I dunno, forever<tag a="110" b="0" /><10_4 />
+<anim id="Hello" target="actor" targetSpec="" />What a perfectly normal day!</message>
+	<message label="010_03" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Traveling on your own ain't so bad.
+<anim id="Love" target="actor" targetSpec="" />But it sure is fun to make new
+friends, <tag a="110" b="6" />!</message>
+</msbt>

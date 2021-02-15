@@ -1,0 +1,70 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Just wait until you hear this!<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I have an amazing idea<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Any guesses on what it is?<10_4 />
+<anim id="Smiling" target="actor" targetSpec="" />It's a new nickname for you!</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Really? Let's hear it.</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">Thanks, but...</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay frames="40" /> Guess what?<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I came up with a new nickname<delay20 />
+that's perfect for you!</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Oh yeah? What is it?</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">I like the one I have.</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00">So,<delay20 /> I heard one of my neighbors
+calling you <anim id="Hello" target="actor" targetSpec="" /><tag a="115" b="0" arg="0xcd00" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Love" target="actor" targetSpec="" />I think that's a great nickname.<delay20 />
+<anim id="Hesitate" target="actor" targetSpec="" />Would you mind if I used it too?</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">Sure, go for it!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00">I'd rather you didn't.</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh!<delay frames="40" /> This is a good chance to run
+an idea by you<delay8 /><tag a="110" b="0" /> <anim id="Smiling" target="actor" targetSpec="" />How would you feel<delay20 />
+about me giving you a nickname?</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Like what?</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00">Thanks, but...</message>
+	<message label="005" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Good timing!<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />I just thought up a new
+nickname for you,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" /> works, but<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Would you like to hear a brand-new
+name <anim id="Hello" target="actor" targetSpec="" />I came up with for you?</message>
+	<message label="005_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Sure. What is it?</message>
+	<message label="005_b" attrib="00 00 00 00 00 00 00 00">I'd rather keep it as is.</message>
+	<message label="006" attrib="00 00 02 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Well,<delay20 /> this is good timing<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I heard that everyone on the island<delay20 />
+calls you <tag a="115" b="0" arg="0xcd00" />.<pageBreak /><anim id="Love" target="actor" targetSpec="" />That's such a perfect nickname.<delay20 />
+<anim id="Hesitate" target="actor" targetSpec="" />So perfect,<delay20 /> I'd like to use it too<delay8 /><tag a="110" b="0" />
+Would that be OK with you?</message>
+	<message label="006_a" attrib="00 00 00 00 00 00 00 00">Of course.</message>
+	<message label="006_b" attrib="00 00 00 00 00 00 00 00">I'd rather you didn't.</message>
+	<message label="100" attrib="00 00 02 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />I'd like to call you<delay8 /><tag a="110" b="0" />
+"<tag a="110" b="3" />."<pageBreak /><anim id="Hello" target="actor" targetSpec="" />What do you think,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="100_a" attrib="00 00 00 00 00 00 00 00">Fine with me!</message>
+	<message label="100_b" attrib="00 00 00 00 00 00 00 00">I'm not feeling it.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="BrokenHeart" target="actor" targetSpec="" />Oh,<delay20 /> OK<delay8 /><tag a="110" b="0" /> <anim id="Serious" target="actor" targetSpec="" />I'm disappointed,<delay20 /> but
+I'll hold onto that nickname<delay20 /> in case
+you ever change your mind.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I'm so glad you like it!<delay frames="40" /> <anim id="HappyDance" target="actor" targetSpec="" />Looks like
+I'll be calling you <tag a="110" b="3" />
+from now on,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Ah,<delay20 /> not quite right then<delay8 /><tag a="110" b="0" /> <anim id="QuestionMark" target="actor" targetSpec="" />What kind
+of nickname<delay20 /> sounds better to you?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />So not quite right,<delay20 /> then<delay8 /><tag a="110" b="0" /> <anim id="EmotEnd" target="actor" targetSpec="" />I'll think
+about it some more<delay20 /> and try to come
+up with <anim id="FaintSmile" target="actor" targetSpec="" />a better nickname.</message>
+	<message label="105" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="3" />"?<delay20 /> But<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />That's what I was already calling you.<delay40 />
+<anim id="QuestionMark" target="actor" targetSpec="" />You're OK with that,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="105_a" attrib="00 00 00 00 00 00 00 00">Yup.</message>
+	<message label="105_b" attrib="00 00 00 00 00 00 00 00">Um... Wait...</message>
+	<message label="106" attrib="00 00 02 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="3" />"<delay8 /><tag a="110" b="0" /><pageBreak />So we're agreed<delay20 /> that's what <anim id="Hello" target="actor" targetSpec="" />I should
+call you,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="106_a" attrib="00 00 00 00 00 00 00 00">That's perfect.</message>
+	<message label="106_b" attrib="00 00 00 00 00 00 00 00">Um... Hang on...</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Not right?<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Better let me hear it<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />one
+more time.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll just keep on calling you
+"<tag a="110" b="3" />,"<delay20 /> then.</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00">Then starting today,<delay20 /> you're
+<anim id="BigSmile" target="actor" targetSpec="" />"<tag a="110" b="3" />"!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Or at least,<delay20 /> <anim id="HappyFlower" target="actor" targetSpec="" />that's what<delay8 /> I'll be
+calling you!</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00">I can understand <anim id="Nodding" target="actor" targetSpec="" />why this is a
+difficult decision.<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Give yourself
+a moment to think it through.
+<anim id="Greeting" target="actor" targetSpec="" />Can we try again,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I'm so glad<delay20 /> I got up the courage to
+ask!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Thanks,<delay20 /> "<tag a="110" b="3" />"!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Understood<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'll just stick to <anim id="FaintSmile" target="actor" targetSpec="" />what I've already
+been calling you,<delay20 /> <tag a="110" b="5" />.</message>
+</msbt>

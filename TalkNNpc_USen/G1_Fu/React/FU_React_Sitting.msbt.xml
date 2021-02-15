@@ -1,0 +1,35 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x65 0x66 0x67" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x68 0x69 0x6a" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x6b 0x6c 0x6d" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x6e 0x6f 0x70" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">Sorry for not getting up<delay8 /><tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I'm really comfortable here.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Out for a stroll,<delay20 /> <tag a="110" b="3" />?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="13" arg="0x71 0x72 0x73 0x73" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<delay frames="30" /> <anim id="Smiling" target="actor" targetSpec="" />There's a spot
+right here next to me<delay8 /><tag a="110" b="0" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I saved you a seat,<delay20 /> <tag a="110" b="5" />! </message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="13" arg="0x74 0x74 0x75 0x76" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />We've been having a great talk!</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It's great to just sit with someone.</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="13" arg="0x77 0x77 0x78 0x79" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This is really comfy,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It feels good<delay20 /> just to sit for a while.</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00">Sorry,<delay20 /> <anim id="Grin" target="actor" targetSpec="" />there's not really
+room for two here<delay8 /><tag a="110" b="0" /></message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It was warm when I sat down here<delay8 /><tag a="110" b="0" />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Another sign that spring's arrived.</message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="Hot" target="actor" targetSpec="" />I'm sweating just sitting here!</message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />It was so cold when I sat down,<delay20 />
+<anim id="Worried" target="actor" targetSpec="" />I'm worried I may be frozen here.</message>
+	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm so glad to be outdoors!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Feel free to <anim id="Smiling" target="actor" targetSpec="" />join me here.</message>
+	<message label="117" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I feel a little self-conscious
+about sitting here alone<delay8 /><tag a="110" b="0" /></message>
+	<message label="118" attrib="00 00 00 00 00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />It's really chilly,<delay20 /> sitting here!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I could use another benchwarmer.</message>
+	<message label="119" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It's nice to get some fresh air<delay20 />
+and see what everyone's up to.</message>
+	<message label="120" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />We have the best seats <anim id="HappyFlower" target="actor" targetSpec="" />on
+the island<delay20 /> for the foliage!</message>
+	<message label="121" attrib="00 00 00 00 00 00 00 00"><anim id="ColdChill" target="actor" targetSpec="" />We're huddling here for warmth<delay8 /><tag a="110" b="0" /></message>
+</msbt>

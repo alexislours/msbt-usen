@@ -1,0 +1,84 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You should consider lightenin' up
+a bit,<delay20 /> pal.<anim id="Surprised" target="subNpc" targetSpec="" /> <delay40 /><anim id="Restless" target="actor" targetSpec="" />Why're you always such
+an ornery cuss,<delay20 /> anyhow?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />That's a laugh,<delay20 /> comin' from you!<delay40 />
+<anim id="Angry" target="actor" targetSpec="" />You wanna see a surly grump?<delay40 />
+Maybe try lookin' in a mirror!<anim id="Eh" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Look at you,<delay20 /> gettin' your hackles up<delay20 />
+over <anim id="OhGeez" target="actor" targetSpec="" />a little constructive criticism.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />Constructive,<delay20 /> my hindquarters!<delay40 />
+All you can do is criticize,<delay20 /> you
+cantankerous ol' crank!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You just keep on yappin'!<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />I know!<delay frames="40" /> <20_3 arg="6" /><anim id="Smiling" target="actor" targetSpec="" />What do you say we let
+<tag a="110" b="3" /> here<delay20 /> tell us who's 
+the bigger sourpuss?</message>
+	<message label="006" attrib="00 00 05 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />An outside opinion's<delay20 /> just fine
+with me!<delay40 /> <20_3 arg="8" /><anim id="QuestionMark" target="actor" targetSpec="" />So,<delay20 /> which one of us is
+the crabbiest,<delay20 /> <tag a="110" b="3" />?</message>
+	<message label="006_a" attrib="00 00 00 00 00 00 00 00">You're both grouchy.</message>
+	<message label="006_b" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd00" />.</message>
+	<message label="006_c" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" />.</message>
+	<message label="006_d" attrib="00 00 00 00 00 00 00 00">I like both of you.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Gahaha!<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Kiddo's got a point.<delay40 /> We are
+a couple o' crotchety old cranks.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Hmmm.<delay40 /> Guess we'll just have
+to disagree to agree,<delay20 /> then.</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Gahaha!<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />The kiddo says you're the
+grouchiest!<delay40 /> Better practice smilin'!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="Worried" target="actor" targetSpec="" />I'm disappointed in you<delay20 /> <anim id="Negative" target="actor" targetSpec="" />takin'
+a bribe like that, kiddo<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Angry" target="actor" targetSpec="" />'Cause bribed's the only way I could
+see you sayin'<delay20 /> he's any better'n me!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Gahaha!<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /> <anim id="Angry" target="subNpc" targetSpec="" /><20_2 arg="5" />What'd I say?<delay40 /> Guess you'd
+better take my advice<delay20 /> and stir some
+sugar in with your lemon juice!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Tarnation<tag a="110" b="0" /> <anim id="Worried" target="actor" targetSpec="" />I've gotta be one
+miserable curmudgeon<delay20 /> for the
+kiddo to think I'm worse'n you!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Wowie,<delay20 /> <tag a="110" b="3" /><tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />You'll even get <tag a="110" b="31" arg="0xcd01" />
+to smile<delay20 /> with that kinda flattery!</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Maybe there is hope,<delay20 /> if the next
+generation is all like the kiddo.<delay40 /><pageBreak /><anim id="Worried" target="actor" targetSpec="" /><colour id="4" />Consarn it,<delay20 /> I ain't gonna cry.<colour id="65535" /></message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Aw,<delay20 /> when you put it like that<delay8 /><tag a="110" b="0" />
+<anim id="Crying" target="actor" targetSpec="" /><anim id="Crying" target="subNpc" targetSpec="" />Feels like someone's cuttin' onions!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Now, what was that thing called?<delay40 />
+<anim id="Angry" target="actor" targetSpec="" />Dang memory<delay20 /> keeps failin' me.<delay40 />
+<anim id="Frantic" target="actor" targetSpec="" />Right on the tip of my tongue too<delay8 /><tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">My brain ain't what it used to be
+either,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />but maybe we can help.<delay40 /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Can you describe what it is<delay20 /> that
+you're tryin' to think of?</message>
+	<message label="103" attrib="00 00 01 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />One of them carnival games,<delay20 /> where
+you throw somethin' to win a prize<delay8 /><tag a="110" b="0" /></message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Beanbag toss?</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Ring toss?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />That's the one!<delay40 /> <anim id="Smiling" target="actor" targetSpec="" />Beanbag toss!<delay20 />
+Why couldn't I come up with it?<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Thanks a bunch,<delay20 /> kiddo!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><20_2 arg="5" /><anim id="QuestionMark" target="actor" targetSpec="" />So why were you tryin' to
+remember<delay20 /> beanbag toss?</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?<delay40 /> <20_3 arg="5" />Oh<delay8 /><tag a="110" b="0" /> <anim id="AbsentMindedness" target="actor" targetSpec="" />I used to run that game
+on the boardwalk, see.<delay40 /> We'd rig it
+and chisel the rubes!<anim id="Pardon" target="subNpc" targetSpec="" /><delay40 /> Good times<delay8 /><tag a="110" b="0" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Right, yeah! <delay40 /><anim id="Smiling" target="actor" targetSpec="" />Ring toss!<delay40 />
+Seems obvious now.
+<anim id="FaintSmile" target="actor" targetSpec="" />Thanks for that,<delay20 /> kiddo!</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><20_2 arg="5" /><anim id="QuestionMark" target="actor" targetSpec="" />So why were you tryin' to
+remember<delay20 /> ring toss?</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />You and I should team up to protect
+this island,<delay20 /> <tag a="110" b="31" arg="0xcd01" />!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Assent" target="actor" targetSpec="" />Not a bad idea!<delay40 /> <anim id="Serious" target="actor" targetSpec="" />No one else is takin'
+all the threats out there seriously
+enough.<delay40 /> <anim id="Thinking" target="actor" targetSpec="" />All we need's a battle cry<delay8 /><tag a="110" b="0" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I like your thinkin',<delay20 /> <tag a="110" b="5" />!<delay40 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Somethin' we can yell on patrol<delay20 /> to
+put fear in the hearts of bad guys<delay8 /><tag a="110" b="0" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />How about that "<tag a="110" b="5" />"
+of yours?<anim id="Eh" target="mainNpc" targetSpec="" /> <delay40 /><anim id="FaintSmile" target="actor" targetSpec="" />Reckon that's pretty
+danged intimidatin'<delay8 /><tag a="110" b="0" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />You think so?<delay40 /> <anim id="EmotEnd" target="actor" targetSpec="" />Let's see<delay8 /><tag a="110" b="0" />
+<anim id="Fuming" target="actor" targetSpec="" />Watch it,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh yeah,<delay20 /> that's the stuff!<delay40 /> <anim id="Pardon" target="actor" targetSpec="" />I know
+I nearly jumped out of my skin,<delay20 />
+and I ain't even some wrongdoer!
+<10_10 /><anim id="Smiling" target="subNpc" targetSpec="" /><anim id="Cheering" target="actor" targetSpec="" /><size value="150" />Watch it,<delay20 /> <tag a="110" b="5" />!<size value="100" /></message>
+</msbt>

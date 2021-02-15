@@ -1,0 +1,151 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Drop and give me 20? <anim id="Negative" target="subNpc" targetSpec="" /><delay frames="40" /><anim id="Eh" target="actor" targetSpec="" />Um, <delay8 />I mean<tag a="110" b="0" />
+<anim id="Angry" target="actor" targetSpec="" />DROP AND GIVE ME 20!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You better do as I say or I'll ask
+you politely <anim id="Silent" target="subNpc" targetSpec="" />to drop and give
+me<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />um,<delay8 /> 50?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 06 00"><anim id="OhGeez" target="actor" targetSpec="" />C'mon<20_2 arg="4" /> <tag a="110" b="31" arg="0xcd00" />.<anim id="EmotEnd" target="mainNpc" targetSpec="" /> <delay8 />You gotta
+dig deep!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Open your lungs and shout at me
+like<tag a="110" b="0" /><delay8 />like<tag a="110" b="0" /><anim id="IdeaBulb" target="actor" targetSpec="" />like I spilled a glass of
+<tag a="135" b="1" arg="0xcd00" /> on your favorite dress!<anim id="Serious" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />I'll make a drill sergeant out
+of you yet!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Whaaat?! <anim id="EmotEnd" target="subNpc" targetSpec="" /><20_2 arg="3" /><delay20 />You said this was a new
+breathing exercise,<delay8 /><anim id="Negative" target="actor" targetSpec="" /> not a combat
+exercise!<anim id="ShyBoy" target="subNpc" targetSpec="" />
+<20_3 arg="6" /><anim id="Worried" target="actor" targetSpec="" />Oh <tag a="110" b="3" />,<delay8 /> help me!<anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd01" /> has roped me
+into one of his newfangled
+workout regimens.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><20_2 arg="8" /><20_2 arg="2" /><anim id="Smiling" target="actor" targetSpec="" />That's right!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><delay8 /> <20_2 arg="2" />I'm starting my own
+exercise fad! <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />I call it<tag a="110" b="0" />shout-er-cize.<anim id="Worried" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />My tag line is,<delay8 /> "Shout like a drill
+sergeant to build lungs like an
+athlete."<delay20 /><anim id="ShyBoy" target="actor" targetSpec="" /> It's a work in progress.<20_3 arg="7" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Alright, <tag a="110" b="31" arg="0xcd00" />,<delay8 /><anim id="Cheering" target="actor" targetSpec="" />
+BREAK TIME IS OVER!!<anim id="TakenAback" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Angry" target="actor" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" />For your next exercise,<delay8 /> I'm gonna
+need you to blow REAL hard into
+a whistle.<anim id="Eh" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00">Um<tag a="110" b="0" /> <20_2 arg="3" /><anim id="Explain" target="actor" targetSpec="" />Cough! Cough! <delay8 />Oh dear,<delay8 />
+it seems I'm coming down with
+a sore throat, darling.<anim id="Worried" target="subNpc" targetSpec="" />
+<anim id="Greeting" target="actor" targetSpec="" />We'll have to resume my training<tag a="110" b="0" /><anim id="Serious" target="actor" targetSpec="" />
+NEVER.<anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 06 00"><anim id="Eh" target="actor" targetSpec="" />What?<delay8 /><20_2 arg="4" /> <anim id="EmotEnd" target="mainNpc" targetSpec="" />You're throwing in the towel?!<delay20 /><anim id="Angry" target="actor" targetSpec="" /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><20_2 arg="3" />You'll never be a drill sergeant with
+that attitude, cadet!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" />To be honest, <tag a="110" b="3" />,<delay8 />
+<anim id="Grin" target="actor" targetSpec="" />camo green does NOTHING for
+my complexion.<anim id="Eh" target="subNpc" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00">I am so<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />mad at you? <delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" />Oh dear,
+I mean<tag a="110" b="0" /><anim id="Angry" target="actor" targetSpec="" />I am so mad at you!!<anim id="Negative" target="subNpc" targetSpec="" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Is that better, darling?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Look <tag a="110" b="31" arg="0xcd00" />, <20_2 arg="4" /><delay8 /><anim id="EmotEnd" target="mainNpc" targetSpec="" />I'm gonna
+need you to dig deeper.<delay20 /><anim id="Negative" target="actor" targetSpec="" /> I'm just not
+feeling your rage.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What is it <20_2 arg="3" />I'm raging about
+again?<delay20 /> For the life of me,<delay8 /><anim id="Negative" target="actor" targetSpec="" />
+I just can't remember.<anim id="Serious" target="subNpc" targetSpec="" /><20_3 arg="6" />
+<anim id="Worried" target="actor" targetSpec="" />Oh, <tag a="110" b="3" />,<delay8 />
+you must help me.<20_2 arg="8" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd01" /> has roped me
+into one of his newfangled
+exercise regimens.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />That's right.<delay8 /> <20_2 arg="2" />I'm teaching her this
+new workout called rage-aerobics.<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />
+It's all the rage.<delay8 /><anim id="BigSmile" target="actor" targetSpec="" /> HA! <delay8 />Get it?
+<anim id="Explain" target="actor" targetSpec="" />Anyway, <delay8 />it's supposed to be good for
+your lungs and your abs. <delay20 /><anim id="Aha" target="actor" targetSpec="" />You can
+really work up a sweat by yelling!<20_2 arg="7" />
+<anim id="EmotEnd" target="actor" targetSpec="" />OK, <tag a="110" b="31" arg="0xcd00" />,<delay8 /><anim id="Cheering" target="actor" targetSpec="" /> break time's
+OVER!!<anim id="TakenAback" target="mainNpc" targetSpec="" /><delay frames="40" /><anim id="Serious" target="actor" targetSpec="" /> <20_2 arg="3" />I'm gonna need you to take a
+deep breath and yell like ya mean it!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><tag a="110" b="31" arg="0xcd01" /> darling,<delay8 /><anim id="Negative" target="actor" targetSpec="" /> I just
+don't think I have it in me.<anim id="Angry" target="subNpc" targetSpec="" /><pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />Someone with my sunny disposition
+and even temperament doesn't
+NEED rage-aerobics.<anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><tag a="110" b="0" />Hey <tag a="110" b="31" arg="0xcd00" />,<20_2 arg="4" /><anim id="Grin" target="actor" targetSpec="" /> <anim id="EmotEnd" target="mainNpc" targetSpec="" />I totally
+forgot to tell you<tag a="110" b="0" /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" />You juuust missed the BIGGEST
+shoe sale of the year!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><20_2 arg="3" />Whaaaat?!<delay8 /> I—I missed it?!<anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak /><anim id="Outraged" target="actor" targetSpec="" />THIS CAN'T BE HAPPENING!<anim id="Scheming" target="subNpc" targetSpec="" /><delay20 />
+<anim id="Outraged" target="actor" targetSpec="" />SOMEONE IS GOING TO PAY FOR
+THIS! <delay20 /><anim id="Fuming" target="actor" targetSpec="" />I AM SOOOOOO <10_5 />ANGRY!<endTag a="10" b="5" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 06 00"><anim id="Fuming" target="actor" targetSpec="" />Ugh! <delay20 />Sally and her stupid seashells.<delay20 /><anim id="Grin" target="mainNpc" targetSpec="" />
+Gets me every time!<pageBreak /><anim id="Confused" target="actor" targetSpec="" />C'mon, <tag a="110" b="31" arg="0xcd00" />!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><delay20 />
+Pleeeeeeeease! <delay20 />One more time!<delay20 />
+<anim id="Worried" target="actor" targetSpec="" />I deserve another chance.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">Darling,<delay20 /> <20_2 arg="3" /><anim id="Negative" target="actor" targetSpec="" />no matter how many times
+you try, <delay20 />it's going to end the
+same way.<anim id="EmotEnd" target="subNpc" targetSpec="" />
+<anim id="SmugFace" target="actor" targetSpec="" />I'm going to win and you're going
+to lose.<pageBreak /><anim id="Scheming" target="actor" targetSpec="" />But if you'd like to suffer another
+humiliating defeat,<delay20 /> who am I to
+stop you?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><20_2 arg="8" /><anim id="FaintSmile" target="actor" targetSpec="" />Oh heya,<delay8 /> <anim id="EmotEnd" target="mainNpc" targetSpec="" /><tag a="110" b="3" />. <20_2 arg="4" /><delay20 />I've
+been having these tongue-twister battles with <tag a="110" b="31" arg="0xcd00" /><tag a="110" b="0" />
+<anim id="OhGeez" target="actor" targetSpec="" />and I've never won!<delay20 /> Not once!<delay frames="40" />
+<anim id="Eh" target="actor" targetSpec="" />This is ME we're talkin' about.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />But this time is different.<delay20 /> I can feel
+it in my glutes.<delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" /> Watch this—<delay20 />I'm
+gonna crush her with my tongue-fu!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Good grief, <20_2 arg="1" /><tag a="110" b="31" arg="0xcd01" />,
+<delay20 />let's get this over with.<anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'll go first.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Let's see your tongue
+tiptoe around THIS touchy topic<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />How many books would Tom Nook
+cook<delay20 /> <10_5 />if Tom Nook cooked his books?<endTag a="10" b="5" /><anim id="Eh" target="subNpc" targetSpec="" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Ha! <delay20 />Take THAT, my dear!<anim id="FaintSmile" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Not bad,<20_2 arg="4" /><delay8 /> not bad at all.<delay20 /><anim id="EmotEnd" target="mainNpc" targetSpec="" /> But I got
+this! <delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />Ready, <delay20 />set, <delay20 />GO!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />How many nooks would a cookbook<delay20 />
+hook <delay20 /><anim id="Eh" target="actor" targetSpec="" />if Tom Cook <delay20 />nooked his...<pageBreak /><10_10 /><tag a="10" b="12" /><anim id="Frantic" target="actor" targetSpec="" /><anim id="Laughing" target="mainNpc" targetSpec="" /><size value="150" />AAAAUUUUGH!!!<size value="100" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />Surprise, <20_2 arg="3" /><delay20 />surprise.<delay20 /> I win again.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Ah, barbells!<20_2 arg="4" /><delay20 /> <anim id="EmotEnd" target="mainNpc" targetSpec="" />My tongue just can't
+take it! <delay20 />It's too<tag a="110" b="0" /><delay20 />weak.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />I need to adjust my training routine,<delay8 />
+is all<tag a="110" b="0" /><delay20 /><anim id="Thinking" target="actor" targetSpec="" />maybe replace my chin-ups <delay20 />
+with tongue-ups<delay8 /> or something?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Oh <tag a="110" b="31" arg="0xcd01" />,<20_2 arg="3" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><delay20 />
+you poor dear<tag a="110" b="0" /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" />You can try to train your tongue to
+twist and turn<tag a="110" b="0" /><delay20 />but I am the true
+titan of tongue twisters!<anim id="Smiling" target="subNpc" targetSpec="" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Ugh! <delay20 /><20_2 arg="4" />Not again!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />I guess I've just
+gotta train even harder.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />I know! <delay20 />From now on, <delay8 />I'm gonna
+do 50 push-ups with my tongue
+at the start of each workout.<anim id="Eh" target="mainNpc" targetSpec="" />
+<anim id="Serious" target="actor" targetSpec="" />You've heard of six-pack abs?<delay20 />
+Yeah, well, <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />I'm gonna have a
+six-pack tongue!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00">Oh <tag a="110" b="31" arg="0xcd01" />,<anim id="FaintSmile" target="subNpc" targetSpec="" /><20_2 arg="3" /> <delay20 /><anim id="Negative" target="actor" targetSpec="" />I think the
+dumbbells have gone to your head.</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />No!<delay20 /><20_2 arg="4" /> I can do this! <delay20 />I just need to train
+harder! <delay frames="40" /><anim id="Confused" target="actor" targetSpec="" />I need to hit the gym and,
+uh, pump some iron<tag a="110" b="0" /><delay20 />with my face!
+<anim id="IdeaBulb" target="actor" targetSpec="" />I know! <delay20 />I'm going to start doing
+curls with my tongue.<anim id="Silent" target="mainNpc" targetSpec="" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Just you wait and see.<delay8 /><anim id="SmugFace" target="actor" targetSpec="" /> My tongue is
+gonna be so PUMPED it won't even
+fit inside my mouth!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><20_3 arg="6" />You know, <tag a="110" b="3" />, <20_2 arg="3" /><delay20 /><anim id="OhGeez" target="actor" targetSpec="" />if only
+he'd flex his brain as much as his
+face,<delay20 /> he might stand a chance.</message>
+	<message label="201" attrib="00 00 00 00 00 00 06 00"><tag a="10" b="12" /><anim id="Outraged" target="actor" targetSpec="" /><size value="200" />BOO!<size value="100" /><anim id="Shocked" target="subNpc" targetSpec="" /><delay frames="40" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="actor" targetSpec="" />Hmmm<20_2 arg="7" /><tag a="110" b="0" /><delay20 /> I think <20_2 arg="4" />you cured me<tag a="110" b="0" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" />HICCUP! <anim id="Worried" target="mainNpc" targetSpec="" /><delay frames="50" /><anim id="SadSpiral" target="actor" targetSpec="" />Ugh.<delay20 /> It's no good.<delay8 />
+I've still got 'em.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="subNpc" targetSpec="" />Oh dear. <20_2 arg="3" /><delay8 /><anim id="Negative" target="actor" targetSpec="" />That is a bother, isn't it.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><20_2 arg="8" /><anim id="OhGeez" target="actor" targetSpec="" />Oh man, <tag a="110" b="3" />,<20_2 arg="4" /><delay8 /> <anim id="EmotEnd" target="mainNpc" targetSpec="" /><20_2 arg="6" />I'm in a
+pickle. <delay20 />I got these hicc—<delay8 /><anim id="Surprised" target="actor" targetSpec="" />HIC—<delay20 /><anim id="Worried" target="actor" targetSpec="" />
+hiccups I can't get rid of.
+<anim id="Greeting" target="actor" targetSpec="" /><20_2 arg="5" />You're supposed to scare someone
+with<delay8 /><anim id="Eh" target="actor" targetSpec="" /> HIC<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />—hiccups to cure 'em.<pageBreak /><anim id="Confused" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd00" /> tried,<delay8 /> but it's not
+working.<delay20 /><anim id="Silent" target="mainNpc" targetSpec="" /> I don't know what else to—<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 06 00"><tag a="10" b="12" /><anim id="Fuming" target="actor" targetSpec="" /><size value="150" />BOO!<anim id="Surprised" target="subNpc" targetSpec="" /><20_2 arg="1" /><delay8 /> BOO!<delay8 /> BOOOOOOO!<anim id="Worried" target="subNpc" targetSpec="" />
+<tag a="50" b="3" /><tag a="110" b="6" />! <delay frames="40" /><anim id="Silent" target="actor" targetSpec="" /><size value="100" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hold on a sec<tag a="110" b="0" /><delay20 /> <anim id="EmotEnd" target="mainNpc" targetSpec="" /><20_2 arg="4" />I don't wanna get my
+hopes up,<delay8 /> but<tag a="110" b="0" /><delay20 />yep!<delay20 /> They stopped!
+<delay20 />Finally!<anim id="FaintSmile" target="mainNpc" targetSpec="" />
+<anim id="Thinking" target="actor" targetSpec="" />Y'know, <delay20 />I think it was that thing you
+said.<delay frames="40" /><anim id="QuestionMark" target="mainNpc" targetSpec="" /> <anim id="Explain" target="actor" targetSpec="" />You said "<tag a="110" b="5" />" and
+the hiccups went away.
+<anim id="Aha" target="actor" targetSpec="" />That HAD to be it!<anim id="EmotEnd" target="mainNpc" targetSpec="" /> <delay20 />I'd bet my biceps
+on it. <delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" />Saying <tag a="110" b="5" /> is a
+charm against hiccups!<anim id="Eh" target="mainNpc" targetSpec="" />
+<anim id="EmotEnd" target="actor" targetSpec="" />I know it's kinda your thing,<delay20 /> but <anim id="QuestionMark" target="actor" targetSpec="" />is it
+OK if I start saying it too so I can
+keep the hiccups away?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't think<20_2 arg="3" /> that's how it works,<delay20 /><anim id="EmotEnd" target="subNpc" targetSpec="" />
+<anim id="FaintSmile" target="actor" targetSpec="" />but if it makes you breathe easy,
+by all means, it's yours.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="208" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Awesome,<20_2 arg="4" /> <tag a="110" b="6" />!<delay20 />
+<anim id="EmotEnd" target="mainNpc" targetSpec="" />Now I'll never have to worry
+about hiccups again!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="209" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hic—HICCUP!<20_2 arg="3" /><delay20 /><anim id="TakenAback" target="subNpc" targetSpec="" /> <delay frames="40" /><anim id="Shocked" target="actor" targetSpec="" />HICCUP!<delay frames="40" /> <anim id="Shocked" target="actor" targetSpec="" />HICCUP!<delay frames="40" />
+<anim id="Worried" target="actor" targetSpec="" />Oh my, <delay20 />oh dear,<delay frames="40" /> what's happening
+to meeee!<anim id="Grin" target="subNpc" targetSpec="" /></message>
+</msbt>

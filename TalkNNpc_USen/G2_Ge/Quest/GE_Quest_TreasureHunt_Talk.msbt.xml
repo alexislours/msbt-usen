@@ -1,0 +1,20 @@
+<msbt attribsize="8">
+	<message label="100" attrib="00 00 00 00 00 00 00 00">I'm totally in the middle of
+doing a treasure hunt with
+<tag a="110" b="16" />.<pageBreak /><anim id="Hello" target="actor" targetSpec="" />Catch me later, though, 'K?</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">Hi. I'm in the middle of a treasure
+hunt with <delay20 /><tag a="110" b="16" />.
+<anim id="FaintSmile" target="actor" targetSpec="" />Maybe we can chat later?</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">I'm in the middle of a treasure hunt
+with <delay20 /><tag a="110" b="16" /> right now!<10_4 />
+<anim id="Hello" target="actor" targetSpec="" />When we're done, let's hang out.</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Huh?! I totally buried the treasure!
+<delay20 /><anim id="Serious" target="actor" targetSpec="" />For reals!<delay frames="60" /><anim id="Explain" target="actor" targetSpec="" /> Look<tag a="110" b="0" /> You have to keep
+on searching, 'K? You'll find it!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I hid that treasure in a really good
+spot. <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />And I'm pretty sure you're
+never going to find it!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's def buried out there<tag a="110" b="0" />
+somewhere! <delay20 /><anim id="Greeting" target="actor" targetSpec="" />You have to
+look reeeeally carefully!</message>
+</msbt>

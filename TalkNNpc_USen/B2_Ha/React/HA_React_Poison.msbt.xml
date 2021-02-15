@@ -1,0 +1,17 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 06 00"><anim id="TakenAback" target="actor" targetSpec="" />YIKES!<delay frames="40" /><10_9 /> <anim id="Worried" target="actor" targetSpec="" />Now don't get freaked out,
+but<tag a="110" b="0" /><delay20 />you're being watched.<pageBreak /><anim id="Angry" target="actor" targetSpec="" />Careful!<delay20 /> It looks like it wants to
+attack!<delay20 /> Tell you what, you take
+care of it<tag a="110" b="0" /><delay20 /><anim id="Greeting" target="actor" targetSpec="" />and I'll back you up.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Creepin' crawlies!<delay20 /> I just caught a
+glimpse of the enemy!<pageBreak /><20_2 arg="6" /><anim id="Shocked" target="actor" targetSpec="" />What enemy?!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />THE enemy!<delay20 /> The
+<tag a="125" b="2" arg="0xcd00" /> right<delay20 />
+over<delay20 /> there!
+<anim id="Nodding" target="actor" targetSpec="" />That thing looks poisonous!<delay frames="40" /><anim id="Frantic" target="actor" targetSpec="" /> If you
+get too close, you could be in a
+world of hurt, <tag a="110" b="5" />!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />I'll call dibs! That thing is mine to
+catch, so hands off!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Buuuuuut I guess if you REALLY
+want to take this one yourself,
+I'll let you have it.</message>
+</msbt>

@@ -1,0 +1,18 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 07 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />It's so fun when you're
+around, <tag a="110" b="2" />!<delay frames="40" /><delay frames="80" /><anim id="EmotEnd" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 03 00 00"><anim id="Greeting" target="actor" targetSpec="" />Are ya enjoying your visit?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 04 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />There's a lotta stuff to do on
+<tag a="110" b="8" />! Try and do it all!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="QuestionMark" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 09 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey there, <tag a="110" b="2" />!<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Are you gonna be sleeping
+over tonight?!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It's real nice to see ya
+again, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="006" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="1" /><tag a="110" b="0" /><pageBreak />Didja know<anim id="Scheming" target="actor" targetSpec="" /> you can stay on this
+island<tag a="110" b="0" /><delay40 /><anim id="TakenAback" target="actor" targetSpec="" />FOREVER?<delay frames="60" /> <anim id="Laughing" target="actor" targetSpec="" /><delay20 />It's true!<delay20 />
+Forever!<pageBreak /><anim id="Serious" target="actor" targetSpec="" />For<delay frames="40" />-ev<delay frames="40" />-er<delay20 />!<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 01 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="1" />!<10_4 /> Like my dance?
+<10_4 />It took a little while to figure out
+how to make the flowers happen.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

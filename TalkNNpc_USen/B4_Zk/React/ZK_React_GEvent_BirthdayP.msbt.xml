@@ -1,0 +1,21 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />What's up, <tag a="110" b="5" />? <delay20 />Looks like
+you're in the middle of something
+right now.
+<anim id="Explain" target="actor" targetSpec="" />I did want to catch up with you,
+but we can do it later.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Someone will find you once you
+say goodbye to your friend.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Ha HA! <delay20 />Doesn't that sound ominous?<delay20 /><anim id="OhGeez" target="actor" targetSpec="" /> Don't worry, it's nothing bad.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />So, uh, <tag a="110" b="3" /><tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />I know you're hanging out
+with <tag a="115" b="0" arg="0xcd00" /> right now
+and all<tag a="110" b="0" />
+<anim id="Nodding" target="actor" targetSpec="" />But there's someone else
+here who needs to talk to
+<tag a="115" b="0" arg="0xcd00" />, like, soon-ish.
+<anim id="OhGeez" target="actor" targetSpec="" />Yeah, I think it has to be today.<delay frames="40" />
+<anim id="Eh" target="actor" targetSpec="" />Maybe it's about an audition!<delay20 />
+Anyway, it seems important.
+<anim id="Smiling" target="actor" targetSpec="" />Just be sure to tell them that
+someone's looking for them and
+wants to talk to them alone.
+<anim id="WrySmile" target="actor" targetSpec="" />I'm 95 percent sure it's not a scam.</message>
+</msbt>

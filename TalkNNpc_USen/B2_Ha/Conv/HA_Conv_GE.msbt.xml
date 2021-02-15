@@ -1,0 +1,80 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Muscular timing, <tag a="110" b="3" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />We were just trying to figure out how
+to show everyone what an awesome
+place <tag a="110" b="8" /> is.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yep! <delay20 />Dancing is SUPER HOT right
+now, so I want to jump on stage and
+do a big dance show!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'll totes wow the whole crowd!
+<20_3 arg="7" /><delay20 /><anim id="Dance" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd00" />, you're one of my
+backup dancers, OK?<20_3 arg="5" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />What? <delay20 />You're kidding, right?<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />We're gonna put on a weightlifting
+competition, <delay20 />and you're gonna be
+my spotter!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Um, no. <delay20 />Weight lifting? <delay20 />Nuh-uh.<pageBreak /><anim id="Serious" target="mainNpc" targetSpec="" /><anim id="Angry" target="actor" targetSpec="" />I'm supposed to be in the spotLIGHT,<delay20 />
+not spot<tag a="110" b="0" /><delay20 />ting!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 01 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If anything's gonna be in the
+spotlight, it should be my
+mega muscles!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><20_3 arg="0" /><delay20 /><anim id="OhGeez" target="actor" targetSpec="" />Hey, <delay20 />you gotta be our tiebreaker,
+<tag a="110" b="3" />.<delay frames="40" /> What do we do?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />A weightlifting contest!</message>
+	<message label="005_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />A big dance show!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="subNpc" targetSpec="" /><anim id="BigSmile" target="actor" targetSpec="" />You got it!<delay20 /> Muscles ALWAYS bring
+the crowds!<delay20 /> <tag a="50" b="3" /><tag a="110" b="8" />'s
+gonna go muscle mad!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Alright! <delay frames="40" />Now that that's settled<tag a="110" b="0" /><delay20 />
+<anim id="SmugFace" target="actor" targetSpec="" />Time for a FLEEEEEEEX!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Fuming" target="actor" targetSpec="" />OK, you want to put muscles in the
+spotlight, you got it! <delay20 />I'll totes outlift
+EVERYONE, <tag a="110" b="5" />!<pageBreak /><20_3 arg="5" /><20_2 arg="8" /><anim id="SmugFace" target="actor" targetSpec="" /><10_10 /><tag a="10" b="12" /><size value="150" />CHECK <delay20 />OUT <delay20 />MY<delay20 /> <anim id="Pardon" target="mainNpc" targetSpec="" />FLEEEX!<size value="100" /><anim id="Clapping" target="player" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="5" /><anim id="Negative" target="mainNpc" targetSpec="" /><anim id="Nodding" target="actor" targetSpec="" />I know, right? <delay20 />Who WOULDN'T want
+to see me dancing? <anim id="BigSmile" target="actor" targetSpec="" />I'm going to be
+soooo famous, <tag a="110" b="5" />!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><20_3 arg="7" /><anim id="FaintSmile" target="actor" targetSpec="" />Alright, <tag a="110" b="31" arg="0xcd00" />, you're a
+backup dancer!<delay frames="40" /> <anim id="HappyDance" target="actor" targetSpec="" />Go get fitted
+for a donut costume, 'K?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />D-donut costume?!<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />C'mon<tag a="110" b="0" /><delay20 /> Does it
+at least have an abs window?<delay frames="40" />
+<anim id="SadSpiral" target="actor" targetSpec="" />Aw, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Yo, <tag a="110" b="31" arg="0xcd01" />! <delay20 />What's your
+workout routine like?</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Um?<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Yeah, I don't really have a
+workout routine, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Seriously?!<delay20 /> You don't do ANYTHING?<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Then how do you look so buff?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Hey, don't call me buff. <delay20 />Call me
+trending!<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />It's way different and
+très cooler, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 />I-I don't know what that means.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />OK, <delay20 />um<tag a="110" b="0" /><delay20 />yeah, you're lookin' real<tag a="110" b="0" /><delay20 />
+trending, <tag a="110" b="31" arg="0xcd01" />.<delay frames="40" /> How do
+you do it, <tag a="110" b="5" />?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh! <delay20 />But also<delay20 /> I reserve the right to
+change my mind. <delay20 />I can be "trending"
+today, <delay20 />but "buff" tomorrow!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />you're cool with being called
+buff, but only sometimes?<delay frames="60" /> <anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh, hang
+on! <delay20 />I think I get it now. <delay20 />How's this<tag a="110" b="0" /><pageBreak /><anim id="Hello" target="actor" targetSpec="" />Hey, <tag a="110" b="31" arg="0xcd01" />, <delay20 />how did you
+get such awesomely<tag a="110" b="0" /><delay20 />très trending
+biceps, <tag a="110" b="5" />?</message>
+	<message label="108" attrib="00 00 00 00 00 00 06 00"><tag a="10" b="12" /><anim id="Outraged" target="actor" targetSpec="" /><delay20 /><size value="150" />NOBODY CALLS BICEPS
+"TRÈS TRENDING"!<delay20 /><size value="100" /><anim id="Angry" target="actor" targetSpec="" /><anim id="OhGeez" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Riiiiiiiiight. <delay20 />So, <delay20 />um<tag a="110" b="0" /><delay frames="60" /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 /> OK, I get it!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Some days you do "buff" workouts,
+like weightlifting. <delay20 />But you also do
+"trending" stuff, like, uh<tag a="110" b="0" /><delay20 />footvolley.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Is <delay20 />THAT how you stay, uh<tag a="110" b="0" />très fit?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Ugh.<delay20 /> You are totes clueless!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I finally decided how I'm gonna
+sign autographs once my pro
+<tag a="135" b="6" arg="0xcd00" /> career takes off.<pageBreak /><10_11 /><tag a="10" b="12" /><delay20 />Never stop flexing, <tag a="110" b="6" />!<anim id="SmugFace" target="actor" targetSpec="" /><delay frames="40" />
+—<tag a="110" b="31" arg="0xcd00" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><10_9 /><anim id="BigSmile" target="actor" targetSpec="" />Oooo! <delay20 />I love it!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />Hey, what was that
+"<tag a="110" b="5" />" thing?</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />? <delay20 />I don't know. <delay20 />I kinda
+say it all the time.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />I just like it.
+<delay20 />No idea why.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Uh, <delay20 />it's totes the BEST is why!<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh, hey!<delay20 /> Can I use <tag a="110" b="5" /> too?<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Then we can be bestie celebrities!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />You like it that much?<delay20 /> Yeah, sure,<delay20 />
+use it all you like!<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />That sounds
+awesome, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Yaaay! <delay20 />I'm going to use <tag a="110" b="5" />
+ALL <delay frames="40" />THE <delay frames="40" />TIME! <delay20 />Once I'm a huge
+pop star, <delay20 />I'll be like<tag a="110" b="0" /><pageBreak /><10_11 /><tag a="10" b="12" /><delay20 />Stay sparkly, <tag a="110" b="6" />!<anim id="EmotEnd" target="actor" targetSpec="" /><delay frames="40" />
+—<tag a="110" b="31" arg="0xcd01" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

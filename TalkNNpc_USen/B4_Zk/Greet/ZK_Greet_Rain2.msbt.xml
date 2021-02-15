@@ -1,0 +1,27 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0x710 0x800 0xcd00" /></message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0xb10 0xc00 0xcd00" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Rain, rain, go away<tag a="110" b="0" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />That's it.<delay20 /> I'm not in the mood to
+sing a cute song!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Doesn't look like it's going to let
+up anytime soon, does it?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, all of this rain just
+soothes my soul.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="008" attrib="00 00 0c 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't ever let it rain on my parade,
+even when it's literally raining.<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />I'll
+have a parade inside—I don't care!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="009" attrib="00 00 0c 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I can see myself in the reflection
+from the rainwater misting on
+your eyelashes<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" />and I look good!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />I need the rain to stop so I can
+break out my new all-pleather
+outfit, <tag a="110" b="5" /><tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Is that all you got, rain?<delay20 /> This is
+barely even torrential! <delay20 /><anim id="Cheering" target="actor" targetSpec="" />Hit me with
+everything you got, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />How can anyone commit to
+anything in a world with such
+unpredictable weather?
+<anim id="OhGeez" target="actor" targetSpec="" />I can't even commit to one hairstyle!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

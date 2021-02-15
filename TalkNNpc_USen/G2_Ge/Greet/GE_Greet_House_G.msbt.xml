@@ -1,0 +1,9 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Are you here to see
+<tag a="115" b="1" arg="0xcd00" /> too,
+<tag a="110" b="3" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><delay20 />Ohmigosh! <delay20 />Did you totally
+know I was here?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I totally came to see
+<tag a="115" b="1" arg="0xcd00" /> too!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

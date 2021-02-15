@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="13" arg="0x4 0x5 0x4 0x6" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00">P<anim id="Worried" target="actor" targetSpec="" />lease ignore the mess and try
+not to step on anything expensive
+looking<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Hey, relax!<delay20 /> You made it! <delay20 /><anim id="Grin" target="actor" targetSpec="" />You're
+at <tag a="110" b="10" />'s house!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Sup, <tag a="110" b="3" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 00 00 00 00 00"><anim id="Hot" target="actor" targetSpec="" />Is it hot in here?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Trick question.<delay8 /> It's the hottest spot
+on <tag a="110" b="8" />, <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="006" attrib="00 00 0c 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />I feel like the place just warmed
+up a few degrees when you arrived!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Oh, <tag a="110" b="5" />, you just bumped
+the thermostat!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

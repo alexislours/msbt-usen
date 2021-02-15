@@ -1,0 +1,42 @@
+<msbt attribsize="3">
+	<message label="001" attrib="04 00 17">It's the store's drop box.<delay20 />
+Should I sell something?</message>
+	<message label="001_a" attrib="00 00 17">Yeah, let's sell!</message>
+	<message label="001_b" attrib="00 00 17">How does this work?</message>
+	<message label="001_c" attrib="00 00 17">Nah, not now.</message>
+	<message label="002" attrib="04 00 17">Should I sell more stuff through the
+drop-off box?</message>
+	<message label="002_a" attrib="00 00 17">Yeah, let's sell!</message>
+	<message label="002_b" attrib="00 00 17">How does this work?</message>
+	<message label="002_c" attrib="00 00 17">Nah, not now.</message>
+	<message label="003" attrib="04 00 17">OK<tag a="110" b="0" /> So, should I sell something?</message>
+	<message label="003_a" attrib="00 00 17">Yeah, let's sell!</message>
+	<message label="003_b" attrib="00 00 17">Let's see that again.</message>
+	<message label="003_c" attrib="00 00 17">Some other time.</message>
+	<message label="004" attrib="02 00 17">Hm, I think I'd get <colour id="1" /><tag a="90" b="24" arg="0x0" /><colour id="65535" />.<delay8 />
+Am I OK with that?</message>
+	<message label="004_a" attrib="00 00 17"><anim id="EmotEnd" target="actor" targetSpec="" />Sold!</message>
+	<message label="004_b" attrib="00 00 17"><anim id="EmotEnd" target="actor" targetSpec="" />Actually, I'll pass.</message>
+	<message label="010" attrib="04 00 17">It says it's a "drop box."<delay20 /> I guess I can
+just drop off anything I want to sell.</message>
+	<message label="010_a" attrib="00 00 17">Sell something.</message>
+	<message label="010_b" attrib="00 00 17">How does this work?</message>
+	<message label="010_c" attrib="00 00 17">Nah, not now.</message>
+	<message label="020" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />Looks like I can't use this if my
+Bank of Nook account is maxed out.</message>
+	<message label="021" attrib="00 00 17"><anim id="Thinking" target="actor" targetSpec="" />Looks like I can't sell anything else
+this way at the moment.</message>
+	<message label="101" attrib="00 00 24"><colour id="1" />How to use the drop-off box<colour id="65535" /><pageBreak />Drop off items to sell at any time!
+Just place your items inside the box.<pageBreak />Payment will be deposited into your
+Bank of Nook account <colour id="1" />the next day<colour id="65535" />.<pageBreak /><colour id="0" />1. Items are bought at 80% of their
+shop trade-in value due to handling
+fees.<pageBreak />2. We cannot return any items placed
+inside the drop-off box.<pageBreak />3. We can only trade turnips and give
+full price for hot items inside the
+store.<colour id="65535" /></message>
+	<message label="901" attrib="00 00 17">It's the drop box for the shop.<delay20 /> Only
+folks from this island can use it.</message>
+	<message label="902" attrib="00 00 17">It's some kind of drop-off box. Looks
+like only residents of this island can
+use it.</message>
+</msbt>

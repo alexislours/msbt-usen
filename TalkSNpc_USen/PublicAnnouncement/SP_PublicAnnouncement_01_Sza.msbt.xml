@@ -1,0 +1,590 @@
+<msbt attribsize="4">
+	<message label="000_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hello, <tag a="110" b="8" />!<delay40 />
+It's currently <tag a="90" b="30" />:<tag a="90" b="31" /> <tag a="110" b="19" />.</message>
+	<message label="000_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I hope you're all taking full
+advantage of your island time!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Just remember, <delay20 /><anim id="Eh" target="actor" targetSpec="" />if you push yourself
+too hard, you'll wind up exhausted.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />So, please take a break from time to
+time.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />It's important to pace yourself!</message>
+	<message label="001" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Right now on <tag a="110" b="8" />,
+it's <tag a="90" b="30" />:<tag a="90" b="31" /> <tag a="110" b="19" /><delay8 /> on <tag a="110" b="18" />,
+<tag a="90" b="28" /> <tag a="90" b="29" />, <tag a="90" b="27" />.<anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="001_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Good morning, everyone!</message>
+	<message label="001_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hello there, everyone!</message>
+	<message label="001_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Good evening, everyone!</message>
+	<message label="002" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Good evening, everyone!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> I'm here
+with a late-night broadcast!<10_4 /><anim id="Sleepy" target="actor" targetSpec="" /> I hope
+I can make it through this<tag a="110" b="0" /></message>
+	<message label="003" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Happy New Year to all of you!<delay20 /> <anim id="HappyFlower" target="actor" targetSpec="" />I can't
+wait to see what this year brings.</message>
+	<message label="004" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hello, everyone! Today is the start of
+the <colour id="1" />Lunar New Year<colour id="65535" />!<delay40 /><anim id="Clapping" target="actor" targetSpec="" /> I wish you all
+good fortune and happiness.</message>
+	<message label="005" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />And today we've had the first snow
+of the year!<delay20 /><anim id="Cheering" target="actor" targetSpec="" /> Winter has finally
+arrived, <tag a="110" b="8" />!</message>
+	<message label="005_00_01" attrib="00 00 00 00">Can you believe it? Today on<delay20 />
+<anim id="Clapping" target="actor" targetSpec="" /><tag a="110" b="8" /> we're hosting our
+very first<colour id="1" /> Fishing Tourney<colour id="65535" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />The tourney will run from <colour id="1" />9 AM <colour id="65535" />to
+<colour id="1" />6 PM<colour id="65535" />. Anyone can participate. Just
+check in at the tent in the plaza!</message>
+	<message label="005_00_02" attrib="00 00 00 00">Can you believe it? Today on
+<anim id="Clapping" target="actor" targetSpec="" /><tag a="110" b="8" /> we're hosting our
+very first<colour id="1" /> Fishing Tourney<colour id="65535" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />The tourney will run until <colour id="1" />6 PM<colour id="65535" />.
+Anyone can participate. Just check in
+at the tent in the plaza!</message>
+	<message label="005_01_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
+the <colour id="1" />spring Fishing Tourney <colour id="65535" />today
+from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
+	<message label="005_01_02" attrib="00 00 00 00">The <colour id="1" />spring Fishing Tourney<colour id="65535" /> runs
+until <colour id="1" />6 PM<colour id="65535" /> today. Get started
+in the plaza!</message>
+	<message label="005_02_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
+the <colour id="1" />summer Fishing Tourney <colour id="65535" />today
+from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
+	<message label="005_02_02" attrib="00 00 00 00">The <colour id="1" />summer Fishing Tourney<colour id="65535" /> runs
+until <colour id="1" />6 PM<colour id="65535" /> today. Get started
+in the plaza!</message>
+	<message label="005_03_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
+the <colour id="1" />fall Fishing Tourney <colour id="65535" />today from
+<colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
+	<message label="005_03_02" attrib="00 00 00 00">The <colour id="1" />fall Fishing Tourney<colour id="65535" /> runs until
+<colour id="1" />6 PM<colour id="65535" /> today. Get started in the plaza!</message>
+	<message label="005_04_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
+the <colour id="1" />winter Fishing Tourney <colour id="65535" />today
+from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
+	<message label="005_04_02" attrib="00 00 00 00">The <colour id="1" />winter Fishing Tourney<colour id="65535" /> runs
+until <colour id="1" />6 PM<colour id="65535" /> today. Get started
+in the plaza!</message>
+	<message label="006_00_01" attrib="00 00 00 00">How's this for exciting news?
+<tag a="50" b="3" /><anim id="Clapping" target="actor" targetSpec="" /><tag a="110" b="8" /> is hosting its
+very first<colour id="1" /> Bug-Off<colour id="65535" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />The tourney will run from <colour id="1" />9 AM <colour id="65535" />to
+<colour id="1" />6 PM<colour id="65535" />. Anyone can participate. Just
+check in at the tent in the plaza!</message>
+	<message label="006_00_02" attrib="00 00 00 00">How's this for exciting news?
+<tag a="50" b="3" /><anim id="Clapping" target="actor" targetSpec="" /><tag a="110" b="8" /> is hosting its
+very first<colour id="1" /> Bug-Off<colour id="65535" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />The tourney will run until <colour id="1" />6 PM<colour id="65535" />.
+Anyone can participate. Just check in
+at the tent in the plaza!</message>
+	<message label="006_01_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
+the first <colour id="1" />Bug-Off <colour id="65535" />of the season today
+from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
+	<message label="006_01_02" attrib="00 00 00 00">The first <colour id="1" />Bug-Off<colour id="65535" /> of the season runs
+until <colour id="1" />6 PM<colour id="65535" /> today!</message>
+	<message label="006_02_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
+the second <colour id="1" />Bug-Off <colour id="65535" />of the season
+today from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
+	<message label="006_02_02" attrib="00 00 00 00">The second <colour id="1" />Bug-Off<colour id="65535" /> of the season
+runs until <colour id="1" />6 PM<colour id="65535" /> today!</message>
+	<message label="006_03_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
+the third <colour id="1" />Bug-Off <colour id="65535" />of the season today
+from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
+	<message label="006_03_02" attrib="00 00 00 00">The third <colour id="1" />Bug-Off<colour id="65535" /> of the season runs
+until <colour id="1" />6 PM<colour id="65535" /> today!</message>
+	<message label="006_04_01" attrib="00 00 00 00">Starting in the plaza, we'll be holding
+the final <colour id="1" />Bug-Off <colour id="65535" />of the season today
+from <colour id="1" />9 AM<colour id="65535" /> to <colour id="1" />6 PM<colour id="65535" />!</message>
+	<message label="006_04_02" attrib="00 00 00 00">The final <colour id="1" />Bug-Off<colour id="65535" /> of the season runs
+until <colour id="1" />6 PM<colour id="65535" /> today!</message>
+	<message label="007_01" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Can you believe it?<delay20 />
+Today is the last day of <tag a="90" b="27" />!<delay20 />
+<anim id="Crying" target="actor" targetSpec="" />This year has meant so much to me<tag a="110" b="0" />
+<anim id="Eh" target="actor" targetSpec="" />Oh my!<delay40 /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />I better change the subject before
+this microphone gets all soggy.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />In celebration of New Year's Eve,<delay8 />
+we're holding a grand <colour id="1" />Countdown<colour id="65535" />
+event in the plaza.
+<anim id="Smiling" target="actor" targetSpec="" />We'll be selling and giving away
+items all day long,<delay8 /> <anim id="Nodding" target="actor" targetSpec="" />so please stop
+by to participate in the festivities!
+<anim id="HappyFlower" target="actor" targetSpec="" />I can't wait to ring in the new year
+with everyone on this island!</message>
+	<message label="007_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Good evening!<delay40 /> There's a <colour id="1" />Countdown
+<colour id="65535" />event for New Year's Eve in the plaza
+right now!<10_7 arg="210" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />The new year is only a few moments
+away, so head down to the plaza
+as quickly as you can.
+<anim id="Greeting" target="actor" targetSpec="" />See you there!<10_7 arg="210" /></message>
+	<message label="010" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />Hello, everyone.<delay40 />
+I'm sorry to interrupt your day, but I
+thought you might want to know<tag a="110" b="0" />
+<anim id="EmotEnd" target="mainNpc" targetSpec="" />It's currently <tag a="90" b="30" />:<tag a="90" b="31" /> <tag a="110" b="19" />,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />and time
+for an island-wide broadcast!</message>
+	<message label="011_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Island superstar <tag a="110" b="1" />
+is also celebrating a birthday today!</message>
+	<message label="011_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Today is also <tag a="115" b="0" arg="0xcd00" />'s
+birthday! How wonderful!</message>
+	<message label="011_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Today is also <tag a="115" b="1" arg="0xcd00" />'s
+birthday! How wonderful!</message>
+	<message label="012_01_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Today's a special day for some of our
+island residents!<delay20 /> It just so happens
+it's <tag a="110" b="1" /> and<tag a="110" b="0" /></message>
+	<message label="012_01_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Today's a special day for some of our
+island residents!<delay20 /> It just so happens
+it's <tag a="115" b="0" arg="0xcd00" /> and<tag a="110" b="0" /></message>
+	<message label="012_02_01" attrib="00 00 00 00"><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" />'s birthday!</message>
+	<message label="012_02_02" attrib="00 00 00 00"><tag a="115" b="1" arg="0xcd00" />'s birthday!</message>
+	<message label="012_02_03" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />many other residents' birthday
+today! It's amazing that so many of
+you here share the same birthday!</message>
+	<message label="013_01" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Happy birthday!!!</message>
+	<message label="013_02" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Happy birthday!!!</message>
+	<message label="021" attrib="00 00 00 00">Now for today's announcements<tag a="110" b="0" /></message>
+	<message label="022" attrib="00 00 00 00">Now for additional announcements<tag a="110" b="0" /></message>
+	<message label="031" attrib="00 00 00 00">Also!</message>
+	<message label="101" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />We have a new friend on our island!
+Let's give a big <tag a="110" b="8" />
+welcome to <tag a="115" b="1" arg="0xcd00" />!</message>
+	<message label="102" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="102_01" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" />, on behalf
+of your new island family,
+welcome aboard!</message>
+	<message label="102_02" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Congrats, <tag a="115" b="1" arg="0xcd00" />!
+I'm sure you'll enjoy
+island life here!</message>
+	<message label="102_03" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />It makes me so happy to have a new
+friend on the island!</message>
+	<message label="200" attrib="00 00 00 00">On a slightly different note<tag a="110" b="0" /></message>
+	<message label="201" attrib="00 00 00 00">Tomorrow, <tag a="110" b="8" /> bids a
+fond a farewell to our dear
+friend <tag a="115" b="1" arg="0xcd00" />.
+It's hard to say goodbye,
+but we wish <gender3 m="him" f="her" /> luck on
+<gender3 m="his" f="her" /> next big adventure.<pageBreak />Be sure to stop by for one last chat
+before <gender3 m="he" f="she" /> leaves. Maybe bring
+some tissues.</message>
+	<message label="301" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Today, we have a visitor staying at
+the <colour id="1" />campsite<colour id="65535" />!</message>
+	<message label="302" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="302_01" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />I hope the entire island joins me in
+giving our guest a warm welcome!</message>
+	<message label="302_02" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />I hope our guest is able to see what
+it is that makes <tag a="110" b="8" />
+such a special place.</message>
+	<message label="302_03" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Go meet our guest in person and
+find out more about them!</message>
+	<message label="600" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="600_01" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oh, one more thing!</message>
+	<message label="600_02" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />I almost forgot<tag a="110" b="0" /></message>
+	<message label="600_03" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Oh!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> You should all hear this!</message>
+	<message label="602" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />The weather report says <delay20 />we're in for
+a rare treat tonight:<delay8 /> <colour id="1" />shooting stars<colour id="65535" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="8" /> lit by the glow of
+a sky bursting with shooting stars<tag a="110" b="0" /><delay40 />
+<anim id="Love" target="actor" targetSpec="" />What a magical sight that will be!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />If any of you have time tonight,
+get yourselves outside and <delay8 />look up!</message>
+	<message label="603" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Right now,<delay8 /> at this very moment,
+<delay8 />the sky above <tag a="110" b="8" /> is
+full of <colour id="1" />shooting stars<colour id="65535" />!
+<anim id="Love" target="actor" targetSpec="" />It's one of the loveliest sights I've
+ever beheld,<delay20 /> so move <colour id="1" /> <colour id="65535" />to gaze at
+the magic overhead.
+<anim id="Shocked" target="actor" targetSpec="" /><delay8 />You know, <delay8 /><anim id="Explain" target="actor" targetSpec="" />there's a legend that if
+you make a wish on a shooting star
+with <colour id="1" /><colour id="65535" />,<delay20 /> it'll definitely come true!<anim id="Smiling" target="actor" targetSpec="" />
+<anim id="ShyBoy" target="actor" targetSpec="" />I don't know how accurate that
+legend is, but it's probably worth a
+try.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> So make a wish if you wish!</message>
+	<message label="610" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I don't have any big news to share
+with you all today, but<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> I would like
+to touch on one seasonal topic.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="611_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I was taking a walk on the beach this
+morning and spotted these rare
+colored shells called <colour id="1" />summer shells<colour id="65535" />!
+As the name suggests, <delay8 /><anim id="Nodding" target="actor" targetSpec="" />they only
+wash up during the summertime.</message>
+	<message label="611_02_01" attrib="00 00 00 00">Find a few yourself, <anim id="HappyFlower" target="actor" targetSpec="" />and you've got
+an excellent excuse to craft some
+fun summer memories!</message>
+	<message label="611_02_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I sent a recipe for a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />shell wreath<colour id="65535" />
+to everyone who has the <colour id="1" />DIY Recipes<colour id="65535" />
+app. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />You should try to make one!</message>
+	<message label="611_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />So get out there and pick up a few
+to craft some fun summer memories
+before the season comes to an end.</message>
+	<message label="612_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />When I was taking my morning walk
+today, I noticed that some <colour id="1" />goodies
+had fallen from the trees<colour id="65535" />.
+<anim id="Love" target="actor" targetSpec="" />What could be more "fall" than that?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Sometimes when you shake trees,
+they'll surprise you by dropping
+<colour id="1" />acorns<colour id="65535" /> or even <colour id="1" />pine cones<colour id="65535" />.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />So get on out there, folks,
+and shake things up!</message>
+	<message label="612_01_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />During today's morning walk,<delay20 />
+I noticed some <colour id="1" />goodies had fallen
+from the trees<colour id="65535" />.
+<anim id="Explain" target="actor" targetSpec="" />Sometimes when you shake trees,
+they'll surprise you by dropping
+<colour id="1" />acorns<colour id="65535" /> or even <colour id="1" />pine cones<colour id="65535" />.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Actually,<delay8 /> that may be one of the last
+times I come across that familiar
+sight this year.
+<anim id="HappyFlower" target="actor" targetSpec="" />So get on out there, folks, and
+shake things up before this
+lovely season comes to a close!</message>
+	<message label="612_02_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />That reminds me!</message>
+	<message label="612_02_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I sent out a recipe<delay8 /> for a
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tree's bounty little tree<delay8 /> <colour id="65535" />to everyone
+who has the <colour id="1" />DIY Recipes <colour id="65535" />app.
+<anim id="Nodding" target="actor" targetSpec="" />I look forward to seeing your trees!</message>
+	<message label="612_03" attrib="00 00 00 00"><anim id="Love" target="actor" targetSpec="" />I think it would be lovely to see some
+beautifully crafted fall-themed items
+pop up around the island.</message>
+	<message label="613_01" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />This morning I couldn't help but
+notice mushrooms are starting to
+pop up all over the island.
+<anim id="Love" target="actor" targetSpec="" />Mmm<tag a="110" b="0" />mushroom pie<tag a="110" b="0" /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Of course they're delicious, but don't
+forget they can also be used in the
+occasional DIY project.</message>
+	<message label="613_02_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Speaking of!</message>
+	<message label="613_02_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Everyone with the <colour id="1" />DIY Recipes<colour id="65535" /> app
+should have received my recipe for
+a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />mushroom wreath<colour id="65535" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />No fall is complete without partaking
+in that classic combo—<delay40 /><anim id="HappyFlower" target="actor" targetSpec="" />foraging
+and crafting!</message>
+	<message label="613_03" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />By the way, <delay8 />all of the mushrooms
+that grow on this island are totally
+safe to eat.<anim id="Smiling" target="actor" targetSpec="" />
+<anim id="Worried" target="actor" targetSpec="" />That said, <delay20 />it can be very difficult to
+tell mushrooms apart.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />When in doubt,<delay20 /> be sure to consult
+a fungal expert before eating any
+mushrooms you don't recognize.<anim id="Smiling" target="actor" targetSpec="" /><delay20 /></message>
+	<message label="614_01" attrib="00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />Snowy days like today always
+put a chill in my bones that I
+just can't shake<tag a="110" b="0" />
+<anim id="Smiling" target="actor" targetSpec="" />Luckily, nothing warms my heart
+more<delay20 /> <anim id="Love" target="actor" targetSpec="" />than the sight of perfect little
+<colour id="1" />snowflakes<colour id="65535" /> dancing through the air.
+<anim id="Blushing" target="actor" targetSpec="" />Sometimes I'll gently scoop them up
+with a <colour id="1" />net <colour id="65535" />to look at their beautiful
+intricacies way up close.</message>
+	<message label="614_02_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Oh yes!</message>
+	<message label="614_02_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Anyone with the <colour id="1" />DIY Recipes<colour id="65535" /> app<delay8 />
+should have received my recipe for
+a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />snowflake wreath<colour id="65535" />.
+So if you're a <colour id="1" />snowflake <colour id="65535" />catcher like
+me,<delay8 /><anim id="BigSmile" target="actor" targetSpec="" /> now you can use them to make
+a beautiful winter decoration!</message>
+	<message label="614_03" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I wholeheartedly recommend that
+everyone get out there and
+try it yourselves.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Then you can use the <colour id="1" />snowflakes <colour id="65535" />to
+craft <anim id="Smiling" target="actor" targetSpec="" />something truly wintry!</message>
+	<message label="615" attrib="00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />Oof!<delay20 /> Another one of those days
+that chills you right to the core<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Which means it's also a perfect day
+to go outside and play in the snow!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />If you do venture out into the cold,<delay8 />
+check the ground for snowballs,
+and give them a little push.
+<anim id="Smiling" target="actor" targetSpec="" />Keep rolling them up and, once they
+get big enough,<delay20 /> you can stick two
+together and make a <colour id="1" />Snowboy<colour id="65535" />!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I hope to see a whole parade
+of <colour id="1" />Snowboys<colour id="65535" /> on my morning
+walk tomorrow!</message>
+	<message label="616_01" attrib="00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />While going through my mental
+checklist this morning, I was rudely
+interrupted<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> by an errant <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />maple leaf<colour id="65535" />!
+<anim id="EmotEnd" target="actor" targetSpec="" />After brushing it off my head,<delay8 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />I came to the realization that fall
+must be coming to an end.
+<anim id="Nodding" target="actor" targetSpec="" />I do hope you all remember to enjoy
+this beautiful and vibrant time of
+year<delay8 /><anim id="Shaking" target="actor" targetSpec="" /> before winter sets in!</message>
+	<message label="616_02_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Ah!</message>
+	<message label="616_02_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Those who use the <colour id="1" />DIY Recipes<colour id="65535" /> app
+will find a new recipe in there for
+a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />red-leaf pile<colour id="65535" />. <delay20 />You're welcome!</message>
+	<message label="616_03" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />It is possible to gather <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />maple leaves
+<colour id="65535" />with a <colour id="1" />net<colour id="65535" />, you know.<pageBreak />You can use them for a <colour id="1" />DIY project<colour id="65535" />
+that will help you reme<anim id="HappyFlower" target="actor" targetSpec="" />mber the joys
+of autumn all year long.</message>
+	<message label="617_01" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />See any <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />cherry-blossom petals<colour id="65535" />
+fluttering through the air this
+morning?<delay20 /><anim id="HappyFlower" target="actor" targetSpec="" /> They looked magical!
+<anim id="FaintSmile" target="actor" targetSpec="" />It's a shame that cherry-blossom
+season is so short.<delay20 /> But maybe
+that's what makes it so special<tag a="110" b="0" /></message>
+	<message label="617_02_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Another thing!</message>
+	<message label="617_02_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I sent all <colour id="1" />DIY Recipes<colour id="65535" /> app users the
+recipe for an <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />outdoor picnic set<colour id="65535" />.<anim id="Smiling" target="actor" targetSpec="" /><pageBreak />Why not make yourself a nice lunch<delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />
+and enjoy it under the beautiful
+flowering trees!</message>
+	<message label="617_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I recommend gently scooping up the
+<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />cherry-blossom petals <colour id="65535" />with a <colour id="1" />net<colour id="65535" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Then you can use them to craft
+something SUPER special!</message>
+	<message label="618_01" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Earlier today a clump of bamboo
+caught my eye<delay8 /> and reminded me of
+a piece of horticultural trivia.
+<anim id="QuestionMark" target="actor" targetSpec="" />Did you know you that this time of
+year is perfect for harvesting fresh
+bamboo or<delay8 /> "<colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />young spring bamboo<colour id="65535" />"?</message>
+	<message label="618_02_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Which also reminds me<tag a="110" b="0" /></message>
+	<message label="618_02_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You can use <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />young spring bamboo<colour id="65535" />
+for the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />bamboo noodle slide<colour id="65535" /> recipe
+I sent out via the <colour id="1" />DIY Recipes<colour id="65535" /> app.
+<anim id="Scheming" target="actor" targetSpec="" />It's an exclusive project you can
+only collect supplies for during
+this time of year.</message>
+	<message label="618_03" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Which also reminds me<tag a="110" b="0" /><delay20 />to remind
+YOU<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> to get crafting and enjoy some
+of this season's DIY projects.</message>
+	<message label="619_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />From the middle of December to
+early January, <delay20 />the island's cedar
+trees are decorated with lights!
+<anim id="BigSmile" target="actor" targetSpec="" />I did my very best to make them
+as beautiful as they could be<tag a="110" b="0" /><delay40 /><anim id="ShyBoy" target="actor" targetSpec="" />
+but I'm not confident in my results.
+<anim id="Sighing" target="actor" targetSpec="" />I accidentally bumped into one of the
+decorated trees<delay8 /> and a few of the
+ornaments fell right off!
+<anim id="Worried" target="actor" targetSpec="" />I can only imagine what would
+happen if someone shakes a tree<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />In the interest of keeping the island
+tidy,<delay8 /><anim id="Smiling" target="actor" targetSpec="" /> please lend a hand by picking
+up any fallen ornaments you see.</message>
+	<message label="619_02_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Oh, right!</message>
+	<message label="619_02_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I sent out a recipe to all <colour id="1" />DIY Recipes
+<colour id="65535" />app users. <delay8 /><anim id="WrySmile" target="actor" targetSpec="" />What for, you may ask?<10_4 />
+<anim id="HappyFlower" target="actor" targetSpec="" />An <colour id="1" /><tag a="50" b="0" arg="0x200 0xcd03" />ornament wreath<colour id="65535" />!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I bet those fallen <colour id="1" />ornaments <colour id="65535" />you
+pick up would really come in handy
+for this type of project<tag a="110" b="0" /></message>
+	<message label="619_03" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />And I'm thinking<delay8 /> those fallen
+ornaments could be pretty useful
+for some kind of DIY project<tag a="110" b="0" /></message>
+	<message label="701" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmmm<tag a="110" b="0" /> There really isn't any news
+to speak of today<tag a="110" b="0" /> But<tag a="110" b="0" /><10_4 /><anim id="IdeaBulb" target="actor" targetSpec="" /> Oh!</message>
+	<message label="702" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="702_01" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />The latest copy of my favorite
+magazine arrived today. I'm looking
+forward to reading it later!</message>
+	<message label="702_02" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Listen to this! I was having a hard
+time with my crossword puzzle,
+but I finally figured it out!</message>
+	<message label="702_03" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Here's some personal news! I got to
+do a video chat with my family back
+home! Mom and Dad are both great!</message>
+	<message label="702_04" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />I looked up my horoscope for the
+day and it said I'm going to have
+good luck!</message>
+	<message label="702_05" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />A sock I've been looking for
+forever turned up behind my washing
+machine. It's one of my favorites!</message>
+	<message label="703_01" attrib="00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />One time, after I ate some cherries,
+I tied the stems together and made
+a neat little bracelet!</message>
+	<message label="703_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Have you ever peeled some fruit and
+managed to keep the whole peel
+connected?<delay20 /><anim id="HappyFlower" target="actor" targetSpec="" /> Earlier I did just that!</message>
+	<message label="801" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />There really isn't any news to share
+today, so I suppose I don't have
+much to say besides my hellos.</message>
+	<message label="802" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="802_01" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Though now that I think about it<tag a="110" b="0" /></message>
+	<message label="802_02" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hold on!</message>
+	<message label="802_03" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Come to think of it<tag a="110" b="0" /></message>
+	<message label="803" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Though I suppose technically the
+date has changed, <delay20 /><anim id="Shocked" target="actor" targetSpec="" />and of course<tag a="110" b="0" /></message>
+	<message label="804_01_01" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />It's almost the end of January,
+isn't it?<anim id="Smiling" target="actor" targetSpec="" /><10_4 /> We're already through one
+month of the new year!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />February is likely to be chilly as well.
+Make sure to stay bundled up<delay20 /> so you
+don't catch any colds<tag a="110" b="0" /><delay20 /><anim id="Sneezing" target="actor" targetSpec="" /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Oh! Um<tag a="110" b="0" /><delay40 /> <anim id="ShyBoy" target="actor" targetSpec="" />Be mindful about washing
+your hands. And cover your mouth
+if you do cough or sneeze!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />We need to keep those cold germs
+in check!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well then<tag a="110" b="0" /><colour id="3" />Isabelle<colour id="65535" /> signing off!
+</message>
+	<message label="804_01_02" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />It's almost the end of January,
+isn't it?<anim id="Smiling" target="actor" targetSpec="" /><10_4 /> We're already through one
+month of the new year!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Take a minute to say goodbye to
+January, everyone. And remember
+what a great month it's been!</message>
+	<message label="804_02_01" attrib="00 00 00 00">It's almost March!<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> Seems like
+February really flew by. Maybe
+because it's the shortest month.
+<anim id="Smiling" target="actor" targetSpec="" />Well, fast or slow, I hope all of you
+broadcast listeners enjoy the end
+of another wonderful month!</message>
+	<message label="804_02_02" attrib="00 00 00 00">It's almost March!<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> Seems like
+February really flew by. Maybe
+because it's the shortest month.
+<anim id="FaintSmile" target="actor" targetSpec="" />Either way, <delay20 />I hope the coming
+March flies by just as pleasantly!</message>
+	<message label="804_03" attrib="00 00 00 00">With March coming to an end,
+I wonder<tag a="110" b="0" /><delay8 /><anim id="QuestionMark" target="actor" targetSpec="" />how has this month
+treated everyone?<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Good, I hope!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well, no matter what kind of March
+you had, let's make sure that April is
+filled with joy! <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="804_04_01" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />The end of April is already upon us.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />They say, "Spring has sprung!"
+But before you know it, spring
+will<tag a="110" b="0" /><anim id="Surprised" target="actor" targetSpec="" />spring right out the door!
+<anim id="Smiling" target="actor" targetSpec="" />But we won't let that stop us from
+<anim id="Greeting" target="actor" targetSpec="" />enjoying May to the fullest, will we?
+Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="804_04_02" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It really starts to feel colder at the
+end of April, doesn't it?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I wonder if everyone listening has
+already switched over to a warmer
+wardrobe for the season.<pageBreak />I'm looking forward to seeing
+everyone's fall outfits!<10_4 /><anim id="Greeting" target="actor" targetSpec="" /> Well then,
+<colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="804_05_01" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Today we say goodbye to May.<pageBreak />We're going to see some warmer
+temperatures soon,<anim id="Smiling" target="actor" targetSpec="" /> so make sure
+you're ready for the change!</message>
+	<message label="804_05_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Today we say goodbye to May.<pageBreak />Chilly weather could be waiting just
+around the corner.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Be sure to take
+care of yourself. No colds allowed!</message>
+	<message label="804_06" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Here's an interesting thought<tag a="110" b="0" />
+<anim id="Nodding" target="actor" targetSpec="" />the year is half over now!<anim id="Smiling" target="actor" targetSpec="" /><pageBreak />Did it go fast for you? Or slow?<pageBreak />My goal for the second half of the
+year is to support you all and make
+sure you enjoy each and every day!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" /><delay8 />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="804_07_01" attrib="00 00 00 00">With July ending,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> we're starting
+our journey through the height
+of summer!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />What is everyone out there doing<anim id="QuestionMark" target="actor" targetSpec="" />
+for fun this summer?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />If you plan on taking any trips, I hope
+you remain open to all the fun
+possibilities out there!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />And when you're done, I want you to
+come back home safe and sound to
+<tag a="110" b="8" />.
+<anim id="Greeting" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="804_07_02" attrib="00 00 00 00">With July ending,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> we're heading
+into the thick of winter!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Be sure to bundle up when you go
+out.<delay20 /> It's important to stay wa<tag a="110" b="0" /><delay20 /><anim id="Sneezing" target="actor" targetSpec="" /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Oh my!<delay40 /> <anim id="ShyBoy" target="actor" targetSpec="" />I'll need to be mindful about
+covering my mouth when I sneeze or
+cough! Keep those cold germs at bay.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="804_08_01" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />The end of August is already here!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm sure we'll still have some warm
+days ahead, but chillier times aren't
+too far off!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Be ready for lower temperatures
+overnight<tag a="110" b="0" /><delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> Listen to me! I sound
+like a meteorologist!</message>
+	<message label="804_08_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />We're at the end of August,
+and here's a nice thought<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Our chilly days are nearly behind us,
+and we should start seeing some
+spring weather soon!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Now, it's easy to feel a bit under the
+weather when the seasons change.<delay20 /><anim id="Smiling" target="actor" targetSpec="" />
+So take good care of yourselves!</message>
+	<message label="804_09_01" attrib="00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />September is on its way out,
+so our days are going to be on
+the brisk side soon.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Time to switch over to those fall
+wardrobes, right?<pageBreak />I can't wait to see what sort of
+outfits you put together this year!<10_4 />
+<anim id="Greeting" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="804_09_02" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Today marks the end of September!<pageBreak />It's sometimes said spring is full of
+new encounters as well as partings.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Has anything changed in your life?
+<anim id="Smiling" target="actor" targetSpec="" />Regardless, I hope that October is a
+wonderful month for all of you!<10_4 />
+<anim id="Greeting" target="actor" targetSpec="" />Well then,<delay8 /> <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="804_10_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It's Halloween, which means<tag a="110" b="0" /><delay20 />
+<anim id="Clapping" target="actor" targetSpec="" />costumes!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> I hope I'll see some
+of you dressed up.
+<anim id="Thinking" target="actor" targetSpec="" />I'm sure some of you will be having
+fun at costume parties, <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />while some
+of you will opt for a quieter evening.
+<anim id="BigSmile" target="actor" targetSpec="" />No matter how you spend your
+Halloween, I hope you enjoy it!</message>
+	<message label="804_10_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />It's Halloween, which means<tag a="110" b="0" /><delay20 />
+<anim id="Clapping" target="actor" targetSpec="" />costumes!<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> I hope I'll see some
+of you dressed up.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I'm sure some of you attended one
+or two costume parties, <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />while some
+of you opted for a quieter evening.
+<anim id="BigSmile" target="actor" targetSpec="" />No matter how you spent your
+Halloween, I hope you're all
+set for November!</message>
+	<message label="804_11" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />I can hardly believe that November
+and this entire year are almost over!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm going to do my best to prepare
+for our year-end celebration, so you
+can all enjoy ringing in the new year!
+<anim id="Greeting" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="804_12" attrib="00 00 00 00" />
+	<message label="805" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I don't really have any big news to
+share today!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />But it is the start of a new week,<delay20 />
+and I hope it lives up to each and
+every one of your expectations!<anim id="Smiling" target="actor" targetSpec="" /><pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="806" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="806_01" attrib="00 00 00 00">No news to share today!<10_4 />
+<anim id="Smiling" target="actor" targetSpec="" />But let's give this week our all, OK?<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />This has been <colour id="3" />Isabelle<colour id="65535" />. Signing off!</message>
+	<message label="806_02" attrib="00 00 00 00">No news today<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Except that I plan to bring you
+another week of entertaining and
+informational broadcasts!
+<anim id="Greeting" target="actor" targetSpec="" />This has been <colour id="3" />Isabelle<colour id="65535" />. Signing off!</message>
+	<message label="807" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />There's no news that I can think of<tag a="110" b="0" /><10_4 />
+<anim id="Smiling" target="actor" targetSpec="" />It's only Tuesday, <delay20 />so be sure to pace
+yourselves. <delay20 /><anim id="Angry" target="actor" targetSpec="" />Don't overdo it!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="808" attrib="00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Is there really no news for
+me to share today?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Guess so!<delay20 /><anim id="HappyFlower" target="actor" targetSpec="" /> But give yourselves a pat
+on the shoulder, folks.<delay20 /> You've made
+it halfway through the week!
+<anim id="Cheering" target="actor" targetSpec="" />Let's finish strong!<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="809" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />No news to report today!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Have yourselves a wonderful
+Thursday<tag a="110" b="0" /><delay20 />or as I like to call it,<delay20 />
+<anim id="HappyFlower" target="actor" targetSpec="" />Friday Eve!
+<anim id="AbsentMindedness" target="actor" targetSpec="" />The weekend's so close,<delay20 /> I can
+almost taste it!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Well then, <colour id="3" />Isabelle<colour id="65535" /> signing off!</message>
+	<message label="810" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />No breaking news today!<10_4 />
+<anim id="ShyBoy" target="actor" targetSpec="" />Is it just me <delay20 />or did this week fly by?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I know how hard all of you worked,
+so<delay40 /><anim id="Greeting" target="actor" targetSpec="" /> I hope you enjoy a well-deserved
+lovely weekend!</message>
+	<message label="811" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />No big announcements today.<10_4 />
+Instead,<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> allow me to wish you all a
+fun <tag a="110" b="8" /> weekend!</message>
+	<message label="820" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmmm<tag a="110" b="0" /> There really isn't any news
+to speak of today<tag a="110" b="0" /></message>
+	<message label="821" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh yeah! <delay40 /><anim id="QuestionMark" target="actor" targetSpec="" />Did anyone else see that
+movie that was on TV yesterday?<delay20 />
+<anim id="Explain" target="actor" targetSpec="" />It's that one they play all the time.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Even though I've seen it a million
+times,<delay20 /> I never see that final twist
+coming.<delay20 /><anim id="Frantic" target="actor" targetSpec="" /> I'm still reeling!</message>
+	<message label="822" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh! <delay40 /><anim id="QuestionMark" target="actor" targetSpec="" />Did anyone else catch that quiz
+show on TV yesterday?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />How do they come up with all those
+questions each week?<delay20 /> Let alone
+all the answers<tag a="110" b="0" /></message>
+	<message label="823" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hey! <delay40 /><anim id="QuestionMark" target="actor" targetSpec="" />Did anyone else watch that
+variety show on TV yesterday?<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />The stand-up comedian they had
+on was fantastic!<delay20 /> I laughed for
+an hour straight!
+<anim id="Worried" target="actor" targetSpec="" />It was kind of painful.</message>
+	<message label="824" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh! <delay40 /><anim id="QuestionMark" target="actor" targetSpec="" />Did anyone else see that talk
+show yesterday? <delay20 />On TV?<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />You know the one.
+<anim id="Smiling" target="actor" targetSpec="" />I like watching for the guests,<delay20 /><anim id="Sighing" target="actor" targetSpec="" /> but
+the hosts are such chatterboxes!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />They're always rambling on<tag a="110" b="0" /><delay20 />
+and on<tag a="110" b="0" /><delay20 />and on<tag a="110" b="0" /><delay20 />and on<tag a="110" b="0" /><delay20 /></message>
+	<message label="825" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hey! <delay40 /><anim id="QuestionMark" target="actor" targetSpec="" />Did anyone else catch
+yesterday's cooking show?<pageBreak /><anim id="Love" target="actor" targetSpec="" />The spiced <tag a="135" b="3" arg="0xcd00" /> they
+featured looked so delicious!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'm thinking about trying out the
+recipe myself tonight.<delay20 /> Wish me luck!</message>
+	<message label="826" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />By the way, did anyone tune in for
+that documentary show that was on
+TV yesterday?
+<anim id="Smiling" target="actor" targetSpec="" />It was all about the history of
+<tag a="135" b="6" arg="0xcd00" />.<delay20 /> And actually, it was
+quite informative.
+<anim id="Explain" target="actor" targetSpec="" />For one thing,<delay8 /> I learned that talking
+about <tag a="135" b="6" arg="0xcd00" /> puts me right
+to sleep!<anim id="Laughing" target="actor" targetSpec="" /><delay40 /></message>
+	<message label="827" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Say! <delay40 />Did anyone else catch<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> that
+concert on TV yesterday?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />My favorite band was one of the
+featured acts <delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />and their music's still
+stuck in my head.</message>
+	<message label="828" attrib="00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay40 />Oh dear<tag a="110" b="0" /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" />There I go again, prattling on about
+my personal TV habits.<delay20 /> Sorry, folks!</message>
+	<message label="831" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="831_01" attrib="00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Ack!<delay40 /> I forgot that yesterday was the
+cutoff to enter that contest with the
+great prize<tag a="110" b="0" /></message>
+	<message label="831_02" attrib="00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Oh no!<delay40 /><anim id="Worried" target="actor" targetSpec="" /> I forgot to bring in my
+laundry this morning!</message>
+	<message label="831_03" attrib="00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Uh-oh!<delay40 /> I don't think I charged my
+phone last night<tag a="110" b="0" /><delay40 /><anim id="Frantic" target="actor" targetSpec="" /> What'll I do if
+there's an emergency?</message>
+	<message label="831_04" attrib="00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Phooey!<delay40 /> My brother asked me to
+give him a wake-up call this morning
+and it totally slipped my mind!
+<anim id="OhGeez" target="actor" targetSpec="" />I hope he's not still asleep<tag a="110" b="0" /></message>
+	<message label="899" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Err<tag a="110" b="0" /> <anim id="Shocked" target="actor" targetSpec="" />Oh dear.<delay40 /><anim id="Blushing" target="actor" targetSpec="" /> I guess that doesn't
+really qualify as "news," does it?</message>
+	<message label="901" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="901_01" attrib="00 00 00 00">That's all for now.<delay8 /> I hope you all<delay8 />
+<anim id="Smiling" target="actor" targetSpec="" />enjoy the loveliest of lovely days!</message>
+	<message label="901_02" attrib="00 00 00 00">That's all for today<tag a="110" b="0" /><delay8 /> <anim id="BigSmile" target="actor" targetSpec="" />Have a fun day
+out there!</message>
+	<message label="901_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />And with that, I'll get back to work
+supporting you and your enjoyment
+of our island.</message>
+</msbt>

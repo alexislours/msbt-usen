@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Did you hear the news?<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />Poor
+<tag a="115" b="1" arg="0xcd00" /> isn't feeling
+well at all.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />If you have time, <tag a="110" b="3" />,<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />could you go see how
+<gender3 m="he" f="she" />'s doing?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I heard that <tag a="115" b="1" arg="0xcd00" />
+is sick and can't leave
+<gender3 m="his" f="her" /> home.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I wonder if you'd mind stopping by<delay20 />
+to ask if there's anything <gender3 m="he" f="she" /> needs?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I heard that <tag a="115" b="1" arg="0xcd00" /> isn't
+feeling great<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />If you could spare the time to check
+in on <gender3 m="him" f="her" />,<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />it'd set my mind at ease.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

@@ -1,0 +1,9 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh my! <delay frames="30" />The game ended, but you
+still went to find the treasure?!<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Well then,<delay8 /> I'll take it back now.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />Thank you so very much for saving
+me the trouble of digging it up!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Unfortunately you ran out of time, so
+there's no reward. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />But perhaps you'll
+do better next time, <tag a="110" b="6" />.</message>
+</msbt>

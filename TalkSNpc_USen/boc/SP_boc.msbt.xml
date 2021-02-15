@@ -1,0 +1,159 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hullo there! <delay20 />I'm <colour id="3" />Daisy Mae<colour id="65535" />!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Do you know my gram-gram, <colour id="3" />Joan<colour id="65535" />?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />She seems to know an awful lot
+of folks, so I always ask.
+<anim id="Explain" target="actor" targetSpec="" />Anyway, she said I'm old enough
+now to help out with the family
+business, so here I am!
+<anim id="Shocked" target="actor" targetSpec="" />Oh! <delay20 />I forgot to tell you what
+the family business is.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />It's sellin' turnips!<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Have you heard
+of <colour id="1" />Sow Joan's Stalk Market<colour id="65535" />?<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Well, I'll be here every Sunday
+mornin' with a fresh crop of
+turnips, so come say hi anytime!</message>
+	<message label="002" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />G'morning!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />You here to start your Sunday off
+with some fresh turnips?</message>
+	<message label="003" attrib="02 00 00 00"><size value="75" /><anim id="OhGeez" target="actor" targetSpec="" />Ah, phooey, <colour id="3" />Daisy Mae<colour id="65535" />.<delay20 />
+You forgot the sales pitch!<pageBreak /><size value="75" /><anim id="Negative" target="actor" targetSpec="" /><size value="75" />Gram-Gram's told me enough times,
+I oughta remember how this goes by now<tag a="110" b="0" /><size value="100" /><pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />So<tag a="110" b="0" />do you wanna hear about how
+<colour id="1" />Sow Joan's Stalk Market<colour id="65535" /> works?</message>
+	<message label="003_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yes, please!</message>
+	<message label="003_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No, thanks.</message>
+	<message label="004" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, are you sure?<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />Whew, that's a relief! <delay20 />I'm still
+learnin' what half of this stuff
+means. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />A-heeheehee!</message>
+	<message label="005" attrib="02 00 00 00"><anim id="Serious" target="actor" targetSpec="" /><size value="75" />Umm<tag a="110" b="0" /> OK, you can do this<tag a="110" b="0" /><size value="100" /><pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />So! <delay20 />Turnips are a cute li'l root
+vegetable that are good for
+picklin' or stewin'<tag a="110" b="0" />
+<anim id="OhGeez" target="actor" targetSpec="" />Ack!<delay20 /> Gram-Gram always says that
+the stalk-market turnips are for
+sellin', not eatin'. <delay20 />I always forget!
+<anim id="Explain" target="actor" targetSpec="" />Anyway, if you time things right,
+they can be mighty nutritious for
+your bank account!
+<anim id="QuestionMark" target="actor" targetSpec="" />Should I keep goin' with
+the explanation?</message>
+	<message label="005_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="005_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
+	<message label="006" attrib="00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />A-heeheehee! <delay20 />I don't blame ya!<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />Gram-Gram is always talkin' folks'
+ears off about turnips.</message>
+	<message label="007" attrib="02 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />OK!<10_4 /> <anim id="Thinking" target="actor" targetSpec="" />Now, let's see then<tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Oh yeah! <delay20 />The whole point of buyin'
+our turnips is so you can turn
+around and sell 'em at a profit.
+<anim id="Thinking" target="actor" targetSpec="" />Gram-Gram always says somethin'
+about 'em "turnin' up" a profit.<10_4 />
+<anim id="Negative" target="actor" targetSpec="" />I don't exactly get it.
+<anim id="QuestionMark" target="actor" targetSpec="" />Anyway, you know <colour id="3" />Timmy<colour id="65535" />, right?<delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" /> He's
+always in the market for buyin', when
+it comes time for you to be sellin'.
+<anim id="QuestionMark" target="actor" targetSpec="" />Should I keep goin'?</message>
+	<message label="007_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Let's hear it!</message>
+	<message label="007_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I'm good.</message>
+	<message label="008" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />OK, this is a real important part,
+so I'm gonna try my best to
+explain carefully<tag a="110" b="0" />
+<anim id="Negative" target="actor" targetSpec="" />You don't wanna buy these turnips
+and keep 'em for too long. <delay20 />They'll
+rot after one week!
+<anim id="Serious" target="actor" targetSpec="" />So if you buy some from me on a
+Sunday, you gotta remember to sell
+'em before the NEXT Sunday.
+<anim id="Explain" target="actor" targetSpec="" />Gram-Gram always says there's
+nothin' worse than a tent full o'
+rotten turnips, but it ain't true.
+<anim id="Pardon" target="actor" targetSpec="" />Losin' all those hard-earned Bells
+you spent on 'em is worse!<10_4 />
+<anim id="HappyFlower" target="actor" targetSpec="" />OK! <delay20 />That's the whole speech.</message>
+	<message label="010" attrib="04 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So, right now, turnips are goin' for
+<tag a="90" b="26" arg="0x0" />. <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />Do you wanna
+buy some?</message>
+	<message label="010_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy some.</message>
+	<message label="010_b" attrib="00 00 00 00">What's this all about?</message>
+	<message label="010_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't need any.</message>
+	<message label="011" attrib="04 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I've got turnips a-plenty, fresh from
+<colour id="1" />Sow Joan's Stalk Market<colour id="65535" />. <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />Wanna buy
+'em for <tag a="90" b="26" arg="0x0" /> each?</message>
+	<message label="011_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy some.</message>
+	<message label="011_b" attrib="00 00 00 00">What's this all about?</message>
+	<message label="011_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't need any.</message>
+	<message label="012" attrib="04 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey, still wantin' to buy
+some turnips?<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />They're just
+<tag a="90" b="26" arg="0x0" /> each.</message>
+	<message label="012_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy some.</message>
+	<message label="012_b" attrib="00 00 00 00">What's this all about?</message>
+	<message label="012_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't need any.</message>
+	<message label="013" attrib="04 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Back for more, huh?<delay20 /> Great!<delay20 />
+Well, they're still <tag a="90" b="26" arg="0x0" />
+each. <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />How many do you want?</message>
+	<message label="013_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy some.</message>
+	<message label="013_b" attrib="00 00 00 00">What's this all about?</message>
+	<message label="013_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't need any.</message>
+	<message label="014" attrib="04 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So, the price of turnips today
+is <tag a="90" b="26" arg="0x0" /> each.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />Are you
+thinkin' about buyin' some?</message>
+	<message label="014_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'll buy some.</message>
+	<message label="014_b" attrib="00 00 00 00">What's this all about?</message>
+	<message label="014_c" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't need any.</message>
+	<message label="015" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Great! <10_4 /><anim id="Thinking" target="actor" targetSpec="" />How many should I put you
+down for? <delay20 /><anim id="Explain" target="actor" targetSpec="" />They're <tag a="90" b="26" arg="0x0" />
+each, but we sell in bundles of 10.</message>
+	<message label="016" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Aw, shucks. <delay20 />It doesn't look like you
+have the space to carry any turnips
+right now.
+<anim id="Nodding" target="actor" targetSpec="" />If you wanna make some room and
+then come back and see me, I'll
+be here!</message>
+	<message label="017" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, changed your mind? <10_4 /><anim id="Smiling" target="actor" targetSpec="" />That's OK!<delay20 />
+There's always next Sunday.</message>
+	<message label="018" attrib="02 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Alright, so <tag a="90" b="4" arg="0x1" /> turnips comes
+to<tag a="110" b="0" /><tag a="90" b="26" arg="0x2" />. <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />Does that
+sound OK to you?</message>
+	<message label="018_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, I'll buy 'em!</message>
+	<message label="018_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I changed my mind.</message>
+	<message label="019_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />A-heeheehee! <anim id="BigSmile" target="actor" targetSpec="" />Come again!</message>
+	<message label="019_02" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Turnips,<delay8 /> turnips!<delay8 /> Watch<delay8 /> 'em<delay8 /> rise!<delay20 />
+Try<delay8 /> to<delay8 /> earn<delay8 /> a<delay8 /> nice<delay8 /> sur<delay8 />prise!</message>
+	<message label="020" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Okeydoke! <delay20 />Maybe next time.</message>
+	<message label="021" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay frames="40" /> <anim id="Restless" target="actor" targetSpec="" />Uh<tag a="110" b="0" /> I'm real sorry, but I don't
+think you actually have enough
+Bells for that many turnips.</message>
+	<message label="022" attrib="00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Aw, shucks. <delay20 />You don't have enough
+room to carry all of those turnips.<delay frames="40" />
+<anim id="Laughing" target="actor" targetSpec="" />Story of my life!<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="030" attrib="00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />OK, sometimes I still get things
+mixed up, but I'm gonna try my
+best to tell you everything!
+<anim id="SmugFace" target="actor" targetSpec="" />My gram-gram <colour id="3" />Joan<colour id="65535" />'s turnips
+are grown with pride and harvested
+with love.
+<anim id="OhGeez" target="actor" targetSpec="" />But, for whatever reason, most
+folks aren't interested in eatin' 'em.<delay20 />
+<anim id="Shocked" target="actor" targetSpec="" />They buy 'em and re-sell 'em!</message>
+	<message label="031" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />So, here on <tag a="110" b="8" />,
+<colour id="3" />Timmy <colour id="65535" />will always buy fresh
+turnips from you.
+<anim id="Aha" target="actor" targetSpec="" />And the price changes every day!<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />Sometimes they're worth a lot,
+and other times not so much.
+<anim id="Thinking" target="actor" targetSpec="" />So if you buy 'em cheap and sell
+'em for a lot, <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />you can make a lot
+of Bells!
+<anim id="Worried" target="actor" targetSpec="" />And if you do it the other way
+around, well<tag a="110" b="0" /> <anim id="Negative" target="actor" targetSpec="" />Let's just say that
+you probably don't wanna do that!</message>
+	<message label="032" attrib="00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />And the last part, which Gram-Gram
+always says is real important<tag a="110" b="0" /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />The turnips won't keep forever.<delay20 />
+They'll rot after one week and you
+won't be able to sell 'em!</message>
+	<message label="033" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I think that's everything<tag a="110" b="0" /> <anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 />
+Gram-Gram always wants me to
+mention the official brand name.
+<anim id="Grin" target="actor" targetSpec="" />It's <colour id="1" />Sow Joan's Stalk Market<colour id="65535" />. <delay20 />She
+thinks it's real cute. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />A-heeheehee!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Anyway, I'll be here every Sunday
+sellin' turnips. <delay20 /><anim id="Greeting" target="actor" targetSpec="" />I hope we can do
+business together!</message>
+	<message label="034" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Hullo there!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />I'm <colour id="3" />Daisy Mae<colour id="65535" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'm helpin' Gram-Gram <colour id="3" />Joan<colour id="65535" /> out,
+sellin' her garden-grown <anim id="FaintSmile" target="actor" targetSpec="" />turnips.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />I'm here every Sunday mornin'
+<anim id="Nodding" target="actor" targetSpec="" />selling turnips.<delay frames="30" /><anim id="BigSmile" target="actor" targetSpec="" /> So swing on by
+to see me when you can!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+</msbt>

@@ -1,0 +1,111 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 01 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Question for you, kiddo.<delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" /> Do you
+know what kind of fruit they grow
+here on <tag a="110" b="8" />?</message>
+	<message label="001_a" attrib="04 00 00 00 00 00 00 00">I do!</message>
+	<message label="001_b" attrib="05 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Sorry, no.</message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x10 0x11 0xffff 0xffff" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Is that right?<delay20 /> <tag a="50" b="3" /><tag a="110" b="7" arg="0xcd01" />?<delay20 /> <anim id="Grin" target="actor" targetSpec="" />Well,
+I shoulda known that you'd know.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Well,<delay20 /> lemme know how they taste
+if you end up trying one, OK?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Whaddaya mean you don't know?<delay20 />
+When you're on <tag a="110" b="8" />,
+you gotta try a local <tag a="110" b="7" arg="0xcd00" />!
+<anim id="Angry" target="actor" targetSpec="" />That was a test! <delay20 /><anim id="Shocked" target="actor" targetSpec="" />Anyway, go try
+one and get back to me, OK?</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00">May not have a store here yet, but <anim id="FaintSmile" target="actor" targetSpec="" />at
+least <colour id="3" />Timmy<colour id="65535" /> and <colour id="3" />Tommy<colour id="65535" /> are sellin'
+necessities in the <colour id="1" />Resident Services<colour id="65535" />.<delay20 />
+<anim id="Explain" target="actor" targetSpec="" />Not much merchandise to choose
+from for now, but still worth visitin'.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Been by <colour id="1" />Nook's Cranny<colour id="65535" /> lately?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />They carry more stuff now,<delay20 /> so it feels
+more like a real shop,<delay20 /> <tag a="110" b="5" />.<pageBreak />It's worth <anim id="Nodding" target="actor" targetSpec="" />stoppin' in<delay20 /> to rummage for
+hidden gems.<delay frames="30" /> <anim id="Smiling" target="actor" targetSpec="" />Might find a treasure!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><colour id="1" />Nook's Cranny<colour id="65535" /> is gettin' better by
+the day!<delay frames="30" /> <anim id="Thinking" target="actor" targetSpec="" />Dunno that I'd call the
+prices cheap,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />But it's the biggest shop now,<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />with
+the best selection on the island!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00">Question, kiddo.<delay20 /> <anim id="QuestionMark" target="actor" targetSpec="" />Got a real <colour id="1" />museum<colour id="65535" />
+back on your island?<10_4 /> <anim id="OhGeez" target="actor" targetSpec="" />Here we've just
+got a windbag operatin' out of a tent.
+<anim id="Angry" target="actor" targetSpec="" />Just you watch, though!<delay frames="30" /> One of these
+days<delay20 /> we'll manage to build it up <anim id="Nodding" target="actor" targetSpec="" />into
+a proper attraction,<delay20 /> <tag a="110" b="5" />.
+<anim id="Smiling" target="actor" targetSpec="" />I hope you'll come back and visit
+when we do<delay8 /><tag a="110" b="0" /> Just to prove me
+right!<delay frames="30" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x15 0x16 0x17 0x19" /></message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
+	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Can't say I know much about art<delay8 /><tag a="110" b="0" />
+<anim id="EmotEnd" target="actor" targetSpec="" />But I like that there's some in the
+<anim id="Nodding" target="actor" targetSpec="" /><colour id="1" />museum<colour id="65535" /> here for me to gawk at.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />I just kinda stand there for a bit
+starin' at each piece,<delay20 /> <anim id="Serious" target="actor" targetSpec="" />tryin' to look
+real thoughtful-like,<delay20 /> <tag a="110" b="5" />.
+<anim id="Explain" target="actor" targetSpec="" />Now and then I might throw in
+a "hmmm" or maybe an "I see!"<delay frames="30" />
+<anim id="Thinking" target="actor" targetSpec="" />Wonder if everyone's fakin' it<delay8 /><tag a="110" b="0" /></message>
+	<message label="028" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />I'd just as soon eat a fish as look
+at one, but the fish exhibit in our
+<colour id="1" />museum<colour id="65535" /> ain't half bad, kiddo.
+<anim id="Thinking" target="actor" targetSpec="" />They had one of those real weird
+fish the other day. <delay20 /><anim id="Aha" target="actor" targetSpec="" />I think it's called
+<tag a="50" b="2" /><tag a="135" b="13" arg="0x0" /><tag a="110" b="0" />
+<anim id="OhGeez" target="actor" targetSpec="" />OK, maybe it's not that weird.<delay20 />
+But it was weird to me, <tag a="110" b="5" />!</message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You ever check out the bug exhibit
+over in our <colour id="1" />museum<colour id="65535" />?<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />They got a new
+<tag a="135" b="13" arg="0x1" />, I hear.
+<anim id="Shocked" target="actor" targetSpec="" />Can you imagine one of those
+things growin' to our size?<delay20 /> <anim id="Frantic" target="actor" targetSpec="" />
+It'd be a downright monster!</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />So, if you wanna see somethin' even
+older than me, all you gotta do is
+visit our <colour id="1" />museum<colour id="65535" />.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />They've got some real special
+fossils there<tag a="110" b="0" /> Reckon my favorite
+is the <tag a="135" b="13" arg="0x2" />.<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />Yep, compared to that thing,
+I'm a real spring chicken!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0x66 0x69" /></message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00">Got a question for you, kiddo.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Do you miss livin' here on
+<tag a="110" b="8" /> at all?</message>
+	<message label="102_a" attrib="67 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />A little bit.</message>
+	<message label="102_b" attrib="68 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Not really.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Just a little bit, huh? <delay20 />C'mon, you
+can tell me the whole story. I won't
+go blabbin' to just anyone.
+<anim id="OhGeez" target="actor" targetSpec="" />Aw, I'm just givin' you a hard
+time. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />You can come visit me
+here anytime, <tag a="110" b="5" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wow, not a nostalgic bone in
+your body, eh? <delay20 /><anim id="Grin" target="actor" targetSpec="" />That's downright
+cold-blooded!
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Well, I guess that means things
+must be goin' well on your new
+island. <delay20 /><anim id="WrySmile" target="actor" targetSpec="" />Good stuff!</message>
+	<message label="105" attrib="00 00 04 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Well, if it isn't <tag a="110" b="3" />!<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />How are things goin' over
+on that new island for you?</message>
+	<message label="105_a" attrib="6a 00 00 00 00 00 00 00">Going great!</message>
+	<message label="105_b" attrib="6b 00 00 00 00 00 00 00">Not bad.</message>
+	<message label="105_c" attrib="6c 00 00 00 00 00 00 00">Bahahaha!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Well, glad to hear it! <delay20 />'Course, I knew
+you'd do just fine anywhere, kiddo.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Don't be a stranger to all of us
+on <tag a="110" b="8" />. <delay20 /><anim id="Greeting" target="actor" targetSpec="" />Come back
+and see us anytime!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Not bad? <delay20 />Well, I hope you're just 
+bein' modest. <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />Anyhow, as long as 
+you're happy, that's what counts.
+<anim id="SmugFace" target="actor" targetSpec="" />Take it from me. <delay20 />I go where the
+wind blows and the <tag a="135" b="1" arg="0xcd00" />
+flows like water. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Uhh<tag a="110" b="0" />wow. <delay20 />Did I ask somethin'
+I shouldn't have?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Maybe you oughta take a break,
+get some fresh air. <delay20 />Pick up a
+hobby<tag a="110" b="0" />like <tag a="135" b="8" arg="0xcd00" /><tag a="110" b="0" />
+<anim id="OhGeez" target="actor" targetSpec="" />Just take a load off, kiddo.</message>
+</msbt>

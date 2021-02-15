@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, hey,<delay20 /> <tag a="110" b="3" />!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Word is
+someone REALLY wants to talk
+to you today, <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />No rush though.<delay20 /> They know you're
+working out with your buddy.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Just
+come by after you're done, alright?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />What's up, <tag a="110" b="3" />!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />You
+doing some weight training
+with <tag a="115" b="0" arg="0xcd00" />?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />So<tag a="110" b="0" /><delay20 />someone REALLY wants to talk
+to 'em today,<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />but they said they'd
+be around later too.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Could you tell <tag a="115" b="0" arg="0xcd00" /> to
+swing back by after you two are
+done?<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />Thanks, <tag a="110" b="5" />!</message>
+</msbt>

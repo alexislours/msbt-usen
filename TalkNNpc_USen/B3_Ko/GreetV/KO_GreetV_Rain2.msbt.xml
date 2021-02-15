@@ -1,0 +1,22 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 07 00 00"><tag a="60" b="7" arg="0x710 0x800 0xcd00" /></message>
+	<message label="002" attrib="00 00 00 01 00 03 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
+	<message label="003" attrib="00 00 00 01 00 04 00 00"><tag a="60" b="7" arg="0xb10 0xc00 0xcd00" /></message>
+	<message label="004" attrib="00 00 00 01 00 09 00 00"><tag a="60" b="7" arg="0xd10 0xe00 0xcd00" /></message>
+	<message label="007" attrib="00 00 0c 00 00 07 00 00"><anim id="Hello" target="actor" targetSpec="" />Heya, kiddo! <delay20 /><anim id="Grin" target="actor" targetSpec="" />Saves time when you
+can take a shower and go for a walk
+at the same time, huh? <anim id="Laughing" target="actor" targetSpec="" />Gahaha!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="008" attrib="00 00 0c 00 00 07 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Ugh, weather's pretty gloomy.<delay20 />
+<anim id="SmugFace" target="actor" targetSpec="" />But I'm my usual sunny self!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="009" attrib="00 00 0c 00 00 03 00 00"><anim id="Greeting" target="actor" targetSpec="" />Wet enough for you, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 03 00 00"><anim id="Shocked" target="actor" targetSpec="" />Takes more'n a little rain to keep
+you down, <tag a="110" b="3" />!<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, good for you.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 00 00 04 00 00"><anim id="Serious" target="actor" targetSpec="" />No shortage of rain, huh?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 00 00 04 00 00"><anim id="Greeting" target="actor" targetSpec="" />Keepin' dry, <tag a="110" b="3" />?<delay20 />
+<anim id="WrySmile" target="actor" targetSpec="" />Shoulda brought some soap<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="013" attrib="00 00 0c 00 00 09 00 00"><anim id="Restless" target="actor" targetSpec="" />I must look like an old tire dragged
+out of a river right now. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="014" attrib="00 00 0c 00 00 09 00 00"><anim id="Thinking" target="actor" targetSpec="" />Maybe all this weather is at least
+moisturizin' my dried-out skin<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

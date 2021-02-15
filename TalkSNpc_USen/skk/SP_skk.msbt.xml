@@ -1,0 +1,39 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Welcome!<pageBreak /><tag a="110" b="0" /><anim id="Eh" target="actor" targetSpec="" />Well, well. What do we have here?<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />Haven't seen your face before.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />The name's <colour id="3" />Kicks<colour id="65535" />.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />You mighta already
+guessed it, <delay8 />but I'm the source for
+shoes, socks, and bags 'round here.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I swing by this <tag a="110" b="32" /> once weekly.<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />I look forward to seein' you around,
+new chum. Awright? Awright!</message>
+	<message label="002" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />If it's awright with you, why not take
+a look-see at my offerings on this
+fine day?</message>
+	<message label="003" attrib="00 00 00 00">Welcome, chum!<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />Have a look.
+No rush, no rush at all.</message>
+	<message label="004" attrib="00 00 00 00">'Allo!<delay frames="30" /> <anim id="Hello" target="actor" targetSpec="" />So then, somethin' caught
+your fancy after all, eh?</message>
+	<message label="005" attrib="00 00 00 00">'Allo!<delay frames="30" /> <anim id="Hello" target="actor" targetSpec="" />Lookin' to buy somethin' else,
+eh? There's a good chum for ya!</message>
+	<message label="007" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Nothin' standin' out? Not a problem.<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Come by and visit anytime, eh?</message>
+	<message label="008" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Much obliged!</message>
+	<message label="011" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Crikey!<delay20 /> I'm afraid you're already
+loaded up on items.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="012" attrib="00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />What's this now? Oh<tag a="110" b="0" />crikey.<delay8 />
+<anim id="Negative" target="actor" targetSpec="" />Looks like you're short on
+Bells today!</message>
+	<message label="013" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Very much obliged!</message>
+	<message label="014" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I appreciate your business, my chum.</message>
+	<message label="020" attrib="02 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Awright.<pageBreak /><tag a="50" b="3" /><tag a="125" b="0" arg="0x0" /><tag a="110" b="0" />
+Comes to <tag a="90" b="26" arg="0x1" />.
+So<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />you buyin'?</message>
+	<message label="020_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I'm buyin'!</message>
+	<message label="020_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Sorry, chum.</message>
+	<message label="030" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Anything else you wanna buy?</message>
+	<message label="031" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Anything else you wanna see?</message>
+	<message label="032" attrib="00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Care to take a gander at my
+other wares?</message>
+	<message label="040" attrib="00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Sorry, chum. I'm done for the day.<delay frames="40" />
+Hate to disappoint, but...<anim id="Nodding" target="actor" targetSpec="" />tell you
+what. Swing by again next time, eh?</message>
+</msbt>

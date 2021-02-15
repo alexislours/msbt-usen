@@ -1,0 +1,15 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Got a lot to say today,<delay20 />
+huh, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00">Wow! <delay20 /><anim id="Assent" target="actor" targetSpec="" />Every time I think you've gotta
+be done, you keep goin'. <delay20 />So, what
+is it this time, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />You must be pretty bored, huh,
+<tag a="110" b="5" />?<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />Well, sure.<delay20 /> I got
+time to kill.<setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Am I THAT fun to talk to?<delay frames="40" /> <anim id="Blushing" target="actor" targetSpec="" />There's
+not like, <delay20 />a show on you'd rather
+watch instead, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, <delay20 />did you still need something,
+<tag a="110" b="5" />?<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />My bad.<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+</msbt>

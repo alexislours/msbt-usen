@@ -1,0 +1,17 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Hey,<delay20 /> buddy, <delay20 />you know you hit me
+with that thing, right?<delay20 /> Come on,
+<tag a="110" b="3" />, <tag a="110" b="5" /><tag a="110" b="0" />
+<anim id="Worried" target="actor" targetSpec="" />Don't be like that!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />Ouch!<delay40 /><anim id="Crying" target="actor" targetSpec="" /> Hey, I'm impressed by your
+swing, but<tag a="110" b="0" /> Ow! <delay20 />Stop it!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />Whatcha doing, <tag a="110" b="3" />?<pageBreak /><anim id="Angry" target="actor" targetSpec="" />If you're after <tag a="50" b="2" /><tag a="135" b="6" arg="0xcd00" />
+throw down or whatever,<delay20 /> there are
+better ways to get my attention!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Ouch!<delay40 /><anim id="Outraged" target="actor" targetSpec="" /> That's not proper training
+form, <tag a="110" b="3" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Fuming" target="actor" targetSpec="" />Stop it, <tag a="110" b="3" />!<delay20 /> I am NOT
+a bug<delay20 /> and I will NOT be squished!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Yeowch!<delay20 /> Whatever you're training
+for,<delay20 /> count me out, <tag a="110" b="5" />.</message>
+</msbt>

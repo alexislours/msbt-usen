@@ -1,0 +1,16 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Don't run too fast, <tag a="110" b="5" />.<delay20 />
+<delay20 />Wouldn't want you to slip
+and fall!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />You a fan of snow, <tag a="110" b="5" />?
+<delay20 />Or is it not your thing?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! There you are
+again! <delay20 /><anim id="Grin" target="actor" targetSpec="" />Just passing time in our
+winter wonderland, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />The snow makes everything prettier,
+if you ask me. <delay frames="40" /><anim id="ShyBoy" target="actor" targetSpec="" />I just hope we don't
+all end up beautiful icicles<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Sneezing" target="actor" targetSpec="" />BWAA<delay20 />-CHOOOEY! <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Brr, it's cold.<delay20 /> <anim id="Shaking" target="actor" targetSpec="" />I love
+the snow as much as the next gal,
+<delay20 />but I'm ready to thaw out!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

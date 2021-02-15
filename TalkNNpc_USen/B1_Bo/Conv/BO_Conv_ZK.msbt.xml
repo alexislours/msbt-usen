@@ -1,0 +1,79 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Heya, <tag a="110" b="4" />!<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />We were just talking about food!<pageBreak /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" /> knows all about<anim id="EmotEnd" target="subNpc" targetSpec="" />
+foods I've never even heard of!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00">Don't go saying that all over the
+place.<delay frames="80" /> <20_3 arg="7" /><20_3 arg="5" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" />I haven't had a chance to tell
+everyone yet<tag a="110" b="0" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />But last night, I dined upon a<anim id="Nodding" target="mainNpc" targetSpec="" /> dish of
+freshly ground peanuts<tag a="110" b="0" />spread
+thickly upon a <anim id="AbsentMindedness" target="mainNpc" targetSpec="" /><20_2 arg="8" /><anim id="Nodding" target="actor" targetSpec="" />slice of bread.<pageBreak />The culinary delight was garnished
+with a sweet and tangy sauce from
+a medley of berries. <delay20 />Delightful.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" />Oh, wow!<anim id="Love" target="actor" targetSpec="" /> That sounds amazing!<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />All I had last night was a <anim id="BigSmile" target="actor" targetSpec="" />peanut
+butter and jelly sandwich!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />But for lunch yesterday, I layered a
+freshly decanted tomato<anim id="Nodding" target="mainNpc" targetSpec="" /><delay20 /> sauce, and
+extra-fine <anim id="AbsentMindedness" target="mainNpc" targetSpec="" /><20_2 arg="8" /><anim id="Nodding" target="actor" targetSpec="" />mozzarella over flat bread.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" />Ooh, lucky!<anim id="Laughing" target="actor" targetSpec="" /> That sounds great!<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />All I had for lunch yesterday
+<anim id="BigSmile" target="actor" targetSpec="" />was a whole cheese pizza!<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />But for breakfast yesterday,
+<anim id="Nodding" target="mainNpc" targetSpec="" />I had two slices of bread, lightly
+toasted in a special <20_2 arg="8" /><anim id="Thinking" target="actor" targetSpec="" />oven.<pageBreak />I then spread fine fruit<delay frames="60" /> <anim id="AbsentMindedness" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" />preserves
+carefully across one<anim id="FaintSmile" target="actor" targetSpec="" /> side
+of each slice<tag a="110" b="0" /> <delay20 />Exquisite.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" />What! <anim id="Eh" target="actor" targetSpec="" />You eat all kindsa fancy
+<anim id="EmotEnd" target="actor" targetSpec="" />foods! All <delay8 />I<delay8 /> had for breakfast was<anim id="BigSmile" target="actor" targetSpec="" />
+a couple toasts and a buncha jam.<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" />What's that? Your food sounds<delay frames="60" />
+<anim id="FaintSmile" target="actor" targetSpec="" />totally vintage. Maybe I should
+try it sometime, <tag a="110" b="6" />.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey, <tag a="110" b="31" arg="0xcd01" />.<delay frames="40" />
+Guess <delay40 />what I'm thinking of<tag a="110" b="0" /><delay40 />
+<anim id="Pardon" target="actor" targetSpec="" />right now!<anim id="Eh" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00">What you're thinking of?<delay frames="60" />
+<anim id="Thinking" target="actor" targetSpec="" />Hmm, let's see<tag a="110" b="0" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, you love naps, so perhaps
+you're thinking of a dream you had?<anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />That's crazy!<delay frames="40" /> Howdja know?!<pageBreak /><anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="FaintSmile" target="actor" targetSpec="" /><anim id="HappyFlower" target="actor" targetSpec="" />I had a dream I was in a big 'ol
+bucket of <tag a="135" b="7" arg="0xcd00" />! <delay20 /><anim id="Love" target="actor" targetSpec="" />I ate
+and I ate, but there was always more!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00">Well, you're quite the gourmand.
+<anim id="Laughing" target="actor" targetSpec="" />I imagine you're considering
+what to have for dinner tonight!<anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Yeah! I keep thinking, "Do I want
+<tag a="135" b="3" arg="0xcd00" /> or do I want
+<tag a="135" b="3" arg="0xcd01" />?"<pageBreak /><anim id="Oops" target="actor" targetSpec="" />Maybe I want <tag a="135" b="3" arg="0xcd02" />?<delay8 />
+Or do I want <tag a="135" b="3" arg="0xcd04" />?<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />But I'd like <tag a="135" b="3" arg="0xcd05" /><tag a="110" b="0" /><delay20 />
+Wait! Maybe <tag a="135" b="3" arg="0xcd06" />?!<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" />Oh! I know!<delay20 /> I<tag a="110" b="0" />want<tag a="110" b="0" /><delay20 />FOOD!
+A huh huh, how'd you know
+I was thinking about dinner?</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Since your taste buds inform your
+every life choice, I expect you are
+excited <anim id="Hello" target="actor" targetSpec="" />for a new flavor of chip!<anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00">Wow! <anim id="BigSmile" target="actor" targetSpec="" /><delay20 />Yeah! <anim id="Smiling" target="actor" targetSpec="" /><delay20 />There's a new fish-and-
+ketchup chip I wanna try real bad!<10_4 />
+How'd you know that?!<anim id="FaintSmile" target="subNpc" targetSpec="" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="Nodding" target="actor" targetSpec="" />It's too easy with you! Your thoughts
+are written <anim id="Grin" target="actor" targetSpec="" />all over your face!<anim id="TakenAback" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />No! I might have <delay8 />snacks <delay8 />ON<delay8 /> my
+face? But my <delay8 />THOUGHTS are
+<delay8 />INSIDE my face, not on it!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00">You're real neat, <tag a="110" b="31" arg="0xcd01" />!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />What's your secret, <tag a="110" b="5" />?</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00">I've no secrets, <anim id="OhGeez" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd00" />!
+None at all!<pageBreak /><anim id="Pardon" target="actor" targetSpec="" />What you just said, though<tag a="110" b="0" />
+"<tag a="50" b="3" /><tag a="110" b="5" />," was it?<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />That sounds like code.<pageBreak />Is it you who's keeping secrets,
+my young <tag a="110" b="31" arg="0xcd00" />?</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" />Nope! "<tag a="110" b="5" />" is my
+catchphrase!<anim id="QuestionMark" target="actor" targetSpec="" /><delay20 /><delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />Ya oughta try
+saying it!<anim id="Shocked" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00">Well, I'm not one for stealing
+others' styles, but if you insist<tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="Dance" target="actor" targetSpec="" /><delay frames="40" />Fret not! It is I, <tag a="110" b="10" />.<delay20 />
+And I will never leave your side<tag a="110" b="0" />
+Ahem<tag a="110" b="0" /><tag a="110" b="6" />.<anim id="Aha" target="mainNpc" targetSpec="" /><anim id="Blushing" target="actor" targetSpec="" /><pageBreak />Well? What do you think?<anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Awesome, <tag a="110" b="31" arg="0xcd01" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />It was so cool hearing someone as
+cool as you say my catchphrase!<delay40 /></message>
+</msbt>

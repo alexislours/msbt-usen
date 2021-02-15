@@ -1,0 +1,128 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You caught me my very own
+<tag a="125" b="2" arg="0xcd00" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />This is it, alright!<delay40 /> Just what
+I asked you to catch—<delay20 /><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" />!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />I don't believe it!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />You found my
+<tag a="125" b="0" arg="0x0" />!</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />I can't believe I'm holding a real, live
+<tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />These are so rare! <delay20 />Are you sure you
+want to part with it?</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00">It's yours.</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00">I'd like that back.</message>
+	<message label="005" attrib="00 00 00 00 00 00 06 00"><anim id="Surprised" target="actor" targetSpec="" />Oh wow, really?
+<10_9 /><anim id="Pardon" target="actor" targetSpec="" />Do you mean it?</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Sure, alright<tag a="110" b="0" />
+<anim id="Nodding" target="actor" targetSpec="" />I understand.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Maybe the next one, <tag a="110" b="5" />.
+I'd welcome any rhinoceros beetle.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />No problem, of course.<anim id="FaintSmile" target="actor" targetSpec="" /><delay8 /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />But if you catch another stag beetle
+that you're willing to donate to me<tag a="110" b="0" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, sure<tag a="110" b="0" /> <anim id="FaintSmile" target="actor" targetSpec="" />You caught it, after all.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />If you're still willing to catch me a
+cicada of my own, I'd be grateful.</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sure, you caught it. <anim id="FaintSmile" target="actor" targetSpec="" />There you go<tag a="110" b="0" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I'd still be grateful if you would
+catch a butterfly for me, though.</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yes, of course you can have it back.<anim id="FaintSmile" target="actor" targetSpec="" /><delay8 /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I hope you'll consider catching me a
+dragonfly of my own, <tag a="110" b="5" />.</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />No problem, since you're the one
+<anim id="FaintSmile" target="actor" targetSpec="" />who caught it in the first place<tag a="110" b="0" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />But if you spot and catch another
+bug sitting on a flower, <anim id="FaintSmile" target="actor" targetSpec="" />I'd love to
+take that one off of your hands.</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Oh, of course<tag a="110" b="0" /> <anim id="FaintSmile" target="actor" targetSpec="" />You caught this one.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />But if you could catch me a bug from
+a tree stump, I'd sure appreciate it.</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Look at this—it's my very own
+<tag a="125" b="3" arg="0xcd00" />!</message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I'm so excited! You caught my
+<tag a="125" b="3" arg="0xcd00" />!</message>
+	<message label="023" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Is this<tag a="110" b="0" />?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />It really is!<delay40 /> You found
+my <tag a="125" b="0" arg="0x0" />!</message>
+	<message label="024" attrib="00 00 02 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />I can't believe I'm holding this
+<tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />These are so rare!<delay frames="30" /> Are you sure you
+want to part with it?</message>
+	<message label="024_a" attrib="00 00 00 00 00 00 00 00">You take it.</message>
+	<message label="024_b" attrib="00 00 00 00 00 00 00 00">I'd like to hold onto it.</message>
+	<message label="025" attrib="00 00 00 00 00 00 06 00"><anim id="Surprised" target="actor" targetSpec="" />Really? Oh wow! <10_9 /><anim id="Smiling" target="actor" targetSpec="" />Thanks so much!</message>
+	<message label="026" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Of course<tag a="110" b="0" /> You're the one <anim id="FaintSmile" target="actor" targetSpec="" />who
+reeled this in, in the first place.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />But if you catch another river creature that you'd be willing to
+give to me<tag a="110" b="0" /></message>
+	<message label="027" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />No problem. <delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />It was your catch.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Still, if you reel in another fish from
+the ocean, I'd love to take that one.</message>
+	<message label="031" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thank you so much!
+And this is for you!</message>
+	<message label="032" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thank you, thank you!
+Here's a little something
+to show my appreciation.</message>
+	<message label="033" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thank you so much!
+Can I please give this
+to you in return?</message>
+	<message label="034" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Thank you! <anim id="Smiling" target="actor" targetSpec="" />I got you a small gift
+because you said you'd do this.</message>
+	<message label="041" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I hope you can use
+<tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />.
+<tag a="50" b="3" /><tag a="110" b="5" />, thanks again.</message>
+	<message label="042" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />.
+<anim id="Hesitate" target="actor" targetSpec="" />I hope that's something you like.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You've been such a big help. <anim id="FaintSmile" target="actor" targetSpec="" />I knew
+I could count on you, <tag a="110" b="5" />.</message>
+	<message label="043" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!
+<anim id="Hello" target="actor" targetSpec="" />Hope you like it, <tag a="110" b="3" />.
+Because you <anim id="HappyDance" target="actor" targetSpec="" />really helped me out!</message>
+	<message label="044" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!
+<anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />! I felt like I had to do
+something in return for your help.</message>
+	<message label="045" attrib="00 00 00 00 00 00 00 00"><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />.
+<anim id="Smiling" target="actor" targetSpec="" />I hope you can use it, <tag a="110" b="5" />.</message>
+	<message label="046" attrib="00 00 00 00 00 00 00 00">To show how much I appreciate you<delay8 /><tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!</message>
+	<message label="051" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Ooh! I can't wait to see it!</message>
+	<message label="052" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />My heart's pounding! <anim id="FaintSmile" target="actor" targetSpec="" />This is great!</message>
+	<message label="053" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Is something the matter?
+<anim id="FaintSmile" target="actor" targetSpec="" />I'm really excited to see it.</message>
+	<message label="054" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />You're a master at
+building anticipation!<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />You can usually find rhinoceros
+beetles climbing on tree trunks.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Hope you can catch one for me.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Stag beetles seem to like sitting
+around on random tree trunks.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I really hope you can catch me one.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Cicadas like to sing on tree trunks.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I hope you can catch one for me!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Butterflies are attracted to certain
+kinds of flowers,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I really hope you can net one for me.</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Dragonflies just sort of fly around
+all over the place,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I hope you manage to catch me one.</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Watch for a bug of any kind sitting
+on a flower, and try to catch it.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'd love it if you could bring me one.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Some bugs like to sit on tree stumps.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'd love it if you could catch me one.</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Really, any freshwater fish you can
+catch for me <anim id="FaintSmile" target="actor" targetSpec="" />would be appreciated.</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Any ocean fish works for me.
+<anim id="FaintSmile" target="actor" targetSpec="" />Hope you can catch me one!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I was hoping you could catch <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" /> for me.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />They like sitting on tree trunks.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />You offered to catch me <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" /><tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You'll spot them jumping around
+when you're walking through grass.<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I hoped you could net me <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" /><tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />You can find them fluttering around
+here and there, usually near flowers.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I was hoping you could net <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" /> for me.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I see them whizzing here and there,
+but they're fast, <anim id="Worried" target="actor" targetSpec="" />and hard to catch.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />You offered to try to catch me <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" /><tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />They're hard to spot when they're
+sitting on flowers, <anim id="Nodding" target="actor" targetSpec="" />so look carefully.</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />You said you would try catch <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" /> for me<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Watch for them on tree stumps.</message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I hope you're able to catch <tag a="50" b="2" />
+<tag a="125" b="2" arg="0xcd00" /> for me.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I overheard someone say they'd
+seen one on the beach recently<tag a="110" b="0" /></message>
+	<message label="211" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />You offered to catch me <tag a="50" b="2" />
+<tag a="125" b="3" arg="0xcd00" /><tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Watch for any shadows swimming
+upriver, <anim id="Nodding" target="actor" targetSpec="" />and cast your line in!</message>
+	<message label="212" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Thanks for trying to catch me <tag a="50" b="2" />
+<tag a="125" b="3" arg="0xcd00" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I think I saw one in a nearby pond<tag a="110" b="0" /></message>
+	<message label="213" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I'm happy you offered to catch <tag a="50" b="2" />
+<tag a="125" b="3" arg="0xcd00" /> for me!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I've heard they're usually swimming
+where the ocean meets fresh water<tag a="110" b="0" /></message>
+	<message label="214" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I was hoping you'd catch me <tag a="50" b="2" />
+<tag a="125" b="3" arg="0xcd00" /><tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />I hear they'll swim right in close to
+shore sometimes, <anim id="Pardon" target="actor" targetSpec="" />just off the beach!</message>
+</msbt>

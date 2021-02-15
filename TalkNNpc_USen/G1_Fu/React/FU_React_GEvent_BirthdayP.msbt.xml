@@ -1,0 +1,12 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I know you're busy,<delay20 /> but <anim id="Worried" target="actor" targetSpec="" />someone's
+hoping to meet up with you today,<delay20 />
+when you're by yourself<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />Try to check back<delay20 /> later today when
+you're alone,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00">You do know this is a special day for
+<tag a="115" b="0" arg="0xcd00" />,<delay20 /> <tag a="110" b="5" />?<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Well,<delay20 /> I know somebody around here
+is really hoping to catch up with
+them today<delay20 /> when they're alone<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />So can you pass on that message to
+<tag a="115" b="0" arg="0xcd00" />?<delay20 /> To check back
+here later on.</message>
+</msbt>

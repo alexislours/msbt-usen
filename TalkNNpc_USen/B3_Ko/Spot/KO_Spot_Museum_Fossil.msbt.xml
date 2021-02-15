@@ -1,0 +1,72 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00">Even the small fossils tell a story.
+<delay frames="40" /><anim id="Explain" target="actor" targetSpec="" />It's an ancient adventure that spans
+across eons and<tag a="110" b="0" /><delay20 /><anim id="Oops" target="actor" targetSpec="" />ends up here.</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00">A lot of the fossils in this room are
+ocean animals.<anim id="BigSmile" target="actor" targetSpec="" /><delay8 /> So, I guess you could
+say it's like an aquarium!<anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak />A boring aquarium, but still<tag a="110" b="0" /></message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />These fossils are millions of years
+old!<delay20 /> Ain't so impressive. There's
+lotsa <delay8 />rocks <delay8 />older'n that!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00">To think big ol' critters like this
+roamed around here, stompin' on
+and bitin' whatever they please.<pageBreak /><delay frames="30" /><anim id="Laughing" target="actor" targetSpec="" />Boy, that'd make island
+life a bit more exciting!<delay frames="40" /><anim id="Serious" target="actor" targetSpec="" />
+And wreck property values!</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Every single one of these looks like
+a guy you wouldn't wanna mess with.<delay frames="40" />
+<anim id="Angry" target="actor" targetSpec="" />Kinda<delay8 /><tag a="110" b="0" />like<delay8 /><tag a="110" b="0" /><20_2 arg="6" /><anim id="EmotEnd" target="actor" targetSpec="" /><10_5 />me.<endTag a="10" b="5" /><delay40 /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="002_03" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />They used to call these fellas
+"Thunder Lizards" on account
+of 'em bein' so big and noisy.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />"Thunder Lizard" was 
+my nickname in school.<anim id="EmotEnd" target="actor" targetSpec="" /> 
+<delay frames="40" />No idea why.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="003_01" attrib="00 00 00 00 00 00 00 00">Even the "new" fossils in here are
+hundreds of millions of years old.
+I think that's just false advertising.</message>
+	<message label="003_02" attrib="00 00 00 00 00 00 00 00">If I were a fossil,<delay20 /> would it be like
+this?<delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" /> <tag a="110" b="10" />'s head!<delay frames="50" />
+<anim id="EmotEnd" target="actor" targetSpec="" /><tag a="110" b="10" />'s body!
+<anim id="Eh" target="actor" targetSpec="" />Huh.<delay frames="30" /> Hey, <tag a="110" b="3" /><delay8 /><tag a="110" b="0" />
+<anim id="Worried" target="actor" targetSpec="" />When I get dug up,<delay20 /> can you make
+sure I get dug up in one piece?</message>
+	<message label="003_03" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You think you'll go through life never
+seein' bones.<delay20 /> Then you wander into a
+<colour id="1" />museum<colour id="65535" /> an' <anim id="Pardon" target="actor" targetSpec="" />BANG! Bones all over!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I've seen WAY more bones in my life
+than I ever figured I would.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="100_01" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />So,<delay20 /> see any fossils that are up to
+your fancypants I'm-from-another-island standards?</message>
+	<message label="100_02" attrib="00 00 00 00 00 00 00 00">Back home, you ever see anybody
+stand <delay8 />real <delay8 />still,<delay8 /> and be <delay8 />real <delay8 />quiet?<delay40 />
+Ever considered trying it yourself?</message>
+	<message label="100_03" attrib="00 00 00 00 00 00 00 00">Might sound unlike me,<delay20 /> but old
+stuff like this <anim id="Serious" target="actor" targetSpec="" />makes me think on
+how fleetin' it all is<delay20 />, y'know?<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Thousands of years' worth of critters
+just livin' out their lives<delay8 /><tag a="110" b="0" /> Whole new
+species comin' and goin'<delay8 /><tag a="110" b="0" /><pageBreak />And in the end<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />they're just dusty ol'
+fossils like what's in this <colour id="1" />museum<colour id="65535" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />And those'll go away someday too.
+Gone<delay8 /><tag a="110" b="0" /> Like a deleted save game file.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />We get our shot,<delay20 /> then if we're lucky,<delay20 />
+we get fossilized and stuck on a shelf
+with a nice writeup next to us<tag a="110" b="0" /><pageBreak /><anim id="Angry" target="actor" targetSpec="" />In a <colour id="1" />museum<colour id="65535" /> with air conditionin' up
+too high,<delay20 /> and folks squintin' at our
+petrified bones all danged day long!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />So I reckon we'd best enjoy life
+while we're livin' it,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="200_01" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />The fossils in our new <colour id="1" />museum <colour id="65535" />are
+great<delay20 /> for tracin' back the branches
+<anim id="Nodding" target="actor" targetSpec="" />on our family tree,<delay20 /> <tag a="110" b="5" />.
+<anim id="Eh" target="actor" targetSpec="" />Wait,<delay20 /> I meant on the tree of life!<delay frames="30" />
+<anim id="Negative" target="actor" targetSpec="" />My own family's not THAT old!</message>
+	<message label="200_02" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />We finally got us a <colour id="1" />museum<colour id="65535" /> here!<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />Makes me proud,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Heard they got some fossils already.<delay frames="30" />
+<anim id="Grin" target="actor" targetSpec="" />Hope they can get a big dinosaur
+skeleton set up<delay20 /> to scare the kiddos!</message>
+	<message label="200_03" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />In case you didn't hear,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />we finally got
+a <colour id="1" />museum<colour id="65535" /> of our own on the island!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Now I have a place to go and look at
+fossils<delay20 /> whenever I please!<delay frames="30" /> <anim id="Scheming" target="actor" targetSpec="" />And maybe
+touch 'em,<delay20 /> when no one's lookin'<delay8 /><tag a="110" b="0" /></message>
+</msbt>

@@ -1,0 +1,91 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I flat out don't get how you wake
+up so early, <tag a="110" b="31" arg="0xcd01" />.
+<delay20 />How do you do it?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Oh, there's no secret or anything.<delay20 />
+I just go to bed early.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha! <delay20 />You go to bed early? <delay20 />Ha!<delay20 />
+That's<tag a="110" b="0" /><delay frames="40" /><anim id="Eh" target="actor" targetSpec="" />oh, <delay20 />you're serious.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Um, that's gonna be a no for me.<delay20 />
+Isn't there, like, <delay20 />an easier way?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 03 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />An easier way to wake up early?<delay20 />
+Um<tag a="110" b="0" /><delay20 />I don't know!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" /><20_2 arg="8" />What do you
+think, <tag a="110" b="3" />?<20_2 arg="6" /></message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00">Just go to bed early.</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00">Drink coffee!</message>
+	<message label="004_c" attrib="00 00 00 00 00 00 00 00">Easy! Never sleep!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><20_2 arg="7" /><anim id="BigSmile" target="actor" targetSpec="" />See! <20_2 arg="5" /><delay20 />Getting to bed early is all there
+is to it! <delay20 />It's really not that hard.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You're taking HER side on this,
+<tag a="110" b="3" />? <delay20 />I thought we
+were a team.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Let me help you, <tag a="110" b="31" arg="0xcd00" />.<delay frames="40" />
+<20_3 arg="2" /><anim id="Nodding" target="actor" targetSpec="" />I've got some nice teas, and books
+on relaxation you can borrow.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Negative" target="actor" targetSpec="" />I don't read anything that doesn't
+have a robot, <delay8 />a dragon, <delay8 />or a
+spaceship on the cover.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I'll take those teas, though!<anim id="Sighing" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />That could work. <delay20 />A cup of coffee
+can be a great way to jump-start
+the morning!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" /><delay20 />I'm already up to 12 cups a day!<20_3 arg="1" /><anim id="TakenAback" target="subNpc" targetSpec="" /><delay20 />
+Do you really think another morning
+mug will help?<anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" />12 cups?! <tag a="110" b="31" arg="0xcd00" />,
+that's a LOT of coffee!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />All that coffee must be making it
+hard to sleep. <delay20 />Maybe if you cut back,<delay20 />
+you'll sleep better and wake earlier!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="ShyBoy" target="actor" targetSpec="" />Ha! <delay20 />Nope. <delay frames="40" />You do NOT want me
+cuttin' back on coffee. <delay20 />I'd be kicked
+outta <tag a="110" b="8" /> in a week!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Hee-hee! <delay20 />You're such a jokester,
+<tag a="110" b="3" />. <delay20 />Never sleeping?<delay20 />
+That's just silly.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Now THAT could work! <20_2 arg="7" /><delay20 />I'm already a
+night <tag a="110" b="15" />. <delay20 />Why NOT just stay
+up forever?<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />That's genius!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd00" />, no! <20_2 arg="2" /><delay20 />That's really,<delay20 />
+really dangerous.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Sleep is very important!<delay20 /> Maybe
+mornings just aren't for you.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />This island's got a ton of cool flowers
+I've never grown before.<delay frames="40" /> <anim id="HappyFlower" target="actor" targetSpec="" />I can't wait
+to get my hands dirty with 'em!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Could you grow a <tag a="135" b="2" arg="0xcd00" /> for me?<anim id="EmotEnd" target="mainNpc" targetSpec="" />
+<delay20 />I'm making <tag a="135" b="3" arg="0xcd00" /> and I
+want a <tag a="135" b="2" arg="0xcd00" /> for garnish.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00">Hold up, <delay20 />let me get this straight<tag a="110" b="0" /><pageBreak /><anim id="Angry" target="actor" targetSpec="" />You want me to break my
+back raisin' a <tag a="135" b="2" arg="0xcd00" /> to
+use as <delay20 />GARNISH?!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Well<tag a="110" b="0" /><delay20 />I'd only need one!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No way! EVERY flower is my friend.
+I'm not just gonna let you serve 'em
+next to a<tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay frames="40" />Wait, did you say <tag a="135" b="3" arg="0xcd00" />?!<delay frames="60" />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Uh, wow.<delay20 /> I haven't had that in
+forever.<delay20 /> That sounds delicious!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Aww, thanks! <delay20 /><anim id="Grin" target="actor" targetSpec="" />And it's all yours for
+the low price of a single <tag a="135" b="2" arg="0xcd00" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Just one <tag a="135" b="2" arg="0xcd00" />, huh?<delay frames="40" /> I mean,
+I guess that's not so much<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Oh! <delay20 />Then for dessert I can make
+<tag a="135" b="7" arg="0xcd00" />!<anim id="AbsentMindedness" target="mainNpc" targetSpec="" /><delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Mmm<delay20 />-mm! <delay20 />This
+will be so good, <tag a="110" b="31" arg="0xcd00" />!<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />Then we can discuss the <tag a="135" b="2" arg="0xcd00" />
+potpourri I want your help with. <anim id="Eh" target="mainNpc" targetSpec="" /><delay20 />For
+that I think I'll need about<tag a="110" b="0" /><delay frames="40" /><tag a="90" b="1" arg="0x100" />.<anim id="Surprised" target="mainNpc" targetSpec="" /><delay20 /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" /><tag a="110" b="0" />So I snuck up behind 'em and
+screamed with everything I had.<pageBreak /><tag a="10" b="12" /><anim id="Cheering" target="actor" targetSpec="" /><size value="200" /><tag a="50" b="3" /><tag a="110" b="6" />!<size value="100" /><pageBreak /><anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha! <delay20 />They were so scared!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />You're so tough, <tag a="110" b="31" arg="0xcd00" />.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />I'm a little envious!<pageBreak /><anim id="Restless" target="actor" targetSpec="" />Hey, um<tag a="110" b="0" /><delay20 />you wouldn't mind if
+I started saying <delay20 />"<tag a="110" b="5" />"<delay20 />
+would you? <delay20 />I want to be tough too!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh?<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />No, I don't think you're
+scary enough, <tag a="110" b="5" />.<delay20 />
+Sorry, <tag a="110" b="31" arg="0xcd01" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />What? <delay20 />Aww.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Please! <delay20 />I can be scary! <delay20 />Watch this<tag a="110" b="0" /><10_4 />
+<anim id="Cheering" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Pfft. <delay20 />You can do better than that.<delay frames="40" />
+<anim id="Fuming" target="actor" targetSpec="" />C'mon, <tag a="110" b="5" />!<delay20 /> Scare me!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 />alright. <delay20 />How's this<tag a="110" b="0" /><pageBreak /><tag a="10" b="12" /><anim id="Outraged" target="actor" targetSpec="" /><size value="200" /><10_10 /><delay20 /><tag a="50" b="3" /><tag a="110" b="6" />!<size value="100" /><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="Shaking" target="actor" targetSpec="" />YEOW! <delay frames="40" /><anim id="EmotEnd" target="subNpc" targetSpec="" />Guess I won't need to clean
+my ears for a while, <tag a="110" b="5" /><tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Well, if nothing else, <delay20 />you scared my
+hearing into hidin' under a ringing
+noise. <delay20 />It's a start, <tag a="110" b="5" />.<anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+</msbt>

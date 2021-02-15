@@ -1,0 +1,42 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh? Hey, you're not from here, are
+you?<delay20 /> Yeah, definitely not.<delay20 /> I would've
+met someone as buff as you by now!
+<anim id="Smiling" target="actor" targetSpec="" />I'm <tag a="110" b="10" />.<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> I actually
+just moved to <tag a="110" b="8" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Seems like the universe is trying to
+tell us something<tag a="110" b="0" /><delay frames="60" /> <anim id="BigSmile" target="actor" targetSpec="" />It's probably
+saying,<delay20 /> "Work out together!"</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yo! You visiting the island?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm <tag a="110" b="10" />!<delay20 /> I just moved
+here today, so I'm still taking in
+that new jogging-route smell!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I'd love to go on a run with you and
+show you around, but I'd probably
+just get us lost, <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Next time, I'll give you a proper tour.<delay frames="30" />
+<anim id="ShyBoy" target="actor" targetSpec="" />Sorry I can't be more help right now.</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Huh? <delay20 />Are you from another island?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />My name's <tag a="110" b="10" />. <delay20 />You
+might know me as the legend
+from <tag a="110" b="8" />.
+<anim id="Eh" target="actor" targetSpec="" />What kind of legend?<delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> Well, I once
+did <tag a="90" b="3" arg="0x100" /> push-ups with a kitten
+asleep on my back.<delay20 /> Pretty cool, huh!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh? A new face!<delay20 /> Are you visiting
+from another island?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />My name's <tag a="110" b="10" />!<delay20 />
+You're<tag a="110" b="0" /><delay20 /><anim id="Smiling" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />?<delay20 /> Cool.<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I just moved here a little while ago,
+so I'm still figuring out all the best
+boulders to lift, <tag a="110" b="5" />.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Hey, if you see any cool boulders,
+let me know about 'em next time
+you're on <tag a="110" b="8" />, OK?</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, you're visiting from off-island,
+right?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />My name's <tag a="110" b="10" />.<delay20 />
+Nice to meet you!<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />I just moved here myself, so my
+tour guide muscles aren't quite
+there yet, <tag a="110" b="5" />.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />It's so awesome to see visitors.<delay20 />
+I love how popular this place is!</message>
+	<message label="002_03" attrib="00 00 00 00 00 00 06 00"><10_14 arg="20" /><anim id="Cheering" target="actor" targetSpec="" /><tag a="10" b="12" /><size value="150" />HEEEEEYAAAAA!<size value="100" /><pageBreak /><10_9 /><anim id="Blushing" target="actor" targetSpec="" />Heh heh, did I scare ya?<delay20 /> My bad.<delay20 />
+Sometimes I get a little too pumped
+up. And then I get a little too loud.
+<anim id="Smiling" target="actor" targetSpec="" />You're here visiting, right?<delay frames="40" /><anim id="Nodding" target="actor" targetSpec="" /> That's so
+cool! My name's <tag a="110" b="10" />!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I'm kinda new here, but I'd love to
+have an off-island workout buddy.</message>
+</msbt>

@@ -1,0 +1,25 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0x710 0x800 0xcd00" /></message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="7" arg="0xb10 0xc00 0xcd00" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Sure does rain a lot around
+here, <tag a="110" b="5" /><tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Thinking" target="mainNpc" targetSpec="" />"<tag a="10" b="13" /><tag a="50" b="3" /><tag a="110" b="8" /><endTag a="10" b="13" /> in the Rain"<tag a="110" b="0" />
+<anim id="OhGeez" target="mainNpc" targetSpec="" />Sounds like a terrible folk song.<delay20 />
+<anim id="Laughing" target="actor" targetSpec="" />Gahaha!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Ahh<tag a="110" b="0" /><anim id="HappyFlower" target="actor" targetSpec="" />this rain feels GREAT!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="008" attrib="00 00 0c 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Y'know, some folks say that when
+it's rainin', the clouds are cryin'.<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />But what if they're actually sweatin'?<delay20 />
+<anim id="Grin" target="actor" targetSpec="" />Makes you wonder where you
+put that umbrella, eh?<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> Gahaha!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="009" attrib="00 00 0c 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />There's nothing like gettin'
+completely soaked by fresh
+rainfall. <delay20 /><anim id="AbsentMindedness" target="actor" targetSpec="" />Ahh<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, when's this dad-
+gummed rain gonna stop?!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, this rain is bringin'
+me back to life<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Just when you think the rain can't
+get any more annoying, it gets
+louder, <tag a="110" b="5" /><tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

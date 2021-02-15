@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" /><delay20 />Ohmigosh! You are talking to me
+so much today!<anim id="BigSmile" target="actor" targetSpec="" /><delay20 /> Are you just that
+drawn to my pop-star aura?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />'K?<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Need something, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You're talking to me SO much today!
+<delay40 /><anim id="QuestionMark" target="actor" targetSpec="" />Are you a secret fan of the music
+I've been thinking about making?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />We've run into each other so
+many times today!<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" /><delay20 />How are
+you, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hi! It's you again!<delay20 /> <anim id="Hello" target="actor" targetSpec="" />Do you want
+something from me, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+</msbt>

@@ -1,0 +1,17 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />You've been hangin' around here so
+much,<delay8 /> I almost forgot you didn't live
+here.<delay20 /><anim id="Laughing" target="actor" targetSpec="" /> Gahaha!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You ever thought about just movin'
+here?<10_4 /><anim id="BigSmile" target="actor" targetSpec="" /> You spend so much time here,
+you may as well. <delay20 />Gahaha!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00">So, <tag a="110" b="3" /><tag a="110" b="0" /> <anim id="Smiling" target="actor" targetSpec="" />How're you
+liking <tag a="110" b="8" />?<delay20 /> Seems
+you've taken a shine to it!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />It sure is strange seein' you all the
+way over here on <tag a="110" b="8" />.<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />GOOD strange, I mean! <delay20 />Gahaha!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00">I swear, kiddo<tag a="110" b="0" /><anim id="Hesitate" target="actor" targetSpec="" /> No matter when we
+meet,<delay8 /> you're like a ray of sunshine.<delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />
+Guess I'm feelin' sentimental today.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

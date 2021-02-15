@@ -1,0 +1,88 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Crying" target="actor" targetSpec="" />Waaah!<anim id="Eh" target="player" targetSpec="" /><delay8 /> This is THE WORST!<delay20 /><anim id="Worried" target="subNpc" targetSpec="" />
+I'm going home!<delay40 /> This is ALL
+your fault, <tag a="110" b="31" arg="0xcd01" />!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />I'm so sorry<tag a="110" b="0" /><anim id="SadSpiral" target="mainNpc" targetSpec="" /><delay40 /> I never meant to
+upset you.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="subNpc" targetSpec="" />Why did you tell me you'd never
+played Space Hammer Blaster?<delay20 />
+<anim id="Crying" target="actor" targetSpec="" />It made my victory feel worthless!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00">You were so excited about winning.
+<anim id="OhGeez" target="actor" targetSpec="" />I didn't want you getting all
+overconfident<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Who asked <anim id="Surprised" target="subNpc" targetSpec="" />you to decide what I can
+feel overconfident about?!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I lost and I got frustrated. <anim id="Eh" target="mainNpc" targetSpec="" /><delay20 />Instead of
+admitting defeat, I said I'd never
+played before.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Explain" target="subNpc" targetSpec="" />The truth is, I was impressed by your
+skills. I could barely react to any of
+your moves. It was<tag a="110" b="0" />wow!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Blushing" target="actor" targetSpec="" />"Wow," huh? <anim id="Nodding" target="subNpc" targetSpec="" /><delay20 />I like the sound of that.<delay20 />
+Tell you what. You can make it up to
+me by <anim id="Scheming" target="mainNpc" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />playing again!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00">I'm sorry. <anim id="OhGeez" target="actor" targetSpec="" /><delay20 />I lied about having not
+played the game before because
+I felt bad about losing.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />The way you play<tag a="110" b="0" /><delay20 />it's masterful.<delay frames="40" />
+<anim id="Love" target="mainNpc" targetSpec="" />You're one with the game!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />That.<delay20 /> Is the sweetest. <anim id="Eh" target="subNpc" targetSpec="" /><delay20 />Thing.
+ANYONE. <anim id="HappyDance" target="actor" targetSpec="" />Has ever said to me!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Bluuurgh<tag a="110" b="0" /><anim id="Eh" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="subNpc" targetSpec="" />What's wrong, <tag a="110" b="31" arg="0xcd00" />?<delay40 />
+<anim id="OhGeez" target="mainNpc" targetSpec="" />That was a pretty heavy sigh<tag a="110" b="0" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />This pop star<delay20 /> I saw on TV last night
+was SOOOO amazing.<anim id="Nodding" target="subNpc" targetSpec="" /><delay40 /> She was like
+everything I admire and more<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00">It got me stressing about if<delay20 /> <anim id="SadSpiral" target="actor" targetSpec="" />I'm ever
+going to get<delay8 /> to where she is<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00">I don't know <delay20 /><anim id="SadSpiral" target="actor" targetSpec="" />if I'm ever going to,
+you know, be good enough to
+make it big like she has<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Don't sell yourself short!<delay frames="60" /> You are
+YOU, <anim id="BigSmile" target="subNpc" targetSpec="" /><delay20 />and that is fantastic!<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00">You're<anim id="EmotEnd" target="subNpc" targetSpec="" /><delay20 /><anim id="Shocked" target="mainNpc" targetSpec="" /><delay20 /> a sunflower! <delay20 />Always facing
+the sun because there is <delay20 />no<delay20 />
+better<anim id="Greeting" target="subNpc" targetSpec="" /><delay20 /> spotlight!<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Crying" target="mainNpc" targetSpec="" /><delay20 />Sunflowers never<anim id="TakenAback" target="subNpc" targetSpec="" /><delay20 /> reach the
+sun, though!<anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00">A sunflower<tag a="110" b="0" /><delay40 />OHH! I get it!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />Sunflowers look at the sparkly sun.
+I'm always looking <anim id="Eh" target="subNpc" targetSpec="" />at sparkly things!<pageBreak /><anim id="EmotEnd" target="subNpc" targetSpec="" />Sunflowers are cute!
+And I'm SUPER <anim id="Eh" target="subNpc" targetSpec="" />cute!<pageBreak /><anim id="EmotEnd" target="subNpc" targetSpec="" />You're saying I'll be the <anim id="Eh" target="subNpc" targetSpec="" />biggest
+pop star ever<tag a="110" b="0" /> <anim id="EmotEnd" target="actor" targetSpec="" /><delay20 />And I'm saying
+you're right!</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00">You're a fearless bug <anim id="Shocked" target="mainNpc" targetSpec="" />charging
+toward the flame<tag a="110" b="0" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" /><delay20 />Um, excuse me?!<anim id="Shocked" target="subNpc" targetSpec="" /><delay40 /> Fame, not flame!
+I don't want to get burnt to a crisp!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Or<tag a="110" b="0" />are you saying that I can
+accomplish anything because
+of my<delay20 /> <anim id="HappyFlower" target="actor" targetSpec="" />"fiery passion"?<pageBreak /><size value="100" />I read that phrase in an old
+self-help magazine.<size value="100" /><anim id="Nodding" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />No!<delay8 /> I can do this! I just need to work
+hard and get <delay8 /><anim id="EmotEnd" target="actor" targetSpec="" />SUPER GLAMOROUS!
+<anim id="Hello" target="actor" targetSpec="" />I'll be the biggest pop star ever!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yeah! I GOT this!<anim id="EmotEnd" target="subNpc" targetSpec="" /><delay40 /> I'll bulldoze
+my way to being<delay20 /> <anim id="Dance" target="actor" targetSpec="" />the world's
+sparkliest pop star!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Great!<delay40 /> <anim id="SmugFace" target="mainNpc" targetSpec="" />I see you've got your shine
+back<tag a="110" b="0" /><delay40 /> I look forward<delay8 /><anim id="BigSmile" target="actor" targetSpec="" /> to your
+radical success!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00">We should so be juicing more stuff,
+you know? Like <anim id="Explain" target="actor" targetSpec="" /><tag a="135" b="3" arg="0xcd00" />!
+That seems juicable, <anim id="Laughing" target="actor" targetSpec="" /><tag a="110" b="6" />!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I like this idea! <anim id="Eh" target="mainNpc" targetSpec="" /><delay20 />Let's try juicing
+everything we can. But first,
+talk to me about "<tag a="110" b="5" />."<pageBreak /><anim id="Love" target="actor" targetSpec="" />It sounds so...I don't know<tag a="110" b="0" />fun to
+say! <delay20 />Let me try<tag a="110" b="0" /> <anim id="TakenAback" target="mainNpc" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />!<delay20 />
+Hey, I was right! You try it now.</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />I'm the one who said it in the
+first place!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00">Hmm<tag a="110" b="0" />good point.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><delay frames="60" /><anim id="AbsentMindedness" target="actor" targetSpec="" /><delay20 /> Would it be OK
+with you if I said it? <anim id="Shocked" target="mainNpc" targetSpec="" /><delay20 />More than just
+now, I mean. Like<tag a="110" b="0" />all the time.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00">You want to say stuff I've said
+because you think it's cool?<pageBreak /><delay40 /><anim id="Nodding" target="subNpc" targetSpec="" /><delay40 />Like I'm a <anim id="Blushing" target="actor" targetSpec="" />famous pop star, and you
+want to be like me?<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" /><delay20 />Yeeeeaah! You
+can say <tag a="110" b="5" /> anytime!<anim id="Shocked" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><delay20 />Thanks, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><delay20 />Anytime, <tag a="110" b="5" />!</message>
+</msbt>

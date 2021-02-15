@@ -1,0 +1,23 @@
+<msbt attribsize="8">
+	<message label="001" attrib="05 00 00 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Did you hear we have company?<delay20 />
+I think they're from another island!</message>
+	<message label="002" attrib="05 00 00 01 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I heard someone's here from
+off-island. <delay20 />Do you know 'em?</message>
+	<message label="003" attrib="05 00 00 01 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Visitors, huh? <delay20 />What do you think
+they do for fun on their island?</message>
+	<message label="004" attrib="05 00 00 01 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Someone's here sightseeing. <delay20 />Have
+you met 'em?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />If I'd known we'd be having guests,
+I might've made snacks!</message>
+	<message label="005_02" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I suppose I gotta be on my best
+behavior while they're here.<delay frames="40" /> <anim id="QuestionMark" target="actor" targetSpec="" />I don't
+need to dress up, do I? <delay20 />Because<tag a="110" b="0" /><delay20 />no.</message>
+	<message label="005_03" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />What should I say if they ask what's
+cool on <tag a="110" b="8" />?<delay frames="40" /> <anim id="AbsentMindedness" target="actor" targetSpec="" />Hiking?
+<delay20 />Fishing? <delay20 />Eating <tag a="110" b="7" arg="0xcd01" />?<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />Actually, <delay20 />all of those are pretty
+cool, <tag a="110" b="5" />.</message>
+	<message label="005_04" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />We gonna show 'em around?<delay frames="40" />
+<anim id="HappyDance" target="actor" targetSpec="" />I wanna make sure they see all of
+<tag a="110" b="8" />'s hot spots!</message>
+</msbt>

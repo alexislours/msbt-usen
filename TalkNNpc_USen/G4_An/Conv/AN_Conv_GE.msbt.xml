@@ -1,0 +1,123 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Look, <tag a="110" b="31" arg="0xcd01" />, <delay20 />just go tell
+'em you're sorry! <anim id="Serious" target="subNpc" targetSpec="" /><delay20 />It'll be
+over before you know it.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="ShyBoy" target="actor" targetSpec="" />Uh, no. <delay20 />Being stubborn is <delay8 />TRENDY<delay8 />
+right now, don't you get it?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd01" />, being trendy's
+about to cost you friends.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Now get over there before this
+gets worse!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />Are you legit that uncool? <delay20 />My fans
+would NEVER forgive me if I forgave
+my friends.<delay frames="60" /> <anim id="Negative" target="actor" targetSpec="" />No way!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Alright, stubborn is in. <delay20 />I get it<tag a="110" b="0" /><pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay frames="40" />OK, try this<tag a="110" b="0" /><delay20 /> What if you tried being
+stubborn about <delay8 />NOT<delay8 /> being stubborn?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You mean, like, <delay20 />be eager and happy?<delay frames="40" />
+<anim id="Angry" target="actor" targetSpec="" />Yeah, right. NOBODY's into cheerful
+right now.<delay20 /> Dark and moody is in!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />That's exactly it! <delay20 />Everyone's moody
+right now, <delay20 />so YOU go out being all
+stubbornly cheerful!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />You get to <delay8 />START<delay8 /> a trend!<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Whaddaya think?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Ohmigosh, <tag a="110" b="31" arg="0xcd00" />!<delay40 /> Yes!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I go back to being mondo cheerful,<delay20 />
+then I butter up my friends.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />And then my friends'll be cheerful
+too, and <delay20 />THEN<delay20 /> we'll all be total
+trendsetters!<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />Boom!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Awesome! <delay20 />Now get out there and
+rock this<tag a="110" b="0" />preferably far, <delay20 />far away
+from me, <tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Why far away?<delay frames="60" /> <anim id="Eh" target="actor" targetSpec="" /><delay20 />Oh!<delay20 /> Do you think
+running away from everyone is
+going to be the next hot thing?<anim id="Sighing" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="011" attrib="00 00 03 00 00 00 00 00"><20_2 arg="3" /><anim id="Outraged" target="actor" targetSpec="" />I AM NOT UNCOOL!<pageBreak /><20_2 arg="6" /><anim id="Sighing" target="actor" targetSpec="" />You gotta bail me out here,
+<tag a="110" b="3" />.<20_3 arg="8" /> <delay frames="40" />What do YOU
+think <tag a="110" b="31" arg="0xcd01" /> should do?</message>
+	<message label="011_a" attrib="00 00 00 00 00 00 00 00">She should apologize.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="011_b" attrib="00 00 00 00 00 00 00 00">Gotta stay with the times!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="011_c" attrib="00 00 00 00 00 00 00 00">I totes don't care.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><20_2 arg="2" /><anim id="Surprised" target="actor" targetSpec="" /><delay20 />No, <delay20 />no, <delay20 />no!<delay frames="60" /> <anim id="Fuming" target="actor" targetSpec="" />You're both SOOOO out
+of touch! <delay20 />My friends don't WANT me
+to apologize! <delay20 />They.<delay20 /> Are. <delay20 />TRENDY!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Negative" target="actor" targetSpec="" />If you don't want the apology going,
+um<tag a="110" b="0" />bacterial or whatever, fine.<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />But
+think of all the new followers!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Eh" target="actor" targetSpec="" /><delay20 />You mean viral? <delay20 />Wow!<delay20 /> That's a legit
+good point.<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />And that hashtag would
+totes blow up too<anim id="EmotEnd" target="mainNpc" targetSpec="" /><tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Alright, I'll do it for my fans. <delay20 />I'm
+going to apologize.<delay frames="40" /> <anim id="HappyDance" target="actor" targetSpec="" />Yeah, I am <delay20 />WAY<delay20 />
+into this plan!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="QuestionMark" target="actor" targetSpec="" />Um<tag a="110" b="0" /><delay20 /> Did you say blow up? <delay20 />Hashtags
+can do that?<delay frames="40" /> <anim id="Frantic" target="actor" targetSpec="" />I-I-I didn't know they
+were THAT dangerous, <tag a="110" b="5" />!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><20_2 arg="7" /><20_2 arg="4" /><anim id="Eh" target="mainNpc" targetSpec="" /><anim id="SmugFace" target="actor" targetSpec="" />See, <tag a="110" b="31" arg="0xcd00" />? <delay frames="40" />Told you!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" />Seriously, <tag a="110" b="3" />?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" />but if <tag a="110" b="3" />'s
+down with being stubborn,<20_2 arg="5" />
+<delay20 />maybe the trend's peaking.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Yeah, this stubborn thing's old.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />I'll
+apologize to my besties so we can
+get front-row seats to the next trend!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="OhGeez" target="actor" targetSpec="" />I have no clue what just happened.<anim id="Negative" target="player" targetSpec="" /><anim id="EmotEnd" target="player" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Thanks<tag a="110" b="0" /><delay frames="40" />I think.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="TakenAback" target="actor" targetSpec="" /><delay20 />Huh? <delay20 />You don't <delay8 />CARE?!<20_2 arg="5" /><delay frames="40" /> <anim id="Frantic" target="actor" targetSpec="" />But if you
+don't care, how am I supposed to
+be trendy!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="ShyBoy" target="actor" targetSpec="" />Maybe not caring about trends is the
+next hot trend, <tag a="110" b="5" />!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />No offense, but you don't seem like
+the island type. <delay20 />Wouldn't you be
+happier in a big city?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Humble roots are totes in right now.<delay frames="40" />
+<anim id="HappyFlower" target="actor" targetSpec="" />I'm going make my big debut as an
+island girl!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Are you sure <tag a="110" b="8" />'s
+roots aren't a little TOO
+humble for you?<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Are island styles even trendy?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh! <delay20 />I'm bringing <tag a="110" b="8" />
+styles with me to the city!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />It'll be just what my big hype
+campaign needs!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Really? <delay20 />And how do you plan to
+do that?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />We're going to make a magazine! <delay20 />I'm
+going to show the world what a hot
+spot <tag a="110" b="8" /> is!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><20_3 arg="8" /><anim id="Nodding" target="actor" targetSpec="" />OK, <tag a="110" b="3" />,<20_2 arg="6" /><delay20 /> you're my
+editor. <delay20 /><20_2 arg="7" /><anim id="BigSmile" target="actor" targetSpec="" /><delay20 />And <tag a="110" b="31" arg="0xcd00" />,<anim id="Eh" target="mainNpc" targetSpec="" /> <delay20 />you'll
+be my photographer.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><20_2 arg="8" />The first issue's going be all about
+<tag a="110" b="8" />'s most promising
+young starlet<tag a="110" b="0" /><anim id="Dance" target="actor" targetSpec="" /><delay frames="60" />ME!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="107" attrib="00 00 01 00 00 00 00 00"><20_2 arg="6" /><anim id="Confused" target="actor" targetSpec="" />Wait, hang on. <delay20 /><tag a="50" b="3" /><tag a="110" b="3" />,
+s-say something!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="107_a" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nope! Not happening.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="107_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Ready to be famous?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><20_2 arg="5" /><anim id="SadSpiral" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" />I'm with <tag a="110" b="3" />.<anim id="EmotEnd" target="subNpc" targetSpec="" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Are you sure <tag a="110" b="8" /> even
+wants all that attention?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />But the hotels, <delay20 />the huge crowds, <delay20 />the
+traffic, <delay20 />the premium housing prices!<delay frames="40" />
+Who <delay8 />WOULDN'T<delay8 /> want that?<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><20_2 arg="5" /><anim id="Negative" target="mainNpc" targetSpec="" /><anim id="HappyDance" target="actor" targetSpec="" />Yes, <delay8 />yes, <delay8 />yes! <delay20 />I can't wait!
+<delay frames="40" />Make sure you get my glam
+side, <tag a="110" b="31" arg="0xcd00" />!<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Just so you know, the last time I
+used a camera, all I got were blurry
+pictures of my feet.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />But that's what I'm sayin'! <delay20 />Just
+'cause <delay8 />YOU<delay8 /> say something's a hit
+doesn't mean it is, <tag a="110" b="5" />!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Hang on! <delay20 />Did you just
+say, <delay20 />"<tag a="110" b="5" />?"<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Uh, yeah, <delay20 />probably. <delay20 />I say
+"<tag a="110" b="5" />" pretty much all the
+time. <delay20 />So what, <tag a="110" b="5" />?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><delay20 />SO WHAT?! <delay frames="40" />Isn't it totes obvious?<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="5" />" is waaaay cooool!<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />You have <delay20 />GOT<delay20 /> to let me say it!<delay frames="40" />
+Pleeeeeeease! <delay20 /><tag a="50" b="3" /><tag a="110" b="5" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Well, it ain't like I can stop
+you.<delay20 /> Sure, knock yourself
+out, <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Eeeeeeeeeeeeee! <delay frames="40" />So awesome!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><tag a="50" b="3" /><tag a="110" b="6" /> is totally going to
+trend and go viral and be a hashtag
+and EVERYTHING!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />You and me, <delay20 />we'll be, like, <delay20 />the
+Team #<capitaliseNextWord /><tag a="110" b="5" /> captains!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" /><delay20 />It's just a silly phrase. <delay20 />I think you're
+getting ahead of yourself again,
+<tag a="110" b="31" arg="0xcd01" />, <tag a="110" b="5" />.<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+</msbt>

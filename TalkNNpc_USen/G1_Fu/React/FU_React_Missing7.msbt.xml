@@ -1,0 +1,25 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! 
+<anim id="Worried" target="actor" targetSpec="" />Where've you been?
+Is everything OK?<delay20 /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Let me guess<tag a="110" b="0" /><delay8 /> <anim id="IdeaBulb" target="actor" targetSpec="" />I bet you've been
+hiding out, reading a good book.<delay8 /><pageBreak /><anim id="Pardon" target="actor" targetSpec="" />If I'm right, you have to <anim id="HappyFlower" target="actor" targetSpec="" />share
+it with me when you're done!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! I was just
+wondering when I'd
+see you again.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I've been <tag a="135" b="8" arg="0xcd00" />, but
+that was <anim id="OhGeez" target="actor" targetSpec="" />starting to get boring<tag a="110" b="0" /></message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey there! It's been a while<tag a="110" b="0" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="8" /> seems
+kind of empty without
+you, <tag a="110" b="5" />.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!
+<anim id="FaintSmile" target="actor" targetSpec="" />Long time, no see<tag a="110" b="0" /><pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You must've been really busy lately.
+<anim id="Hesitate" target="actor" targetSpec="" />Feels like ages since we've talked.</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Look who's here!
+<anim id="Hello" target="actor" targetSpec="" />How've you been?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I feel like there was something
+I'd been meaning to tell you<tag a="110" b="0" />
+<tag a="50" b="3" /><tag a="110" b="5" />, what was it?<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Oh well.<delay8 /> It's gone<tag a="110" b="0" /></message>
+	<message label="002_03" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />It's been a while, <tag a="110" b="3" />!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I was worried that I might've
+offended you or something<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Anyway, <anim id="FaintSmile" target="actor" targetSpec="" />nice to see you again!</message>
+</msbt>

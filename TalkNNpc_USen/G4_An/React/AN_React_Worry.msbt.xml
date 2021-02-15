@@ -1,0 +1,16 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />They'll never learn if I just step in
+and do it myself. <delay20 />But if I don't do it,
+I get the feeling it won't get done.<pageBreak /><20_3 arg="0" /><anim id="Shocked" target="actor" targetSpec="" />Oh, hey. <delay20 />Sorry, I was in my own little
+world there. <anim id="EmotEnd" target="actor" targetSpec="" /><delay20 />I think I've got a thing
+to take care of, so catch you later!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />How did I get roped into this?<delay20 />
+I dunno<tag a="110" b="0" /><delay20 />would <tag a="50" b="2" /><tag a="135" b="2" arg="0xcd00" />
+do the trick?<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Nah. <delay20 /><20_3 arg="0" />Sorry, <tag a="110" b="3" />,
+I'm too wrapped up in a big decision
+to talk now. <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />Hit me up later, OK?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 06 00"><tag a="10" b="12" /><10_14 arg="20" /><anim id="Cheering" target="actor" targetSpec="" /><delay20 /><size value="200" />GAAAAAAHHH!<size value="100" /><10_8 arg="30" /><pageBreak /><10_9 /><anim id="Frantic" target="actor" targetSpec="" />My brain's running so hot that I'm
+gonna catch a fever, <tag a="110" b="5" />!<pageBreak /><20_3 arg="0" /><anim id="Shocked" target="actor" targetSpec="" />I gotta write all this down before it
+boils away! <anim id="EmotEnd" target="actor" targetSpec="" /><delay20 />Whatever you wanted is
+gonna have to wait for now!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

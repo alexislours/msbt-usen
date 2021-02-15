@@ -1,0 +1,32 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Huh? <tag a="50" b="3" /><tag a="110" b="4" />!<delay40 />
+<anim id="Greeting" target="actor" targetSpec="" />It's been, wow, ages! Yeah! It's
+been AGES since I saw you last!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Were you away seeing a show or
+something?<delay40 /><anim id="EmotEnd" target="actor" targetSpec="" /> Even though your fave
+pop star is right here on this island?
+<anim id="BigSmile" target="actor" targetSpec="" />I get it. <delay20 />It's totes important to see
+the world!<delay frames="60" /> <anim id="EmotEnd" target="actor" targetSpec="" />Just don't forget to
+hang with me sometimes, 'K?</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00">I have SO much to tell you about
+SO many things, <tag a="110" b="3" />!
+<anim id="Greeting" target="actor" targetSpec="" />It's been forever since we talked!
+<anim id="Explain" target="actor" targetSpec="" />I'm going to get my notes together
+because there's too much stuff to
+tell you and not forget something!</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hi, <tag a="110" b="4" />!<delay8 />
+<anim id="Greeting" target="actor" targetSpec="" />Long time no see!<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /> Been<anim id="QuestionMark" target="actor" targetSpec="" /> busy?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I've been sooo bored lately that<delay20 />
+I took up <tag a="135" b="8" arg="0xcd00" /> for
+an afternoon.<delay40 /> I was <anim id="EmotEnd" target="actor" targetSpec="" />pretty good!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Long time no chats,
+<anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="4" />!<pageBreak />I think we've both been SO busy,
+we forgot to talk to each other!</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Ohmigosh! <delay20 /><tag a="50" b="3" /><tag a="110" b="4" />!<delay20 />
+<anim id="Confused" target="actor" targetSpec="" />FINALLY! I get to chat with you!<10_4 />
+<anim id="Worried" target="actor" targetSpec="" />I've, um<tag a="110" b="0" />I legit missed you.<10_4 /> A lot.</message>
+	<message label="002_03" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh! Hey, <tag a="110" b="4" />!<delay frames="60" />
+<anim id="Pardon" target="actor" targetSpec="" />How've you been?!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I haven't seen you around. <anim id="Grin" target="actor" targetSpec="" />Have you
+been avoiding me?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />You GOOF!<delay frames="60" /> <anim id="EmotEnd" target="actor" targetSpec="" />I'm <delay8 /><anim id="Hello" target="actor" targetSpec="" />always happy to
+chat with you!</message>
+</msbt>

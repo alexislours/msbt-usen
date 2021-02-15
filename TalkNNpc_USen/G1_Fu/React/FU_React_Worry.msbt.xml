@@ -1,0 +1,17 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><colour id="4" /><anim id="Thinking" target="actor" targetSpec="" />Rubber spatula, that's the key to
+mixing sponge cake batter<tag a="110" b="0" /><delay8 /> <anim id="Explain" target="actor" targetSpec="" />Have to
+turn the wrist like this<tag a="110" b="0" /> <delay8 />Then that.<colour id="65535" />
+<20_2 arg="6" /><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> <20_3 arg="6" />I'm so sorry!<delay20 /> <anim id="Worried" target="actor" targetSpec="" />My mind's 
+somewhere else right now.
+Let's talk later,<delay20 /> <tag a="110" b="5" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><colour id="4" /><anim id="Thinking" target="actor" targetSpec="" />But in that case<delay8 /><tag a="110" b="0" /> Hmmm. But<delay8 /><tag a="110" b="0" />
+Why would it be like that?<delay20 /> Can't be
+right, at least not in that way<delay8 /><tag a="110" b="0" /><colour id="65535" />
+<20_2 arg="6" /><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay20 /> <20_3 arg="6" /><anim id="Confused" target="actor" targetSpec="" />Were you trying to get my
+attention?<delay20 /> <anim id="Worried" target="actor" targetSpec="" />I'm all up in my head,<delay20 />
+trying to work something out<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="Surprised" target="actor" targetSpec="" />Wha—?<delay20 /> <20_3 arg="6" /><tag a="50" b="3" /><tag a="110" b="3" />?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You startled me!<delay frames="40" /> Sorry,<delay20 /> <anim id="Confused" target="actor" targetSpec="" />I have a lot on my mind right now and,<delay20 /> well<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />I'd rather talk when I can give you 
+my full attention.<delay40 /> Come find me again
+later, OK?<delay frames="40" /> Thanks for understanding.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

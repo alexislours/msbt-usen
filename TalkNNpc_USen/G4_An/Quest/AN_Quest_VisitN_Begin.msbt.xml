@@ -1,0 +1,86 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Wanna hang out at my
+place, <tag a="110" b="3" />?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I've been on a major cleaning kick
+lately,<delay frames="40" /> <anim id="Blushing" target="actor" targetSpec="" />and I really wanna show it off
+before it's dirty again.</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00">Sure, I'll come by!</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Not now...</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh yeah!<delay20 /> You should swing by my
+place and hang out.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Everything's clean, and I don't
+know how long that'll last, so<tag a="110" b="0" /><delay20 />
+Whaddaya say, <tag a="110" b="5" />?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">I'll be there!</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Can't right now...</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />, wanna chill
+at my place and tell dumb stories
+about the old days?<delay frames="40" /> <anim id="HappyDance" target="actor" targetSpec="" />I have snacks!</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00">Snacks, you say? I'm in!</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Sorry. Busy.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh really, <tag a="110" b="5" />?<delay20 /> Well, some
+other time, then.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Yeah, I get it, <tag a="110" b="5" />.<delay20 />
+I'll check back later.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="ColdChill" target="actor" targetSpec="" />I see how it is.<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Maybe I'll bug you
+later, <tag a="110" b="5" />. <delay20 />Maybe.</message>
+	<message label="007" attrib="00 00 01 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Awesome! <delay20 />When's good for you?</message>
+	<message label="007_a" attrib="00 00 00 00 00 00 00 00">How about now?</message>
+	<message label="007_b" attrib="00 00 00 00 00 00 00 00">Let's hang out tomorrow.</message>
+	<message label="008" attrib="00 00 01 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Aww, yeah! <delay20 />This is gonna be fun!<delay20 />
+When works for you?</message>
+	<message label="008_a" attrib="00 00 00 00 00 00 00 00">Let's go now!</message>
+	<message label="008_b" attrib="00 00 00 00 00 00 00 00">I'll come tomorrow.</message>
+	<message label="009" attrib="00 00 01 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />OK, so when's good? <delay20 />You know, for
+you to come over?</message>
+	<message label="009_a" attrib="00 00 00 00 00 00 00 00">Right now!</message>
+	<message label="009_b" attrib="00 00 00 00 00 00 00 00">How about tomorrow?</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Alright! <delay20 />Let's get going!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Dance" target="actor" targetSpec="" />Well, c'mon then!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Rock! <delay20 />C'mon, let's get going!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh yeah! <delay20 />You've never been to my
+place, have you?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Can't wait for
+you to see it, <tag a="110" b="5" />!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Wait up, <tag a="110" b="3" />.<delay frames="40" /> <anim id="Hello" target="actor" targetSpec="" />This'll
+be your first time at my
+place, right?</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Hold up. <delay20 />What time is it?<delay frames="40" /> <anim id="Blushing" target="actor" targetSpec="" />Oh<tag a="110" b="0" /><delay20 /> Hey,
+actually, <delay20 />sorry to flake on you, but
+we're gonna need a rain check.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Tomorrow it is. <delay20 />See you then!
+<delay20 />Come by any time.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Great! <delay20 />See you tomorrow.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I'm home
+all day, so just swing by whenever.</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Perfect! <delay20 />I'm home all day tomorrow,
+so you can come by whenever.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Just<tag a="110" b="0" /><delay20 />not too early or too late, OK?<delay frames="40" />
+<anim id="WrySmile" target="actor" targetSpec="" />I gotta get my beauty rest!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Don't forget, OK?<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />You don't wanna
+make me mad, <tag a="110" b="5" />.</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Guess I could finish readin' my
+book today<tag a="110" b="0" /><delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Alright, see you
+soon, <tag a="110" b="5" />!</message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />How have I never had you over,
+<tag a="110" b="3" />?<delay20 /> I'm kinda
+shocked, <tag a="110" b="5" />.</message>
+	<message label="208" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />I'm looking forward to you checking
+out my place, <tag a="110" b="5" />.</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I'm home all day tomorrow.<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />Just don't come too early or late.<delay20 />
+I gotta sleep too, y'know?</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />You still gonna swing by tomorrow?
+<delay20 />Any time's fine, <tag a="110" b="5" />.</message>
+	<message label="303" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />We're still on for hanging out
+tomorrow, right?</message>
+	<message label="401" attrib="00 00 02 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hey! <delay20 />Feel like hanging out? <delay20 />I've got
+nothing going on today.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />I even
+cleaned my place!</message>
+	<message label="401_a" attrib="00 00 00 00 00 00 00 00">Sure! Let's go!</message>
+	<message label="401_b" attrib="00 00 00 00 00 00 00 00">Maybe later.</message>
+	<message label="402" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />, whatcha up
+to right this very second?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Feel
+like hanging out at my place?</message>
+	<message label="402_a" attrib="00 00 00 00 00 00 00 00">Sure!</message>
+	<message label="402_b" attrib="00 00 00 00 00 00 00 00">Nah. I can't right now.</message>
+	<message label="403" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Too busy? <delay20 />All good. Maybe later.</message>
+	<message label="404" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Aw, too bad.<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />We'll get together
+some other time.</message>
+</msbt>

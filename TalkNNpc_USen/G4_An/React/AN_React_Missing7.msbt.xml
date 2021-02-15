@@ -1,0 +1,33 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Oh, <tag a="110" b="3" />!
+<delay20 />Haven't seen you in a while.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Like<tag a="110" b="0" /><delay20 /><tag a="90" b="1" arg="0x0" /> <50_8 x="0" y="0" a="weeks" b="whole week" c="weeks" />!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />How've you been? <delay20 />Everyone on the
+island was starting to miss you!<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />And yeah, that includes me.
+<delay20 />I can admit it.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Anyway, great
+to see you, <tag a="110" b="5" />!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa!<delay20 /> Where have you been? <delay frames="40" /><anim id="QuestionMark" target="actor" targetSpec="" />Did
+you go on vacation or something?<pageBreak /><anim id="ShyBoy" target="actor" targetSpec="" />You shoulda said something!<delay20 />
+I was getting worried about
+you, <tag a="110" b="5" />.</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Yo, <tag a="110" b="3" />!<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />How are you?
+Haven't caught up in a while.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Nobody's seen you here in, like,<delay20 />
+weeks. <delay20 />What were you doing?<pageBreak /><anim id="Silent" target="actor" targetSpec="" />Don't tell me you were just spaced
+out in front of the TV all this time<tag a="110" b="0" /><delay20 />
+<anim id="Grin" target="actor" targetSpec="" />'cause I totally woulda joined you!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! <delay20 />What's up?<delay frames="40" />
+<anim id="Explain" target="actor" targetSpec="" />I feel like I haven't had any
+face time with you lately.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I didn't<tag a="110" b="0" /><delay20 />scare you or anything,
+right? <delay20 />I know I can be a bit much
+sometimes, <tag a="110" b="5" />.</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Well, look who it is!<delay20 /> Hey,
+<tag a="110" b="3" />!<delay20 /> Haven't talked
+to you in a bit.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I mean, I've seen you around,<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />but I
+guess we've both been too busy to
+chat, <tag a="110" b="5" />.</message>
+	<message label="002_03" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Sup, <tag a="110" b="3" />?<delay frames="40" />
+<anim id="Explain" target="actor" targetSpec="" />We haven't spoken in a while!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Glad you stopped by. <delay20 />I missed talkin'
+to you, <tag a="110" b="5" />.<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />You're such an
+awesome listener!</message>
+</msbt>

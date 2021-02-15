@@ -1,0 +1,11 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Hey, you're here again!<delay40 /> <anim id="Smiling" target="actor" targetSpec="" />I'm so happy!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Are you, like,<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> totally obsessed with
+my place or what?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Enjoy hanging out!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />I work hard to keep my place
+super comfy.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" /><delay20 />Folks say my place is super comfy<tag a="110" b="0" />
+I hope it's true. I work hard for that
+"not working very hard" look.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

@@ -1,0 +1,52 @@
+<msbt attribsize="3">
+	<message label="002" attrib="00 00 20">It seems there aren't any other island
+residents to play with right now.</message>
+	<message label="003" attrib="00 00 20">Please select the island residents
+you want to play with.</message>
+	<message label="003_f" attrib="00 00 21">Never mind.</message>
+	<message label="006" attrib="0a 00 20">You're playing with other folks at the
+moment. <delay20 />What would you like to do?</message>
+	<message label="006_a" attrib="00 00 21">Change Leader.</message>
+	<message label="006_b" attrib="00 00 21">End session.</message>
+	<message label="006_c" attrib="00 00 21">Pick residents again.</message>
+	<message label="006_d" attrib="00 00 21"><anim id="EmotEnd" target="player" targetSpec="" />Save and end.</message>
+	<message label="006_e" attrib="00 00 21">Check how to play.</message>
+	<message label="006_f" attrib="00 00 21"><anim id="EmotEnd" target="player" targetSpec="" />Keep playing.</message>
+	<message label="006_01" attrib="08 00 20">You're playing with another resident
+right now.<delay20 /> What would you like to do?</message>
+	<message label="006_01_a" attrib="00 00 21">Change Leader.</message>
+	<message label="006_01_b" attrib="00 08 21">End session.</message>
+	<message label="006_01_c" attrib="00 07 21"><anim id="EmotEnd" target="player" targetSpec="" />Save and end.</message>
+	<message label="006_01_d" attrib="00 00 21">Check how to play.</message>
+	<message label="006_01_e" attrib="00 00 21"><anim id="EmotEnd" target="player" targetSpec="" />Keep playing.</message>
+	<message label="007" attrib="00 00 21"><tag a="50" b="3" /><tag a="115" b="0" arg="0xcd00" />, please press
+<colour id="1" /><colour id="65535" /> and <colour id="1" /><colour id="65535" /> (or <colour id="1" /><colour id="65535" /> and <colour id="1" /><colour id="65535" />)
+at the same time.<10_8 arg="0" /></message>
+	<message label="008" attrib="00 00 20">A controller was not connected.<delay20 />
+Ending the session for now.<10_7 arg="300" /></message>
+	<message label="009" attrib="01 00 20">Can you connect a controller
+for <tag a="115" b="0" arg="0xcd00" />?</message>
+	<message label="009_a" attrib="00 00 21">Reconnect from start.</message>
+	<message label="009_b" attrib="00 00 21">Try another option.</message>
+	<message label="010" attrib="00 00 20">A controller was not connected.<delay20 />
+Ending the session for now.<10_7 arg="300" /></message>
+	<message label="011" attrib="00 00 20">Controllers have been connected
+for all island residents.<delay20 /> Have fun!</message>
+	<message label="013" attrib="00 00 20">You cannot call other residents
+when networked play is active.</message>
+	<message label="014" attrib="00 00 20">When playing alone, a solo Joy-Con
+is not a valid controller method.<delay20 />
+Please connect a controller.<10_7 arg="180" /></message>
+	<message label="016" attrib="00 00 20">You can't change
+the Leader right now.</message>
+	<message label="017" attrib="00 00 20">You can't call anyone right now.</message>
+	<message label="018" attrib="00 00 17">Huh?<delay8 /> "Outside Service Area"?<delay20 /> Guess
+I can only use this on my own island.</message>
+	<message label="019" attrib="00 00 20">Please select the island residents
+you want to play with.<pageBreak /><colour id="0" />You can't play with residents
+whose user data has been
+deleted from the system.<colour id="65535" /></message>
+	<message label="020" attrib="00 00 20">You cannot call anyone at this time.<pageBreak /><colour id="0" />You can't play with residents
+whose user data has been
+deleted from the system.<colour id="65535" /></message>
+</msbt>

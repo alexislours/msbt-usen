@@ -1,0 +1,16 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Oh! <tag a="50" b="3" /><tag a="110" b="3" />!<delay40 /> <anim id="AbsentMindedness" target="actor" targetSpec="" />Taking a
+walk in the snow soothes the soul,
+doesn't it, <tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Out for a walk too, I see.<delay40 /> <anim id="Smiling" target="actor" targetSpec="" />It takes a
+sophisticated eye to truly appreciate 
+snow's intricate beauty.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! <delay frames="13" />We meet again!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />When I have something important
+on my mind, a brisk walk in the snow
+always helps me think, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Isn't <tag a="110" b="8" /> in the snow
+simply lovely, <tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It's very nice of you to chat with me
+so much, <tag a="110" b="6" />.<pageBreak /><anim id="Shaking" target="actor" targetSpec="" />Now, if only your words could keep
+me warm, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

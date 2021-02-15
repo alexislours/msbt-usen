@@ -1,0 +1,61 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />Man, I<delay20 /> can get angry sometimes too!<delay20 />
+<anim id="Outraged" target="actor" targetSpec="" />Harrumph!<10_4 />
+THAT'S RIGHT! I HARRUMPH'D!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Fuming" target="actor" targetSpec="" />I'm so angry, there's steam<delay8 />
+coming out of my head!
+Look at it! Steam!<pageBreak /><10_10 />I DIDN'T EVEN KNOW THAT WAS A
+THING THAT COULD HAPPEN!
+THAT'S HOW MAD I AM!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Fuming" target="actor" targetSpec="" />I'm REAL MAD.<10_4 /> I'm thinking REAL
+HARD about how to get HAPPY!<pageBreak /><10_10 />IT'S NOT WORKING!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> is<delay8 /> the worst!<delay40 />
+Man, <gender3 m="he's" f="she's" /> like a stale potato chip!
+<anim id="Negative" target="actor" targetSpec="" />Super! <delay8 />Yuck!<10_4 /><anim id="Angry" target="actor" targetSpec="" /> Doesn't get me AT ALL!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Angry" target="actor" targetSpec="" />There's no way <tag a="115" b="1" arg="0xcd00" />
+can be that<tag a="110" b="0" />that<tag a="110" b="0" />IRRITATING!<10_4 />
+<anim id="Silent" target="actor" targetSpec="" /><gender3 m="He" f="She" /> must have taken classes.<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Outraged" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> is like a mean
+bug who BITES you when all YOU
+wanna do is TALK! <anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" /><tag a="115" b="1" arg="0xcd00" /> didn't listen<delay20 /> <anim id="Explain" target="actor" targetSpec="" />when
+I tried to tell <gender3 m="him" f="her" /> about<delay8 /> a sandwich
+I invented in a dream<tag a="110" b="0" />
+<anim id="Angry" target="actor" targetSpec="" />Nooooooo! <anim id="Worried" target="actor" targetSpec="" /><tag a="50" b="3" /><gender3 m="he" f="she" /> started talking about
+<delay20 /><gender3 m="his" f="her" /> OWN dream!<pageBreak /><anim id="Confused" target="actor" targetSpec="" />So now<delay20 /> I<delay20 /> can't remember<delay8 /> how to
+make the sandwich!<10_4 /> <anim id="Angry" target="actor" targetSpec="" /><tag a="50" b="3" /><gender3 m="he" f="she" />'s the worst! The worst!</message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">They're a monster.</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Hmm...</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />I knew you'd understand. You're no
+dream-sandwich destroyer! <pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Serious" target="actor" targetSpec="" />I'm sure <tag a="115" b="1" arg="0xcd00" />
+wanted to talk too,<delay20 /><anim id="OhGeez" target="actor" targetSpec="" /> but
+ya gotta wait your turn!<pageBreak />There are dream-sandwiches
+at stake!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="OhGeez" target="actor" targetSpec="" />Now I have to dream the same dream
+all over again!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /> <anim id="Serious" target="actor" targetSpec="" />I hope I get it right.</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Outraged" target="actor" targetSpec="" />Aargh!<delay8 /> Listen, <tag a="110" b="4" />.
+I got BUGS I'd rather talk
+to than you!<pageBreak />Bugs that TRY TO BITE ME when
+I talk to them!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Negative" target="actor" targetSpec="" />I don't have anything to say to you,
+<tag a="110" b="3" />! <anim id="Angry" target="actor" targetSpec="" />You're just a big
+old meany! <10_4 />Yeah, YOU HEARD ME!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><tag a="100" b="0" /><anim id="Fuming" target="actor" targetSpec="" />I'm so angry at you!<10_4 /> <anim id="Silent" target="actor" targetSpec="" /><anim id="Pardon" target="actor" targetSpec="" />If you were a
+snack, <delay20 />I'd throw you away. <delay40 /><anim id="Angry" target="actor" targetSpec="" />And
+throwing away snacks is <delay8 />WRONG!<anim id="EmotEnd" target="actor" targetSpec="" /><endTag a="100" b="0" /></message>
+	<message label="203" attrib="00 00 02 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! I'm SO angry
+at you, it makes my eyeballs hurt!<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />You know WHY I'm mad,<delay20 /> right?!</message>
+	<message label="203_a" attrib="00 00 00 00 00 00 00 00">I was a jerk. I'm sorry.</message>
+	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Yeah...</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" /><delay frames="40" />Sigh<tag a="110" b="0" /><delay frames="60" /> <anim id="Serious" target="actor" targetSpec="" />I'll forgive you since
+you apologized.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm tired of being angry, anyways.
+It's cutting into snack time!<delay20 /> Just<tag a="110" b="0" />
+<anim id="Restless" target="actor" targetSpec="" />Be careful next time, <tag a="110" b="6" />.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I learned in school that you
+apologize by saying you're sorry.
+"Yeah" isn't an apology.<delay frames="40" />
+But ya know what? It's all cool.
+I'm gonna forgive you <delay20 />this time.<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="FaintSmile" target="actor" targetSpec="" />Don't be a jerk in the future!</message>
+</msbt>

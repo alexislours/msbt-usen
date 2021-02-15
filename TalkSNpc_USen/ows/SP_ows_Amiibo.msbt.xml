@@ -1,0 +1,13 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 13">Hello, <delay20 /><tag a="110" b="10" /> speaking.<delay frames="60" />
+<anim id="Nodding" target="actor" targetSpec="" />Oh, yes,<delay20 /> <tag a="110" b="1" />, hello!<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Can I help you with something?</message>
+	<message label="002" attrib="00 00 00 13"><anim id="Shocked" target="actor" targetSpec="" />Oh, a visit to the <colour id="1" />campsite<colour id="65535" />?!<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />That sounds delightful! I so love
+sleeping under the sun<tag a="110" b="0" />
+Sadly though,<delay20 /> I'm quite busy with
+my research, <delay20 />and I won't be able
+to go, <tag a="110" b="3" />.
+<anim id="Worried" target="actor" targetSpec="" />I'm so sorry I can't make it!<delay frames="40" /> But
+thanks awfully for inviting me.</message>
+</msbt>

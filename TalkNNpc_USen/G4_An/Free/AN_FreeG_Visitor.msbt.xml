@@ -1,0 +1,81 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 01 01 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />POP QUIZ! <delay frames="40" />What is<tag a="110" b="0" /><delay20 />the local fruit
+of <tag a="110" b="8" />?</message>
+	<message label="001_a" attrib="04 00 00 00 00 00 00 00">Oh! Um, that one!</message>
+	<message label="001_b" attrib="05 00 00 00 00 00 00 00">Is it one of those?</message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x10 0x11 0xffff 0xffff" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" /><tag a="110" b="0" />You win this round.<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />Anyway, <delay20 />yep,
+it's <tag a="110" b="7" arg="0xcd01" />.<delay20 /> Don't forget to buy
+a few, <tag a="110" b="5" />!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Those<tag a="110" b="0" /><delay20 />those're rocks. <delay20 />You're
+pointing at rocks. <delay20 />Rocks are not
+a fruit, <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />OK, well, <delay20 />if you haven't had 'em yet,
+<delay20 />try <tag a="110" b="8" />'s <tag a="110" b="7" arg="0xcd01" />.
+<anim id="FaintSmile" target="actor" targetSpec="" />They're way more<tag a="110" b="0" /><delay20 />edible than rocks.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Why don't you buy a few <tag a="110" b="7" arg="0xcd01" />
+and see for yourself?</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />You meet <colour id="3" />Timmy<colour id="65535" /> yet?<delay frames="40" /> <anim id="Explain" target="actor" targetSpec="" />He's the little
+shopkeep at <colour id="1" />Resident Services<colour id="65535" /> who's
+been a HUGE help to everyone.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />If you haven't met him, <delay20 />you big-time
+gotta go say hi, <tag a="110" b="5" />!</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Since you came all this way,<delay frames="40" /> <anim id="WrySmile" target="actor" targetSpec="" />you
+up for a little shopping spree at
+<colour id="1" />Nook's Cranny<colour id="65535" />?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />The shop's kinda<tag a="110" b="0" /><delay20 />let's call it snug,<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" />but it's got a super-solid selection
+of sweet stuff, <tag a="110" b="5" />!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Got your <tag a="110" b="8" />
+souvenirs yet?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Go see <colour id="3" />Timmy<colour id="65535" /> and <colour id="3" />Tommy<colour id="65535" /> at
+<colour id="1" />Nook's Cranny<colour id="65535" />.<delay20 /> They can hook
+you up, <tag a="110" b="5" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Seriously, that place rocks!<delay20 /> You can
+get almost anything there!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Our <colour id="1" />museum<colour id="65535" />'s gonna be so rad.<delay20 />
+They're still getting everything set
+up, but some day<tag a="110" b="0" /><delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />Some day!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x15 0x16 0x17 0x19" /></message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
+	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />You gotta check out our <colour id="1" />museum<colour id="65535" />.<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />It's, like,<delay20 /> the pride of the island!<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I always get super stoked when I
+walk by it. <delay20 />Plus, the building's really
+photogenic,<delay20 /> if that's your thing.</message>
+	<message label="028" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Been to the <colour id="1" />museum<colour id="65535" /> yet?<delay frames="40" /> <anim id="Love" target="actor" targetSpec="" />Whatever
+you do,<delay20 /> you have GOT to check out
+our <tag a="135" b="13" arg="0x0" />!</message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Are you into bugs? <delay20 />We've got <tag a="50" b="2" />
+<tag a="135" b="13" arg="0x1" /> at the
+<colour id="1" />museum<colour id="65535" />.<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />REALLY cool lookin'!</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />You better not leave until you check
+out the <tag a="135" b="13" arg="0x2" />
+at the <colour id="1" />museum<colour id="65535" />'s fossil exhibit!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0x66 0x69" /></message>
+	<message label="102" attrib="00 00 01 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />You just couldn't stay away, could
+you?<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />So which is it—you here to see
+<tag a="110" b="8" />, <delay20 />or see me?</message>
+	<message label="102_a" attrib="67 00 00 00 00 00 00 00">You, of course!</message>
+	<message label="102_b" attrib="68 00 00 00 00 00 00 00">I missed this place.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Seriously?! <delay20 />I mean, I was kinda
+joking, but<tag a="110" b="0" /><delay20 /> <anim id="Blushing" target="actor" targetSpec="" />Aww! Thanks!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Hey, if you EVER need something,<delay frames="40" />
+<anim id="Assent" target="actor" targetSpec="" />I'll be there in a heartbeat.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Hey! <delay20 />C'mon! <delay frames="40" /><anim id="Angry" target="actor" targetSpec="" />Like, <delay20 />lie to me
+or something, <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Totally can't can blame you, though.<delay20 />
+<tag a="50" b="3" /><tag a="110" b="8" />'s super nice.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />Plus, everyone here misses you back.</message>
+	<message label="105" attrib="6a 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! <delay20 />Hey!<delay frames="40" /> <anim id="Nodding" target="actor" targetSpec="" />How you
+been? <delay20 />Are you digging your
+new place?</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="106_01" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />You being good buddies to your
+neighbors?<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />I mean, <delay20 />it's you,
+so<tag a="110" b="0" /><delay20 />probably!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Like, all you gotta do is walk up to
+someone and flash that smile.<delay frames="40" /> <anim id="Aha" target="actor" targetSpec="" />BAM!<delay20 />
+Instant friends, <tag a="110" b="5" />!</message>
+	<message label="106_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />You plant any flowers over there?<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Treat 'em right, and they'll treat
+YOU right, <tag a="110" b="5" />!</message>
+	<message label="106_03" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Got any weird bugs or fish over
+there?<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />I bet there's a few we don't
+have here, <tag a="110" b="5" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />And now I'm picturing you running
+around, <delay20 />eyeballin' out every fish
+and insect you can.<delay frames="60" /> <anim id="Grin" target="actor" targetSpec="" />That's so you!</message>
+</msbt>

@@ -1,0 +1,51 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Did you get my note,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Yes!<anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay40 /> You really do have the most
+creative ideas,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="BigSmile" target="actor" targetSpec="" />So you understood what I was
+getting at?<delay40 /> <anim id="Hesitate" target="actor" targetSpec="" />I guess I was afraid
+I wasn't making a lot of sense<delay8 /><tag a="110" b="0" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" />Oh,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />I just loved your idea to base
+a recipe for <tag a="135" b="7" arg="0xcd00" /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay20 /> on
+<tag a="135" b="4" arg="0xcd00" /> music!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="FaintSmile" target="actor" targetSpec="" />Of course I understood!<delay40 /> And I can't
+wait to <anim id="Nodding" target="actor" targetSpec="" />try your idea<delay20 /> <anim id="FaintSmile" target="mainNpc" targetSpec="" />by organizing
+my <tag a="135" b="5" arg="0xcd00" /> collection.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="FaintSmile" target="actor" targetSpec="" />You were perfectly clear,<delay20 /> dear.<delay40 /> And
+<anim id="Nodding" target="actor" targetSpec="" />so clever,<anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay20 /> to pair <tag a="135" b="3" arg="0xcd00" /><delay20 />
+with <tag a="135" b="1" arg="0xcd00" />!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Blushing" target="actor" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />That's so flattering to hear,<delay20 /> thanks!<delay40 />
+<anim id="Hesitate" target="actor" targetSpec="" />I have lots more ideas like that<delay8 /><tag a="110" b="0" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Laughing" target="actor" targetSpec="" /><anim id="FaintSmile" target="mainNpc" targetSpec="" />Please,<delay20 /> send me whatever ideas you come up with.<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />It'll be like I won a
+<anim id="HappyFlower" target="mainNpc" targetSpec="" />free subscription to Clever Living!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">You must know that everyone on this
+island<delay20 /> thinks you're so interesting<anim id="FaintSmile" target="subNpc" targetSpec="" /><delay8 /><tag a="110" b="0" />
+<anim id="Hesitate" target="actor" targetSpec="" />Can you teach me to be less<delay8 /><tag a="110" b="0" /><anim id="Eh" target="subNpc" targetSpec="" />bland?</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Oh,<delay20 /> I merely try to maintain a certain
+mystique.<delay40 /> <anim id="Negative" target="actor" targetSpec="" />I'm sure I'm hardly more
+interesting than you,<anim id="Eh" target="mainNpc" targetSpec="" /><delay20 /> <tag a="110" b="5" />.
+<anim id="FaintSmile" target="actor" targetSpec="" />What if I was to ask you <anim id="QuestionMark" target="actor" targetSpec="" /><anim id="Thinking" target="mainNpc" targetSpec="" />what you
+were up to<delay20 /> last night?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Last night?<delay frames="40" /> I guess I ate dinner,<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />and
+then I read until I fell asleep.<anim id="FaintSmile" target="actor" targetSpec="" /><pageBreak /><anim id="Sighing" target="subNpc" targetSpec="" />I'm boring,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Laughing" target="actor" targetSpec="" />You just need to be more coy,<delay20 /> less
+of an open book.<delay40 /> Now,<delay20 /> try again<delay8 /><tag a="110" b="0" />
+<anim id="Serious" target="actor" targetSpec="" /><anim id="Worried" target="mainNpc" targetSpec="" />What were you up to<delay20 /> last night?<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00">Ummm<delay8 /><tag a="110" b="0" /> That depends.<delay40 /> What do you
+THINK I was up to?<delay40 /> <anim id="Frantic" target="actor" targetSpec="" />Oh no!<delay20 /> Now I just
+<anim id="Restless" target="actor" targetSpec="" />sound like I'm hiding something!</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />No worries.<delay40 /> <anim id="Explain" target="actor" targetSpec="" />Your honesty<anim id="Love" target="mainNpc" targetSpec="" /> is part of
+what everyone loves about you.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />What's that lovely fragrance <anim id="Eh" target="subNpc" targetSpec="" />you're
+wearing,<delay20 /> <tag a="110" b="31" arg="0xcd01" />?<pageBreak /><anim id="Love" target="actor" targetSpec="" /><anim id="Blushing" target="subNpc" targetSpec="" />You always smell nice,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" /><anim id="FaintSmile" target="mainNpc" targetSpec="" />My,<delay20 /> aren't you sweet?<delay40 /> That's just <anim id="SmugFace" target="actor" targetSpec="" />my
+signature scent you're smelling.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'd be happy to let you try it out,<anim id="EmotEnd" target="actor" targetSpec="" /><delay20 /> if
+you'd let me share that catchphrase
+of yours.<anim id="TakenAback" target="mainNpc" targetSpec="" /><delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />I just think it's darling!</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />You do?<delay20 /> <anim id="Nodding" target="subNpc" targetSpec="" />Really?<delay40 /> <anim id="HappyFlower" target="actor" targetSpec="" />Of course you
+can use it,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />"<tag a="50" b="3" /><tag a="110" b="5" />"<anim id="Eh" target="mainNpc" targetSpec="" /><delay8 /><tag a="110" b="0" /> <anim id="Smiling" target="mainNpc" targetSpec="" />Such a fun way<delay20 /> to
+zest up one's speech.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" /><anim id="FaintSmile" target="mainNpc" targetSpec="" />No wonder you say it,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="FaintSmile" target="actor" targetSpec="" />You're so sweet,<anim id="Smiling" target="subNpc" targetSpec="" /><delay20 /> <tag a="110" b="31" arg="0xcd01" />!<pageBreak />You always make me <anim id="Nodding" target="actor" targetSpec="" />feel so<delay8 /><tag a="110" b="0" />heard.<delay40 />
+<anim id="Crying" target="actor" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />Thank you,<delay20 /> <tag a="110" b="5" />!</message>
+</msbt>

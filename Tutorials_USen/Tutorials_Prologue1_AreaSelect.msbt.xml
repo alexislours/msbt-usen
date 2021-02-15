@@ -1,0 +1,291 @@
+<msbt attribsize="3">
+	<message label="001" attrib="01 00 00">So, tell me, <tag a="110" b="1" /><tag a="110" b="0" /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><delay20 />
+Where do you live now?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...live now?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="001_a" attrib="00 00 00">Japan.</message>
+	<message label="001_b" attrib="00 00 00">Elsewhere.</message>
+	<message label="002" attrib="06 00 00"><anim id="Eh" target="mainNpc" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />Oh! <delay20 />Ha ha! <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Seems like a lot of folks
+live "elsewhere."<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Thinking" target="mainNpc" targetSpec="" />Let's see if we can narrow it down.<anim id="Thinking" target="subNpc" targetSpec="" /></message>
+	<message label="002_a" attrib="00 00 00">Asia.</message>
+	<message label="002_b" attrib="00 00 00">North America.</message>
+	<message label="002_c" attrib="00 00 00">Europe.</message>
+	<message label="002_d" attrib="00 00 00">Elsewhere.</message>
+	<message label="003" attrib="06 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Wow! <delay20 />Still elsewhere, huh?<delay frames="40" />
+<anim id="Nodding" target="mainNpc" targetSpec="" />Well, let's keep trying<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="110" b="0" /></message>
+	<message label="003_a" attrib="00 00 00">South America.</message>
+	<message label="003_b" attrib="00 00 00">Oceania.</message>
+	<message label="003_c" attrib="00 00 00">Africa.</message>
+	<message label="003_d" attrib="00 00 00">Nope.</message>
+	<message label="004" attrib="06 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" />Great! <10_4 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" />So you live in one of these
+locations, right?</message>
+	<message label="004_a" attrib="00 00 00">Japan/Asia.</message>
+	<message label="004_b" attrib="00 00 00">North America.</message>
+	<message label="004_c" attrib="00 00 00">Europe.</message>
+	<message label="004_d" attrib="00 00 00">Nope.</message>
+	<message label="011" attrib="02 00 00">So, tell me, <tag a="110" b="1" /><tag a="110" b="0" /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><delay20 />
+Where do you live now?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...live now?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="011_a" attrib="00 00 00">North America.</message>
+	<message label="011_b" attrib="00 00 00">Elsewhere.</message>
+	<message label="012" attrib="04 00 00"><anim id="Eh" target="mainNpc" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />Oh! <delay20 />Ha ha! <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Seems like a lot of folks
+live "elsewhere."<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Thinking" target="mainNpc" targetSpec="" />Let's see if we can narrow it down.<anim id="Thinking" target="subNpc" targetSpec="" /></message>
+	<message label="012_a" attrib="00 00 00">Asia.</message>
+	<message label="012_b" attrib="00 00 00">Europe.</message>
+	<message label="012_c" attrib="00 00 00">Elsewhere.</message>
+	<message label="013" attrib="06 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Wow! <delay20 />Still elsewhere, huh?<delay frames="40" />
+<anim id="Nodding" target="mainNpc" targetSpec="" />Well, let's keep trying<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="110" b="0" /></message>
+	<message label="013_a" attrib="00 00 00">South America.</message>
+	<message label="013_b" attrib="00 00 00">Oceania.</message>
+	<message label="013_c" attrib="00 00 00">Africa.</message>
+	<message label="013_d" attrib="00 00 00">Nope.</message>
+	<message label="014" attrib="06 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" />Great! <10_4 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" />So you live in one of these
+locations, right?</message>
+	<message label="014_a" attrib="00 00 00">North America.</message>
+	<message label="014_b" attrib="00 00 00">Japan/Asia.</message>
+	<message label="014_c" attrib="00 00 00">Europe.</message>
+	<message label="014_d" attrib="00 00 00">Nope.</message>
+	<message label="021" attrib="02 00 00">So, tell me, <tag a="110" b="1" /><tag a="110" b="0" /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><delay20 />
+Where do you live now?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...live now?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="021_a" attrib="00 00 00">Europe.</message>
+	<message label="021_b" attrib="00 00 00">Elsewhere.</message>
+	<message label="022" attrib="04 00 00"><anim id="Eh" target="mainNpc" targetSpec="" /><anim id="Eh" target="subNpc" targetSpec="" />Oh! <delay20 />Ha ha! <delay20 /><anim id="Smiling" target="actor" targetSpec="" />Seems like a lot of folks
+live "elsewhere."<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="Thinking" target="mainNpc" targetSpec="" />Let's see if we can narrow it down.<anim id="Thinking" target="subNpc" targetSpec="" /></message>
+	<message label="022_a" attrib="00 00 00">Asia.</message>
+	<message label="022_b" attrib="00 00 00">North America.</message>
+	<message label="022_c" attrib="00 00 00">Elsewhere.</message>
+	<message label="023" attrib="06 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Wow! <delay20 />Still elsewhere, huh?<delay frames="40" />
+<anim id="Nodding" target="mainNpc" targetSpec="" />Well, let's keep trying<anim id="Nodding" target="subNpc" targetSpec="" /><tag a="110" b="0" /></message>
+	<message label="023_a" attrib="00 00 00">South America.</message>
+	<message label="023_b" attrib="00 00 00">Oceania.</message>
+	<message label="023_c" attrib="00 00 00">Africa.</message>
+	<message label="023_d" attrib="00 00 00">Nope.</message>
+	<message label="024" attrib="06 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="subNpc" targetSpec="" />Great! <10_4 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" />So you live in one of these
+locations, right?</message>
+	<message label="024_a" attrib="00 00 00">Europe.</message>
+	<message label="024_b" attrib="00 00 00">Japan/Asia.</message>
+	<message label="024_c" attrib="00 00 00">North America.</message>
+	<message label="024_d" attrib="00 00 00">Nope.</message>
+	<message label="031" attrib="02 00 00">So, tell me, <tag a="110" b="1" /><tag a="110" b="0" /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><delay20 />
+Where do you live now?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /><size value="75" /> ...live now?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="031_a" attrib="00 00 00">Oceania.</message>
+	<message label="031_b" attrib="00 00 00">Elsewhere.</message>
+	<message label="101_01" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Ah,<anim id="Nodding" target="subNpc" targetSpec="" /> excellent! <delay frames="40" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />That information really
+helps us focus on just the right
+island for you.</message>
+	<message label="101_02" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Ah,<anim id="Nodding" target="subNpc" targetSpec="" /> excellent! <delay frames="40" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />That information really
+helps us focus on just the right
+island for you.</message>
+	<message label="101_03" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Ah,<anim id="Nodding" target="subNpc" targetSpec="" /> excellent! <delay frames="40" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />That information really
+helps us focus on just the right
+island for you.</message>
+	<message label="101_04" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Ah,<anim id="Nodding" target="subNpc" targetSpec="" /> excellent! <delay frames="40" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />That information really
+helps us focus on just the right
+island for you.</message>
+	<message label="101_05" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Ah,<anim id="Nodding" target="subNpc" targetSpec="" /> excellent! <delay frames="40" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />That information really
+helps us focus on just the right
+island for you.</message>
+	<message label="101_06" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Ah,<anim id="Nodding" target="subNpc" targetSpec="" /> excellent! <delay frames="40" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />That information really
+helps us focus on just the right
+island for you.</message>
+	<message label="101_07" attrib="00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" />Ah,<anim id="Nodding" target="subNpc" targetSpec="" /> excellent! <delay frames="40" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />That information really
+helps us focus on just the right
+island for you.</message>
+	<message label="102" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Ah, excellent! <delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" />That information really
+helps us focus on just the right
+island for you.</message>
+	<message label="111" attrib="03 00 00"><anim id="Explain" target="actor" targetSpec="" />So, naturally<tag a="110" b="0" />we'd recommend that
+you relocate to an island in the
+<colour id="1" />northern hemisphere<colour id="65535" />.
+<anim id="Thinking" target="actor" targetSpec="" />There are a few more decisions to
+make, <delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" />but does that sound OK
+to you so far?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...so far?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="111_a" attrib="00 00 00">OK!</message>
+	<message label="111_b" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="111_c" attrib="00 00 00">I'm not sure...</message>
+	<message label="112" attrib="03 00 00"><anim id="Explain" target="actor" targetSpec="" />So, naturally<tag a="110" b="0" />we'd recommend that
+you relocate to an island in the
+<colour id="1" />northern hemisphere<colour id="65535" />.
+<anim id="Thinking" target="actor" targetSpec="" />There are a few more decisions to
+make, <delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" />but does that sound OK
+to you so far?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...so far?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="112_a" attrib="00 00 00">OK!</message>
+	<message label="112_b" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="112_c" attrib="00 00 00">I'm not sure...</message>
+	<message label="113" attrib="03 00 00"><anim id="Explain" target="actor" targetSpec="" />So, naturally<tag a="110" b="0" />we'd recommend that
+you relocate to an island in the
+<colour id="1" />northern hemisphere<colour id="65535" />.
+<anim id="Thinking" target="actor" targetSpec="" />There are a few more decisions to
+make, <delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" />but does that sound OK
+to you so far?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...so far?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="113_a" attrib="00 00 00">OK!</message>
+	<message label="113_b" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="113_c" attrib="00 00 00">I'm not sure...</message>
+	<message label="114" attrib="03 00 00"><anim id="Explain" target="actor" targetSpec="" />So, naturally<tag a="110" b="0" />we'd recommend that
+you relocate to an island in the
+<colour id="1" />northern hemisphere<colour id="65535" />.
+<anim id="Thinking" target="actor" targetSpec="" />There are a few more decisions to
+make, <delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" />but does that sound OK
+to you so far?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...so far?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="114_a" attrib="00 00 00">OK!</message>
+	<message label="114_b" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="114_c" attrib="00 00 00">I'm not sure...</message>
+	<message label="115" attrib="03 00 00"><anim id="Thinking" target="mainNpc" targetSpec="" /><delay20 /><anim id="Thinking" target="subNpc" targetSpec="" />Yes, yes<tag a="110" b="0" /> South America is a large
+and wonderful place.<delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" /> I believe it has
+some parts in both hemispheres!
+<anim id="Explain" target="actor" targetSpec="" />Ah, but since most of the continent
+is in the <colour id="1" />southern hemisphere<colour id="65535" />, I bet
+you'd prefer an island there.
+<anim id="QuestionMark" target="mainNpc" targetSpec="" />Does that sound OK?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...sound OK?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="115_a" attrib="00 00 00">OK!</message>
+	<message label="115_b" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="115_c" attrib="00 00 00">I'm not sure...</message>
+	<message label="116" attrib="03 00 00"><anim id="Explain" target="actor" targetSpec="" />So, naturally<tag a="110" b="0" />we'd recommend that
+you relocate to an island in the
+<colour id="1" />southern hemisphere<colour id="65535" />.
+<anim id="Thinking" target="actor" targetSpec="" />There are a few more decisions to
+make, <delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" />but does that sound OK
+to you so far?<anim id="QuestionMark" target="subNpc" targetSpec="" /><tag a="100" b="4" /><delay8 /> <size value="75" />...so far?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="116_a" attrib="00 00 00">OK!</message>
+	<message label="116_b" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="116_c" attrib="00 00 00">I'm not sure...</message>
+	<message label="117" attrib="03 00 00"><anim id="Thinking" target="mainNpc" targetSpec="" /><anim id="Thinking" target="subNpc" targetSpec="" />Yes, yes<tag a="110" b="0" /> Africa is a large and
+wonderful place.<delay20 /><anim id="IdeaBulb" target="actor" targetSpec="" /> I believe it has
+some parts in both hemispheres!
+<anim id="Nodding" target="actor" targetSpec="" />So, if your home is in the north,
+we'd suggest you choose an island
+in the northern hemisphere.
+<anim id="Explain" target="actor" targetSpec="" />On the other hand, if you're in the
+south, an island in the southern
+hemisphere may suit you.
+<anim id="QuestionMark" target="mainNpc" targetSpec="" />So, which will it be?<anim id="QuestionMark" target="subNpc" targetSpec="" /></message>
+	<message label="117_a" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="117_b" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="117_c" attrib="00 00 00">I'm not sure...</message>
+	<message label="201" attrib="00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Very good! <10_4 /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />We have a number of
+lovely uninhabited islands in the
+northern hemisphere to choose from.</message>
+	<message label="202" attrib="00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Very good! <10_4 /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />We have a number of
+lovely uninhabited islands in the
+southern hemisphere to choose from.</message>
+	<message label="203" attrib="00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Oh! <delay20 />You want to mix things up?<10_4 />
+<anim id="Grin" target="actor" targetSpec="" />Well, that can be fun!<pageBreak /><anim id="Nodding" target="mainNpc" targetSpec="" />We'll go ahead and find the perfect
+uninhabited island<anim id="Nodding" target="subNpc" targetSpec="" /> in the northern
+hemisphere for you.</message>
+	<message label="204" attrib="00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="subNpc" targetSpec="" />Oh! <delay20 />You want to mix things up?<10_4 />
+<anim id="Grin" target="actor" targetSpec="" />Well, that can be fun!<pageBreak /><anim id="Nodding" target="mainNpc" targetSpec="" />We'll go ahead and find the perfect
+uninhabited island<anim id="Nodding" target="subNpc" targetSpec="" /> in the southern
+hemisphere for you.</message>
+	<message label="301" attrib="00 00 00">Maybe this "hemisphere" business
+needs some explanation. There are
+two of them, northern and southern.</message>
+	<message label="302" attrib="00 00 00"><anim id="Explain" target="actor" targetSpec="" />In the north, you get winter in
+December, spring in March, summer
+in June, and fall in September<tag a="110" b="0" />
+<anim id="Nodding" target="actor" targetSpec="" />Islands in the southern hemisphere
+experience the opposite.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />So, it'll be summer in December,
+fall in March, winter in June,
+and spring in September.</message>
+	<message label="303" attrib="00 00 00"><anim id="Explain" target="actor" targetSpec="" />In the south, you get summer in
+December, fall in March, winter in
+June, and spring in September.
+<anim id="Nodding" target="actor" targetSpec="" />Islands in the northern hemisphere
+experience the opposite.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />So, it'll be winter in December,
+spring in March, summer in June,
+and fall in September.</message>
+	<message label="304_01" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's currently <tag a="90" b="28" />, so it's
+spring in the northern hemisphere
+and fall in the southern.</message>
+	<message label="304_02" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's currently <tag a="90" b="28" />, so it's
+summer in the northern hemisphere
+and winter in the southern.</message>
+	<message label="304_03" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's currently <tag a="90" b="28" />, so it's fall
+in the northern hemisphere and
+spring in the southern.</message>
+	<message label="304_04" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's currently <tag a="90" b="28" />, so it's
+winter in the northern hemisphere
+and summer in the southern.</message>
+	<message label="304_05" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's currently <tag a="90" b="28" />, so it's
+spring in the southern hemisphere
+and fall in the northern.</message>
+	<message label="304_06" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's currently <tag a="90" b="28" />, so it's
+summer in the southern hemisphere
+and winter in the northern.</message>
+	<message label="304_07" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's currently <tag a="90" b="28" />, so it's
+fall in the southern hemisphere
+and spring in the northern.</message>
+	<message label="304_08" attrib="00 00 00"><anim id="Nodding" target="actor" targetSpec="" />It's currently <tag a="90" b="28" />, so it's
+winter in the southern hemisphere
+and summer in the northern.</message>
+	<message label="305" attrib="00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />In other words, the weather in the
+hemispheres is exactly opposite!<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />But no matter where you live, you
+can experience all the seasons and
+the wonders they bring.<anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="311" attrib="03 00 00"><anim id="Thinking" target="actor" targetSpec="" />So let me ask again<tag a="110" b="0" /><10_4 /> <anim id="Hello" target="actor" targetSpec="" />Would you like
+to move to an island in the <colour id="1" />northern
+hemisphere<colour id="65535" />, where it's now spring?
+<anim id="QuestionMark" target="actor" targetSpec="" />Or would you prefer the <colour id="1" />southern
+hemisphere<colour id="65535" />, where it's fall?<tag a="100" b="4" /><delay8 /><size value="75" /> ...fall?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="311_a" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="311_b" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="311_c" attrib="00 00 00">Explain that all again!</message>
+	<message label="312" attrib="03 00 00"><anim id="Thinking" target="actor" targetSpec="" />So let me ask again<tag a="110" b="0" /><10_4 /> <anim id="Hello" target="actor" targetSpec="" />Would you like
+to move to an island in the <colour id="1" />northern
+hemisphere<colour id="65535" />, where it's now summer?
+<anim id="QuestionMark" target="actor" targetSpec="" />Or would you prefer the <colour id="1" />southern
+hemisphere<colour id="65535" />, where it's winter?<tag a="100" b="4" /><delay8 />
+<size value="75" />...winter?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="312_a" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="312_b" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="312_c" attrib="00 00 00">Explain that all again!</message>
+	<message label="313" attrib="03 00 00"><anim id="Thinking" target="actor" targetSpec="" />So let me ask again<tag a="110" b="0" /><10_4 /> <anim id="Hello" target="actor" targetSpec="" />Would you like
+to move to an island in the <colour id="1" />northern
+hemisphere<colour id="65535" />, where it's now fall?
+<anim id="QuestionMark" target="actor" targetSpec="" />Or would you prefer the <colour id="1" />southern
+hemisphere<colour id="65535" />, where it's spring?<tag a="100" b="4" /><delay8 />
+<size value="75" />...spring?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="313_a" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="313_b" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="313_c" attrib="00 00 00">Explain that all again!</message>
+	<message label="314" attrib="03 00 00"><anim id="Thinking" target="actor" targetSpec="" />So let me ask again<tag a="110" b="0" /><10_4 /> <anim id="Hello" target="actor" targetSpec="" />Would you like
+to move to an island in the <colour id="1" />northern
+hemisphere<colour id="65535" />, where it's now winter?
+<anim id="QuestionMark" target="actor" targetSpec="" />Or would you prefer the <colour id="1" />southern
+hemisphere<colour id="65535" />, where it's summer?<tag a="100" b="4" /><delay8 />
+<size value="75" />...summer?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="314_a" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="314_b" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="314_c" attrib="00 00 00">Explain that all again!</message>
+	<message label="315" attrib="03 00 00"><anim id="Thinking" target="actor" targetSpec="" />So let me ask again<tag a="110" b="0" /><10_4 /> <anim id="Hello" target="actor" targetSpec="" />Would you like
+to move to an island in the <colour id="1" />southern
+hemisphere<colour id="65535" />, where it's now spring?
+<anim id="QuestionMark" target="actor" targetSpec="" />Or would you prefer the <colour id="1" />northern
+hemisphere<colour id="65535" />, where it's fall?<tag a="100" b="4" /><delay8 /><size value="75" /> ...fall?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="315_a" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="315_b" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="315_c" attrib="00 00 00">Explain that all again!</message>
+	<message label="316" attrib="03 00 00"><anim id="Thinking" target="actor" targetSpec="" />So let me ask again<tag a="110" b="0" /><10_4 /> <anim id="Hello" target="actor" targetSpec="" />Would you like
+to move to an island in the <colour id="1" />southern
+hemisphere<colour id="65535" />, where it's now summer?
+<anim id="QuestionMark" target="actor" targetSpec="" />Or would you prefer the <colour id="1" />northern
+hemisphere<colour id="65535" />, where it's winter?<tag a="100" b="4" /><delay8 />
+<size value="75" />...winter?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="316_a" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="316_b" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="316_c" attrib="00 00 00">Explain that all again!</message>
+	<message label="317" attrib="03 00 00"><anim id="Thinking" target="actor" targetSpec="" />So let me ask again<tag a="110" b="0" /><10_4 /> <anim id="Hello" target="actor" targetSpec="" />Would you like
+to move to an island in the <colour id="1" />southern
+hemisphere<colour id="65535" />, where it's now fall?
+<anim id="QuestionMark" target="actor" targetSpec="" />Or would you prefer the <colour id="1" />northern
+hemisphere<colour id="65535" />, where it's spring?<tag a="100" b="4" /><delay8 />
+<size value="75" />...spring?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="317_a" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="317_b" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="317_c" attrib="00 00 00">Explain that all again!</message>
+	<message label="318" attrib="03 00 00"><anim id="Thinking" target="actor" targetSpec="" />So let me ask again<tag a="110" b="0" /><10_4 /> <anim id="Hello" target="actor" targetSpec="" />Would you like
+to move to an island in the <colour id="1" />southern
+hemisphere<colour id="65535" />, where it's now winter?
+<anim id="QuestionMark" target="actor" targetSpec="" />Or would you prefer the <colour id="1" />northern
+hemisphere<colour id="65535" />, where it's summer?<tag a="100" b="4" /><delay8 />
+<size value="75" />...summer?<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="318_a" attrib="00 00 00">Southern hemisphere!</message>
+	<message label="318_b" attrib="00 00 00">Northern hemisphere!</message>
+	<message label="318_c" attrib="00 00 00">Explain that all again!</message>
+</msbt>

@@ -1,0 +1,106 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><20_3 arg="5" /><20_3 arg="7" /><anim id="Explain" target="actor" targetSpec="" />That's what I'm saying! <delay20 />Everyone's
+got a good side and a bad side.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />So you're sayin' all a good guy has
+to do is turn around and suddenly
+they're a bad guy?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Exactly! <delay20 />That's why it's called<delay20 />
+"turning on you."<pageBreak /><anim id="Explain" target="actor" targetSpec="" />So one second you're on their good
+side, <delay20 />then they turn on you and look
+out—<anim id="Serious" target="actor" targetSpec="" />here comes the bad side!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />But what if they only turn partway?<delay20 />
+Then they're both good AND
+bad, right?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />See, THOSE are the ones you gotta
+watch out for!<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />You never know what
+side you're gonna get with them.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Scheming" target="actor" targetSpec="" />Well, I like to keep everyone on their
+toes! <delay20 />Check this out<tag a="110" b="0" /><pageBreak /><anim id="Dance" target="actor" targetSpec="" />Bad!<10_4 /><anim id="Dance" target="actor" targetSpec="" /> Good!<anim id="Eh" target="mainNpc" targetSpec="" /><10_4 /><anim id="Dance" target="actor" targetSpec="" /> Bad!<10_4 /><anim id="Dance" target="actor" targetSpec="" /> Good!<10_4 />
+<anim id="Dance" target="actor" targetSpec="" />I'm!<10_4 /><anim id="Dance" target="actor" targetSpec="" /> Getting!<anim id="Negative" target="mainNpc" targetSpec="" /><10_4 /><anim id="Dance" target="actor" targetSpec="" /> Dizzy!<delay frames="100" /><anim id="Confused" target="actor" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Wait<tag a="110" b="0" /><delay20 />which are you now?<delay frames="40" /> <anim id="Restless" target="actor" targetSpec="" />Should I
+be scared? <delay20 />Because you're kinda
+scaring me.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><20_3 arg="5" /><20_3 arg="7" /><anim id="Explain" target="actor" targetSpec="" />But that's just it! <delay20 />Everybody's
+one way in public and another
+way in private.</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Well, I try to be myself everywhere.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />It's already tough enough just being
+one <tag a="110" b="31" arg="0xcd01" />!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Yeah, I don't think I could manage
+being two different versions
+of myself.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Exactly!<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Trying to be two of myself
+would never work out.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I bet I couldn't even live NEAR
+someone like me without starting
+a war!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh yeah, definitely!<delay frames="40" /> <anim id="WrySmile" target="actor" targetSpec="" />I don't think
+I could talk to someone like me
+without wantin' to pick a fight.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Everyone would want us to be
+friends and stuff, but I know how
+I am. <delay20 />It'd NEVER work.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Right? <delay20 />I'm one of a kind and that's
+that!<delay frames="40" /> <anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="ShyBoy" target="actor" targetSpec="" />Putting two of me together is
+like storing gasoline by the stove.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Totally!<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />I'm glad there's someone
+out there who sees things MY way!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><20_3 arg="5" /><20_3 arg="7" /><anim id="Negative" target="actor" targetSpec="" />Ever had someone seem nice, but
+then talk bad about you behind your
+back?<delay frames="40" /> <anim id="Angry" target="actor" targetSpec="" />Ugh! <delay20 />So frustrating!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Oh yeah, I'll take someone being
+rude to my face any day!<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />At least you
+know they're being honest.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="023" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Totally. <delay20 />I get weirded out whenever
+someone's too nice to me.<delay frames="40" /> <anim id="Restless" target="actor" targetSpec="" />Like, who
+knows WHAT they're scheming?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="024" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Could be anything!<delay frames="40" /> <anim id="Frantic" target="actor" targetSpec="" />They could be
+plotting to seize <tag a="110" b="8" />!<delay20 />
+How would we know?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />That's<tag a="110" b="0" /><delay20 />a little far, don't you think?<delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />I don't think anyone's plotting to
+take over <tag a="110" b="8" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="026" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />That's EXACTLY what someone
+who's plotting to take over
+<tag a="110" b="8" /> would say!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="027" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Alright, no more spy movies for you.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" /><tag a="110" b="0" />and long story short, I had to take
+the couch back from her.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Well, it's like that old saying, <delay20 />"Don't
+cast pearls before a horse's mouth."</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Huh? No, you mean, <delay20 />"Don't cast for
+gift-pearls before a hamster has
+had some."<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />That's not even close. It goes,<delay20 />
+"Don't gift pearls before casting an
+octopus in a movie."</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No, no, no! It's, <delay20 />"Don't cast a
+rhinoceros if you're a pearler
+looking for gifts."</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />You sure? I thought it was, <delay20 />"Cast for
+them, and an owl will gift you pearls
+of wisdom."<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Hang on<tag a="110" b="0" /><delay20 /><anim id="EmotEnd" target="subNpc" targetSpec="" /> That one almost makes
+sense.<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />I was just messing with you,
+but that was pretty good!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />"Cast for them, and an owl will gift
+you pearls of wisdom." <delay20 />I like it!</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Well, it's like they say, <delay20 />"If you find a
+diamond in a rough haystack of
+needles, um<tag a="110" b="0" /><delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />keep it!"</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><tag a="110" b="0" />Then I was in this grunge band
+called <delay20 />"<capitaliseNextWord /><tag a="110" b="5" />."<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />We were
+so awful!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />It was called "<capitaliseNextWord /><tag a="110" b="5" />"? <delay20 />Wow!
+That's a rockin' name!<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />Like, it feels
+good just to say it.</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />I know it does. <delay20 />I say it all the time!<delay frames="40" />
+<anim id="OhGeez" target="actor" targetSpec="" />Shame <capitaliseNextWord /><tag a="110" b="6" /> broke up
+after, like, <delay20 />a month.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="SadSpiral" target="actor" targetSpec="" />That's rough<tag a="110" b="0" /><delay frames="80" /> <anim id="FaintSmile" target="actor" targetSpec="" /><capitaliseNextWord /><tag a="110" b="5" /> is still
+an awesome name though. <delay20 />Mind
+if I say it too?</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Go for it! <delay20 />Say it all you like!<delay frames="40" /> <anim id="WrySmile" target="actor" targetSpec="" />Say it
+enough and maybe I can even get
+<capitaliseNextWord /><tag a="110" b="6" /> back together!</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Rad! <delay20 />Hey, let me know when the
+reunion tour starts. <delay20 />I'll make up
+some fliers, <tag a="110" b="5" />!</message>
+</msbt>

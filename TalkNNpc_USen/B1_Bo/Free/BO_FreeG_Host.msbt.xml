@@ -1,0 +1,32 @@
+<msbt attribsize="8">
+	<message label="001" attrib="05 00 00 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Is it true? We have company on the
+island today? <anim id="Clapping" target="actor" targetSpec="" />Yay! That's awesome!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="002" attrib="05 00 00 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />One of my bug friends told me that
+we have a visitor on the island!<delay20 />
+That's pretty cool, yeah?</message>
+	<message label="003" attrib="05 00 00 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I'm kinda nervous about<delay20 /> having
+a guest on the island!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Feels like we gotta be on our
+best behavior. <pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I mean, a huh huh huh, <delay20 />if anyone
+knew how we USUALLY behave,
+they'd say, <delay20 />"Whatta buncha weirdos!"</message>
+	<message label="004" attrib="05 00 00 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I hope our company enjoys their
+stay on <tag a="110" b="8" />!<pageBreak />I kinda worry that we don't have,
+like, a tourist board or anything
+worth having a tourist board for<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Any idea what a tourist board
+even is?<10_4 /> <anim id="WrySmile" target="actor" targetSpec="" />I heard someone say
+it on TV once.<delay frames="60" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6 0x7 0x8 0x9" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Should I put something out for
+our vistor? <delay20 />Some<tag a="110" b="0" />snacks? Or<tag a="110" b="0" />
+Maybe<tag a="110" b="0" />um<tag a="110" b="0" />some snacks?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />First impressions are important.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />I'm gonna introduce our company to
+all <tag a="110" b="8" /> has to offer.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />The sights<tag a="110" b="0" />the sounds<tag a="110" b="0" />the smells<tag a="110" b="0" /><10_4 />
+<anim id="HappyFlower" target="actor" targetSpec="" />Man, we got some gooooood smells
+around here.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Maybe I'll ask if they wanna see my
+snack-dust collection.<delay20 /> I've got it all
+sorted out by mouth feel.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I've always wanted to be friends
+with folks from all sorts of places.<pageBreak /><anim id="HappyFlower" target="actor" targetSpec="" />Maybe I'll make a new friend today?
+That'd be pretty cool.</message>
+</msbt>

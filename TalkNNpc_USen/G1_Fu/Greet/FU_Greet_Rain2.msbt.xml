@@ -1,0 +1,25 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 07 00 00"><tag a="60" b="7" arg="0x710 0x800 0xcd00" /></message>
+	<message label="002" attrib="00 00 00 01 00 03 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
+	<message label="003" attrib="00 00 00 01 00 04 00 00"><tag a="60" b="7" arg="0xb10 0xc00 0xcd00" /></message>
+	<message label="004" attrib="00 00 00 01 00 09 00 00"><tag a="60" b="7" arg="0xd10 0xe00 0xcd00" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Do you think we'll see a rainbow
+after all this rain,<delay20 /> <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00">Rainy mornings <anim id="EmotEnd" target="actor" targetSpec="" />make me so hoppy!<delay frames="40" />
+<anim id="Hesitate" target="actor" targetSpec="" />I mean happy,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="008" attrib="00 00 0c 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />A little rain is nice,<delay20 /> but <anim id="Serious" target="actor" targetSpec="" />I'm ready for
+a change,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="009" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well,<delay20 /> look who else is still outside
+enjoying this rain,<delay20 /> <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Let's try not to let this rain dampen
+our spirits,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 00 00 00 00 00">Do you think <anim id="Grin" target="actor" targetSpec="" />I could be enjoying this
+rain a little TOO much,<delay20 /> <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 00 00 00 00 00">Guess I'm not the only one <anim id="Grin" target="actor" targetSpec="" />who
+loves a rainy night,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="013" attrib="00 00 0c 00 00 00 00 00">I'm glad you're out here too,<delay20 /> <anim id="HappyFlower" target="actor" targetSpec="" />making
+the most of this rain,<delay20 /> <tag a="110" b="5" />!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="014" attrib="00 00 0c 00 00 00 00 00"><anim id="Sleepy" target="actor" targetSpec="" />The sound of rain at night makes me
+sleepy<delay8 /><tag a="110" b="0" /> <anim id="Nodding" target="actor" targetSpec="" />I should get a good night's
+sleep tonight,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

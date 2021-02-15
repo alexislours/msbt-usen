@@ -1,0 +1,87 @@
+<msbt attribsize="4">
+	<message label="201" attrib="00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I was worried when I heard you were
+all moving to a deserted island, but<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />this is much nicer than I imagined!<anim id="Smiling" target="actor" targetSpec="" /></message>
+	<message label="202" attrib="00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />It's SO nice!<delay20 /><anim id="BigSmile" target="4" targetSpec="N2" /><tag a="100" b="4" /> <size value="75" />...SO nice!<size value="100" /><endTag a="100" b="4" /><delay frames="40" />
+<anim id="EmotEnd" target="mainNpc" targetSpec="" />Even though we haven't<anim id="Nodding" target="4" targetSpec="N2" />
+been here all that long.</message>
+	<message label="202_01" attrib="00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />It's SO nice!<delay20 /><anim id="BigSmile" target="4" targetSpec="N2" /><tag a="100" b="4" /> <size value="75" />...SO nice!<size value="100" /><endTag a="100" b="4" /><delay frames="40" />
+<anim id="EmotEnd" target="mainNpc" targetSpec="" />We've been here for a little while,
+<anim id="Nodding" target="mainNpc" targetSpec="" /><delay8 /><anim id="Smiling" target="4" targetSpec="N2" />and it's really starting to come along.
+<anim id="Thinking" target="mainNpc" targetSpec="" />It seems we make new discoveries<anim id="Nodding" target="4" targetSpec="N2" />
+almost every day.<pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="4" targetSpec="N2" />We moved here because of our jobs,<delay8 /><anim id="BigSmile" target="mainNpc" targetSpec="" />
+but we're having a lot of fun too!</message>
+	<message label="202_02" attrib="00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />It's SO nice!<delay20 /><anim id="BigSmile" target="4" targetSpec="N2" /><tag a="100" b="4" /> <size value="75" />...SO nice!<size value="100" /><endTag a="100" b="4" /><delay frames="40" />
+<anim id="EmotEnd" target="mainNpc" targetSpec="" />We've been here for a while,<anim id="Nodding" target="subNpc" targetSpec="" />
+and a lot has happened.
+<anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="4" targetSpec="N2" />I love seeing how the island changes
+day by day.<anim id="BigSmile" target="mainNpc" targetSpec="" /> Every day here is an
+adventure!<anim id="BigSmile" target="4" targetSpec="N2" /><tag a="100" b="4" /> <size value="75" />...an adventure!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="203" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="4" targetSpec="N2" />In just a short time, <colour id="3" />Blathers<colour id="65535" /> has
+moved in, and we were able to open
+up this shop.
+<anim id="BigSmile" target="mainNpc" targetSpec="" />Experiencing new things every day
+has been a lot of fun!<size value="75" /><delay20 /><anim id="BigSmile" target="4" targetSpec="N2" /><tag a="100" b="4" /> ...lot of fun!<endTag a="100" b="4" /><size value="100" /></message>
+	<message label="203_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="4" targetSpec="N2" />When we first got here, we had a
+nice campfire for everyone, and now
+we have our very own shop.
+<anim id="BigSmile" target="actor" targetSpec="" />Experiencing new things every day
+has been a lot of fun!<size value="75" /><delay20 /><anim id="BigSmile" target="4" targetSpec="N2" /><tag a="100" b="4" /> ...lot of fun!<endTag a="100" b="4" /><size value="100" /></message>
+	<message label="204" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I'm so pleased to hear that!<delay frames="40" /><pageBreak /><anim id="Shocked" target="actor" targetSpec="" /><delay8 />Actually<tag a="110" b="0" /><delay20 />I came here today to check
+in on you all <anim id="Smiling" target="actor" targetSpec="" />and see if you need any
+assistance with anything.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />It's our way of celebrating your new
+shop.<delay20 /><anim id="Thinking" target="actor" targetSpec="" /> You know, we sisters like to
+help wherever we can<tag a="110" b="0" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Any island ideas come to mind?</message>
+	<message label="205" attrib="00 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><anim id="Shocked" target="4" targetSpec="N2" />You're too kind, <colour id="3" />Mabel<colour id="65535" />!<delay frames="40" /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="4" targetSpec="N2" /> We're just
+overwhelmed that you<delay8 /><anim id="Nodding" target="4" targetSpec="N2" /> even thought
+to come visit us!<delay20 /><anim id="Smiling" target="4" targetSpec="N2" /><tag a="100" b="4" /> <size value="75" />...visit us!<size value="100" /><endTag a="100" b="4" />
+<anim id="Shocked" target="mainNpc" targetSpec="" />Oh! Hey!<delay20 /><anim id="EmotEnd" target="4" targetSpec="N2" /> I think<tag a="110" b="0" /></message>
+	<message label="206" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" /><delay8 />Something come to mind?</message>
+	<message label="207" attrib="00 00 00 00"><anim id="Thinking" target="mainNpc" targetSpec="" />Well, we still have some logistical
+challenges to overcome. <anim id="Worried" target="4" targetSpec="N2" />We depend
+on mail orders for<anim id="Sighing" target="mainNpc" targetSpec="" /> a lot of our goods.
+Having this shop<anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="4" targetSpec="N2" /> should make it a bit
+easier for us to obtain ready-made
+furniture and stuff like that, but<tag a="110" b="0" />
+<anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="4" targetSpec="N2" />We still need a <colour id="1" />clothing<colour id="65535" /> supplier.</message>
+	<message label="208" attrib="00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Aha!<10_4 /><anim id="Smiling" target="actor" targetSpec="" /> Something tells me that today
+is your lucky day!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />As it turns out, it's really not that
+difficult for us to get to this island.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />How about if I stop by every so often
+<anim id="Smiling" target="actor" targetSpec="" />to sell some of our wares to your
+wonderful island dwellers?</message>
+	<message label="209" attrib="00 00 00 00"><anim id="Shocked" target="mainNpc" targetSpec="" /><delay8 /><anim id="Shocked" target="4" targetSpec="N2" />Oh, wow! Do you really mean that?!<delay frames="40" />
+<anim id="HappyFlower" target="mainNpc" targetSpec="" /><anim id="HappyDance" target="4" targetSpec="N2" />Our residents will be so overjoyed!
+<size value="75" /><delay20 /><anim id="Smiling" target="4" targetSpec="N2" /><tag a="100" b="4" />...so overjoyed!<endTag a="100" b="4" /><size value="100" /></message>
+	<message label="210" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Of course, silly!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Smiling" target="actor" targetSpec="" /> If we can sell our
+goods here, it's a win-win situation
+for everyone.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I suppose with that settled, I should
+head home and work out the details
+with my sister<tag a="110" b="0" /></message>
+	<message label="211" attrib="00 00 00 00"><anim id="HappyDance" target="mainNpc" targetSpec="" /><delay8 /><anim id="HappyDance" target="4" targetSpec="N2" />Yes, please do that.<delay20 /><tag a="100" b="4" /> <size value="75" />...do that!<size value="100" /><endTag a="100" b="4" />
+<delay frames="40" />We can't wait to see you here again!</message>
+	<message label="212" attrib="00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><delay8 /><anim id="Smiling" target="4" targetSpec="N2" />Oh, <tag a="110" b="1" />!<delay frames="40" />
+<anim id="Smiling" target="mainNpc" targetSpec="" />Sorry to keep you waiting!<delay20 /><anim id="Nodding" target="4" targetSpec="N2" /><tag a="100" b="4" /> <size value="75" />...waiting!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="212_01" attrib="00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" />Oh, <tag a="110" b="1" />!<delay frames="40" />
+Sorry to keep you waiting!<10_4 /><anim id="Smiling" target="mainNpc" targetSpec="" /> Please,
+have a look around.<size value="75" /><delay20 /><anim id="Smiling" target="4" targetSpec="N2" /><tag a="100" b="4" /> ...look around!<endTag a="100" b="4" /><size value="100" /></message>
+	<message label="213" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="4" targetSpec="N2" />Thanks to your help, we've opened
+this amazing new shop.<delay20 /><tag a="100" b="4" /> <size value="75" />...new shop!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="213_01" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="4" targetSpec="N2" />Thanks to everyone's help, we've
+opened a great new shop.<delay20 /><tag a="100" b="4" /> <size value="75" />...new shop!<size value="100" /><endTag a="100" b="4" /></message>
+	<message label="213_02" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="4" targetSpec="N2" />We've opened a new shop to provide
+getaway-package participants with
+more things needed for daily life.</message>
+	<message label="214" attrib="00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" />Our shop is named in honor of a<anim id="Nodding" target="4" targetSpec="N2" />
+shop our beloved <colour id="3" />President Nook
+<colour id="65535" />used to run.<pageBreak /><anim id="BigSmile" target="mainNpc" targetSpec="" /><anim id="BigSmile" target="4" targetSpec="N2" />Welcome to <colour id="1" />Nook's Cranny<colour id="65535" />!</message>
+	<message label="214_01" attrib="00 00 00 00"><anim id="Explain" target="mainNpc" targetSpec="" /><anim id="Nodding" target="4" targetSpec="N2" />As you can see, <delay8 />we're offering
+ready-made furniture and items that
+can't be made as DIY projects.<pageBreak /><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="Smiling" target="4" targetSpec="N2" />Also, <delay20 />in the <colour id="1" />back cabinet<colour id="65535" />, with the
+tools and other miscellaneous goods,
+we have <colour id="1" />wallpaper<colour id="65535" /> and <colour id="1" />flooring<colour id="65535" />!</message>
+	<message label="215" attrib="00 00 00 00"><anim id="Greeting" target="mainNpc" targetSpec="" />We hope to fulfill all your shopping
+needs!<size value="75" /><delay20 /><anim id="Greeting" target="4" targetSpec="N2" /><tag a="100" b="4" /> ...shopping needs!<endTag a="100" b="4" /><size value="100" /></message>
+	<message label="215_01" attrib="00 00 00 00"><anim id="Greeting" target="mainNpc" targetSpec="" />We hope to fulfill all your shopping
+needs!<size value="75" /><delay20 /><anim id="Greeting" target="4" targetSpec="N2" /><tag a="100" b="4" /> ...shopping needs!<endTag a="100" b="4" /><size value="100" /></message>
+</msbt>

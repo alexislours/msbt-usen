@@ -1,0 +1,116 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><delay20 />Ya know how there's lotsa places
+to go in the world?<pageBreak /><20_2 arg="5" /><20_2 arg="7" /><anim id="Smiling" target="mainNpc" targetSpec="" />Well, all of those places have real
+yummy food!<anim id="Aha" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="002" attrib="00 00 10 00 00 00 00 00"><anim id="Aha" target="subNpc" targetSpec="" /><delay20 />Really?! <anim id="AbsentMindedness" target="subNpc" targetSpec="" /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay20 />I wanna go explore all the
+foods of the world!<pageBreak /><anim id="EmotEnd" target="subNpc" targetSpec="" /><20_3 arg="0" /><anim id="QuestionMark" target="subNpc" targetSpec="" /><delay20 />Where do you wanna go
+eat, <tag a="110" b="3" />?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">The tropics.</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">The Arctic.</message>
+	<message label="002_c" attrib="00 00 00 00 00 00 00 00">Far away from here.</message>
+	<message label="002_d" attrib="00 00 00 00 00 00 00 00">Somewhere close.</message>
+	<message label="002_e" attrib="00 00 00 00 00 00 00 00">The wilderness.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Hot" target="subNpc" targetSpec="" /><delay20 />The tropics! Sunshiiiine
+and fruuuiiit<tag a="110" b="0" /><delay20 />and<tag a="110" b="0" /><delay frames="80" /><20_2 arg="7" /><20_2 arg="5" /><anim id="Surprised" target="subNpc" targetSpec="" /><delay20 /><anim id="Shocked" target="mainNpc" targetSpec="" />sharks!<delay frames="40" />
+<anim id="HappyFlower" target="subNpc" targetSpec="" />We could go see SHARKS!<anim id="HappyFlower" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00">Oh man, sharks are real amaaazing!<delay20 />
+<anim id="Aha" target="subNpc" targetSpec="" />I like how they purr when you
+pet them!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />SHARKS PURR?!<delay20 /> Someone should
+have told me this before now!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="mainNpc" targetSpec="" /><anim id="Laughing" target="subNpc" targetSpec="" />Let's go to the tropics! We'll pet
+sharks<tag a="110" b="0" /><delay20 />eat fruit<tag a="110" b="0" /><delay20 />and then get
+sunburns on our bellies! <delay20 />It'll be neat!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Shaking" target="subNpc" targetSpec="" /><anim id="FaintSmile" target="mainNpc" targetSpec="" />The Arctic!<delay frames="40" /> <20_3 arg="5" /><20_3 arg="7" /><anim id="Love" target="subNpc" targetSpec="" /><delay20 />That's a real perfect
+place to stuff yourself with
+warm food!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="mainNpc" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />Hmm,<delay20 /> we'll have to be sneaky or
+<anim id="Aha" target="subNpc" targetSpec="" />the Snowsquatch'll catch us!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="subNpc" targetSpec="" /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><delay20 />You're right, <tag a="110" b="5" /><tag a="110" b="0" />
+If Snowsquatch finds us,<delay8 /> <anim id="Worried" target="subNpc" targetSpec="" /><anim id="Nodding" target="mainNpc" targetSpec="" /><delay20 />
+WE'LL be the warm food!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><20_3 arg="0" /><tag a="50" b="3" /><tag a="110" b="3" />! <delay20 />Promise you'll
+STAY AWAY from the Arctic!<pageBreak /><anim id="Frantic" target="subNpc" targetSpec="" /><anim id="TakenAback" target="mainNpc" targetSpec="" /><delay20 />You don't wanna be warm food!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00">Far away, huh? <delay20 />We can get a boat
+and sail off<tag a="110" b="0" /><20_3 arg="5" /><20_3 arg="7" /><delay20 /> But how far?<pageBreak /><anim id="Laughing" target="subNpc" targetSpec="" /><delay20 />If we go TOO far, <anim id="Surprised" target="mainNpc" targetSpec="" /><delay20 />we'll sail all the
+way back here!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00">No, <tag a="110" b="5" />! <anim id="Worried" target="mainNpc" targetSpec="" /><delay20 />If we go too far
+one way, we'll reach the edge of the
+world<tag a="110" b="0" /><anim id="Frantic" target="mainNpc" targetSpec="" /><anim id="Laughing" target="subNpc" targetSpec="" /><delay20 />and FALL OFF!<anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="subNpc" targetSpec="" />Dude, <delay20 />did you sleep through more
+school than me? <delay20 /><anim id="TakenAback" target="mainNpc" targetSpec="" /><anim id="Explain" target="subNpc" targetSpec="" /><delay20 /><anim id="EmotEnd" target="mainNpc" targetSpec="" />The world's round!<delay40 />
+<anim id="Worried" target="mainNpc" targetSpec="" /><delay20 />Just like <tag a="110" b="3" />'s head!</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />If you say so. <delay20 />But let's sail slow<tag a="110" b="0" /><anim id="Oops" target="mainNpc" targetSpec="" /><anim id="Laughing" target="subNpc" targetSpec="" /><delay20 />
+Just in case!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="subNpc" targetSpec="" />A huh huh,<delay20 /> that's a real great idea!<delay40 />
+<20_2 arg="7" /><20_2 arg="5" /><anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="Nodding" target="mainNpc" targetSpec="" /><delay20 />The closer it is, the sooner we get
+to EAT!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" /><delay20 />Yeah! Faster is better. We oughta
+get there quick! <anim id="Frantic" target="mainNpc" targetSpec="" /><delay20 />We don't want 'em
+to run out of food!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="subNpc" targetSpec="" /><delay20 />But we don't even know where we're
+going!<delay20 /> They really could run out of
+food before we figure it out!</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="mainNpc" targetSpec="" /><anim id="Frantic" target="subNpc" targetSpec="" />Will we ever get to eat?! <delay20 />Will they
+run out of food?! <delay20 />We don't even
+know who "they" are, <tag a="110" b="6" />!</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00">Ooooh, the wilderness! <20_2 arg="5" /><20_2 arg="7" /><anim id="Love" target="subNpc" targetSpec="" /><anim id="Smiling" target="mainNpc" targetSpec="" /><delay20 />So, like,
+berries from the mountains,<delay8 /><delay8 /> fish
+from the sea<tag a="110" b="0" /></message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="mainNpc" targetSpec="" /><delay20 />I wanna go find mountain food! <anim id="Nodding" target="subNpc" targetSpec="" />You
+get the seafood, <tag a="110" b="31" arg="0xcd01" />.<pageBreak /><20_2 arg="0" /><anim id="Thinking" target="mainNpc" targetSpec="" />Hmm,<delay20 /> and <tag a="110" b="3" /> can<tag a="110" b="0" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="subNpc" targetSpec="" />A huh huh<tag a="110" b="0" /><delay40 /> There's nothing left to
+go get. All that's left to do is<tag a="110" b="0" /><pageBreak />The<tag a="110" b="0" /><delay20 />um<tag a="110" b="0" /><anim id="IdeaBulb" target="subNpc" targetSpec="" /><delay20 /> Oh!<anim id="TakenAback" target="mainNpc" targetSpec="" /><delay20 /> The eating!<20_2 arg="5" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><delay frames="40" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="mainNpc" targetSpec="" /><anim id="Laughing" target="subNpc" targetSpec="" /><delay20 />Huh?! Man, I wanna do the eating!<20_2 arg="6" /><delay20 />
+<tag a="50" b="3" /><tag a="110" b="4" />!<delay20 /> Swap places
+with me!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="mainNpc" targetSpec="" /><delay20 />Hey! <tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" /> and me are
+playing a game! <anim id="EmotEnd" target="mainNpc" targetSpec="" />You wanna play too?
+<delay40 />It's real hard!<delay8 /></message>
+	<message label="102" attrib="00 00 10 00 00 00 00 00"><anim id="HappyFlower" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Get ready!<delay frames="80" /> It's time to play<20_2 arg="0" /><anim id="BigSmile" target="subNpc" targetSpec="" /> the
+Quiz on Sayings,<delay20 /> um,<delay20 /> Quiz Game!<10_4 /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />
+OK, the first saying is<tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="Confused" target="mainNpc" targetSpec="" /><delay20 /><tag a="10" b="12" /><size value="100" />Two wrongs don't make<tag a="110" b="0" /><delay20 />what?<size value="100" /></message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">a right.</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">my bed for me.</message>
+	<message label="102_c" attrib="00 00 00 00 00 00 00 00">a chocolate cake.</message>
+	<message label="103" attrib="00 00 10 00 00 00 00 00"><anim id="Clapping" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Oh! You got it!<delay40 /> <anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />That's real neat.
+Here's your next quiz<tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="Confused" target="mainNpc" targetSpec="" /><delay20 /><tag a="10" b="12" /><size value="100" />Birds of a feather<tag a="110" b="0" /><delay20 />what?<size value="100" /></message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">flock together.</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00">eat yummy cheddar.</message>
+	<message label="103_c" attrib="00 00 00 00 00 00 00 00">can all rock pleather.</message>
+	<message label="104" attrib="00 00 10 00 00 00 00 00"><anim id="Clapping" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" /><delay20 />Dang, you're good!<delay40 /> <anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />Here's your next
+quiz question of quizzing<tag a="110" b="0" /><pageBreak /><anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="Confused" target="mainNpc" targetSpec="" /><delay20 /><tag a="10" b="12" />A Bell saved is a Bell<size value="100" /><tag a="110" b="0" /><delay20 />what?<size value="100" /></message>
+	<message label="104_a" attrib="00 00 00 00 00 00 00 00">earned.</message>
+	<message label="104_b" attrib="00 00 00 00 00 00 00 00">behind the sofa.</message>
+	<message label="104_c" attrib="00 00 00 00 00 00 00 00">unrung.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="subNpc" targetSpec="" />Oh man! <delay20 />You got it again!<delay20 /><20_2 arg="0" /> A huh huh,
+you're so smart!<anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="FaintSmile" target="mainNpc" targetSpec="" /></message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Wow, <delay20 /><tag a="110" b="4" />!<delay20 /> You got
+'em all!<delay40 /> That's real great!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Good job!<delay40 /> You're sorta the Master of
+Sayings! <delay frames="80" />Or something.<delay frames="40" /> I'm not good
+with award words.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="subNpc" targetSpec="" />I always goof up on the last one!<delay20 />
+I mean,<anim id="Serious" target="mainNpc" targetSpec="" /><delay20 /> who <anim id="Laughing" target="subNpc" targetSpec="" />doesn't ring a bell
+when they see one?!</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="mainNpc" targetSpec="" /><anim id="Oops" target="subNpc" targetSpec="" />Aw, <tag a="110" b="3" /><tag a="110" b="0" /><delay frames="40" />
+You got it wrong!<pageBreak /><anim id="Greeting" target="subNpc" targetSpec="" />We'll have to play again sometime!</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="mainNpc" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" /><delay20 />You should join our study group!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />Me and <tag a="110" b="31" arg="0xcd01" /> are so
+much alike!<delay frames="40" /> <anim id="Laughing" target="mainNpc" targetSpec="" /><anim id="Laughing" target="subNpc" targetSpec="" /><delay20 />We're pretty much
+the same guy, <tag a="110" b="5" />!<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="subNpc" targetSpec="" />I think <anim id="HappyFlower" target="mainNpc" targetSpec="" />"<tag a="110" b="5" />" is real cool.
+It just makes so much<tag a="110" b="0" /><delay20 />sense.<pageBreak /><anim id="FaintSmile" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />A huh huh, I dunno why I never said
+it before! "<tag a="50" b="3" /><tag a="110" b="5" />"! <anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="mainNpc" targetSpec="" /><delay20 />A huh huh! It'd be real neat to <anim id="BigSmile" target="subNpc" targetSpec="" />hear
+ya say "<tag a="110" b="5" />" whenever ya
+want to, dude!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00">Yeah?<delay40 /> OK! I'm gonna do that!
+Ahem<tag a="110" b="0" /><pageBreak />Me and <tag a="110" b="31" arg="0xcd00" /> are
+<anim id="Clapping" target="mainNpc" targetSpec="" /><anim id="Clapping" target="subNpc" targetSpec="" />the bestest friends, <tag a="110" b="5" />!<pageBreak /><anim id="Laughing" target="subNpc" targetSpec="" /><anim id="Laughing" target="mainNpc" targetSpec="" />A huh huh, so good!<delay40 /> <tag a="50" b="3" /><tag a="110" b="5" />!
+Huh huh, <anim id="Laughing" target="mainNpc" targetSpec="" /><tag a="110" b="5" />! Huh huh!
+<tag a="50" b="3" /><tag a="110" b="5" />! The best! I love it!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="mainNpc" targetSpec="" /><anim id="Laughing" target="subNpc" targetSpec="" />That's funny, <delay20 /><tag a="110" b="31" arg="0xcd01" />!<delay40 />
+<tag a="50" b="3" /><tag a="110" b="5" />! Huh huh, we match!
+Huh huh! <tag a="50" b="3" /><tag a="110" b="5" />! Huh huh!</message>
+</msbt>

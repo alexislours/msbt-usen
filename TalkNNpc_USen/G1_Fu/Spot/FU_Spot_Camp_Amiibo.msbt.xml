@@ -1,0 +1,81 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="001_01" attrib="00 00 00 00 00 00 13 00"><tag a="100" b="5" /><colour id="1" />This is <tag a="115" b="1" arg="0xcd00" />.<delay frames="40" /><pageBreak />I'm not free to talk now because
+I'm packing to move,<delay20 /> <tag a="110" b="5" />.<colour id="65535" /><endTag a="100" b="5" /></message>
+	<message label="001_02" attrib="00 00 00 00 00 00 13 00"><tag a="100" b="5" /><colour id="1" />Thanks for getting in touch.<delay frames="40" />
+<tag a="50" b="3" /><tag a="115" b="1" arg="0xcd00" /> is unavailable<delay20 />
+due to a pending move.<colour id="65535" /><endTag a="100" b="5" /></message>
+	<message label="001_03" attrib="00 00 00 00 00 00 13 00"><tag a="100" b="5" /><colour id="1" />You've reached <tag a="115" b="1" arg="0xcd00" />.<delay frames="40" />
+I'm preparing to move,<delay20 /> so I can't
+talk right now,<delay20 /> <tag a="110" b="5" />.<colour id="65535" /><endTag a="100" b="5" /></message>
+	<message label="001_04" attrib="00 00 00 00 00 00 13 00"><tag a="100" b="5" /><colour id="1" />This is <tag a="115" b="1" arg="0xcd00" />.<delay frames="40" /> I'm sorry,<delay20 />
+I can't talk now<delay20 /> because
+I'm packing to move,<delay20 /> <tag a="110" b="5" />.<colour id="65535" /><endTag a="100" b="5" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="102_01" attrib="00 00 00 00 00 00 13 00"><anim id="Eh" target="actor" targetSpec="" />What's that?<delay frames="30" /> Are you inviting me to
+<tag a="110" b="9" />'s <colour id="1" />campsite<colour id="65535" />?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I'm so excited!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />I'll start packing my
+camping gear now,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="102_02" attrib="00 00 00 00 00 00 13 00"><anim id="Eh" target="actor" targetSpec="" />You're really inviting me to visit
+<tag a="110" b="9" />'s <colour id="1" />campsite<colour id="65535" />?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />This is so exciting!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />I'll be there just
+as soon as I can,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="102_03" attrib="00 00 00 00 00 00 13 00"><anim id="BigSmile" target="actor" targetSpec="" />You're asking me to come visit the
+<colour id="1" />campsite<colour id="65535" /> on <tag a="110" b="9" />?<delay frames="30" />
+<anim id="Nodding" target="actor" targetSpec="" />Absolutely I will!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'll leave for the island<delay20 /> as soon as
+I can pack my stuff,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="102_04" attrib="00 00 00 00 00 00 13 00"><anim id="Shocked" target="actor" targetSpec="" />Are you really inviting me<delay20 /> to stay
+at <tag a="110" b="9" />'s <colour id="1" />campsite<colour id="65535" />?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Thanks so much!<delay frames="30" /> <anim id="FaintSmile" target="actor" targetSpec="" />I'm as good as on
+my way right now,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="202" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="202_01" attrib="00 00 00 00 00 00 13 00"><anim id="Shocked" target="actor" targetSpec="" />Oh wow!<delay frames="30" /> You're inviting me to stay
+at the <tag a="110" b="9" /> <colour id="1" />campsite<colour id="65535" />?<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />I'd love to.<delay20 /> Thanks so much!<delay frames="30" />
+<anim id="FaintSmile" target="actor" targetSpec="" />I'll head over as soon as I can
+pack a bag,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="202_02" attrib="00 00 00 00 00 00 13 00"><anim id="Thinking" target="actor" targetSpec="" />Let me think<delay8 /><tag a="110" b="0" /> <tag a="50" b="3" /><tag a="110" b="9" />'s
+<colour id="1" />campsite<colour id="65535" />,<delay20 /> huh?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I'm kidding.<delay frames="30" /> Of course I'm interested!<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />See you there soon,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="202_03" attrib="00 00 00 00 00 00 13 00"><anim id="Aha" target="actor" targetSpec="" />Getting to stay at the <colour id="1" />campsite<colour id="65535" /> on
+<tag a="110" b="9" /><delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />sounds so fun!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />But it might take me a while<delay20 /> to find
+my camping gear,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="202_04" attrib="00 00 00 00 00 00 13 00"><anim id="Aha" target="actor" targetSpec="" />You're asking me to come and stay at
+your <colour id="1" />campsite<colour id="65535" />?<delay frames="40" /> How could I say no?<delay frames="30" />
+<anim id="Negative" target="actor" targetSpec="" />I never get invites this cool!
+<anim id="Smiling" target="actor" targetSpec="" />I'm on my way now,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="301" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="301_01" attrib="00 00 00 00 00 00 13 00">You've reached <tag a="110" b="10" />.<delay frames="30" />
+<anim id="Eh" target="actor" targetSpec="" />Oh,<delay20 /> hey there, <tag a="110" b="3" />!<delay frames="30" />
+<anim id="Hello" target="actor" targetSpec="" />What's up,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="301_02" attrib="00 00 00 00 00 00 13 00"><tag a="50" b="3" /><tag a="110" b="10" /> speaking.<delay frames="40" />
+<anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />?<pageBreak />What's up?<delay40 /> <anim id="Restless" target="actor" targetSpec="" />Something you couldn't
+share face-to-face,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="301_03" attrib="00 00 00 00 00 00 13 00">You've reached <tag a="110" b="10" />.<delay frames="40" />
+<anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />?<pageBreak /><anim id="Grin" target="actor" targetSpec="" />You do realize we live on the
+same island,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="301_04" attrib="00 00 00 00 00 00 13 00">Hello,<delay20 /> yes,<delay20 /> this is <tag a="110" b="10" />.<delay frames="30" />
+<anim id="Eh" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Is something wrong,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="302" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="302_01" attrib="00 00 00 00 00 00 13 00"><anim id="Worried" target="actor" targetSpec="" />Wait—<delay20 />you want me to camp
+at our island's <colour id="1" />campsite<colour id="65535" />?<delay frames="40" />
+I don't get it<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Restless" target="actor" targetSpec="" />I mean,<delay20 /> that's meant for visitors,<delay20 /> and
+<anim id="OhGeez" target="actor" targetSpec="" />I already live here,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="302_02" attrib="00 00 00 00 00 00 13 00"><anim id="Shocked" target="actor" targetSpec="" />Huh?<delay20 /> You want me to camp out at
+our <colour id="1" />campsite<colour id="65535" />?<delay frames="30" /> <anim id="Restless" target="actor" targetSpec="" />And you are talking
+about the one here,<delay20 /> on this island?
+<anim id="BigSmile" target="actor" targetSpec="" />That's a funny idea,<delay20 /> but I think I'm
+going to pass on it,<anim id="FaintSmile" target="actor" targetSpec="" /><delay20 /> <tag a="110" b="5" />.</message>
+	<message label="302_03" attrib="00 00 00 00 00 00 13 00"><anim id="Thinking" target="actor" targetSpec="" />I must be missing something.<delay frames="30" /> <anim id="QuestionMark" target="actor" targetSpec="" />Why do
+you want me to go to the <colour id="1" />campsite<colour id="65535" />?<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Wait,<delay20 /> did you want me to camp
+there?<delay frames="30" /> <anim id="Worried" target="actor" targetSpec="" />Um,<delay20 /> I don't think I'll be
+doing that,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="302_04" attrib="00 00 00 00 00 00 13 00"><anim id="Shocked" target="actor" targetSpec="" />What?<delay20 /> I don't get it.<delay frames="30" /> Why <anim id="QuestionMark" target="actor" targetSpec="" />would
+I want to camp right here<delay20 /> at our
+island's <colour id="1" />campsite<colour id="65535" />,<delay20 /> <tag a="110" b="5" />?<pageBreak /><anim id="Restless" target="actor" targetSpec="" />Sorry,<delay20 /> I'm going to have to decline.</message>
+	<message label="401" attrib="00 00 00 00 00 00 13 00"><tag a="60" b="20" /></message>
+	<message label="401_01" attrib="00 00 00 00 00 00 13 00">Hello,<delay20 /> this is <tag a="110" b="10" />.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />What can I do for you,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="401_02" attrib="00 00 00 00 00 00 13 00"><anim id="FaintSmile" target="actor" targetSpec="" />Yes,<delay20 /> this is <tag a="110" b="10" />.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />What do you need,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="401_03" attrib="00 00 00 00 00 00 13 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hi!<delay20 /> This is <tag a="110" b="10" />!<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Can I help you,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="401_04" attrib="00 00 00 00 00 00 13 00"><anim id="Smiling" target="actor" targetSpec="" />This is <tag a="110" b="10" />.<delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />What's on your mind,<delay20 /> <tag a="110" b="5" />?</message>
+</msbt>

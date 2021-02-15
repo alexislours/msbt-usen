@@ -1,0 +1,192 @@
+<msbt attribsize="3">
+	<message label="001" attrib="00 00 00">dummy</message>
+	<message label="010" attrib="00 00 13">                      <tag a="10" b="12" /><tag a="100" b="2" /><tag a="100" b="5" />See ya!<endTag a="100" b="5" /><endTag a="100" b="2" /><10_7 arg="20" /></message>
+	<message label="011" attrib="00 00 13"><tag a="10" b="12" />                     <tag a="100" b="5" /><size value="150" />Hiya!<size value="100" /><10_7 arg="45" /><pageBreak />Thanks for callin'.<delay frames="30" /> This is the
+<delay8 /><colour id="1" />Rescue Service <colour id="65535" />hotline.<endTag a="100" b="5" /></message>
+	<message label="011_01" attrib="00 00 13"><tag a="100" b="5" />One sec,<delay20 /> you are<tag a="110" b="0" /><endTag a="100" b="5" /><10_7 arg="30" /></message>
+	<message label="011_02" attrib="00 00 13"><tag a="100" b="5" />Your current location is<tag a="110" b="0" /><endTag a="100" b="5" /><10_7 arg="30" /></message>
+	<message label="012" attrib="00 00 13"><tag a="100" b="5" />Ah, for cryin' out loud! <delay frames="30" />I can't make
+heads or tails of this signal. <delay20 />Looks
+like my kid brother's handwriting<tag a="110" b="0" /><endTag a="100" b="5" /></message>
+	<message label="012_01" attrib="00 00 13"><tag a="100" b="5" />Listen, pal<tag a="110" b="0" /><delay20 />you got a visitor?<delay20 />
+Somebody pop over to shoot the
+breeze? Pick fruit or whatnot?<pageBreak />Let me spell it out. <delay20 />Too many signals,
+and the system don't work right.<delay20 />
+Like Sonny after too much java<tag a="110" b="0" /><pageBreak />If ya got yourself an emergency,<delay frames="30" />
+open the <colour id="1" /> Button <colour id="65535" />menu and pick
+<colour id="1" />End Session<colour id="65535" />, will ya?<endTag a="100" b="5" /></message>
+	<message label="012_02" attrib="00 00 13"><tag a="100" b="5" />Oh, I think I see what's wrong.<delay20 />
+You doin' some sightseein'? <delay20 />Visiting
+somebody else's island, maybe?
+Lemme tell you about me. <delay20 />I like it
+simple. <delay20 />Too many signals zippin'
+around makes things<tag a="110" b="0" />less simple.<pageBreak />If you really need help, <delay frames="30" />you gotta
+go choose <colour id="1" />Return to my island <colour id="65535" />on
+the <colour id="1" /> Button <colour id="65535" />menu, capice?<endTag a="100" b="5" /></message>
+	<message label="013" attrib="00 00 13"><tag a="100" b="5" />Stop. <delay20 />You ain't even outside,<delay20 /> are ya?<pageBreak />Here's the deal, pal. <delay20 />This service
+don't work if you're indoors.<pageBreak />It ain't rocket science. <delay20 />I can't come
+grab you if I got rafters and beams
+in the way. <delay20 />I ain't a miracle worker!<pageBreak />So, <delay20 />ya want my help,<delay20 /> I'm gonna need
+ya to <delay20 />step outside, OK?<endTag a="100" b="5" /></message>
+	<message label="021_01" attrib="00 00 13"><tag a="100" b="5" />Here we go! <delay20 />This is
+<tag a="110" b="1" /> from
+<tag a="110" b="33" />, right?<endTag a="100" b="5" /></message>
+	<message label="021_02" attrib="00 00 13"><tag a="100" b="5" />Let's see<tag a="110" b="0" /> Ah!<delay20 /> <tag a="50" b="3" /><tag a="110" b="1" />
+on <tag a="110" b="33" />, right?
+<anim id="Nodding" target="player" targetSpec="" /><delay frames="30" />Nice to hear from ya.<endTag a="100" b="5" /></message>
+	<message label="021_03" attrib="00 00 13"><tag a="100" b="5" />Hang on<tag a="110" b="0" /><delay20 /> Oh, <tag a="110" b="1" />.<delay20 />
+You in hot water AGAIN?<anim id="Nodding" target="player" targetSpec="" /><endTag a="100" b="5" /></message>
+	<message label="022" attrib="00 00 13" />
+	<message label="023_01" attrib="02 00 13"><tag a="100" b="5" />Pretty basic system here—rescues
+go for <colour id="1" />100 <colour id="65535" />miles.<delay20 /> You in?<endTag a="100" b="5" /></message>
+	<message label="023_01_a" attrib="00 00 13"><anim id="Nodding" target="player" targetSpec="" />Yes! Help!</message>
+	<message label="023_01_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />No, thanks.</message>
+	<message label="023_02" attrib="02 00 13"><tag a="100" b="5" />It's <colour id="1" />100 <colour id="65535" />miles per rescue.<delay20 />
+Whaddaya say?<endTag a="100" b="5" /></message>
+	<message label="023_02_a" attrib="00 00 13"><anim id="Nodding" target="player" targetSpec="" />Yes! Help!</message>
+	<message label="023_02_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />No, thanks.</message>
+	<message label="023_03" attrib="02 00 13"><tag a="100" b="5" />You know, <tag a="110" b="1" />.<delay frames="40" /> You
+were short on miles last time you
+called.<delay20 /> Hope you got that sorted<tag a="110" b="0" /><pageBreak />Fee's <colour id="1" />100 <colour id="65535" />miles.<delay20 /> You in?<endTag a="100" b="5" /></message>
+	<message label="023_03_a" attrib="00 00 13"><anim id="Nodding" target="player" targetSpec="" />Yes! Help!</message>
+	<message label="023_03_b" attrib="00 00 13"><anim id="Negative" target="player" targetSpec="" />No, thanks.</message>
+	<message label="031_01" attrib="00 00 13"><tag a="100" b="5" />What, seriously?<endTag a="100" b="5" /></message>
+	<message label="031_02" attrib="00 00 13"><tag a="100" b="5" />Huh? <delay20 />No deal?<delay frames="40" /> Hey, listen<tag a="110" b="0" /><delay20 /> No one
+cares if you were short on miles
+before.<delay20 /> Not an issue—capice?<endTag a="100" b="5" /></message>
+	<message label="032_01" attrib="00 00 13"><tag a="100" b="5" />If you're in a jam,<delay20 /> just say the word!<endTag a="100" b="5" /></message>
+	<message label="032_02" attrib="00 00 13"><tag a="100" b="5" />You really need help? <delay20 />Let's be
+clear<tag a="110" b="0" /><delay20 />I don't care if you got
+Nook Miles or not.<pageBreak />If you're in a tough spot,<delay20 /> I'm your
+mole.<delay frames="40" /> Got it?<endTag a="100" b="5" /></message>
+	<message label="041_01" attrib="00 00 13"><tag a="100" b="5" />Nice! <10_4 />OK, let's make it official.
+<delay20 />Show me the <colour id="1" />100 <colour id="65535" />miles.<endTag a="100" b="5" /></message>
+	<message label="041_02" attrib="00 00 13"><tag a="100" b="5" />There ya go. <10_4 />And since you're all
+set with your <colour id="1" />100 <colour id="65535" />miles this time,<delay8 />
+I'll just take 'em up front!<endTag a="100" b="5" /></message>
+	<message label="042_01" attrib="00 00 13"><tag a="100" b="5" />Smart kid!<delay40 /> It's <colour id="1" />100 <colour id="65535" />miles, <delay20 />so let's
+get that squared away<tag a="110" b="0" /><endTag a="100" b="5" /><10_7 arg="75" /></message>
+	<message label="042_02" attrib="00 00 13"><10_10 /><tag a="10" b="12" /><anim id="TakenAback" target="player" targetSpec="" /><tag a="100" b="5" />　　　<size value="150" />WAIT A MINUTE!<size value="100" /><delay20 /><10_9 /><pageBreak /><anim id="EmotEnd" target="player" targetSpec="" />What're you tryin' to pull here?<delay frames="40" />
+You're a little short on miles, there.<pageBreak />Hmph. <delay20 />Guess I just leave you there<tag a="110" b="0" /><10_4 />
+Eh, just kiddin'! What kinda mole'd
+do that? <delay20 />This one's on the house!<endTag a="100" b="5" /></message>
+	<message label="042_03" attrib="00 00 13"><10_10 /><tag a="10" b="12" /><anim id="TakenAback" target="player" targetSpec="" />　　　　　　<tag a="100" b="5" /><size value="150" />WAHHH!<size value="100" /><delay20 /><10_9 /><pageBreak /><anim id="EmotEnd" target="player" targetSpec="" />You gotta be kiddin' me! <delay frames="40" />You're short
+on miles again, bright eyes?<pageBreak />Poached earthworms! <delay20 />What a day<tag a="110" b="0" /><delay20 />
+Eh, don't worry none.<delay frames="40" /> I ain't gonna
+leave ya hanging. <delay20 />This one's on me.<endTag a="100" b="5" /></message>
+	<message label="042_04" attrib="00 00 13"><tag a="100" b="5" />But since I'm doin' you a favor,<delay20 />
+I choose where to drop ya.<delay20 />
+No negotiatin'.<endTag a="100" b="5" /></message>
+	<message label="043" attrib="00 00 13"><tag a="100" b="5" />One more thing.<delay20 /> Since you're not
+traveling alone,<delay frames="30" /> I gotta send ya
+to the <colour id="1" />plaza<colour id="65535" />. Regs, you know?<endTag a="100" b="5" /></message>
+	<message label="044_01" attrib="06 00 13"><tag a="100" b="5" />Now that that's settled,<delay20 /> where can
+I take ya?<endTag a="100" b="5" /></message>
+	<message label="044_01_a" attrib="00 00 13">Home.</message>
+	<message label="044_01_b" attrib="00 00 13">The plaza.</message>
+	<message label="044_01_c" attrib="00 00 13">The airport.</message>
+	<message label="044_01_d" attrib="00 00 13">Cancel.</message>
+	<message label="044_02" attrib="06 00 13"><tag a="100" b="5" />Now that that's settled,<delay20 /> where can
+I take ya?<endTag a="100" b="5" /></message>
+	<message label="044_02_a" attrib="00 00 13">My tent.</message>
+	<message label="044_02_b" attrib="00 00 13">The plaza.</message>
+	<message label="044_02_c" attrib="00 00 13">The airport.</message>
+	<message label="044_02_d" attrib="00 00 13">Cancel.</message>
+	<message label="044_03" attrib="08 00 13"><tag a="100" b="5" />Now that that's settled,<delay20 /> where can
+I take ya?<endTag a="100" b="5" /></message>
+	<message label="044_03_a" attrib="00 00 13">Home.</message>
+	<message label="044_03_b" attrib="00 00 13">The plaza.</message>
+	<message label="044_03_c" attrib="00 00 13">The shop.</message>
+	<message label="044_03_d" attrib="00 00 13">The airport.</message>
+	<message label="044_03_e" attrib="00 00 13">Cancel.</message>
+	<message label="045" attrib="04 00 13"><tag a="100" b="5" />OK, pal. <delay20 />Here's the deal. <delay20 />You haven't
+settled on a place to live yet<tag a="110" b="0" /><pageBreak />So that means I don't know where
+to drop ya. <delay20 />Wanna give me a hint?<endTag a="100" b="5" /></message>
+	<message label="045_a" attrib="00 00 13">The plaza.</message>
+	<message label="045_b" attrib="00 00 13">The airport.</message>
+	<message label="045_c" attrib="00 00 13">Cancel.</message>
+	<message label="046" attrib="06 00 13"><tag a="100" b="5" />OK, pal. <delay20 />Here's the deal. <delay20 />You haven't
+settled on a place to live yet<tag a="110" b="0" /><pageBreak />So that means I don't know where
+to drop ya. <delay20 />Wanna give me a hint?<endTag a="100" b="5" /></message>
+	<message label="046_a" attrib="00 00 13">The plaza.</message>
+	<message label="046_b" attrib="00 00 13">The shop.</message>
+	<message label="046_c" attrib="00 00 13">The airport.</message>
+	<message label="046_d" attrib="00 00 13">Cancel.</message>
+	<message label="047" attrib="08 00 13"><tag a="100" b="5" />Now that that's settled,<delay20 /> where can
+I send ya?<endTag a="100" b="5" /></message>
+	<message label="047_a" attrib="00 00 13">My tent.</message>
+	<message label="047_b" attrib="00 00 13">The plaza.</message>
+	<message label="047_c" attrib="00 00 13">The shop.</message>
+	<message label="047_d" attrib="00 00 13">The airport.</message>
+	<message label="047_e" attrib="00 00 13">Cancel.</message>
+	<message label="048" attrib="02 00 13"><tag a="100" b="5" /><tag a="110" b="0" />Huh? <delay40 />You there, champ? <delay8 />I see
+you been doin' some sightseeing,
+right?<pageBreak />Problem is, I can't get map data for
+that island. <delay20 />So I'm gonna have to
+drop you <colour id="1" />where the planes land<colour id="65535" />.<delay20 />
+That work for you?<endTag a="100" b="5" /></message>
+	<message label="048_a" attrib="00 00 13">Guess it'll have to!</message>
+	<message label="048_b" attrib="00 00 13">Cancel.</message>
+	<message label="050_01" attrib="00 00 13"><tag a="100" b="5" />Your tent? <delay20 />Sure thing.<endTag a="100" b="5" /></message>
+	<message label="050_02" attrib="00 00 13"><tag a="100" b="5" />Home sweet home? <delay20 />You got it, boss.<endTag a="100" b="5" /></message>
+	<message label="050_03" attrib="00 00 13"><tag a="100" b="5" />The plaza? <delay20 />No prob.<endTag a="100" b="5" /></message>
+	<message label="050_04" attrib="00 00 13"><tag a="100" b="5" />The island shop? <delay20 />Piece of mud pie.<endTag a="100" b="5" /></message>
+	<message label="050_05" attrib="00 00 13" />
+	<message label="050_06" attrib="00 00 13"><tag a="100" b="5" />You got it!<delay frames="30" /> Ready, set, <delay20 />goooooooooo!<endTag a="100" b="5" /></message>
+	<message label="050_07" attrib="00 00 13"><tag a="100" b="5" />The airport, huh? <delay20 />You got it, pal.<endTag a="100" b="5" /></message>
+	<message label="051" attrib="00 00 13"><tag a="60" b="20" /></message>
+	<message label="051_01" attrib="00 00 13"><tag a="100" b="5" />What am I workin' with here<tag a="110" b="0" />?
+<size value="75" />Guess I press this doohickey<tag a="110" b="0" /><size value="100" /><endTag a="100" b="5" /></message>
+	<message label="051_02" attrib="00 00 13"><tag a="100" b="5" />Easy does it, Don<tag a="110" b="0" />
+<size value="75" />Pick a button. <delay20 />What's the worst that happens?<size value="100" /><endTag a="100" b="5" /></message>
+	<message label="051_03" attrib="00 00 13"><tag a="100" b="5" />I'm a Resetti. I got this<tag a="110" b="0" />
+<size value="75" />Can I make the font bigger?<size value="100" /><endTag a="100" b="5" /></message>
+	<message label="052" attrib="00 00 13"><tag a="100" b="5" />Sure. <delay20 />Let's roll the dice.<endTag a="100" b="5" /></message>
+	<message label="053" attrib="00 00 13"><tag a="10" b="12" />　　 <tag a="100" b="2" /><tag a="100" b="5" /><size value="150" />Here goes nothin'!<size value="100" /><endTag a="100" b="5" /><endTag a="100" b="2" /><10_8 arg="30" /></message>
+	<message label="061" attrib="00 00 13"><tag a="100" b="5" />Open your eyes, kid! <delay20 />Trip's over!<endTag a="100" b="5" /></message>
+	<message label="062" attrib="00 00 13"><tag a="100" b="5" />Oh yeah. <delay8 />One last thing<tag a="110" b="0" /><endTag a="100" b="5" /></message>
+	<message label="063" attrib="00 00 13"><tag a="60" b="20" /></message>
+	<message label="063_01" attrib="00 00 13"><tag a="100" b="5" />So I'm a big fan of, <delay8 />you know,<delay8 />
+language. <delay20 />Think about it a lot.<delay20 /> Even
+wrote some alphabet fanfiction.
+Spoiler—the letter "I" MIGHT be
+based on a certain ruggedly
+handsome mole.<delay frames="40" /> Wink, wink.<endTag a="100" b="5" /></message>
+	<message label="063_02" attrib="00 00 13"><tag a="100" b="5" />Ya know how people say <delay20 />"I could care
+less" when what they really mean
+<delay8 />is that they COULDN'T care less?<pageBreak />You know, <delay8 />'cause their care tank's
+empty? <delay20 />That bugs me.<delay20 /> But I'm doin'
+yoga 'n stuff.<delay frames="40" /> Tryin' to get centered.<endTag a="100" b="5" /></message>
+	<message label="063_03" attrib="00 00 13"><tag a="100" b="5" />This cousin of mine <delay8 />always says
+<delay20 />"it takes two to tangle" <delay8 />instead of
+"two to tango."<pageBreak />I've tried correctin' him, <delay8 />but it's no
+good. <delay frames="40" />Doesn't know a thing about
+dancin' OR math.
+He also says <delay8 />"hit the snail on the
+head," <delay20 />but I think that's on purpose.<delay frames="40" />
+Kid loves a game of Smack the Snail.<endTag a="100" b="5" /></message>
+	<message label="064" attrib="00 00 13"><tag a="60" b="20" /></message>
+	<message label="064_01" attrib="00 00 13"><tag a="100" b="5" />So I'm a big fan of, <delay8 />you know,<delay8 />
+language. <delay20 />Think about it a lot.<delay20 /> Even
+wrote some alphabet fanfiction.
+Spoiler—the letter "I" MIGHT be
+based on a certain ruggedly
+handsome mole.<delay frames="40" /> Wink, wink.<endTag a="100" b="5" /></message>
+	<message label="064_02" attrib="00 00 13"><tag a="100" b="5" />Ya know how people say <delay20 />"I could care
+less" when what they really mean
+<delay8 />is that they COULDN'T care less?<pageBreak />You know, <delay8 />'cause their care tank's
+empty? <delay20 />That bugs me.<delay20 /> But I'm doin'
+yoga 'n stuff.<delay frames="40" /> Tryin' to get centered.<endTag a="100" b="5" /></message>
+	<message label="064_03" attrib="00 00 13"><tag a="100" b="5" />You're using the <colour id="1" />Nook Stop<colour id="65535" /> in
+Resident Services every day to earn
+miles, right?<delay frames="40" /> That's, like, the basics.<endTag a="100" b="5" /></message>
+	<message label="2001" attrib="00 00 13"><tag a="100" b="5" />Heh. Somethin' seem different?<delay frames="30" />
+I figured you'd notice.<pageBreak />Yeah, <delay20 />you're one sharp
+cookie, <tag a="110" b="1" />.<pageBreak />Here's the skinny. <colour id="3" />Rese<colour id="65535" /><tag a="110" b="0" />the, uh,
+service operator<delay20 /> is sorta on a break
+right now.<pageBreak />I'm stepping in for him. <delay20 />Think of me
+as a substitute teacher, if ya like.<pageBreak />I ain't what you'd call <delay8 />a high-society
+mole, so sorry if I'm a bit, uh,<delay frames="40" /> rough
+around the edges.
+Now then, <delay8 />ahem<tag a="110" b="0" /><endTag a="100" b="5" /></message>
+</msbt>

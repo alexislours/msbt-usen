@@ -1,0 +1,16 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" /><delay20 />Are you on a walk to look at the
+snow too?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Snowy days make me kind of,<delay8 />
+I don't know<tag a="110" b="0" /><delay20 /><anim id="Shaking" target="actor" targetSpec="" />nervous?<delay20 /> I mean<tag a="110" b="0" />
+anything could be under that snow<tag a="110" b="0" /><pageBreak /><delay20 /><anim id="Aha" target="actor" targetSpec="" /><delay20 />Anything.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />We keep seeing each other today!<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />It's a fab day to be outside, isn't it,
+<tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hi!<delay40 /> Isn't it beautiful how the snow
+sparkles? <delay20 />Imagine me, onstage,
+<anim id="SmugFace" target="actor" targetSpec="" /><delay20 />sparkling like the snow!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />When <tag a="110" b="8" /> is covered
+in snow<tag a="110" b="0" /><anim id="BigSmile" target="actor" targetSpec="" /><delay20 />it's pretty easy to track
+someone's movements.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

@@ -1,0 +1,11 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />I figured you'd be back. <delay frames="40" /><anim id="ShyBoy" target="actor" targetSpec="" />My house
+has always been more of a hangout
+for my pals. <delay20 />Who needs privacy?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You're here an awful lot today,
+<tag a="110" b="5" />.<delay frames="40" /> <anim id="TakenAback" target="actor" targetSpec="" />Wait,<delay20 /> is this my
+house or yours?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Welcome home!<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />Ha!<delay20 /> I'm just giving
+you a hard time. <delay20 />Seriously, I don't
+care how often you show up.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

@@ -1,0 +1,22 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Say, <delay8 />did you hear the rumor?<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />
+Well,<delay8 /> apparently <tag a="115" b="1" arg="0xcd00" />
+is sick!
+<anim id="Nodding" target="actor" targetSpec="" />If you have a spare moment,<delay8 />
+you might stop by and check on <gender3 m="him" f="her" />.<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />
+I'm sure it would cheer <gender3 m="him" f="her" /> right up.</message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I talked to <tag a="115" b="1" arg="0xcd00" /> today,<delay8 />
+but <gender3 m="he" f="she" /> seemed a little<tag a="110" b="0" />off.<delay20 /> <anim id="Confused" target="actor" targetSpec="" />I'm a bit
+worried <gender3 m="he" f="she" /> might have a fever.
+<anim id="Thinking" target="actor" targetSpec="" />I hate to impose<tag a="110" b="0" /><delay8 /><anim id="Greeting" target="actor" targetSpec="" />but could you stop
+by <tag a="115" b="1" arg="0xcd00" />'s house and
+make sure the poor dear is OK?</message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I wonder if <tag a="115" b="1" arg="0xcd00" /> has
+come down with something?<delay40 /> <anim id="Worried" target="actor" targetSpec="" /><gender3 m="He" f="She" />
+looked so pale when I saw <gender3 m="him" f="her" /> today.<pageBreak /><anim id="Confused" target="actor" targetSpec="" />I'm really quite worried about the
+poor dear. <delay20 /><anim id="EmotEnd" target="actor" targetSpec="" />Say, <tag a="110" b="3" />,<delay8 />
+<anim id="QuestionMark" target="actor" targetSpec="" />could you go check on <gender3 m="him" f="her" />?
+<anim id="Greeting" target="actor" targetSpec="" />You don't have to,<delay8 /> but it would give
+me peace of mind and, no doubt,<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />
+cheer <tag a="115" b="1" arg="0xcd00" /> right up.</message>
+</msbt>

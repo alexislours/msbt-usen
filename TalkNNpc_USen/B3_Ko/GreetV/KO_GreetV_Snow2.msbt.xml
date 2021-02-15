@@ -1,0 +1,12 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="ColdChill" target="actor" targetSpec="" />Heya, kiddo. <delay20 />Cold enough for ya?<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Heya. <delay20 />Nice weather if you're a
+snowperson, eh?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Sneezing" target="actor" targetSpec="" /><10_10 /><size value="150" />Aaah-<delay8 />CHOO!<delay frames="20" /><size value="100" />
+<10_9 />Urghh, this cold<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, kiddo.<delay20 /> Make sure you stay
+warm. <delay frames="40" /><anim id="Negative" target="actor" targetSpec="" />Wouldn't want a cold to
+catch you!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Look at you,<delay20 /> bravin' the elements.<delay40 />
+You're a hearty one,<delay20 /> <tag a="110" b="5" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

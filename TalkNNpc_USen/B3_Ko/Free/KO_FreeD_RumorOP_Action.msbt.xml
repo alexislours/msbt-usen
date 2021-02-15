@@ -1,0 +1,257 @@
+<msbt attribsize="8">
+	<message label="000" attrib="00 00 00 00 00 00 00 00">Have you <anim id="QuestionMark" target="actor" targetSpec="" />had a chance to meet that
+<tag a="115" b="0" arg="0xcd00" /> character yet?<delay frames="40" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Just wonderin' if you knew what
+they're like,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />That reminds me<delay8 /><tag a="110" b="0" /> <anim id="Grin" target="actor" targetSpec="" />You heard the
+latest about <tag a="115" b="0" arg="0xcd00" />?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />You hear what <tag a="115" b="0" arg="0xcd00" /> got
+up to the other day?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Can't remember the last time I saw
+<tag a="115" b="0" arg="0xcd00" /> around here<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />If you get a chance,<delay20 /> <anim id="Worried" target="actor" targetSpec="" />tell 'em to drop
+by and say "Hey,"<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh—<delay20 />I saw <tag a="115" b="0" arg="0xcd00" /> today.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Dunno what they were up to exactly,<delay20 />
+but they were doin' it with a lotta
+pep in their step,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />I saw <tag a="115" b="0" arg="0xcd00" /> yesterday.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Looked busy though,<delay20 /> so I tried not to
+<anim id="FaintSmile" target="actor" targetSpec="" />get in their way,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Haven't seen that <tag a="115" b="0" arg="0xcd00" />
+character around lately.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Wonder why not?<delay40 /> <anim id="Serious" target="actor" targetSpec="" />Hope they're havin'
+fun wherever they are,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />So,<delay20 /> <tag a="115" b="0" arg="0xcd00" /> was just here
+from <tag a="115" b="5" arg="0xcd00" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Last time I saw <tag a="115" b="0" arg="0xcd00" /><delay20 />
+from <tag a="115" b="5" arg="0xcd00" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Seems like it's been a real long while
+since <tag a="115" b="0" arg="0xcd00" /> dropped by.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Guess they must be busy with their
+life back on <tag a="115" b="5" arg="0xcd00" />.<pageBreak />Anyway,<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />here's hopin' we see 'em
+again soon,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="023" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />You're a friend of <anim id="EmotEnd" target="actor" targetSpec="" /><tag a="115" b="0" arg="0xcd00" />
+from <tag a="115" b="5" arg="0xcd00" /><delay20 />?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />Nice of 'em to come all the way here
+to visit.<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Reckon the two of you must
+be good buddies,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="024" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, ain't you friends with that
+<tag a="115" b="0" arg="0xcd00" /><delay20 /> who was here
+the other day?<anim id="EmotEnd" target="actor" targetSpec="" />
+<anim id="Thinking" target="actor" targetSpec="" />Maybe you know why they haven't
+visited us from <tag a="115" b="5" arg="0xcd00" />
+in a while,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />So,<delay20 /> that <tag a="115" b="0" arg="0xcd00" /> character
+came all the way here to spend
+time with you,<delay20 /> <tag a="110" b="5" />?
+<anim id="Thinking" target="actor" targetSpec="" />Don't reckon I know anyone from
+<tag a="115" b="5" arg="0xcd00" /><delay20 /> who might do
+the same for me<delay8 /><tag a="110" b="0" /></message>
+	<message label="026" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Been a while since I've seen that
+<tag a="115" b="0" arg="0xcd00" /> around here.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Wonder what's kept 'em so busy<delay20 /> back
+on <tag a="115" b="5" arg="0xcd00" />?</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00">Sounds like they were busy around
+here for hours.<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Reckon they must've
+been havin' fun,<delay20 /> <tag a="110" b="5" />.<pageBreak />What they got up to,<anim id="Negative" target="actor" targetSpec="" /><delay20 /> I couldn't say.<delay40 />
+<anim id="Thinking" target="actor" targetSpec="" />I'll have to remember to ask 'em,<delay20 />
+next time we cross paths.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Rumor has it that they nearly fished
+our waters empty,<delay20 /> <tag a="110" b="5" />!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Wonder if they'd be willin' to give an
+old cuss a few anglin' pointers<delay8 /><tag a="110" b="0" />
+<anim id="Grin" target="actor" targetSpec="" />Probably not for free,<delay20 /> huh?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Heard tell they caught themselves
+a whole mess of bugs,<delay20 /> <tag a="110" b="5" />.<pageBreak />Just hope they left a few critters<delay20 /> for
+the rest of us to catch.<delay40 /> It sure would
+<anim id="WrySmile" target="actor" targetSpec="" />bug me<delay20 /> if they didn't.<delay frames="50" /> <anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />I hear they combed our seashore
+nearly clean of shells!<delay frames="40" /> <anim id="Thinking" target="actor" targetSpec="" />Wonder why
+they needed so many,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" />
+<anim id="Nodding" target="actor" targetSpec="" />I pick up my share of shells if they
+catch my eye,<delay20 /> <anim id="Serious" target="actor" targetSpec="" />but never THAT many.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Heard they really got into clammin'
+along the shore here,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Wonder if they're planning to use
+all them clams for bait,<delay20 /> or if they're
+fixin' <anim id="FaintSmile" target="actor" targetSpec="" />to make some tasty chowder?</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Keep hearin' tales of their slingshot
+skills.<delay40 /> <anim id="Pardon" target="actor" targetSpec="" />Sounds like they were droppin'
+balloons left and right,<delay20 /> <tag a="110" b="5" />!
+<anim id="Worried" target="actor" targetSpec="" />How'd our peaceful island<delay20 /> get turned
+into a wild-west shootin' gallery?</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Apparently they were seen wishin' up
+a storm<delay20 /> on some shootin' stars<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Sure hope they thought to use one
+to wish me luck,<delay20 /> <tag a="110" b="5" />.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />Every little bit helps!</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I heard they were shaking trees all
+over the island,<delay20 /> so <anim id="Nodding" target="actor" targetSpec="" />I did my best to
+keep my distance,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Didn't want to be anywhere
+nearby<delay20 /> when <anim id="Restless" target="actor" targetSpec="" />they shook loose
+a wasp nest<delay8 /><tag a="110" b="0" /></message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I heard they took an axe <delay20 />to a lot of
+our trees<delay20 /> and <anim id="Thinking" target="actor" targetSpec="" />started wonderin'<delay20 />
+what they needed all the wood for.
+<anim id="EmotEnd" target="actor" targetSpec="" />Just wanna know if I should be on
+the lookout<delay20 /> for <anim id="Grin" target="actor" targetSpec="" />some new wooden
+work of art is all,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Rumor is that they're the one<delay20 /> who
+was choppin' down trees all over
+the island,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" />
+<anim id="Thinking" target="actor" targetSpec="" />Suppose they might've been doin' it
+for stress relief?<delay40 /> If that's what it was
+all about,<delay20 /> <anim id="WrySmile" target="actor" targetSpec="" />they must be relaxed now.</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I hear they were busy plantin' stuff
+all over our island,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Seein' as they worked so hard to
+beautify our island,<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />we should at
+least try to water the flowers.</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Heard they spent a lot of time
+waterin' our flowers for us.<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Nice gesture,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Must've been feelin' extra dramatic,<delay20 />
+'cause everyone says <anim id="Pardon" target="actor" targetSpec="" />they were
+chewin' some serious scenery.
+<anim id="Negative" target="actor" targetSpec="" />Nothin' wrong with reactin' to stuff.<delay40 />
+<anim id="OhGeez" target="actor" targetSpec="" />Maybe just don't get carried
+away, <tag a="110" b="6" />.</message>
+	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />They must've been bitten hard by the
+DIY bug.<delay40 /> <anim id="Pardon" target="actor" targetSpec="" />Heard they were super busy
+craftin' up a storm,<delay20 /> <tag a="110" b="5" />!
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Wonder what they made<delay8 /><tag a="110" b="0" /></message>
+	<message label="117" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Heard they ended up with a whole
+mess of busted tools,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Probably a sign they were workin'
+too hard,<delay20 /> if you ask me.</message>
+	<message label="118" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Guess they were holed up indoors
+the whole time. <anim id="Thinking" target="actor" targetSpec="" />Explains why I never
+ran into 'em,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />It's a wonder they didn't go stir crazy
+in there.<delay40 /> Pretty sure I would.</message>
+	<message label="119" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Heard they spent a bunch of time
+doin' stuff outdoors,<delay20 /> <tag a="110" b="5" />.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />Good for them,<delay20 /> I say!
+<anim id="FaintSmile" target="actor" targetSpec="" />Never a bad idea to get out in the
+fresh air.<delay40 /> <anim id="OhGeez" target="actor" targetSpec="" />Who wants to be cooped up
+at home all the time?<delay40 /> Not this guy.</message>
+	<message label="120" attrib="00 00 00 00 00 00 00 00"><anim id="Silent" target="actor" targetSpec="" />There's a rumor that they were
+sneakin' around<delay20 /> and <anim id="Pardon" target="actor" targetSpec="" />diggin' pits
+all over the place,<delay20 /> <tag a="110" b="5" />.
+<anim id="Serious" target="actor" targetSpec="" />A word to the wise:<delay20 /> Watch where
+you're steppin' around here.</message>
+	<message label="121" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Rumor is they kept fallin' into pits.<delay frames="40" />
+Maybe I ain't one to talk,<anim id="OhGeez" target="actor" targetSpec="" /><delay20 /> but how
+clumsy can you be,<delay20 /> <tag a="110" b="5" />?
+<anim id="Worried" target="actor" targetSpec="" />Hope they've climbed out by now<delay8 /><tag a="110" b="0" /></message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Heard they were busy redecoratin'.<delay40 />
+<anim id="Thinking" target="actor" targetSpec="" />Explains all the loud bangs and
+crashes<delay20 /> comin' from their place.
+<anim id="Worried" target="actor" targetSpec="" />At least I hope it does,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="123" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Heard they were busy designin'
+somethin' or other on their phone<delay20 /> for
+a good long while,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Silent" target="actor" targetSpec="" />Or whatever it is you kiddos<anim id="OhGeez" target="actor" targetSpec="" /><delay20 /> are
+always fussin' with on them things.</message>
+	<message label="124_01" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Good thing I had some free time,<delay20 />
+'cause they were in the mood
+to chat.<delay40 />
+<anim id="Pardon" target="actor" targetSpec="" />Talked my ears off,<delay20 /> <tag a="110" b="5" />!
+<anim id="Negative" target="actor" targetSpec="" />Not that I'm complainin',<delay20 /> mind you.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />Feel free to talk at me whenever.</message>
+	<message label="124_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Heard they spent a while chattin'
+to <tag a="115" b="1" arg="0xcd00" />,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Not that I'm jealous<delay20 /> or nothin'<delay8 /><tag a="110" b="0" /></message>
+	<message label="125" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Everyone's still buzzin' about how
+they stopped to chat<delay20 /> with dang near
+all of us around here,<delay20 /> <tag a="110" b="5" />.
+<anim id="Worried" target="actor" targetSpec="" />Wish I could ever be that social<delay8 /><tag a="110" b="0" /></message>
+	<message label="126_01" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Apparently they got themselves
+stung<delay20 /> by an angry swarm of wasps.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Sounds like they were goin' around
+shakin' trees,<delay20 /> and that came back to
+bite 'em.<delay frames="50" /> <anim id="Pardon" target="actor" targetSpec="" />Or sting em,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="126_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />They messed with the wrong wasps<delay20 />
+and got themselves stung but good.<delay frames="40" />
+<anim id="Worried" target="actor" targetSpec="" />Must be plenty sore,<delay20 /> <tag a="110" b="5" />.
+<anim id="Silent" target="actor" targetSpec="" />Watch out if you're shakin' trees.</message>
+	<message label="127" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Heard a rumor they dug up a great
+big pile of fossils,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Grin" target="actor" targetSpec="" />No wisecracks about how they
+should throw me on the pile,<delay20 /> OK?</message>
+	<message label="128" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I couldn't figure out why I kept on
+hearin' loud clangs.<delay40 /> <anim id="Serious" target="actor" targetSpec="" />Guess I heard
+them<delay20 /> hittin' rocks with their shovel.
+<anim id="Thinking" target="actor" targetSpec="" />Must've been tryin' to break loose
+somethin' useful,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="129" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Rumor is they were seen buryin'
+perfectly good Bells,<delay20 /> <tag a="110" b="5" />.
+<anim id="Worried" target="actor" targetSpec="" />Can you imagine?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Must be a better way to set aside
+Bells.<delay40 /> <anim id="OhGeez" target="actor" targetSpec="" />I'd be worried about forgettin'
+where I buried 'em,<delay20 /> if it was me.</message>
+	<message label="130" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Heard they picked the island nearly
+clean of <tag a="110" b="7" arg="0xcd01" />,<delay20 /> <tag a="110" b="5" />!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Hope they left a few around for us.<delay40 />
+I like a nice <tag a="110" b="7" arg="0xcd00" /> for breakfast<delay8 /><tag a="110" b="0" /></message>
+	<message label="131" attrib="00 00 00 00 00 00 00 00">I heard <anim id="Negative" target="actor" targetSpec="" />they were messin' with their
+phone<delay20 /> every time anyone saw 'em.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You kiddos can't ever seem to put
+down your phones,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="132" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Apparently they couldn't seem to
+stop playin'<delay20 /> with their dang phone.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />Can't be good for their eyes,<delay20 /> starin'
+at <anim id="Silent" target="actor" targetSpec="" />that little screen,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="133" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Seems they were doin' a lot of road
+buildin' around here,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Nice thing to do for the community!<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />I try to do my part<delay20 /> by patrollin' our
+island at night for troublemakers.</message>
+	<message label="134" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Heard they dug out a whole bunch
+of new waterways,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Wish I had that kind of energy.<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />Just hearin' about all their work<delay20 />
+made me want to take a nap.</message>
+	<message label="135" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I hear they were busy<delay20 /> buildin' cliffs
+all over the place,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Pardon" target="actor" targetSpec="" />Seen any new ones around?</message>
+	<message label="136" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Sounds like they were doin' some
+serious fence buildin',<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Didn't realize <anim id="EmotEnd" target="actor" targetSpec="" />that <tag a="115" b="0" arg="0xcd00" /> character<delay20 /> was so handy<delay8 /><tag a="110" b="0" /></message>
+	<message label="137" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I heard they were shufflin' furniture
+all around outdoors.<delay frames="30" /> <anim id="Thinking" target="actor" targetSpec="" />Not sure what
+to make of that,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="138" attrib="00 00 00 00 00 00 00 00">Rumor is<delay20 /> <anim id="Pardon" target="actor" targetSpec="" />they've managed to rack up
+a whole mess of miles,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I'd be lyin' if I said I ain't envious.<delay40 />
+Haven't managed <anim id="OhGeez" target="actor" targetSpec="" />to accumulate
+much of anythin',<delay20 /> myself<delay8 /><tag a="110" b="0" /></message>
+	<message label="139" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Rumor is they paid back their loan to
+<colour id="3" />Tom Nook<colour id="65535" /><delay20 /> already!<delay40 /> Free and clear.<delay40 />
+<anim id="Sighing" target="actor" targetSpec="" />Must be nice,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" />
+<anim id="Serious" target="actor" targetSpec="" /><colour id="3" />Tom Nook <colour id="65535" />must be gratified too.<delay40 />
+<anim id="AbsentMindedness" target="actor" targetSpec="" />Hope I can find out how that feels<delay20 />
+for myself one of these days.</message>
+	<message label="140" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Sounds like they did a lot of business
+at <colour id="1" />Nook's Cranny<colour id="65535" />,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Wonder what they were up to
+there—<delay20 />buyin', sellin',<delay20 /> or both?</message>
+	<message label="141" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Guess they were the one who chose
+our island tune the other day.<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Did you notice,<delay20 /> <tag a="110" b="5" />?
+They've got good taste!</message>
+	<message label="142" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Heard they were the one who
+changed the flag<delay20 /> flyin' outside of
+<colour id="1" />Resident Services <colour id="65535" />the other day.
+<anim id="Serious" target="actor" targetSpec="" />Might've missed the change,<delay20 /> except
+I'm the type <anim id="SmugFace" target="actor" targetSpec="" />who pays attention to
+that sort of thing,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="143" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Heard a crazy story sayin' they got a
+magic wand<delay20 /> that lets 'em change
+outfits and stuff,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="144" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Heard they were showin' off their
+<tag a="50" b="0" arg="0x100 0xcd03" />vaulting pole skills,<delay20 /> jumpin' to and 
+fro <anim id="Smiling" target="actor" targetSpec="" />like it was nothin',<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="145" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Rumor is they were buyin' up turnips
+like they were goin' out of style.<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Wait—are they?<delay frames="40" /> <anim id="Frantic" target="actor" targetSpec="" />You'd tell me if they
+were, right?<delay40 /> I ain't exactly a savvy
+stalk-market investor,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="146" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />I heard they sold all their turnips<delay20 /> at
+just the right time to clear a nice,
+tidy profit,<delay20 /> <tag a="110" b="5" />!<pageBreak /><anim id="Outraged" target="actor" targetSpec="" />How come I can't manage to do that?</message>
+	<message label="147" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />They were overheard chattin' away at
+someone around here,<delay20 /> <tag a="110" b="5" />.
+<anim id="Eh" target="actor" targetSpec="" />Wait,<delay20 /> was that somebody you?<10_4 />
+<anim id="Pardon" target="actor" targetSpec="" />'Cause if it was,<delay20 /> you sure got
+an earful!</message>
+	<message label="148" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Everybody's talkin' about how they
+went on a weedin' tear<delay20 /> around here
+the other day,<delay20 /> <tag a="110" b="5" />.
+<anim id="Serious" target="actor" targetSpec="" />If I tried to pull that many weeds up,<delay20 />
+you better bet that <anim id="Worried" target="actor" targetSpec="" />my back would be
+sore as all get-out the next day<delay8 /><tag a="110" b="0" /></message>
+	<message label="149" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I hear tell they changed up their
+hairstyle completely.<delay40 /> <anim id="QuestionMark" target="actor" targetSpec="" />Have you
+seen 'em yourself,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="150" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Heard they switched up their look.<delay40 />
+<anim id="Worried" target="actor" targetSpec="" />Just hope I recognize 'em<delay20 /> next time
+I run into 'em,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="151" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Sounds like they were a regular
+shutterbug,<delay20 /> snappin' zillions of
+photos around here,<delay20 /> <tag a="110" b="5" />.
+<anim id="FaintSmile" target="actor" targetSpec="" />If they'd asked,<delay20 /> I would've <anim id="SmugFace" target="actor" targetSpec="" />been
+happy to pose for a few<delay8 /><tag a="110" b="0" /></message>
+</msbt>

@@ -1,0 +1,51 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />I knew you'd find it,<delay20 /> <tag a="110" b="5" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />If you let me have it,<delay20 />
+I'll open it up for you.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />Nice going, <tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Let me have your treasure for a
+moment,<delay20 /> and I'll open it for you.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Clapping" target="actor" targetSpec="" />You dug it up before time ran out!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Could I have it,<delay20 /> so I can open it
+up and show you what's inside?</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />This is the moment of truth<delay8 /><tag a="110" b="0" />
+<anim id="FaintSmile" target="actor" targetSpec="" />What do you think's in here?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />This is kind of exciting,<delay20 /> isn't it?</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />So,<delay20 /> what do you think is inside?</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Congratulations,<delay20 /> all yours now!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />,<delay20 /> your prize is
+<tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="4" arg="0x0" />!
+<anim id="Smiling" target="actor" targetSpec="" />You found it,<delay20 /> so that's your prize!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh<delay8 /><tag a="110" b="0" />is something wrong?</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Are you teasing me?</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Curious about what's inside the
+treasure?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Maybe we should get
+right to opening it,<delay20 /> <tag a="110" b="5" />.
+<anim id="Nodding" target="actor" targetSpec="" />Here,<delay20 /> let me have it<delay8 /><tag a="110" b="0" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Hope you had as much fun
+as I did,<delay20 /> <tag a="110" b="3" />!</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks for playing with me.<delay40 />
+That was fun,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Have a good time?<delay20 /> I know I did!<delay40 />
+Let's play again sometime,<delay20 /> OK?</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Awww, that's too bad!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />You didn't find the treasure in time,<delay20 />
+so it looks I'm the winner this game.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />Thanks for playing with me, though!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />So<delay8 /><tag a="110" b="0" />you ran out of time,<delay20 /> which
+means I'm the winner this time.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Hope you had fun anyway.<delay40 />
+Let's play again sometime.</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Sorry<delay8 /><tag a="110" b="0" />you ran out of time.<delay40 />
+<anim id="OhGeez" target="actor" targetSpec="" />That means I won this round.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Thank you for playing with me.<delay40 />
+Next time,<delay20 /> I'm sure you'll win.</message>
+	<message label="300" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I waited for you to come back,<delay20 />
+but then <anim id="Serious" target="actor" targetSpec="" />your time ran out<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Maybe we can play again sometime?</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I got a little worried about you
+when you never came back<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />Anyway,<delay20 /> you ran out of time.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Maybe some other time we
+can try and play this again?</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I waited until time ran out,<delay20 />
+but you never came back.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Anyway,<delay20 /> our treasure hunt is over.
+<anim id="Hesitate" target="actor" targetSpec="" />Hope we can play again sometime.</message>
+	<message label="401" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Oh,<delay20 /> <tag a="110" b="3" />,<delay20 /> you were so
+close!<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />But you're still out of time.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Since that means I won,<delay20 /> I'll take that
+off your hands now,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="402" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Hope you can find it sooner next
+time!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Thanks for playing with me.</message>
+</msbt>

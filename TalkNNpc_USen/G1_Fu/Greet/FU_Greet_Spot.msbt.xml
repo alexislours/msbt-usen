@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Look who it is—<delay20 /><tag a="110" b="3" />!<delay frames="40" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Nice to see you here,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey there,<delay20 /> <tag a="110" b="3" />!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Hope it doesn't BUG you that
+I'm in here too,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Come dive on in,<delay20 /> <tag a="110" b="3" />!<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />Water's fine in here,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<pageBreak /><anim id="Grin" target="actor" targetSpec="" />Guess I wasn't expecting to run into
+the living in here,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="006" attrib="00 00 0c 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Well hey there,<delay20 /> <tag a="110" b="3" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />Out shopping too,<delay20 /> <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh—<delay20 /><tag a="110" b="3" />!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Didn't expect to run into you here<delay8 /><tag a="110" b="0" /><delay frames="30" />
+<anim id="Blushing" target="actor" targetSpec="" />I'm a little shy about trying clothes
+on<delay20 /> in front of anyone,<delay20 /> <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

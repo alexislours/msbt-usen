@@ -1,0 +1,93 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 01 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I have a little proposal for you,
+my dear. <delay20 />Let's play a game for <anim id="Greeting" target="actor" targetSpec="" />my
+<tag a="125" b="0" arg="0x0" />!<pageBreak />It's simple, really.<delay frames="13" /> <anim id="Explain" target="actor" targetSpec="" />If you win,<delay frames="13" /> you get
+my <tag a="125" b="0" arg="0x0" /> as a
+present, <tag a="110" b="6" />.</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00">Let's do this!</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">Another time.</message>
+	<message label="002" attrib="00 00 01 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Aha!<delay8 /> I thought you'd say that!<delay frames="40" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Now,<delay frames="13" /> before we get started,<delay frames="13" /><anim id="QuestionMark" target="actor" targetSpec="" />
+do you know the rules?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00">No. Please tell me.</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00">I know them!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Ah well, <delay frames="13" />if you say so.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />I won't
+push the issue,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> but if you ever
+feel like playing, do let me know.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Wonderful!<delay frames="13" /> Let's get started!<delay frames="40" />
+<anim id="NpcShuffle" target="actor" targetSpec="" />First,<delay20 /> shuffle the cards<delay8 /> really well<tag a="110" b="0" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Next, let's check your answer.</message>
+	<message label="006_01" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Well, well! <delay frames="13" />It seems you're quite
+good at this.<delay20 /> And, as promised, my
+<tag a="125" b="0" arg="0x0" /> is yours.
+<anim id="BigSmile" target="actor" targetSpec="" />Here you go, <tag a="110" b="6" /><anim id="FaintSmile" target="actor" targetSpec="" />.</message>
+	<message label="006_02" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hmm<tag a="110" b="0" />I had no idea you were so
+good at this, <tag a="110" b="6" />.<pageBreak />Well,<anim id="Smiling" target="actor" targetSpec="" /> since you won, here is my<delay8 />
+<tag a="125" b="0" arg="0x0" />,<delay frames="13" />
+just as I promised.</message>
+	<message label="006_03" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />My goodness! I win this round!<delay frames="40" />
+I'm sorry,<delay frames="13" /><anim id="Negative" target="actor" targetSpec="" /> but that means no
+present for you, <tag a="110" b="6" />.</message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />That was SO much fun, <delay frames="13" />I don't even
+mind losing.<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> I do hope we play
+again sometime.</message>
+	<message label="007_03" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />I must be sure to thank Lady Luck
+for smiling on me today.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Aha! <delay frames="13" />I thought you might be
+interested!<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />Well then, let us
+begin right away!
+<anim id="Eh" target="actor" targetSpec="" />What's this?<delay20 /> Your pockets are full,
+aren't they?<delay20 /> <anim id="Negative" target="actor" targetSpec="" />I wouldn't be able
+to give you a gift, it seems.
+<anim id="Greeting" target="actor" targetSpec="" />Go get yourself organized,<delay frames="13" />
+and after that<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> we can play
+our game, <tag a="110" b="6" />.</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Alrighty then, <delay frames="13" />the rules are
+quite simple.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You see how each card has a symbol
+for a different suit on it<tag a="110" b="0" /><colour id="6" />♥heart<colour id="65535" />,
+<colour id="6" />♦diamond<colour id="65535" />,<colour id="6" /> <colour id="65535" /><colour id="7" />♠spade<colour id="65535" />, or <colour id="7" />♣club<colour id="65535" />?
+Well,<delay frames="13" /><anim id="Nodding" target="actor" targetSpec="" /> I am going to pick one card.<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" />Then it is up to you to guess
+which type of card it is.
+<anim id="EmotEnd" target="actor" targetSpec="" />If you guess correctly,<delay frames="13" /><anim id="Greeting" target="actor" targetSpec="" /> then my
+<tag a="125" b="0" arg="0x0" /> is yours.<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Simple enough, yes?
+<anim id="NpcShuffle" target="actor" targetSpec="" />You look like you're ready for some
+fun, <delay frames="13" />so let's give this a go!</message>
+	<message label="101" attrib="00 00 05 00 00 00 00 00">I have picked a card.<delay frames="13" /> <anim id="Serious" target="actor" targetSpec="" />Now focus.<delay20 />
+What kind do you think it is<tag a="110" b="0" /><delay20 /><anim id="Smiling" target="actor" targetSpec="" /><colour id="6" />♥heart<colour id="65535" />,
+<colour id="6" />♦diamond<colour id="65535" />,<colour id="6" /> <colour id="65535" /><colour id="7" />♠spade<colour id="65535" />, or <colour id="7" />♣club<colour id="65535" />?</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00"><colour id="6" />♥Heart<colour id="65535" /></message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00"><colour id="6" />♦Diamond<colour id="65535" /></message>
+	<message label="101_c" attrib="00 00 00 00 00 00 00 00"><colour id="7" />♠Spade<colour id="65535" /></message>
+	<message label="101_d" attrib="00 00 00 00 00 00 00 00"><colour id="7" />♣Club<colour id="65535" /></message>
+	<message label="102_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Correct! <delay frames="13" />The card was a <tag a="140" b="14" arg="0xcd00" />!<delay frames="40" />
+<anim id="Clapping" target="actor" targetSpec="" />Bravo, darling. Bravo!</message>
+	<message label="102_02" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />A good effort indeed<tag a="110" b="0" /><delay frames="13" />but incorrect.<delay20 />
+<anim id="Worried" target="actor" targetSpec="" />The correct answer is <delay frames="13" /><tag a="140" b="14" arg="0xcd00" />.</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00">Alrighty,<delay8 /><anim id="Greeting" target="actor" targetSpec="" /> here's how it works<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />You see how each card has a symbol
+for a different suit on it<tag a="110" b="0" /><colour id="6" />♥heart<colour id="65535" />,
+<colour id="6" />♦diamond<colour id="65535" />,<colour id="6" /> <colour id="65535" /><colour id="7" />♠spade<colour id="65535" />, or <colour id="7" />♣club<colour id="65535" />?
+<anim id="Nodding" target="actor" targetSpec="" />I am going to pick one of the cards.<delay20 />
+Then<delay frames="13" /><anim id="FaintSmile" target="actor" targetSpec="" /> it is up to you to guess what
+the color of the card is!
+<anim id="EmotEnd" target="actor" targetSpec="" />If you guess right, well, then<delay frames="13" /> <anim id="BigSmile" target="actor" targetSpec="" />my
+<tag a="125" b="0" arg="0x0" /> is yours!<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />Easy peasy, yes?
+<anim id="NpcShuffle" target="actor" targetSpec="" />Good!<delay20 /> So let us begin<tag a="110" b="0" /></message>
+	<message label="201" attrib="00 00 01 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Voila! I have picked a card.<pageBreak />Now tell me,<delay frames="13" /> <anim id="Hello" target="actor" targetSpec="" />is it <colour id="6" />red<colour id="65535" /> like my
+favorite high heels <delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />or <colour id="7" />black
+<colour id="65535" />like my favorite party dress?</message>
+	<message label="201_a" attrib="00 00 00 00 00 00 00 00"><colour id="6" />Red<colour id="65535" /></message>
+	<message label="201_b" attrib="00 00 00 00 00 00 00 00"><colour id="7" />Black<colour id="65535" /></message>
+	<message label="202_01" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />The card is a <tag a="140" b="14" arg="0xcd00" />!<delay frames="40" /> <anim id="Clapping" target="actor" targetSpec="" />And it's
+<colour id="6" />red <colour id="65535" />as a rose, my dear, so you
+got it right.</message>
+	<message label="202_02" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh dear.<delay frames="13" /> This card is a <tag a="140" b="14" arg="0xcd00" />.<delay frames="40" />
+Alas, that means it's <colour id="7" />black<colour id="65535" />, <delay frames="13" /><anim id="Negative" target="actor" targetSpec="" />so you
+got it wrong.</message>
+	<message label="202_03" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wow, it's a <tag a="140" b="14" arg="0xcd00" />!<delay frames="40" /> <anim id="Clapping" target="actor" targetSpec="" />That's <colour id="7" />black!<delay frames="13" />
+<colour id="65535" />Bravo! <delay frames="13" />You got it right!</message>
+	<message label="202_04" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh my. <delay frames="13" />This card is a <tag a="140" b="14" arg="0xcd00" />.<delay frames="40" />
+<anim id="Negative" target="actor" targetSpec="" />It's <colour id="6" />red<colour id="65535" />, so you got it wrong.</message>
+</msbt>

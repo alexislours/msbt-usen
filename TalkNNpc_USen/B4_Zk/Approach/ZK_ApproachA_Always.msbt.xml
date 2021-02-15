@@ -1,0 +1,15 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Yo!<delay8 /> I totally have something
+to tell you, but I can't remember
+what it is. <delay frames="40" /><anim id="Thinking" target="actor" targetSpec="" />So<tag a="110" b="0" /><tag a="110" b="5" />?</message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Heya! <delay20 />You need something?<10_4 />
+<anim id="TakenAback" target="actor" targetSpec="" />What—<delay20 />you looked like you needed
+something, <tag a="110" b="5" />!</message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa! <delay8 />When I saw your face just
+now, I forgot all of my problems!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I also developed an immediate and
+intense craving for a cold glass
+of <tag a="135" b="1" arg="0xcd00" />. <delay20 />Weird!</message>
+	<message label="004" attrib="00 00 00 01 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Yo!<delay8 /> I'm super glad to see you.<delay20 /><anim id="SmugFace" target="actor" targetSpec="" />
+You make it easy to forget about
+my crushing debts!</message>
+</msbt>

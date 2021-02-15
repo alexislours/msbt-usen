@@ -1,0 +1,14 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00">Hey, <anim id="Thinking" target="actor" targetSpec="" />does <tag a="115" b="1" arg="0xcd00" /> look<delay20 />
+out of it today?<delay frames="40" /> <anim id="Worried" target="actor" targetSpec="" />I wonder if
+<gender3 m="he's" f="she's" /> sick?<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I'm worried. <delay20 />Could you go check in
+on <gender3 m="him" f="her" />, <tag a="110" b="3" />?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I just saw <tag a="115" b="1" arg="0xcd00" />,<delay8 />
+and <gender3 m="he" f="she" /> looked like a cold
+jar of <tag a="135" b="3" arg="0xcd00" />.<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" /><gender3 m="He" f="She" /> might be sick, I bet!<delay frames="40" /><anim id="Serious" target="actor" targetSpec="" />
+<tag a="50" b="3" /><tag a="110" b="3" />,<delay frames="40" /> can you
+go visit <gender3 m="him" f="her" />?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />I heard <tag a="115" b="1" arg="0xcd00" /> is sick!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I'll bet <gender3 m="he's" f="she's" /> feeling lonely. <anim id="QuestionMark" target="actor" targetSpec="" />Can you
+go say hi? See how <gender3 m="he's" f="she's" /> doing?<delay40 /> <anim id="SmugFace" target="actor" targetSpec="" />I'm
+gonna get some snacks to take over.</message>
+</msbt>

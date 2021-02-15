@@ -1,0 +1,80 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 01 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, do you know which fruit this
+island is famous for, <tag a="110" b="5" />?</message>
+	<message label="001_a" attrib="04 00 00 00 00 00 00 00">I do.</message>
+	<message label="001_b" attrib="05 00 00 00 00 00 00 00">I don't.</message>
+	<message label="002" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="23" arg="0xd 0xe 0xf 0xffff" /></message>
+	<message label="003" attrib="00 00 00 01 00 00 00 00"><tag a="60" b="22" arg="0x10 0x11 0xffff 0xffff" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Ah! OK, then!<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />Eat your fill!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It's <tag a="110" b="7" arg="0xcd01" />!<delay frames="40" /><anim id="HappyDance" target="actor" targetSpec="" /> Eating <tag a="50" b="2" /><tag a="110" b="7" arg="0xcd01" />
+after <tag a="135" b="6" arg="0xcd00" /> is the best!</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You check out the island store over
+in <colour id="1" />Resident Services<colour id="65535" /> yet?<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />There's not much there now, but the
+place has got this cool "secret fort"
+feeling when you're in there.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Been over to <colour id="1" />Nook's Cranny<colour id="65535" />?<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />You can get a whole bunch of
+cool things there.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I got me some extra-heavy free
+weights and a tub of gourmet
+protein powder, <tag a="110" b="6" />!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />There is just too much awesome
+stuff for sale at <colour id="1" />Nook's Cranny<colour id="65535" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />It's super fun to just look around
+there.<delay frames="40" /> <anim id="Laughing" target="actor" targetSpec="" />And carrying your stuff
+home is great for the arms!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You hear <colour id="3" />Blathers<colour id="65535" /> wants to turn his
+tent into a <colour id="1" />museum<colour id="65535" /> someday? It's
+gonna be a serious contender.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Well, I THINK it will be<tag a="110" b="0" /><delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> You
+gotta be ambitious if you wanna
+be a winner, right?</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x15 0x16 0x17 0x19" /></message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1c00 0x1900 0xcd00" /></message>
+	<message label="022" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1d01 0x1900 0xcd00" /></message>
+	<message label="023" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="29" arg="0x1e02 0x1900 0xcd00" /></message>
+	<message label="025" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You been to the <colour id="1" />museum<colour id="65535" /> here yet?
+The exhibit room is huge, and there's
+so much stuff to see there!<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Huh? What do I do there?<delay frames="40" /> <anim id="ShyBoy" target="actor" targetSpec="" />Well, it's
+a good spot to hang out when I'm
+too sore from working out!</message>
+	<message label="028" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I aspire to be like the
+<tag a="135" b="13" arg="0x0" /> in
+the <colour id="1" />museum<colour id="65535" />.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />It's calm and cool, even underwater.<delay frames="60" />
+<anim id="Frantic" target="actor" targetSpec="" />Why can't I be more like that?!</message>
+	<message label="029" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Have you ever seen the
+<tag a="135" b="13" arg="0x1" /> in
+the <colour id="1" />museum<colour id="65535" />?
+<anim id="Scheming" target="actor" targetSpec="" />It gave me an idea for a special
+workout!<delay20 /> I haven't actually tried it
+out yet though, <tag a="110" b="5" />.</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="1" /><tag a="135" b="13" arg="0x2" /> is
+my favorite fossil in the <colour id="1" />museum<colour id="65535" />.<pageBreak /><anim id="Love" target="actor" targetSpec="" />What rugged, beautiful form!<delay20 /> It's got
+no muscles, but it still looks so cool!<delay frames="40" /><anim id="Frantic" target="actor" targetSpec="" />
+I'm jealous, <tag a="110" b="5" />!</message>
+	<message label="101" attrib="66 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Seeing you again really takes me
+back<tag a="110" b="0" /><delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Remember how we were
+always comparing muscles?</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x67 0x68 0x69" /></message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I've been doing my super-secret
+training routine every day since
+you left, <tag a="110" b="5" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />How 'bout you?<delay20 /> Still doing your
+strength training?<delay20 /> What's your
+bench weight up to?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Hmm<tag a="110" b="0" /> Now that I think about it,<delay frames="40" /><anim id="Blushing" target="actor" targetSpec="" />
+we never settled who was more
+built, did we?</message>
+	<message label="105" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />How about we settle the score right
+now?<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />We'll compare six-packs.
+You in, <tag a="110" b="5" />?</message>
+	<message label="105_a" attrib="6a 00 00 00 00 00 00 00">Oh, I'm in!</message>
+	<message label="105_b" attrib="6b 00 00 00 00 00 00 00">Yeaaaah, no thanks.</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />OK, you ready for this? My six-pack
+is<tag a="110" b="0" /><delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />actually a twelve-pack!
+Impressive, right?<pageBreak /><anim id="TakenAback" target="actor" targetSpec="" />Huh? You don't wanna take my word
+for it?<delay20 /> I thought we were friends!<pageBreak /><anim id="Fuming" target="actor" targetSpec="" />I swear! I counted a twelve-pack
+yesterday! For reals!<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Stop looking
+at me like that, <tag a="110" b="5" />.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />OK, fine. <delay20 />Don't believe me. <delay20 />Your loss.
+<10_4 /><anim id="Sighing" target="actor" targetSpec="" />But it's totally a twelve-pack!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh, barbells! You're no fun!<delay20 /> Not that
+I can blame you.<delay frames="40" /> <anim id="SmugFace" target="actor" targetSpec="" />I wouldn't wanna go
+up against these muscles either!</message>
+</msbt>

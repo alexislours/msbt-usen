@@ -1,0 +1,30 @@
+<msbt attribsize="8">
+	<message label="001" attrib="05 00 00 01 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hey, are you having company
+today, <tag a="110" b="6" />?</message>
+	<message label="002" attrib="05 00 00 01 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Hey, don't let me keep you from your
+company.<delay frames="40" /><anim id="Smiling" target="actor" targetSpec="" /> Go be a good host!</message>
+	<message label="003" attrib="05 00 00 01 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Looks like <tag a="110" b="8" /> has
+some company today.<delay frames="60" /><anim id="QuestionMark" target="actor" targetSpec="" /> Think
+they're into <tag a="135" b="6" arg="0xcd00" />?<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh! <delay20 />They're a friend of yours?<delay frames="40" />
+<anim id="Smiling" target="actor" targetSpec="" />Cool, <tag a="110" b="5" />!</message>
+	<message label="004" attrib="05 00 00 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I saw a stranger walking around a
+little while ago,<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />but that's your bud,
+right, <tag a="110" b="6" />?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6 0x7 0x8 0x9" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I sure hope visitors like our little
+island as much as I do,<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" /><tag a="110" b="5" />.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Assent" target="actor" targetSpec="" />Leave it to me, <tag a="110" b="3" />.<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />I can show 'em all the best spots on
+<tag a="110" b="8" />, <tag a="110" b="5" />!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />If your company drops by, I can show
+them a bunch of <tag a="110" b="8" />'s
+greatest attractions.
+<anim id="AbsentMindedness" target="actor" targetSpec="" />I wonder if I should show them my
+biceps or triceps first<tag a="110" b="0" /><delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> What am I
+saying?!<delay20 /> Obviously biceps are first!</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Rest assured, <tag a="110" b="3" />!
+I will show your company some 
+<tag a="110" b="10" />-style hospitality.
+<anim id="Thinking" target="actor" targetSpec="" />First they'll do some squats. Then
+push-ups, then some ab work<tag a="110" b="0" /><delay frames="40" />
+<anim id="HappyDance" target="actor" targetSpec="" />They're gonna be SOOO sore!</message>
+</msbt>

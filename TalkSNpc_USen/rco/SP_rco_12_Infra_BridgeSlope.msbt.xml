@@ -1,0 +1,244 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oho! Curious about bridges and
+inclines, eh?<delay20 /> Excellent! Because<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />with the renovation of Resident
+Services, we have something new for
+getaway-package participants.
+<anim id="Smiling" target="actor" targetSpec="" />This new service makes it easy and
+fun to add major projects such as
+bridges and inclines to the island.
+<anim id="WrySmile" target="actor" targetSpec="" />Major projects don't come cheaply,
+though, no, no!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />However, everyone who lives on the
+island can freely contribute toward
+the construction fees.
+<anim id="Smiling" target="actor" targetSpec="" />We can discuss your island hopes
+and dreams even if you don't quite
+have the funds together yet.
+<anim id="Worried" target="actor" targetSpec="" />Be advised, you can only have
+either a bridge or an incline under
+construction at any given time.
+<anim id="Smiling" target="actor" targetSpec="" />So consider your plans carefully
+before discussing them with me, hm?</message>
+	<message label="002" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Now<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> What would you like
+to discuss?</message>
+	<message label="002_a" attrib="00 00 00 00">Let's build a bridge.</message>
+	<message label="002_b" attrib="00 00 00 00">Let's make an incline.</message>
+	<message label="002_c" attrib="00 00 00 00">Demolish something.</message>
+	<message label="002_d" attrib="00 00 00 00">Nothing, thanks.</message>
+	<message label="003" attrib="06 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Bridges and inclines, hm?<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> How can I
+help you?</message>
+	<message label="003_a" attrib="00 00 00 00">Let's build a bridge.</message>
+	<message label="003_b" attrib="00 00 00 00">Let's make an incline.</message>
+	<message label="003_c" attrib="00 00 00 00">Demolish something.</message>
+	<message label="003_d" attrib="00 00 00 00">Not now.</message>
+	<message label="004" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Understood, understood.<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Do come
+back whenever you want to talk
+about<anim id="Greeting" target="actor" targetSpec="" /> bridges or inclines.</message>
+	<message label="101" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oho, you'd like a new bridge, hm?<delay frames="40" />
+Ah, yes.<anim id="Smiling" target="actor" targetSpec="" /> Bridges are a good way to
+connect land separated by rivers.</message>
+	<message label="102" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Go ahead and pick one from our
+catalog, please.</message>
+	<message label="103" attrib="02 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<10_4 />
+And you're sure about this? You
+want to proceed with this bridge?</message>
+	<message label="103_a" attrib="00 00 00 00">Yes, please!</message>
+	<message label="103_b" attrib="00 00 00 00">Actually, scratch that.</message>
+	<message label="104" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Excellent!<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> In that case,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> let's settle on
+a location next.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Use the <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />bridge marker kit<colour id="65535" /><anim id="Smiling" target="actor" targetSpec="" /> I've placed
+within your pockets to set aside
+some land for our bridge project.</message>
+	<message label="105" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Use your kit near a river<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> and you'll
+be able to imagine how a bridge
+will look.</message>
+	<message label="106" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Excellent! <delay20 />Or<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />maybe not?<delay20 />
+Your pockets are quite full at
+the moment, <tag a="110" b="1" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />I need to give you a special
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />bridge marker kit<anim id="Smiling" target="actor" targetSpec="" /><colour id="65535" /> so you can set
+aside a place for the new bridge.
+<anim id="EmotEnd" target="actor" targetSpec="" />If you would be so kind, make some
+room in your pockets,<anim id="Smiling" target="actor" targetSpec="" /> and then come
+back to talk about this with me again.</message>
+	<message label="107" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />My, my! Changed your mind?<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />It is a
+rather large project, after all.<delay8 /> <anim id="Smiling" target="actor" targetSpec="" />It's a
+good idea to think it through.</message>
+	<message label="108" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Oh my<tag a="110" b="0" /> It seems we already have
+<colour id="1" />8 bridges<colour id="65535" /> on this island.<delay20 /> That's about<delay8 />
+<anim id="Worried" target="actor" targetSpec="" />as many as our little isle can handle.
+<anim id="EmotEnd" target="actor" targetSpec="" />If you really want a new bridge,<delay20 /> we'll
+<anim id="Smiling" target="actor" targetSpec="" />need to <colour id="1" />demolish<colour id="65535" /> one of the existing
+ones first. Then we can talk!</message>
+	<message label="201" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oho, curious about setting up an
+incline?<anim id="Smiling" target="actor" targetSpec="" /> Ramps and stairs make it
+easier to ascend our cliffs! Yes, yes!</message>
+	<message label="202" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Go ahead and pick one out of our
+catalog, please.</message>
+	<message label="203" attrib="02 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<10_4 />
+And you want to proceed with
+the construction of this incline?</message>
+	<message label="203_a" attrib="00 00 00 00">Yes, please!</message>
+	<message label="203_b" attrib="00 00 00 00">Actually, scratch that.</message>
+	<message label="204" attrib="00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Excellent!<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> In that case,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> let's settle on
+a location next.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Use the <colour id="1" /><tag a="50" b="0" arg="0x200 0xcd03" />incline marker kit<colour id="65535" /><anim id="Smiling" target="actor" targetSpec="" /> I've placed
+within your pockets to set aside
+some land for our incline project.</message>
+	<message label="205" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />You'll want a decent amount of space
+to use it. And make sure you're
+standing near the <colour id="1" />base of the cliff<colour id="65535" />.
+<anim id="Smiling" target="actor" targetSpec="" />When you're ready, you'll be able to
+imagine what your new incline will
+look like.</message>
+	<message label="206" attrib="00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Excellent! <delay20 />Or<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />maybe not?<delay20 />
+<anim id="WrySmile" target="actor" targetSpec="" />Your pockets are quite full at
+the moment, <tag a="110" b="1" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />I need to give you a special
+<colour id="1" /><tag a="50" b="0" arg="0x200 0xcd03" />incline marker kit<anim id="Smiling" target="actor" targetSpec="" /><colour id="65535" /> so you can set
+aside a place for the new incline.
+<anim id="EmotEnd" target="actor" targetSpec="" />If you would be so kind, make some
+room in your pockets,<anim id="Smiling" target="actor" targetSpec="" /> and then come
+back to talk about this with me again.</message>
+	<message label="207" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />My, my! Changed your mind?<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />It is a
+rather large project, after all.<delay8 /> <anim id="Smiling" target="actor" targetSpec="" />It's a
+good idea to think it through.</message>
+	<message label="208" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Oh my<tag a="110" b="0" /> It seems we already have
+<colour id="1" />8 inclines<colour id="65535" /> on this island.<delay20 /> That's about<delay8 />
+<anim id="Worried" target="actor" targetSpec="" />as many as our little isle can handle.
+<anim id="EmotEnd" target="actor" targetSpec="" />If you really want a new one,<delay20 /> we'll
+<anim id="Smiling" target="actor" targetSpec="" />need to <colour id="1" />demolish<colour id="65535" /> one of the existing
+inclines first. Then we can talk!</message>
+	<message label="301" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hm?<delay frames="40" /><anim id="Worried" target="actor" targetSpec="" /> You want to demolish
+something?<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well, I can certainly understand
+wanting to make the most of the
+space we have on our lovely island.
+<anim id="EmotEnd" target="actor" targetSpec="" />Of course, removing a bridge or
+incline does come with a small
+demolition fee of <anim id="Smiling" target="actor" targetSpec="" /><tag a="90" b="22" arg="0x0" />.</message>
+	<message label="302" attrib="00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Our island doesn't have any bridges
+or inclines at the moment, <delay20 /><anim id="Smiling" target="actor" targetSpec="" />so there's
+nothing I can help demolish.
+<anim id="Silent" target="actor" targetSpec="" />But for future reference, demolished
+bridges and inclines can't be
+restored.<anim id="Smiling" target="actor" targetSpec="" /> So think carefully!</message>
+	<message label="303" attrib="02 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Demolished bridges and inclines
+can't be restored!<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> So I implore you,
+make such decisions very carefully.
+Knowing that,<delay8 /><anim id="QuestionMark" target="actor" targetSpec="" /> are you still interested
+in demolishing something?</message>
+	<message label="303_a" attrib="00 00 00 00">You bet I am!</message>
+	<message label="303_b" attrib="00 00 00 00">Nope. No way.</message>
+	<message label="304" attrib="00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh?<anim id="Worried" target="actor" targetSpec="" /> Demolition?<10_4 /><anim id="WrySmile" target="actor" targetSpec="" /> Well, I guess we do
+have a number of structures on the
+island.<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> This was bound to happen.</message>
+	<message label="305" attrib="00 00 00 00">It comes down to bridges or inclines.
+<delay20 /><anim id="Smiling" target="actor" targetSpec="" />So, what are we going to demolish?</message>
+	<message label="306" attrib="01 00 00 00">You want to demolish 
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />There will, of course, be a small
+<anim id="Smiling" target="actor" targetSpec="" />demolition fee of <tag a="90" b="22" arg="0x0" />.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Are you sure about this?</message>
+	<message label="306_a" attrib="00 00 00 00">Well, now I don't know.</message>
+	<message label="306_b" attrib="00 00 00 00">Demolish! Demolish!</message>
+	<message label="306_01" attrib="01 00 00 00">You want to demolish 
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />There will, of course, be a small
+<anim id="Smiling" target="actor" targetSpec="" />demolition fee of <tag a="90" b="22" arg="0x0" />.<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Are you sure about this?</message>
+	<message label="306_01_a" attrib="00 00 00 00">Well, now I don't know.</message>
+	<message label="306_01_b" attrib="00 00 00 00">Demolish! Demolish!</message>
+	<message label="307" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Message received, loud and clear!<10_4 />
+<anim id="EmotEnd" target="actor" targetSpec="" />I'll start the necessary paperwork,
+<anim id="Smiling" target="actor" targetSpec="" />and it should be gone by tomorrow.</message>
+	<message label="308" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Changed your mind, hm?<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Well<tag a="110" b="0" />we
+did go through all the trouble to
+build it in the first place.
+<delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />But if you decide it really does need
+to go, I'm here to help you with that.</message>
+	<message label="309" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Hm? <delay20 />What?<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Would you believe <delay8 /><anim id="Smiling" target="actor" targetSpec="" />there
+isn't a single bridge or incline
+to demolish right now?
+<anim id="Smiling" target="actor" targetSpec="" />Still, demolition is a good thing to
+keep in mind for when we do have
+such structures.<delay20 /> It's all a cycle, hm?</message>
+	<message label="310" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Message received, loud and<tag a="110" b="0" /><10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> Wait.<delay8 />
+It looks like you don't have the Bells
+to cover demolition costs.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />These things do have a price.<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> So feel
+free to come back when you have the
+needed funds on you.</message>
+	<message label="401" attrib="04 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ah, <tag a="110" b="1" />,<delay20 /> looking for a
+location to install our new
+<tag a="125" b="0" arg="0x0" />, yes?
+<anim id="QuestionMark" target="actor" targetSpec="" />How can I help?</message>
+	<message label="401_a" attrib="00 00 00 00">Give me pointers!</message>
+	<message label="401_b" attrib="00 00 00 00">Let's not build it.</message>
+	<message label="401_c" attrib="00 00 00 00">Nothing, I'm good.</message>
+	<message label="402" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />There are a few things to think about
+when selecting a location for bridge
+construction.<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> We want to get it right!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />It's a lot like setting up a tent. Let's
+start by talking a little bit about the
+<colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />bridge marker kit <colour id="65535" />I gave you.
+<anim id="Explain" target="actor" targetSpec="" />Just find a good spot, face the river,
+<anim id="Smiling" target="actor" targetSpec="" />and deploy!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />However, <delay20 /><anim id="Thinking" target="actor" targetSpec="" />if the river is too wide or
+too narrow, or<anim id="Smiling" target="actor" targetSpec="" /> if the bank is uneven,
+it's not going to work.
+<anim id="EmotEnd" target="actor" targetSpec="" />And that<tag a="110" b="0" /><delay8 /><anim id="Smiling" target="actor" targetSpec="" />is just about everything I
+know about bridge construction.</message>
+	<message label="402_01" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />There are a few things to think about
+when selecting a location for incline
+construction. We want to get it right!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />It's a lot like setting up a tent. Let's
+start by talking a little bit about the
+<colour id="1" /><tag a="50" b="0" arg="0x200 0xcd03" />incline marker kit <colour id="65535" />I gave you.
+<anim id="Explain" target="actor" targetSpec="" />Just find a good spot at the <colour id="1" />base of a
+cliff<colour id="65535" />,<anim id="Smiling" target="actor" targetSpec="" /> and deploy!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Everything should go swimmingly as
+long as <anim id="Greeting" target="actor" targetSpec="" />you have a decent amount of
+space to work with.
+<anim id="EmotEnd" target="actor" targetSpec="" />And that<tag a="110" b="0" /><delay8 /><anim id="Smiling" target="actor" targetSpec="" />is just about everything I
+know about incline construction.</message>
+	<message label="403" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I'm excited to see where our new
+<anim id="Smiling" target="actor" targetSpec="" /><tag a="125" b="0" arg="0x0" /> will go!</message>
+	<message label="404" attrib="00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />Oh? You want to cancel the project?<10_4 />
+<anim id="Smiling" target="actor" targetSpec="" />Well then, I'll take back the unused
+<tag a="125" b="0" arg="0x0" />.</message>
+	<message label="405" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Well then,<anim id="Smiling" target="actor" targetSpec="" /> good luck on your
+location hunt for the
+<tag a="125" b="0" arg="0x0" />!</message>
+	<message label="501" attrib="02 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah <delay frames="40" />well, right now we are collecting
+funds in order to build our new
+<tag a="125" b="0" arg="0x0" />.
+As such, <delay8 />I'm not discussing other
+changes,<delay8 /> but <anim id="QuestionMark" target="actor" targetSpec="" />what's on your mind?</message>
+	<message label="501_a" attrib="00 00 00 00">Let's not build it.</message>
+	<message label="501_b" attrib="00 00 00 00">Nothing, I'm good.</message>
+	<message label="502" attrib="01 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Come again?<delay frames="40" /> You want to halt
+construction of our new
+<tag a="125" b="0" arg="0x0" />?
+<anim id="Frantic" target="actor" targetSpec="" />That means the donations made so
+far will go to waste!<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> Are you sure
+about this? Really sure?</message>
+	<message label="502_a" attrib="00 00 00 00">Actually, let's keep it.</message>
+	<message label="502_b" attrib="00 00 00 00">Shut it down!</message>
+	<message label="503" attrib="00 00 00 00">Understood!<10_4 /><anim id="Smiling" target="actor" targetSpec="" /> I'll have the site cleaned
+up by tomorrow, then.</message>
+	<message label="504" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Understood!<delay frames="40" /><anim id="EmotEnd" target="actor" targetSpec="" /> Donations for the
+project can be made with the gyroid
+on-site.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> Please help as you can.</message>
+	<message label="603" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah, you want to talk about bridges
+or inclines, hm?<delay20 /> At the moment,
+I can't discuss any changes.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You see, my hands are full getting
+things ready to build our new
+<tag a="125" b="0" arg="0x0" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />We met our donation goal, and
+<anim id="Smiling" target="actor" targetSpec="" />construction should be done by
+tomorrow.<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> Let's talk after that!</message>
+	<message label="604" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah, you want to talk about bridges
+or inclines, hm?<delay20 /> At the moment,
+I can't discuss any changes.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />My hands are full since we're
+getting ready to shut down the site
+for the <tag a="125" b="0" arg="0x0" />.
+<anim id="EmotEnd" target="actor" targetSpec="" />Everything should be taken care of
+by tomorrow,<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> so let's talk after that!</message>
+	<message label="605" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Ah, you want to talk about bridges
+or inclines, hm?<delay20 /> At the moment,
+I can't discuss any changes.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You see, my hands are full since
+we're getting ready to tear down
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.
+<anim id="Smiling" target="actor" targetSpec="" />Demolition should be done by
+tomorrow, so<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> let's chat after that!</message>
+</msbt>

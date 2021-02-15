@@ -1,0 +1,25 @@
+<msbt attribsize="8">
+	<message label="001" attrib="05 00 00 01 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Hey, I heard we have a visitor
+on <tag a="110" b="8" />. Someone
+you know?</message>
+	<message label="002" attrib="05 00 00 01 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Should you be here right now?<delay frames="40" />
+<anim id="Grin" target="actor" targetSpec="" />What's going on with your guest?</message>
+	<message label="003" attrib="05 00 00 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Whoa, we've got a visitor on
+<tag a="110" b="8" />?<delay frames="40" /> <anim id="Grin" target="actor" targetSpec="" />Is it someone
+you knew in a previous life?</message>
+	<message label="004" attrib="05 00 00 01 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Hang on<tag a="110" b="0" /> <anim id="QuestionMark" target="actor" targetSpec="" />Don't you have someone
+coming to visit?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x6 0x7 0x8 0x9" /></message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Go on—<delay20 />you've gotta really sell
+<tag a="110" b="8" /> hard so folks
+move here and drive up the prices!
+<anim id="Frantic" target="actor" targetSpec="" />Wait, what am I saying?!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Why don't we go show your guest
+what <tag a="110" b="8" /> is all about?</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />Should I come help you show off
+<tag a="110" b="8" />? <delay20 />You know, like
+an ambassador?</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Actually, leave it to me.<delay20 /><anim id="Grin" target="actor" targetSpec="" /> I'll give your
+friend the real <tag a="110" b="8" />
+tour, <tag a="110" b="10" />-style!</message>
+</msbt>

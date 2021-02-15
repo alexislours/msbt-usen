@@ -1,0 +1,52 @@
+<msbt attribsize="4">
+	<message label="001" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, do you need the fitting room?<delay20 />
+Go right ahead!</message>
+	<message label="002" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, is that a <colour id="1" /><tag a="50" b="0" arg="0x100 0xcd03" />tailors ticket<colour id="65535" /> you've
+got there? <delay20 />Lucky you!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You can exchange that for one item
+in the store up to <tag a="90" b="21" arg="0x1" />,<delay20 /> free of
+charge.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Be sure to use it sometime!</message>
+	<message label="002_pl" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, are those some <colour id="1" /><tag a="50" b="0" arg="0x400 0xcd03" />tailors tickets<colour id="65535" />
+you've got there? <delay20 />Lucky you!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You can exchange them for one item
+in the store up to <tag a="90" b="21" arg="0x1" />,<delay20 /> free
+of charge.<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />Be sure to use 'em!</message>
+	<message label="003" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />That's our <colour id="1" />fitting room<colour id="65535" />!<delay40 /> Go in there
+to try stuff on,<delay20 /> and if you like it,<delay20 />
+you can buy it right then and there.
+<anim id="Explain" target="actor" targetSpec="" />You can see how things actually look
+on you,<delay8 /> and also buy multiple things
+at once, so it's super convenient!
+<anim id="HappyFlower" target="actor" targetSpec="" />Please feel free to use it anytime!</message>
+	<message label="010" attrib="00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="010_01" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Looking sharp!<delay20 /> Thanks so much!</message>
+	<message label="010_02" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Wow, that's a great look on you!<delay20 />
+Thanks for coming by!</message>
+	<message label="010_03" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Wow, you look great!<delay20 /> Thanks for
+your business!</message>
+	<message label="011" attrib="00 00 00 00">I'll just go ahead and slip what you
+were wearing before into your
+inventory.</message>
+	<message label="012" attrib="00 00 00 00">I'll go ahead and ship what you were
+wearing before directly to your
+storage at home.</message>
+	<message label="013" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I'll go ahead and put what you were
+wearing before in your home storage.<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />And I'll send anything that doesn't fit
+directly to your pockets!</message>
+	<message label="015" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks a bunch!<delay20 /> I'll go ahead and
+slip your purchase into your
+inventory for you.</message>
+	<message label="016" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks a bunch!<delay20 /> I'll go ahead and
+ship your purchase directly to your
+storage at home for you.</message>
+	<message label="017" attrib="00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Thanks a bunch!<delay20 /> I'll go ahead and
+send your purchases directly to your
+storage at home.<pageBreak />Whatever doesn't fit will go into your
+pockets.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="019" attrib="00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh, I'm sorry, but<delay20 /> you can't use the
+fitting room while under the effect
+of a transformation wand.
+<anim id="Smiling" target="actor" targetSpec="" />Please give it another shot once
+you're yourself again.</message>
+	<message label="020" attrib="00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />But you can't use it while under the
+effect of a transformation wand.<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />One change at a time, you know?</message>
+</msbt>

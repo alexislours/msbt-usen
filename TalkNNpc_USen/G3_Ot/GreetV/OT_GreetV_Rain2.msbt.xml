@@ -1,0 +1,36 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 07 00 00"><tag a="60" b="7" arg="0x710 0x800 0xcd00" /></message>
+	<message label="002" attrib="00 00 00 01 00 03 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
+	<message label="003" attrib="00 00 00 01 00 04 00 00"><tag a="60" b="7" arg="0xb10 0xc00 0xcd00" /></message>
+	<message label="004" attrib="00 00 00 01 00 09 00 00"><tag a="60" b="7" arg="0xd10 0xe00 0xcd00" /></message>
+	<message label="007" attrib="00 00 0c 00 00 07 00 00"><anim id="OhGeez" target="actor" targetSpec="" />It seems everyone is all about the
+umbrellas today.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />But do you know
+what I think, <tag a="110" b="3" /><tag a="110" b="0" />
+<anim id="Negative" target="actor" targetSpec="" />Why bother?!<delay20 /> I tell you,<delay frames="13" /><anim id="HappyFlower" target="actor" targetSpec="" /> being rained
+on is the best, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="008" attrib="00 00 0c 00 00 07 00 00">When I woke up this morning,<delay frames="13" /><anim id="SmugFace" target="actor" targetSpec="" />
+I could smell the rain before
+I saw it, <tag a="110" b="6" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Now, if only I could think of a way
+to market this remarkable skill<tag a="110" b="0" /><setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="009" attrib="00 00 0c 00 00 03 00 00">Take it from me, <tag a="110" b="3" />,<delay frames="13" />
+<anim id="HappyDance" target="actor" targetSpec="" />today is the perfect day to make a
+big splash, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 03 00 00"><anim id="Greeting" target="actor" targetSpec="" />Ah, <tag a="110" b="3" />.<delay frames="13" /> We meet yet
+again.<delay20 /> Well, <anim id="Smiling" target="actor" targetSpec="" />I do hope you're making
+the most of this rainy day, my dear.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 00 00 04 00 00"><anim id="Hello" target="actor" targetSpec="" />If it isn't <tag a="110" b="3" />.<delay40 />
+<anim id="Smiling" target="actor" targetSpec="" />I see you appreciate walks in
+the rain as well, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 00 00 04 00 00"><anim id="Greeting" target="actor" targetSpec="" />Well hello, <tag a="110" b="3" />.<delay40 />
+<anim id="ShyBoy" target="actor" targetSpec="" />I suppose rainy-day walks
+aren't SO bad.
+<anim id="EmotEnd" target="actor" targetSpec="" />That is,<delay frames="13" /><anim id="Grin" target="actor" targetSpec="" /> as long as the droplets don't
+smudge my makeup, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="013" attrib="00 00 0c 00 00 09 00 00"><anim id="Negative" target="actor" targetSpec="" />I never use umbrellas.<delay40 /><anim id="Smiling" target="actor" targetSpec="" /> Why on earth
+would I want to miss out on all this
+fabulous rain, <tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="014" attrib="00 00 0c 00 00 09 00 00"><anim id="Smiling" target="actor" targetSpec="" />If it isn't another <tag a="110" b="3" />
+encounter!<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />I, too, enjoy a good rainy-evening
+walk.<delay20 /> <anim id="HappyFlower" target="actor" targetSpec="" />Everything seems so much
+more mysterious, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

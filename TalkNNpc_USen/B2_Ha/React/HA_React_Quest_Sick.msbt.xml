@@ -1,0 +1,12 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />By the way,<delay20 /> apparently
+<tag a="115" b="1" arg="0xcd00" /> is sick.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />I'm really worried about <gender3 m="him" f="her" />,<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> so<tag a="110" b="0" />why
+don't you go check up on <gender3 m="him" f="her" />?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Apparently <tag a="115" b="1" arg="0xcd00" /> is
+feeling pretty crummy.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I'm sure <gender3 m="he'd" f="she'd" /> feel better<anim id="Nodding" target="actor" targetSpec="" /> if you paid
+<gender3 m="him" f="her" /> a visit, <tag a="110" b="5" />.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hey, I heard <tag a="115" b="1" arg="0xcd00" /> is ill
+and bedridden!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I hope <gender3 m="he's" f="she's" /> alright all by <gender3 m="himself" f="herself" /><tag a="110" b="0" /><delay frames="60" />
+<anim id="Nodding" target="actor" targetSpec="" />I'm worried, so how about you go
+check up on <gender3 m="him" f="her" />, <tag a="110" b="6" />?</message>
+</msbt>

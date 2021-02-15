@@ -1,0 +1,34 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x65 0x66 0x67 0x68" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xc9 0xca" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x12d 0x12e 0x12f" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Man, how many months of allowance
+do you think I'd need to buy
+everything here, <tag a="110" b="3" />?</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />? What kinda
+clothes do ya like?<delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" /> Maybe I'll get
+the same ones so we can match!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00">The clothes here are real neat!<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />You
+oughta try some on.<delay frames="40" /> Walk around in
+'em. <anim id="Nodding" target="actor" targetSpec="" />Maybe jump and run too!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I'm gonna try on a buncha different
+clothes today!<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />I love gettin' dressed up in clothes
+that aren't mine and running around
+pretending to be somebody else!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Man, isn't everything here super-
+duper really cool?<delay frames="40" /> There's all kindsa
+<tag a="110" b="17" />-y things to buy right now!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Heya! You here to see souvenirs?<delay frames="40" />
+There's a buncha stuff other than
+<anim id="Greeting" target="actor" targetSpec="" />clothes here, so have a look around!</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />This new <colour id="1" />tailors <colour id="65535" />is neat! I can come
+in here and imagine being real cool
+and fashionable.</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />I like buying new stuff at the <colour id="1" />tailors<colour id="65535" />,
+but I feel weird changing my clothes
+in the middle of the store.</message>
+	<message label="303" attrib="00 00 00 00 00 00 00 00">I wonder how many times I've visited
+the <colour id="1" />tailors <colour id="65535" />since it was built?<pageBreak />I wonder how many times <delay20 />I've
+wondered how many times<delay20 /> I've
+visited the <colour id="1" />tailors <colour id="65535" />since it was built?</message>
+</msbt>

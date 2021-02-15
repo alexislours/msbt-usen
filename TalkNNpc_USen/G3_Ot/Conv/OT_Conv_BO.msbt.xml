@@ -1,0 +1,151 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Oh <tag a="110" b="3" />,<delay20 /> <anim id="Thinking" target="subNpc" targetSpec="" />you're here
+just in time.<pageBreak /><20_2 arg="5" /><anim id="Explain" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd01" /> is trying to figure
+out what the J stands for in a
+PB-and-J sandwich. <delay frames="40" /><anim id="Negative" target="actor" targetSpec="" />I kid you not.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />I know it!<delay8 /><anim id="EmotEnd" target="mainNpc" targetSpec="" /> I know it!<delay20 /> Don't rush me!<delay frames="40" />
+<anim id="Thinking" target="actor" targetSpec="" />It's peanut butter and<tag a="110" b="0" /><delay20 />j—<delay20 />j—
+<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="135" b="3" arg="0xcd02" />?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><20_3 arg="5" /><anim id="OhGeez" target="actor" targetSpec="" />Oh, you silly thing.<20_2 arg="1" /><delay20 /> You know it's
+got to be a J word. <delay20 /><anim id="Worried" target="subNpc" targetSpec="" />Come on.<delay20 /><anim id="Greeting" target="actor" targetSpec="" />
+You can do it, <tag a="110" b="6" />!</message>
+	<message label="004" attrib="00 00 05 00 00 00 00 00"><20_3 arg="8" /><anim id="Sighing" target="actor" targetSpec="" />Man, <delay8 /><20_2 arg="4" />I hate it when she treats me
+like I don't know anything!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><20_2 arg="6" /><pageBreak /><anim id="Blushing" target="actor" targetSpec="" />But,<delay20 /> uhhh, <delay20 /><tag a="110" b="3" /><tag a="110" b="0" /><delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />Do YOU know what the J stands
+for in a PB-and-J sandwich?</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Jelly!</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Jewels!</message>
+	<message label="004_c" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Junk!</message>
+	<message label="004_d" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Jellyfish!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Jelly? <delay8 /><20_2 arg="2" />Oh yeah,<delay8 /> that's right!<delay20 /><anim id="BigSmile" target="actor" targetSpec="" />
+It's totally jelly.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />I knew that. <delay8 />I just forgot I knew it.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><20_3 arg="5" /><anim id="OhGeez" target="actor" targetSpec="" />Please.<delay20 /><20_2 arg="1" /> I don't think you would have
+figured that out on your own.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Tell me this, then<tag a="110" b="0" /><delay20 /> <anim id="Serious" target="actor" targetSpec="" />What KIND
+of jelly?</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><20_3 arg="7" /><anim id="Serious" target="actor" targetSpec="" />You don't think<20_2 arg="4" /> I know the answer to
+that? <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />Ha! <delay20 />It's <tag a="135" b="3" arg="0xcd02" /> jelly!<delay20 /><anim id="TakenAback" target="mainNpc" targetSpec="" />
+<delay8 />So there, <tag a="110" b="6" />!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Jewels! <delay20 />Oooh yeah, <20_2 arg="2" /><delay20 />I knew that.<delay frames="40" />
+<anim id="Nodding" target="actor" targetSpec="" />It's totally definitely jewels.</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><20_3 arg="5" /><anim id="Angry" target="actor" targetSpec="" />Really,<delay8 /> <20_2 arg="1" /><tag a="110" b="31" arg="0xcd01" />?<delay20 />
+Wouldn't that be expensive?<delay20 />
+Not to mention crunchy?<anim id="Thinking" target="subNpc" targetSpec="" />
+<anim id="OhGeez" target="actor" targetSpec="" />Who eats jewels, darling? <delay20 />WHO?</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><20_3 arg="8" /><anim id="Blushing" target="actor" targetSpec="" />A huh huh,<delay20 /><20_2 arg="4" /> I guess SOME folks
+don't like tryin' new foods as
+much as I do, <tag a="110" b="6" />.</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Er<anim id="Eh" target="mainNpc" targetSpec="" /><tag a="110" b="0" /><delay20 />that's right.<20_2 arg="2" /><delay20 /> I remember now.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />Peanut butter and junk!<anim id="Serious" target="mainNpc" targetSpec="" /></message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Listen, <tag a="110" b="3" />, <20_2 arg="3" /><delay20 />you can't
+just tell him that. <delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" />He might actually
+eat a PB-and-junk sandwich.
+<20_3 arg="5" /><anim id="EmotEnd" target="actor" targetSpec="" />Now <tag a="110" b="31" arg="0xcd01" />, <delay20 /><20_2 arg="7" /><anim id="Serious" target="actor" targetSpec="" />you know
+the J doesn't stand for junk,<delay20 /><20_2 arg="4" /> right?</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><20_3 arg="7" /><anim id="Negative" target="actor" targetSpec="" />Don't go tryin' to fake me out.<delay frames="13" />
+Didn't you ever hear of junk food?<anim id="Eh" target="mainNpc" targetSpec="" /><pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />And you think you're soooo
+smart, <tag a="110" b="6" />!</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />!<20_2 arg="3" /> <anim id="Thinking" target="subNpc" targetSpec="" /><delay frames="40" /><anim id="Angry" target="actor" targetSpec="" />You can't say any ol' thing just because you know
+he won't know the difference!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Jellyfish!<delay20 /><20_2 arg="2" /> Yeah,<delay8 /> that's totally it!<delay frames="40" /><anim id="Serious" target="mainNpc" targetSpec="" />
+<anim id="Blushing" target="actor" targetSpec="" />I can't believe I forgot that.</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00"><20_3 arg="5" /><anim id="Silent" target="actor" targetSpec="" />Seriously, darling?<20_2 arg="1" /><delay20 /> Jellyfish?<delay frames="40" />
+<anim id="OhGeez" target="actor" targetSpec="" />That doesn't sound completely
+wrong to you?</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><20_3 arg="7" /><anim id="QuestionMark" target="actor" targetSpec="" />Why would it?<delay20 /> <20_2 arg="4" />I LOVE jellyfish.<delay frames="40" />
+<anim id="HappyDance" target="actor" targetSpec="" />They're soooo sweet and yummy.<delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" />
+They're my favorite candy!</message>
+	<message label="018" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Wait<tag a="110" b="0" /><delay20 /><20_2 arg="1" />jellyfish aren't—<delay frames="40" /><anim id="EmotEnd" target="subNpc" targetSpec="" />
+<anim id="QuestionMark" target="actor" targetSpec="" />do you mean jelly BEANS?</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Oh YEAH!<20_2 arg="4" /> <delay20 />That's what I meant. <delay20 />
+Jelly beans!<anim id="EmotEnd" target="mainNpc" targetSpec="" /> <delay20 /><anim id="WrySmile" target="actor" targetSpec="" />A huh huh!</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Good grief.<delay20 /> <20_2 arg="3" />I give up.<20_3 arg="7" /><anim id="EmotEnd" target="subNpc" targetSpec="" /><delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />Put whatever
+you like on your peanut-butter
+sandwich, my dear.<anim id="Smiling" target="subNpc" targetSpec="" />
+<anim id="Negative" target="actor" targetSpec="" />Your stomach is made of stronger
+stuff than mine.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Hey, <tag a="110" b="31" arg="0xcd00" />!<delay20 /> You'll never
+guess what I'm totally hooked
+on right now.
+<anim id="Aha" target="actor" targetSpec="" />Riddles!<delay20 /> They're so much fun!<delay20 />
+<anim id="WrySmile" target="actor" targetSpec="" />Even though they make me
+think real hard.
+<anim id="Blushing" target="actor" targetSpec="" />In fact,<delay8 /> sometimes my noggin' hurts
+from all the thinkin'!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I have<20_2 arg="1" /> no doubt it does,<delay8 />
+<anim id="EmotEnd" target="subNpc" targetSpec="" /><tag a="110" b="31" arg="0xcd01" />.<pageBreak /><anim id="Greeting" target="actor" targetSpec="" />Now,<delay8 /> when you say riddles,<delay20 /><20_3 arg="7" /><anim id="QuestionMark" target="actor" targetSpec="" /> do you
+mean like,<delay8 /> "How is a raven like a
+writing desk?"<anim id="FaintSmile" target="subNpc" targetSpec="" />
+<anim id="Negative" target="actor" targetSpec="" />I never could figure that one out.<anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="103" attrib="00 00 02 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Yeah, <delay8 /><20_2 arg="2" />just like that...<delay20 /><anim id="EmotEnd" target="mainNpc" targetSpec="" />but totally
+different. <delay20 /><delay20 /><anim id="BigSmile" target="actor" targetSpec="" />See,<delay20 /> I'm makin' up my OWN
+riddles. <delay20 />And they're WAY better!<anim id="Eh" target="mainNpc" targetSpec="" />
+<20_3 arg="8" />Hey <tag a="110" b="3" />, <anim id="EmotEnd" target="mainNpc" targetSpec="" /><20_3 arg="6" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />you wanna
+hear one?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="103_a" attrib="00 00 00 00 00 00 00 00">Of course I do!</message>
+	<message label="103_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Do I have a choice?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Right on!<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />OK, here<20_2 arg="2" /> we go<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />What do a centipede <delay20 />and
+<tag a="110" b="31" arg="0xcd00" /> here <delay20 /><anim id="TakenAback" target="mainNpc" targetSpec="" /><delay20 />have
+in common?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><20_3 arg="5" /><anim id="OhGeez" target="actor" targetSpec="" />Oh good grief.<20_2 arg="1" /> <delay20 />Really?<anim id="EmotEnd" target="subNpc" targetSpec="" /><delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />I don't know,
+<tag a="110" b="31" arg="0xcd01" />.<delay20 /><anim id="Serious" target="actor" targetSpec="" /> What DO we have
+in common?</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><20_3 arg="7" /><anim id="Laughing" target="actor" targetSpec="" />You both <20_2 arg="4" /><delay8 />own a lot of shoes!<delay20 /><anim id="Negative" target="mainNpc" targetSpec="" />
+Get it?<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />Um<tag a="110" b="0" /><delay20 />for real,<delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /> do ya
+get it, <tag a="110" b="6" />?<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Ah.<delay8 /><20_2 arg="1" /> Yes.<delay20 /> I see.<anim id="FaintSmile" target="subNpc" targetSpec="" /> <delay20 /><anim id="Greeting" target="actor" targetSpec="" />My love of shoe
+shopping has provided you with a
+punchline.<delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" /> Hilarious, darling.<delay20 /> Really.
+<anim id="Grin" target="actor" targetSpec="" />Now,<delay20 /> let me give it a try<tag a="110" b="0" /><delay20 /><anim id="Eh" target="subNpc" targetSpec="" /><delay frames="50" />
+<anim id="Explain" target="actor" targetSpec="" />What do YOU <delay8 />and a used
+pencil have in common?<anim id="QuestionMark" target="subNpc" targetSpec="" />
+<anim id="SmugFace" target="actor" targetSpec="" />Feel free to take your time.<delay20 />
+<anim id="Thinking" target="subNpc" targetSpec="" />You might get it eventually,
+<tag a="110" b="6" />.<delay8 /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Hooray! <20_3 arg="2" /><delay20 />OK! <delay8 />Here goes<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />What do <tag a="135" b="3" arg="0xcd00" /> <delay20 />and
+<tag a="135" b="7" arg="0xcd00" /> <delay20 />have in common?</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />I don't know, darling. <delay20 />What?</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" />Ummmmm<tag a="110" b="0" /><delay20 />mmmm<anim id="Eh" target="mainNpc" targetSpec="" /><tag a="110" b="0" /><delay8 />yummmy<tag a="110" b="0" /><pageBreak /><anim id="Eh" target="actor" targetSpec="" />Wait, <delay8 />what?!<delay20 /> <anim id="Silent" target="mainNpc" targetSpec="" />Whoa,<delay20 /><anim id="Worried" target="actor" targetSpec="" /> I totally spaced
+on the answer, <tag a="110" b="6" />!<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Oh, <tag a="110" b="31" arg="0xcd01" />.<20_2 arg="1" /><delay frames="40" /> You fell into
+a food coma just THINKING about
+food,<anim id="Sighing" target="subNpc" targetSpec="" /> didn't you.</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Naw. <20_2 arg="2" /><delay8 />Not really.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />OK, this is a hard
+one, <delay8 />so get ready. <delay20 />Here goes<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />What do a clown<delay20 /> and a mime<delay20 /> have
+in common?</message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" /><tag a="110" b="0" /><delay20 />
+<tag a="110" b="0" /><delay frames="40" />
+<anim id="QuestionMark" target="actor" targetSpec="" />Face paint?<20_3 arg="7" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hey! <delay20 />How did you know the
+answer?! <anim id="Eh" target="mainNpc" targetSpec="" /><delay frames="40" /><anim id="ShyBoy" target="actor" targetSpec="" />That's crazy!<20_3 arg="5" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd00" />,<delay20 /> did you<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />read
+my mind, <tag a="110" b="6" />?</message>
+	<message label="115" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Oh <tag a="110" b="31" arg="0xcd01" />,<20_2 arg="3" /> <delay20 /><anim id="EmotEnd" target="subNpc" targetSpec="" />you're one
+clown short of a circus, aren't you?</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Ohhhh, phooey. <delay8 /><anim id="Worried" target="subNpc" targetSpec="" />Today just ISN'T
+my day, <tag a="110" b="6" />.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00">Heya <tag a="110" b="31" arg="0xcd00" />,<20_2 arg="4" /><anim id="Worried" target="mainNpc" targetSpec="" /> <delay8 /><anim id="Negative" target="actor" targetSpec="" />you don't
+look too happy.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You know, <delay8 />when I'm feelin' down,<delay8 />
+I like to eat <tag a="135" b="7" arg="0xcd00" /> until
+my stomach hurts real bad<tag a="110" b="0" /><anim id="QuestionMark" target="mainNpc" targetSpec="" />
+<anim id="Smiling" target="actor" targetSpec="" />It's great because it tastes yummy
+AND the pain makes me forget allll
+my other problems.<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />Ha!<20_2 arg="3" /><delay20 /> That's an interesting solution,
+my dear. <delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />I shall take it into
+consideration.<anim id="EmotEnd" target="subNpc" targetSpec="" />
+<anim id="EmotEnd" target="actor" targetSpec="" />And <tag a="110" b="31" arg="0xcd01" />, <delay8 /><anim id="Greeting" target="actor" targetSpec="" />thank you
+for trying to cheer me up.<delay20 /> I feel
+better already.<anim id="ShyBoy" target="subNpc" targetSpec="" />
+<anim id="Hello" target="actor" targetSpec="" />If there's anything I can do in return,<anim id="EmotEnd" target="subNpc" targetSpec="" /><delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />just say the word, <tag a="110" b="6" />.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Well, <delay8 /><20_2 arg="4" />now that you mention it, <delay frames="40" /><anim id="Greeting" target="actor" targetSpec="" />that
+thing you like to say is super cool.<anim id="QuestionMark" target="mainNpc" targetSpec="" /><pageBreak /><anim id="HappyDance" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />!<delay20 /> <tag a="50" b="3" /><tag a="110" b="5" />!
+<delay20 /><tag a="50" b="3" /><tag a="110" b="5" />! <delay20 /><tag a="50" b="3" /><tag a="110" b="5" />!<anim id="Eh" target="mainNpc" targetSpec="" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Would it be OK if I said it too?</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Oh my.<20_2 arg="3" /><delay20 /><anim id="EmotEnd" target="subNpc" targetSpec="" /> I had no idea "<tag a="110" b="5" />"
+was<tag a="110" b="0" /><delay20 />cool.<delay20 /> <anim id="EmotEnd" target="actor" targetSpec="" />But please,<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />use it as
+much as you like.</message>
+	<message label="206" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Awesome! <20_2 arg="4" /><delay20 />Thank you SO much,<delay20 />
+<tag a="110" b="6" />!<anim id="EmotEnd" target="mainNpc" targetSpec="" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />Whoa!<delay20 /> Guess what! <delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><delay frames="40" /><anim id="BigSmile" target="actor" targetSpec="" />YOU just
+cheered ME up!</message>
+	<message label="207" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="actor" targetSpec="" />Well, well. <20_2 arg="3" /><delay20 /><anim id="HappyFlower" target="actor" targetSpec="" />Perhaps today IS my day 
+after all,<delay20 /> <tag a="110" b="6" />.</message>
+</msbt>

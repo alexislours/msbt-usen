@@ -1,0 +1,79 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00">I'm bored<delay8 /><tag a="110" b="0" /> <anim id="QuestionMark" target="actor" targetSpec="" />Does a kiddo like you<delay20 />
+have any interestin' yarns to tell?<delay40 />
+Some corker of a real scary story?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sure do!<delay40 /> So get this<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'm out for a power walk first thing
+in the morning,<delay20 /> and I spot <anim id="Eh" target="mainNpc" targetSpec="" />someone
+flailing around on the beach!<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />I'm thinking scorpion attack,<delay20 /> or else
+maybe whoever it is<delay20 /> sat on a wasp?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />But up close,<delay20 /> I see it's just
+<tag a="110" b="11" arg="0xcd00" />,<delay20 /> <anim id="Pardon" target="actor" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" />doing the worst
+dancing I've ever seen.
+<anim id="Shaking" target="actor" targetSpec="" />I think I cringed so hard<delay20 /> it hurt.<delay40 />
+<anim id="Explain" target="actor" targetSpec="" />Then I power walked myself right
+out of there<delay20 /> before <gender3 m="he" f="she" /> saw me!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Boy howdy,<delay20 /> that was a bloodcurdlin'
+tale of terror.<delay40 /> <anim id="Grin" target="actor" targetSpec="" />I'd better go lie down<delay8 /><tag a="110" b="0" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00">Here's one<delay20 /> that's <anim id="Nodding" target="actor" targetSpec="" />been keeping
+me up at night lately<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />The other day,<delay20 /> <tag a="110" b="11" arg="0xcd00" />
+was reading <anim id="QuestionMark" target="mainNpc" targetSpec="" />a book<delay20 /> called
+Mastering <capitaliseNextWord /><tag a="135" b="6" arg="0xcd00" />.<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />But <gender3 m="he" f="she" /> has to know<delay20 /> that I'm already
+a master at that!<delay40 /> With all my training
+and routines,<delay20 /> I have enough stress<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Worried" target="actor" targetSpec="" />And now I need to worry about <gender3 m="him" f="her" /><delay20 />
+coming for my trophy some day!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Oh yeah!<delay40 /> <anim id="Explain" target="actor" targetSpec="" />Just yesterday,<delay20 /> I went out
+without remembering to lock up.<pageBreak /><anim id="Restless" target="actor" targetSpec="" />I get back,<delay20 /> see my door is open,<delay20 /> and
+rush around checking my place out.<delay40 />
+<anim id="Serious" target="actor" targetSpec="" />Nothing's out of place<delay20 /> or missing<delay8 /><tag a="110" b="0" />
+<anim id="Surprised" target="actor" targetSpec="" />Except someone's eaten
+<tag a="50" b="2" /><tag a="135" b="7" arg="0xcd00" /><anim id="Eh" target="mainNpc" targetSpec="" /><delay20 /> I'd set aside
+for my next cheat day!<anim id="EmotEnd" target="mainNpc" targetSpec="" />
+<anim id="Negative" target="actor" targetSpec="" />And I'm no cheater on my diet.<delay40 />
+<anim id="Worried" target="actor" targetSpec="" />What kind of monster<delay20 /> does a thing
+like that to a guy,<delay20 /> anyway?</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />So you think you're real tough stuff?</message>
+	<message label="102" attrib="00 00 03 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />You know it!<10_4 /> <20_3 arg="8" /><20_3 arg="6" /><anim id="Greeting" target="actor" targetSpec="" />Yo, <tag a="110" b="3" />,<delay20 />
+great timing!<pageBreak /><20_2 arg="4" /><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd00" /> here<delay20 /> wants to
+spar with me,<delay20 /> but I worry
+I'll <anim id="Eh" target="mainNpc" targetSpec="" />hurt the guy.
+<anim id="QuestionMark" target="actor" targetSpec="" />Can you think of a fairer contest?</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">Arm wrestling.</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">A word game.</message>
+	<message label="102_c" attrib="00 00 00 00 00 00 00 00">Singing.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh,<delay20 /> I don't know<delay8 /><tag a="110" b="0" /> <anim id="Grin" target="actor" targetSpec="" />What if I snapped
+one of those rusty <anim id="Eh" target="mainNpc" targetSpec="" />hinges off of him?</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Outraged" target="actor" targetSpec="" />Why you<20_2 arg="7" /><delay8 /><tag a="110" b="0" /> Underestimate me at
+your peril, kiddo!<delay40 /> <anim id="SmugFace" target="actor" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />I'm fixin' to
+show you<delay20 /> who's rusty!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />That might work,<delay20 /> yeah!<20_2 arg="5" /><delay40 /> <anim id="IdeaBulb" target="actor" targetSpec="" />Why don't
+we test our brains on our brawn,<delay20 />
+and take turns naming muscles?
+<anim id="Grin" target="actor" targetSpec="" />But no repeats!<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Strong idea,<delay20 /> right?</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />You're the one who stays up late
+studyin' his own parts,<anim id="TakenAback" target="subNpc" targetSpec="" /><delay20 /> <20_2 arg="7" />but I guess
+I'm game,<delay frames="40" /> if you are<delay8 /><tag a="110" b="0" /> <anim id="Smiling" target="actor" targetSpec="" /><anim id="Smiling" target="subNpc" targetSpec="" />BICEPS!</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />No problem!<delay40 /> Strong core muscles,<delay20 />
+strong voice, right?<delay40 /> <20_2 arg="5" />Check this out<delay8 /><tag a="110" b="0" /><pageBreak /><tag a="10" b="12" /><anim id="Cheering" target="actor" targetSpec="" /><10_10 /><size value="150" />♪ Strong abs and back,<delay20 />
+muscles not slack! ♪<anim id="Worried" target="mainNpc" targetSpec="" /><size value="100" /></message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />No fair,<delay20 /> attackin' a guy's eardrums!<delay40 />
+<20_2 arg="7" />Singin's about more than bein' loud.<delay40 />
+<anim id="Serious" target="actor" targetSpec="" /><anim id="ShyBoy" target="subNpc" targetSpec="" />You gotta at least try to sing good!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Listen up,<delay20 /> <tag a="110" b="31" arg="0xcd01" />!<delay40 /><pageBreak /><anim id="Negative" target="actor" targetSpec="" />Strength ain't just a physical thing!<delay40 />
+<anim id="Pardon" target="actor" targetSpec="" />You gotta have a certain presence<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />And that comes <anim id="SmugFace" target="actor" targetSpec="" />from self-confidence<delay20 />
+and havin' conviction,<delay20 /> <anim id="Eh" target="subNpc" targetSpec="" /><tag a="110" b="5" />!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Confused" target="actor" targetSpec="" />So what's the exercise regimen
+for that?<delay40 /> How am I supposed
+to train up my conviction?</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Aw,<delay20 /> it's easy!<delay40 /> <anim id="Explain" target="actor" targetSpec="" />Don't get flustered<delay20 />
+when someone glares at you.<delay40 />
+Always stand proud and tall! 
+<anim id="Nodding" target="actor" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" />And make sure to get your points
+across loud and clear,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You definitely come on
+strong,<delay20 /> <tag a="110" b="31" arg="0xcd00" />!<delay40 />
+<anim id="IdeaBulb" target="actor" targetSpec="" />Maybe it's your catchphrase?<delay40 />
+<anim id="Scheming" target="actor" targetSpec="" />Bet if I said "<tag a="110" b="5" />" all the
+time,<delay20 /> I'd make an impression too!
+<anim id="Serious" target="actor" targetSpec="" />Listen up,<delay20 /> <tag a="110" b="5" />!<anim id="Eh" target="subNpc" targetSpec="" /> <delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Yeah<delay8 /><tag a="110" b="0" /></message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />There you go.<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />Reckon it's workin' for you already,<delay20 /> <tag a="110" b="5" />!</message>
+</msbt>

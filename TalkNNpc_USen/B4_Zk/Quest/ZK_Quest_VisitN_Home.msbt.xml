@@ -1,0 +1,62 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Dance" target="actor" targetSpec="" />Welcome to my humble
+castle, <tag a="110" b="3" />!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Wilkommen, bienvenue,
+welcome<tag a="110" b="0" /><delay20 />to<anim id="HappyDance" target="actor" targetSpec="" /> <tag a="110" b="10" />
+upon <tag a="110" b="8" />!</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Come in, come in!<delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" /> Welcome to
+Chez <tag a="10" b="13" /><tag a="110" b="10" /><endTag a="10" b="13" />.</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Sleepy" target="actor" targetSpec="" />Whoa<tag a="110" b="0" />good morning.<delay20 /> I know I said
+anytime was OK, but I guess I wasn't
+expecting you THIS early<tag a="110" b="0" />
+<anim id="OhGeez" target="actor" targetSpec="" />But it's OK! <10_4 /><anim id="Pardon" target="actor" targetSpec="" />I'm 105 percent awake!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Dance" target="actor" targetSpec="" />Welcome to my magnificent yet
+humble abode!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Good evening! <delay20 />I've been expecting
+you, <tag a="110" b="3" />.<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />Took your sweet time though, eh?<delay20 />
+I was JUST about to give up and
+spend the night <tag a="135" b="8" arg="0xcd00" />.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Sleepy" target="actor" targetSpec="" /><tag a="110" b="0" />Zzzzzzhrrrgh?<delay frames="40" /> Hrgh?<pageBreak /><anim id="Shocked" target="actor" targetSpec="" />Oh!<delay8 /> <tag a="50" b="3" /><tag a="110" b="3" />?! <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />I guess
+technically you're still invited<tag a="110" b="0" /></message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Please relax and make yourself at
+home. <delay20 />Mi casa es su casa! <delay20 /><anim id="Serious" target="actor" targetSpec="" />That's
+French for please use a coaster.</message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />You're not starstruck or anything,
+are you?<delay20 /><anim id="SmugFace" target="actor" targetSpec="" /> I get that a lot<tag a="110" b="0" /></message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />It's a little embarrassing to have you
+walking around my place.<delay20 /> It's like
+telling you all my secrets!
+<anim id="QuestionMark" target="actor" targetSpec="" />You signed a non-disclosure
+agreement right?<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />KIDDING. <delay frames="40" /><anim id="Serious" target="actor" targetSpec="" />Your mere presence
+implies agreement to all terms and
+conditions—no need to sign it!</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Cheering" target="actor" targetSpec="" />Yay! <delay20 />You remembered!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Oh, it's you! <delay20 />Yeah, I knew you were
+coming.<delay20 /><anim id="OhGeez" target="actor" targetSpec="" /> I've been keeping myself
+busy. <delay20 />SUPER busy.
+<anim id="Worried" target="actor" targetSpec="" />Ah, who am I kidding.<delay20 /> I've been
+standing behind the door in my
+signature pose the whole time.</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey, how about that?<delay8 /> You actually
+showed up!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Well, I'm ready for you.<delay frames="40" /> But<tag a="110" b="0" /><anim id="Negative" target="actor" targetSpec="" />I think
+this microwaved <tag a="135" b="3" arg="0xcd00" /> is
+about four hours past its prime<tag a="110" b="0" /></message>
+	<message label="200" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Hey, since you're here<tag a="110" b="0" /><delay20 /><anim id="QuestionMark" target="actor" targetSpec="" />you wanna
+play a game?</message>
+	<message label="200_a" attrib="00 00 00 00 00 00 00 00">Let's play!</message>
+	<message label="200_b" attrib="00 00 00 00 00 00 00 00">Not right now.</message>
+	<message label="201" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Hey, I've got an idea.<delay20 /> Let's play a
+game! <delay20 /><anim id="SmugFace" target="actor" targetSpec="" />Do you accept the challenge?</message>
+	<message label="201_a" attrib="00 00 00 00 00 00 00 00">You're on!</message>
+	<message label="201_b" attrib="00 00 00 00 00 00 00 00">Nah, not right now.</message>
+	<message label="202" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />What should we do now?<delay frames="50" /> <anim id="IdeaBulb" target="actor" targetSpec="" />Ah, let's
+play a game!<delay20 /> You interested?</message>
+	<message label="202_a" attrib="00 00 00 00 00 00 00 00">Yeah!</message>
+	<message label="202_b" attrib="00 00 00 00 00 00 00 00">No, thanks.</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Alright, no biggie.<delay frames="40" /><anim id="Grin" target="actor" targetSpec="" /> I guess we can
+continue taking in the wondrous
+sights of my humble abode.</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Just want to keep looking around my
+place, eh? <delay20 />That's understandable.</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />No worries. <delay20 />Another time, maybe!</message>
+</msbt>

@@ -1,0 +1,19 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" /><colour id="4" />How can I portray a character
+with no ego at all<tag a="110" b="0" /> What would
+my motivation be?<colour id="65535" />
+<anim id="Shocked" target="actor" targetSpec="" />Oh, it's you! <delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" />Sorry, I was just deep
+in thought. <delay20 />You know, acting stuff.<delay20 />
+The biz. <delay20 />The grind.
+<anim id="Angry" target="actor" targetSpec="" />What do you mean "what part am
+I playing?"<delay20 /> I don't have a part YET.
+<delay20 />It's called ACTING.
+<anim id="Explain" target="actor" targetSpec="" />I'm ACTING like an ACTOR.<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />Yeesh.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><20_2 arg="6" /><anim id="Shocked" target="actor" targetSpec="" /><10_10 />GAH!<delay frames="40" /><20_3 arg="6" /> It's you! <delay frames="40" /><10_9 /><anim id="WrySmile" target="actor" targetSpec="" />Sorry, I'm just in the
+middle of something right now.<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" /><colour id="4" />Should I take up <tag a="135" b="6" arg="0xcd00" /> or
+<tag a="135" b="6" arg="0xcd01" /> to increase my
+brand's Q score<tag a="110" b="0" /><colour id="65535" />
+<anim id="Shocked" target="actor" targetSpec="" /><20_2 arg="6" /><10_10 />WHOA! <delay8 /><20_3 arg="6" />It's you!<delay40 /> <10_9 /><anim id="Worried" target="actor" targetSpec="" />Sorry, but can this
+wait until later?<anim id="EmotEnd" target="actor" targetSpec="" /></message>
+</msbt>

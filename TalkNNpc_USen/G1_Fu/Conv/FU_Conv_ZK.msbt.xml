@@ -1,0 +1,92 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00">So<delay8 /><tag a="110" b="0" /> <anim id="Worried" target="actor" targetSpec="" />I wasn't expecting you to send
+me some of your handwritten poetry
+like that,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00">You're welcome!<delay frames="40" /> So,<delay20 /> <anim id="Grin" target="actor" targetSpec="" />which did
+you think were the standouts?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Uh,<delay20 /> let's see<delay8 /><tag a="110" b="0" /> <anim id="Worried" target="actor" targetSpec="" />Your "Ode to <tag a="50" b="2" />
+<capitaliseNextWord /><tag a="135" b="2" arg="0xcd00" />" had lots of unexpected
+word choices<delay8 /><tag a="110" b="0" /></message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" />Just think of that one as my attempt
+at a typical,<delay20 /> garden-variety sonnet.<delay20 />
+<anim id="BigSmile" target="actor" targetSpec="" />Ha HA!<delay frames="40" /> <anim id="FaintSmile" target="mainNpc" targetSpec="" />See what I did there?</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Worried" target="actor" targetSpec="" />Um,<delay20 /> aren't sonnets supposed to use
+<anim id="TakenAback" target="subNpc" targetSpec="" />a rhythm of ten syllables,<delay20 /> though?</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I<delay8 /><tag a="110" b="0" /> I mean,<delay20 /> anyone could do it that
+way.<delay40 /> <anim id="SmugFace" target="actor" targetSpec="" />But a true poet knows when to
+break the rules,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />OK,<delay20 /> uh<delay8 /><tag a="110" b="0" /> I guess <anim id="Worried" target="actor" targetSpec="" /><anim id="Nodding" target="subNpc" targetSpec="" />"Sweet,<delay20 /> Sweet
+<capitaliseNextWord /><tag a="135" b="7" arg="0xcd00" />" really stuck in
+my mind,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" />My haiku?<delay40 /> I was hoping that one
+might stick to your teeth<delay20 /> instead.<delay40 />
+<anim id="BigSmile" target="actor" targetSpec="" />Ha HA!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" /><anim id="Sighing" target="mainNpc" targetSpec="" />Little dessert joke for you<delay8 /><tag a="110" b="0" /></message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Worried" target="actor" targetSpec="" />Haiku?<delay20 /> Are you sure?<delay frames="40" /> I'm pretty sure
+those are supposed to have
+<anim id="TakenAback" target="subNpc" targetSpec="" />three lines,<delay20 /> not five<delay8 /><tag a="110" b="0" /></message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00">Five, three,<anim id="OhGeez" target="actor" targetSpec="" /><delay20 /> who's counting?<delay40 /> Just as
+long as it left you hungry for <anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Smiling" target="actor" targetSpec="" />more
+of my wordcraft,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00">Your cautionary poem about the
+smug villager was <anim id="SadSpiral" target="actor" targetSpec="" />so sad.<delay40 /> <anim id="Worried" target="subNpc" targetSpec="" />Poor guy
+had no self-awareness at all<delay8 /><tag a="110" b="0" /></message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="Restless" target="actor" targetSpec="" />Smug villager?<delay40 /> I don't remember
+writing any cautionary poems<delay8 /><tag a="110" b="0" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" /><anim id="Oops" target="actor" targetSpec="" />Oh no,<delay20 /> I'm so sorry!<delay frames="40" /> <anim id="Restless" target="actor" targetSpec="" />I guess I must
+be misremembering.<delay40 /> I read so many
+things,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />No need to pick apart my poetry
+for any hidden meanings.<delay40 /> <anim id="FaintSmile" target="actor" targetSpec="" />That's all
+me,<delay20 /> right there on the surface.
+<anim id="Grin" target="actor" targetSpec="" />Still,<delay20 /> don't hold back your criticism.<delay40 />
+<anim id="EmotEnd" target="actor" targetSpec="" />I can take it,<delay20 /> <tag a="110" b="5" /><delay8 /><tag a="110" b="0" />
+<anim id="Pardon" target="actor" targetSpec="" />For better or verse.<anim id="Sighing" target="mainNpc" targetSpec="" /><delay40 /> <anim id="Smiling" target="actor" targetSpec="" />Ha HA!</message>
+	<message label="101" attrib="00 00 04 00 00 00 00 00">How much <anim id="QuestionMark" target="actor" targetSpec="" />do you think you might
+look at yourself in the mirror<delay20 /> during
+a day,<delay20 /> <tag a="110" b="5" />?
+<anim id="Worried" target="actor" targetSpec="" />I hardly ever check my reflection,<delay20 /> but
+<tag a="110" b="31" arg="0xcd01" /> here<anim id="FaintSmile" target="subNpc" targetSpec="" />,<delay20 /> well<delay8 /><tag a="110" b="0" /></message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00">Once or twice.</message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00">A lot.</message>
+	<message label="101_c" attrib="00 00 00 00 00 00 00 00">Hardly ever.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You're neglecting your poor mirror!<delay40 />
+<20_2 arg="2" /><anim id="FaintSmile" target="actor" targetSpec="" />I feel like my own must wait around
+all day to see me,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><20_2 arg="3" />Oh!<delay40 /> <anim id="Worried" target="actor" targetSpec="" />I don't think I like the idea<anim id="Eh" target="actor" targetSpec="" /><delay20 /> of
+our reflections looking at us<delay8 /><tag a="110" b="0" /></message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Why not?<delay40 /> I like to think <anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Restless" target="mainNpc" targetSpec="" />that all the
+world's my stage,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="105" attrib="00 00 00 00 00 00 00 00"><20_2 arg="7" /><anim id="Hesitate" target="actor" targetSpec="" />Maybe I just don't need an audience<delay20 />
+the way you do.</message>
+	<message label="106" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh,<delay20 /> me too!<delay40 /> <20_2 arg="2" />We must be kindred
+spirits.<delay40 /> <anim id="AbsentMindedness" target="actor" targetSpec="" />I'm always mesmerized<delay20 /> by
+gazing into my own eyes.</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />I don't get that at all<delay8 /><tag a="110" b="0" /> <anim id="Restless" target="actor" targetSpec="" />It makes me
+squirm<delay20 /> to look too closely at myself.</message>
+	<message label="108" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><anim id="AbsentMindedness" target="actor" targetSpec="" />It's too bad you can't see ME<delay20 /> in your
+mirror instead.<delay40 /> <anim id="SmugFace" target="actor" targetSpec="" />You're missing out!</message>
+	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />If I saw him in the glass,<delay20 /> wouldn't
+it just be a window?<delay40 /> <anim id="Restless" target="actor" targetSpec="" />I'd hate to have
+to hang curtains on my mirrors<anim id="TakenAback" target="subNpc" targetSpec="" /><delay8 /><tag a="110" b="0" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><20_2 arg="2" />How could I deprive my poor mirror
+<anim id="SmugFace" target="actor" targetSpec="" /><anim id="Worried" target="mainNpc" targetSpec="" />of this view,<delay20 /> <tag a="110" b="5" />?</message>
+	<message label="111" attrib="00 00 00 00 00 00 00 00"><20_2 arg="7" /><anim id="Thinking" target="actor" targetSpec="" />I think I only ever look in the mirror<delay20 />
+to make sure there's no food on me.</message>
+	<message label="112" attrib="00 00 00 00 00 00 00 00"><20_3 arg="4" /><20_2 arg="5" /><anim id="Grin" target="actor" targetSpec="" />Such a shame<delay8 /><tag a="110" b="0" /> I'd never waste any
+opportunity<delay20 /> to <anim id="EmotEnd" target="actor" targetSpec="" />admire my reflection.</message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="31" arg="0xcd01" /> does seem to be
+his own best audience!</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Wow,<delay20 /> you actually have a signed first
+edition?<anim id="Grin" target="subNpc" targetSpec="" /><delay40 /> <anim id="Serious" target="actor" targetSpec="" />I've never been able to find
+a copy anywhere,<delay20 /> <tag a="110" b="5" />.
+<anim id="Worried" target="actor" targetSpec="" />And it's <anim id="Nodding" target="subNpc" targetSpec="" />out of print now<delay8 /><tag a="110" b="0" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00">I'd be glad to lend it to you,<anim id="Grin" target="actor" targetSpec="" /><delay20 /> if you'd
+lend me something in return.<delay40 /> Like
+that catchphrase of yours,<anim id="Eh" target="actor" targetSpec="" /><delay20 /> maybe?</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />I-I guess that'd be alright<delay8 /><tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><20_2 arg="4" /><tag a="50" b="3" /><tag a="110" b="5" />?<delay40 /> <anim id="Aha" target="actor" targetSpec="" />Oh,<delay20 /> yes.<anim id="Restless" target="mainNpc" targetSpec="" /><delay40 /> <anim id="SmugFace" target="actor" targetSpec="" />How do you
+like my <tag a="110" b="5" />?<delay40 /> I can see this
+becoming my thing,<delay20 /> <tag a="110" b="5" />!</message>
+	<message label="205" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Well, good.<delay20 /> Sure.<delay20 /> That's just,<delay20 /> uh<delay8 /><tag a="110" b="0" />
+<anim id="Smiling" target="subNpc" targetSpec="" />Just fine,<delay20 /> <tag a="110" b="5" />.</message>
+</msbt>

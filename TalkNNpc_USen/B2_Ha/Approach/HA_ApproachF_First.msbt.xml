@@ -1,0 +1,51 @@
+<msbt attribsize="8">
+	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Good morning, <tag a="110" b="3" />!</message>
+	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Afternoon, <tag a="110" b="3" />!</message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />!</message>
+	<message label="001_04" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />What's up, <tag a="110" b="3" />?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="002_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Thanks for swinging by to see me the
+other day. <delay20 />I needed the breather.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Usually I'm all about lifting stuff,<delay20 /> <anim id="Sighing" target="actor" targetSpec="" />but
+even I get tired when I'm moving into
+a new place.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />It's probably from unpacking all
+my free weights<tag a="110" b="0" /><pageBreak /><anim id="Smiling" target="actor" targetSpec="" />But now they're unpacked, <delay20 />so I can
+lift them 'cause I want to, and not
+just 'cause I feel like I have to!</message>
+	<message label="002_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Cleaning up after moving is tough,
+but if you do it right, it can also be
+a rock-solid workout!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />I am SUPER sore right now<tag a="110" b="0" /><delay20 />
+and it's WONDERFUL.</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="003_01" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I finally mapped out my ideal
+jogging route.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />It's optimized around everyone
+else's routines so I can say hey
+to each neighbor on every lap.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Also, it's <tag a="90" b="1" arg="0x100" /> miles long!</message>
+	<message label="003_02" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />It's taken a while, but I think I finally
+got the hang of this place.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak /><anim id="Explain" target="actor" targetSpec="" />If I'm doing arms, I'll go over to the
+stream.<delay20 /> For leg day, I'll hit the beach.<delay20 />
+And core work is all about the plaza.<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />When you're at my level, <delay20 />doing
+the right workout in the right
+place is key!</message>
+	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh! <delay20 />By the way<tag a="110" b="0" /></message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="005_01" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I've got something for you.</message>
+	<message label="005_02" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You should have this.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="006_01" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />When I was starting out on my grand
+fitness odyssey, <delay20 />my trainer gave me
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I never understood why, though<tag a="110" b="0" /><10_4 />
+<anim id="ShyBoy" target="actor" targetSpec="" />Oh well. <delay20 />Yours now!</message>
+	<message label="006_02" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />You know what do to with <tag a="50" b="2" />
+<tag a="125" b="0" arg="0x0" />, right?<delay frames="40" />
+<anim id="BigSmile" target="actor" targetSpec="" />Yep! <delay20 />Strength training!
+<anim id="Restless" target="actor" targetSpec="" />Just, uh<tag a="110" b="0" /><delay20 />don't ask me HOW.<delay20 />
+I'm sure you'll figure it out.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="007_01" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Alright, I'll let you get back to it.<delay frames="40" />
+<anim id="Greeting" target="actor" targetSpec="" />See you around, <tag a="110" b="5" />!</message>
+	<message label="007_02" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Alright, I got reps to hit.<delay frames="40" /> <anim id="Greeting" target="actor" targetSpec="" />Take care
+of those muscles, <tag a="110" b="5" />!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Living on <tag a="110" b="8" /> is
+totally gonna take my swole-ness
+to the next level, <tag a="110" b="5" />.</message>
+</msbt>

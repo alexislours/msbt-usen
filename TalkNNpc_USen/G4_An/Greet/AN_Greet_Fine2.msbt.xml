@@ -1,0 +1,16 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You again!<delay20 /> <anim id="ShyBoy" target="actor" targetSpec="" />Is this island not big
+enough for the both of us? <delay20 />Do we
+need a bigger island, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Ha!<delay20 /> We keep meeting up!<endTag a="110" b="14" /><delay20 />
+So, uh<tag a="110" b="0" /><delay20 />minutes been treating
+you well, <tag a="110" b="5" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay20 />didn't I just see you over there,
+<tag a="110" b="5" />?<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />You don't have a
+twin, do you?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" />How many times am I gonna bump
+into you today?<delay20 /> <anim id="Eh" target="actor" targetSpec="" />Hang on<tag a="110" b="0" /><delay20 />am I being
+pranked? <delay20 />Is there a hidden camera?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Come back for more, huh? <delay frames="40" /><anim id="Grin" target="actor" targetSpec="" />Must be
+my winnin' personality, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+</msbt>

@@ -1,0 +1,25 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 06 00"><anim id="Surprised" target="actor" targetSpec="" /><tag a="10" b="12" /><size value="150" />OH NO!<size value="100" /><10_8 arg="8" /><pageBreak /><10_9 /><anim id="Shocked" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />?<delay frames="30" /> <anim id="Worried" target="actor" targetSpec="" />Sorry,<delay20 /> I just<delay8 /><tag a="110" b="0" />
+I-I mean,<delay20 /> that looks really painful.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You should get some <colour id="1" />medicine<colour id="65535" /> for
+that,<delay20 /> to start treating the swelling.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />And be careful shaking trees,<delay20 /> OK?</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh! I almost didn't recognize your
+swollen face,<delay20 /> <tag a="110" b="3" />!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Were you stung?<delay20 /> I'm so sorry<delay8 /><tag a="110" b="0" />
+<anim id="Frantic" target="actor" targetSpec="" />My face hurts from looking at yours.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I hope you can get some <colour id="1" />medicine<colour id="65535" />
+for that<delay20 /> <anim id="FaintSmile" target="actor" targetSpec="" />and start healing up soon.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />Oh,<delay20 /> <tag a="110" b="5" />!<pageBreak /><anim id="Eh" target="actor" targetSpec="" />Poor <tag a="110" b="3" /><delay8 /><tag a="110" b="0" />
+That sting looks so painful.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />You should get some <colour id="1" />medicine<colour id="65535" />
+for that<delay20 /> as soon as possible.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Oh no!<delay frames="30" /> Are you OK?<pageBreak /><anim id="Frantic" target="actor" targetSpec="" />I know how much stings hurt,<delay20 /> and
+your poor face is so swollen<delay8 /><tag a="110" b="0" /><pageBreak /><anim id="Aha" target="actor" targetSpec="" />I just realized<delay20 /> I have <anim id="FaintSmile" target="actor" targetSpec="" />some
+<colour id="1" />medicine<colour id="65535" /> on me right now.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Here,<delay20 /> please use this.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I hope you heal up quick.<delay frames="30" />
+<anim id="FaintSmile" target="actor" targetSpec="" />Take care of yourself,<delay20 /> OK?</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />AH!<delay frames="30" /> <anim id="Worried" target="actor" targetSpec="" />Is that you,<delay20 /> <tag a="110" b="3" />?<pageBreak /><anim id="Restless" target="actor" targetSpec="" />By the look of that swelling,<delay20 />
+you must've been stung.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />You could use some <colour id="1" />medicine
+<colour id="65535" />right away,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="IdeaBulb" target="actor" targetSpec="" />Wait,<delay20 /> I know what you can do!<delay frames="30" />
+<anim id="EmotEnd" target="actor" targetSpec="" />I may not have any <colour id="1" />medicine<colour id="65535" /> on me
+at the moment,<delay20 /> but <anim id="FaintSmile" target="actor" targetSpec="" />I do have this<delay8 /><tag a="110" b="0" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />It's the recipe<delay20 /> for a simple kind
+of homemade <colour id="1" />medicine<colour id="65535" />!<pageBreak /><anim id="FaintSmile" target="actor" targetSpec="" />I really hope it helps you.</message>
+</msbt>

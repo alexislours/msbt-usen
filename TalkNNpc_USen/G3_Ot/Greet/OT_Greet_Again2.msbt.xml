@@ -1,0 +1,13 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />My, my.<delay frames="13" /> Was there something else,
+<tag a="110" b="6" />?<setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />What a pleasure to see you<tag a="110" b="0" />again.<delay40 />
+<anim id="Greeting" target="actor" targetSpec="" />What is it this time, <tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Yes, <tag a="110" b="6" />.<delay frames="13" /> What is it you
+need this time?<setNpcTalkChoices chatOption="1" cancelOption="0" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />We meet yet again, <tag a="110" b="6" />.<delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />Something I can do for you?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />We do seem to be running into each
+other quite a lot today.<delay40 /> <anim id="Greeting" target="actor" targetSpec="" />Is there
+something you need, <tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="0" /></message>
+</msbt>

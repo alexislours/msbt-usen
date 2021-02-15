@@ -1,0 +1,31 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="2" arg="0x65 0x66 0x67 0x68" /></message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="0" arg="0xc9 0xca" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x12d 0x12e 0x12f" /></message>
+	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I stopped in today because I had
+a feeling there might be a bargain
+waiting for me. <delay8 /><anim id="Assent" target="actor" targetSpec="" />I just need to find it.</message>
+	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />Find anything good? <delay8 /><anim id="Hesitate" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />,
+I haven't had any luck here myself.</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />I come here a lot just to browse.<delay8 />
+<anim id="ShyBoy" target="actor" targetSpec="" />Though, if I did happen to find
+something nice, I'd pick it up.</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />When I was little, I thought it'd be
+fun to live inside a store like this.<delay8 /><pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />Now I wonder if I might not be
+spending too much time in here<tag a="110" b="0" /></message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00">Are you finding what you're looking
+for here? <anim id="Hesitate" target="actor" targetSpec="" />Just curious what visitors
+from off-island think of this place<tag a="110" b="0" /></message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" /><tag a="110" b="0" /> I always worry that
+I'll get all the way home and then
+realize <anim id="Oops" target="actor" targetSpec="" />I forgot something <anim id="Restless" target="actor" targetSpec="" />on my list.<delay8 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Hope you find everything you need.</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I had to come see the remodeled
+<colour id="1" />Nook's Cranny<colour id="65535" /> for myself<delay20 /> as soon
+as I heard about it,<delay20 /> <tag a="110" b="5" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" /><colour id="5" />Mmmmm<colour id="65535" /><delay8 /><tag a="110" b="0" /> <anim id="Aha" target="actor" targetSpec="" />Wow!<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />It still
+smells like fresh paint!</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />The shop's so much bigger now!<delay frames="40" />
+<anim id="Worried" target="actor" targetSpec="" />It's a bit intimidating,<delay20 /> <tag a="110" b="5" />.</message>
+	<message label="303" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><colour id="3" />Timmy<colour id="65535" /> and <colour id="3" />Tommy<colour id="65535" /> sure seem excited
+about their remodel,<delay20 /> <tag a="110" b="5" />.<pageBreak />I can't blame them—<delay20 /><anim id="Smiling" target="actor" targetSpec="" />it is exciting!</message>
+</msbt>

@@ -1,0 +1,145 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 01 01 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />I feel a bit sleep deprived lately.<delay frames="40" />
+<anim id="Sleepy" target="actor" targetSpec="" />Yaaaawwwn<tag a="110" b="0" /> What about you?<delay frames="60" /><anim id="QuestionMark" target="actor" targetSpec="" />
+Are you getting enough sleep?</message>
+	<message label="001_a" attrib="02 00 00 00 00 00 00 00"><anim id="Negative" target="player" targetSpec="" />Probably not.</message>
+	<message label="001_b" attrib="03 00 00 00 00 00 00 00"><anim id="Nodding" target="player" targetSpec="" />Yep! Fresh as a daisy!</message>
+	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Oh dear. You're sleepy too!<10_4 /><anim id="ShyBoy" target="actor" targetSpec="" />
+I always stay up way too late,<delay20 />
+so today I think I'll go to bed early<tag a="110" b="0" />
+<anim id="EmotEnd" target="actor" targetSpec="" />Of course, I say that every day,<delay8 /><anim id="OhGeez" target="actor" targetSpec="" />
+and every day I just end up staying
+up late again<tag a="110" b="0" /><anim id="Sleepy" target="actor" targetSpec="" /> Yaaawwwnnn<tag a="110" b="0" /></message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Must be nice to be so responsible.<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />You're a really good role model.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I keep staying up late into the night.<10_4 />
+<anim id="FaintSmile" target="actor" targetSpec="" />Maybe I should follow your example<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />and try going to bed early tonight.</message>
+	<message label="004" attrib="00 00 03 01 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Well, it seems I'm free next weekend
+after all.<delay20 /><anim id="Angry" target="actor" targetSpec="" /> Someone, <delay8 />who shall remain
+nameless, <delay8 />canceled our plans.
+<anim id="QuestionMark" target="actor" targetSpec="" />What do you do when you
+suddenly have free time on
+your hands, <tag a="110" b="3" />?</message>
+	<message label="004_a" attrib="05 00 00 00 00 00 00 00">I make other plans!</message>
+	<message label="004_b" attrib="06 00 00 00 00 00 00 00">I get housework done.</message>
+	<message label="004_c" attrib="07 00 00 00 00 00 00 00">I retreat to the couch.</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />No sense crying over canceled
+plans, you say?<delay20 /> <anim id="Clapping" target="actor" targetSpec="" />Well, bravo!<delay8 />
+I like your attitude!
+<anim id="SmugFace" target="actor" targetSpec="" />Why waste a single second on what
+MIGHT have been when you can
+focus on what WILL be, instead.
+<anim id="Smiling" target="actor" targetSpec="" />I could learn a thing or two
+from you, <tag a="110" b="6" />!</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Why, <delay20 />that's very responsible of you,
+my dear.<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> And what a fabulous use
+of time.
+<anim id="Greeting" target="actor" targetSpec="" />I've been procrastinating on so many
+of my own pesky chores, <delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" />I may have
+to steal your idea.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />No! <delay8 />You just give up and loaf about?<delay20 />
+<anim id="EmotEnd" target="actor" targetSpec="" />But darling, <delay8 /><anim id="Negative" target="actor" targetSpec="" />you mustn't turn into
+a lazybones!
+<anim id="Thinking" target="actor" targetSpec="" />Then again,<delay8 /> I suppose one does need
+time to recharge one's batteries and
+refresh one's mind.
+<anim id="Explain" target="actor" targetSpec="" />Perhaps unexpected free time is the
+universe's way of telling us to get in
+touch with our inner couch potato.</message>
+	<message label="008" attrib="00 00 10 01 00 00 00 00"><anim id="Hello" target="actor" targetSpec="" />What's the most important thing you
+take into consideration when you're
+picking out new clothes?</message>
+	<message label="008_a" attrib="09 00 00 00 00 00 00 00">Price.</message>
+	<message label="008_b" attrib="0a 00 00 00 00 00 00 00">Fabric.</message>
+	<message label="008_c" attrib="0b 00 00 00 00 00 00 00">Style.</message>
+	<message label="008_d" attrib="0c 00 00 00 00 00 00 00">Comfort.</message>
+	<message label="009" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I read somewhere that the way you
+pick out clothes says a lot about the
+way others see you.
+<anim id="Nodding" target="actor" targetSpec="" />You pick based on value,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> so I bet
+that means you have a reputation for
+being sensible and straightforward.
+<anim id="EmotEnd" target="actor" targetSpec="" />You're probably thought of as a
+<anim id="Hello" target="actor" targetSpec="" />no-nonsense, what-you-see-is-
+what-you-get type.<10_4 /> <anim id="Smiling" target="actor" targetSpec="" />I like that!</message>
+	<message label="010" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I read somewhere that the way you
+pick out clothes says a lot about the
+way others see you.
+<anim id="Nodding" target="actor" targetSpec="" />Fabric is important to you, so I bet<delay20 />
+<anim id="FaintSmile" target="actor" targetSpec="" />people think of you as a substance-
+over-style type.
+<anim id="EmotEnd" target="actor" targetSpec="" />You probably develop<anim id="Hello" target="actor" targetSpec="" /> deep, lasting
+friendships.<10_4 /><anim id="Smiling" target="actor" targetSpec="" /> What a wonderful ability
+to have!</message>
+	<message label="011" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I read somewhere that the way you
+pick out clothes says a lot about the
+way others see you.
+<anim id="Nodding" target="actor" targetSpec="" />You choose based on style,<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> so I bet
+people see you as someone who's
+really cool and in tune with trends.
+<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Hello" target="actor" targetSpec="" />You must stand out at work or
+school, right?<10_4 /><anim id="Smiling" target="actor" targetSpec="" /> I bet everyone
+wants to be like you!</message>
+	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />I read somewhere that the way you
+pick out clothes says a lot about the
+way others see you.
+<anim id="Nodding" target="actor" targetSpec="" />Since you picked comfort,<anim id="FaintSmile" target="actor" targetSpec="" /> I bet you
+live life at your own pace.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You set your own goals and then<anim id="Hello" target="actor" targetSpec="" /> find
+the best way to accomplish them.<10_4 />
+<anim id="Smiling" target="actor" targetSpec="" />A strong will is a good way to go!</message>
+	<message label="013" attrib="00 00 10 01 00 00 00 00">If you were going to build a house,<delay20 />
+<anim id="Hello" target="actor" targetSpec="" />what would be the most important
+thing you'd consider?</message>
+	<message label="013_a" attrib="0e 00 00 00 00 00 00 00">Size.</message>
+	<message label="013_b" attrib="0f 00 00 00 00 00 00 00">Cost.</message>
+	<message label="013_c" attrib="10 00 00 00 00 00 00 00">Location.</message>
+	<message label="013_d" attrib="11 00 00 00 00 00 00 00">The neighbors.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00">By analyzing what you'd emphasize
+in a home,<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> we can tell a lot about
+what you feel is important in life.
+<anim id="Nodding" target="actor" targetSpec="" />You said you'd focus on size,<anim id="FaintSmile" target="actor" targetSpec="" /> so it 
+seems like accomplishments are key
+to your contentment.
+<anim id="EmotEnd" target="actor" targetSpec="" />Not too much, not too little<tag a="110" b="0" /><anim id="Nodding" target="actor" targetSpec="" /><anim id="Smiling" target="actor" targetSpec="" />
+Just remember that life can be
+a big balancing act.</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00">By analyzing what you'd emphasize
+in a home,<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> we can tell a lot about
+what you feel is important in life.
+<anim id="Nodding" target="actor" targetSpec="" />You said price,<anim id="FaintSmile" target="actor" targetSpec="" /> so I bet that means
+you value security and stability.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You may have get-rich-quick dreams,
+<anim id="Hello" target="actor" targetSpec="" />but you're better at saving up slowly.<10_4 />
+<anim id="Smiling" target="actor" targetSpec="" />I should learn something from you!</message>
+	<message label="016" attrib="00 00 00 00 00 00 00 00">By analyzing what you'd emphasize
+in a home,<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> we can tell a lot about
+what you feel is important in life.
+<anim id="Nodding" target="actor" targetSpec="" />Because you said location, <anim id="FaintSmile" target="actor" targetSpec="" />we can
+guess that you value hard work and
+persistence.
+<anim id="EmotEnd" target="actor" targetSpec="" />Effort may be invisible, <anim id="Nodding" target="actor" targetSpec="" />but people
+can tell by the results <anim id="Smiling" target="actor" targetSpec="" />that you're
+not a lazy person!</message>
+	<message label="017" attrib="00 00 00 00 00 00 00 00">By analyzing what you'd emphasize
+in a home,<delay20 /><anim id="Greeting" target="actor" targetSpec="" /> we can tell a lot about
+what you feel is important in life.
+<anim id="Nodding" target="actor" targetSpec="" />By picking the neighbors,<anim id="FaintSmile" target="actor" targetSpec="" /> we can tell
+that you value trust<tag a="110" b="0" />and being
+trustworthy to others.
+<anim id="EmotEnd" target="actor" targetSpec="" /><anim id="Nodding" target="actor" targetSpec="" />I bet others appreciate the care you
+put into<anim id="Smiling" target="actor" targetSpec="" /> developing friendships.</message>
+	<message label="018" attrib="00 00 03 01 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />When I wear clothes I really like,<anim id="Nodding" target="actor" targetSpec="" />
+I just can't help but smile.<10_4 /> <anim id="Hello" target="actor" targetSpec="" />Do you
+really like what you're wearing now?</message>
+	<message label="018_a" attrib="13 00 00 00 00 00 00 00">I sure do!</message>
+	<message label="018_b" attrib="14 00 00 00 00 00 00 00">Not really.</message>
+	<message label="018_c" attrib="15 00 00 00 00 00 00 00">I don't really care.</message>
+	<message label="019" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Well, that outfit certainly does look
+good on you. Your fashion is going
+to outshine mine!</message>
+	<message label="020" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh my. <delay frames="13" />Really?<delay40 /> Well, <anim id="HappyFlower" target="actor" targetSpec="" />I think your
+outfit is sublime, darling.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Of course, I'd expect no less
+from you, <tag a="110" b="3" />!</message>
+	<message label="021" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Could go either way, huh?<10_4 /><anim id="EmotEnd" target="actor" targetSpec="" /> Well,
+watch out!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" /> Wear something long
+enough and it'll grow on you!</message>
+</msbt>

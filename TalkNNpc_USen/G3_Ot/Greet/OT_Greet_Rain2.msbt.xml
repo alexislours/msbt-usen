@@ -1,0 +1,34 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 00 01 00 07 00 00"><tag a="60" b="7" arg="0x710 0x800 0xcd00" /></message>
+	<message label="002" attrib="00 00 00 01 00 03 00 00"><tag a="60" b="7" arg="0x910 0xa00 0xcd00" /></message>
+	<message label="003" attrib="00 00 00 01 00 04 00 00"><tag a="60" b="7" arg="0xb10 0xc00 0xcd00" /></message>
+	<message label="004" attrib="00 00 00 01 00 09 00 00"><tag a="60" b="7" arg="0xd10 0xe00 0xcd00" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00">Well, <tag a="110" b="3" />,<delay frames="13" /><anim id="OhGeez" target="actor" targetSpec="" /> I suppose
+seeing the flowers soak up this rain
+almost makes this weather worth it.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="007" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Well hello again, <tag a="110" b="6" />!<delay40 />
+<anim id="FaintSmile" target="actor" targetSpec="" />With weather like this, I daresay
+it's a fine day to be a frog.<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+	<message label="008" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Ah,<delay frames="13" /> hello again!<delay frames="13" /> So, eh<tag a="110" b="0" /><anim id="Worried" target="actor" targetSpec="" />how long
+DO you think this rain will keep
+up, <tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="009" attrib="00 00 0c 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Splish splash, <tag a="110" b="3" />!<delay frames="13" />
+Isn't this weather simply the
+best, <tag a="110" b="6" />?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="010" attrib="00 00 0c 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Ah, we meet yet again, <tag a="110" b="6" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Well,<delay frames="13" /> I do hope you're watching your
+step out here. <delay20 /><anim id="Worried" target="actor" targetSpec="" />The rain has made
+everything quite slippery.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="011" attrib="00 00 0c 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Enjoying the evening rain too
+I see, <tag a="110" b="6" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Staying inside when it's like this<tag a="110" b="0" /><delay frames="13" />
+<anim id="Negative" target="actor" targetSpec="" />what a waste of good weather that
+would be, don't you think?<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="012" attrib="00 00 0c 00 00 00 00 00">You know,<delay frames="13" /> <anim id="Greeting" target="actor" targetSpec="" />an evening stroll in the
+rain is surprisingly refreshing.<delay20 />
+<anim id="Smiling" target="actor" targetSpec="" />I had no idea, <tag a="110" b="6" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="013" attrib="00 00 0c 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Everyone is always asking why
+I don't I use an umbrella.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />It's quite simple, really<tag a="110" b="0" /><delay20 />
+<anim id="Love" target="actor" targetSpec="" />I LOVE the rain, <tag a="110" b="6" />!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="014" attrib="00 00 0c 00 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />Ah, rain like this makes me think of
+sharing an umbrella with a friend.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />Just thinking about it brings back
+such bittersweet memories<tag a="110" b="0" /><setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

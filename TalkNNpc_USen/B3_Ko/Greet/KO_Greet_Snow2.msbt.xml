@@ -1,0 +1,15 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 0c 01 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Aren't you freezin', kiddo?<10_4 /> <anim id="EmotEnd" target="actor" targetSpec="" />Weather
+like this, <delay8 />you gotta keep movin' or a
+cold will catch you! <delay8 /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="002" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Ah<tag a="110" b="0" />ahh<tag a="110" b="0" /><anim id="Sneezing" target="actor" targetSpec="" />AHHHCHOO!!!<delay20 />
+Blustering blizzards! <delay8 /><anim id="Shaking" target="actor" targetSpec="" />This weather
+is givin' me the bone chills!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="003" attrib="00 00 0c 01 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Watch your step, now! <delay frames="40" /><anim id="Negative" target="actor" targetSpec="" />You don't
+want to take a tumble down a
+snowbank, <tag a="110" b="5" />.<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="004" attrib="00 00 0c 01 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Just look at it comin' down<tag a="110" b="0" /><delay frames="40" /> <anim id="Shaking" target="actor" targetSpec="" />It's cold as a cast-iron commode out here!<setNpcTalkChoices chatOption="0" cancelOption="1" /></message>
+	<message label="005" attrib="00 00 0c 01 00 00 00 00"><anim id="AbsentMindedness" target="actor" targetSpec="" />This place is pretty as a present
+when it's covered in snow like this<tag a="110" b="0" />
+<anim id="ColdChill" target="actor" targetSpec="" />A very COLD present!<delay frames="40" /><anim id="Laughing" target="actor" targetSpec="" /> Gahaha!<setNpcTalkChoices chatOption="1" cancelOption="1" /></message>
+</msbt>

@@ -1,0 +1,79 @@
+<msbt attribsize="8">
+	<message label="001" attrib="00 00 02 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I've been thinking about trying
+to cultivate a more mysterious
+persona<tag a="110" b="0" /> <anim id="QuestionMark" target="actor" targetSpec="" />Wanna help me out?
+<anim id="Nodding" target="actor" targetSpec="" />I was thinking we could start
+with some kind of weird, special
+greeting that's just for us.</message>
+	<message label="001_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I'm into it.</message>
+	<message label="001_b" attrib="00 00 00 00 00 00 00 00">Not interested.</message>
+	<message label="002" attrib="00 00 02 00 00 00 00 00"><anim id="Hesitate" target="actor" targetSpec="" />Hey, remember our special greeting?<delay20 />
+"<tag a="110" b="14" />Say good morning, sunshine<endTag a="110" b="14" />"?<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Do you<tag a="110" b="0" />maybe want to change it?</message>
+	<message label="002_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I guess we could?</message>
+	<message label="002_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />I like it as-is.</message>
+	<message label="003" attrib="00 00 02 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Hey, I've got a proposal for you<tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />What if we had some kind of unique
+thing we always said to each other?<delay20 />
+<anim id="WrySmile" target="actor" targetSpec="" />Kind of like our own brand!</message>
+	<message label="003_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Sure, I've got an idea.</message>
+	<message label="003_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Nah, not interested.</message>
+	<message label="004" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Oh, there you are!<delay20 /> Listen,<anim id="Thinking" target="actor" targetSpec="" />
+I've been thinking a lot about
+rebranding<tag a="110" b="0" />
+<anim id="OhGeez" target="actor" targetSpec="" />You know, the usual.<delay20 /> Edgier, more
+abrasive, more in-your-face. <delay20 /><anim id="Aha" target="actor" targetSpec="" />Oh, and
+I want to change our greeting!
+<anim id="Nodding" target="actor" targetSpec="" />Right now, it's something like<tag a="110" b="0" />
+"<tag a="110" b="14" />Say good morning, sunshine<endTag a="110" b="14" />."<delay20 />
+<anim id="Grin" target="actor" targetSpec="" />But we can do whatever we want!</message>
+	<message label="004_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />Let's change it.</message>
+	<message label="004_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="player" targetSpec="" />No, I still like it!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><tag a="110" b="0" />Oh. <delay frames="40" /><anim id="Blushing" target="actor" targetSpec="" />Well, I thought it would
+be cool, but I can see now that
+it would be totally lame.</message>
+	<message label="006" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Yeah, you're probably right.<delay20 />
+We should build more exposure
+for our current brand.<delay20 /> <anim id="Nodding" target="actor" targetSpec="" />Good call.</message>
+	<message label="007" attrib="00 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Nah, you're right. <delay20 />My brand is
+already so strong,<delay20 /> it doesn't
+make sense to dilute it.</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Oh, well if you still like it, we
+should keep it. <delay20 />You're my
+brand guru!</message>
+	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Alright! Whaddaya got for me?</message>
+	<message label="101" attrib="00 00 02 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, let's try it on for size.<pageBreak /><anim id="Grin" target="actor" targetSpec="" /><tag a="110" b="14" />Say good morning, sunshine<endTag a="110" b="14" />!<10_4 />
+<anim id="QuestionMark" target="actor" targetSpec="" />What do you think? <delay20 />Are you
+feeling it?</message>
+	<message label="101_a" attrib="00 00 00 00 00 00 00 00">Nice! You sold it.</message>
+	<message label="101_b" attrib="00 00 00 00 00 00 00 00">Nah, let's try again.</message>
+	<message label="102" attrib="00 00 02 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />OK, let's try it on for size.<pageBreak /><anim id="Grin" target="actor" targetSpec="" /><tag a="110" b="14" />Say good morning, sunshine<endTag a="110" b="14" />!<10_4 />
+<anim id="Confused" target="actor" targetSpec="" />Wait<tag a="110" b="0" />that's the exact same as it was
+before! <delay20 />Did you change your mind?</message>
+	<message label="102_a" attrib="00 00 00 00 00 00 00 00">I did.</message>
+	<message label="102_b" attrib="00 00 00 00 00 00 00 00">Uh...no?</message>
+	<message label="103" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Oh, my bad.<10_4 /> <anim id="Smiling" target="actor" targetSpec="" />Let me take it again
+from the top!</message>
+	<message label="104" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />What are you doing?<delay frames="40" /> <anim id="Frantic" target="actor" targetSpec="" />You can't just
+leave me hangin'!</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" /><tag a="110" b="14" />Say good morning, sunshine<endTag a="110" b="14" />!<10_4 />
+<anim id="Love" target="actor" targetSpec="" />YES! <delay20 />I'm in love with it already.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="14" />Say good morning, sunshine<endTag a="110" b="14" /><tag a="110" b="0" /><10_4 />
+<anim id="BigSmile" target="actor" targetSpec="" />Oh, that's straight-up <tag a="110" b="5" />!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Get ready, because I'm about to
+be saying that ALL the time.</message>
+	<message label="203" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Can't wait to hear what the focus
+group thinks about it. <10_4 /><anim id="Laughing" target="actor" targetSpec="" />Kidding!<delay8 />
+I already know what they think!</message>
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Mmm.<delay20 /> Yes. <delay20 /><anim id="Grin" target="actor" targetSpec="" />I can feel that one
+working already.</message>
+	<message label="300" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />I suppose you're right.<delay20 /> The one
+we've been using definitely has
+a certain something about it<tag a="110" b="0" />
+<anim id="BigSmile" target="actor" targetSpec="" />Alright! <delay8 />We stay on-brand.<delay8 />
+Focus group the focus group!<delay20 />
+<anim id="Grin" target="actor" targetSpec="" />This is so proactive—I love it!</message>
+	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />No, you're right.<delay20 /> I never should
+have second-guessed our original
+choice.<delay20 /><anim id="Smiling" target="actor" targetSpec="" /> It still totally works!</message>
+	<message label="302" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Let's say it together one more
+time, shall we?<pageBreak /><anim id="Cheering" target="actor" targetSpec="" /><tag a="110" b="14" />Say good morning, sunshine<endTag a="110" b="14" />!</message>
+</msbt>
