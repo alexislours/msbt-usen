@@ -2,12 +2,12 @@
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><size value="75" />Oh man<tag a="110" b="0" />so yummy<tag a="110" b="0" /> C'mere<tag a="110" b="0" /><delay frames="40" />
 I wanna fit you in my tummy<tag a="110" b="0" /><delay frames="60" /><size value="100" />
-<anim id="Sleepy" target="actor" targetSpec="" /><delay20 />Huuoouuuaahhhh!<10_7 arg="120" /></message>
+<anim id="Sleepy" target="actor" targetSpec="" /><delay20 />Huuoouuuaahhhh!<anim id="EmotEnd" target="actor" targetSpec="" /><10_7 arg="120" /></message>
 	<message label="001_02" attrib="00 00 00 00 00 00 00 00">Zzz<tag a="110" b="0" /> <delay frames="40" />Zzz<tag a="110" b="0" /><delay frames="60" />
 <10_10 />Pppphhhpppllt!<delay20 /><10_9 /><delay frames="40" />
-<anim id="Sleepy" target="actor" targetSpec="" />Huh<tag a="110" b="0" />? Wuzza<tag a="110" b="0" /><10_7 arg="120" /></message>
+<anim id="Sleepy" target="actor" targetSpec="" />Huh<tag a="110" b="0" /> Wuzza<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><10_7 arg="120" /></message>
 	<message label="001_03" attrib="00 00 00 00 00 00 00 00">Hi, Grandma! I thought you were<tag a="110" b="0" /><delay frames="60" />
-<anim id="Sleepy" target="actor" targetSpec="" /><delay20 />Hraaarh!<10_7 arg="120" /></message>
+<anim id="Sleepy" target="actor" targetSpec="" /><delay20 />Hraaarh!<anim id="EmotEnd" target="actor" targetSpec="" /><10_7 arg="120" /></message>
 	<message label="010" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="010_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />I just woke up a little bit ago, but
 now I'm fulla breakfast and ready

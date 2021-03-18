@@ -6,6 +6,10 @@ Go ahead, have a look around.</message>
 	<message label="999_02" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Isn't my place super sweet? <delay frames="40" /><anim id="HappyDance" target="actor" targetSpec="" />I like
 showing it off for folks 'cause of all
 the neat stuff I got, <tag a="110" b="6" />!</message>
+	<message label="999_03" attrib="00 00 00 00 00 00 00 00"><anim id="Love" target="actor" targetSpec="" />My place is the best!<delay20 /> And everywhere
+you look, it just keeps getting better.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Unless you look under stuff.<delay20 /> Then it
+gets worse.<10_4 /> <anim id="Aha" target="actor" targetSpec="" /><delay20 />Oh!<delay8 /> Unless you find a
+peanut.<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />Then it's the best again!</message>
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><anim id="Smiling" target="actor" targetSpec="" />That <tag a="125" b="0" arg="0x0" /> is
 so comfy, <20_2 arg="9" />I could sleep
 in it all day.<pageBreak />No worries, though! <20_3 arg="6" /><20_3 arg="3" /><delay8 />My tummy wakes
@@ -32,9 +36,9 @@ I'm sleeping?</message>
 took a bath first <20_2 arg="10" /><20_2 arg="9" />and spilled food on
 myself, I'd have to take another bath!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Maybe I could just eat in the
 bathtub?<delay20 /> Yeah<tag a="110" b="0" /><delay40 /> <anim id="IdeaBulb" target="actor" targetSpec="" />Burger bubble bath!</message>
-	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Confused" target="actor" targetSpec="" />Oh, hey! Don't touch the
-<tag a="125" b="0" arg="0x0" />!<10_4 />
-<20_3 arg="6" /><anim id="Oops" target="actor" targetSpec="" />I spilled <tag a="135" b="1" arg="0xcd00" /> on it!</message>
+	<message label="008" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Confused" target="actor" targetSpec="" />Oh, hey! Don't touch my
+<tag a="125" b="0" arg="0x0" />!<pageBreak /><20_3 arg="6" /><anim id="Oops" target="actor" targetSpec="" />I had a big <tag a="135" b="1" arg="0xcd00" /> spill earlier,
+and stuff's still sticky.</message>
 	<message label="009" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><anim id="Smiling" target="actor" targetSpec="" />This <tag a="125" b="0" arg="0x0" />?<20_3 arg="6" /><20_3 arg="3" /><delay frames="80" />
 Fits my butt<tag a="110" b="0" /><delay20 /><anim id="WrySmile" target="actor" targetSpec="" />perfectly.</message>
 	<message label="010" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" />My <tag a="125" b="0" arg="0x0" />
@@ -121,4 +125,37 @@ how, <tag a="110" b="6" /><tag a="110" b="0" /></message>
 <tag a="125" b="0" arg="0x0" />, huh?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="SmugFace" target="actor" targetSpec="" />Yep!<delay20 /> I scrubbed out all the cheese.<10_4 />
 <anim id="Blushing" target="actor" targetSpec="" />That's<tag a="110" b="0" />been why it smells like burnt
 cheese all over <tag a="110" b="8" />.</message>
+	<message label="034" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Love" target="actor" targetSpec="" />Isn't that poster super cool?<delay20 /> I think
+so.<delay8 /> It's got me on it, and I'm cool,
+which means the poster's cool too!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />And it makes me look like a movie
+star!<delay8 /> <20_3 arg="6" /><20_3 arg="3" />I'm<anim id="SmugFace" target="actor" targetSpec="" /><tag a="110" b="0" /><capitaliseNextWord /><tag a="110" b="10" />:<delay8 /> The
+<capitaliseNextWord /><tag a="110" b="15" /> of <capitaliseNextWord /><tag a="110" b="8" />!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" /><tag a="110" b="0" />Now I want popcorn, <tag a="110" b="6" />.</message>
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" />I love lookin' at the cover of my
+<tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Nodding" target="actor" targetSpec="" />Plus, if I stare hard enough,<delay8 /> I hear
+music in my noggin.<delay20 /> <anim id="HappyDance" target="actor" targetSpec="" />And then my
+body starts dancing, <tag a="110" b="6" />!</message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Love" target="actor" targetSpec="" />I love my little flower friend soooo
+much.<delay20 /> I give it water.<delay8 /> I sing to it.<delay8 />
+I even share my snacks with it!<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Serious" target="actor" targetSpec="" />It doesn't seem too excited about the
+snacks though.<delay frames="40" /> <anim id="Smiling" target="actor" targetSpec="" />But I just think that's
+'cause I haven't found what it likes!</message>
+	<message label="037" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="ColdChill" target="actor" targetSpec="" />Whenever my head's feeling too
+cold, I like to stare real hard at
+my <tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 />And just like that,<delay8 /> after only three or
+four hours,<delay8 /> my head doesn't feel cold
+anymore, <tag a="110" b="6" />!<delay20 /><20_3 arg="6" /><20_3 arg="3" /> <anim id="Greeting" target="actor" targetSpec="" />Neat, huh?</message>
+	<message label="038" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Nodding" target="actor" targetSpec="" />Nothing's more fun than staring at
+my <tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Except maybe <tag a="135" b="8" arg="0xcd00" />
+or <tag a="135" b="8" arg="0xcd01" /><tag a="110" b="0" /> Oh! Or even
+<tag a="135" b="8" arg="0xcd02" />, <tag a="110" b="6" />.<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Hmm<tag a="110" b="0" /><tag a="135" b="8" arg="0xcd03" /> is pretty
+fun too though.<delay20 /> And there's also
+<tag a="135" b="8" arg="0xcd04" />.<delay20 /> That's sooo fun.<pageBreak /><anim id="Eh" target="actor" targetSpec="" />OK, OK, OK!<delay20 /><20_3 arg="6" /><20_3 arg="3" /> <anim id="SmugFace" target="actor" targetSpec="" />But besides all of those,<delay8 />
+nothing is more fun than staring
+at my <tag a="125" b="0" arg="0x0" />!</message>
+	<message label="039" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="FaintSmile" target="actor" targetSpec="" />Have you met my invisible friend?<delay20 />
+He's the one over there wearing
+<tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Worried" target="actor" targetSpec="" />Huh<tag a="110" b="0" /> That's weird.<delay20 /> Usually he's real
+friendly and chatty, <tag a="110" b="6" />.<pageBreak /><anim id="IdeaBulb" target="actor" targetSpec="" /><delay20 />Oh!<delay20 /> <20_3 arg="6" /><20_3 arg="3" />His invisible grandma called,
+so he went home.<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />Guess he forgot
+his <tag a="125" b="0" arg="0x0" />.</message>
 </msbt>

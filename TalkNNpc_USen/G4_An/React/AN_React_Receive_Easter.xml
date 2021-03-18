@@ -18,4 +18,10 @@ find cleanin'<tag a="110" b="0" /><pageBreak /><anim id="Explain" target="actor"
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey there, stranger. <delay20 />Just a sec<tag a="110" b="0" /></message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="3" />! <delay20 />Perfect timing.<delay20 />
 Hang on.</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay8 />Oh, sweet!<delay8 /> You're back!<delay20 /> Here are
+those <colour id="1" /><tag a="125" b="0" arg="0x200" /><colour id="65535" />.</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />And there we go.<delay20 /> Now they're your
+problem, <tag a="110" b="5" />.<delay20 /> <anim id="Laughing" target="actor" targetSpec="" />Bwa ha ha!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Uh, hey<tag a="110" b="0" /><delay8 /> Your pockets?<delay20 /> They're still
+full.<delay20 /> You gonna fix that or what?</message>
 </msbt>

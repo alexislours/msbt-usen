@@ -54,13 +54,13 @@ or somethin'?<delay40 /> Give it a try.<pageBreak /><anim id="FaintSmile" target
 <anim id="EmotEnd" target="actor" targetSpec="" /><colour id="4" />Maybe I'll try it out at home later<delay8 /><tag a="110" b="0" /><colour id="65535" /></message>
 	<message label="109" attrib="00 00 00 00 00 00 00 00"><anim id="Sneezing" target="actor" targetSpec="" /><10_10 /><size value="150" />Bwa-CHOO!<delay40 />
 Consarn it!<size value="100" /></message>
-	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hey!<delay20 /> <anim id="Angry" target="actor" targetSpec="" />Say it, don't spray it,<delay20 />
-<tag a="110" b="31" arg="0xcd00" />!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />And why would you say "consarn it"
-after you sneezed,<delay20 /> anyway?</message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Hey!<delay20 /> You should cover up when
+you sneeze<anim id="Angry" target="actor" targetSpec="" />,<delay20 /> <tag a="110" b="31" arg="0xcd00" />!<pageBreak /><anim id="Worried" target="actor" targetSpec="" />And why would you say "consarn it"
+afterward,<delay20 /> anyway?</message>
 	<message label="111" attrib="00 00 00 00 00 00 00 00"><anim id="Sneezing" target="actor" targetSpec="" /><10_10 /><size value="150" />Bwa-CHOO!<delay40 />
 Tarnation!<size value="100" /></message>
 	<message label="112" attrib="00 00 00 00 00 00 00 00"><anim id="Fuming" target="actor" targetSpec="" />Ew,<delay20 /> watch where you're sneezing,<delay20 />
-would ya?<delay40 /> <anim id="Worried" target="actor" targetSpec="" />And what's the deal with
+wouldja?<delay40 /> <anim id="Worried" target="actor" targetSpec="" />And what's the deal with
 yelling "tarnation" after you sneeze?</message>
 	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hey,<delay20 /> I got a joke for you,<delay20 />
 <tag a="110" b="31" arg="0xcd01" /><delay8 /><tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Why's an island like the letter T?<10_4 />

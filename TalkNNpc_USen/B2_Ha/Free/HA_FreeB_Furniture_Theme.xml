@@ -11,6 +11,11 @@ what the perfect form is for using
 <delay20 /><anim id="QuestionMark" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="135" b="6" arg="0xcd00" /> face-off?<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="Sighing" target="actor" targetSpec="" />Maybe you should come back
 later. <delay20 />I might be thinking on
 this for a while<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
+	<message label="999_03" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Greeting" target="actor" targetSpec="" />Look at the two of us, will ya!<delay20 />
+Gathered around our local
+<tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="3" /><20_3 arg="6" />You don't think<tag a="110" b="0" /><delay8 /><anim id="TakenAback" target="actor" targetSpec="" />it has some kind of
+magical pull or something, do ya?!<delay20 />
+No<tag a="110" b="0" /><delay8 /> That's silly. <delay8 />Right? <delay8 />Right<tag a="110" b="0" /></message>
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="10" /><anim id="Surprised" target="actor" targetSpec="" />What a mushroom!<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />Oh, it's just <tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" /> that's
 kinda mushroom-ish.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="FaintSmile" target="actor" targetSpec="" />That's<tag a="110" b="0" />a lot less impressive than the
@@ -119,4 +124,9 @@ the cardio train! <delay20 /><anim id="QuestionMark" target="actor" targetSpec="
 dancing during a bulking phase?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />What else can I do when I set these
 beautifully toned eyes on
 <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?</message>
+	<message label="030" attrib="00 00 00 00 00 00 00 00"><20_2 arg="10" /><20_2 arg="9" /><anim id="Nodding" target="actor" targetSpec="" />Mystery. <delay8 />Intrigue. <delay8 />Excitement!<delay8 />
+That's the vibe I get from our
+<tag a="125" b="0" arg="0x0" />.<pageBreak /><20_3 arg="6" /><20_3 arg="3" /><anim id="HappyDance" target="actor" targetSpec="" />I can't quite explain it, but stuff like
+that gives me a real itch to go on a
+grand adventure, <tag a="110" b="5" />!</message>
 </msbt>

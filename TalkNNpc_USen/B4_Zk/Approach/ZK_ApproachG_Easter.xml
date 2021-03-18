@@ -31,4 +31,14 @@ already, <tag a="110" b="3" />!</message>
 	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Hold up. <delay20 />I don't think you have
 space for this.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Don't worry.<delay20 /> I'll hang on to the recipe
 until you've made some room.</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Frantic" target="actor" targetSpec="" />Hey, there's no time to explain! <delay20 />I've
+got something I want to give you—
+<colour id="1" />5 <tag a="125" b="0" arg="0x200" /><colour id="65535" />!
+<anim id="Silent" target="actor" targetSpec="" />Oh.<delay20 /> I guess it's self-explanatory.<delay20 />
+I had some extra eggs.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />It's weird. <delay20 />It feels like it's really
+easy to find eggs right now!<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Off I go to find some more!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Yo, you don't even have room for
+these eggs? <delay frames="40" /><anim id="OhGeez" target="actor" targetSpec="" />Well, come back when
+you do, <tag a="110" b="5" />.</message>
 </msbt>

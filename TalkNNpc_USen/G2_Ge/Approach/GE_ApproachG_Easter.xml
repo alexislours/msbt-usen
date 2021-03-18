@@ -39,4 +39,17 @@ going to fit in your pockets.
 <anim id="Restless" target="actor" targetSpec="" />Just talk to me after your pockets
 aren't, like, about to explode.<delay frames="40" /><anim id="FaintSmile" target="actor" targetSpec="" /> I'll
 keep your recipe safe, no worries.</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />I have an AMAZING opportunity for
+you, and it's all thanks to my lot of
+<colour id="1" /><tag a="125" b="0" arg="0x200" /><colour id="65535" />.<pageBreak /><anim id="Explain" target="actor" targetSpec="" />I'm trying to up my charity game,
+and since you're always so sweet to
+me, I'd like to give you <colour id="1" />5 <colour id="65535" />of them!</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I def have a natural talent for finding
+eggs, tee-hee. <delay20 />Try to keep up if you
+can, <tag a="110" b="5" />!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />GASP! <delay8 />I can't give you my super-
+generous gift if your pockets are
+full, silly.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Once you've freed up some space,
+mosey on back, and I'll shower my
+generosity on you!</message>
 </msbt>

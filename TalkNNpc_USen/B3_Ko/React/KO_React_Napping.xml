@@ -1,11 +1,11 @@
 <msbt attribsize="8">
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="001_01" attrib="00 00 00 00 00 00 00 00"><size value="75" />Mmmm<delay8 /><tag a="110" b="0" />be quiet, clouds<delay8 /><tag a="110" b="0" />spoons're sleepin'<delay8 /><tag a="110" b="0" />
-well, ask the bicycle yourself<delay8 /><tag a="110" b="0" /> <size value="100" /><anim id="Surprised" target="actor" targetSpec="" />HUH?!<10_7 arg="120" /></message>
+well, ask the bicycle yourself<delay8 /><tag a="110" b="0" /> <size value="100" /><anim id="Surprised" target="actor" targetSpec="" />HUH?!<anim id="EmotEnd" target="actor" targetSpec="" /><10_7 arg="120" /></message>
 	<message label="001_02" attrib="00 00 00 00 00 00 00 00"><size value="75" />Tastes like wood<delay8 /><tag a="110" b="0" />scary banana<delay8 /><tag a="110" b="0" />never trust a
-talking carrot<delay8 /><tag a="110" b="0" /> <size value="100" /><anim id="Sleepy" target="actor" targetSpec="" />Mmmm.<10_7 arg="120" /></message>
+talking carrot<delay8 /><tag a="110" b="0" /> <size value="100" /><anim id="Sleepy" target="actor" targetSpec="" />Mmmm.<anim id="EmotEnd" target="actor" targetSpec="" /><10_7 arg="120" /></message>
 	<message label="001_03" attrib="00 00 00 00 00 00 00 00">Zzz<delay8 /><tag a="110" b="0" />zzzz<delay8 /><tag a="110" b="0" />ZZZZ!<delay frames="40" />
-<anim id="Shocked" target="actor" targetSpec="" />Gah!<10_7 arg="120" /></message>
+<anim id="Shocked" target="actor" targetSpec="" />Gah!<anim id="EmotEnd" target="actor" targetSpec="" /><10_7 arg="120" /></message>
 	<message label="010" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="010_01" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Now, what're you grinnin' about?<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Listen kiddo,<delay20 /> whatever you heard
 while I was sleepin' is between me

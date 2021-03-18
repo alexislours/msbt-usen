@@ -22,4 +22,15 @@ DIY whatsit, <tag a="110" b="5" />.</message>
 	<message label="012" attrib="00 00 00 00 00 00 00 00"><anim id="Angry" target="actor" targetSpec="" />Oh, come on now!<delay20 /> Your pockets
 are all full up.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />You go clear some room and I'll fret
 over my knee, <tag a="110" b="5" /><tag a="110" b="0" /></message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />This Bunny Day's been weird.<delay20 /> Seems
+like everywhere I look, I keep findin'
+more <colour id="1" /><tag a="125" b="0" arg="0x200" /><colour id="65535" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Think you'd wanna take a few off
+me?<delay frames="40" /> <anim id="Scheming" target="actor" targetSpec="" />Actually, I ain't askin'.<delay8 /> Here's
+<colour id="1" />5<colour id="65535" /> <colour id="1" /><tag a="125" b="0" arg="0x200" /><colour id="65535" />.</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />You're clever,<delay8 /> so I'm certain you'll
+come up with some kind of use for
+'em, <tag a="110" b="6" />.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Take care, kiddo!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh<tag a="110" b="0" /> Full pockets, huh?<delay20 /> I reckon
+that figures.<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />Could go make some
+room and then come back.<delay8 /> I'll wait.</message>
 </msbt>

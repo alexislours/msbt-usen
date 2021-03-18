@@ -1,22 +1,22 @@
 <msbt attribsize="8">
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="001_01" attrib="00 00 00 00 00 00 00 00">Mrrgh<tag a="110" b="0" /><delay20 />take me on?<delay20 /> Well, mmm<tag a="110" b="0" /><delay20 />
-dance battle<tag a="110" b="0" /><delay20 /><anim id="Sleepy" target="actor" targetSpec="" /> Wha?<10_7 arg="120" /></message>
+dance battle<tag a="110" b="0" /><delay20 /><anim id="Sleepy" target="actor" targetSpec="" /> Wha?<anim id="EmotEnd" target="actor" targetSpec="" /><10_7 arg="120" /></message>
 	<message label="001_02" attrib="00 00 00 00 00 00 00 00">Nnnn, but pizza<tag a="110" b="0" /><delay20 />purple plant food<tag a="110" b="0" /><delay20 />
-philosopher orchids<tag a="110" b="0" /><delay20 /><anim id="Sleepy" target="actor" targetSpec="" /> Huh?<10_7 arg="120" /></message>
-	<message label="001_03" attrib="00 00 00 00 00 00 00 00">Ungh<tag a="110" b="0" /><delay20 />thirty-three encores? But<tag a="110" b="0" /><delay20 />
-guitar's a pine cone<tag a="110" b="0" /><delay20 /> <anim id="Sleepy" target="actor" targetSpec="" />Uh?<10_7 arg="120" /></message>
+philosopher orchids<tag a="110" b="0" /><delay20 /><anim id="Sleepy" target="actor" targetSpec="" /> Huh?<anim id="EmotEnd" target="actor" targetSpec="" /><10_7 arg="120" /></message>
+	<message label="001_03" attrib="00 00 00 00 00 00 00 00">Ungh<tag a="110" b="0" /><delay20 /> Thirty-three encores? But<tag a="110" b="0" /><delay20 />
+guitar's a pine cone<tag a="110" b="0" /><delay20 /> <anim id="Sleepy" target="actor" targetSpec="" />Uh?<anim id="EmotEnd" target="actor" targetSpec="" /><10_7 arg="120" /></message>
 	<message label="010" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="010_01" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />You, um<tag a="110" b="0" /><delay20 />you didn't see that.<delay frames="40" /> <anim id="Sighing" target="actor" targetSpec="" />I slept
 great last night, so I don't know
 where that came from.</message>
 	<message label="010_02" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Yeah, I bet I looked kinda dumb.<delay20 />
-I thought I got enough sleep
+I thought I got enough sleep,
 but<tag a="110" b="0" /><delay frames="40" /><anim id="Sleepy" target="actor" targetSpec="" />guess not.</message>
 	<message label="011" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="011_01" attrib="00 00 00 00 00 00 00 00"><anim id="Grin" target="actor" targetSpec="" />Maybe I should lay off the
 all-nighters for a while<tag a="110" b="0" /></message>
-	<message label="011_02" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Call up an old buddy and the clock
+	<message label="011_02" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Call up an old buddy, and the clock
 just<tag a="110" b="0" /><delay20 />gets a mind of its own.<delay frames="40" />
 <anim id="Sleepy" target="actor" targetSpec="" />Worth it!</message>
 	<message label="012" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>

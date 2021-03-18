@@ -267,6 +267,27 @@ like that, <tag a="110" b="5" />.</message>
 I just wanna be sure, <tag a="110" b="6" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />You don't wanna look in the mirror
 and get excited 'cause Santa's there
 when it's really just you.<delay20 /> <anim id="Sighing" target="actor" targetSpec="" />Trust me.</message>
+	<message label="219" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="32" arg="0x6e 0x62 0x72 0x64 0x3e 0x32 0x36 0x31 0x2c 0x63 0x68 0x6e 0x3e 0x32 0x36 0x31 0x2c 0x64 0x75 0x6b 0x3e 0x32 0x36 0x31 0x2c 0x6f 0x73 0x74 0x3e 0x32 0x36 0x31 0x2c 0x70 0x62 0x72 0x3e 0x32 0x36 0x31 0x2c 0x70 0x67 0x6e 0x3e 0x32 0x36 0x31 0x2c 0x65 0x74 0x63 0x3e 0x32 0x36 0x32" /></message>
+	<message label="220" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />Hey, whoa!<delay8 /> Is that a soup bowl on
+your head?<delay20 /> <anim id="HappyDance" target="actor" targetSpec="" />Amazing!<delay20 /> It's like you're
+living my dream, <tag a="110" b="6" />!</message>
+	<message label="221" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Good thinking with the pajamas.<delay20 /> You
+never know when a nap might strike!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />You could be on the beach,<delay8 /> in your
+house,<delay8 /> in MY house,<delay8 /> shopping,<delay8 /> doing
+taxes,<delay8 /> sleeping, <tag a="110" b="6" /><tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />What I'm saying is, naps are sneaky,<delay8 />
+<anim id="Greeting" target="actor" targetSpec="" />so I'm glad to see you're prepared.</message>
+	<message label="222" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Wow, your clothes are real nice.<delay20 /> Hey,
+I've always wondered something<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Do trendy clothes make licking food
+stains taste, uh<tag a="110" b="0" /><anim id="QuestionMark" target="actor" targetSpec="" />trendier?<delay frames="40" /> Asking for
+a friend.<10_4 /> <anim id="Hesitate" target="actor" targetSpec="" /><size value="75" />I'm actually asking for me.<delay8 /> Shh!<size value="100" /></message>
+	<message label="223" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Seeing all that Nook Inc. stuff on
+you is really making me think<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />I'm on the Nook Inc. Island Getaway
+Package,<delay8 /> my mortgage is with Nook
+Inc., and I shop at Nook's Cranny<tag a="110" b="0" /><pageBreak /><anim id="Frantic" target="actor" targetSpec="" />But I could do SOOO much more!<delay20 />
+I could buy Nook Inc. clothes,<delay8 /> Nook
+Inc. furniture,<delay8 /> get more Nook Miles<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Yeah,<delay8 /> looks like I got some shopping
+to do. <delay20 />Better get to it.<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Anyway, your
+clothes are way neat, <tag a="110" b="6" />.</message>
 	<message label="251" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Hey! <delay20 />Look at us, a huh huh huh<tag a="110" b="0" />
 We're matching! <delay20 />We're both dressed
 as cats, <tag a="110" b="5" />!<pageBreak /><anim id="Oops" target="actor" targetSpec="" />Oh, right.<delay20 /> I AM a cat.</message>
@@ -304,6 +325,12 @@ horns-on-the-head part that sells it.</message>
 your <tag a="125" b="0" arg="0x0" />.<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />All sheep look like big fluffy beds
 to me. <delay20 /><anim id="Smiling" target="actor" targetSpec="" />If I had wool, I'd sleep even
 more than I do already.</message>
+	<message label="261" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Wow!<delay20 /> You look just like I did when
+I was a little <tag a="110" b="15" />.<delay20 /> Except, uh<tag a="110" b="0" /><delay8 />
+<anim id="BigSmile" target="actor" targetSpec="" />a lot more <tag a="110" b="3" />-like!</message>
+	<message label="262" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />You're dressed like a bird!<delay20 /> Are you
+learning to fly?<delay20 /> 'Cause I bet you'd
+be super good at it, <tag a="110" b="6" />!</message>
 	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Surprised" target="actor" targetSpec="" />Ohmigosh<tag a="110" b="0" /><delay frames="40" /> <anim id="Love" target="actor" targetSpec="" />I can't believe I'm seeing
 you in person!<delay20 /> You're my HERO!<pageBreak /><anim id="HappyDance" target="actor" targetSpec="" />Are you on patrol? <delay8 />Do you have a
 laser? <delay8 />Do you have a spaceship?<delay8 /> Can
@@ -342,6 +369,20 @@ Hang on<tag a="110" b="0" /><delay20 /><anim id="IdeaBulb" target="actor" target
 <tag a="110" b="3" />?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />They say for every ninja you can see,<delay8 />
 there's 50 more hiding. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Come out,
 everyone! I have cake!</message>
+	<message label="310" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />That face on your shirt is neat, but
+you know what'd be even neater?<delay frames="40" /> <anim id="BigSmile" target="actor" targetSpec="" />A
+me-faced shirt, <tag a="110" b="6" />!<delay8 /> Yeah!</message>
+	<message label="311" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />You're a superhero?<delay20 /> I mean,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />of
+COURSE you're a superhero!<delay20 /> You're
+in <tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Hey, ever thought about having
+<tag a="50" b="2" /><tag a="110" b="15" /> sidekick?<delay20 /> 'Cause
+I know a really cool <tag a="110" b="15" /><tag a="110" b="0" /><pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />He's named <tag a="110" b="10" />!</message>
+	<message label="312" attrib="00 00 00 00 00 00 00 00"><anim id="Pardon" target="actor" targetSpec="" />Cooooool costume!<delay20 /> You look just like
+the hero of my favorite TV show from
+when I was little.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I had the action figures,<delay8 /> the toaster,<delay8 />
+the bedsheets,<delay8 /> the toothpaste,<delay8 /> the
+power drill,<delay8 /> the detergent,<delay8 /> the ladle<tag a="110" b="0" /><pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />It's too bad they canceled it after
+only one episode, <tag a="110" b="6" /><tag a="110" b="0" /></message>
 	<message label="401" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="401_01" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Looking good! <delay20 />That must be your
 favorite outfit, huh?<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />I always know it's you when I see

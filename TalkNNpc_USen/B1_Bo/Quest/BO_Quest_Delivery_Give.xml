@@ -1,8 +1,8 @@
 <msbt attribsize="8">
 	<message label="001" attrib="00 00 00 00 00 00 00 00"><anim id="TakenAback" target="actor" targetSpec="" />A delivery? For me?!</message>
 	<message label="002" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" /><delay20 />A huh huh huh, or not!</message>
-	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay20 />Is this the same one I let
-<tag a="115" b="1" arg="0xcd01" /> borrow?</message>
+	<message label="003" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" /><delay20 />Oh!<delay20 /> I wonder if this is what I let
+<tag a="115" b="1" arg="0xcd01" /> borrow<tag a="110" b="0" /></message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00">Huh? <anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />I left something behind?<delay20 />
 What is it?</message>
 	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />You gotta be kidding!<delay20 /> My
@@ -16,7 +16,7 @@ And it's a present for me?
 <anim id="FaintSmile" target="actor" targetSpec="" /><delay20 />Ohhh,<delay8 /><delay8 /> 'cause of the other day?</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Oh man!<delay20 /> It's wrapped up real pretty!<delay20 />
 Feels kinda like I'm getting a gift,
-a huh huh!<pageBreak /><anim id="Eh" target="actor" targetSpec="" /><delay20 />Hang on<tag a="110" b="0" /><delay20 /><anim id="Laughing" target="actor" targetSpec="" /><delay20 /> Is this really the one
+a huh huh!<pageBreak /><anim id="Eh" target="actor" targetSpec="" /><delay20 />Hang on<tag a="110" b="0" /><delay20 /><anim id="Laughing" target="actor" targetSpec="" /><delay20 /> Is this really the thing
 that I lent her?</message>
 	<message label="102" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Wow,<delay20 /> the wrapping is real cute!<delay frames="120" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
 	<message label="103" attrib="00 00 00 00 00 00 00 00">Mmm<tag a="110" b="0" /> Sniff sniff sniff<tag a="110" b="0" /> <anim id="Love" target="actor" targetSpec="" /><delay20 />It smells

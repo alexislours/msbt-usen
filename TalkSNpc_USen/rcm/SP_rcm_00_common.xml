@@ -54,9 +54,10 @@ you <anim id="Nodding" target="subNpc" targetSpec="" />understand.
 since it's Sunday, some items, such
 as turnips, are off the table now<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />Sorry for the trouble, but please
 reselect what you'd like to sell.</message>
-	<message label="025" attrib="00 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />Ah<tag a="110" b="0" /><delay20 /> My apologies, but<tag a="110" b="0" /><delay40 /> We cannot
-accept any <colour id="1" />fake<colour id="65535" /> works of art<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />I'm sorry for the hassle, but please
-reselect what you'd like to sell.</message>
+	<message label="025" attrib="00 00 00 00"><anim id="Worried" target="mainNpc" targetSpec="" /><anim id="Worried" target="subNpc" targetSpec="" />Ah<tag a="110" b="0" /><delay20 /> My apologies, but<tag a="110" b="0" /><delay40 />we cannot
+accept any <colour id="1" />fake<colour id="65535" /> works of art<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" />I'm sorry for the hassle, but can we
+start over exactly where we were
+and pretend this never happened?</message>
 	<message label="031" attrib="02 00 00 00"><anim id="Nodding" target="mainNpc" targetSpec="" /><anim id="FaintSmile" target="subNpc" targetSpec="" /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />!<delay frames="40" />
 <anim id="FaintSmile" target="mainNpc" targetSpec="" />Sure! How about if I offer you
 <tag a="90" b="26" arg="0x0" />?</message>
@@ -312,7 +313,7 @@ I'll give <colour id="1" />twice <colour id="65535" />the usual amount, so<tag a
 <tag a="90" b="24" arg="0x0" />.<delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" /><anim id="QuestionMark" target="subNpc" targetSpec="" /> Is that OK?</message>
 	<message label="122_a" attrib="00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Sold!</message>
 	<message label="122_b" attrib="00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Actually, I'll pass.</message>
-	<message label="131" attrib="04 00 00 00"><tag a="50" b="3" /><tag a="125" b="0" arg="0x0" />?<delay8 /><anim id="Nodding" target="subNpc" targetSpec="" />
+	<message label="131" attrib="04 00 00 00"><tag a="50" b="3" /><tag a="125" b="0" arg="0x200" />?<delay8 /><anim id="Nodding" target="subNpc" targetSpec="" />
 I can sell in singles or in bulk.<delay20 /><anim id="QuestionMark" target="mainNpc" targetSpec="" />
 How many would you like?</message>
 	<message label="131_a" attrib="00 00 00 00">Just 1. (<colour id="1" /><tag a="90" b="12" arg="0x0" /><colour id="65535" />)</message>

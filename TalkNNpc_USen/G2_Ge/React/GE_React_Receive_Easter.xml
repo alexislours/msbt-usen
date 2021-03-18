@@ -31,4 +31,14 @@ because that's how I roll.
 <anim id="EmotEnd" target="actor" targetSpec="" />Hold up a minute, <tag a="110" b="6" />.</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Ah, <delay8 /><tag a="110" b="3" />.<delay20 />
 <anim id="FaintSmile" target="actor" targetSpec="" />Hold on a sec, OK?</message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" /><anim id="Nodding" target="actor" targetSpec="" />I knew this time would come. <delay20 />Ready
+for my <colour id="1" /><tag a="125" b="0" arg="0x200" /><anim id="Hello" target="actor" targetSpec="" /><colour id="65535" />?</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />I'm so glad you remembered to come
+back for them, <tag a="110" b="6" />!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Oops" target="actor" targetSpec="" />Ummm, your pockets are still full.<delay20 />
+That means I can't hand these over
+just yet, <tag a="110" b="5" />.
+<anim id="Hello" target="actor" targetSpec="" />Get yourself sorted, and when you
+have the space, come chat with me,
+and I'll give you those eggs!</message>
 </msbt>

@@ -258,6 +258,32 @@ and you're likely to get a mob.
 I can hear it now: <anim id="Laughing" target="actor" targetSpec="" />"Where's my
 present, Santa <tag a="50" b="3" /><tag a="110" b="1" />?<delay20 />
 Can I have a hula hoop?"</message>
+	<message label="219" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="32" arg="0x6e 0x62 0x72 0x64 0x3e 0x32 0x36 0x31 0x2c 0x63 0x68 0x6e 0x3e 0x32 0x36 0x31 0x2c 0x64 0x75 0x6b 0x3e 0x32 0x36 0x31 0x2c 0x6f 0x73 0x74 0x3e 0x32 0x36 0x31 0x2c 0x70 0x62 0x72 0x3e 0x32 0x36 0x31 0x2c 0x70 0x67 0x6e 0x3e 0x32 0x36 0x31 0x2c 0x65 0x74 0x63 0x3e 0x32 0x36 0x32" /></message>
+	<message label="261" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />Oh my!<delay20 /> You remind me of a young
+me, fresh outta the egg.<delay frames="40" /> <anim id="AbsentMindedness" target="actor" targetSpec="" />Ahh, I was
+such a handsome <tag a="110" b="15" /><tag a="110" b="0" /><pageBreak /><anim id="Serious" target="actor" targetSpec="" />But if I'm bein' fully honest with ya,<delay20 />
+you might actually wear that look
+better!<delay20 /> <anim id="Greeting" target="actor" targetSpec="" />Well done, kiddo!</message>
+	<message label="262" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Y'know, I hate to burst your bubble,<delay20 />
+but dressin' like a bird ain't gonna
+help you fly, <tag a="110" b="6" />.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Sorry, I'm not tryin' to be mean.<delay20 /> It's
+just that the last thing I wanna see
+you do is take a fall you oughtn't.</message>
+	<message label="220" attrib="00 00 00 00 00 00 00 00"><anim id="Smiling" target="actor" targetSpec="" />Look at you!<delay20 /> I had you figured for
+quite the aquanaut, but seein' you
+in that outfit all but confirms it.</message>
+	<message label="221" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />So are you just waking up, or are you
+headin' to bed, <tag a="110" b="6" />?<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />Or maybe you're just a fan of wearing
+nightclothes<tag a="110" b="0" /> And why not?<delay20 /> They're
+awfully comfy<tag a="110" b="0" /></message>
+	<message label="222" attrib="00 00 00 00 00 00 00 00"><anim id="WrySmile" target="actor" targetSpec="" />Oh,<delay8 /> so you think you can dress
+better'n me by gettin' all gussied up
+in designer clothes, <tag a="110" b="6" />?<pageBreak /><anim id="SadSpiral" target="actor" targetSpec="" />Well, you're right.<10_4 /> <anim id="OhGeez" target="actor" targetSpec="" />Or at least, I think
+you are.<delay20 /> I got no fashion sense to
+speak of, so I honestly ain't sure<tag a="110" b="0" /></message>
+	<message label="223" attrib="00 00 00 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />What's with all the Nook Inc. gear?<pageBreak /><anim id="WrySmile" target="actor" targetSpec="" />Hey, I like <colour id="3" />Tom Nook<colour id="65535" /> as much as the
+next <tag a="110" b="15" />,<delay8 /> but that don't mean
+I'd do his advertisin', <tag a="110" b="6" />!</message>
 	<message label="301" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" />My, my, my! <delay8 />You're lookin' ferocious,
 kiddo!<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />Well, I don't want no trouble,<delay8 />
 least of all from you, <tag a="110" b="6" />.</message>
@@ -289,6 +315,21 @@ to get a headache, <tag a="110" b="6" />.</message>
 armor to prove your chivalry, right?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I mean, as far as I'm concerned,<delay8 /><anim id="FaintSmile" target="actor" targetSpec="" />
 you're still plenty noble even in
 shorts and a T-shirt, <tag a="110" b="6" />!</message>
+	<message label="310" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />That's quite a striking look you got
+going there, kiddo.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />I don't know what you're up to,
+but whatever it is,<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />I want in!</message>
+	<message label="311" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />Hold still a sec.<delay20 /> I'm tryin' to figure
+out what's on your shirt<tag a="110" b="0" /><anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />Is that<tag a="110" b="0" /><anim id="Worried" target="actor" targetSpec="" /><tag a="50" b="2" /><tag a="110" b="7" arg="0xcd00" />?<delay20 /> Maybe <tag a="50" b="2" />
+<tag a="135" b="5" arg="0xcd00" />?<delay20 /> Oh!<delay8 /> Is it someone
+<tag a="135" b="8" arg="0xcd00" />?<pageBreak /><anim id="Sighing" target="actor" targetSpec="" />Wow.<delay8 /> I really oughta get my eyes
+checked, <tag a="110" b="6" /><tag a="110" b="0" /></message>
+	<message label="312" attrib="00 00 00 00 00 00 00 00"><colour id="4" /><anim id="Thinking" target="actor" targetSpec="" />There's only one reason I can think
+of why you'd dress that way<tag a="110" b="0" /><pageBreak /><colour id="65535" /><anim id="Hello" target="actor" targetSpec="" />So!<delay20 /> What brings you back to <tag a="90" b="27" />,
+future-<tag a="110" b="3" />?<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />You here to check up on your past
+self?<delay20 /> <anim id="BigSmile" target="actor" targetSpec="" />Well, rest assured that past
+you's doing swell, future-kiddo.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Now run along!<delay20 /> And I'd better not
+hear about you makin' paradoxes,
+got it?<delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />I just swept, <tag a="110" b="6" />.</message>
 	<message label="401" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
 	<message label="401_01" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" />You sure do seem to like that outfit.<delay8 />
 It's no wonder though.<delay20 /> <anim id="Grin" target="actor" targetSpec="" />You wear it

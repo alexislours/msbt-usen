@@ -72,4 +72,54 @@ this face lie?<delay20 /> <anim id="Serious" target="actor" targetSpec="" />No!<
 do with Bunny Day.<pageBreak /><anim id="Laughing" target="actor" targetSpec="" />That or the fish around here have
 some serious explaining to do,
 <tag a="110" b="6" />.<delay frames="50" /><anim id="FaintSmile" target="actor" targetSpec="" /></message>
+	<message label="110" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="110_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It's FINALLY Bunny Day!<delay20 /> We both
+know what that means. <delay20 /><anim id="Nodding" target="actor" targetSpec="" />Time to hunt
+down some eggs, <tag a="110" b="3" />!</message>
+	<message label="110_02" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />The egg hunt is ON! <delay20 />It's Bunny Day,
+and that means it's EGG TIME.<delay20 /> Let's
+get right to it, <tag a="110" b="3" />!</message>
+	<message label="111" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Aha! <delay8 />You're just the person I was
+looking for, <tag a="110" b="3" />.<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />In true "me" fashion, I went a little
+overboard collecting those adorable
+<colour id="1" /><tag a="125" b="0" arg="0x200" /><colour id="65535" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />That means today's your lucky day!<delay20 />
+Want to trade <colour id="1" />3<colour id="65535" /> of my eggs for
+<colour id="1" />3 different eggs<colour id="65535" />, <tag a="110" b="5" />?</message>
+	<message label="111_a" attrib="00 00 00 00 00 00 00 00">Totally!</message>
+	<message label="111_b" attrib="00 00 00 00 00 00 00 00">Nah.</message>
+	<message label="112" attrib="00 00 02 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" />Look who it is!<delay20 /> It's my number-one
+fan, <tag a="110" b="3" />!<pageBreak />How's your egg hunt going? <delay20 /><anim id="ShyBoy" target="actor" targetSpec="" />I'm
+doing<tag a="110" b="0" /><delay8 />well.<delay8 /> Too well, when it comes
+to <colour id="1" /><tag a="125" b="0" arg="0x200" /><colour id="65535" />.<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" />That's why I was woooondering<tag a="110" b="0" /><delay20 />
+if you'd like to trade <colour id="1" />3<colour id="65535" /> of those for
+<colour id="1" />3 different eggs<colour id="65535" />. <delay20 />You do, right?</message>
+	<message label="112_a" attrib="00 00 00 00 00 00 00 00">I sure do!</message>
+	<message label="112_b" attrib="00 00 00 00 00 00 00 00">Not really.</message>
+	<message label="113" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />Yay!<delay8 /> I knew you'd agree!<delay20 /> I can't wait
+to see what type of eggs you're
+going to trade me<tag a="110" b="0" /></message>
+	<message label="114" attrib="00 00 00 00 00 00 00 00">For realsies?! <delay8 /><anim id="HappyDance" target="actor" targetSpec="" />Yaaaay! <delay8 />Let's get this
+thing rolling before you change
+your mind!</message>
+	<message label="116" attrib="00 00 00 00 00 00 00 00"><anim id="HappyDance" target="actor" targetSpec="" />Heehee, thanks for this! <delay20 />Somehow
+the eggs of another are always cuter
+than your own, <tag a="110" b="5" />.</message>
+	<message label="117" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />You can rest easy tonight knowing
+you put a big ol' smile on my face
+today. <delay20 />Thanks so much for the trade!</message>
+	<message label="118" attrib="00 00 00 00 00 00 00 00">Changed your mind?<delay20 /> <anim id="Oops" target="actor" targetSpec="" />Boo, I say!<delay8 />
+Buuut I totes understand.<delay20 /> I'll just
+go and ask someone else.</message>
+	<message label="119" attrib="00 00 00 00 00 00 00 00"><anim id="Sighing" target="actor" targetSpec="" />Awww, that's too bad. <delay20 />But nothing
+can keep this future star down!<delay20 /><anim id="FaintSmile" target="actor" targetSpec="" />
+I'll try asking someone else.</message>
+	<message label="120" attrib="00 00 02 00 00 00 00 00"><anim id="QuestionMark" target="actor" targetSpec="" />So, <colour id="1" />3<colour id="65535" /> <colour id="1" /><tag a="125" b="0" arg="0x200" /><colour id="65535" /> for
+<colour id="1" />3<colour id="65535" /> <colour id="1" /><tag a="125" b="0" arg="0x201" /><colour id="65535" />, right?</message>
+	<message label="120_a" attrib="00 00 00 00 00 00 00 00">Right!</message>
+	<message label="120_b" attrib="00 00 00 00 00 00 00 00">Wrong.</message>
+	<message label="121" attrib="00 00 00 00 00 00 00 00"><anim id="HappyFlower" target="actor" targetSpec="" />Hooray! <delay20 />Let's trade!</message>
+	<message label="122" attrib="00 00 00 00 00 00 00 00">Ohmigosh! <delay8 /><anim id="Laughing" target="actor" targetSpec="" />You're going to laugh,
+but we can't trade because of
+those overflowing pockets of yours.<pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Heehee, you work that out, and
+maybe I'll hit you up again later.</message>
 </msbt>

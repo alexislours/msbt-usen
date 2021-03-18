@@ -79,15 +79,15 @@ that I found as a youngster.
 <anim id="AbsentMindedness" target="actor" targetSpec="" />I used to think it was valuable.<delay frames="40" />
 <anim id="Grin" target="actor" targetSpec="" />Then I grew up and I realized
 that I was right! <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Gahaha!</message>
-	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I'm gonna tell you all about
-MY personal treasure. <delay20 />It's this
-broken radio I got from my pops.
+	<message label="017" attrib="00 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I'm gonna tell you all about MY
+personal treasure. <delay20 />It's this broken
+radio I got from my pops.
 <anim id="AbsentMindedness" target="actor" targetSpec="" />I couldn't ever get any station to
-come in perfectly, but pops and I
+come in perfectly,<delay8 /> but Pops and I
 used to tinker with it all the time.
-<anim id="Hesitate" target="actor" targetSpec="" />Those were the days, kiddo.<delay20 />
-Always take the time to
-appreciate what you have.</message>
+<anim id="Hesitate" target="actor" targetSpec="" />Those were the days, kiddo.<delay20 /> Always
+take the time to appreciate what you
+have, <tag a="110" b="6" />.</message>
 	<message label="019" attrib="14 00 00 01 00 00 00 09"><anim id="QuestionMark" target="actor" targetSpec="" />You know what?<10_4 /> <anim id="OhGeez" target="actor" targetSpec="" />I don't understand
 fashion! <delay20 /><tag a="50" b="3" /><tag a="110" b="5" />!</message>
 	<message label="020" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="1" arg="0x15 0x16 0x17" /></message>
@@ -194,4 +194,37 @@ and <tag a="50" b="2" /><tag a="135" b="5" arg="0xcd02" /> in it!<pageBreak /><a
 at once.<delay20 /> And then I got to thinkin'<tag a="110" b="0" /><delay20 />
 <anim id="Shocked" target="actor" targetSpec="" />How'd THEY know what I wanted?!<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />Online shoppin' ain't for the faint of
 heart<tag a="110" b="0" /><delay8 />or wallet, <tag a="110" b="6" />!</message>
+	<message label="034" attrib="23 00 00 01 00 00 00 09"><anim id="Worried" target="actor" targetSpec="" />Let me learn you somethin' I had
+to figure out the hard way, kiddo<tag a="110" b="0" /><delay20 />
+<anim id="OhGeez" target="actor" targetSpec="" />Don't try to do everything yourself.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />There are some home-improvement
+tasks where it's just easier—and
+much safer—to hire someone else.</message>
+	<message label="035" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="035_01" attrib="24 00 00 00 00 00 00 00"><anim id="Negative" target="actor" targetSpec="" />Take plumbing, for instance. <delay20 />It's all
+a bunch of water and pipes.<delay20 /> Anyone
+can handle that, right?<delay20 /> <anim id="Negative" target="actor" targetSpec="" />Wrong.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />I must've spent weeks measurin'
+and cuttin' and fastenin' to build
+myself a fancy new shower.<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />What happens the first time I turn on
+the water?<delay frames="40" /> <anim id="Frantic" target="actor" targetSpec="" />The showerhead flies off,
+and water blasts into the next room!</message>
+	<message label="035_02" attrib="24 00 00 00 00 00 00 00"><anim id="Worried" target="actor" targetSpec="" />Take electrical work, for example.<delay20 /> I'm
+sure I don't gotta tell you this,<delay20 /> <anim id="Shaking" target="actor" targetSpec="" />but
+workin' with electricity is dangerous!<pageBreak /><anim id="Nodding" target="actor" targetSpec="" />You gotta figure voltage, amperage,
+runnin' wires and conduits<tag a="110" b="0" /><delay20 /><anim id="Serious" target="actor" targetSpec="" />and
+there's danger behind every bit of it!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />I gave it one try.<delay20 /> One!<delay frames="40" /> <anim id="OhGeez" target="actor" targetSpec="" />And, kiddo,
+you'd literally be shocked at how
+easy it is to cause a short circuit.</message>
+	<message label="035_03" attrib="24 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />Take carpentry.<delay20 /> I'm not sure if you've
+ever looked into it,<delay8 /> but there's a LOT
+of math in woodworkin'.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Anyhoo,<delay20 /> one day I got the bright
+idea to build myself a balcony.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Now, I feel I'm fairly handy with a
+calculator,<delay20 /> <anim id="Sighing" target="actor" targetSpec="" />but I messed up so often
+I must've carved up a whole forest!<pageBreak /><anim id="Negative" target="actor" targetSpec="" />And the result looked more "modern
+art" than "balcony."<delay frames="40" /> <anim id="Restless" target="actor" targetSpec="" />And a day later
+it looked more, um<tag a="110" b="0" />"collapsed."</message>
+	<message label="036" attrib="00 00 00 00 00 00 00 00"><anim id="Blushing" target="actor" targetSpec="" />Long story slightly shorter, that little
+episode just about cost me my living
+room, <tag a="110" b="6" />.<pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Take my advice<tag a="110" b="0" /><delay20 /> <anim id="OhGeez" target="actor" targetSpec="" />If you ain't fully
+sure you're up to a task, swallow
+your pride and ask a pro.</message>
 </msbt>

@@ -21,4 +21,14 @@ go find some eggs so I can make a
 pockets are full, <tag a="110" b="5" />?<pageBreak /><anim id="Explain" target="actor" targetSpec="" />Well, the bugs were nice to me, so I
 wanna be nice to you. <delay20 />Go make some
 pocket space and come back, OK?</message>
+	<message label="013" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Guess what?<delay20 /> I was digging in my
+couch, and I found a whooole lotta
+<colour id="1" /><tag a="125" b="0" arg="0x200" /><colour id="65535" />!<anim id="EmotEnd" target="actor" targetSpec="" /><pageBreak />A WHOLE lot.<delay20 /> But now I'm bored of
+the taste, and I don't know what to
+do with 'em, so, um<tag a="110" b="0" /> <anim id="Smiling" target="actor" targetSpec="" />Here!<delay8 /> Have <colour id="1" />5<colour id="65535" />!</message>
+	<message label="014" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />I wonder if anyone else wants
+some.<delay20 /> I'm gonna go ask around!</message>
+	<message label="015" attrib="00 00 00 00 00 00 00 00"><anim id="Eh" target="actor" targetSpec="" /><delay20 />Oh!<delay8 /> Your pockets are full.<delay20 /> <anim id="Restless" target="actor" targetSpec="" />Sooo, uh<tag a="110" b="0" /><delay8 />
+this is awkward.<delay8 /> Can you maybe go
+make some space and come back?</message>
 </msbt>

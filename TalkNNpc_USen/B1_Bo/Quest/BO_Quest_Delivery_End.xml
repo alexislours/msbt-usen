@@ -8,9 +8,9 @@ Alrighty<tag a="110" b="0" />here goes<tag a="110" b="0" /></message>
 <delay20 />For you! <delay frames="40" />A prize for you!</message>
 	<message label="004" attrib="00 00 00 00 00 00 00 00"><anim id="Dance" target="actor" targetSpec="" /><delay frames="60" />Ta-daa!<delay frames="40" /> Inside is<tag a="110" b="0" /><delay frames="40" /><anim id="Shocked" target="actor" targetSpec="" /> <tag a="50" b="3" /><tag a="50" b="2" /><tag a="130" b="0" arg="0xcd01" />!
 <10_4 /><delay20 /><anim id="Oops" target="actor" targetSpec="" />Aw, shoot!<delay frames="40" /> <anim id="FaintSmile" target="actor" targetSpec="" />Maybe next time!</message>
-	<message label="005" attrib="00 00 00 00 00 00 00 00">Here you go! <anim id="Laughing" target="actor" targetSpec="" /><delay20 />A huh huh huh, <delay20 />it's
-the <tag a="125" b="0" arg="0x0" />
-that I just got back!</message>
+	<message label="005" attrib="00 00 00 00 00 00 00 00"><anim id="Laughing" target="actor" targetSpec="" /><delay20 />A huh huh! <delay20 />I gave you <tag a="50" b="1" />
+<tag a="125" b="0" arg="0x0" /> I just
+got back!</message>
 	<message label="006" attrib="00 00 00 00 00 00 00 00">Oh, hey. <delay20 />I guess I left behind <tag a="50" b="2" />
 <tag a="125" b="0" arg="0x0" />!<delay frames="40" /> I'll give
 it to you! <delay20 />You're a winner!</message>
@@ -74,8 +74,7 @@ I'm glad I got my<tag a="110" b="0" /> <delay20 />Hey. <delay20 />Hang on<tag a=
 <anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />Why is this already open?</message>
 	<message label="203_a" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I'm SO sorry...</message>
 	<message label="203_b" attrib="00 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />Um, I...have no idea?</message>
-	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Aha" target="actor" targetSpec="" /><delay20 />A gift? <delay20 />For me? <delay20 />What is it?<10_4 />
-<tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<10_4 />
+	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="Serious" target="actor" targetSpec="" /><delay20 />A gift? <delay20 />For me?<pageBreak /><anim id="Aha" target="actor" targetSpec="" /><delay20 /><tag a="50" b="3" /><tag a="50" b="2" /><tag a="125" b="0" arg="0x0" />?<delay20 />
 <anim id="TakenAback" target="actor" targetSpec="" /><delay20 />From <tag a="115" b="1" arg="0xcd01" />?!<pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" /><delay20 />Huh. I wonder why?<delay20 /><anim id="EmotEnd" target="actor" targetSpec="" /> And why ask
 you to do it?<delay20 /> <anim id="HappyFlower" target="actor" targetSpec="" /><delay20 />Man, so many
 surprises and mysteries!<delay frames="120" /><anim id="EmotEnd" target="actor" targetSpec="" /></message>
@@ -124,9 +123,10 @@ here, <tag a="110" b="5" />!</message>
 they're unwrapped.<delay40 /> <anim id="Laughing" target="actor" targetSpec="" />It's kinda
 embarrassing.<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />Thanks for bringing this by! It's
 always real cool to see you!</message>
-	<message label="227" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I'm thankful for the gift.<delay20 /> I just feel,
-like, I dunno<tag a="110" b="0" /><delay20 />Like, not much effort
-went into it? But<tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Ah, whatever! <anim id="BigSmile" target="actor" targetSpec="" />It's the thought that counts! <delay20 />And, hey, it's always real
+	<message label="227" attrib="00 00 00 00 00 00 00 00"><anim id="Explain" target="actor" targetSpec="" />I'm thankful for the gift.<delay20 /> I just feel
+like<tag a="110" b="0" />I dunno,<delay8 /> like not much effort
+went into it? But<tag a="110" b="0" /><pageBreak /><anim id="BigSmile" target="actor" targetSpec="" />Ah, whatever! <anim id="BigSmile" target="actor" targetSpec="" />It's the thought that
+counts! <delay20 />And, hey, it's always real
 cool to see you, <tag a="110" b="5" />!</message>
 	<message label="228" attrib="00 00 00 00 00 00 00 00"><anim id="Nodding" target="actor" targetSpec="" />Hey, <delay8 />whatever, y'know?<delay frames="40" /> As long as I
 can make up with <tag a="115" b="1" arg="0xcd01" />,

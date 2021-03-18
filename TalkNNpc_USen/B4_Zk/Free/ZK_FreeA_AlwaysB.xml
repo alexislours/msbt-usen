@@ -169,4 +169,36 @@ By the restaurant where I ordered
 	<message label="065" attrib="00 00 00 00 00 00 00 00"><anim id="OhGeez" target="actor" targetSpec="" />Actually, I don't think I could narrow
 it down to just one. <delay frames="40" /><anim id="SmugFace" target="actor" targetSpec="" />I've received
 TENS of compliments over the years.</message>
+	<message label="067" attrib="44 00 00 01 00 00 00 09"><anim id="Hesitate" target="actor" targetSpec="" />Hey, so<tag a="110" b="0" /> Do you want to hear
+a secret?<10_4 /> <anim id="BigSmile" target="actor" targetSpec="" /><tag a="50" b="3" /><tag a="110" b="5" />, of course
+you do! <delay frames="40" /><anim id="Scheming" target="actor" targetSpec="" />Listen up<tag a="110" b="0" /></message>
+	<message label="068" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="3" arg="0x45 0x46 0x47 0x48 0x49" /></message>
+	<message label="069" attrib="4a 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I'm heir to a huge piece of land!<delay frames="40" /><anim id="Explain" target="actor" targetSpec="" /> It's
+very sandy, and it's in a location that
+realtors have described as "OK-ish."<pageBreak /><anim id="SmugFace" target="actor" targetSpec="" />But it's mine, all mine! <delay20 />Someday I'll
+rule over it like a kind desert king.<delay20 />
+<anim id="Nodding" target="actor" targetSpec="" />Desserts for everyone in the desert!</message>
+	<message label="070" attrib="4a 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I come from a long line of ice
+wizards! <10_4 /><anim id="Eh" target="actor" targetSpec="" />What's an ice wizard, you
+ask? <delay20 /><anim id="OhGeez" target="actor" targetSpec="" />It's a wizard with ice powers!<pageBreak /><anim id="ColdChill" target="actor" targetSpec="" />Brrr! <delay frames="40" />Are you getting cold just
+looking at me? <delay20 /><anim id="Laughing" target="actor" targetSpec="" />That's one of my
+powers, <tag a="110" b="5" />!</message>
+	<message label="071" attrib="4a 00 00 00 00 00 00 00"><anim id="EmotEnd" target="actor" targetSpec="" />I invented the food you know as
+<tag a="135" b="3" arg="0xcd00" />!<delay20 /> <anim id="Explain" target="actor" targetSpec="" />The original name
+for it was <tag a="110" b="10" /> chow.<pageBreak /><anim id="Thinking" target="actor" targetSpec="" />But I focus grouped it, and
+<tag a="135" b="3" arg="0xcd00" /> won out.<delay frames="40" /> <anim id="Negative" target="actor" targetSpec="" />I still
+can't believe it.</message>
+	<message label="072" attrib="4a 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I can do magic! <delay20 />Real magic! <delay20 />First I
+have to prepare. <delay20 /><anim id="Thinking" target="actor" targetSpec="" />Just a moment<tag a="110" b="0" /><pageBreak /><anim id="EmotEnd" target="actor" targetSpec="" />Now<tag a="110" b="0" />I'll whisper the incantation<tag a="110" b="0" />
+<tag a="50" b="3" /><tag a="110" b="5" /><tag a="110" b="0" /> <tag a="50" b="3" /><tag a="110" b="5" /><tag a="110" b="0" /><pageBreak /><anim id="QuestionMark" target="actor" targetSpec="" />Did it work?<delay8 /> Am I invisible?</message>
+	<message label="073" attrib="4a 00 00 00 00 00 00 00"><anim id="SmugFace" target="actor" targetSpec="" />I can talk to toys AND hear their
+responses!<delay20 /><anim id="Nodding" target="actor" targetSpec="" /> I think it's because I'm
+so in touch with my inner child.<pageBreak />Real talk though<tag a="110" b="0" /><anim id="OhGeez" target="actor" targetSpec="" />most of them are
+NOT that interesting to have a
+convo with, <tag a="110" b="5" />.</message>
+	<message label="074" attrib="00 00 00 00 00 00 00 00"><anim id="Shocked" target="actor" targetSpec="" />Oh, <tag a="110" b="5" />, I'm KIDDING!<delay20 />
+<anim id="QuestionMark" target="actor" targetSpec="" />You didn't believe any of
+that, did you?<pageBreak /><anim id="Hesitate" target="actor" targetSpec="" /><tag a="110" b="0" />Because if you did, that means
+my acting lessons are finally paying
+off. <delay20 /><anim id="Laughing" target="actor" targetSpec="" />Ha HA!</message>
 </msbt>

@@ -205,4 +205,23 @@ around 3:30 AM<tag a="110" b="0" /><tag a="110" b="6" />.</message>
 	<message label="026_03" attrib="00 00 00 00 00 00 00 00"><anim id="Thinking" target="actor" targetSpec="" />Maybe the TV was showing somethin'
 I dreamed? <delay frames="50" /><anim id="Restless" target="actor" targetSpec="" />Hmm. I don't think it
 lasted more than about a minute<tag a="110" b="0" /></message>
+	<message label="027" attrib="6b 00 00 01 00 00 00 0a"><anim id="QuestionMark" target="actor" targetSpec="" />Did you happen to notice a REALLY
+good smell the other day? <delay8 />'Cause I
+sure did! <delay8 />Wanna know what it was?</message>
+	<message label="107" attrib="00 00 00 00 00 00 00 00"><tag a="60" b="20" /></message>
+	<message label="107_01" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It was <tag a="110" b="11" arg="0xcd00" />'s shampoo!<pageBreak /><anim id="Love" target="actor" targetSpec="" />It smelled sooo good! <delay8 />Like<tag a="110" b="0" />like
+<tag a="110" b="7" arg="0xcd01" /> and <tag a="135" b="7" arg="0xcd00" />!<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />Amazing! <delay20 />Science made a shampoo
+that smells like <tag a="135" b="7" arg="0xcd00" /><tag a="110" b="0" /><delay20 />
+<anim id="Greeting" target="actor" targetSpec="" />Way to go, science!</message>
+	<message label="107_02" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It was <tag a="50" b="2" /><tag a="135" b="2" arg="0xcd00" /> that
+<tag a="110" b="11" arg="0xcd00" /> had.<pageBreak /><anim id="AbsentMindedness" target="actor" targetSpec="" />The smell was so calming and gentle,<delay20 />
+like the whole world's most delicate
+cheese puff.<delay frames="40" /> <anim id="Serious" target="actor" targetSpec="" />I had to have one!<pageBreak /><anim id="Blushing" target="actor" targetSpec="" />Uh<tag a="110" b="0" />a cheese puff, I mean. <delay8 />Not <tag a="50" b="2" />
+<tag a="135" b="2" arg="0xcd00" />, <tag a="110" b="6" /><tag a="110" b="0" /></message>
+	<message label="107_03" attrib="00 00 00 00 00 00 00 00"><anim id="BigSmile" target="actor" targetSpec="" />It was a great, big <tag a="110" b="7" arg="0xcd00" /> that
+<tag a="110" b="11" arg="0xcd00" /> was eating.<pageBreak /><anim id="Confused" target="actor" targetSpec="" />The smell made me sooo hungry,<delay8 /> so
+I shook some trees and got myself
+a whole bunch of <tag a="110" b="7" arg="0xcd01" />.<pageBreak /><anim id="OhGeez" target="actor" targetSpec="" />I don't know how many <tag a="110" b="7" arg="0xcd01" />
+I ate,<delay20 /> but now all my burps taste
+like <tag a="110" b="7" arg="0xcd01" />!<delay20 /> <anim id="Love" target="actor" targetSpec="" />It's the best!</message>
 </msbt>

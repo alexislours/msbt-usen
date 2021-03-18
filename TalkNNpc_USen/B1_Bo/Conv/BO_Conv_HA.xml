@@ -75,11 +75,11 @@ I don't work out, <tag a="110" b="5" />!</message>
 It will be good for you! <pageBreak /><anim id="EmotEnd" target="mainNpc" targetSpec="" /><anim id="Shocked" target="actor" targetSpec="" />Hey, hold on now.<delay frames="40" />
 That "<tag a="110" b="5" />" you just said.
 <anim id="Pardon" target="actor" targetSpec="" />That's pretty awesome!<anim id="Eh" target="mainNpc" targetSpec="" /><anim id="EmotEnd" target="mainNpc" targetSpec="" /></message>
-	<message label="203" attrib="00 00 00 00 00 00 00 00">"<tag a="110" b="5" />" <tag a="110" b="0" /><delay20 />My catchphrase?<anim id="Nodding" target="subNpc" targetSpec="" /><delay frames="40" />
+	<message label="203" attrib="00 00 00 00 00 00 00 00">"<tag a="50" b="3" /><tag a="110" b="5" />." <tag a="110" b="0" /><delay20 />My catchphrase?<anim id="Nodding" target="subNpc" targetSpec="" /><delay frames="40" />
 <anim id="Blushing" target="actor" targetSpec="" />Huh huh! You think so?<delay frames="40" /> I've never
 been told that before!<pageBreak /><anim id="Smiling" target="actor" targetSpec="" />If you like "<tag a="110" b="6" />"
-so much, you can use 
-it too, <anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd01" />!<anim id="Shocked" target="subNpc" targetSpec="" /> <anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
+so much, you can use
+it too, <anim id="Greeting" target="actor" targetSpec="" /><tag a="110" b="31" arg="0xcd01" />!<anim id="Shocked" target="subNpc" targetSpec="" /><anim id="EmotEnd" target="subNpc" targetSpec="" /></message>
 	<message label="204" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="mainNpc" targetSpec="" />Huh, really?!<delay frames="40" /> <anim id="EmotEnd" target="actor" targetSpec="" />I've never fired off
 someone else's catchphrase before.
 <delay20 /><anim id="BigSmile" target="actor" targetSpec="" />Let's see how it goes.<pageBreak /><anim id="Serious" target="actor" targetSpec="" />Alright, then<tag a="110" b="0" /><delay frames="40" />

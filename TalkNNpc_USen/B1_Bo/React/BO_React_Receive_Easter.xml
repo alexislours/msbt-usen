@@ -21,4 +21,12 @@ they the best? <delay20 />Here, take it.</message>
 	<message label="100" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Hey, <tag a="110" b="3" />! <delay20 />Hang on.</message>
 	<message label="101" attrib="00 00 00 00 00 00 00 00"><anim id="FaintSmile" target="actor" targetSpec="" />Yay, it's <tag a="110" b="3" />!<delay20 />
 One sec<tag a="110" b="0" /></message>
+	<message label="200" attrib="00 00 00 00 00 00 00 00"><anim id="Greeting" target="actor" targetSpec="" />Hi again, <tag a="110" b="3" />!<delay20 /> Back
+for my <colour id="1" /><tag a="125" b="0" arg="0x200" /><colour id="65535" />?</message>
+	<message label="201" attrib="00 00 00 00 00 00 00 00"><anim id="ShyBoy" target="actor" targetSpec="" />Whew!<delay8 /> I'm so glad to get rid of
+those.<delay8 /> Plus I bet you'll do something
+cool with them.<delay20 /> <anim id="Smiling" target="actor" targetSpec="" />Like eat 'em!</message>
+	<message label="202" attrib="00 00 00 00 00 00 00 00"><anim id="Restless" target="actor" targetSpec="" />Uh<tag a="110" b="0" /><delay8 />this is still awkward, 'cause your
+pockets are still too full.<delay frames="40" /> <anim id="Confused" target="actor" targetSpec="" />You gotta
+make room for <colour id="1" />5<colour id="65535" /> of these!<delay20 /> C'mooon!</message>
 </msbt>

@@ -289,6 +289,8 @@ airport counter.</message>
 	<message label="1124_a" attrib="01 00">Close</message>
 	<message label="1125" attrib="01 09">You can't place orders at this time.</message>
 	<message label="1125_a" attrib="01 00">Close</message>
+	<message label="1126" attrib="06 09">You cannot order this product.</message>
+	<message label="1126_a" attrib="01 00">Close</message>
 	<message label="1201" attrib="08 00">Are you sure you want to delete
 <colour id="1" /><tag a="115" b="3" arg="0xcd00" /><colour id="65535" />?</message>
 	<message label="1201_a" attrib="01 00">Actually, no.</message>
@@ -1032,6 +1034,10 @@ selection?</message>
 	<message label="2450_b" attrib="01 00">Select Again</message>
 	<message label="2446_a" attrib="01 00">Back to Menu</message>
 	<message label="2446_b" attrib="01 00">Redo</message>
+	<message label="2451" attrib="08 00">Are you done using the
+Custom Designs Portal?</message>
+	<message label="2451_a" attrib="01 00">No, not yet!</message>
+	<message label="2451_b" attrib="01 00">Yes, close it.</message>
 	<message label="2501" attrib="01 09">Each player can send up to 2
 messages per day online through
 Nook Shopping.</message>
@@ -1124,6 +1130,9 @@ upon redemption.<colour id="65535" /></message>
 vanity <colour id="65535" />with new eye-color choices!
 <colour id="0" />Book will be printed immediately
 upon redemption.<colour id="65535" /></message>
+	<message label="3025" attrib="01 00">Adds new items you can create with
+Pro designs to your <colour id="1" />Custom Designs
+<colour id="65535" />app. <colour id="0" />App will be updated immediately.<colour id="65535" /></message>
 	<message label="3026" attrib="01 00">Learn about a variety of Reactions
 that'll spice up your island life.
 <colour id="0" />Book will be printed immediately
@@ -1132,6 +1141,10 @@ upon redemption.<colour id="65535" /></message>
 on at a <colour id="1" />mirror <colour id="65535" />or <colour id="1" />vanity<colour id="65535" />!
 <colour id="0" />Book will be printed immediately
 upon redemption.<colour id="65535" /></message>
+	<message label="3028" attrib="01 00">This will allow you to access the
+<colour id="1" />Custom Designs Portal<colour id="65535" /> from your
+<colour id="1" />Custom Designs <colour id="65535" />app.
+<colour id="0" />App will be updated immediately.<colour id="65535" /></message>
 	<message label="5001" attrib="01 00"><colour id="1" />Camera<colour id="65535" />
 Take pictures using various
 filters and effects.<pageBreak /><colour id="0" />The pictures will be saved to the
@@ -1204,6 +1217,22 @@ Custom designs you did not make
 are marked with <colour id="0" /><colour id="65535" />.<pageBreak />You cannot edit custom designs with
 <colour id="0" /><colour id="65535" />. If you want to use that design slot,
 you'll have to delete that design first.</message>
+	<message label="5054" attrib="01 00"><colour id="1" />Pro Designs<colour id="65535" />
+Thank you for upgrading your
+<colour id="1" />Custom Designs <colour id="65535" />app again!<pageBreak />You can now create Pro designs
+for face-cutout standees, handheld
+flags, umbrellas, and uchiwa fans.<pageBreak />Plus, you now have 50 additional
+slots for both regular custom
+designs and Pro designs!<pageBreak />We hope you enjoy creating fun, new
+Pro item designs with this expanded
+functionality!</message>
+	<message label="5055" attrib="01 00">Your <colour id="1" />Custom Designs<colour id="65535" /> app can now
+access the <colour id="1" />Custom Designs Portal<colour id="65535" />.
+The designs of the world are at your
+fingertips anytime, day or night!
+<colour id="0" />Please note that you must have
+an active Nintendo Switch Online
+membership to use this feature.<colour id="65535" /></message>
 	<message label="5061" attrib="01 00"><colour id="1" />Map<colour id="65535" />
 Check the map for your
 current location.<pageBreak />You can also press <colour id="1" /><colour id="65535" /> to change
@@ -1441,24 +1470,24 @@ other items and put them in storage.</message>
 everyone you are playing with.<pageBreak />You can also use the <colour id="1" />Chat Log<colour id="65535" /> app on
 your NookPhone to see past messages.</message>
 	<message label="5301" attrib="0e 09">During <colour id="1" />Party Play<colour id="65535" />, changes made to
-custom designs you're wearing will
+custom designs you're using will
 not be shown automatically.
 
 To show off the changes to a
-custom design, select the updated
-design and choose <colour id="1" />Wear<colour id="65535" />.</message>
+custom design, please select
+the design again.</message>
 	<message label="5302" attrib="0e 09">You have saved over a custom design
-that you are currently wearing.
+that you are currently using.
 
 To show off the changes to a
-custom design, select the updated
-design and choose <colour id="1" />Wear<colour id="65535" />.</message>
+custom design, please select
+the design again.</message>
 	<message label="5302_01" attrib="0e 09">You saved over a custom design
-that you're currently wearing.
+that you're currently using.
 
-If you want to wear the new design,
-please select it and choose <colour id="1" />Wear
-<colour id="65535" />after you leave the dream.</message>
+To show off the changes to a custom
+design, please select the design
+again after leaving the dream.</message>
 	<message label="5303" attrib="01 09">You have registered a custom design
 to a transformation outfit. The design
 on the outfit will not disappear even if
